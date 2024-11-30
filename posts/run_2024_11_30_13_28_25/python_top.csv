@@ -1,0 +1,213 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,What are some really awesome projects/channels you have encountered so far in YouTube?,"What are some really awesome projects/channels you have encountered so far in YouTube? Looking for some ideas to work on for a long time now. 
+
+Doing same automation and using same libraries, I am feeling kinda bored now. Need some fresh ideas.",ElasticMusk,1h2quqa,https://reddit.com/r/Python/comments/1h2quqa/what_are_some_really_awesome_projectschannels_you/,https://www.reddit.com/r/Python/comments/1h2quqa/what_are_some_really_awesome_projectschannels_you/,2024-11-29 17:25:39,71,0.87,71,0,29,0,0,False,False,True,False,False,Discussion,self,t3_1h2quqa
+Python,YTSage: A Modern YouTube Downloader with a Stunning PyQt6 Interface!,"**What My Project Does:**  
+**[YTSage](https://github.com/oop7/YTSage)** is a modern YouTube downloader designed for simplicity and functionality. With a sleek PyQt6 interface, it allows users to:  
+- 🎥 Download videos in various qualities with automatic audio merging.  
+- 🎵 Extract audio in multiple formats.  
+- 📝 Fetch both manual and auto-generated subtitles.  
+- ℹ️ View detailed video metadata (e.g., views, upload date, duration).  
+- 🖼️ Preview video thumbnails before downloading.  
+
+---
+
+**Target Audience:**  
+YTSage is ideal for:  
+- Casual users who want an easy-to-use video and audio downloader.  
+- Developers looking for a robust yt-dlp-based tool with a clean GUI.  
+- Educators and content creators who need subtitles or metadata for their projects.  
+
+---
+
+**Comparison with Existing Alternatives:**  
+- **vs yt-dlp**: While yt-dlp is powerful, it operates through the command line. YTSage simplifies the process with an intuitive graphical interface.  
+- **vs other GUI downloaders**: Many alternatives lack modern design or features like subtitle support and metadata display. YTSage bridges this gap with its PyQt6-powered interface and advanced functionality.  
+
+---
+
+**Getting Started:**  
+Download the pre-built executable from the [Releases](https://github.com/oop7/YTSage/releases) page – no installation required! For developers, source code and build instructions are available in the repository.
+
+---
+
+**Screenshots:**  
+[Main Interface](https://github.com/user-attachments/assets/0dc04ecf-082e-458a-acfe-2c5482d36de2)  
+*Main interface with video metadata and thumbnail preview*  
+
+[Subtitle Options](https://github.com/user-attachments/assets/b001ceb5-5446-4b56-b00c-b578814e2cf0)  
+*Support for both manual and auto-generated subtitles*  
+
+---
+
+**Feedback and Contributions:**  
+I’d love your thoughts on how to make YTSage better! Contributions are welcome on GitHub.  
+
+🔗 [GitHub Repository](https://github.com/oop7/YTSage)",NO-N_A_M_E,1h2ta56,https://reddit.com/r/Python/comments/1h2ta56/ytsage_a_modern_youtube_downloader_with_a/,https://www.reddit.com/r/Python/comments/1h2ta56/ytsage_a_modern_youtube_downloader_with_a/,2024-11-29 19:10:09,46,0.69,46,0,67,0,0,False,False,True,False,False,Showcase,self,t3_1h2ta56
+Python,A tutorial on how to create Web Apps using only Python,"Hey everyone! I created an hour-long tutorial on creating a Web App using only Python with Taipy, an open-source Python library. It covers visual elements, interactions, styling, multiple pages, and it touches on authentication and deployment.
+
+Feel free to take a look here:  
+[https://youtu.be/4F-266YnTkM?si=qGDra6c68\_jz6ZBK](https://youtu.be/4F-266YnTkM?si=qGDra6c68_jz6ZBK)",Alyx1337,1h32v2g,https://reddit.com/r/Python/comments/1h32v2g/a_tutorial_on_how_to_create_web_apps_using_only/,https://www.reddit.com/r/Python/comments/1h32v2g/a_tutorial_on_how_to_create_web_apps_using_only/,2024-11-30 02:53:31,20,0.76,20,0,1,0,0,False,False,True,False,False,Tutorial,self,t3_1h32v2g
+Python,"Web Scraping Social Media Profiles [ X, Instagram, Tiktok, Youtube ]","Hi everyone!
+
+I’ve created a script for scraping public social media accounts for work purposes. I’ve wrapped it up, formatted it, and created a repository for anyone who wants to use it.
+
+# What My Project Does
+The main focus of this project is to scrape data from profiles and their posts. For example:
+- In my job, I’ve automated it to run daily for our social media profiles, storing the data for later analysis.
+- A firend of mine wanted to download all the thumbnails of a youtube channel.
+
+# How it works
+The script uses Playwright to intercept requests and clean up the data. It also includes a second part that converts images to Base64 encoding, which is useful when image URLs expire or cannot be displayed directly in an `HTML img tag`. For YouTube, it uses the API v3, as it's straightforward to obtain an API key.
+
+I believe the script is easy to use, and you can quickly adapt it to suit your needs. Be sure to check out the README for more details!
+ 
+# Target Audience
+This tool is for anyone who needs to scrape social media data. The code is simple enough to copy, modify, and integrate into your project.
+
+# Comparison
+I haven’t extensively researched if there are better solutions out there. However, you can consider using libraries like Instaloader or Twitter-scraper for similar functionality.
+
+# Finally
+I’d love to hear your thoughts and any feedback you have.
+
+# Links
+- https://github.com/luciomorocarnero/scraping_media",Lcrack753,1h2o2n5,https://reddit.com/r/Python/comments/1h2o2n5/web_scraping_social_media_profiles_x_instagram/,https://www.reddit.com/r/Python/comments/1h2o2n5/web_scraping_social_media_profiles_x_instagram/,2024-11-29 15:21:13,14,0.76,14,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h2o2n5
+Python,Best way to pull text from a picture of a table?,"Best way to pull text from a picture of a table?
+
+I've tried tesseract but it is not performing well. It extracts the data very messily, incompletely, and it comes out disorganized and disconnected.
+
+I have an image of a table Im trying to convert to an excel sheet. I need it to pull the info from each cell (accurately) and organize it by row. The data includes both numbers and letters.
+
+Is there an easier way or better suited tool than tesseract?",phatBleezy,1h314gl,https://reddit.com/r/Python/comments/1h314gl/best_way_to_pull_text_from_a_picture_of_a_table/,https://www.reddit.com/r/Python/comments/1h314gl/best_way_to_pull_text_from_a_picture_of_a_table/,2024-11-30 01:18:59,10,0.78,10,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1h314gl
+Python,Short-Circuiting in Python,"Here is my article on [Short-Circuiting in Python](https://nolowiz.com/short-circuiting-in-python/) . It discusses what is short-circuiting with examples, and also discusses the different advantages of using short-circuiting.",simpleuserhere,1h30nsp,https://reddit.com/r/Python/comments/1h30nsp/shortcircuiting_in_python/,https://www.reddit.com/r/Python/comments/1h30nsp/shortcircuiting_in_python/,2024-11-30 00:55:38,4,0.55,4,0,8,0,0,False,False,True,False,False,Tutorial,self,t3_1h30nsp
+Python,Saturday Daily Thread: Resource Request and Sharing! Daily Thread,"# Weekly Thread: Resource Request and Sharing 📚
+
+Stumbled upon a useful Python resource? Or are you looking for a guide on a specific topic? Welcome to the Resource Request and Sharing thread!
+
+## How it Works:
+
+1. **Request**: Can't find a resource on a particular topic? Ask here!
+2. **Share**: Found something useful? Share it with the community.
+3. **Review**: Give or get opinions on Python resources you've used.
+
+## Guidelines:
+
+* Please include the type of resource (e.g., book, video, article) and the topic.
+* Always be respectful when reviewing someone else's shared resource.
+
+## Example Shares:
+
+1. **Book**: [""Fluent Python""](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) \- Great for understanding Pythonic idioms.
+2. **Video**: [Python Data Structures](https://www.youtube.com/watch?v=pkYVOmU3MgA) \- Excellent overview of Python's built-in data structures.
+3. **Article**: [Understanding Python Decorators](https://realpython.com/primer-on-python-decorators/) \- A deep dive into decorators.
+
+## Example Requests:
+
+1. **Looking for**: Video tutorials on web scraping with Python.
+2. **Need**: Book recommendations for Python machine learning.
+
+Share the knowledge, enrich the community. Happy learning! 🌟",AutoModerator,1h2zjp4,https://reddit.com/r/Python/comments/1h2zjp4/saturday_daily_thread_resource_request_and/,https://www.reddit.com/r/Python/comments/1h2zjp4/saturday_daily_thread_resource_request_and/,2024-11-30 00:00:19,4,0.76,4,0,1,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h2zjp4
+Python,Tech Events @ Europe,"In the repository [https://github.com/ortolanph/tech-events-europe](https://github.com/ortolanph/tech-events-europe) there is a listing of events for Europe for this year (I know that's only Portugal, but this is what I have done for now). If you want to contribute to next year's event, just follow the rules on the site.
+
+Thanks!",ortolanph,1h3bhgl,https://reddit.com/r/Python/comments/1h3bhgl/tech_events_europe/,https://www.reddit.com/r/Python/comments/1h3bhgl/tech_events_europe/,2024-11-30 12:23:50,3,1.0,3,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h3bhgl
+Python,Any channel or playlist that offers the same kinda content as this. ,"https://youtube.com/playlist?list=PL2W-cwk5hZgSpoezKtzlTMcrLqNHmaEP3&amp;si=0KFoBSk8YlgYqWNt
+
+I've seen many channels but nobody offers this kinda content. They be just clickbaiting or showing random ahh content. ",Anonymous_0385,1h34xb7,https://reddit.com/r/Python/comments/1h34xb7/any_channel_or_playlist_that_offers_the_same/,https://www.reddit.com/r/Python/comments/1h34xb7/any_channel_or_playlist_that_offers_the_same/,2024-11-30 04:51:39,3,0.67,3,0,0,0,0,False,False,True,False,False,Resource,self,t3_1h34xb7
+Python,Generate Rust code for SymPy expressions with Symars.,"# What My Project Does
+
+SymPy's Rust code generator has always been broken, generating invalid rust code.
+
+I am trying to port some numerical computation pipeline from C++ to rust and tried to find a tool that generates code from symbol representations for me, but in vain after extensive search.
+
+So I made one myself, given that coding up from scratch is way easier than having to read existing SymPy code and improve it : )
+
+# Target Audience
+
+Numerical computation, code generation users. If this is what you need, give it a try! You can always raise issues if you find bugs, or if you believe wrong code is generated.
+
+## [Github link](https://github.com/Da1sypetals/Symars)
+
+## [PyPI link](https://pypi.org/project/symars/)
+
+(Name is picked arbitrarily)
+
+Example:
+```python
+import sympy as sp
+from symars import GenScalar, DType
+from sympy import S
+
+expr = sp.Abs(
+    sp.sin(
+        sp.log(a * 14.1444)
+        + sp.Pow(c - a, sp.Rational(1, 4))
+        + sp.Rational(3, 5)
+        + (sp.Pow(sp.Rational(55, 13), S.Exp1))
+        - S.EulerGamma
+    )
+    + sp.exp(sp.sqrt(b + sp.Pow(c - a, sp.Rational(1, 3) + S.TribonacciConstant)))
+) - sp.tanh(
+    sp.pi
+    * sp.cosh(c)
+    * (sp.sinc((a + b - c) * a / 2.1123) * sp.cbrt(sp.Abs((d / e) + sp.log(f * g - h))))
+)
+
+gen = GenScalar(DType.F64, precision_digit=15, debug=False)
+
+rust_code = gen.generate_func(""compute"", expr)
+
+print(rust_code)
+```
+
+
+Generated code: (after `cargo fmt`)
+```rust
+#[inline]
+pub fn compute(a: f64, b: f64, c: f64, d: f64, e: f64, f: f64, g: f64, h: f64) -&gt; f64 {
+    ((-(((3.14159265358979_f64)
+        * (((((d) * ((e).recip())) + (((-(h)) + ((f) * (g))).ln())).abs()).cbrt())
+        * ((c).cosh())
+        * (if ((0.473417601666430_f64) * (a) * ((a) + (b) + (-(c)))).abs() == 0.0_f64 {
+            1.0_f64
+        } else {
+            ((((0.473417601666430_f64) * (a) * ((a) + (b) + (-(c)))).sin())
+                / ((0.473417601666430_f64) * (a) * ((a) + (b) + (-(c)))))
+        }))
+    .tanh()))
+        + ((((((b) + (((c) + (-(a))).powf(((0.333333333333333_f64) + (1.83928675521416_f64)))))
+            .sqrt())
+        .exp())
+            + (((0.600000000000000_f64)
+                + ((4.23076923076923_f64).powf(2.71828182845905_f64))
+                + (((c) + (-(a))).powf(0.250000000000000_f64))
+                + (-(0.577215664901533_f64))
+                + (((14.1444000000000_f64) * (a)).ln()))
+            .sin()))
+        .abs()))
+}
+
+```
+
+# Comparison
+
+Did not find other project doing similar things.",da1sypetals,1h3bn1n,https://reddit.com/r/Python/comments/1h3bn1n/generate_rust_code_for_sympy_expressions_with/,https://www.reddit.com/r/Python/comments/1h3bn1n/generate_rust_code_for_sympy_expressions_with/,2024-11-30 12:33:10,0,0.5,0,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h3bn1n
+Python,spyder for macbook,"I'm rather new to python. I run some python codes on a macbook with apple chips.
+
+  
+I have a new machine and installed spyder. while i can run my codes, but there is a blurred app icon called ""REQUIRED"" after installing spyder. Is that something I have to resolve? Is spyder a good thing as I see some errors with it although it's a clean install.",5weather,1h38a61,https://reddit.com/r/Python/comments/1h38a61/spyder_for_macbook/,https://www.reddit.com/r/Python/comments/1h38a61/spyder_for_macbook/,2024-11-30 08:32:35,0,0.43,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h38a61
+Python,Python Online IDE,"# 1. What My Project Does
+
+This project is a sample application that integrates a language model to generate code and provides an interface for users to execute it.
+
+# 2. Target Audience
+
+It is built for Python enthusiasts. The purpose of integrating AI is to allow students to query the AI and practice coding at the same time. It is not meant for production use.
+
+It can be helpful for teachers and tutors as well.
+
+# 3. Comparison
+
+It differs in two key ways. First, it automatically downloads the required modules based on the generated code and allows users to upload files. While it is a toy project, Google Colab already provides a 100000 times better alternative for this type of IDE. However, this project can be adapted for other programming languages, as the code execution occurs on the local machine
+
+Code: [https://github.com/MuhammadMuneeb007/PythonOnlineIDE/](https://github.com/MuhammadMuneeb007/PythonOnlineIDE/)",Muneeb007007007,1h2rmkt,https://reddit.com/r/Python/comments/1h2rmkt/python_online_ide/,https://www.reddit.com/r/Python/comments/1h2rmkt/python_online_ide/,2024-11-29 17:59:21,0,0.29,0,0,8,0,0,False,False,True,False,False,Showcase,self,t3_1h2rmkt
