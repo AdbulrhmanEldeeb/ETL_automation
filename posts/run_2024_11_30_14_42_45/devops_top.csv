@@ -1,0 +1,67 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,How often do you edit your CI/CD?,Do you frequently edit your CI/CD pipelines? If you do how often?,No-Contribution8248,1h2sqw5,https://reddit.com/r/devops/comments/1h2sqw5/how_often_do_you_edit_your_cicd/,https://www.reddit.com/r/devops/comments/1h2sqw5/how_often_do_you_edit_your_cicd/,2024-11-29 18:47:21,28,0.87,28,0,45,0,0,False,False,True,False,False,,self,t3_1h2sqw5
+devops,Review KodeKloud: is it worth it?,"Ok.... CKA and CKAD are already on udemy including some other courses provided by KodeKloud. KodeKloud engineer is also quite free! So, why do you think one should get a 1 year subscription for the platform? ",Radon03,1h3agow,https://reddit.com/r/devops/comments/1h3agow/review_kodekloud_is_it_worth_it/,https://www.reddit.com/r/devops/comments/1h3agow/review_kodekloud_is_it_worth_it/,2024-11-30 11:13:20,3,0.64,3,0,12,0,0,False,False,True,False,False,,self,t3_1h3agow
+devops,Master's thesis ideas,"I have a bachelor's degree in CS. I'm studying DevOps and will probably work in it after I graduate. I'm trying to get my master's and I like to research in DevOps. By that I mean something where I can apply some devops skills to do something good for people. Helping kids with developmental delay is something I want to do. I'm having a hard time choosing a topic where I can combine devops with something I want to do. Maybe it is the silly idea after all. So any ideas? I just want the simple and basic idea and no complex like ai. The simpler, the better.",Dahlia_Desperate,1h2pjw9,https://reddit.com/r/devops/comments/1h2pjw9/masters_thesis_ideas/,https://www.reddit.com/r/devops/comments/1h2pjw9/masters_thesis_ideas/,2024-11-29 16:28:40,3,0.64,3,0,2,0,0,False,False,True,False,False,,self,t3_1h2pjw9
+devops,Basic auth via HMAC signatures for Squid,"I'd like to share with you my recent development - [basic auth helper for Squid](https://github.com/SenseUnit/basic_hmac_auth), which uses HMAC signatures for authentication.
+
+It essentially allows fleet of proxies to use centralized authentication without the need for proxies to communicate with any central server directly. It works like this: some entity (e.g. API server) issues HMAC-signed token with limited validity time to the users. Users can't forge HMAC-signed token because they don't know secret key, while proxy can validate signature sent by user as credentials and decide to allow access immediately, without any need to communicate with central server or database to check user's password and status. All relevant information to allow access is already carried by users within their requests.
+
+  
+Hope it will be useful for people building proxy services!",yarmak,1h3031f,https://reddit.com/r/devops/comments/1h3031f/basic_auth_via_hmac_signatures_for_squid/,https://www.reddit.com/r/devops/comments/1h3031f/basic_auth_via_hmac_signatures_for_squid/,2024-11-30 00:26:26,4,0.83,4,0,0,0,0,False,False,True,False,False,,self,t3_1h3031f
+devops,Any info about micro1? Applied there for a devops engineer role. ,Anyone here worked at micro1? Applied there and got a mail from them for an 'ai interview' round. Read someone say that they just use candidates to train their ai model. Any reviews and how to proceed would be great.,BeoWulf080,1h2t50j,https://reddit.com/r/devops/comments/1h2t50j/any_info_about_micro1_applied_there_for_a_devops/,https://www.reddit.com/r/devops/comments/1h2t50j/any_info_about_micro1_applied_there_for_a_devops/,2024-11-29 19:03:55,1,0.55,1,0,3,0,0,False,False,True,False,False,,self,t3_1h2t50j
+devops,Switching from Networking to Devops.,"Currently, I am working as a TAC engineer at Palo Alto network, India and I want to switch to devops obviously for better growth in terms of salary and Job Stability.
+
+I have practised a lot on devops like followed some playlist in YouTube. I know basics about all devops tools like Jenkins, grafana, AWS services.
+
+But, util and unless I came to know about some real time projects I can't learn properly.
+
+Is there anyone who can guide me related to this. I am really looking for someone who can mention me to devops. 
+",ayush7749,1h38gnp,https://reddit.com/r/devops/comments/1h38gnp/switching_from_networking_to_devops/,https://www.reddit.com/r/devops/comments/1h38gnp/switching_from_networking_to_devops/,2024-11-30 08:45:52,0,0.5,0,0,4,0,0,False,False,True,False,False,,self,t3_1h38gnp
+devops,AWS DevOps Engineer Professional Practice Exam Tutorials Dojo,"Hey guys, if you are prepraring for the exam consider taking this practice test from [Tutorials DoJo](https://portal.tutorialsdojo.com/courses/aws-certified-devops-engineer-professional-practice-exams/ref/topitguy) going at Black Friday Discount
+
+",ampankajsharma,1h2ruuq,https://reddit.com/r/devops/comments/1h2ruuq/aws_devops_engineer_professional_practice_exam/,https://www.reddit.com/r/devops/comments/1h2ruuq/aws_devops_engineer_professional_practice_exam/,2024-11-29 18:09:04,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h2ruuq
+devops,Recommended Setup for a Data Project. ,"Hello All,
+
+I’m currently working on a small data project and exploring the best AWS setup to meet my needs now and in the future. Currently I have the following setup working: 
+
+* Large number of different CSV files stored in S3 (new files are added daily).
+* I’ve used AWS Glue to map the files into tables.
+* For querying, I’m using Athena.
+
+So far, the setup has been straightforward (this is my first time using AWS), and it’s working as intended aside from a few minor bugs I managed to fix.  
+  
+I’m looking to build a **front-end service** where users can:
+
+* Visually query the data without writing SQL.
+* See results presented in graphs, tables, etc.
+
+Right now, I’m querying Athena manually, but it’s not very user-friendly since you have to write SQL queries every time, and if I want to add more people to the project this can simply become unusable. Also, there are strange issues with Athena. For instance, when querying small numbers like `0.0005` or `0.00003`, Athena returns them in scientific notation, I have no idea why it does that.  
+
+Some thoughts and considerations I have:
+
+* As far as I understand, Athena may not be cost-effective at scale.
+* I’m considering whether setting up a dedicated database to store the data (instead of querying directly from S3) might be better. 
+   * New CSV files are added to S3 daily, so the database would need **daily updates**, ideally automated.
+* **Speed is not a priority**, so some latency is acceptable.
+* Since I’m still learning, I’d prefer tools and workflows that are **user-friendly** and straightforward to implement.
+
+**Looking for Advice:**
+
+* Should I move the data into a database? If so, which one would you recommend (e.g., Redshift, RDS, etc.) I've red about the different ones but I'm not sure I truly understand what's better. Not to mention this also means that I'll need to connect this to a server? Where is the 'compute power'? 
+* What front-end solutions would work well for visual querying and displaying results? I've used QuickSight but I don't really think it's what I'm looking for. I've started experimenting with Next.JS and Vercel. 
+* Any tips on automating daily updates from S3 to a database?
+
+I’d appreciate any recommendations or insights, especially from those with similar experiences.   
+Many Thanks!",Badger00000,1h39uax,https://reddit.com/r/devops/comments/1h39uax/recommended_setup_for_a_data_project/,https://www.reddit.com/r/devops/comments/1h39uax/recommended_setup_for_a_data_project/,2024-11-30 10:28:09,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1h39uax
+devops,Need help deciding infra,"Ok so i am creating a SAAS ai  video generator!
+
+It calls 3 api
+Open ai
+Dalle
+Eleven labs 
+
+and puts everything together using
+remotion library and for player too?
+
+now i want to deploy it in AWS what should be my deployment stategy for load balancing and performance! It's a monolith nextjs project !",AdvantageDear,1h3ajw5,https://reddit.com/r/devops/comments/1h3ajw5/need_help_deciding_infra/,https://www.reddit.com/r/devops/comments/1h3ajw5/need_help_deciding_infra/,2024-11-30 11:19:47,0,0.17,0,0,1,0,0,False,False,True,False,False,,self,t3_1h3ajw5
+devops,Where can i get more projects like these?,https://medium.com/@mudasirhaji/deploy-a-java-web-app-with-github-jenkins-maven-and-tomcat-on-aws-step-by-step-process-f813c11c9930,No_Place_6696,1h37hea,https://reddit.com/r/devops/comments/1h37hea/where_can_i_get_more_projects_like_these/,https://www.reddit.com/r/devops/comments/1h37hea/where_can_i_get_more_projects_like_these/,2024-11-30 07:35:17,0,0.45,0,0,1,0,0,False,False,True,False,False,,self,t3_1h37hea
