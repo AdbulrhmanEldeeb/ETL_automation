@@ -1,0 +1,430 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Is this still valid for frontend devs who are not designers?,,an4s_911,1h352kj,https://reddit.com/r/webdev/comments/1h352kj/is_this_still_valid_for_frontend_devs_who_are_not/,https://i.redd.it/tjghy1vq0z3e1.jpeg,2024-11-30 05:00:27,787,0.94,787,0,116,0,0,False,False,False,False,False,Question,https://a.thumbs.redditmedia.com/uYdeznY2yqpPTMu0jkv0GcxUBrx1nutxjyP1xFYKNz4.jpg,t3_1h352kj
+webdev,Shopify devs did a lot of work again this year ,,Previous_Influence_8,1h300yi,https://reddit.com/r/webdev/comments/1h300yi/shopify_devs_did_a_lot_of_work_again_this_year/,https://bfcm.shopify.com/,2024-11-30 00:23:38,232,0.94,232,0,25,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/I3K4i4i2qZJ8BcKHm6SYh2F6Ad0ZkZC8yDMpRzvHj4g.jpg,t3_1h300yi
+webdev,AI Won't Replace Us Developers Yet (A Humble Reality Check),"So there I was neck-deep in a MySQL nightmare. 🤯
+
+Tried ChatGPT. Struck out. Claude? Nope. Gemini was  a total bust as well. These AI models were giving me solutions that looked technically correct but were just wrong.
+
+Spent hours frustrated ready to tear my hair out.
+
+Then I did what we ALL do, Stack Overflow. And boom    
+ some legend had posted EXACTLY my problem from two years ago. With a solution written by an actual person. Commented, explained, and nuanced.
+No AI could've navigated the specific context of my issue like that person did.
+
+Moral of the story, AI is a tool. We're the craftspeople. 💻🛠️",Banksareaproblem,1h2xkzo,https://reddit.com/r/webdev/comments/1h2xkzo/ai_wont_replace_us_developers_yet_a_humble/,https://www.reddit.com/r/webdev/comments/1h2xkzo/ai_wont_replace_us_developers_yet_a_humble/,2024-11-29 22:25:58,208,0.84,208,0,129,0,0,False,False,True,False,False,,self,t3_1h2xkzo
+webdev,We made a free repo of 100+ Black Friday Deals for Front End Devs,"We were looking for stuff to buy for myself and decided to collate a list for anyone hoping to snag a good deal this sale season. Hope this helps you guys too.
+
+It includes learning resources, tools and templates curated for the front end dev community.
+
+Support it with a star and let us know if we should continue doing this for next year!
+
+[https://github.com/greatfrontend/black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals)",yangshunz,1h31e4p,https://reddit.com/r/webdev/comments/1h31e4p/we_made_a_free_repo_of_100_black_friday_deals_for/,https://www.reddit.com/r/webdev/comments/1h31e4p/we_made_a_free_repo_of_100_black_friday_deals_for/,2024-11-30 01:33:25,30,0.78,30,0,10,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h31e4p
+webdev,New company has clients point by nameserver instead of A record? There has to be a better way.,"Hey everyone, I recently started working at a website development company and ran into something that feels unnecessarily complicated. Here’s the situation:
+
+When we build a website for a client, we ask them to point their domain to our **nameservers** so the website can go live. This means we end up managing their entire DNS, even though we’re just the website provider. It's an extra burden, especially when clients request changes for things like email or subdomains.
+
+I asked why we don’t just have clients point their domain to our server using an **A record**, and here’s the explanation I got:
+
+“If we ever need to change our server’s IP address (which has happened a couple of times), all clients would need to update their A record to the new IP. That’s impractical with thousands of clients. Nameservers avoid this issue because we can make IP changes behind the scenes without involving the client.”
+
+Okay, that makes sense, but using nameservers feels inefficient for so many other reasons... I feel like there has to be a better way to solve this problem without the extra workload.
+
+I’d love to hear your thoughts considering my role at the company isn't as technical but this workflow is hugely affecting my output and I want to offer them a better solution. What’s the most practical way to minimize client disruption while reducing our DNS management responsibilities?",ZeusBabylonski,1h2oz0r,https://reddit.com/r/webdev/comments/1h2oz0r/new_company_has_clients_point_by_nameserver/,https://www.reddit.com/r/webdev/comments/1h2oz0r/new_company_has_clients_point_by_nameserver/,2024-11-29 16:02:56,23,0.79,23,0,33,0,0,False,False,True,False,False,Discussion,self,t3_1h2oz0r
+webdev,"Updating to the latest Chrome removes the ability to skip the ""Your connection is not private"" page for localhost","Restarted Chrome today, which triggered the auto update.
+
+Since then, visiting the same localhost pages I used to open brings up the ""your connection is not private"" screen (NET::ERR\_CERT\_AUTHORITY\_INVALID), forcing me to have to manually bypass it every time.
+
+chrome://flags/#allow-insecure-localhost no longer exists. I used to have that enabled. Is that why?
+
+Anyone got any workarounds? Can't find anything online yet.
+
+The expiry date for my certificate hasn't passed yet, so it's not that.
+
+I don't think its anything to do with my device either, since I've been able to dev as normal a day ago, and all I've done is shut my laptop (haven't restarted it or anything) - I've checked the localhost certs on my device and they havent expired.",ButterscotchTiny6828,1h38tho,https://reddit.com/r/webdev/comments/1h38tho/updating_to_the_latest_chrome_removes_the_ability/,https://www.reddit.com/r/webdev/comments/1h38tho/updating_to_the_latest_chrome_removes_the_ability/,2024-11-30 09:11:52,16,0.85,16,0,4,0,0,False,False,True,False,False,,self,t3_1h38tho
+webdev,First Portfolio Feedback,"Hello!!
+
+I'm 19 years old starting my web dev journey and trying to land my first job (Things are looking pretty hopeless right now, life is hard and I want to cry) but I just completed my 17 week bootcamp and made my first ever portfolio using react!!
+
+I tried to make it video game themed but idk if its too weird or cringe. I'd really appreciate some honest feedback and constructive criticism like is it responsive or too laggy? Any feedback would be gold! :))
+
+Here it is: [https://nooryas-portfolio.netlify.app/](https://nooryas-portfolio.netlify.app/)
+
+Note: I didn't have enough time to make it fully responsive on mobile, so please don't view it on your phone 😭😭 Also I tried really hard but idk how to make the text shadows look consistent on safari so I just gave up but Firefox and chrome should be ok?",Possible-Success7043,1h30u71,https://reddit.com/r/webdev/comments/1h30u71/first_portfolio_feedback/,https://www.reddit.com/r/webdev/comments/1h30u71/first_portfolio_feedback/,2024-11-30 01:04:27,8,0.84,8,0,7,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h30u71
+webdev,PSA: You are good enough !,"I am not sure why I felt compelled to write this post.
+
+Perhaps it is the long unemployment stint I have been on and the rough interview loops I've been enduring or maybe I just needed the cathartic release.
+
+Either way, I want to take those who are interested down memory lane with me and reflect on a past experience of mine that helps me through tough times like this.
+
+It all started many years ago when I worked at a company with another developer. Lets call him Robert. Robert was by no means a super star developer but he was an amazingly nice person and was a pleasure to work with.
+
+However, he did not show qualities I would expect of a top developer.  No great understanding of CS. Not an algorithmic god. Minimal knowledge of craftmanship aspects in software. No extensive knowledge of building systems. He was just an everyday developer.
+
+One day Robert gets called by a FANG adjacent recruiter telling him that a team is interested in hiring him.
+
+What was different about this situation was the recruiter did not send him through the front door.  His interview loop consisted of 3 calls. 1 recruiter screen, 1 call with the hiring manager, 1 call with the wider team.
+
+He did not have to endure a single technical round (I don't want to go into the circumstances of why as I don't want to dox myself)
+
+He of course takes this offer, and starts two weeks later. I was very happy for him and wished him the best and that was that.
+
+Fast forward to today. I am sitting here going through the trenches, 6 round loops. OA, code, system design, behavioural. The whole sh\*t fest.
+
+Occasionally, the doubts creep in. Am I good enough ? should I throw in the towel and go into the #trades ? is my experience worthless ?
+
+Then I always think back to our boy Robert.
+
+Roberts rare and unique story showed me that a vast number of developers can likely excel in any position given the chance (even big tech).
+
+The interview practices we endure are nothing more than a filter to whittle down the demand.
+
+When you fail an interview you are doing just that, failing a filter. It has no bearing on you, your ability, or your identity. Like Robert, if you could jump past all the interview mess you would be just fine! (As an aside, I believe that Robert would likely not have made it through the traditional interview loop for the same position.)
+
+Anyways, I hope you liked my story and wish you all the best if you are going through it also.
+
+Lastly, I realise this post comes across bitter and jealous. It is not my intention (although perhaps I am a little). I am just a beaten-down dev struggling through it. I wish Robert the best and hope he is happy and killing it.",Invisible_Wetface,1h3deuo,https://reddit.com/r/webdev/comments/1h3deuo/psa_you_are_good_enough/,https://www.reddit.com/r/webdev/comments/1h3deuo/psa_you_are_good_enough/,2024-11-30 14:13:55,16,0.9,16,0,2,0,0,False,False,True,False,False,,self,t3_1h3deuo
+webdev,"Understand IAM, OAuth, OpenID Connect, SAML, SSO, and JWT in one article",A useful post for understanding nowadays auth.,Party_Refuse8887,1h34qxe,https://reddit.com/r/webdev/comments/1h34qxe/understand_iam_oauth_openid_connect_saml_sso_and/,https://blog.logto.io/iam-oauth-oidc-saml-sso-jwt,2024-11-30 04:41:02,6,1.0,6,0,0,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/5PUjT6rgA5Lz04b5Bb0cTt1GZQG-ai4ltXuAURGia6k.jpg,t3_1h34qxe
+webdev,"I found this beautiful website and I wanted to recreate it and know what kind of stack would be optimal for it, also are there any nocode website builders that this kind of animations and components can be made with easily, like WordPress and Wiz? (Link in description)","https://tokyocatspecialists.jp/
+
+Thank you very much to anyone who decides to help me, much love",Monkeyke,1h35ulc,https://reddit.com/r/webdev/comments/1h35ulc/i_found_this_beautiful_website_and_i_wanted_to/,https://www.reddit.com/r/webdev/comments/1h35ulc/i_found_this_beautiful_website_and_i_wanted_to/,2024-11-30 05:47:14,5,0.78,5,0,3,0,0,False,False,True,False,False,Question,self,t3_1h35ulc
+webdev,What tools or physical items help you learn?,"I noticed for me it’s easier to think when I stand or walk around my room, so I was thinking maybe I should buy a standing desk.
+
+Also, if I’m learning some algorithm, it’s easier to visualize it if I draw on a physical whiteboard, like many of YouTube videos do explaining the algorithm. 
+
+Or maybe an iPad but it’s expensive. 
+
+So I’d love to hear your tools or physical items which help you learn and understand, basically an investment to become better ",lponkl,1h3ajvz,https://reddit.com/r/webdev/comments/1h3ajvz/what_tools_or_physical_items_help_you_learn/,https://www.reddit.com/r/webdev/comments/1h3ajvz/what_tools_or_physical_items_help_you_learn/,2024-11-30 11:19:46,3,1.0,3,0,10,0,0,False,False,True,False,False,Question,self,t3_1h3ajvz
+webdev,I Built a Website for Christmas Movie Lovers: UltimateXmasMovies.com,"Hi everyone! I’ve been working on a passion project just in time for the holidays. [UltimateXmasMovies.com](https://ultimatexmasmovies.com/) is a platform where Christmas movie enthusiasts can discover, vote for, and rank their favorite holiday films. It also features a 24 Days of Christmas advent calendar with daily movie picks and trivia to get you in the festive spirit.
+
+I’d love your feedback or suggestions to make it even better! 🎄✨",goldenking55,1h3a12n,https://reddit.com/r/webdev/comments/1h3a12n/i_built_a_website_for_christmas_movie_lovers/,https://www.reddit.com/r/webdev/comments/1h3a12n/i_built_a_website_for_christmas_movie_lovers/,2024-11-30 10:41:37,3,1.0,3,0,2,0,0,False,False,True,False,False,,self,t3_1h3a12n
+webdev,How to host a dynamic java web app?,"[https://github.com/Safnaj/Java-Web-Application](https://github.com/Safnaj/Java-Web-Application)
+
+Say this is a project I want to host. How do I proceed?",No_Place_6696,1h3518g,https://reddit.com/r/webdev/comments/1h3518g/how_to_host_a_dynamic_java_web_app/,https://www.reddit.com/r/webdev/comments/1h3518g/how_to_host_a_dynamic_java_web_app/,2024-11-30 04:58:19,3,1.0,3,0,1,0,0,False,False,True,False,False,,self,t3_1h3518g
+webdev,Trying to break out of the field while simultaneously unemployed. Advise?,"I am a senior web dev (NodeJS, RoR) that has recently lost their job unexpectedly for the first time in forever. I live in the EU, in a country that does not have a lot of jobs, and what little can be found has a lot of competition, is underpaid, and you get worked to the bone. Up until this point I was working fully remote for other EU companies and was starting to make a decent living as an EM. When I lost my job I tried to keep that momentum going, but long story short, it's quite difficult and there is higher need for developers than there is for other roles.
+
+I used my unemployment time to pick up Python which turned out great, successfully acing two different coding challenges and reaching the next stage in the pipeline. However, it seems that growing into Python further would involve delving into pretty specific and uninteresting libraries (django, or numpy or pandas).
+
+Context over, now to the matter at hand. I am quite tired of web dev. It's why I ventured into Python in the first place. With time on my hands, I have it in me to pick up another language. To spare you the details, I believe these are the two avenues that might make sense:
+
+\- Refresh in-demand, web only languages. This obviously snuffs out what little soul I have left. Refresh PHP. Or refresh NodeJS/TypeScript. Much better than PHP, but still quite boring. There are a lot of PHP, NodeJS, RoR jobs, but there are also a lot of candidates.
+
+\- Try my hand at C#. Interesting, can think of very enticing projects! I am confident I could pick it up. Potentially moves me away from web dev. But my CV has no single a single speck of C#, so I would not be looked as a solid candidate.
+
+Thoughts? Other suggestions? All appreciated.",Trick-Campaign-3117,1h2o3qg,https://reddit.com/r/webdev/comments/1h2o3qg/trying_to_break_out_of_the_field_while/,https://www.reddit.com/r/webdev/comments/1h2o3qg/trying_to_break_out_of_the_field_while/,2024-11-29 15:22:36,4,0.75,4,0,5,0,0,False,False,True,False,False,,self,t3_1h2o3qg
+webdev,How much would it cost for an art portfolio website?,"Hello! I've made this post to find a ballpark value for a multipage website for my art portfolio. 
+
+Some of the features I'm looking for:
+
+Blog-like post creation with the ability to post multiple images and videos in a thread-like fashion with a comment section and like buttons.
+
+Ability to make simple text posts and host polls.
+
+Different pages with a nav bar: Home, socials, different threads, etc..
+
+Most recent posts on the home page.
+
+Site banner with my basic details and a revolving random image tray of my works.
+
+Ability to archive and remove posts.
+
+---
+
+Sorry if this is extensive. But I like have a lot of features at my disposal. I hope to one day add a courses navigation to the site, which is why I'm adding a lot of this functionality now. Anyway! A ballpark value for what this would cost me would be appreciated. ",Gry1080,1h39rnh,https://reddit.com/r/webdev/comments/1h39rnh/how_much_would_it_cost_for_an_art_portfolio/,https://www.reddit.com/r/webdev/comments/1h39rnh/how_much_would_it_cost_for_an_art_portfolio/,2024-11-30 10:22:49,1,0.56,1,0,16,0,0,False,False,True,False,False,Question,self,t3_1h39rnh
+webdev,First Railway Template - Express.js + Prisma + GraphQL,"Hello everyone, I spun up a template on [railway.app](http://railway.app) that I thought could be useful for people looking for a quick and easy-to-set-up backend solution.
+
+Here is the link: [https://railway.app/template/vCAGzF?referralCode=B4Nuxy](https://railway.app/template/vCAGzF?referralCode=B4Nuxy)
+
+I know there's probably other templates out there like this one but hopefully someone finds it useful. Let me know if there is room for improvement. ",Sweaty-Newspaper3596,1h2rftb,https://reddit.com/r/webdev/comments/1h2rftb/first_railway_template_expressjs_prisma_graphql/,https://www.reddit.com/r/webdev/comments/1h2rftb/first_railway_template_expressjs_prisma_graphql/,2024-11-29 17:51:02,2,0.75,2,0,2,0,0,False,False,True,False,False,,self,t3_1h2rftb
+webdev,A React tag input library with better keyboard navigation - React Multitag,"There are several standalone React tag input libraries but I couldn't find any with the keyboard navigation I wanted, so I created [React Multitag](https://www.npmjs.com/package/react-multitag).
+
+[Demo of the input](https://i.redd.it/49gf6d9iy14e1.gif)
+
+The input supports two different keyboard navigation modes:
+
+* **Tag:** Navigate through tags and delete with 'Backspace'
+* **Input:** Move the input position to add new elements between existing ones
+
+The library also supports custom keybinds for adding elements, custom tag elements &amp; custom styling.
+
+Please let me know what you think and if you have any requests!",Benjamino64,1h3echv,https://reddit.com/r/webdev/comments/1h3echv/a_react_tag_input_library_with_better_keyboard/,https://www.reddit.com/r/webdev/comments/1h3echv/a_react_tag_input_library_with_better_keyboard/,2024-11-30 15:00:42,2,1.0,2,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/hMVUrAvfqGas5ZBuQNtRsU5QGmDY4R-Rf7_5X9MCOpU.jpg,t3_1h3echv
+webdev,[Showoff Saturday] I made a simple blindfold chess app,"Hi everyone, I'd like to share a side project I've been working on: [Blindfold Chess](http://playblindfoldchess.com).   
+
+
+**What is this app?**
+
+It's a chess app that doesn't have a board! Play chess against the AI (driven by [Stockfish](https://stockfishchess.org/)), but you must visualize the board in your head. The app provides menu-like inputs to select what pieces to move and where to move them, but it doesn't give any hints as to where the pieces are or what moves they can make.
+
+  
+**Why I made this app**
+
+I learned how to play chess as a child, but I only started actually playing about two years ago. I studied a few openings back then and read two introductory books, but I've mainly just been playing casually. After a few months of playing, I challenged chat gpt to play a game of chess, and instead of showing a chessboard, it just said ""e4"". That was my first introduction to blindfold chess, and I found it highly challenging but not impossible to visualize the board, so I was interested in improving that skill. Unfortunately, chat gpt wasn't able to play coherent games and would inevitably begin making illegal moves as a game progresses.
+
+I made my own chess AI a while back after and used that to play blindfold chess, but I've abandoned that project. Recently, after about a year or so since that last project, I began this. I'm a bit out of practice at the moment, but I expect that I'll improve over time so long as I play a game every day or so.
+
+Surprisingly, I haven't found any apps that do what this does: provide a simple interface for playing blindfold chess. It's certainly niche, but I don't think it's so niche to the point that nobody would have made this simply for that reason. In any case, I'm curious to see if it actually gains adoption, or if I'm the only one who will actually use this on a regular basis.
+
+  
+**Future plans**
+
+First and foremost, once the app has matured a bit, I'm going to make an Android app, then work to make an Android smartwatch app. I've done some preliminary performance tests and have determined that, if nothing else, a Samsung Galaxy Ultra smartwatch can handle the game in easy mode without taking too long to make moves.
+
+After I improve my ability to play blindfold chess, I'd like to write up an article or two that discusses tactics and strategies to help you visualize the board. If there's interest, I might add a feature to play another human locally (i.e., you'd pass them the phone and they'd input their move). Technically, if two people are playing blindfold chess, they wouldn't need the phone at all, but if they disagree about where certain pieces are, the phone would provide an answer to that. I don't think I'll implement a capability to play online because of how easy it would be to cheat, but if people actually play on this app and request it, I'd consider adding it.
+
+I'd also like to add a feature to speak moves and have the system recognize and execute them, but that's a lower priority.",brandon-quinn-author,1h3e04o,https://reddit.com/r/webdev/comments/1h3e04o/showoff_saturday_i_made_a_simple_blindfold_chess/,https://www.reddit.com/r/webdev/comments/1h3e04o/showoff_saturday_i_made_a_simple_blindfold_chess/,2024-11-30 14:44:15,2,1.0,2,0,2,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3e04o
+webdev,[Showoff Saturday] Track Real-time Video Game Leaderboards with Friends!,"Hi all, at the start of this month (November) I started a 12 projects in 12 months endeavor. I just wrapped up my first project:
+
+[https://www.brds.gg/](https://www.brds.gg/)
+
+My friends and I would track our stats in a google spreadsheet for FPS games we play. I figured I would build a website around that for the first project!
+
+It allows you to:
+
+1. Create a library of games and add whatever metrics you'd like.
+2. Create ""sessions"" that you can share with friends
+3. Compete in real-time via leaderboards
+4. View analytics on past sessions
+
+ Its bare bones right now but should function! Feedback welcome if you have any...
+
+Tech Stack: Next JS, Convex, Redux Toolkit, Tailwind, Fathom Analytics",dazftw,1h39mwl,https://reddit.com/r/webdev/comments/1h39mwl/showoff_saturday_track_realtime_video_game/,https://www.reddit.com/r/webdev/comments/1h39mwl/showoff_saturday_track_realtime_video_game/,2024-11-30 10:12:44,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h39mwl
+webdev,How to create a blog section like this?,"I want to create a blogging section on a website that looks like this: [https://www.apollo.io/magazine](https://www.apollo.io/magazine)
+
+How can I design this?",1tagupta,1h37fln,https://reddit.com/r/webdev/comments/1h37fln/how_to_create_a_blog_section_like_this/,https://www.reddit.com/r/webdev/comments/1h37fln/how_to_create_a_blog_section_like_this/,2024-11-30 07:31:45,1,0.6,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h37fln
+webdev,New technology in prod fears,"I'm wondering if anyone else has fears of trying new tech in prod. I'm not just talking about trying out a new library. I'm talking about standing up stuff that you've never really used in prod before.
+
+I feel like I can play around with new tech locally but I always fear that there must be some prod specific stuff that I'm missing. Extra load revealing issues, incorrect assumptions made, config stuff that I'm expected to know but don't, etc. I tend to use stuff I'm familiar with just because there are some bugs that have been really hard to figure out. Managers have asked before *how* a bug could ***possibly*** be introduced, and the thought of saying, ""eh, this is just my first time using it and I'm learning"" sounds like a good way to get on someone's shitty developer list. Most managers that I've had seem to think that any bug is just completely unacceptable, so the thought of admitting to incompetence or ignorance seems like out of the question.
+
+Do most of you just stick with shit you know, or do you take the plunge if you think something might be better? Or go with something new that might work just as well but also save some paint points from existing tech? I'm not talking about going with new stuff just because it's new.
+
+  
+**Example**
+
+I used to work at a place with multiple applications. I was talking to someone on another team in the enterprise one day about their architecture. This team literally didn't use a load balancer to load balance between different servers. They literally made separate URLs for the internal team to use. If one server went down, they would launch up the other and tell the internal customers to go the other URL. Load balancing is SO basic and it used to strike me as extremely weird that they wouldn't just add that in. I can imagine that it might be really scary for them though because of how critical the app was, and you could really screw up production if you messed up your session management setup. You might set up the load balancer and show that you're hitting the servers and that the website is working well, and then totally not do anything about session management. It hits production and then it's a disaster! Ok - you see errors and then you just shut down the other servers and you're pretty much back where you started. Not the end of the world but hopefully you see my point.",wannacommissionameme,1h35jrd,https://reddit.com/r/webdev/comments/1h35jrd/new_technology_in_prod_fears/,https://www.reddit.com/r/webdev/comments/1h35jrd/new_technology_in_prod_fears/,2024-11-30 05:28:34,0,0.46,0,0,3,0,0,False,False,True,False,False,,self,t3_1h35jrd
+webdev,First Website Created-- Need frontend feedback,"Hey, I am currently 18 years old and I just wanted to get feedback on my website design. Spent quite a bit of time since I am new to web developing, but please give me feedback on how the website looks and the interactibility of it. Also, what are the best frontend languages for making a sleek landing page?
+
+Here is the website: [asorti.co](http://asorti.co)
+
+Thanks!!",One-Smile-69420,1h35esx,https://reddit.com/r/webdev/comments/1h35esx/first_website_created_need_frontend_feedback/,https://www.reddit.com/r/webdev/comments/1h35esx/first_website_created_need_frontend_feedback/,2024-11-30 05:20:23,1,0.67,1,0,3,0,0,False,False,True,False,False,,self,t3_1h35esx
+webdev,Common data fetching in a layout and a page in ReactJS,"I have been thinking about data fetching of front end. Suppose you have
+
+\- Layout: it resource A to render a sidebar
+
+\- Page: it is in the layout. It needs resource A and B
+
+Resource is stored globally in an app (with whatever, Redux or Context). Resource A may be fetched again on a user event like when \`userId\` changes.  
+Page A should not know what layout fetches, vice versa. They should care only data they need.
+
+How is it possible to fetch resource A only once?
+
+If you put this \`useEffect\` in a layout and a page, it fetches when \`userId\` changes. A problem is that they may race in a layout and a page. They may run simultaneously.
+
+\`\`\`  
+useEffect(() =&gt; {
+
+dispatch(fetchResourceA({ id: userId }));
+
+}, \[dispatch, userId\]);
+
+\`\`\`
+
+Putting another \`useEffect \` does not seem to solve a problem. You will not know when \`useEffect\` runs, no matter it is in a layout or in a page. If only a page waits until layout finishes loading, it would work, but it does not.
+
+\`\`\`
+
+useEffect(() =&gt; {
+
+if (resourceAStatus === 'idle') {
+
+dispatch(fetchResourceA({ id: userId }));
+
+}
+
+}, \[dispatch, resourceAStatus \]);
+
+\`\`\`
+
+One simple way is ""Fetch data in layout, not in page at all"", but it is not a good practice. You should fetch data when you need it.
+
+Does anyone know a good data fetching design? Thank you.",nwatab,1h357je,https://reddit.com/r/webdev/comments/1h357je/common_data_fetching_in_a_layout_and_a_page_in/,https://www.reddit.com/r/webdev/comments/1h357je/common_data_fetching_in_a_layout_and_a_page_in/,2024-11-30 05:08:16,1,0.67,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h357je
+webdev,Any good / bad experiences with a dropcatch service?,"I have several domains that I'd like to buy (and use, not resell). The most practical option is to use a dropcatch service to backorder them for me.
+
+This is new for me, though, and I'm concerned that they might just use the knowledge of the demand to buy the domain under another name, and then try to sell it to me for an exorbitant markup! LOL
+
+I tried to set up an account with SnapNames, but they need to verify my information. They said it would take 2 days, but it's been 6 days and I've had no reply. That doesn't exactly make me feel like they're the most reliable.
+
+Any other suggestions on a reputable company that I can use and trust?",csdude5,1h2ufib,https://reddit.com/r/webdev/comments/1h2ufib/any_good_bad_experiences_with_a_dropcatch_service/,https://www.reddit.com/r/webdev/comments/1h2ufib/any_good_bad_experiences_with_a_dropcatch_service/,2024-11-29 20:01:14,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h2ufib
+webdev,How to allow both OTPs when user resends OTP,"In services which have OTP authentication, suppose for some reason OTP takes long time to appear, a user would click on resend OTP, if delay was legitimate then user is likely to receive previous OTP first and he has no way to know whether it's old or new and he will simply enter it, if we just store latest OTP on server session this will show error and will frustate user for no fault of his. Having both (or even more) OTPs all valid seems pretty hard, what are some solutions to this problem.",big_hole_energy,1h2qbfe,https://reddit.com/r/webdev/comments/1h2qbfe/how_to_allow_both_otps_when_user_resends_otp/,https://www.reddit.com/r/webdev/comments/1h2qbfe/how_to_allow_both_otps_when_user_resends_otp/,2024-11-29 17:02:27,2,0.6,2,0,7,0,0,False,False,True,False,False,Question,self,t3_1h2qbfe
+webdev,Best place to host dynamic frontend these days?,"Main requirement:
+
+* Frontend will require persistance websocket connection to my backend (deployed elsewhere)
+* Will make requests to backend for authentication, data fetching etc
+
+",zZurf,1h2rp4d,https://reddit.com/r/webdev/comments/1h2rp4d/best_place_to_host_dynamic_frontend_these_days/,https://www.reddit.com/r/webdev/comments/1h2rp4d/best_place_to_host_dynamic_frontend_these_days/,2024-11-29 18:02:06,0,0.5,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1h2rp4d
+webdev,Can I use CDN for chrome extension? ,"Can I use CDN for chrome extension? I can't seem to find a clear answer online. 
+
+If not, what is the workaround?
+
+  
+Thanks",Harry33893020,1h2qasy,https://reddit.com/r/webdev/comments/1h2qasy/can_i_use_cdn_for_chrome_extension/,https://www.reddit.com/r/webdev/comments/1h2qasy/can_i_use_cdn_for_chrome_extension/,2024-11-29 17:01:41,0,0.5,0,0,1,0,0,False,False,True,False,False,,self,t3_1h2qasy
+webdev,Is Re-Designing a Website &amp; Offering It to the Business a Good Idea?,"I've had around an year and a half of web design experience now but am really struggling with finding clients now that I'm starting out on my own as a freelancer. There are also TONS of bad business sites out there and an idea occurred to me: re-designing those website, so they look much better, are functional and useful, then offering it to the business.
+
+This could potentially help me continue practicing and improving my web design skills while also getting paying projects and even referrals perhaps.
+
+What do you guys think? Is this a good idea?",o-willow,1h2ouj8,https://reddit.com/r/webdev/comments/1h2ouj8/is_redesigning_a_website_offering_it_to_the/,https://www.reddit.com/r/webdev/comments/1h2ouj8/is_redesigning_a_website_offering_it_to_the/,2024-11-29 15:57:24,2,0.53,2,0,31,0,0,False,False,True,False,False,Question,self,t3_1h2ouj8
+webdev,🚀 I created a social blogging app with tons of feature,"Hello everyone,
+
+I would love to get your feedback on my latest project, it's a fully fledged content sharing platform built specifically for the React community.
+
+Live: [https://pure-react.vercel.app/](https://pure-react.vercel.app/)
+
+GitHub Repo: [https://github.com/Bharat610/pureReact](https://github.com/Bharat610/pureReact)
+
+**Note:** Please sign up with an actual email id to check out the features, however if you don't want to sign up you can use this for testing -- username: akash\_321 password: Akash@123
+
+**Features:**
+
+* Secure user sign-up with email verification and JWT-based authorization
+* **Create, Edit, and Delete Posts**: Create post with **rich text editor**, add cover image, add category to post, edit and delete existing post from user page. \*Like a post, comment on a post, sort post based on popularity and recency, filter post based on category.
+* Save posts to reading list.
+
+I would love to hear your feedback and suggestions! Please check it out and let me know what you think and areas where I can improve.
+
+Thanks!!",Any_Somewhere_61,1h3ahz2,https://reddit.com/r/webdev/comments/1h3ahz2/i_created_a_social_blogging_app_with_tons_of/,https://www.reddit.com/r/webdev/comments/1h3ahz2/i_created_a_social_blogging_app_with_tons_of/,2024-11-30 11:15:51,0,0.45,0,0,8,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3ahz2
+webdev,Wix and WordPress exist,"If a person is only familiar with HTML, CSS, a little Java script, decap CMS....
+
+Should I become familiar with WordPress development and headless CMS, wix would then be a breeze to pick up? And vice versa?",zackzuse,1h3ac05,https://reddit.com/r/webdev/comments/1h3ac05/wix_and_wordpress_exist/,https://www.reddit.com/r/webdev/comments/1h3ac05/wix_and_wordpress_exist/,2024-11-30 11:03:58,0,0.4,0,0,1,0,0,False,False,True,False,False,,self,t3_1h3ac05
+webdev,Looking For Mentor,"I don't know if I'm allowed to do this but here it goes.
+
+Hello, I go by the name of Joy Boy on the internet and I'm reaching out because of the book, ""mastery"" by robert green. I'm reaching out because I deeply value mentorship and believe it could be a missing piece in my journey to mastering web development. I've always been driven by a strong work ethic, curiousity, and the desire to improve myself every single day and I believe as a disciple, this is exactly what a mentor would look for. 
+
+I'm an incredibly curious and inquisitive person, constantly asking questions and seeking to understand the ""why"" behind things. While I'm highly motivated, I realize the importance of guidance - someone who can provide direction, share insights, and challenge me to grow. Having a mentor to talk to, learn from, and collaborate would not only accelerate my learning but also help me approach this field with a clearer sense of purpose. 
+
+Thank you and happy holidays! ",EmbarrassedBee9440,1h2stva,https://reddit.com/r/webdev/comments/1h2stva/looking_for_mentor/,https://www.reddit.com/r/webdev/comments/1h2stva/looking_for_mentor/,2024-11-29 18:51:00,0,0.4,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h2stva
+webdev,Please help me set up my dns on cloudflare I'm completely lost,"I'm new to all of this, I purchased a domain name from porkbun, built a simple static website and now I want to host it on cloudflare.
+
+When I access it I get: DNS_PROBE_FINISHED_NXDOMAIN
+
+The problem is I can't find an A record on porkbun, I only found an ALIAS and a cname with an *. After some research I got that cloudflare use cname flattening, but when I try to set it up with @ mywebsite.com I get this message: cname content cannot reference itself. I tried with * my website.com and www mywebsite.com but it didn't work. The dns is proxiesd, the cloud is orange, and I don't want to create subdomains. I changed the name servers too.
+
+For those wondering here is my domain name: lumentranslation.com
+
+I'm at loss here, Google is not helping, chatgpt is not helping, I don't know what to do.",Time_Confection8711,1h2yscu,https://reddit.com/r/webdev/comments/1h2yscu/please_help_me_set_up_my_dns_on_cloudflare_im/,https://www.reddit.com/r/webdev/comments/1h2yscu/please_help_me_set_up_my_dns_on_cloudflare_im/,2024-11-29 23:23:07,0,0.45,0,0,3,0,0,False,False,True,False,False,,self,t3_1h2yscu
+webdev,Issue with vertically centered content shifting on wrap,"This is probably a stupid question, but I'm stuck and was hoping someone could help. Essentially, I have a splash/landing page with a logo. The logo is an SVG, it's vertically and horizontally centered. That all works great.
+
+I have a little JavaScript that types in a byline type description under it. It's short. But on mobile screens, it wraps to the next line, which is fine. Only issue is that when it wraps, the element (H1) then shifts the logo above it upwards so the image, and now two lines of text are all vertically centered.
+
+I'd like the text to just go downwards when wrapping without pushing the group of the content upwards.
+
+Here's what I have currently. We're using Bootstrap 5.
+
+Edit: I can see that putting the JS inside the section groups it with the logo to be centered, but we've tried it outside as well and same.
+
+    &lt;section id=""landing"" class=""landing bg-light d-flex flex-column justify-content-center align-items-center vh-100""&gt;
+            &lt;img class=""landing-logo"" src=""/images/logo.png"" alt=""Editing logo with ink pot and feather quill""&gt;
+            &lt;h1 id=""typing-text"" class=""typing-text text-primary text-center pt-6 px-5 fw-light""&gt;&lt;/h1&gt;
+    &lt;/section&gt;
+
+The CSS:
+
+    .landing .landing-logo {
+      width: clamp(300px, 50%, 916px);
+    }
+    
+    .typing-text {
+      font-size: clamp(1.5rem, 2.5vw, 2.5rem);
+    }
+    
+    .typing-content {
+      margin-top: auto;
+      padding: 1rem;
+      text-align: center;
+    }
+
+The JS:
+
+    // Typing Effect
+    function runTypingEffect() {
+        const text = 'Full-scale professional ghostwriting &amp; editing.';
+        const typingElement = document.getElementById('typing-text');
+        const typingDelay = 100;
+        typeText(text, typingElement, typingDelay);
+    }
+    function typeText(text, typingElement, delay) {
+        for (let i = 0; i &lt; text.length; i++) {
+            setTimeout(() =&gt; {
+                typingElement.textContent += text.charAt(i);
+            }, delay * i);
+        }
+    }
+    document.addEventListener('DOMContentLoaded', runTypingEffect);",3369fc810ac9,1h2v0wq,https://reddit.com/r/webdev/comments/1h2v0wq/issue_with_vertically_centered_content_shifting/,https://www.reddit.com/r/webdev/comments/1h2v0wq/issue_with_vertically_centered_content_shifting/,2024-11-29 20:28:08,0,0.25,0,0,2,0,0,False,False,True,False,False,Question,self,t3_1h2v0wq
+webdev,CMS or VPS,"Hello everyone! 
+
+2 years ago I made a small website for a charity, they told me it would need to be a static site which would \*not\* change over time. Well, so far there's been plenty of changes which also contain temporary changes (like an event).
+
+Currently I have written a custom, ugly and bad static site generator, but it works in this case. The demand for changes has grown (still not a lot), and there's a request to move some of those responsibilities towards them, so they can maintain some of the content.
+
+So far I've been looking into some CMS systems, and I haven't found a single one that I like. None of them offer the structure that I need/want for something small, or come off as having a snake in the grass on the free tier.
+
+I've looked into Supabase as well, which I think I'd like, but it pauses your project quite fast, and freezes it after 90 days of inactivity. This doesn't suit me at all since it'll probably only be around 2-3 times a year they'll need to update their content. So the project would become frozen every time on the free tier.
+
+I've also looked into Firebase, which looks like something I'd like to learn, but it doesn't offer image hosting on the free tier. And the Blaze plan looks good on paper, but I'm really afraid of having bots/abuse ramp up the requests/usage costs.
+
+I've also looked at (not in detail yet) VPS. This is something that I'd love to learn, since I'll get full control over everything. My main issue with most systems is the control being limited. The main drawback here is, I'm terrified of unauthorized access, leaks, hidden costs, file uploads being abused and wrecking havoc... basically, a LOT of variables I'm not familiar with that could go wrong, I think... is a VPS really a safe option? What are some decent (and okay-ishly priced) VPS options?
+
+",JediRingBearer,1h2nr1q,https://reddit.com/r/webdev/comments/1h2nr1q/cms_or_vps/,https://www.reddit.com/r/webdev/comments/1h2nr1q/cms_or_vps/,2024-11-29 15:06:03,0,0.25,0,0,12,0,0,False,False,True,False,False,Resource,self,t3_1h2nr1q
+webdev,How to make LLM update code in the code editor seamlessly,"So I have a project I'm working on and it will require an LLM to update existing code and write it back to the editor,where I'm having issues is finding a good way to update anywhere within the code without Messing up unchanged ones, I know converting the source code to AST can help when doing function/class wide updates it has easy as transversing the nodes and identifying which function or classes require change.
+
+But for use cases where the updates are limited to few lines of code or for code that are just scripts with no classes and functions,I can't really come up with a good solution to update the code with  messing up other lines that aren't affected, I've tried searching on Google to see similar implementations or articles on it but all of them only talk about how to parse and transverse AST.",FickleSwordfish8689,1h3b2pu,https://reddit.com/r/webdev/comments/1h3b2pu/how_to_make_llm_update_code_in_the_code_editor/,https://www.reddit.com/r/webdev/comments/1h3b2pu/how_to_make_llm_update_code_in_the_code_editor/,2024-11-30 11:56:33,0,0.33,0,0,2,0,0,False,False,True,False,False,Question,self,t3_1h3b2pu
+webdev,Css not showing,"Hello, So I'm a total newbie when it comes to web developing and I have this problem right now when Im trying to open the files in htdocs to my browser it only shows the html without the CSS, and we tried to hard refresh and still nothing changes. 
+
+How do i fix it? Help me please 
+
+",Emergency-Cake2688,1h36nmw,https://reddit.com/r/webdev/comments/1h36nmw/css_not_showing/,https://i.redd.it/vucrklo4iz3e1.png,2024-11-30 06:37:54,0,0.41,0,0,24,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/H9U7HobV_ZAUiqOGa2hWjwMJp3gjKsuT2CtEeRHI5Cw.jpg,t3_1h36nmw
+webdev,"Hard coding a website, any recommendations for pay walling digital downloads?","I’ve been researching how to create digital download products (PDFs, Excel files, CSVs) behind a paywall, but most of the content I come across focuses primarily on platforms like WordPress, Shopify, and Etsy. I'm aiming to develop a simple paywall system where a customer pays for a product, and then they can download it directly from the site and receive it via email as well. Any guidance or resources on this would be greatly appreciated!
+
+Cheers!",BenBenBenneBneBneBn,1h2puko,https://reddit.com/r/webdev/comments/1h2puko/hard_coding_a_website_any_recommendations_for_pay/,https://www.reddit.com/r/webdev/comments/1h2puko/hard_coding_a_website_any_recommendations_for_pay/,2024-11-29 16:41:46,0,0.22,0,0,6,0,0,False,False,True,False,False,,self,t3_1h2puko
+webdev,Looking for content hyping up (web) Javascript for an experienced programmer,"I know the usual motivation (financial, jobs, etc). I just want someone intelligent and charming with slick content who sells JS to me without treating me like a newbie. I want to be hyped up and washed over with the raw potential of JS and fall in love with it (which i'm going to do anyway but I want background propaganda). 
+
+What i've come across so far - fireship, i can't stand the mans voice unfortunately. A ton of youtubers like Mosh who will teach you the basics but I don't need most of that, i'm not looking to learn the language per se, just be sold on the hype and potential of the language.",tuskerr,1h32qdu,https://reddit.com/r/webdev/comments/1h32qdu/looking_for_content_hyping_up_web_javascript_for/,https://www.reddit.com/r/webdev/comments/1h32qdu/looking_for_content_hyping_up_web_javascript_for/,2024-11-30 02:45:57,0,0.23,0,0,18,0,0,False,False,True,False,False,Resource,self,t3_1h32qdu
+webdev,Where did the Python jobs go?,"I started using Python for building web sites and web-based applications back around 2009, after switching away from PHP. Over time, I moved into other technologies but it all still used HTTP under the hood.
+
+Recently, I started looking into backend dev jobs to see whats out there. I was very surprised that Python doesn't appear in-demand anymore; especially for backend development. 
+
+Most roles I see are looking for Go, Typescript, C# and so forth. And they aren't open to hiring without their tech-of-choice in your resume.
+
+Has anyone else notice this change? Any idea what happened and when/why businesses decided to move away? Or am I just overlooking a whole set of jobs?",codeandtrees,1h2qecj,https://reddit.com/r/webdev/comments/1h2qecj/where_did_the_python_jobs_go/,https://www.reddit.com/r/webdev/comments/1h2qecj/where_did_the_python_jobs_go/,2024-11-29 17:06:01,0,0.44,0,0,38,0,0,False,False,True,False,False,Question,self,t3_1h2qecj
+webdev,Shouldn't I be able to just fork / copy paste Ublock origin to get around Chromes new rules about it?,"I mean it's just code that runs in your browser, I've written simple extensions before, this should be easy right?
+
+What stops us from just making something new with the same code and putting it on chrome's extension store?",Eldric-Darkfire,1h2vs7c,https://reddit.com/r/webdev/comments/1h2vs7c/shouldnt_i_be_able_to_just_fork_copy_paste_ublock/,https://www.reddit.com/r/webdev/comments/1h2vs7c/shouldnt_i_be_able_to_just_fork_copy_paste_ublock/,2024-11-29 21:02:43,0,0.33,0,0,12,0,0,False,False,True,False,False,,self,t3_1h2vs7c
+webdev,TIC TAC - THE HARDEST GAME EVER!,,Background-Tooth4106,1h2uz9x,https://reddit.com/r/webdev/comments/1h2uz9x/tic_tac_the_hardest_game_ever/,https://github.com/Rays-Robotics/tic-tac,2024-11-29 20:26:00,0,0.17,0,0,3,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/bdcj_NIviTnw-6mlegzIYwGDO-AO5DzV8qyl_eO_J_w.jpg,t3_1h2uz9x
+webdev,"Is front end development dying [NOT duplicate, serious topic]","I'm sure there are lots of more exprienced developers out there, since I was professionally in the industry for 3 years now and I was working freelance before but things have gone much worse from my perspective. 
+
+I'm not going to start AI will make us homeless stuff, but the way is front end viewed is the problem.
+
+I think it is a nail in the coffin for this field. imagine this. so, we have backend colleagues. they are getting paid more than us and more important than that, they have PRESTIGE. 
+
+even if they write a simple SELECT query, the employer and others think that it is a rocket science or something, but for a front end developers... "" it is just a simple button bro "". 
+
+it almost took me 2 months to optimize the prescription section of our medical web app. we've had heavy lists and extremely dynamic forms and technical challenges.. but we've done something extremely good. 
+
+and now after 2 months the only thing I heard from my boss was "" this was the least you can do, it is just a simple button "" 
+
+and I don't blame him to be fair. this is what most of the industry thinks. 
+
+  
+I feel like the blue collar part of the developer society. you took the most effort, get paid less and no one values your job. 
+
+and even worse than that, compared to Java or C# (Scala or .NET Core), front end is just a shit party! no rules, no strong foundation and god forbid for example if Vercel rolls out a new update and changes the whole structure of the framework! 
+
+on the other hand, from my personal experience, I really enjoy reading .NET core documents. everything is very well structured and you don't have to give blow job  for AI or Stackoverflow developers to get your answer.
+
+just a great Microsoft community. 
+
+  
+so, my question is... is it worth it? really after 3 years and couple years of freelance, I just started to regret my choice. 
+
+it was like that in 2016 let's say... 
+
+  
+",Alternator24,1h2v4z6,https://reddit.com/r/webdev/comments/1h2v4z6/is_front_end_development_dying_not_duplicate/,https://www.reddit.com/r/webdev/comments/1h2v4z6/is_front_end_development_dying_not_duplicate/,2024-11-29 20:33:16,0,0.26,0,0,15,0,0,False,False,True,False,False,Discussion,self,t3_1h2v4z6
+webdev,Sharing my game until I have 5k users in a week(currently 40) one-lie.com,,Cold_Complex945,1h3982l,https://reddit.com/r/webdev/comments/1h3982l/sharing_my_game_until_i_have_5k_users_in_a/,https://i.redd.it/rdrkr2sse04e1.gif,2024-11-30 09:42:24,0,0.22,0,0,2,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/aJxUk1uG7B8f5oeeOHTM2d0sC_MqIEMUTa_HZe4bGhg.jpg,t3_1h3982l
