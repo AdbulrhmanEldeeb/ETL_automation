@@ -22,15 +22,27 @@ ACCOUNTS = [
 
 # Subreddits and tags
 SUBREDDITS = [
-    "python", "webdev", "MachineLearning", "datascience", "artificial",
-    "programming", "devops", "physics", "math", "science",
-    "learnprogramming", "gaming", "pcgaming", "books", "movies",
+    "python", 
+    "webdev",
+    "MachineLearning",
+    "datascience", 
+    "artificial",
+    "programming", 
+    "devops", 
+    "physics", 
+    "math", 
+    "science",
+    "learnprogramming",
+    "gaming", 
+    "pcgaming", 
+    "books", 
+    "movies",
 ]
 TAGS = ['hot', 
         'top', 
-        # 'rising', 
-        # 'controversial', 
-        # 'new',
+        'rising', 
+        'controversial', 
+        'new',
         ]
 # Parameters
 LIMIT = 100  # Posts per request

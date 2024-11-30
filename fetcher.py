@@ -47,7 +47,7 @@ def fetch_posts(headers, subreddits, tags, num_iter, limit, run_dir):
     # Combine all data into a single CSV
     if all_dataframes:
         merged_data = pd.concat(all_dataframes, ignore_index=True)
-        merged_path = os.path.join('posts', run_dir, 'merged.csv')
+        merged_path = os.path.join('posts', run_dir, 'merge','merged.csv')
         merged_data.to_csv(merged_path, index=False)
         print(f"Merged CSVs saved to {merged_path}")
     else:
