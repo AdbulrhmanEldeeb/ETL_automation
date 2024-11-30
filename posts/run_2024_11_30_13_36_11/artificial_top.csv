@@ -1,0 +1,90 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,"Well, that was fast: MIT researchers achieved human-level performance on ARC-AGI",,MetaKnowing,1h2px24,https://reddit.com/r/artificial/comments/1h2px24/well_that_was_fast_mit_researchers_achieved/,https://x.com/akyurekekin/status/1855680785715478546,2024-11-29 16:44:52,61,0.76,61,0,27,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/rORlRiy3Dmtz7pUnJKBjkBoMuSaBvxwGV8iDUYDqLUY.jpg,t3_1h2px24
+artificial,Why as models improve it may get harder to notice progress,,MetaKnowing,1h2qk7b,https://reddit.com/r/artificial/comments/1h2qk7b/why_as_models_improve_it_may_get_harder_to_notice/,https://i.redd.it/26v1o90eiv3e1.png,2024-11-29 17:12:59,30,0.79,30,0,10,0,0,False,False,False,False,False,Media,https://b.thumbs.redditmedia.com/g7FVQ76RJNuCpq49DW9ZhuzZypAfniepR0cGcxDGiGk.jpg,t3_1h2qk7b
+artificial,"Why ‘open’ AI systems are actually closed, and why this matters",,MetaKnowing,1h2qxii,https://reddit.com/r/artificial/comments/1h2qxii/why_open_ai_systems_are_actually_closed_and_why/,https://www.nature.com/articles/s41586-024-08141-1,2024-11-29 17:28:56,9,0.68,9,0,5,0,0,False,False,False,False,False,Miscellaneous,default,t3_1h2qxii
+artificial,One-Minute Daily AI News 11/29/2024,"1. Study of ChatGPT citations makes dismal reading for publishers.[1]
+
+2. Study shows 88% of Gen Z uses AI at work.[2]
+
+3. Google DeepMind Research Unlocks the Potential of LLM Embeddings for Advanced Regression.[3]
+
+4. ControlNets for Stable Diffusion 3.5 Large, Blur, Canny, and Depth.[4]
+
+Sources:
+[1] https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/
+
+[2] https://www.foxnews.com/video/6365334892112
+
+[3] https://www.marktechpost.com/2024/11/28/google-deepmind-research-unlocks-the-potential-of-llm-embeddings-for-advanced-regression/?amp
+
+[4] https://stability.ai/news/sd3-5-large-controlnets",Excellent-Target-847,1h32spc,https://reddit.com/r/artificial/comments/1h32spc/oneminute_daily_ai_news_11292024/,https://www.reddit.com/r/artificial/comments/1h32spc/oneminute_daily_ai_news_11292024/,2024-11-30 02:49:45,4,0.75,4,0,1,0,0,False,False,True,False,False,News,self,t3_1h32spc
+artificial,Meta AI had a mental breakdown on me ,,Brilliant-Rain-7936,1h32dtj,https://reddit.com/r/artificial/comments/1h32dtj/meta_ai_had_a_mental_breakdown_on_me/,https://www.reddit.com/gallery/1h32dtj,2024-11-30 02:26:56,2,0.53,2,0,5,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/IMsTWyfQK32S4aNuiuca9MrRCOrq1iHbRqr5_yCUmPY.jpg,t3_1h32dtj
+artificial,Does anyone know of any AI program or website that can take two different Audio clips and then create a 'transition' that makes a semi-reasonable sounding clip between the end of one and the start of the next one?,"Say I have Audio Clip A and Audio Clip B.
+
+They're both entirely unrelated, but I want to make A transition into B for whatever reason.
+
+Is there any website that I could plug A and B into, and get an generated transition between them?",SeaThePirate,1h311k3,https://reddit.com/r/artificial/comments/1h311k3/does_anyone_know_of_any_ai_program_or_website/,https://www.reddit.com/r/artificial/comments/1h311k3/does_anyone_know_of_any_ai_program_or_website/,2024-11-30 01:14:51,0,0.5,0,0,3,0,0,False,False,True,False,False,Question,self,t3_1h311k3
+artificial,One-Minute Daily AI News 11/29/2024,"1. Study of ChatGPT citations makes dismal reading for publishers.[1]
+
+2. Study shows 88% of Gen Z uses AI at work.[2]
+
+3. Google DeepMind Research Unlocks the Potential of LLM Embeddings for Advanced Regression.[3]
+
+4. ControlNets for Stable Diffusion 3.5 Large, Blur, Canny, and Depth.[4]
+
+Sources:
+[1] https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/
+
+[2] https://www.foxnews.com/video/6365334892112
+
+[3] https://www.marktechpost.com/2024/11/28/google-deepmind-research-unlocks-the-potential-of-llm-embeddings-for-advanced-regression/?amp
+
+[4] https://stability.ai/news/sd3-5-large-controlnets",Excellent-Target-847,1h32rpu,https://reddit.com/r/artificial/comments/1h32rpu/oneminute_daily_ai_news_11292024/,https://www.reddit.com/r/artificial/comments/1h32rpu/oneminute_daily_ai_news_11292024/,2024-11-30 02:48:08,0,0.5,0,0,1,0,0,False,False,True,False,False,News,self,t3_1h32rpu
+artificial,"the top five ais have already been estimated to earn above-genius-level iq scores. things are about to get very, very interesting.","
+
+
+iq estimates for ais have not yet been formally standardized, but based on their scores on various benchmarks and tests, researchers have approximated their ""intelligence,"" or iq-equivalent.
+
+on november 29, 2024 i asked some of the top ais to estimate the iqs of the top five ais. here are the results, (keep in mind that the average iq of the profession with the highest score, medical doctor, is 120, genius-level iq is 130 wais/140 s-b, and the iq of the average nobel laureate is 150):
+
+gpt-4o
+1. gpt-4o: 130–150
+2. gemini 1: 130–145
+3. claude 2: 120–135
+4. llama 2: 110–125
+5. palm 2: 115–130
+
+co-pilot
+1. gpt-4 turbo (0409): 150-160
+2. claude 3 opus: 145-155
+3. gpt-4 omni (0807): 150-160
+4. claude 3.5 sonnet: 140-150
+5. gemini pro 1.5: 135-145
+
+claude:
+1. claude 3.5 sonnet: 160-180
+2. gpt-4: 150-170
+3. gemini ultra: 140-160
+4. claude opus: 145-165
+5. llama 3: 130-150
+
+llama3:
+1. palm 2: 160-180
+2. llama (meta): 150-170
+3. bard: 140-160
+4. chatgpt: 130-150
+5. ernie (baidu): 120-140
+
+gemini advanced:
+gpt-4: 145-160+
+gpt-3.5: 110-130
+bard: 100-120
+claude: 110-130
+llama: 90-110
+
+you may have noticed that the results vary, and some models tend to rank themselves highest. obviously, more objective measures are needed. but the above scores suggest that ai agents are already more than intelligent enough to assist, or in some cases replace, top human personnel in virtually every job, field and profession where iq makes a difference. that's why in 2025 enterprise ai agent use is expected to go through the roof.
+
+so hold on to your hats because during these next few years our world is poised to advance across every sector in ways we can hardly imagine!
+
+ 
+",Georgeo57,1h2vgdq,https://reddit.com/r/artificial/comments/1h2vgdq/the_top_five_ais_have_already_been_estimated_to/,https://www.reddit.com/r/artificial/comments/1h2vgdq/the_top_five_ais_have_already_been_estimated_to/,2024-11-29 20:47:45,0,0.44,0,0,65,0,0,False,False,True,False,False,Discussion,self,t3_1h2vgdq
