@@ -1,0 +1,60 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] Hinton and Hassabis on Chomsky’s theory of language,"I’m pretty new to the field and would love to hear more opinions on this. I always thought Chomsky was a major figure on this but it seems like Hinton and Hassabis(later on) both disagree with it. Here: https://www.youtube.com/watch?v=urBFz6-gHGY (longer version: https://youtu.be/Gg-w_n9NJIE)
+
+I’d love to get both an ML and CogSci perspective on this and more sources that supports/rejects this view.
+
+Edit: typo + added source.",giuuilfobfyvihksmk,1h2mkye,https://reddit.com/r/MachineLearning/comments/1h2mkye/d_hinton_and_hassabis_on_chomskys_theory_of/,https://www.reddit.com/r/MachineLearning/comments/1h2mkye/d_hinton_and_hassabis_on_chomskys_theory_of/,2024-11-29 14:10:12,97,0.92,97,0,80,0,0,False,False,True,False,False,Discussion,self,t3_1h2mkye
+MachineLearning,[D] Modern use-cases for RNNs?,"The discussion can be twofold.
+1)What are in your opinion some tasks, for the personal projects scale, where you think RNNs close to traditional implementations (LSTM, GRU) are still the best starting and ending point? Especially compared to transformers.
+
+In small time-series forecasting settings I can see a GRU being more convenient than a Transformer probably, but I am interested also in tasks where inputs are sequences of symbols or measures, but outputs maybe not.
+
+The main goal is to play with LSTM and GRU variants (eg minGRU) on datasets where it makes sense, might do tiny-Shakespeare but it doesn't warm my heart...
+
+2) do you think there are sequential tasks and settings where RNNs are not only the more natural option according to our intuition, but actually the only theoretically or experimentally available option to make do, compared to Transformers or 1D CNNs etc?",Sad-Razzmatazz-5188,1h38ym2,https://reddit.com/r/MachineLearning/comments/1h38ym2/d_modern_usecases_for_rnns/,https://www.reddit.com/r/MachineLearning/comments/1h38ym2/d_modern_usecases_for_rnns/,2024-11-30 09:22:32,21,0.91,21,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1h38ym2
+MachineLearning,[D] What's the fastest object detection model?,"Hi, I'm working on a project that needs object detection. The task itself isn't complex since the objects are quite clear, but speed is critical. I've researched various object detection models, and it seems like almost everyone claims to be ""the fastest"". Since I'll be deploying the model in C++, there is no time to port and evaluate them all.
+
+I tested YOLOv5/v5Lite/8/10 previously, and YOLOv5n was the fastest. I ran a simple benchmark on an Oracle ARM server (details [here](https://github.com/Avafly/YOLOv5-ncnn-OpenVINO-MNN-ONNXRuntime-OpenCV-CPP?tab=readme-ov-file#simple-benchmarks-on-m1-mac-and-arm-linux)), and it processed an image with 640 target size in just 54ms. Unfortunately, the hardware for my current project is significantly less powerful, and meanwhile processing time must be less than 20ms. I'll use something like quantization and dynamic dimension to boost speed, but I have to choose the suitable model first.
+
+Has anyone faced a similar situation or tested models specifically for speed? Any suggestions for models faster than YOLOv5n that are worth trying?",Knok0932,1h362dq,https://reddit.com/r/MachineLearning/comments/1h362dq/d_whats_the_fastest_object_detection_model/,https://www.reddit.com/r/MachineLearning/comments/1h362dq/d_whats_the_fastest_object_detection_model/,2024-11-30 06:00:40,15,0.9,15,0,23,0,0,False,False,True,False,False,Discussion,self,t3_1h362dq
+MachineLearning,[N][R] Models are what they eat: automatic data curation for LLMs,"Sharing our most recent work at [DatologyAI](http://www.datologyai.com). Models are what they eat, and our mission is to make data curation for training large models as effective and easy as possible. 
+
+Combining a bevy of approaches, including heuristic filters, model-based filters, embedding based curation, synthetic data, target distribution matching, and mixing ratios, we were able to massively improve training efficiency, performance, and inference efficiency. 
+
+Comparing to our baseline and starting dataset -- exact deduplicated RedPajamav1, we can: 
+
+* Reach the same performance 7.7x faster (and 3.4x faster than DCLM)
+* Improve performance across benchmarks by 8.5% (and by 4.4% over DCLM)
+* Train models with fewer than half the parameters which outperform larger models by &gt;5% 
+
+Check out our [high-level results here](https://www.datologyai.com/post/train-llms-faster-better-and-smaller-with-datologyai-s-data-curation), and if you want all the nitty-gritty details, check out our[ technical deep dive](https://www.datologyai.com/post/technical-deep-dive-curating-our-way-to-a-state-of-the-art-text-dataset).",arimorcos,1h2qmol,https://reddit.com/r/MachineLearning/comments/1h2qmol/nr_models_are_what_they_eat_automatic_data/,https://www.reddit.com/r/MachineLearning/comments/1h2qmol/nr_models_are_what_they_eat_automatic_data/,2024-11-29 17:15:57,14,0.77,14,0,0,0,0,False,False,True,False,False,News,self,t3_1h2qmol
+MachineLearning,[D] Molecular Dynamics and Machine Learning Build,"Hey guys, so I do a lot of molecular dynamics and am starting to push into the ML space with that and genome/multi-omics sort of stuff. I’m building a workstation and with my budget I’m looking at 2x A6000 or 2x 5000 Ada. Both work great for molecular dynamics, but I’m trying to figure out my best option for ML. The A6000 has 48gb vram and nvlink, but the 5000 Ada is newer and substantially faster and 32Gb VRAM per card is no slouch either. Any advice? ",Mdgoff7,1h2x4ar,https://reddit.com/r/MachineLearning/comments/1h2x4ar/d_molecular_dynamics_and_machine_learning_build/,https://www.reddit.com/r/MachineLearning/comments/1h2x4ar/d_molecular_dynamics_and_machine_learning_build/,2024-11-29 22:04:19,3,0.71,3,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h2x4ar
+MachineLearning,"""[P]""Static variable and dynamic variable tables in RFM ","
+
+
+
+I am creating a prediction model using random forest. But I don't understand how the model and script would consider both tables loaded in as dataframes.
+
+
+What's the best way to use multiple tables with a Random Forest model when one table has static attributes (like food characteristics) and the other has dynamic factors (like daily health habits)?
+
+Example:
+I want to predict stomach aches based on both the food I eat (unchanging) and daily factors (sleep, water intake).
+
+Tables:
+ * Static: Food name, calories, meat (yes/no)
+ * Dynamic: Day number, good sleep (yes/no), drank water (yes/no)
+
+
+How to combine these tables in a Random Forest model? Should they be merged on a unique identifier like ""Day number""?
+",peyott100,1h2oe69,https://reddit.com/r/MachineLearning/comments/1h2oe69/pstatic_variable_and_dynamic_variable_tables_in/,https://www.reddit.com/r/MachineLearning/comments/1h2oe69/pstatic_variable_and_dynamic_variable_tables_in/,2024-11-29 15:36:10,1,0.67,1,0,3,0,0,False,False,True,False,False,Project,self,t3_1h2oe69
+MachineLearning,[P] Python Implementation of Softmax that takes integer input ,"Hey, So I am working on a project whereby I have to quantize my model's weights and biases to integers and perform subsequent operations using integers. The output of my model can be either (int8 or int16) values (in this case, logits) and I need to call softmax on this logits output/array. I was able to find an integer implementation of softmax written in C ([https://github.com/ARM-software/CMSIS-NN/tree/main/Source/SoftmaxFunctions](https://github.com/ARM-software/CMSIS-NN/tree/main/Source/SoftmaxFunctions)). The problem I'm having is trying to evaluate that this C implementation is accurate (or more specifically, that I am using it accurately). The way I'm thinking of doing that is detailed below:
+
+\*\*In Python\*\*  
+Take my integer logits -&gt; call an integer python implementation of softmax on the logits -&gt; get a result  
+(\*\*python\_integer\_prediction\_probabilities\*\*).
+
+\*\* In C (using CMSIS-NN's )  
+Take the same integer logits -&gt; call the C softmax implementation on my logits -&gt; get a result (\*\*CMSIS\_NN\_prediction\_probabilities\*\*)
+
+Finally, I compare these two results to see if they are close enough. The main problem I'm having is, I assumed there would be information about how to implement a softmax function that takes integer inputs in Python, but I can't find anything online. Does anyone have an idea of how to implement this in python or is aware of resources that I could use to figure this out? thank you.",Individual_Ad_1214,1h318gl,https://reddit.com/r/MachineLearning/comments/1h318gl/p_python_implementation_of_softmax_that_takes/,https://www.reddit.com/r/MachineLearning/comments/1h318gl/p_python_implementation_of_softmax_that_takes/,2024-11-30 01:24:56,0,0.36,0,0,3,0,0,False,False,True,False,False,Project,self,t3_1h318gl

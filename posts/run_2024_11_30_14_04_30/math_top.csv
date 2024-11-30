@@ -1,0 +1,13 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Is it interesting? Can we prove anything about this equation or its solutions? ,,Voyide01,1h2wx22,https://reddit.com/r/math/comments/1h2wx22/is_it_interesting_can_we_prove_anything_about/,https://math.stackexchange.com/questions/5003448/solutions-to-a-congruence-involving-a-tuple-counting-function,2024-11-29 21:55:12,30,0.73,30,0,2,0,0,False,False,False,False,False,,,t3_1h2wx22
+math,Inductive definition of a set.,"I am a computer science student and have studied basic discrete maths, including set theory. I was pacing across some questions when I came across this one. It seems like the standard way of defining a set inductively. A basis clause stating that certain elements are in the set, and an inductive clause which states that if x is in the set, y is also in the set. 
+
+  
+Now the problem that I have with this definition is that for many objects, it does not specify if they are in the set or not (which are not taken into account in both of the clauses). For example in this question, I cannot tell if b is in L or not. According to me, a good definition of a set should be able to define for every object in the universe of discourse, that it belongs to the set or not. The answer here, also completely depends on this assumption. My question is, am I missing something in the way sets are defined inductively, or the question is just vague and poorly framed, or the inductive definition of sets is incomplete and there are better ways to define a set?
+
+I'd be happy to provide any clarifications in my post. TY
+
+https://preview.redd.it/ypujf07p8v3e1.png?width=1374&amp;format=png&amp;auto=webp&amp;s=f688d5e5a14fe568ef1864db0f2f6d158d5e5c6a
+
+",Viable-public-key,1h2pe97,https://reddit.com/r/math/comments/1h2pe97/inductive_definition_of_a_set/,https://www.reddit.com/r/math/comments/1h2pe97/inductive_definition_of_a_set/,2024-11-29 16:21:40,28,0.81,28,0,15,0,0,False,False,True,False,False,,,t3_1h2pe97
+math,"This Week I Learned: November 29, 2024","This recurring thread is meant for users to share cool recently discovered facts, observations, proofs or concepts which that might not warrant their own threads. Please be encouraging and share as many details as possible as we would like this to be a good place for people to learn!",inherentlyawesome,1h2q9an,https://reddit.com/r/math/comments/1h2q9an/this_week_i_learned_november_29_2024/,https://www.reddit.com/r/math/comments/1h2q9an/this_week_i_learned_november_29_2024/,2024-11-29 17:00:08,11,0.93,11,0,4,0,0,False,False,True,False,False,,,t3_1h2q9an

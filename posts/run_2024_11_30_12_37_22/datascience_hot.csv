@@ -1,0 +1,1238 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,"Weekly Entering &amp; Transitioning - Thread 25 Nov, 2024 - 02 Dec, 2024"," 
+
+Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",AutoModerator,1gzb6oe,https://reddit.com/r/datascience/comments/1gzb6oe/weekly_entering_transitioning_thread_25_nov_2024/,https://www.reddit.com/r/datascience/comments/1gzb6oe/weekly_entering_transitioning_thread_25_nov_2024/,2024-11-25 05:01:25,3,0.72,3,0,39,0,0,False,False,True,False,False,,self,t3_1gzb6oe
+datascience,Recommendations for self-studying time series and forecasting models? ,"This is becoming relevant for my job but is not something I have experience with. I know they're a pretty complex set of models though. Those of you with strong backgrounds in this topic, what are some good resources for a noob to start with? ",SkipGram,1h3bi3q,https://reddit.com/r/datascience/comments/1h3bi3q/recommendations_for_selfstudying_time_series_and/,https://www.reddit.com/r/datascience/comments/1h3bi3q/recommendations_for_selfstudying_time_series_and/,2024-11-30 12:25:01,3,0.8,3,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h3bi3q
+datascience,Interview Query in 2024?,"Hi, I’m currently a manager to a ML team at a mid sized startup, and looking to prepare for my next steps.. I stumbled upon InterviewQuery and it seems like a good platform to familiarize with the technical questions asked for ML roles across companies (and its BF right now..)
+
+I’ll be very grateful if you are willing to share your experience using them (number of questions , do they end up helping you with interviews, etc) , or if you think that it’s better to learn from some other resource like books or YouTube. It’s been awhile since I had my last interview, so I’m looking to gauge and plan my preparation..
+
+Thanks!",ArticleLegal5612,1h2r4d0,https://reddit.com/r/datascience/comments/1h2r4d0/interview_query_in_2024/,https://www.reddit.com/r/datascience/comments/1h2r4d0/interview_query_in_2024/,2024-11-29 17:37:12,27,0.83,27,0,21,0,0,False,False,True,False,False,Discussion,self,t3_1h2r4d0
+datascience,Ideas for local networking?,I’ve joined local DS/ML meetup groups in the past and didn’t see much benefit. Any advice for networking locally and in person?,galactictock,1h32pu0,https://reddit.com/r/datascience/comments/1h32pu0/ideas_for_local_networking/,https://www.reddit.com/r/datascience/comments/1h32pu0/ideas_for_local_networking/,2024-11-30 02:45:08,4,1.0,4,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1h32pu0
+datascience,AWS released new Multi-AI Agent framework,,mehul_gupta1997,1h379cw,https://reddit.com/r/datascience/comments/1h379cw/aws_released_new_multiai_agent_framework/,/r/OpenAI/comments/1h378tb/aws_released_new_multiai_agent_framework/,2024-11-30 07:19:23,1,0.6,1,0,1,0,0,False,False,False,False,False,AI,default,t3_1h379cw
+datascience,Is Azure ML good today ?,"Hi, to give a bit of context I work in a medium sized company that want to start some ML projects. We are already in the azure ecosystem with some data, webapps, powerBI and stuffs, we are now seeking for a ML cloud provider to do all our MLops. As I can see azure ML can be a bit frustrating, what are your thought on it nowadays ?
+
+I am more a coding guy and don't like as much drag&amp;drop tools, can we build an ai model from scratch with VS code integration or whatever (preprocessing/training/evaluation)? ",Daamm1,1h2j3in,https://reddit.com/r/datascience/comments/1h2j3in/is_azure_ml_good_today/,https://www.reddit.com/r/datascience/comments/1h2j3in/is_azure_ml_good_today/,2024-11-29 10:39:22,37,0.88,37,0,15,0,0,False,False,True,False,False,Tools,self,t3_1h2j3in
+datascience,Andrew NG releases new GenAI package : aisuite,,mehul_gupta1997,1h2ewm0,https://reddit.com/r/datascience/comments/1h2ewm0/andrew_ng_releases_new_genai_package_aisuite/,/r/OpenAI/comments/1h2evsb/andrew_ng_releases_new_genai_package_aisuite/,2024-11-29 05:44:31,11,0.72,11,0,0,0,0,False,False,False,False,False,AI,default,t3_1h2ewm0
+datascience,Recommendations for general purpose papers,"In the past, I feel like there were more general purpose papers in the field. How to do a good imputation, better calibration, sampling, etc. as a DS me and my team work mostly on tabular data, and I am trying to revive our educational meetings and spice them up with academic papers, which I hope will be relevant to our work and the methods we apply. 
+
+Here is a cool example for a relatively new paper that was published well and also is quite generic. 
+
+Any recommendation for particular papers, researchers to follow, filters to apply when looking for papers? Basically I am looking for anything that is not deep learning.",David202023,1h2d7tv,https://reddit.com/r/datascience/comments/1h2d7tv/recommendations_for_general_purpose_papers/,https://arxiv.org/pdf/2110.13048,2024-11-29 04:01:56,15,0.95,15,0,3,0,0,False,False,False,False,False,Discussion,default,t3_1h2d7tv
+datascience,"Black Friday, which online course to buy?","With Black Friday deals in full swing, I’m looking to make the most of the discounts on learning platforms. Many courses are being offered at great prices, and I’d love your recommendations on what to explore next.
+
+So far, two courses have had a significant impact on my career:
+
+* **FastAPI**: [Course Link](https://www.udemy.com/share/105jgS3@OLhcaI8FmoSBnJxEadRwL_p3r8OBACvCpLQL78v3ltAaPlqlLf372_3dqhJcJIWT/)
+* **Docker**: [Course Link](https://www.udemy.com/share/101WlG3@-8HaePpeOrxBTAIIFw8aEu2HNooV1Y9ydsFwShRNLEpG-aVdZb8cjU17UkuTnOP8/)
+
+Both of these helped me take a big step forward in my career, and I’d love to hear your thoughts on other courses that might offer similar value.",rr_eno,1h241b5,https://reddit.com/r/datascience/comments/1h241b5/black_friday_which_online_course_to_buy/,https://www.reddit.com/r/datascience/comments/1h241b5/black_friday_which_online_course_to_buy/,2024-11-28 19:42:56,50,0.83,50,0,25,0,0,False,False,True,False,False,Education,self,t3_1h241b5
+datascience,Plotly 6.0 Release Candidate is out!,"Plotly have a [**release candidate** of version 6.0](https://github.com/plotly/plotly.py/releases/tag/v6.0.0rc0) out, which you can install with \`pip install -U --pre plotly\`
+
+
+
+The most exciting part for me is improved dataframe support:
+
+\- previously, if Plotly received non-pandas input, it would convert it to pandas and then continue
+
+\- now, you can also pass in Polars DataFrame / PyArrow Table / cudf DataFrame and computation will happen natively on the input object without conversion to pandas. If you pass in a DuckDBPyRelation, then after some pruning, it'll convert it to PyArrow Table. This cross-dataframe support is achieved via [Narwhals](https://github.com/narwhals-dev/narwhals)
+
+For plots which involve grouping by columns (e.g. \`color='symbol', size='market'\`) then performance is often 2-3x faster when starting with non-pandas inputs. For pandas inputs, performance is about the same as before (it should be backwards-compatible)
+
+If you try it out and report any issues before the final 6.0 release, then you're a star!",marcogorelli,1h1sqvm,https://reddit.com/r/datascience/comments/1h1sqvm/plotly_60_release_candidate_is_out/,https://www.reddit.com/r/datascience/comments/1h1sqvm/plotly_60_release_candidate_is_out/,2024-11-28 10:02:51,103,0.97,103,0,3,0,0,False,False,True,False,False,Tools,self,t3_1h1sqvm
+datascience,Data Scientist Struggling with Programming Logic,"Hello!
+It is well known that many data scientists come from non-programming backgrounds, such as math, statistics, engineering, or economics. As a result, their programming skills often fall short compared to those of CS professionals (at least in theory). I personally belong to this group.
+
+So my question is: how can I improve? I know practice is key, but how should I practice? I’ve been considering platforms like LeetCode.
+
+Let me know your best strategies! I appreciate all of them",gomezalp,1h1ll18,https://reddit.com/r/datascience/comments/1h1ll18/data_scientist_struggling_with_programming_logic/,https://www.reddit.com/r/datascience/comments/1h1ll18/data_scientist_struggling_with_programming_logic/,2024-11-28 02:23:23,168,0.89,168,0,74,0,0,False,False,True,False,False,Discussion,self,t3_1h1ll18
+datascience,Is it reasonable to put technical challenges in github?,"Hey, I have been solving lots of technical challenges lately, what do you think about, after completing the challenge, putting it in a repo and saving the changes, I think a little bit later those maybe could serve as a portfolio? or maybe go deeper into one particular challenge, improve it and make it a portfolio? 
+
+I'm thinking that in a couple years I could have a big directory with lots of challenge solutions and maybe then it could be interesting to see for a hiring manager or a technical manager?",imberttt,1h1w47x,https://reddit.com/r/datascience/comments/1h1w47x/is_it_reasonable_to_put_technical_challenges_in/,https://www.reddit.com/r/datascience/comments/1h1w47x/is_it_reasonable_to_put_technical_challenges_in/,2024-11-28 13:37:30,21,0.76,21,0,32,0,0,False,False,True,False,False,Projects,self,t3_1h1w47x
+datascience,Senior Data Scientist Interview at Capital One,"Hey everyone,I've got an upcoming interview for a Senior Data Scientist position at Capital One and I'm looking for some insights. I'd really appreciate if anyone could share their experiences or advice on the following:
+
+1. What does the interview process typically look like? I've heard about a ""Power Day"" - what should I expect?
+2. How can I best prepare for the technical rounds, especially the ML Technical and Stats Roleplay portions?
+3. Are there any specific resources or prep materials that have been particularly helpful for Capital One interviews?",Ordinary-Secret7623,1h1phpb,https://reddit.com/r/datascience/comments/1h1phpb/senior_data_scientist_interview_at_capital_one/,https://www.reddit.com/r/datascience/comments/1h1phpb/senior_data_scientist_interview_at_capital_one/,2024-11-28 06:10:34,43,0.83,43,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1h1phpb
+datascience,Math Question on logistic regression and boundary classification from Andrew Ngs Coursera course,"I'm following Andrew Ngs Machine Learning specialisation on Coursera, FYI.
+
+If the value of the sigmoid function is greater than 0.5, the classification model would predict y\_hat = 1 or ""true"".
+
+However, when using more complex functions inside of the sigmoid function, e.g. an ellipse:
+
+1 / (1 + e^(-z)) where z = x1^(2)/a^(2)   \+   x2^(2)/b^(2)   \-1
+
+in order to define the classification boundary, Andrew says that the model would predict y\_hat = 1 for points inside of the boundary. However, based on my understanding of the lecture, as long as the threshold is 0.5, and you're predicting y\_hat = 1 for any points where the sigmoid function evaluates to &gt;= 0.5 then it should be points **outside** the boundary.
+
+More specifically, it's proven that g(z) &gt;= 0.5 when z &gt;= 0, therefore if z is an ellipse, g(z) &gt;= 0.5 would imply that x1^(2)/a^(2)   \+   x2^(2)/b^(2) \&gt;= 1, i.e. outside the boundary
+
+  
+... At least by my understanding. Can anyboydy shed some light on what I may have missed, or if this is just a mistake in the lecture? Thank you",ColdStorage256,1h1ggk7,https://reddit.com/r/datascience/comments/1h1ggk7/math_question_on_logistic_regression_and_boundary/,https://www.reddit.com/r/datascience/comments/1h1ggk7/math_question_on_logistic_regression_and_boundary/,2024-11-27 22:12:24,18,0.96,18,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1h1ggk7
+datascience,Just spent the afternoon chatting with ChatGPT about a work problem. Now I am a convert. ,"
+I have to build an optimization algorithm on a domain I have not worked in before (price sensitivity based, revenue optimization) 
+
+Well, instead of googling around, I asked ChatGPT which we do have available at work. And it was eye opening. 
+
+I am sure tomorrow when I review all my notes I’ll find errors. However, I have key concepts and definitions outlined with formulas. I have SQL/Jinja/ DBT and Python code examples to get me started on writing my solution - one that fits my data structure and complexities of my use case. 
+
+Again. Tomorrow is about cross checking the output vs more reliable sources. But I got so much knowledge transfered to me. I am within a day so far in defining the problem. 
+
+Unless every single thing in that output is completely wrong, I am definitely a convert. This is probably very old news to many but I really struggled to see how to use the new AI tools for anything useful. Until today. ",Final_Alps,1h0intv,https://reddit.com/r/datascience/comments/1h0intv/just_spent_the_afternoon_chatting_with_chatgpt/,https://www.reddit.com/r/datascience/comments/1h0intv/just_spent_the_afternoon_chatting_with_chatgpt/,2024-11-26 18:18:36,275,0.86,275,0,102,0,0,False,False,True,False,False,Discussion,self,t3_1h0intv
+datascience,Marco-o1: Open-sourced alternate for OpenAI-o1 ,"Alibaba recently launched Marco-o1 reasoning model, which specialises not just in topics like maths or physics, but also aim at open-ended reasoning questions like ""What happens if the world ends""? The model size is just 7b and is open-sourced as well..check more about it here and how to use it : https://youtu.be/R1w145jU9f8?si=Z0I5pNw2t8Tkq7a4",mehul_gupta1997,1h0v56p,https://reddit.com/r/datascience/comments/1h0v56p/marcoo1_opensourced_alternate_for_openaio1/,https://www.reddit.com/r/datascience/comments/1h0v56p/marcoo1_opensourced_alternate_for_openaio1/,2024-11-27 03:39:33,26,0.88,26,0,3,0,0,False,False,True,False,False,AI,self,t3_1h0v56p
+datascience,Is Freelancing as a Data Scientist Even Possible for Beginners?,"Hi everyone,
+
+I’m new to data science and considering freelancing. I’m fine working for as low as $15/hour, so earnings aren’t a big concern for me. I’ve gone through past Reddit posts, but they mostly discuss freelancing from the perspective of income. My main concern is whether freelancing in data science is practical for someone like me, given its unique challenges.
+
+A bit about my background: I’ve completed 3-4 real-world data science projects, not on toy datasets, but actual data (involving data scraping, cleaning, visualization, modeling, deployment, and documentation). I’ve also worked as an intern in the NLP domain.
+
+Some issues I’ve been thinking about:
+
+1. Domain Knowledge and Context: How hard is it to deliver results without deep understanding of a client’s business?
+
+
+2. Resource Limitations: Do freelancers struggle with accessing data, computing power, or other tools required for advanced projects?
+
+
+3. Collaboration Needs: Data science often requires working with teams. Can freelancers integrate effectively with cross-functional groups?
+
+
+4. Iterative and Long-Term Nature: Many projects require ongoing updates and monitoring. Is this feasible for freelancers?
+
+
+5. Trust and Accountability: How do freelancers convince clients to trust them with sensitive or business-critical work?
+
+
+6. Client Expectations: Do clients expect too much for too little, especially at low wages?
+
+
+
+I’m also open to any tips, advice, or additional concerns beyond these points. Are these challenges solvable for a beginner? Have any of you faced and overcome similar issues? I’d love to hear your thoughts.
+
+Thanks in advance!",ds_reddit1,1h1q1ep,https://reddit.com/r/datascience/comments/1h1q1ep/is_freelancing_as_a_data_scientist_even_possible/,https://www.reddit.com/r/datascience/comments/1h1q1ep/is_freelancing_as_a_data_scientist_even_possible/,2024-11-28 06:46:40,0,0.41,0,0,20,0,0,False,False,True,False,False,Challenges,self,t3_1h1q1ep
+datascience,Alibaba QwQ-32B : Outperforms OpenAI o1-mini and o1-preview for reasoning on multiple benchmarks,"Alibaba's latest reasoning model, QwQ has beaten o1-mini, o1-preview, GPT-4o and Claude 3.5 Sonnet as well on many benchmarks. The model is just 32b and is completely open-sourced as well
+Checkout how to use it : https://youtu.be/yy6cLPZrE9k?si=wKAPXuhKibSsC810",mehul_gupta1997,1h1ni2d,https://reddit.com/r/datascience/comments/1h1ni2d/alibaba_qwq32b_outperforms_openai_o1mini_and/,https://www.reddit.com/r/datascience/comments/1h1ni2d/alibaba_qwq32b_outperforms_openai_o1mini_and/,2024-11-28 04:09:50,0,0.33,0,0,0,0,0,False,False,True,False,False,AI,self,t3_1h1ni2d
+datascience,I Wrote a Guide to Simulation in Python with SimPy,"Hi folks,
+
+I wrote a guide on discrete-event simulation with [SimPy](https://simpy.readthedocs.io/en/latest/), designed to help you learn how to build simulations using Python. Kind of like the official documentation but on steroids.
+
+I have used SimPy personally in my own career for over a decade, it was central in helping me build a [pretty successful engineering career](https://www.reddit.com/r/MechanicalEngineering/comments/1gh8at0/my_13_year_nontraditional_meche_career_journey/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button). Discrete-event simulation is useful for modelling real world industrial systems such as factories, mines, railways, etc.
+
+My latest venture is teaching others all about this.
+
+If you do get the guide, I’d really appreciate any feedback you have. Feel free to drop your thoughts here in the thread or DM me directly!
+
+Here’s the link to get the guide: [https://simulation.teachem.digital/free-simulation-in-python-guide](https://simulation.teachem.digital/free-simulation-in-python-guide)
+
+For full transparency, why do I ask for your email?
+
+Well I’m working on a full course following on from my previous [Udemy course on Python](https://www.udemy.com/course/python-for-engineers-scientists-and-analysts/?referralCode=8E30A5C432085F42D090). This new course will be all about real-world modelling and simulation with SimPy, and I’d love to send you keep you in the loop via email. If you found the guide helpful you would might be interested in the course. That said, you’re completely free to hit “unsubscribe” after the guide arrives if you prefer.",bobo-the-merciful,1h0j0ca,https://reddit.com/r/datascience/comments/1h0j0ca/i_wrote_a_guide_to_simulation_in_python_with_simpy/,https://www.reddit.com/r/datascience/comments/1h0j0ca/i_wrote_a_guide_to_simulation_in_python_with_simpy/,2024-11-26 18:32:18,92,0.96,92,0,16,0,0,False,False,True,False,False,Education,self,t3_1h0j0ca
+datascience,Should I try to become a Data scientist or AI engineer,"Background: I’m a 25M with 2.5 years experience as an analyst. (Soon enrolling in a masters program in CS) There are a few careers possibilities for me, but I’m confused as to whether I should try to become a general data scientist or ai engineer?
+
+It seems like data scientist is more interesting to me, using a more advanced range of computational tools and statistical techniques. However, I’m worried this field is too competitive with the large influx of people with phds.
+
+Instead, I’m considering becoming an AI engineer, which seems mostly focused on calling APIs from large ai companies and hacking together applications based on LLMs and similar technologies. But this seems less exciting.
+
+Are there any specific reasons you’d advocate for one versus the other? ",OutrageousPressure6,1h0e6jb,https://reddit.com/r/datascience/comments/1h0e6jb/should_i_try_to_become_a_data_scientist_or_ai/,https://www.reddit.com/r/datascience/comments/1h0e6jb/should_i_try_to_become_a_data_scientist_or_ai/,2024-11-26 15:15:35,132,0.82,132,0,88,0,0,False,False,True,False,False,Discussion,self,t3_1h0e6jb
+datascience,"Have you ever presented an analysis or shipped a model just because someone demand it, even when you knew it was wrong, just to save your ass? ","This has been quite common in my career. Execs demand a model X, we barely have good data to create nor the model turns out good, but telling them something like ""we are unable to deliver this project because our experiments failed for some reasons"" is a proof of your incompetence in their POV. ",CadeOCarimbo,1h0cxmm,https://reddit.com/r/datascience/comments/1h0cxmm/have_you_ever_presented_an_analysis_or_shipped_a/,https://www.reddit.com/r/datascience/comments/1h0cxmm/have_you_ever_presented_an_analysis_or_shipped_a/,2024-11-26 14:19:13,101,0.96,101,0,39,0,0,False,False,True,False,False,Discussion,self,t3_1h0cxmm
+datascience,Good audiobook for DS/ML?,"Is there a good audiobook that goes through topics in DS or ML that I can listen to on my commute to work? I’m looking for something technical, not a statistics driven non-fiction book.",LeaguePrototype,1h0hvks,https://reddit.com/r/datascience/comments/1h0hvks/good_audiobook_for_dsml/,https://www.reddit.com/r/datascience/comments/1h0hvks/good_audiobook_for_dsml/,2024-11-26 17:47:59,8,0.63,8,0,22,0,0,False,False,True,False,False,Discussion,self,t3_1h0hvks
+datascience,Looking for food menu related data.,,Blahblahblakha,1h0pa9g,https://reddit.com/r/datascience/comments/1h0pa9g/looking_for_food_menu_related_data/,/r/data/comments/1h0p9jr/looking_for_food_menu_related_data/,2024-11-26 22:50:50,3,0.8,3,0,13,0,0,False,False,False,False,False,Projects,default,t3_1h0pa9g
+datascience,OGI - An Open Source Framework for General Intelligence ,"Dan and I often found ourselves deep in conversation about the future of artificial intelligence, particularly how we could create a system that mimics human cognition. Our discussions revolved around the limitations of current AI models, which often operate in silos and lack the flexibility of human thought. 
+
+From these chats, we conceptualized the **Open General Intelligence (OGI) framework**, which aims to integrate various processing modules that can dynamically adjust based on the task at hand. We drew inspiration from how the human brain processes information—using interconnected modules that specialize in different functions while still working together seamlessly.
+
+Our brainstorming sessions were filled with ideas about creating a more adaptable AI that could handle multiple data types and switch between cognitive processes effortlessly. This collaborative effort not only sparked innovative concepts but also solidified our vision for a more intelligent and reliable AI system.
+It is open source and look for the GitHub community link soon 
+
+https://arxiv.org/abs/2411.15832",Efficient-Hovercraft,1h0phmw,https://reddit.com/r/datascience/comments/1h0phmw/ogi_an_open_source_framework_for_general/,https://www.reddit.com/r/datascience/comments/1h0phmw/ogi_an_open_source_framework_for_general/,2024-11-26 22:59:56,0,0.5,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h0phmw
+datascience,"In FAANG, how do they analyze the result of an AB test that didn't do well? ","A new feature was introduced to a product and the test indicated a slight worsening in the metric of interest. However the result wasn't statistically significant so I guess it's a neutral result.
+
+The PM and engineers don't want the effort they put into developing the feature to go to waste so they ask the DS (me) to look into why it might not have given positive results. 
+
+What are they really asking here? A way to justify re-running tje experiment? Find some segment in which the experiment actually did well? 
+
+Thoughts? 
+
+Edit: My previous DS experience is more modeling, data engineering etc. My current role is heavy on AB-testing (job market is rough, took what I could find). My AB testing experience is limited and none of it in big tech.",datamakesmydickhard,1gzsrub,https://reddit.com/r/datascience/comments/1gzsrub/in_faang_how_do_they_analyze_the_result_of_an_ab/,https://www.reddit.com/r/datascience/comments/1gzsrub/in_faang_how_do_they_analyze_the_result_of_an_ab/,2024-11-25 20:21:22,136,0.91,136,0,75,0,0,False,False,True,False,False,Analysis,self,t3_1gzsrub
+datascience,Free Weather Data?,Is Weather Underground still a thing? Looks like it is closed... is there a new goto? Or am I wrong?,CombinationThese993,1gzx4tv,https://reddit.com/r/datascience/comments/1gzx4tv/free_weather_data/,https://www.reddit.com/r/datascience/comments/1gzx4tv/free_weather_data/,2024-11-25 23:19:39,46,0.98,46,0,35,0,0,False,False,True,False,False,Discussion,self,t3_1gzx4tv
+datascience,BF Special!,"Alright, so we have [a unique deal this year for you.](https://dataengineeracademy.com/?he=[Email]&amp;el=blackfriday12025)
+
+Here's the deal, use the code -&gt; **BLKFRI60 (60% off)**
+
+Enjoy!
+
+You can ['buy now and pay later' ](https://dataengineeracademy.com/?he=[Email]&amp;el=blackfriday12025)with Affirm or Klarna btw",chrisgarzon19,1gztmrt,https://reddit.com/r/datascience/comments/1gztmrt/bf_special/,https://www.reddit.com/r/datascience/comments/1gztmrt/bf_special/,2024-11-25 20:56:00,0,0.08,0,0,1,0,0,False,False,True,False,False,Education,self,t3_1gztmrt
+datascience,Doubts on credit scorecard devlopment ,"So I had a few questions when I was learning about score cards and how how they are made etc, and I came accross a few questions that I would like to discuss on.
+
+
+1). Why do we have Policy as a critical part of underwriting when Scorecard can technically address all aspects related to credit risk (e.g., if Ag&lt;18 is a decline as per lender policy, we can put a very low score for Age&lt;18 and it would automatically be declined. Hence, Scorecard can cover Policy parameters also.)? Do we really need to have Policy? What purpose does it serve?
+
+2. One lender (a client of a credit bureau) uses Personal Loan scorecard with very high Gini. However, the client experienced very high default rate on low-income customers who had high custom score. Under what circumstance is it possible? Or it is not a possibility?
+
+3. Should Fraud be checked as top of funnel in underwriting or should it be done at the end of the underwriting funnel?
+
+
+My answers are as follows :-
+Ans 1) even if I give a very low score to applicants under 18, it is still possible for that applicant to score high on other parameters and come accross as a good customer contradictory to my policy which states that I have to reject him.
+
+Ans2)I think the answer to this is that the model is overfitting,Maybe the score card when being developed did not have enough data on low income customer so the model is not able to discriminate between the low income and other income levels of customer so it's overfitting when it is validated.
+
+Ans3)fraud must be checked as early as possible so that , fraudulent customers are rejected outright to avoid wasting resourcess on those customers.
+
+This is my take on the questions, I would love to hear yours.
+
+Also if you guys know any resources (books,videos etc) that goes in the detail about scorecard devlopment etc.
+
+
+Thanks In advance.
+
+
+Thanks for your replies, I am still having a hard time understanding some of the answers , so I will elaborate a bit more as maybe I didn't frame my questions properly.
+
+Q1) let's say I don't want to provide loans to people in certain regions..let's say a war torn country, but the individuals of the region have a good credit history and they seem to pay back their loans. But I have a policy that says I can't operate in this region , can I not price this risk accordingly in my scorecard?so does this undermine the need for policy.
+
+Q2)For the second question, what I wanted to ask was is as follows  let's say I have built a model with a high gini , but let's say that for a lot of low income individuals for whom my scorecard gave a high custom score , turned out to be defaulters. Is this possible and if so, why does this happen? Was the income relationship too complex to capture? Is my model overfitting? 
+
+Q3)what is the loan underwriting process ? What is fraud risk and credit risk ? As per my understanding fraud risk eventually becomes credit risk , hence checking fraud must be the first thing to do when underwriting.
+",toxicvolter,1gymca0,https://reddit.com/r/datascience/comments/1gymca0/doubts_on_credit_scorecard_devlopment/,https://www.reddit.com/r/datascience/comments/1gymca0/doubts_on_credit_scorecard_devlopment/,2024-11-24 08:29:26,11,0.76,11,0,25,0,0,False,False,True,False,False,Discussion,self,t3_1gymca0
+datascience,Question about setting up training set,"I have a question how how to structure my training set for a churn model. Let’s say I have customers on a subscription based service and at any given time they could cancel their subscription. I want to predict the clients that may go lost in the next month and for that I will use a classification model. Now for my training set, I was thinking of using customer data from the past 12-months. In that twelve months, I will have customers that have churned in that time and customers that have not. Since I am looking to predict churns in the next month, should my training set consist of lost client and non-lost customers in each month for the past twelve month where if a customers has not churned at all in the past year, I would have 12 records for that same customer and the features about that customer as of the given month? Or would I only have one record for the customer that has not churned and remained active and the features for that client would be as of the last month in my twelve month window?
+
+**EDIT: Hey all thank you for the feedback! This discussion has been very helpful with my approach and I appreciate everyone’s willingness to help out!",CompositePrime,1gy7d8h,https://reddit.com/r/datascience/comments/1gy7d8h/question_about_setting_up_training_set/,https://www.reddit.com/r/datascience/comments/1gy7d8h/question_about_setting_up_training_set/,2024-11-23 19:15:28,12,0.93,12,0,32,0,0,False,False,True,False,False,Discussion,self,t3_1gy7d8h
+datascience,Help choosing between two job offers,"Hello everyone, I’m a recent graduate (September 2024) with a background in statistics, and I’ve been applying for jobs for the past three months. After countless applications and rejections, I’ve finally received two offers but seeing my luck they came two days apart, and I’m unsure which to choose.
+
+1/ AI Engineer (Fully Remote): This role focuses on building large language models (LLMs). It's more of a technical role.
+
+2/ Marketing Scientist (Office-based): This involves applying data analytics to marketing-related problems focusing on regression models. It's more of a client facing role.
+
+While my background is in statistics, I’ve done several internships and projects in data science. I’m leaning toward the AI engineer role mainly because the title and experience seem to offer better future growth opportunities. However, I’m concerned about the fully remote aspect because i'm young and value in-person interactions, like building relationships with colleagues and being part of a workplace community.
+
+Does anyone have experience in similar roles or faced a similar dilemma? Any advice would be greatly appreciated!
+
+
+EDIT: I don’t understand the downvotes I’m getting when I’m just asking for advice from experienced people as I try to land my first job in a field I’m passionate about. 
+For context, I’m not US-based, so I hope that clarifies some things. I have an engineering degree in statistics and modeling, which in my country involves two years of pre-engineering studies followed by three years of specialization in engineering. This is typically the required level for junior engineering roles here, while more senior positions usually require a master’s or PhD.",Koobangtan,1gxm6nh,https://reddit.com/r/datascience/comments/1gxm6nh/help_choosing_between_two_job_offers/,https://www.reddit.com/r/datascience/comments/1gxm6nh/help_choosing_between_two_job_offers/,2024-11-22 23:57:37,67,0.79,67,0,86,0,0,False,False,True,False,False,Discussion,self,t3_1gxm6nh
+datascience,"Does anyone function more as a ""applied scientist"" but have no research background?","**TLDR: DS profile is shifting to be more ML heavy, but lack research experience to compete with ML specialists.**
+
+I've been a DS for several years, mostly in jack-of-all-trades functions: large-scale pipeline building, ad-hoc/bespoke statistical modeling for various stakeholders, ML applications, etc. More recently, I've started on a lot more GenAI/LLM work alongside applied scientists. Leaving aside the negativity on LLM hype, most of the AS folks have heavy research backgrounds: either PhDs or publications, attendance at conferences like ICLR, CVPR, NeurIPS, etc. I don't have any research experience except for a short stint in a lab during grad school but was never published. Luckily my AS peers have treated me as their own, which is good from credibility perspective.
+
+That said, when I look at the market, DS jobs are either heavy on product analytics (hypothesis testing, experimentation, product sense, etc.) or DA/BI (dashboards, reporting, vis, etc.). The ones that are ML-heavier generally want much more research experience and involvement. I can explain the theory behind transformers, attention, decoders vs. encoders, etc. but I have zero publications and wouldn't stand a chance against people with much deeper ML research experience.
+
+I guess what I'm looking for is an applied/ML scientist-adjacent role, but still gives opportunity to flex to occasionally support other functions, like TPM'ing, DE, MLOps, etc. Aside from startups, there doesn't seem to be much out there. Anyone else?",dantzigismyhero,1gxhjfr,https://reddit.com/r/datascience/comments/1gxhjfr/does_anyone_function_more_as_a_applied_scientist/,https://www.reddit.com/r/datascience/comments/1gxhjfr/does_anyone_function_more_as_a_applied_scientist/,2024-11-22 20:29:46,46,0.92,46,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1gxhjfr
+datascience,I Built a one-click website which generates a data science presentation from any CSV file,"Hi all, I've created a data science tool that I hope will be very helpful and interesting to a lot of you!
+
+[https://www.csv-ai.com/](https://www.csv-ai.com/)
+
+Its a one click tool to generate a PowerPoint/PDF presentation from a CSV file with no prompts or any other input required. Some AI is used alongside manually written logic and functions to create a presentation showing visualisations and insights with machine learning.
+
+It can carry out data transformations, like converting from long to wide, resampling the data and dealing with missing values. The logic is fairly basic for now, but I plan on improving this over time.
+
+My main target users are data scientists who want to quickly have a look at some data and get a feel for what it contains (a super version of pandas profiling), and quickly create some slides to present. Also non-technical users with datasets who want to better understand them and don't have access to a data scientist.
+
+The tool is still under development, so may have some bugs and there lots of features I want to add. But I wanted to get some initial thoughts/feedback. Is it something you would use? What features would you like to see added? Would it be useful for others in your company?
+
+It's free to use for files under 5MB (larger files will be truncated), so please give it a spin and let me know how it goes!",TheRazerBlader,1gx6sto,https://reddit.com/r/datascience/comments/1gx6sto/i_built_a_oneclick_website_which_generates_a_data/,https://www.reddit.com/r/datascience/comments/1gx6sto/i_built_a_oneclick_website_which_generates_a_data/,2024-11-22 12:34:53,126,0.81,126,0,59,0,0,False,False,True,False,False,Projects,self,t3_1gx6sto
+datascience,How to make more reliable reports using AI — A Technical Guide,,phicreative1997,1gy1tml,https://reddit.com/r/datascience/comments/1gy1tml/how_to_make_more_reliable_reports_using_ai_a/,https://medium.com/firebird-technologies/how-to-make-more-reliable-reports-using-ai-a-technical-guide-672b2d01cb2a,2024-11-23 15:14:51,0,0.36,0,0,3,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/-AZkwBJl93JyKODja6Nv557NXqR_dwFniH8tEBkkuoQ.jpg,t3_1gy1tml
+datascience,How do you mange the full DS/ML lifecycle ?,"Hi guys! I’ve been pondering with a specific question/idea that I would like to pose as a discussion, it concerns the idea of more quickly going from idea to production with regards to ML/AI apps.
+
+My experience in building ML apps and whilst talking to friends and colleagues has been something along the lines of you get data, that tends to be really crappy, so you spend about 80% of your time cleaning this, performing EDA, then some feature engineering including dimension reduction etc. All this mostly in notebooks using various packages depending on the goal. During this phase there are couple of tools that one tends to use to manage and version data e.g DVC etc
+
+Thereafter one typically connects an experiment tracker such as MLFlow when conducting model building for various metric evaluations. Then once consensus has been reached on the optimal model, the Jupyter Notebook code usually has to be converted to pure python code and wrapped around some API or other means of serving the model. Then there is a whole operational component with various tools to ensure the model gets to production and amongst a couple of things it’s monitored for various data and model drift.
+
+Now the ecosystem is full of tools for various stages of this lifecycle which is great but can prove challenging to **operationalize** and as we all know sometimes the results we get when adopting ML can be supar :(
+
+I’ve been playing around with various platforms that have the ability for an end-to-end flow from cloud provider platforms such as AWS SageMaker, Vertex , Azure ML. Popular opensource frameworks like MetaFlow and even tried DagsHub. With the cloud providers it always feels like a jungle, clunky and sometimes overkill e.g maintenance. Furthermore when asking for platforms or tools that can really help one explore, test and investigate without too much setup it just feels lacking, as people tend to recommend tools that are great but only have one part of the puzzle. The best I have found so far is Lightning AI, although when it came to experiment tracking it was lacking.
+
+So I’ve been playing with the idea of a truly out-of-the-box end-to-end platform, the idea is not to to re-invent the wheel but combine many of the good tools in an end-to-end flow powered by collaborative AI agents to help speed up the workflow across the ML lifecycle for faster prototyping and iterations. You can check out my initial idea over here [https://envole.ai](https://envole.ai)
+
+This is still in the early stages so the are a couple of things to figure out, but would love to hear your feedback on the above hypothesis, how do you you solve this today ?",Lumiere-Celeste,1gxbrjj,https://reddit.com/r/datascience/comments/1gxbrjj/how_do_you_mange_the_full_dsml_lifecycle/,https://www.reddit.com/r/datascience/comments/1gxbrjj/how_do_you_mange_the_full_dsml_lifecycle/,2024-11-22 16:26:38,12,0.78,12,0,18,0,0,False,False,True,False,False,Projects,self,t3_1gxbrjj
+datascience,Is Pandas Getting Phased Out?,"Hey everyone,
+
+I was on statascratch a few days ago, and I noticed that they added a section for Polars. Based on what I know, Polars is essentially a better and more intuitive version of Pandas (correct me if I'm wrong!). 
+
+With the addition of Polars, does that mean Pandas will be phased out in the coming years? 
+
+And are there other alternatives to Pandas that are worth learning? ",pansali,1gwrd0a,https://reddit.com/r/datascience/comments/1gwrd0a/is_pandas_getting_phased_out/,https://www.reddit.com/r/datascience/comments/1gwrd0a/is_pandas_getting_phased_out/,2024-11-21 21:50:24,335,0.89,335,0,241,0,0,False,False,True,False,False,Discussion,self,t3_1gwrd0a
+datascience,What’s the correct nonnulls % threshold to “save the column”? Regression model.,"I have a dataset that has many columns with nans, some with 97% non nulls, all continuous. I am using a regression model to fill nans with data from all other columns (obviously have to only use rows that don’t contain nan). I am happy to do this where non nulls range from 90-99%.
+
+However, some features have just above half as non nulls. It ranges ie 51.99% - 61.58%. 
+
+Originally I was going to just delete these columns as the data is so sparse. But now I am questioning myself, as I’d like to make my process here perfect.
+
+If one has only 15% non nulls, let’s say, using a regression model to predict the remaining 85% seems unreasonable. But at 80-20 it seems fine. So my question: at what level can one still impute missing values to a column that is sparse?
+
+And specifically, any hints with a regression model (xgb) would be much appreciated.",SingerEast1469,1gx9hdc,https://reddit.com/r/datascience/comments/1gx9hdc/whats_the_correct_nonnulls_threshold_to_save_the/,https://www.reddit.com/r/datascience/comments/1gx9hdc/whats_the_correct_nonnulls_threshold_to_save_the/,2024-11-22 14:47:52,12,0.88,12,0,34,0,0,False,False,True,False,False,Discussion,self,t3_1gx9hdc
+datascience,DS books with digestible math ,"I'm looking to go bit more in-depth on stats/math for DS/ML but most books I have looked at either tend to skip math derivations and only show final equations or introduce symbols without explanations and their transformations tend to go over my head. For example, I was recently looking at one of topics in [this](https://books.google.com/books?hl=en&amp;lr=&amp;id=5pdpDQAAQBAJ&amp;oi=fnd&amp;pg=PR5&amp;dq=linear+regression+theory&amp;ots=CkADaTdxWm&amp;sig=5LjeWhiXf14yZbag9XYkKW-7byM#v=onepage&amp;q=linear%20regression%20theory&amp;f=false) book and I'm having a hard time figuring out what's going on. 
+
+So, I am looking for book recommendations which cover theory of classical DS/ML/Stats topics (new things like transformers are a plus) that have good long explanations of math where the introduce every symbol and are easier to digest for someone whose been away from math in a while.",Infinitrix02,1gwua8s,https://reddit.com/r/datascience/comments/1gwua8s/ds_books_with_digestible_math/,https://www.reddit.com/r/datascience/comments/1gwua8s/ds_books_with_digestible_math/,2024-11-21 23:59:58,56,0.92,56,0,26,0,0,False,False,True,False,False,Discussion,self,t3_1gwua8s
+datascience,How often do y’all work on slide decks?,"As a DA, I currently do a bit more PowerPoint than Python. Is there a path out of this hell?
+
+Include role-title please.",qc1324,1gwp1vt,https://reddit.com/r/datascience/comments/1gwp1vt/how_often_do_yall_work_on_slide_decks/,https://www.reddit.com/r/datascience/comments/1gwp1vt/how_often_do_yall_work_on_slide_decks/,2024-11-21 20:13:37,61,0.9,61,0,55,0,0,False,False,True,False,False,Discussion,self,t3_1gwp1vt
+datascience,Do people think SQL code is intuitive?,"I was trying to forward fill data in SQL. You can do something like...
+
+
+    with grouped_values as (
+        select count(value) over (order by dt) as _grp from values
+    )
+
+    select first_value(value) over (partition by _grp order by dt) as value
+    from grouped_values
+
+while in pandas it's .ffill(). The SQL code works because count() ignores nulls. This is just one example, there are so many things that are so easy to do in pandas where you have to twist logic around to implement in SQL. Do people actually enjoy coding this way or is it something we do because we are forced to?",hiuge,1gwh96r,https://reddit.com/r/datascience/comments/1gwh96r/do_people_think_sql_code_is_intuitive/,https://www.reddit.com/r/datascience/comments/1gwh96r/do_people_think_sql_code_is_intuitive/,2024-11-21 14:15:08,89,0.78,89,0,76,0,0,False,False,True,False,False,Coding,self,t3_1gwh96r
+datascience,"Best for practising coding for interviews, hackerank or leetcode ?","same as title: Best for practising coding for interviews, hackerank or leetcode ?
+
+also, there is just so much of material online, it's overwhelming. Any guide on how to prepare for interviews ?",drugsarebadmky,1gwog2k,https://reddit.com/r/datascience/comments/1gwog2k/best_for_practising_coding_for_interviews/,https://www.reddit.com/r/datascience/comments/1gwog2k/best_for_practising_coding_for_interviews/,2024-11-21 19:49:10,31,0.92,31,0,16,0,0,False,False,True,False,False,Challenges,self,t3_1gwog2k
+datascience,Self Study or a Second Masters (free tuition) for Learning,"So background, I'm a Civil Engineer (BS+MS in Civil Engineering) who's been working in Traffic and Intelligent Transportation Systems (ITS) with almost 7 years of experience. I've done regular civil design engineering at consulting firms, software product management at civil-tech companies and then ITS engineering at an autonomous vehicle start up where I dabbled in everything from design of the civil infrastructure, coordinating with tech teams on the hardware functionality and concepts of operation.
+
+Now I'm back to an engineering firm where I'll be working in an intelligent transportation + data science group. I'll be working on more design side doing freeway ITS design, design and concept of operations of ""traffic tech"" pilot and will be working with my manager on getting ramped up into data science projects.
+
+So about 2 years ago I got into OMSCS at GaTech a while back but had to drop due to some health issues, I just applied for readmissions (pay $30 and fill out a form). I'm also considering programs like EasternU's data science program or even taking OMSA classes while enrolled in OMSCS with the intent to apply and swap over to that. The reference to the free tuition is that my employer will happily pick up the tab as the degree is relevant to demand in our department.
+
+So my question is do I suck it up with the CS degree (ML focus), swap to OMSA or consider just taking a faster option like EasternU's program? Or do I not even bother and pick up a few books and get at it on my own. Career wise, I plan to stay at my current employer for at least 5 years, but I also want to keep the option open to potentially getting into data science at a connected and autonomous vehicle company again.",425trafficeng,1gwzlw9,https://reddit.com/r/datascience/comments/1gwzlw9/self_study_or_a_second_masters_free_tuition_for/,https://www.reddit.com/r/datascience/comments/1gwzlw9/self_study_or_a_second_masters_free_tuition_for/,2024-11-22 04:30:08,5,0.78,5,0,11,0,0,False,False,True,False,False,Education,self,t3_1gwzlw9
+datascience,Are Notebooks Being Overused in Data Science?”,"In my company, the data engineering GitHub repository is about 95% python and the remaining 5% other languages. However, for the data science, notebooks represents 98% of the repository’s content.
+
+To clarify, we primarily use notebooks for developing models and performing EDAs. Once the model meets expectations, the code is rewritten into scripts and moved to the iMLOps repository. 
+
+This is my first professional experience, so I am curious about whether that is the normal flow or the standard in industry or we are abusing of notebooks.  How’s the repo distributed in your company?
+
+",gomezalp,1gw9vwm,https://reddit.com/r/datascience/comments/1gw9vwm/are_notebooks_being_overused_in_data_science/,https://www.reddit.com/r/datascience/comments/1gw9vwm/are_notebooks_being_overused_in_data_science/,2024-11-21 06:26:41,277,0.91,277,0,98,0,0,False,False,True,False,False,Discussion,self,t3_1gw9vwm
+datascience,Manim Visualization of Shannon Entropy,"Hey guys! I made a nice manim visualization of shannon entropy. Let me know what you guys think! 
+
+[https://www.instagram.com/reel/DCpYqD1OLPa/?igsh=NTc4MTIwNjQ2YQ==](https://www.instagram.com/reel/DCpYqD1OLPa/?igsh=NTc4MTIwNjQ2YQ==)",Ill-Tomato-8400,1gwquu4,https://reddit.com/r/datascience/comments/1gwquu4/manim_visualization_of_shannon_entropy/,https://www.reddit.com/r/datascience/comments/1gwquu4/manim_visualization_of_shannon_entropy/,2024-11-21 21:28:52,15,0.9,15,0,0,0,0,False,False,True,False,False,ML,self,t3_1gwquu4
+datascience,Minor pandas rant,"As a dplyr simp, I so don't get pandas safety and reasonableness choices.
+
+You try to assign to a column of a df2 = df1[df1['A']&gt; 1] you get a ""setting with copy warning"".
+
+
+BUT
+
+accidentally assign a column of length 69 to a data frame with 420 rows and it will eat it like it's nothing, if only index is partially matching.
+
+You df.groupby? Sure, let me drop nulls by default for you, nothing interesting to see there!
+
+You df.groupby.agg? Let me create not one, not two, but THREE levels of column name that no one remembers how to flatten.
+
+Df.query? Let me by default name a new column resulting from aggregation to 0 and make it impossible to access in the query method even using a backtick.
+
+Concatenating something? Let's silently create a mixed type object for something that used to be a date. You will realize it the hard way 100 transformations later.
+
+Df.rename({0: 'count'})? Sure, let's rename row zero to count. It's fine if it doesn't exist too.
+
+
+Yes, pandas is better for many applications and there are workarounds. But come on, these are so opaque design choices for a beginner user. Sorry for whining but it's been a long debugging day.",Ciasteczi,1gw3f0a,https://reddit.com/r/datascience/comments/1gw3f0a/minor_pandas_rant/,https://i.redd.it/o90cjqrbj52e1.jpeg,2024-11-21 00:47:01,576,0.97,576,0,88,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/tsjoFtBaUCrcXfrx9IPfpnynCwPTxX3Vw6VOhg3zIXM.jpg,t3_1gw3f0a
+datascience,Fine Tuning multi modal LLMs tutorial,"Recently, unsloth has added support to fine-tune multi-modal LLMs as well starting off with Llama3.2 Vision. This post explains the codes on how to fine-tune Llama 3.2 Vision in Google Colab free tier : https://youtu.be/KnMRK4swzcM?si=GX14ewtTXjDczZtM",mehul_gupta1997,1gwzia4,https://reddit.com/r/datascience/comments/1gwzia4/fine_tuning_multi_modal_llms_tutorial/,https://www.reddit.com/r/datascience/comments/1gwzia4/fine_tuning_multi_modal_llms_tutorial/,2024-11-22 04:24:33,3,0.72,3,0,0,0,0,False,False,True,False,False,AI,self,t3_1gwzia4
+datascience,Are you deploying Bayesian models?,"If you are: 
+- what is your use case? 
+- MLOps for Bayesian models? 
+- Useful tools or packages (Stan / PyMC)?
+
+Thanks y’all! Super curious to know!",ResearchMindless6419,1gwc076,https://reddit.com/r/datascience/comments/1gwc076/are_you_deploying_bayesian_models/,https://www.reddit.com/r/datascience/comments/1gwc076/are_you_deploying_bayesian_models/,2024-11-21 08:59:42,92,0.98,92,0,45,0,0,False,False,True,False,False,Discussion,self,t3_1gwc076
+datascience,From Biomedical Undergrad to DS MSc,"Hello!
+I'm am currently doing an MSc in data science for politics and policy-making, my course covers Python, SQL, Machine learning, big data and using R for statistical methods like regression, hypothesis testing, and GLMs to analyze policy-relevant data. Along with 2 Politics module to complete the course, i shall have completed the course by the end of summer in 2025! 
+
+I just wanted to hear from the community for advice on what exactly is the type of field l'd  best be able to go into a year from now, whether I should keep my options UK based or explore elsewhere. And what else I should do besides my studies to put me in the best position for job prospects as soon as I'm done with my masters. I come from a Biomedical undergrad background so this whole field is very new to me!
+
+I've heard both positives and negatives about the data science job market, so any advice from experienced professionals would be greatly appreciated. ",MaliP1rate,1gwlzed,https://reddit.com/r/datascience/comments/1gwlzed/from_biomedical_undergrad_to_ds_msc/,https://www.reddit.com/r/datascience/comments/1gwlzed/from_biomedical_undergrad_to_ds_msc/,2024-11-21 18:11:11,5,1.0,5,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1gwlzed
+datascience,Data engineering vs ML,"Hi,
+
+Which of these would you specialize in if you want to work in the industry considering the demand and the talent pool available?",pulicinetroll08,1gwpgzg,https://reddit.com/r/datascience/comments/1gwpgzg/data_engineering_vs_ml/,https://www.reddit.com/r/datascience/comments/1gwpgzg/data_engineering_vs_ml/,2024-11-21 20:30:52,1,0.53,1,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1gwpgzg
+datascience,How to get up to speed on LLMs?,"I currently work full time in a data analytics role, mostly doing a lot of SQL. I have a coding background, I've worked as a Java Developer in the past. I'm currently in grad school for Data Analytics, this semester is heavy on the statistics, particularly linear regression.
+
+I'm concerned my grad program isn't going to be heavy enough on the ML to keep up up-to-date in the marketplace. I know about Andrew Ng's Machine Learning course on Coursera, but I haven't completed it yet. It's also a bit old at this point.
+
+With LLMs being such a hot issue, I need to skills to train my own custom models. Does anyone have recommendations on what to read/watch to get there?",Smooth_Signal_3423,1gvrxdq,https://reddit.com/r/datascience/comments/1gvrxdq/how_to_get_up_to_speed_on_llms/,https://www.reddit.com/r/datascience/comments/1gvrxdq/how_to_get_up_to_speed_on_llms/,2024-11-20 15:22:45,141,0.95,141,0,73,0,0,False,False,True,False,False,ML,self,t3_1gvrxdq
+datascience,How do you plan and organize a job switch/interview preparation?,"I feel like I am all over the board. One day I am wanting to do behavioral prep, next day SQL then I realize I need to study probability teasers and statistics. Either the prep requirement is crazy or I am. 
+
+Can someone share how do they go about preparing for interviews? I feel very unorganized.",Lamp_Shade_Head,1gvxful,https://reddit.com/r/datascience/comments/1gvxful/how_do_you_plan_and_organize_a_job/,https://www.reddit.com/r/datascience/comments/1gvxful/how_do_you_plan_and_organize_a_job/,2024-11-20 19:09:59,45,0.96,45,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1gvxful
+datascience, The Multi-Modal Revolution: Push The Envelope,"Fellow AI researchers - let's be real. We're stuck in a rut.
+
+**Problems:**
+- Single modality is dead. Real intelligence isn't just text/image/audio in isolation
+- Another day, another LLM with 0.1% better benchmarks. Yawn
+- Where's the novel architecture? All I see is parameter tuning
+- Transfer learning still sucks
+- Real-time adaptation? More like real-time hallucination
+
+**The Challenge:**
+1. Build systems that handle 3+ modalities in real-time. No more stitching modules together
+2. Create models that learn from raw sensory input without massive pre-training
+3. Push beyond transformers. What's the next paradigm shift?
+4. Make models that can actually explain cross-modal reasoning
+5. Solve spatial reasoning without brute force
+
+**Bonus Points:**
+- Few-shot learning that actually works
+- Sublinear scaling with task complexity
+- Physical world interaction that isn't a joke
+
+Stop celebrating incremental gains. Start building revolutionary systems.
+
+Share your projects below. Let's make AI development exciting again.
+
+*If your answer is ""just scale up bro"" - you're part of the problem.*
+",Efficient-Hovercraft,1gwwb8j,https://reddit.com/r/datascience/comments/1gwwb8j/the_multimodal_revolution_push_the_envelope/,https://www.reddit.com/r/datascience/comments/1gwwb8j/the_multimodal_revolution_push_the_envelope/,2024-11-22 01:37:37,0,0.33,0,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1gwwb8j
+datascience,Which Multi-AI Agent framework is the best? Comparing major Multi-AI Agent Orchestration frameworks,"Recently, the focus has shifted from improving LLMs to AI Agentic systems. That too, towards Multi AI Agent systems leading to a plethora of Multi-Agent Orchestration frameworks like AutoGen, LangGraph, Microsoft's Magentic-One and TinyTroupe alongside OpenAI's Swarm. Check out this detailed post on pros and cons of these frameworks and which framework should you use depending on your usecase : https://youtu.be/B-IojBoSQ4c?si=rc5QzwG5sJ4NBsyX",mehul_gupta1997,1gvgf3v,https://reddit.com/r/datascience/comments/1gvgf3v/which_multiai_agent_framework_is_the_best/,https://www.reddit.com/r/datascience/comments/1gvgf3v/which_multiai_agent_framework_is_the_best/,2024-11-20 03:37:26,7,0.64,7,0,3,0,0,False,False,True,False,False,AI,self,t3_1gvgf3v
+datascience,Contractor versus FTE workload,"I was laid off and now find myself with a potential start date in a few months for an FTE but a contractor job starting soon that is short term but would overlap a 1-2 months. 
+
+I am not a fan of that over employment since it’s just bad for other people in the market and I like my free time. But the contract is incredibly interesting work and the overlap would be minimal so I’m curious how the FTE workload and the contractor workloads usually compare. ",oldmangandalfstyle,1gvb1br,https://reddit.com/r/datascience/comments/1gvb1br/contractor_versus_fte_workload/,https://www.reddit.com/r/datascience/comments/1gvb1br/contractor_versus_fte_workload/,2024-11-19 23:17:34,15,0.86,15,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1gvb1br
+datascience,Code for a Shap force plot (one feature only),"I often use the javascript Shap force plot in Jupyter to review each feature individually, but I'd like to create and save a force plot for each feature within a loop. It's been a really long day and I can't work out how to call the plot itself, can anyone help please?",Necessary-Let-9207,1gvlven,https://reddit.com/r/datascience/comments/1gvlven/code_for_a_shap_force_plot_one_feature_only/,https://www.reddit.com/r/datascience/comments/1gvlven/code_for_a_shap_force_plot_one_feature_only/,2024-11-20 09:41:10,3,0.64,3,0,4,0,0,False,False,True,False,False,ML,self,t3_1gvlven
+datascience,Question on going straight from undergrad -&gt; masters,"I am a undergraduate at ucla majoring in statistics and data science. In September, I began applying to jobs and internships, primarily for this summer after I graduate. 
+
+However, I’m also considering applying to a handful of online masters programs (ranging from applied statistics, to data science, to analytics).
+
+My reasoning is that:
+
+a) I can keep my options open. Assuming I’m unable to land an internship or job, I would have a masters program for fall 2025 to attend. 
+
+b) During an online masters I can continue applying to jobs and internships. I can decide whether I am a full time or part time student. If full time, most programs can be done in 12 months.
+
+c) I feel like there’s no better time than now to get a masters. It’s hard to break into the field with a bachelors as is (or that’s how it seems to me) so an MS would make it easier. There’s also no job tying me down. 
+
+d) I am not sure whether I wish to pursue a PhD. A masters would be good preparation for one if I do decide to do one. 
+
+The main program I have been looking at is OMSA at Georgia Tech. 
+
+I’d appreciate any advice from people who have been in a situation similar to mine, getting a masters straight from undergrad. ",Voldemort57,1gv3tol,https://reddit.com/r/datascience/comments/1gv3tol/question_on_going_straight_from_undergrad_masters/,https://www.reddit.com/r/datascience/comments/1gv3tol/question_on_going_straight_from_undergrad_masters/,2024-11-19 18:14:24,35,0.91,35,0,41,0,0,False,False,True,False,False,Education,self,t3_1gv3tol
+datascience,Google Data Science Interview Prep,"Out of the blue, I got an interview invitation from Google for a Data Science role. I've seen they've been ramping up hiring but I also got mega lucky, I only have a Master's in Stats from a good public school and 2+ years of work experience. I talked with the recruiter and these are the rounds:
+
+* First Cohort:
+   * Statistical knowledge and communications: Basicaly soving academic textbook type problems in probability and stats. Testing your understanding of prob. theory and advanced stats. Basically just solving hard word problems from my understanding
+   * Data Analysis and Problem Solving: A round where a vague business case is presented. You have to ask clarifying questions and find a solutions. They want to gague your thought process and how you can approach a problem
+* Second cohort (on-site, virtual on-site)
+   * Coding
+   * Behavioral Interview (Googleiness)
+   * Statistical Knowledge and Data Analysis
+
+  
+Has anyone gone through this interview and have tips on how to prepare? Also any resources that are fine-tuned to prepare you for this interview would be appreciated. It doesn't have to be free. I plan on studying about 8 hours a day for the next week to prep for the first and again for the second cohorts.",LeaguePrototype,1gukca0,https://reddit.com/r/datascience/comments/1gukca0/google_data_science_interview_prep/,https://www.reddit.com/r/datascience/comments/1gukca0/google_data_science_interview_prep/,2024-11-19 00:32:46,266,0.95,266,0,91,0,0,False,False,True,False,False,Discussion,self,t3_1gukca0
+datascience,Looking for a french speaking Data Science partner for my consulting firm,"I am posting it here. It should be fully remote work. But what I need is someone who speak french and is a data scientist like me. 
+
+My situation: I am wokring as a data science consultant from last 5 years. Now I am starting a proper firm. I don't speak french and live in Paris. I have some clients I need to pitch to but communication is a big issue because of language. It is a new company so I prefer if I can hire someone freelance for now and later we see.
+
+to now, the data scientist other than communication with cleints will also get projects to work on mostly with me, and c ollab contractors :) 
+
+Please feel free to DM me we will have a chat",homoeconomicus1,1gv5wur,https://reddit.com/r/datascience/comments/1gv5wur/looking_for_a_french_speaking_data_science/,https://www.reddit.com/r/datascience/comments/1gv5wur/looking_for_a_french_speaking_data_science/,2024-11-19 19:40:08,7,0.57,7,0,10,0,0,False,False,True,False,False,Career | Europe,self,t3_1gv5wur
+datascience,How do you explain what you do? Do you get irritated being asked about ChatGPT?,"With Thanksgiving coming, I'll be dreading another question on what I do. No one knows what LLMs or data science mean, but they're familiar with ChatGPT and AI. And then they'll ask me to teach it to them or tell me that my job is dead because of ChatGPT.
+
+I literally had lunch the other day with someone who I wanted to become better friends with, but they kept asking me questions and explanations on ChatGPT and then also wanted to know resources to learn. And then also told me that my career was dead because of ChatGPT.
+
+It's really irritating. I've worked with LLMs and did research in it, but the last thing I want to discuss is math or give advice over overcooked turkey and lumpy mashed potatoes.
+
+How do you explain what you do without getting into conversations about ChatGPT? Everyone and their mother knows about it, and thus everyone and my mother ask me questions about it.
+
+EDIT: Great advice! I'm just going to avoid buzzwords and stick with talking about math when anyone asks what I do to change the subject.",SnooWalruses4775,1gum8rk,https://reddit.com/r/datascience/comments/1gum8rk/how_do_you_explain_what_you_do_do_you_get/,https://www.reddit.com/r/datascience/comments/1gum8rk/how_do_you_explain_what_you_do_do_you_get/,2024-11-19 02:04:53,57,0.82,57,0,55,0,0,False,False,True,False,False,Discussion,self,t3_1gum8rk
+datascience,How sound this clustering approach is? ,"Working on developing a process to create automated clusters based on fixed N number of features. For different samples relative importance of these features vary. To capture that variation, I have created feature weighted clusters (just to be clear not sample weighted).  Im running a supervised model to get the importance since I have a target that the features should optimize. 
+
+Does this sound like a good approach? What are the potential loopholes/limitations? 
+
+Also, side topic, Im running Kmeans and most of the times ending up with 2 optimal clusters (using silhouettescore) for different samples that I have tried. From manual checking it seems that there could be more than 2 meaningful clusters. Any tips/thoughts on this?",Difficult-Big-3890,1guve46,https://reddit.com/r/datascience/comments/1guve46/how_sound_this_clustering_approach_is/,https://www.reddit.com/r/datascience/comments/1guve46/how_sound_this_clustering_approach_is/,2024-11-19 11:53:11,6,0.8,6,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1guve46
+datascience,Is ChatGPT making your job easy?,"I have been using it a lot to code for me, as it is much faster to do things in 30 seconds than what I will spend 15 minutes doing. 
+
+Surely I need to supply a lot of information to it but it does job well when programming. How is everything for you? ",homoeconomicus1,1gu7flt,https://reddit.com/r/datascience/comments/1gu7flt/is_chatgpt_making_your_job_easy/,https://www.reddit.com/r/datascience/comments/1gu7flt/is_chatgpt_making_your_job_easy/,2024-11-18 15:34:20,233,0.91,233,0,178,0,0,False,False,True,False,False,Discussion,self,t3_1gu7flt
+datascience,"Weekly Entering &amp; Transitioning - Thread 18 Nov, 2024 - 25 Nov, 2024"," 
+
+Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",AutoModerator,1gtx7on,https://reddit.com/r/datascience/comments/1gtx7on/weekly_entering_transitioning_thread_18_nov_2024/,https://www.reddit.com/r/datascience/comments/1gtx7on/weekly_entering_transitioning_thread_18_nov_2024/,2024-11-18 05:01:22,5,0.79,5,0,37,0,0,False,False,True,False,False,,self,t3_1gtx7on
+datascience,TinyTroup : Microsft's new Multi AI Agent framework for human simulation,So looks like Microsoft is going all guns on Multi AI Agent frameworks and has released a 3rd framework after AutoGen and Magentic-One i.e. TinyTroupe which specialises in easy persona creation and human simulations (looks similar to CrewAI). Checkout more here : https://youtu.be/C7VOfgDP3lM?si=a4Fy5otLfHXNZWKr,mehul_gupta1997,1gtame6,https://reddit.com/r/datascience/comments/1gtame6/tinytroup_microsfts_new_multi_ai_agent_framework/,https://www.reddit.com/r/datascience/comments/1gtame6/tinytroup_microsfts_new_multi_ai_agent_framework/,2024-11-17 10:16:43,41,0.89,41,0,4,0,0,False,False,True,False,False,AI,self,t3_1gtame6
+datascience,Non-Data Science Teams Going It Alone on DS Projects - what to do?,"My organization's DS shop is relatively small and lives entirely in the Analytics department. With myself, and my manager, being the only ones with the experience to take on DS oriented work.  Other teams have a growing appetite for DS solutions (running experiments, building predictive models, etc.) giving us some justification to grow our team. Overall, this is a positive development compared to a few years ago when much of this work was done through vendors/consultants.
+
+However, we have noticed that some teams appear to be employing their own DS solution without any initial input from us. In some cases we have been pinged asking for guidance (like asking for a Power analysis or a more complicated Data pull), but in other cases we are brought on when something has gone wrong (like poorly randomized A/B testing or inability to conduct significance testing). My boss hasn't really pushed back on any of this opting to take a a wait and see approach as we ramp up our team; however, I am concerned this will lead to either a fractured DS culture or worse a shift of responsibility to another team. One thing I saw recently was one of these teams recruiting for a Sr. Data Scientist in all but title.
+
+Personally, this is also a concern for me as it limits my ability to advance into a more Senior position. It also leaves our team leaving credit on the table. We are critical to these projects, but none of them have our ""label"" on it.
+
+Is my boss right to take a reactive approach as we ramp up or is this a sign of a future inefficient Data Science culture at my org?
+
+**Update**: My takeaway from this is to stick with my manager's plan to wait and see, try to push for a formalization of our team as the ""center of excellence"" team, and then flag/highlight DS's contribution/work vs the DS work adjacent teams are doing. Most of the comments seem to highlight this as an org issue rather than a team structure issue - which makes sense to me.",Illustrious-Mind9435,1gt52tv,https://reddit.com/r/datascience/comments/1gt52tv/nondata_science_teams_going_it_alone_on_ds/,https://www.reddit.com/r/datascience/comments/1gt52tv/nondata_science_teams_going_it_alone_on_ds/,2024-11-17 03:55:19,48,0.84,48,0,26,0,0,False,False,True,False,False,Discussion,self,t3_1gt52tv
+datascience,"Multi AI Agent playlist (LangGraph, AutoGen, OpenAI Swarm, CrewAI,Microsoft Magentic One )","Multi AI Agent Orchestration is now the latest area of focus in GenAI space where recently both OpenAI and Microsoft released new frameworks (Swarm, Magentic-One). Checkout this extensive playlist on Multi AI Agent Orchestration covering tutorials on LangGraph, AutoGen, CrewAI, OpenAI Swarm and Magentic One alongside some interesting POCs like Multi-Agent Interview system, Resume Checker, etc . Playlist : https://youtube.com/playlist?list=PLnH2pfPCPZsKhlUSP39nRzLkfvi_FhDdD&amp;si=9LknqjecPJdTXUzH",mehul_gupta1997,1gt7bbk,https://reddit.com/r/datascience/comments/1gt7bbk/multi_ai_agent_playlist_langgraph_autogen_openai/,https://www.reddit.com/r/datascience/comments/1gt7bbk/multi_ai_agent_playlist_langgraph_autogen_openai/,2024-11-17 06:13:45,9,0.8,9,0,4,0,0,False,False,True,False,False,AI,self,t3_1gt7bbk
+datascience,How to effectively use a data science team?,"Hi all! The situation is as follows: I have 5 data scientists in my team, and 5 business analysts. The team has grown from 4 to 10 people (ex. Manager) over the year and I think we're ready to take things to the next level.
+
+We are part of the business, and the data scientists have different expertises besides statistics etc., for example data engineering, DevOps, web development, but also more soft skills such as presenting and networking.
+Not unimportantly: data is available, and there a opportunities to get more data available if needed (e.g. automated extract from systems for easy use in other work)
+
+Currently many of the dashboarding requests were dropped om the DS plate, but i want to push that workload go the business analists to make room for more interesting (and valuable) DS projects. 
+
+For context, there are many other disciplines 'nearby' in the organisation, meaning its possible to get a project team with a process expert (when new/updated processes are needed), business analysts or system experts.
+
+TL;DR: What's the best use of a data science team, that's part of a business team?
+
+Edit: to clarify: there's plenty of business driven backlog, and I'm not the team's manager. However I am curious to hear about ideas coming from outside, hence this post.
+
+For some extra context: we operate in the supply chain part of the business we work for",Berlibur,1gsi7gn,https://reddit.com/r/datascience/comments/1gsi7gn/how_to_effectively_use_a_data_science_team/,https://www.reddit.com/r/datascience/comments/1gsi7gn/how_to_effectively_use_a_data_science_team/,2024-11-16 07:30:24,108,0.94,108,0,41,0,0,False,False,True,False,False,Discussion,self,t3_1gsi7gn
+datascience,Lightgbm feature selection methods that operate efficiently on large number of features,"Does anyone know of a good feature selection algorithm (with or without implementation) that can search across perhaps 50-100k features in a reasonable amount of time? I’m using lightgbm. Intuition is that I need on the order of 20-100 final features in the model. Looking to find a needle in a haystack. Tabular data, roughly 100-500k records of data to work with. Common feature selection methods do not scale computationally in my experience. Also, I’ve found overfitting is a concern with a search space this large. ",acetherace,1gsa6aj,https://reddit.com/r/datascience/comments/1gsa6aj/lightgbm_feature_selection_methods_that_operate/,https://www.reddit.com/r/datascience/comments/1gsa6aj/lightgbm_feature_selection_methods_that_operate/,2024-11-15 23:43:09,55,0.95,55,0,61,0,0,False,False,True,False,False,ML,self,t3_1gsa6aj
+datascience,a way to know an excel file is open by someone?,"I work in R with an excel package. if some user in our organisation has file.xlsx open, the R will write a corrupted excel file. Is there a way to find out if the file is open by excel? by who? close it? ( anything lol), before I execute my R script?",Due-Duty961,1grz3mw,https://reddit.com/r/datascience/comments/1grz3mw/a_way_to_know_an_excel_file_is_open_by_someone/,https://www.reddit.com/r/datascience/comments/1grz3mw/a_way_to_know_an_excel_file_is_open_by_someone/,2024-11-15 15:39:02,24,0.71,24,0,37,0,0,False,False,True,False,False,Tools,self,t3_1grz3mw
+datascience,"Google's experimental model outperforms GPT-4o, leads LMArena leaderboard ",Google's experimental model Gemini-exp-1114 now ranks 1 on LMArena leaderboard. Check out the different metrics it surpassed GPT-4o and how to use it for free using Google Studio : https://youtu.be/50K63t_AXps?si=EVao6OKW65-zNZ8Q,mehul_gupta1997,1grrsr6,https://reddit.com/r/datascience/comments/1grrsr6/googles_experimental_model_outperforms_gpt4o/,https://www.reddit.com/r/datascience/comments/1grrsr6/googles_experimental_model_outperforms_gpt4o/,2024-11-15 08:23:04,36,0.86,36,0,7,0,0,False,False,True,False,False,AI,self,t3_1grrsr6
+datascience,"Anyone using FireDucks, a drop in replacement for pandas with ""massive"" speed improvements?","I've been seeing articles about FireDucks saying that it's a drop in replacement for pandas with ""massive"" speed increases over pandas and even polars in some benchmarks. Wanted to check in with the group here to see if anyone has hands on experience working with FireDucks. Is it too good to be true?",boru9,1gscf35,https://reddit.com/r/datascience/comments/1gscf35/anyone_using_fireducks_a_drop_in_replacement_for/,https://www.reddit.com/r/datascience/comments/1gscf35/anyone_using_fireducks_a_drop_in_replacement_for/,2024-11-16 01:37:58,1,0.51,1,0,28,0,0,False,False,True,False,False,Tools,self,t3_1gscf35
+datascience,PSA: You don’t have to be elite to work in this field,If you want to that's fine. If you want to work at FAANG that's fine. But you don't have to. That's the top 10%. The other 90% of us still have jobs and we live outside of the Bay Area. I like my job but I don't grind outside of work hours. I do my 40-50 hours then I log off and live my life. I make a comfortable salary in a MCOL city. You can do the same and have a good life.,Trick-Interaction396,1gr4csm,https://reddit.com/r/datascience/comments/1gr4csm/psa_you_dont_have_to_be_elite_to_work_in_this/,https://www.reddit.com/r/datascience/comments/1gr4csm/psa_you_dont_have_to_be_elite_to_work_in_this/,2024-11-14 13:07:08,685,0.96,685,0,160,0,0,False,False,True,False,False,Career | US,self,t3_1gr4csm
+datascience,"Which company's big data would you most like to get your hands on, and why?","For me, it would be Tinder, given its research value. Imagine all sorts of interesting correlations hidden within it. I believe it might contain answers to questions about human nature that have remained unanswered for so long, especially gender-specific questions.
+
+With Tinder data, we could uncover insights about what men and women respond to, potentially even breaking it down by personality type. We could analyze texts to create the perfect messaging algorithm, which, if released to the public, might have a significant impact on society. Additionally, we could understand which pictures are attractive to whom, segmented by nationality, personality type, and more.
+
+So, what's your dream dataset and why?",karaposu,1grcmj7,https://reddit.com/r/datascience/comments/1grcmj7/which_companys_big_data_would_you_most_like_to/,https://www.reddit.com/r/datascience/comments/1grcmj7/which_companys_big_data_would_you_most_like_to/,2024-11-14 19:12:40,181,0.89,181,0,139,0,0,False,False,True,False,False,Discussion,self,t3_1grcmj7
+datascience,I built a full stack ai app as a Data scientist - Is Future Data science going to just be Full stack engineering?,"I recently built a SaaS web app that combines several AI capabilities: story generation using LLMs, image generation for each scene, and voice-over creation - all combined into a final video with subtitles. 
+
+While this is technically an AI/Data Science project, building it required significant full-stack engineering skills. The tech stack includes: 
+
+\- Frontend: Nextjs with Tailwind, shadcn, redux toolkit 
+
+\- Backend: Django (DRF) 
+
+\- Database: Postgres
+
+  
+After years in the field, I'm seeing Data Science and Software Engineering increasingly overlap. Companies like AWS already expect their developers to own products end-to-end. For modern AI projects like this one, you simply need both skill sets to deliver value.
+
+The reality is, Data Scientists need to expand beyond just models and notebooks. Understanding API development, UI/UX principles, and web development isn't optional anymore - it's becoming a core part of delivering AI solutions at scale.
+
+Some on this subreddit have gone ahead and called Data Scientists 'Cheap Software Engineers' - but the truth is, we're evolving into specialized full-stack developers who can build end-to-end AI products, not just write models in notebooks. That's where the value is at for most companies.
+
+This is not to say that this is true for all companies, but for a good number, yes. 
+
+App: [clipbard.com](https://clipbard.com)   
+Portfolio: [takuonline.com](https://takuonline.com)
+
+",takuonline,1gskhp0,https://reddit.com/r/datascience/comments/1gskhp0/i_built_a_full_stack_ai_app_as_a_data_scientist/,https://www.reddit.com/r/datascience/comments/1gskhp0/i_built_a_full_stack_ai_app_as_a_data_scientist/,2024-11-16 10:23:34,0,0.37,0,0,49,0,0,False,False,True,False,False,Projects,self,t3_1gskhp0
+datascience,Forecasting frameworks made by companies [Q],"I know of greykite and prophet, two forecasting packages produced by LinkedIn,and Meta. What are some other inhouse forecasting packages companies have made that have been open sourced that you guys use? And specifically, what weak points / areas of improvement have you noticed from using these packages? ",AdFew4357,1grabv2,https://reddit.com/r/datascience/comments/1grabv2/forecasting_frameworks_made_by_companies_q/,https://www.reddit.com/r/datascience/comments/1grabv2/forecasting_frameworks_made_by_companies_q/,2024-11-14 17:36:44,33,0.98,33,0,13,0,0,False,False,True,False,False,Tools,self,t3_1grabv2
+datascience,What percentage of your week is spent in meetings?,I started a new job about a month ago as a Data Analyst in the health tech field and 11 hours of my week are spent in meetings on average. Is this normal? Does that amount change drastically as I get more time in field?,ThrowAwayTurkeyL,1gr4r9t,https://reddit.com/r/datascience/comments/1gr4r9t/what_percentage_of_your_week_is_spent_in_meetings/,https://www.reddit.com/r/datascience/comments/1gr4r9t/what_percentage_of_your_week_is_spent_in_meetings/,2024-11-14 13:28:28,56,0.94,56,0,59,0,0,False,False,True,False,False,Discussion,self,t3_1gr4r9t
+datascience,A New Kind of Database,,breck,1gs18ze,https://reddit.com/r/datascience/comments/1gs18ze/a_new_kind_of_database/,https://www.youtube.com/watch?v=LGxurFDZUAs,2024-11-15 17:10:34,0,0.49,0,0,21,0,0,False,False,False,False,False,Tools,https://a.thumbs.redditmedia.com/Zn7M2joK3nMhsf0MXSDlPUt5UIpLEeIyqT6JIyh5gk0.jpg,t3_1gs18ze
+datascience,Understanding the 'Partner' term in Marketing Science and Analytics: Senior Position or Specialized Title?,"Hi, I found out Meta hires ""Marketing Science Partner"" and Whole Foods lists a similar position as ""Marketing Analytics Partner."" Does anyone know what ""partner"" signifies in these titles? Does it indicate a senior or director-level position, or is it simply an alternative title for roles like marketing scientist or marketing data scientist? It seems like these roles may all be variations on the marketing analytics and data science functions—am I on the right track?",PhotographFormal8593,1gri409,https://reddit.com/r/datascience/comments/1gri409/understanding_the_partner_term_in_marketing/,https://www.reddit.com/r/datascience/comments/1gri409/understanding_the_partner_term_in_marketing/,2024-11-14 23:11:58,8,0.9,8,0,12,0,0,False,False,True,False,False,Career | US,self,t3_1gri409
+datascience,LLM crash course/intro project?,"Recommendations for a quick course or hands-on project to gain an understanding of LLM capabilities within a couple days? I have a solid DS knowledge foundation, but this is a blind spot for me.",stryder517,1gqqb55,https://reddit.com/r/datascience/comments/1gqqb55/llm_crash_courseintro_project/,https://www.reddit.com/r/datascience/comments/1gqqb55/llm_crash_courseintro_project/,2024-11-13 23:04:28,55,0.88,55,0,34,0,0,False,False,True,False,False,Discussion,self,t3_1gqqb55
+datascience,Different results [Confidence Intervals]; is this possible?,"Different results [Confidence Intervals]; is this possible?
+
+
+I am testing to see if two samples (one with a low credit score, one with a high credit score) have statistically different conversion rates.
+
+Method one: CI for the difference of two samples. This concludes statistical significance, with difference of 0.0349 +- 0.0338.
+
+Method two: CI for each sample, see if they overlap. This concludes no statistical significance, with CI1 at 0.2364 +- 0.0328, and CI2 at 0.2015 +- 0.008. (I can share the bar chart with error margins if anyone’s interested in the subtraction there; they overlap.)
+
+What does one do in this scenario? Which statistical test has precedence?",SingerEast1469,1gquayb,https://reddit.com/r/datascience/comments/1gquayb/different_results_confidence_intervals_is_this/,https://www.reddit.com/r/datascience/comments/1gquayb/different_results_confidence_intervals_is_this/,2024-11-14 02:15:51,12,0.78,12,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1gquayb
+datascience,Goodbye Databases,,breck,1grf5qb,https://reddit.com/r/datascience/comments/1grf5qb/goodbye_databases/,https://x.com/breckyunits/status/1857136517451317682,2024-11-14 21:01:14,0,0.25,0,0,9,0,0,False,False,False,False,False,Tools,https://b.thumbs.redditmedia.com/p0q1N-SrM1hnUNDeW5zXKQaJMsRJxkKx9iDok5KwfOk.jpg,t3_1grf5qb
+datascience,Storing boolean time-series in a relational database?,"Hey folks, we are looking at redesigning our analysis stack at work and deprecating some legacy systems, code, etc. One solution stores QAQC data (based on data from IoT sensors) in a table with the start and end date for each sensor and error type. While this has worked pretty well so far, our alerting logic on the front end only supports alerting based on a time series (think 1 for event and 0 for not event). I was thinking up a solution for this and had the idea of storing the QAQC data as a Boolean time series. One issue with this is that data comes in at 5-minute intervals, which may become cumbersome over time. Has anyone else taken this approach to storing events temporally? If so, how did you go about implementation? Or is this a dumb idea lol ",GoldenPandaCircus,1gqnf2b,https://reddit.com/r/datascience/comments/1gqnf2b/storing_boolean_timeseries_in_a_relational/,https://www.reddit.com/r/datascience/comments/1gqnf2b/storing_boolean_timeseries_in_a_relational/,2024-11-13 20:59:56,6,0.88,6,0,9,0,0,False,False,True,False,False,DE,self,t3_1gqnf2b
+datascience,Am I only one who is experiencing weird things in this job market?,"Is the job market currently such an ""employer's market"" that it justifies treating candidates this poorly? Could you provide some insights into why these situations might have occurred?
+
+1. **Company A**: I made it to the final round, and the hiring manager explicitly said I was their top candidate, mentioning that my background fit their needs perfectly. My take-home assignment was positively reviewed, especially since I went above and beyond the requirements. The final interview also went well, and I was told to expect a decision within two weeks unless delays arose. However, after three weeks of no communication, I reached out to the hiring manager (my main contact), but received no reply. While I can understand if they chose another candidate, I didn’t anticipate being ghosted, particularly after what I thought was a strong rapport with the hiring manager. When I checked LinkedIn, I saw that the job posting was closed, but the position wasn’t filled. I wonder if the headcount was canceled.
+2. **Company B**: I reached the final round for an internship with a full-time conversion potential. I met with the hiring manager in the first round and other team members in the second, both 30-minute conversations without technical questions, which surprised me. They mentioned I'd hear back within a week, but I only received a rejection two weeks later after reaching out myself. I later found a job post to hire an ""entry-level"" FTE with five years of experience instead. Initially, I applied for their senior data scientist role due to my doctoral background, so I’m left wondering if they were seeking someone with senior experience but at an entry-level salary.
+3. **Company C**: I was contacted by a recruiter to complete a take-home assignment that felt more aligned with data analyst responsibilities. Despite my effort and confidence in the result, I was informed I wasn’t selected, with no feedback provided. I noticed the job posting was removed just after I received her email. I’m unsure if I was a late applicant or if the headcount for the role was cut. It was frustrating to spend so much time on the assignment only to be met with silence.",PhotographFormal8593,1gq1c2j,https://reddit.com/r/datascience/comments/1gq1c2j/am_i_only_one_who_is_experiencing_weird_things_in/,https://www.reddit.com/r/datascience/comments/1gq1c2j/am_i_only_one_who_is_experiencing_weird_things_in/,2024-11-13 01:28:37,150,0.93,150,0,135,0,0,False,False,True,False,False,Career | US,self,t3_1gq1c2j
+datascience,Seeking Feedback on My Data Science CV - Tips for Improvement?,"https://preview.redd.it/9zj1pduy5m0e1.png?width=1086&amp;format=png&amp;auto=webp&amp;s=35000491e4737703d5a976b17fb6a339ed4bcaf4
+
+",Round-Paramedic-2968,1gq6tum,https://reddit.com/r/datascience/comments/1gq6tum/seeking_feedback_on_my_data_science_cv_tips_for/,https://www.reddit.com/r/datascience/comments/1gq6tum/seeking_feedback_on_my_data_science_cv_tips_for/,2024-11-13 06:35:55,39,0.85,39,0,23,0,0,False,False,True,False,False,Career | Europe,https://b.thumbs.redditmedia.com/bJlBXTSQzeo6s_yR5enVFWlKHX_r8l1prQXabIgDhJY.jpg,t3_1gq6tum
+datascience,Unlocking the full potential of data scientists ,"Eric Colson wrote a long [article](https://towardsdatascience.com/beyond-skills-unlocking-the-full-potential-of-data-scientists-90696226cfae) on how most data scientists are being underutilized by just focusing on technical tasks instead of driving  insights and business outcomes.
+
+He also summarizes bluntly in a footnote why the issue might not be exclusively on the stakeholder's side:
+""If you are reading this and find yourself skeptical that your data scientist who spends his time dutifully responding to Jira tickets is capable of coming up with a good business idea, you are likely not wrong. Those comfortable taking tickets are probably not innovators or have been so inculcated to a support role that they have lost the will to innovate""
+
+Based on your experience, what helps data scientists focus on business outcomes rather than purely technical skills? And how can a sense of innovation be reignited in data scientists who feel stuck in a support-oriented mindset?
+
+",ergodym,1gptbwk,https://reddit.com/r/datascience/comments/1gptbwk/unlocking_the_full_potential_of_data_scientists/,https://www.reddit.com/r/datascience/comments/1gptbwk/unlocking_the_full_potential_of_data_scientists/,2024-11-12 19:37:16,211,0.97,211,0,46,0,0,False,False,True,False,False,Discussion,self,t3_1gptbwk
+datascience,"We are back with many Data science jobs in Soccer, NFL, NHL, Formula1 and more sports!","Hey guys,
+
+I've been silent here the last month but many opportunities appeared!
+
+* [Data Scientist (Junior &amp; Senior) - Football Radar](https://www.sportsjobs.online/jobs/recWmdHgQLiGGrDOT)
+* [Data Scientist - Sports Analytics - Recruitment Gamechangers](https://www.sportsjobs.online/jobs/recdZkuZOpOC37X7O)
+* [ML Engineer @ Dream Sports](https://www.sportsjobs.online/jobs/recz8g22vHKPBWv9y)
+* [Senior Simulation Engineer - Formula1 @ McLaren Racing](https://www.sportsjobs.online/jobs/recPLSVfAPQJtmCJr)
+* [Data Analyst - NHL @ Buffalo Sabres](https://www.sportsjobs.online/jobs/recISFbIh1wfknMd4)
+
+I run [www.sportsjobs.online](http://www.sportsjobs.online/), a job board in that niche. In the last month I added around 300 jobs.
+
+For the ones that already saw my posts before, I've added more sources of jobs lately. I'm open to suggestions to prioritize the next batch.  
+
+It's a niche, there aren't thousands of jobs as in Software in general but my commitment is to **keep improving a simple metric, jobs per month.** 
+
+We always need some metric in DS..
+
+I've created also a [reddit community](https://www.reddit.com/r/sports_jobs/) where I post recurrently the openings if that's easier to check for you.
+
+Bonus track, for the ones in the bayesian world, two weeks ago StanCon 2024 took place and all [the videos are here.](https://www.youtube.com/playlist?list=PLCrWEzJgSUqzNzh6mjWsWUu-lSK59VXP6) Great technical content.
+
+I hope this helps someone!",fark13,1gpv7rj,https://reddit.com/r/datascience/comments/1gpv7rj/we_are_back_with_many_data_science_jobs_in_soccer/,https://www.reddit.com/r/datascience/comments/1gpv7rj/we_are_back_with_many_data_science_jobs_in_soccer/,2024-11-12 20:54:51,68,0.89,68,0,6,0,0,False,False,True,False,False,Career | US,self,t3_1gpv7rj
+datascience,Microsoft Magentic-One for Multi AI Agent tasks ,"Microsoft released Magentic-One last week which is an extension of AutoGen for Multi AI Agent tasks, with a major focus on tasks execution. The framework looks good and handy. Not the best to be honest but worth giving a try. You can check more details here : https://youtu.be/8-Vc3jwQ390",mehul_gupta1997,1gq5akm,https://reddit.com/r/datascience/comments/1gq5akm/microsoft_magenticone_for_multi_ai_agent_tasks/,https://www.reddit.com/r/datascience/comments/1gq5akm/microsoft_magenticone_for_multi_ai_agent_tasks/,2024-11-13 04:58:45,8,0.9,8,0,5,0,0,False,False,True,False,False,AI,self,t3_1gq5akm
+datascience,Does anyone have an idea of what % of applicants who make it to the on-site get extended an offer?,,tacopower69,1gqoczl,https://reddit.com/r/datascience/comments/1gqoczl/does_anyone_have_an_idea_of_what_of_applicants/,/r/cscareerquestions/comments/1gqo84v/does_anyone_have_an_idea_of_what_of_applicants/,2024-11-13 21:39:19,0,0.41,0,0,7,0,0,False,False,False,False,False,Career | US,default,t3_1gqoczl
+datascience,The coding issues data teams encounter are truly intriguing,"Hi, over the past 9 months, we have been working on Upsonic and have obtained some outputs from the discussions we've had. I would like to share these with you as well. If there are any points you disagree with, please feel free to write them down, I would be very happy about that🙏🏻
+
+We conducted more than 300 interviews with data teams. During these conversations, we noticed that across different projects, around 30-40% of the code in their notebooks is repetitive and reusable.
+
+The development-related problems of data teams are not clearly understood, and the problems also vary by location. It's like they are in a fog, and it's very hard to find a solution. We discovered these 3 main reasons for this problem in data teams:
+
+1- The product for data teams is the output they get from the data, not the code. But in development, code is the product. There are best practices in the coding world, so if you are writing code, you need to adhere to these best practices as much as possible, regardless of your purpose. However, these practices and tools are developed for developers. That's why data teams struggle with using these tools in their development processes. Moreover, these tools are not compatible enough, and not everyone in the team is equally proficient with them.
+
+2- While doing data exploration in Jupyter, they can't directly push the code to Git to share it. There is a diff issue between Git and Python/Jupyter. That's why they struggle with collaborative work.
+
+3- Data scientists have many reusable components and things they can share, but the individual work culture affects the collaborative work culture. The same things are repeatedly done for the company.
+
+
+
+After discovering these problems and their reasons, we built a function hub to facilitate collaborative work. We provide 3 key features that data teams need:
+
+1- We allow teams to share their functions with teammates with a single command from within their notebooks. Other team members can pull the same function with a single command. 
+
+2- We document everything that is pushed to the function hub, including the functions, commits, and release notes, so teams can understand each other's code. 
+
+3- We use AI to read Jupyter files, find the reusable components, and send them to the platform. This way, even if the code quality is low, it can be refactored into a function and made available for the team to use.
+
+Since there is no one with extensive DS experience in our team, we conducted 300 interviews. We are still continuing our research. I would love to hear your feedback.
+
+
+
+The product we have developed is MIT licensed, so if you would like, you can install it on your own servers and use it
+
+[https://github.com/Upsonic/Server?tab=readme-ov-file](https://github.com/Upsonic/Server?tab=readme-ov-file)
+
+If you'd like, you can take a look at the demo account 
+
+[upsonic.co/demo](http://upsonic.co/demo)",mbartu,1gqhek9,https://reddit.com/r/datascience/comments/1gqhek9/the_coding_issues_data_teams_encounter_are_truly/,https://www.reddit.com/r/datascience/comments/1gqhek9/the_coding_issues_data_teams_encounter_are_truly/,2024-11-13 16:51:05,0,0.46,0,0,33,0,0,False,False,True,False,False,Tools,self,t3_1gqhek9
+datascience,data collection for travel agency recommender system project ,"I am starting to scratch the surface of RS and my website will be about recommending destinations and accommodations for travelers in certain countries, we will build the website so there's no prior data to train the RS I can start by using cold-start algorithms but this won't be practical in my situation 
+
+is there a way to get user experience data for touristic websites ?
+
+and  secondly, is training the model on a data that isn't from the same domain ( like if you train your RS on amazon data, but you use it for Netflix ) but with the same events would make my predictions/ rankings of low quality  ?
+
+",Emotional-Rhubarb725,1gpvuem,https://reddit.com/r/datascience/comments/1gpvuem/data_collection_for_travel_agency_recommender/,https://www.reddit.com/r/datascience/comments/1gpvuem/data_collection_for_travel_agency_recommender/,2024-11-12 21:20:40,3,0.72,3,0,4,0,0,False,False,True,False,False,Challenges,self,t3_1gpvuem
+datascience,Should I go for a CS degree with a Stats Minor or an Honours in CS for Data Science/ML?,"Hey everyone,
+
+I'm a CS student trying to figure out the best route for a career in data science and machine learning, and I could really use some advice.
+
+I’m debating between two options:
+
+1. **CS with a Minor in Statistics** – This would let me dive deep into the stats side of things, covering areas like probability, regression, and advanced statistical analysis. I feel like this could be super useful for data science, especially when it comes to understanding the math behind the models.
+2. **Honours in CS** – This option would allow me to take a few extra advanced CS courses and do a research project with a professor. I think the hands-on research experience might be really valuable, especially if I ever want to go more into the theoretical side of ML.
+
+If my main goal is to get into data science and machine learning, which route do you think would give me a better foundation? Is it more beneficial to have that solid stats background, or would the extra CS courses and research experience give me an edge?",No-Brilliant6770,1gp8x38,https://reddit.com/r/datascience/comments/1gp8x38/should_i_go_for_a_cs_degree_with_a_stats_minor_or/,https://www.reddit.com/r/datascience/comments/1gp8x38/should_i_go_for_a_cs_degree_with_a_stats_minor_or/,2024-11-12 01:16:57,20,0.78,20,0,44,0,0,False,False,True,False,False,Education,self,t3_1gp8x38
+datascience,Give it to me straight ,"Like a cold shot of whiskey. I am a junior data analyst who wants to get into A/B testing and statistics. After some preliminary research, it’s become clear that there are tons of different tests that a statistician would hypothetically need to know, and that understanding all of them without a masters or some additional schooling is infeasible.
+
+However, with something like conversion rate or # of clicks, it would be same type of data every time (one caviat being a proportion vs a mean). So, give it to me straight: are the following formulas reliable for the vast majority of A/B testing situations, given same type of data?
+
+Swipe for a second shot.",SingerEast1469,1gou4w0,https://reddit.com/r/datascience/comments/1gou4w0/give_it_to_me_straight/,https://www.reddit.com/gallery/1gou4w0,2024-11-11 15:00:15,132,0.88,132,0,57,0,0,False,False,False,False,False,Discussion,https://a.thumbs.redditmedia.com/ACjKLBlVapx4OzZUo0FDlMC1w7vStZ05CWsKeKeGzp8.jpg,t3_1gou4w0
+datascience,"Company has DS team, but keeps hiring external DS consultants","TL;DR: How do I convince my hire-ups that our project proposals are good and our team can deliver when they constantly hire external DS contractors?
+
+Hi all,
+
+I'll soon be joining a team of data scientists at our parent company. I've had lots of contact with my future team, so I know what they're going through. The company is not tech (insurance), but is building a portfolio of data scientists. Despite skill and the potential existing in the team, the company keeps hiring consultants to come in and build solutions while ignoring their employees' opinions and project proposals. Some of these contractors are good, some laughably bad.
+
+External developers and DS are given lots of leeway and trust. They can build in whatever tech stack they propose while ignoring any and all process and our eng team then has to pick up the pieces.
+
+Our teams are often criticized for not delivering quickly enough, while contractors are said to iterate rapidly. I work in an industry with *a lot* of red tape. These contractors are often allowed to circumvent this. In turn, the internal DS team cannot gather enough experience to compete.
+
+I guess my question is: how do I change this? I don't necessarily want to switch companies again so soon and I really do want to empower my (future) team to make their ideas and proposals heard.",Morpheyz,1gorxj3,https://reddit.com/r/datascience/comments/1gorxj3/company_has_ds_team_but_keeps_hiring_external_ds/,https://www.reddit.com/r/datascience/comments/1gorxj3/company_has_ds_team_but_keeps_hiring_external_ds/,2024-11-11 13:16:12,154,0.96,154,0,64,0,0,False,False,True,False,False,Projects,self,t3_1gorxj3
+datascience,How would you create a connected line of points if you have 100k lat and long coordinates?,As the title says I’m thinking through an exercise where I create a new label for the data that sorts the positions and creates a connected line chart. Any tiles on how to go about this would be appreciated! ,Proof_Wrap_2150,1gp7eu3,https://reddit.com/r/datascience/comments/1gp7eu3/how_would_you_create_a_connected_line_of_points/,https://www.reddit.com/r/datascience/comments/1gp7eu3/how_would_you_create_a_connected_line_of_points/,2024-11-12 00:06:02,18,0.82,18,0,10,0,0,False,False,True,False,False,Analysis,self,t3_1gp7eu3
+datascience,Mid-level upskilling resources,"I'm a mid/upper level data scientist working in big tech but I feel like there is still a ton I don't know. My work currently is focused on python simulations, optimization and regression modeling, but with my role I regularly end up working on projects which require methods I've never used before and want to fill in some of my gaps. 
+
+My issue is every learning resource I come across assumes you have little to no DS experience or the interesting content is buried under tons of intro content. I'd appreciate any recommendations for where I can build my existing skillset!
+
+",Revkoop,1goz67w,https://reddit.com/r/datascience/comments/1goz67w/midlevel_upskilling_resources/,https://www.reddit.com/r/datascience/comments/1goz67w/midlevel_upskilling_resources/,2024-11-11 18:24:50,36,0.9,36,0,21,0,0,False,False,True,False,False,Education,self,t3_1goz67w
+datascience,Luxxify Makeup Recommender,"# [Luxxify Makeup Recommender](https://luxxify.streamlit.app/)
+
+Hey everyone,
+
+I(F23), am a master's student who recently designed a makeup recommender system. I created the Luxxify Makeup Recommender to generate personalized product suggestions tailored to individual profiles based on skin tone, type, age, makeup coverage preference, and specific skin concerns. The recommendation system uses a RandomForest with Linear Programming, trained on a custom dataset I gathered using Selenium and BeautifulSoup4. The project is deployed on a scalable Streamlit app.
+
+To use the Luxxify Makeup Recommender click on this link: [https://luxxify.streamlit.app/](https://luxxify.streamlit.app/)
+
+Custom Created Dataset via WebScraping: [Kaggle Dataset](https://www.kaggle.com/datasets/zarasarkar/makeup-insights-customer-reviews/data)
+
+Feel free to use the dataset I created for your own projects!
+
+# Technical Details
+
+* **Web Scraping:** Product and review data are scraped from [Ulta](https://www.ulta.com/), which is a popular e-commerce site for cosmetics. This raw data serves as the foundation for a robust recommendation engine, with a custom scraper built using requests, Selenium, and BeautifulSoup4. Selenium was used to perform button click and scroll interactions on the Ulta site to dynamically load data. I then used requests to access specific URLs from XHR GET requests. Finally, I used BeautifulSoup4 for scraping static text data.
+* **Leveraging PostgreSQL UDFs For Feature Extraction**: For data management, I chose [PostgreSQL](https://www.postgresql.org/) for its scalability and efficient storage capabilities. This allowed me to leverage Postgres querying to unroll complex JSON data. I also coded Python PostgreSQL UDFs to make feature engineering more scalable. I cached the computed word embedding vectors to speed up similarity calculations for repeated queries.
+* **NLP and Feature Engineering:** I extracted Key features using Word2Vec word embeddings from Reddit makeup discussions (https://www.reddit.com/r/beauty/). I did this to incorporate makeup domain knowledge directly into the model. Another reason I did this is to avoid using LLM models which are very expensive. I compared the text to pre-selected phrases using cosine distance. For example, I have one feature that compares reviews and products to the phrase ""glowy dewey skin"". This is a useful feature for makeup recommendation because it indicates that a customer may want products that have moisturizing properties. This allowed me to tap into consumer insights and user preferences across various demographics, focusing on features highly relevant to makeup selection.
+
+These are my feature importances. To select this features, I performed a manual management along with stepwise selection. The features that contain the \_review suffix are all from consumer reviews. The remaining features are from the product details.
+
+[Graph of Feature Importances](https://preview.redd.it/9zblqwmz8b0e1.png?width=2036&amp;format=png&amp;auto=webp&amp;s=61ee1d186f9e53f209e010d107caa12b442d616f)
+
+* **Cross Validation and Sampling:** I employed a Random Forest model because it's a good all-around model, though I might re-visit this. Any other model suggestions are welcome!! Due to the class imbalance with many reviews being five-stars, I utilized a mixed over-sampling and under-sampling strategy to balance class diversity. This allowed me to improve F1 scores across different product categories, especially those with lower initial representation. I also randomly sampled mutually exclusive product sets for train/test splits. This helped me avoid data leakage.
+* **Linear Programming for Constraints:** I used linear programming (OrTools) to add budget and category level constraints. This allowed me to add a rule based layer on top of the RandomForest. I included domain knowledge based rules to help with product category selection.
+
+# Future Improvements
+
+* **Enhanced NLP Features:** I want to experiment with more advanced NLP models like BERT or other transformers to capture deeper insights from beauty reviews. I am currently using bag-of-words for everything.
+* **User Feedback Integration:** I want to allow users to rate recommendations, creating a feedback loop for continuous model improvement.
+* **Add Causal Discrete Choice Model:** I also want to add a causal discrete choice model to capture choices across the competitive landscape and causally determine why customers select certain products. I am thinking about using a nested logit model and ensemble it with our existing model. I think nested logit will help with products being in a hierarchy due to their categorization. It also lets me account for implied based a consumer choosing not to buy a specific product. I would love suggestions on this!!
+* **Implement Computer Vision Based Features:** I want to extract CV based features from image and video review data. This will allow me to extract more fine grained demographic information.
+
+Feel free to reach out anytime!
+
+GitHub: [https://github.com/zara-sarkar/Makeup\_Recommender](https://github.com/zara-sarkar/Makeup_Recommender)
+
+LinkedIn: [https://www.linkedin.com/in/zsarkar/](https://www.linkedin.com/in/zsarkar/)
+
+Email: [sarkar.z@northeastern.edu](mailto:sarkar.z@northeastern.edu)",pansali,1goy7sf,https://reddit.com/r/datascience/comments/1goy7sf/luxxify_makeup_recommender/,https://www.reddit.com/r/datascience/comments/1goy7sf/luxxify_makeup_recommender/,2024-11-11 17:47:12,21,0.82,21,0,9,0,0,False,False,True,False,False,Projects,https://b.thumbs.redditmedia.com/UTK1a6-qxIZ11KG9T14Z2wELJEI0rrjfeP1HnaecpWE.jpg,t3_1goy7sf
+datascience,Switching to better company as a working DS,"I have been working in a consultancy as a data scientist for over a year now. Working mostly with structured data and classical ML algorithms. The work is okayish. But I am missing the work life balance. Within a year, I want to switch to a better company (I am targeting product based companies instead of consultancy). By better I mean higher pay and more quality work.
+
+Given that I have a tight work schedule, how should I prepare for the switch? Did anyone do this? And how difficult will it be to join a product based company with experience of consultancy? I want more ML focused work than analytics focused.",alpha_centauri9889,1govqx6,https://reddit.com/r/datascience/comments/1govqx6/switching_to_better_company_as_a_working_ds/,https://www.reddit.com/r/datascience/comments/1govqx6/switching_to_better_company_as_a_working_ds/,2024-11-11 16:07:55,16,0.86,16,0,16,0,0,False,False,True,False,False,Discussion,self,t3_1govqx6
+datascience,Is a Data Science or Stats Master's worth it with 2 YOE as a Data Scientist?,"Hello everyone! I am a 22 years old Data Scientist and recently graduated with my B.S in Data Science from a lesser-known state school. My job has been going pretty well, I find the work interesting although I am mostly doing data analysis tasks rather than ML/DS, and I make a comfortable salary in a HCOL city. I'm not sure if I want to be a Data Scientist forever, but recently I have been thinking more about my career path/future plans.
+
+My parents also work in tech (program manager and software developer) and have been pressuring me about getting a Master's as soon as I got my first job. They claim that it is the new Bachelor's, it is necessary for career progression, and if I don't get one soon I will fall behind in my career. They also want me to start doing some DS certifications to be more competitive for my next job but I'm not sure if this would be a very valuable use of my time or make any meaningful impact.
+
+I’m planning to look for a new job and move closer to my significant other in about two years (Chicago area). At that point, I’m considering starting a Master’s in Applied Stats or Data Science, but I’m not entirely sure if it’s the right move or if my experience will be enough to progress without it.
+
+I’d love to hear from people in similar positions or with experience in the field:
+
+* Is a Master’s truly essential to stay competitive, or can experience and on-the-job learning be enough?
+* Have any certifications really helped you stand out or advance in your career?
+* Any advice on timing or alternative paths for someone with 2 years of experience in data science?
+
+Thanks!",AnyBarnacle5305,1goasko,https://reddit.com/r/datascience/comments/1goasko/is_a_data_science_or_stats_masters_worth_it_with/,https://www.reddit.com/r/datascience/comments/1goasko/is_a_data_science_or_stats_masters_worth_it_with/,2024-11-10 21:00:43,171,0.94,171,0,108,0,0,False,False,True,False,False,Career | US,self,t3_1goasko
+datascience,Meta Data Science Onsite Interview,"Hey everyone, I am studying for the 2nd round interview for the product DS intern position at Meta. Could anyone give me a general expectation for this round? I heard there are no more SQL, but there will be another product case plus some stats questions.
+
+Could you also suggest some resources to study for these stats questions? What type of stats questions will be asked? I'm so in on this, so I'd appreciate any help! Thank you y'all and good luck to all of you!",Thomas_ng_31,1gojatt,https://reddit.com/r/datascience/comments/1gojatt/meta_data_science_onsite_interview/,https://www.reddit.com/r/datascience/comments/1gojatt/meta_data_science_onsite_interview/,2024-11-11 03:53:24,25,0.81,25,0,20,0,0,False,False,True,False,False,Discussion,self,t3_1gojatt
+datascience,Get an MBA to Pivot into Data Scientist-Product Analytics Job?,"I have an MS in Data Science and 4 YOE between data science, data engineering, and software engineering roles. I want to get a product analytics gig because I love doing analysis, statistics, deal with stakeholders, etc. but do not care about ML. 
+
+I am stuck at current employer for next 1.5 years and have tuition reimbursement to use. Would an MBA, or some other degree, help me pivot to a product analytics role? 
+
+My only reservation is that I have spent my career in R&amp;D and have no experience in business. I worry this will harm my transition. ",ParticularBattle2713,1gofbmh,https://reddit.com/r/datascience/comments/1gofbmh/get_an_mba_to_pivot_into_data_scientistproduct/,https://www.reddit.com/r/datascience/comments/1gofbmh/get_an_mba_to_pivot_into_data_scientistproduct/,2024-11-11 00:24:16,38,0.87,38,0,21,0,0,False,False,True,False,False,Education,self,t3_1gofbmh
+datascience,"Weekly Entering &amp; Transitioning - Thread 11 Nov, 2024 - 18 Nov, 2024"," 
+
+Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",AutoModerator,1gokhod,https://reddit.com/r/datascience/comments/1gokhod/weekly_entering_transitioning_thread_11_nov_2024/,https://www.reddit.com/r/datascience/comments/1gokhod/weekly_entering_transitioning_thread_11_nov_2024/,2024-11-11 05:01:28,7,0.9,7,0,72,0,0,False,False,True,False,False,,self,t3_1gokhod
+datascience,Data science interview questions,"Here is a collection of interview questions and exercises for data science professionals. The list serves as supplementary materials for our book of Data Science Methods and Practices. The book is in Chinese only for the moment, but I am in the process of making the materials accessible to global audience.
+
+[https://github.com/qqwjq1981/data\_science\_practice/blob/main/quizzes-en.md](https://github.com/qqwjq1981/data_science_practice/blob/main/quizzes-en.md)
+
+The list covering topics such as statistical foundations, machine learning, neural networks, deep learning, data science workflow, data storage and computation, data science technology stack, product analytics, metrics, A/B testing, models in search, recommendation, and advertising, recommender systems, and computational advertising.
+
+Some example questions:
+
+**\[Probability &amp; Statistics\]**
+
+Given an unfair coin with a probability of landing heads up, p, how can we simulate a fair coin flip?
+
+What are some common sampling techniques used to select a subset from a finite population? Please provide up to 5 examples.
+
+**\[Machine Learning\]**
+
+What is the difference between XGBoost and GBDT algorithms?
+
+How can continuous features be bucketed based on data distribution, and what are the pros and cons of distribution-based bucketing?
+
+How should one choose between manual and automated feature engineering? In which scenarios is each approach preferable?
+
+**\[ML Systems\]**
+
+How can an XGBoost model, trained in Python, be deployed to a production environment?
+
+Outline the offline training and online deployment processes for a comment quality scoring model, along with potential technology choices.
+
+**\[Analytics\]**
+
+Given a dataset of student attendance records (date, user ID, and attendance status), identify students with more than 3 consecutive absences.
+
+An e-commerce platform experienced an 8% year-over-year increase in GMV. Analyze the potential drivers of this growth using data-driven insights.
+
+**\[Metrics and Experimentation\]**
+
+How can we reduce the variability of experimental metrics?
+
+What are the common causes of sample ratio mismatch (SRM) in A/B testing, and how can we mitigate it?
+
+**\[LLM and GenAI\]**
+
+Why use a vector database when vector search packages exist?",Feeling_Program,1gnx9cj,https://reddit.com/r/datascience/comments/1gnx9cj/data_science_interview_questions/,https://www.reddit.com/r/datascience/comments/1gnx9cj/data_science_interview_questions/,2024-11-10 09:50:08,127,0.81,127,0,18,0,0,False,False,True,False,False,Projects,self,t3_1gnx9cj
+datascience,RAG framework (GenAI) Interview Questions ,"In the 4th part, I've covered GenAI Interview questions associated with RAG Framework like different components of RAG?, How VectorDBs used in RAG? Some real-world usecase,etc. Post : https://youtu.be/HHZ7kjvyRHg?si=GEHKCM4lgwsAym-A",mehul_gupta1997,1gojv0p,https://reddit.com/r/datascience/comments/1gojv0p/rag_framework_genai_interview_questions/,https://www.reddit.com/r/datascience/comments/1gojv0p/rag_framework_genai_interview_questions/,2024-11-11 04:25:18,4,0.63,4,0,1,0,0,False,False,True,False,False,AI,self,t3_1gojv0p
+datascience,What are some practical/useful problems where data science is under-utilized?,"This could range from things in our day-to-day lives, or problems that multiple people face, etc.",Mission-Language8789,1go1dp4,https://reddit.com/r/datascience/comments/1go1dp4/what_are_some_practicaluseful_problems_where_data/,https://www.reddit.com/r/datascience/comments/1go1dp4/what_are_some_practicaluseful_problems_where_data/,2024-11-10 14:06:06,50,0.85,50,0,40,0,0,False,False,True,False,False,Discussion,self,t3_1go1dp4
+datascience,What sort of job titles and roles should I look for?,"Hi, I've been working as an analyst for a retail company for a few years, but it's pretty basic and mostly focused on reporting, dashboards, etc, so I'm looking for more roles with a heavier data science and computation focus. But I'm getting overwhelmed and confused about what sorts of roles to look for.
+
+A quick google search for ""types of roles in data science"" and you'll find dozens of pages filled with SEO-driven buzzwords (possibly AI-generated), but these only give the most surface-level and generic descriptions of common titles like data analyst, data scientist, data engineer, etc. This isn't really what I'm looking for though lol. I know what these are. Also, so many roles today seem to just be focused on shoving the latest LLM stack (RAG, langchain, etc) into the problem even if the use case for the company is slim or marginal at best. This isn't really what I'm interested in cause I like operations data science more.
+
+What I'm looking for is a more specific, tailored advice relevant to specific types of industries/specializations. For example
+
+* I really like building models that heavily rely on functional programming, and may make use of very niche or specific libraries depending on the use case. I enjoy Project Euler type problems for example
+* I understand ML is a core part of data science, but I enjoy projects where ML isn't exclusive to the problem. A lot of other models can be solved by more functional programming and tailored computational science type work
+* I guess my background right now is mostly focused on business/operations/economics, so I don't have a specific engineering or hard science background, but I'm open to any area that invovles applied mathematics.
+
+I would appreciate any and all advice. As specific or general as possible. But preferably something specific.",OutrageousPressure6,1go59j5,https://reddit.com/r/datascience/comments/1go59j5/what_sort_of_job_titles_and_roles_should_i_look/,https://www.reddit.com/r/datascience/comments/1go59j5/what_sort_of_job_titles_and_roles_should_i_look/,2024-11-10 17:03:25,6,0.75,6,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1go59j5
+datascience,Top Tips for Enhancing a Classification Model,"Long story short I am in charge of developing a binary classification model but its performance is stagnant. In your experience, what are the best strategies to improve model's performance?
+
+I strongly appreciate if you can be exhaustive.
+
+(My current best model is a CatBooost, I have 55 variables with heterogeneous importance, 7/93 imbalance. I already used TomekLinks, soft label and Optuna strategies)
+
+EDIT1: There’s a baseline heuristic model currently in production that has around 7% precision and 55% recall. Mine is 8% precision and 60% recall, not much better to replace the current one. Despite my efforts I can push theses metrics up",gomezalp,1gnvwe9,https://reddit.com/r/datascience/comments/1gnvwe9/top_tips_for_enhancing_a_classification_model/,https://www.reddit.com/r/datascience/comments/1gnvwe9/top_tips_for_enhancing_a_classification_model/,2024-11-10 08:09:28,18,0.88,18,0,27,0,0,False,False,True,False,False,Projects,self,t3_1gnvwe9
+datascience,"On ""reverse"" embedding (i.e. embedding vectors/tensors to text, image, etc.)","EDIT: I didn't mean decoder per se, and it's my bad for forgetting to clarify that. What I meant was for a (more) direct computational or mathematical framework that doesn't involve training another network to do the reverse-embedding.
+
+------------
+
+As the title alluded, are there methods and/or processes to do reverse-embedding that perhaps are currently being researched? From the admittedly preliminary internet-sleuthing I did yesterday, it seems to be essentially impossible because of how intractable the inverse-mapping is gonna play out. And on that vein, how it's practically impossible to carry out with the current hardware and setup that we have.
+
+However, perhaps some of you might know some literature that might've gone into that direction, even if at theoretical or rudimentary level and it'd be greatly appreciated if you can point me to those resources. You're also welcome to share your thoughts and theories as well.
+
+Expanding from reverse-embedding, is it possible to go beyond the range of the embedding vectors/tensors so as to reverse-embed said embedding vectors/tensors and then retrieve the resulting text, image, etc. from them?
+
+Many thanks in advance!",YsrYsl,1gnrv0m,https://reddit.com/r/datascience/comments/1gnrv0m/on_reverse_embedding_ie_embedding_vectorstensors/,https://www.reddit.com/r/datascience/comments/1gnrv0m/on_reverse_embedding_ie_embedding_vectorstensors/,2024-11-10 03:46:35,12,0.85,12,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1gnrv0m
+datascience,I’m starting to hate DS.,"Currently doing my first semester of DS at UMiami. I’m really starting to regret it. I’m taking a sql course which is meh. A data visualization course which is also meh. And then there’s statistical analysis and I hate it.
+
+I have a masters in business analytics and wanted to do delve deeper into DS.
+
+
+I know statistics is the bread and butter of DS, but damn is this shit boring. It’s surprising because this professor manages to teach statistics without using real world examples. And on top of that we have to use R and R markdown which is annoying and useless af and when I asked my professor he was like “I can’t help you with that”.
+
+My blood starts boiling with rage when I have to use R studio and start reading the assignments and I start screaming at the screen and I even broke a mouse when I threw it at the wall in frustration 
+
+I don’t exactly get excited about studying statistics when I get home. In fact, it’s probably the class I hate and procrastinate the most. I’m really starting to resent starting this program.
+
+Luckily I’m not out any money so I’m just curious on your thoughts. Should I keep going and give it a chance? Should I stop if I’m already not liking the basic fundamentals; how am I supposed to enjoy the rest of the program?",Rare_Art_9541,1go8p7x,https://reddit.com/r/datascience/comments/1go8p7x/im_starting_to_hate_ds/,https://www.reddit.com/r/datascience/comments/1go8p7x/im_starting_to_hate_ds/,2024-11-10 19:30:26,0,0.29,0,0,40,0,0,False,False,True,False,False,Discussion,self,t3_1go8p7x
+datascience,Need some help with Inflation Forecasting ,"I am trying to build an inflation prediction model. I have the monthly inflation values for USA, for the last 11 years from the BLS website.
+
+The problem is that for a period of 18 months (from 2021 may onwards), COVID impact has seriously affected the data. The data for these months are acting as huge outliers.
+
+I have tried SARIMA(with and without lags) and FB  prophet, but the results are just plain bad. I even tried to tackle the outliers by winsorization, log transformations etc. but still the results are really bad(getting huge RMSE, MAPE values and bad r squared values as well). Added one of the results for reference.
+
+Can someone direct me in the right way please.
+
+PS: the data is seasonal but not stationary (Due to data being not stationary, differencing the data before trying any models would be the right way to go, right?)",rahulsivaraj,1gmijk9,https://reddit.com/r/datascience/comments/1gmijk9/need_some_help_with_inflation_forecasting/,https://i.redd.it/yy9zji2kjozd1.jpeg,2024-11-08 13:29:47,166,0.88,166,0,181,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/K6kdr3ja882iDyABodGTG3wZhxuPsSUpcw0dfY-wwHY.jpg,t3_1gmijk9
+datascience,What are you favorite logical fallacies or data science hero's?,"The organization I work for is creating a staff development program in which a small group of select employees will meet with the heads of various department to better understand what those offices do and how their work supports/impacts that work they do in their own departments. 
+
+As the head of the data science department, my job is to explain what I we do and I'd like to make it broader than just the nuts and bolts of my day-to-day. I'd like to talk to them about how to think about data critically. So my idea was to create an interactive workshop where we walk through classic data fallacies - like Abraham Wald's explanation of survivorship bias. But I am not too sure what else I should include. 
+
+Any suggestions on what else to include for a non-technical/data audience? Who are your data science heros?",gonna_get_tossed,1gmlpj7,https://reddit.com/r/datascience/comments/1gmlpj7/what_are_you_favorite_logical_fallacies_or_data/,https://www.reddit.com/r/datascience/comments/1gmlpj7/what_are_you_favorite_logical_fallacies_or_data/,2024-11-08 15:53:12,90,0.96,90,0,47,0,0,False,False,True,False,False,Discussion,self,t3_1gmlpj7
+datascience,best tool to use data manipulation,"I am working on project. this company makes personalised jewlery, they have the quantities available of the composants in odbc table, manual comments added to yesterday excel files on state of fabrication/buying of products, new exported files everyday. for now they are using an R scripts to handles all of this ( joins, calculate quantities..). they need the excel to have some formatting ( colors...). what better tool to use instead?",Due-Duty961,1gmssp7,https://reddit.com/r/datascience/comments/1gmssp7/best_tool_to_use_data_manipulation/,https://www.reddit.com/r/datascience/comments/1gmssp7/best_tool_to_use_data_manipulation/,2024-11-08 20:53:02,24,1.0,24,0,20,0,0,False,False,True,False,False,Tools,self,t3_1gmssp7
+datascience,Controversial questions to ChatGPT ?,"One day I was wondering how can ChatGPT handle questions that seem controversial, so I went on and asked these:
+
+1. Tell me 5 motivational quotes, without sounding motivational
+2. Tell me 5 jokes but without sounding funny
+3. Tell me 5 myths that sound like truth.
+4. Tell me 5 truths that sound like lies
+
+Some of them were really unpredictable, such as that *""Cleopatra lived closer to the invention of the iPhone than to the construction of the Great Pyramid""* (truth or myth??)
+
+Do you have any such controversial questions to consider? I am really wondering how it would perform. Please add any example as inspiration.
+
+(I have also written an article on Medium on this topic but prefer not to mention it here, to avoid people thinking it like ""self-promotion"")",vasikal,1gnkw30,https://reddit.com/r/datascience/comments/1gnkw30/controversial_questions_to_chatgpt/,https://www.reddit.com/r/datascience/comments/1gnkw30/controversial_questions_to_chatgpt/,2024-11-09 21:48:55,0,0.26,0,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1gnkw30
+datascience,Data science job search sankey,,llama_penguin,1glv7su,https://reddit.com/r/datascience/comments/1glv7su/data_science_job_search_sankey/,https://i.redd.it/j37r2qavfizd1.png,2024-11-07 16:59:23,716,0.95,716,0,77,0,0,False,False,False,False,False,Career | US,https://a.thumbs.redditmedia.com/IZryzGZLfdy7DkD_1aorDLn2vRAtcrHXc9zgw70Usw8.jpg,t3_1glv7su
+datascience,Document Parsing Tools,"I posted here a few days ago regarding a project I am working on to determine sensitive data types by industry (e.g. FinTech, Marketing, Healthcare) and received some useful feedback. I am now looking for tools to help me parse documents.
+
+Right now I am focusing on the General Data Protection Regulation (GDPR) framework to understand if it highlights types of private data and industries they may be found in. I want to parse the available PDF of this regulation to assist in this research. what is the best way to do this using free and/or low cost tools?
+
+For reference, I have been playing around with AWS tools like Textract, Comprehend, and Kendra with minimal return on investment. I know Azure has some document intelligence tools as well and I could probably leverage something via Open AI's API to do this (although the tokenization limit would result in me having to work around that limit since the doc is 88 pages). Just looking for some guidance on how you would go about doing this and what tool box you would use. Thanks.",SizePunch,1gmlj1f,https://reddit.com/r/datascience/comments/1gmlj1f/document_parsing_tools/,https://www.reddit.com/r/datascience/comments/1gmlj1f/document_parsing_tools/,2024-11-08 15:45:25,3,0.81,3,0,2,0,0,False,False,True,False,False,Tools,self,t3_1gmlj1f
+datascience,Sharing my experience,"Hey all. I'm a bit stuck in my career because I made some bad assumptions early on, and also been quite lazy. I'd love to share my experience and get some advice on how to proceed further.
+
+My background: I'm 27, from a small Eastern Europe country, 6 yoe, working in a local FAANG at the moment, been really good at math in school, won many local contests, and went to a place where many of my colleagues continued to MIT/Oxford/etc. abroad, but I chose to stay home because of family issues, lack of money, and lack of courage. My expectation was that if I self study a lot and get really really good in terms of skill, after working locally for some years, I would be able to find a good position abroad. That was an extremely bad assumption.
+
+The first reason is that I did not even begin to fathom how bad the work environment would be around here. Well, across my yoe I mostly did my entire work in a few hours each week and focused a lot on studying and personal projects the rest of the time.
+
+The second reason is that my experience here does not count at all when applying abroad. When entering the FAANG some time ago, they gave me an intern project, while I was a senior in my previous job... and they treated me like training a linear regression is completely outside of my skillset, while having experience with much more complex models and having implemented l.r. in C from scratch for fun in the past... When applying to thousands of jobs abroad I got zero callbacks (before the faang stamp).
+
+I did come up with prototypes, presented at internal conferences within the FAANG, but they refuse to help me publish externally because I don't have a PhD and because papers don't come from eastern europe... And mostly because I don't keep my head down like the rest of my colleagues who behave as if US folks are superior.
+
+When working with a German startup, I was invited to come there for a few weeks and work together. They kept saying that they don't have much money, and when I said that's fine, I just want to build something together and be treated as an equal, they looked at me like I was insane. They expected to pay me scrap and didn't even know that the economy in my country was quite similar to the German one on the programming side.
+
+I got around 5 total research projects that can be turned into publications, done at various companies.
+
+I really want to move west now, and into a research oriented role, as the engineering side does not appeal to me that much anymore (except as a tool for research), but I don't know how to do that, as I'm completely ghosted by all applications I make.
+
+My options would be:
+
+Write papers on all previous projects I did, then send them across the world to top journals and PhD programs
+
+Message hundreds of professors/researchers in look of a mentor
+
+Message people in my local FAANG and try looking for mentorship / publishing opportunity
+
+Get back in local academia (which is a total shitshow) and try to reach out from there, maybe some professors have connections to US/big journals
+
+Start an AI startup in my local economy, as I know a lot of really talented people who are being kept down at their jobs",SemperZero,1gmevgr,https://reddit.com/r/datascience/comments/1gmevgr/sharing_my_experience/,https://www.reddit.com/r/datascience/comments/1gmevgr/sharing_my_experience/,2024-11-08 09:41:34,9,0.71,9,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1gmevgr
+datascience,The open data value chain,,rhazn,1gmerq0,https://reddit.com/r/datascience/comments/1gmerq0/the_open_data_value_chain/,https://www.heltweg.org/posts/open-data-value-chain/,2024-11-08 09:33:14,8,0.9,8,0,4,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/FHhqzu1sF_XOccUo6rHJbK8fBeDnYufM7C08JLl6vGg.jpg,t3_1gmerq0
+datascience,Data Science vs. the Interruption Culture,"I really enjoy modeling and visualizations.   Hell, even data cleaning can be kind of satisfying.   I'm a little sad how little time I get to focus on what I do best.
+
+I know everybody reading this probably gets a hundred emails a day, and spends more time in meetings than they'd like.   The last year dramatically accelerated for me for a several reasons.  First, my main project has attracted a lot of attention, all the way up to the CIO, and now five levels of management wants regular updates, and wants to tinker with things like variable importance.  Second, I'm having to work with the sales department, who have a pretty toxic culture, and, like management, think of time in small chunks.   DS requires good chunks of focused time, and has longer term goals, and it doesn't work well with people who expect immediate responses to short-term ""emergencies"".   Finally, Microsoft Teams has been widely adopted throughout the company, so I have to listen to that PING! from messages dozens of times an hour.
+
+Her are some of my tricks in dealing with this, and hope others will share theirs:
+
+\*) You don't have to go to every meeting you get invited to.  My calendar accelerated this year, and I sometimes have as many as three simultaneous meetings.  There's one guy who schedules these pointless meetings for as long as 9 hours.  Yes, I'm not kidding.  Now that it's literally impossible for me to go to every meeting.....people will think I'm at  different meetings, when I'm really getting actual work done.
+
+\*) Schedule made-up meetings.  The worst offenders don't care whether I already have something down, but I'll regularly put two hour ""status update"" meetings for my team where we can get work done and Outlook will say we're unavailable.
+
+\*) I just ignore demands for ""status reports"" and ""a few slides"" from people who aren't in my immediate chain of command.
+
+\*) Divvy up the nonsense.   Most meetings invite my entire team.   Take a few minutes in the morning and decide, if anybody goes, who that one person is who has to waste their time.
+
+\*) PowerPoint is a pox upon the working man, and has become the end product for some people.   When a deck gets to a certain point, nobody knows what's in it, so don't contribute.  The main deck for my project is now at 177 slides.
+
+\*) Presenting any results with anything more complicated than a lift chart is asking for trouble.  Explaining variable importance is asking for trouble.    When describing data, use percentages or rough figures (\~1.1m instead of a specific) because there are people who literally add up numbers and want to know why the figures on slide 68 don't match the ones on slide 47.
+
+\*) Finally, turn down the volume on your computer.   It's WAY less stressful if you don't get that ""ping"" dozens of times an hour.  I also sometimes ""attend"" meetings by putting the Zoom on the little monitor, and keeping the volume off until I see a slide that looks like it might related to what I'm working on.
+
+  
+Any other tips out there from people who just want to get their work done?",BullCityPicker,1glrmz2,https://reddit.com/r/datascience/comments/1glrmz2/data_science_vs_the_interruption_culture/,https://www.reddit.com/r/datascience/comments/1glrmz2/data_science_vs_the_interruption_culture/,2024-11-07 14:26:08,144,0.96,144,0,49,0,0,False,False,True,False,False,Discussion,self,t3_1glrmz2
+datascience,Management and Senior Leadership lately,"Hi all, for any managers lurking around here and also looking for a new job, how has your search been?
+
+I've been applying since Jan this year with dismal results.
+
+I'm a Head of DS and ML with 25 reports split between 3 teams and have been looking for similar positions, but I've had a crazy share of applications completely ghosted or insta-rejected.
+
+CV is tailored professionally and with peer feedback, so I exclude it as a possibility.
+
+I am surmising there is crazy competition right now.
+
+But what do you think?",ForeverEconomy8969,1glx5ug,https://reddit.com/r/datascience/comments/1glx5ug/management_and_senior_leadership_lately/,https://www.reddit.com/r/datascience/comments/1glx5ug/management_and_senior_leadership_lately/,2024-11-07 18:19:48,36,0.9,36,0,35,0,0,False,False,True,False,False,Career | Europe,self,t3_1glx5ug
+datascience,Announcing Plotlars 0.7.1: We’re Back with Deep Refactoring and Exciting New Features! 🦀✨📊,"Hello Data Scientists!
+
+After a long hiatus, I’m thrilled to announce that **Plotlars 0.7.1** is now released!
+
+I’ve resumed the project with a deep refactoring. I believe Rust can be a great candidate for data science, but we have a long journey ahead to achieve it. This crate aims to reduce the complexity when making plots, making data visualization in Rust more accessible and straightforward.
+
+🚀 New Features
+
+1. **Heat Maps**: We’ve added support for heat maps, enabling you to create color-coded representations of data matrices. Heat maps are perfect for visualizing data density, correlations, and patterns across two dimensions, making it easier to identify trends and anomalies in your datasets.
+2. **Scatter 3D Plots**: Introducing 3D scatter plots to Plotlars! Now you can visualize your data in three dimensions, providing a new perspective on relationships and clusters within your data. Rotate and zoom into your plots for an immersive data exploration experience.
+
+A huge thank you to all of you for your continued support, contributions, and feedback. Your enthusiasm drives this project forward.
+
+Explore the [updated documentation](https://docs.rs/plotlars/0.7.1) and head over to the [GitHub repository](https://github.com/alceal/plotlars) to see the new features in action. If you enjoy using Plotlars, **consider leaving a star ⭐️ on GitHub to help others discover the project** and support its ongoing development.
+
+  
+**This project is a breakthrough that’s set to transform the field – share it to be part of the change!**
+
+
+
+Thank you for your support, and happy plotting! 🎉",Maleficent_Motor_173,1gm33y3,https://reddit.com/r/datascience/comments/1gm33y3/announcing_plotlars_071_were_back_with_deep/,https://www.reddit.com/r/datascience/comments/1gm33y3/announcing_plotlars_071_were_back_with_deep/,2024-11-07 22:30:33,16,0.79,16,0,4,0,0,False,False,True,False,False,Projects,self,t3_1gm33y3
+datascience,Wandb best practices for training several models in parallel?,I am training several models with different hyper-parameters at the same time in Google Colab. Is the normal practice to try and do parallel processing in one notebook or virtual machine? Or do people generally use several notebooks/ virtual machines?,Will_Tomos_Edwards,1glywes,https://reddit.com/r/datascience/comments/1glywes/wandb_best_practices_for_training_several_models/,https://www.reddit.com/r/datascience/comments/1glywes/wandb_best_practices_for_training_several_models/,2024-11-07 19:32:22,3,1.0,3,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1glywes
+datascience,Is Job Hopping Frowned Upon in Data Science? Or is the function too in demand to care?,"I have a friend that is a little over 10 years in their career and most of the companies they've been at are less than 1 year tenure each, and the remaining 3 are almost 2 years.
+
+Friend says no one ever mentions it during the job switch, but I'm curious for more thoughts.",Monkfrootx,1glf6ul,https://reddit.com/r/datascience/comments/1glf6ul/is_job_hopping_frowned_upon_in_data_science_or_is/,https://www.reddit.com/r/datascience/comments/1glf6ul/is_job_hopping_frowned_upon_in_data_science_or_is/,2024-11-07 01:40:20,71,0.85,71,0,72,0,0,False,False,True,False,False,Discussion,self,t3_1glf6ul
+datascience,A Tribute to Data,,breck,1gl0vw3,https://reddit.com/r/datascience/comments/1gl0vw3/a_tribute_to_data/,https://i.redd.it/2rksig47tazd1.png,2024-11-06 15:19:08,440,0.93,440,0,41,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/8QWnT6AH1rQMod4AmD9nY5D_Mvqi8jb5oub65zcTF_M.jpg,t3_1gl0vw3
+datascience,Transition to product analytics roles,"Any advice from folks who successfully transitioned to product analytics roles . How do you fill the gap in knowledge , what got you where you are in the journey. What helped you crack these interviews and what sort of resources helped you gain the knowledge to ace the interviews. ",SmartPizza,1glkn3t,https://reddit.com/r/datascience/comments/1glkn3t/transition_to_product_analytics_roles/,https://www.reddit.com/r/datascience/comments/1glkn3t/transition_to_product_analytics_roles/,2024-11-07 06:56:22,15,0.94,15,0,30,0,0,False,False,True,False,False,Discussion,self,t3_1glkn3t
+datascience,Doing Data Science with GPT..,"Currently doing my masters with a bunch of people from different areas and backgrounds. Most of them are people who wants to break into the data industry.
+
+So far, all I hear from them is how they used GPT to do this and that without actually doing any coding themselves. For example, they had chat-gpt-4o do all the data joining, preprocessing and EDA / visualization for them completely for a class project.
+
+As a data scientist with 4 YOE, this is very weird to me. It feels like all those OOP standards, coding practices, creativity and understanding of the package itself is losing its meaning to new joiners. 
+
+Anyone have similar experience like this lol? 
+",EstablishmentHead569,1gl05mj,https://reddit.com/r/datascience/comments/1gl05mj/doing_data_science_with_gpt/,https://www.reddit.com/r/datascience/comments/1gl05mj/doing_data_science_with_gpt/,2024-11-06 14:47:01,294,0.91,294,0,130,0,0,False,False,True,False,False,Discussion,self,t3_1gl05mj
+datascience,How do you store and reuse models in VertexAI and Bigquery? ,"Hello, I am new to Bigquery and VertexAI and I am currently building the models in the VertexAI notebook UI and using BQ for data (importing it in notebook).
+
+However, I am not sure where to start when it comes to re-using the models in production. Since we don’t have a solid data science pipeline set up yet, I am concerned that storing the models directly in the notebook isn’t the best approach for reusability. 
+
+Questions:
+1. Where should I save the models so they can be easily resused later without relying on the notebook?
+2. Do you use a .py file to save predictions to BQ instead of using a notebook?
+
+Thank you in advance, everyone! 
+
+Edited: clarify question number 2. ",codiecutie,1glokng,https://reddit.com/r/datascience/comments/1glokng/how_do_you_store_and_reuse_models_in_vertexai_and/,https://www.reddit.com/r/datascience/comments/1glokng/how_do_you_store_and_reuse_models_in_vertexai_and/,2024-11-07 11:47:29,3,1.0,3,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1glokng
+datascience,Is this a reasonable take home for entry level ?,"Hello everyone ! I applied for a junior data scientist role at a startup as a recent graduate.
+
+The take home assignment i got was to work on an image segmentation project. I have to look for a dataset, preprocess it, use augmentation methods if necessary, implement a specific partial cross entropy loss, use transfer learning and ensemble learning. In the end, I have to compare the different approaches and present a full report.
+The recruiter told me to work on it as soon as possible without specifying a deadline.
+
+I'm thinking a week is good since i'm also interviewing at other places.
+But i need advice on whether this is a normal and common amount of work to do ? Is it worth it ?",Koobangtan,1gkzoha,https://reddit.com/r/datascience/comments/1gkzoha/is_this_a_reasonable_take_home_for_entry_level/,https://www.reddit.com/r/datascience/comments/1gkzoha/is_this_a_reasonable_take_home_for_entry_level/,2024-11-06 14:24:41,81,0.93,81,0,55,0,0,False,False,True,False,False,Discussion,self,t3_1gkzoha
+datascience,"Got an AI article to share: Running Large Language Models Privately – A Comparison of Frameworks, Models, and Costs","Hi guys! I work for a Texas-based AI company, [Austin Artificial Intelligence](https://www.austinai.io/), and we just published a very interesting article on the practicalities of running LLMs privately.
+
+We compared key frameworks and models like **Hugging Face, vLLm, llama.cpp, Ollama**, with a focus on cost-effectiveness and setup considerations. If you're curious about deploying large language models in-house and want to see how different options stack up, you might find this useful.
+
+Full article here: [https://www.austinai.io/blog/running-large-language-models-privately-a-comparison-of-frameworks-models-and-costs](https://www.austinai.io/blog/running-large-language-models-privately-a-comparison-of-frameworks-models-and-costs)
+
+Our LinkedIn page: [https://www.linkedin.com/company/austin-artificial-intelligence-inc](https://www.linkedin.com/company/austin-artificial-intelligence-inc)
+
+Let us know what you think, and thanks for checking it out!
+
+[Key Points of the Article](https://preview.redd.it/pjvmuvbkkhzd1.png?width=1115&amp;format=png&amp;auto=webp&amp;s=3d8c9408823f457b9514fa8f2834af767aac78d5)
+
+",web-dev-john,1glr5th,https://reddit.com/r/datascience/comments/1glr5th/got_an_ai_article_to_share_running_large_language/,https://www.reddit.com/r/datascience/comments/1glr5th/got_an_ai_article_to_share_running_large_language/,2024-11-07 14:04:00,1,0.55,1,0,4,0,0,False,False,True,False,False,AI,https://b.thumbs.redditmedia.com/RDVNtR-b2WvgSkItmhCbMSSWLX7sVedIX_ZJKTrmYFI.jpg,t3_1glr5th
+datascience,Generative AI Interview questions : Fine-Tuning ,I've compiled a list of Generative AI Interview questions asked in top MNCs and startups from different resources available. This 1st part comprises all the questions and answers for the topic Fine-Tuning LLMs. https://youtu.be/zkzns74iLqY?si=GWv27wMA0L4dZyJ_,mehul_gupta1997,1glhrwy,https://reddit.com/r/datascience/comments/1glhrwy/generative_ai_interview_questions_finetuning/,https://www.reddit.com/r/datascience/comments/1glhrwy/generative_ai_interview_questions_finetuning/,2024-11-07 03:57:52,3,0.54,3,0,8,0,0,False,False,True,False,False,AI,self,t3_1glhrwy
+datascience,"This document is designed to provide a thorough understanding of descriptive statistics, complete with practical examples and Python implementations for real-world data analysis. 
+repository not done yet. If you want to help me, feel free to submit pull requests or open issues for improvements.",,AhmedOsamaMath,1gkq4nm,https://reddit.com/r/datascience/comments/1gkq4nm/this_document_is_designed_to_provide_a_thorough/,https://github.com/AhmedOsamaMath/descriptive-statistics,2024-11-06 04:23:42,58,0.89,58,0,8,0,0,False,False,False,False,False,Statistics,https://b.thumbs.redditmedia.com/VmYvJ1Qys0FIAuiYiNQ1NCFPYyHgla8fQGoA1ZZqmig.jpg,t3_1gkq4nm
+datascience,Data Science Job Prep Doubt,"Hello,
+I am a data scientist at a mid size startup and have been working there since 2021. Currently I work predominantly in data and predective analytics. Mostly it is very niche. I want to switch jobs and move to machine learning engineer position in another company. As holiday slowdown is going to start soon, what should be my approach in the upcoming months to prepare me better when(&amp; if) hiring starts say in Jan 2025. Any advice I recieve is appreciated. Also, how to get interview calls?
+PS:
+
+Education: BS in CS, MS in DS
+YoE: 4
+Visa: H1B
+Preferred Location: Remote(finacè has to go to office everyday, she is not in IT &amp; has a great job).
+Thank You
+
+",MikeSpecterZane,1gl1p1r,https://reddit.com/r/datascience/comments/1gl1p1r/data_science_job_prep_doubt/,https://www.reddit.com/r/datascience/comments/1gl1p1r/data_science_job_prep_doubt/,2024-11-06 15:54:50,6,0.67,6,0,7,0,0,False,False,True,False,False,Career | US,self,t3_1gl1p1r
+datascience,find relations between two time series,"Let's say I have time series A and B, B is weakly dependent on A and is also affected by some unknown factor. What are are the best ways to find out the correlation? ",ThisIsTheNewNotMe,1gknf36,https://reddit.com/r/datascience/comments/1gknf36/find_relations_between_two_time_series/,https://www.reddit.com/r/datascience/comments/1gknf36/find_relations_between_two_time_series/,2024-11-06 01:49:29,18,0.89,18,0,6,0,0,False,False,True,False,False,Analysis,self,t3_1gknf36
+datascience,"Blogs, articles, research papers?",Hi Data Science redditors! I want to read more about the world of data science and AI in my free time instead of doomscrolling. Can you give me recommendations where I can read blog posts or articles or research papers in the field of data science and AI? If it’s helpful info I am a junior level data scientist. Thank you in advance!,rellanson,1gkjgbr,https://reddit.com/r/datascience/comments/1gkjgbr/blogs_articles_research_papers/,https://www.reddit.com/r/datascience/comments/1gkjgbr/blogs_articles_research_papers/,2024-11-05 22:36:55,34,0.92,34,0,17,0,0,False,False,True,False,False,Education,self,t3_1gkjgbr
+datascience,OOP in Data Science?,"I am a junior data scientist, and there are still many things I find unclear. One of them is the use of classes to define pipelines (processors + estimator).
+
+At university, I mostly coded in notebooks using procedural programming, later packaging code into functions to call the model and other processes. I’ve noticed that senior data scientists often use a lot of classes to build their models, and I feel like I might be out of date or doing something wrong.
+
+What is the current industy standard? 
+What are the advantages of doing so?
+Any academic resource to learn OOP for model development?",gomezalp,1gk4s66,https://reddit.com/r/datascience/comments/1gk4s66/oop_in_data_science/,https://www.reddit.com/r/datascience/comments/1gk4s66/oop_in_data_science/,2024-11-05 11:44:58,180,0.95,180,0,95,0,0,False,False,True,False,False,Discussion,self,t3_1gk4s66
+datascience,What do you think of Building AI with AI ?,"Hey everyone! 👋
+
+I’m curious about your thoughts on the concept of building AI with AI. With the rapid evolution of machine learning and more particularly LLMs , there’s been a lot of talk about leveraging AI to handle the more complex and repetitive tasks involved in developing, deploying, and maintaining AI applications.
+
+I've been playing around with the idea where AI could help streamline the development of AI\\ML applications with everything from data cleaning, model training, and evaluation to deployment and even maintenance. This kind of approach could potentially streamline the entire AI development lifecycle, allowing us to go from idea to production much faster then today.
+
+I'd love to hear your thoughts on this and open a discussion on how you think we could better utilize AI to help with the iterative and often challenging parts of building AI from idea to production.",Lumiere-Celeste,1gl3sn0,https://reddit.com/r/datascience/comments/1gl3sn0/what_do_you_think_of_building_ai_with_ai/,https://www.reddit.com/r/datascience/comments/1gl3sn0/what_do_you_think_of_building_ai_with_ai/,2024-11-06 17:23:27,0,0.27,0,0,20,0,0,False,False,True,False,False,Discussion,self,t3_1gl3sn0
+datascience,Long-term Forecasting Bias in Prophet Model,"Hi everyone,
+
+I’m using Prophet for a time series model to forecast sales. The model performs really well for short-term forecasts, but as the forecast horizon extends, it consistently underestimates. Essentially, the bias becomes increasingly negative as the forecast horizon grows, which means residuals get more negative over time.
+
+What I’ve Tried:
+I’ve already tuned the main Prophet parameters, and while this has slightly adjusted the degree of underestimation, the overall pattern persists.
+
+My Perspective:
+In theory, I feel the model should “learn” from these long-term errors and self-correct. I’ve thought about modeling the residuals and applying a regression adjustment to the forecasts, but it feels like a workaround rather than an elegant solution. Another thought was using an ensemble boosting approach, where a secondary model learns from the residuals of the first. However, I’m concerned this may impact interpretability, which is one of Prophet’s strong suits and a key requirement for this project.
+
+Would anyone have insights on how to better handle this? Or any suggestions on best practices to approach long-term bias correction in Prophet without losing interpretability?
+",PrestigiousCase5089,1gjs4af,https://reddit.com/r/datascience/comments/1gjs4af/longterm_forecasting_bias_in_prophet_model/,https://i.redd.it/8ox7si4wuyyd1.jpeg,2024-11-04 23:06:58,132,0.95,132,0,39,0,0,False,False,False,False,False,ML,https://b.thumbs.redditmedia.com/S43GELTt7s-hGjUvTTnacdpEHau3IqhzfN1TFTCFMCc.jpg,t3_1gjs4af
+datascience,Auto-Analyst — Adding marketing analytics AI agents,,phicreative1997,1gk7iep,https://reddit.com/r/datascience/comments/1gk7iep/autoanalyst_adding_marketing_analytics_ai_agents/,https://medium.com/firebird-technologies/auto-analyst-adding-marketing-analytics-ai-agents-45b3e1f6654c,2024-11-05 14:08:41,8,0.75,8,0,6,0,0,False,False,False,False,False,Projects,https://b.thumbs.redditmedia.com/b4yzRifHSBvmKPzW49gUDQC0LSCtXWzQmP-lliDKhBs.jpg,t3_1gk7iep
+datascience,How to use GGUF LLMs with python explained,GGUF is an optimised file format to store ML models (including LLMs) leading to faster and efficient LLMs usage with reducing memory usage as well. This post explains the code on how to use GGUF LLMs (only text based) using python with the help of Ollama and LangChain : https://youtu.be/VSbUOwxx3s0,mehul_gupta1997,1gk04ki,https://reddit.com/r/datascience/comments/1gk04ki/how_to_use_gguf_llms_with_python_explained/,https://www.reddit.com/r/datascience/comments/1gk04ki/how_to_use_gguf_llms_with_python_explained/,2024-11-05 06:01:55,13,0.93,13,0,2,0,0,False,False,True,False,False,AI,self,t3_1gk04ki
+datascience,Is this a valid method to compare subgroups of a population?,"So I’m basically comparing the average order value of a specific e-commerce between two countries. As I own the e-commerce, I have the population data - all the transactions.
+
+I could just compare the average order value at all - it’s the population, right? - but I would like to have a verdict about one being higher than the other rather than just trust in the statistic that might address something like just 1% difference. Is that 1% difference just due to random behaviour that just happened?
+
+I could see the boxplot to understand the behaviour, for example, but at the end of the date, I would still not having the verdict I’m looking for.
+
+Can I just conduct something similar to bootstrapping between country A and country B orders? I will resample with replacement N times, get N means for A and B and then save the N mean differences. Later, I’d see the confidence interval for that to do that verdict for 95% of that distribution - if zero is part of that confidence interval, they are equal otherwise, not. 
+
+Is that a valid method, even though I am applying it in the whole population? ",EducationalUse9983,1gjwkqt,https://reddit.com/r/datascience/comments/1gjwkqt/is_this_a_valid_method_to_compare_subgroups_of_a/,https://www.reddit.com/r/datascience/comments/1gjwkqt/is_this_a_valid_method_to_compare_subgroups_of_a/,2024-11-05 02:38:48,8,0.91,8,0,27,0,0,False,False,True,False,False,Analysis,self,t3_1gjwkqt
+datascience,Customer Segmentation - Mixed Data Types,"Hi everyone!
+
+I've only ever had experience with supervised learning for tasks for propensity models. My lead data scientist believes there is value in unsupervised learning to find clusters amongst our customers and target them with more personalised messaging. 
+
+I generally used to approach my ""segmentation"" with a combination of different demographic factors and bins for a selection of continuous features (like RFM factors). However, if I were to consider unsupervised learning for clustering, I'll have mixed data. 
+
+I wanted to understand how you would approach this, whether you ignore categorical variables, or whether you do a clustering model for categorical and numerical variables separately, etc. 
+
+Also, I'd like to hear your thoughts and stories of how segmentation via ML has added value beyond RFM or RFE analysis. ",ShayBae23EEE,1gjij6n,https://reddit.com/r/datascience/comments/1gjij6n/customer_segmentation_mixed_data_types/,https://www.reddit.com/r/datascience/comments/1gjij6n/customer_segmentation_mixed_data_types/,2024-11-04 16:33:40,28,0.93,28,0,27,0,0,False,False,True,False,False,Discussion,self,t3_1gjij6n
+datascience,"Check out the Closeread Prize - data-driven Scrollytelling documents in Python or R (or Julia, or ojs, or whatever)","Ever wanted to create impactful scrollytelling stories like the ones you see in online news? 
+
+Scrollytelling stories let you explain complicated concepts to readers as they scroll down the page. You could build up a complicated plot layer-by-layer, zoom in on a famous map, highlight a key quote from an interviewee, or even animate your own web graphics.
+
+[Closeread](https://closeread.dev/) brings all of this and more to you inside Quarto. (Closeread is free and open source.)  
+Write your data-driven story with code, and publish it to the web as a scrollytelling article. 
+
+Learn more at [https://posit.co/blog/closeread-prize-announcement/](https://posit.co/blog/closeread-prize-announcement/)
+
+  
+And let me know if you have any questions here or at the dev repo: [https://github.com/qmd-lab/closeread/discussions](https://github.com/qmd-lab/closeread/discussions)",economicurtis,1gjjt4k,https://reddit.com/r/datascience/comments/1gjjt4k/check_out_the_closeread_prize_datadriven/,https://www.reddit.com/r/datascience/comments/1gjjt4k/check_out_the_closeread_prize_datadriven/,2024-11-04 17:24:43,26,0.91,26,0,10,0,0,False,False,True,False,False,Challenges,self,t3_1gjjt4k
+datascience,How do you handle version control at a high level?,"I do a lot of project-oriented work, and I've been thinking about how to make my repo structures work better for me. I'm curious what others do and in what contexts.
+
+For me, it goes something like this:
+
+1. Academic projects. These are the easiest. It's generally one repo per paper, and then I have some infrastructure projects (e.g., packages, persistent datasets) that have their own.
+1. Consulting. This is probably the most challenging area, in part because it's a smaller side thing. In a typical engagement, I'll have datasets, prototypes (Python and R), exploratory work (notebooks), deliverables (notebooks or quarto docs; and then usually with a pile of supporting data and outputs), slides, and internal docs (meeting notes, timesheets, invoices). They can last years, and I would often have multiple devcontainer setups, sometimes Python and R but more often creating ones with newer package versions over time.
+
+I've generally used smaller repos, but it becomes a hassle to manage all of them, and be sure I'm in the right one. I know that monorepos are popular in some settings, though I don't have experience with them.
+
+In case it matters, I do very nearly everything in VS Code and in devcontainers, so I can have easy portability across computers.",jkiley,1gjh3w6,https://reddit.com/r/datascience/comments/1gjh3w6/how_do_you_handle_version_control_at_a_high_level/,https://www.reddit.com/r/datascience/comments/1gjh3w6/how_do_you_handle_version_control_at_a_high_level/,2024-11-04 15:35:32,28,0.98,28,0,19,0,0,False,False,True,False,False,Discussion,self,t3_1gjh3w6
+datascience,Is SAS Certification Still Worth Preparing for in the current Data Job Market? Need Advice!,"Hey everyone,
+
+I'm a grad student in data science with less than a year of work experience, and the current job market has me pulling out all the stops to boost my profile. I’ve been considering learning SAS for a while (even before starting my master’s program), but I’m not sure if it’s still relevant enough to make an impact on my resume.
+
+Do you think SAS is worth pursuing? If so, which pathways would be best given my experience level and background? 
+
+Also, if there are any other certifications you'd recommend—especially focused on analysis, DS/ML—I’d love to hear your thoughts! Bonus if they have student discounts. Any insights or suggestions would be greatly appreciated. Thanks in advance!",Khu_ushi,1gjo68a,https://reddit.com/r/datascience/comments/1gjo68a/is_sas_certification_still_worth_preparing_for_in/,https://www.reddit.com/r/datascience/comments/1gjo68a/is_sas_certification_still_worth_preparing_for_in/,2024-11-04 20:21:25,10,0.81,10,0,31,0,0,False,False,True,False,False,Tools,self,t3_1gjo68a
+datascience,Rio: WebApps in pure Python – A fresh Layouting System,"Hey everyone!
+
+We received a lot of encouraging feedback from you and used it to improve our framework. For all who are not familiar with our framework, Rio is an easy-to-use framework for creating websites and apps which is based entirely on Python.
+
+From all the feedback the most common question we've encountered is, ""How does Rio actually work?"" Last time we shared our concept about components (what are components, how does observing attributes, diffing, and reconciliation work).
+
+Now we want to share our concept of our own fresh layouting system for Rio. In our wiki we share our thoughts on:
+
+* What Makes a Great Layout System
+* Our system in Rio with a 2-step-approach
+* Limitations of our approach
+
+Feel free to check out our Wiki on our [Layouting System](https://github.com/rio-labs/rio/wiki/Layouting-System).
+
+Take a look at our playground, where you can try out our layout concept firsthand with just a click and receive real-time feedback: [Rio - Layouting Quickstart](https://rio.dev/docs/howto/layout-guide)
+
+Thanks and we are looking forward to your feedback! :)
+
+[Github: Rio](https://github.com/rio-labs/rio)",Sn3llius,1gjge4n,https://reddit.com/r/datascience/comments/1gjge4n/rio_webapps_in_pure_python_a_fresh_layouting/,https://www.reddit.com/r/datascience/comments/1gjge4n/rio_webapps_in_pure_python_a_fresh_layouting/,2024-11-04 15:04:57,15,0.9,15,0,1,0,0,False,False,True,False,False,Projects,self,t3_1gjge4n
+datascience,NVIDIA launched cuGraph : Enabling GPU for Graph Analytics with zero code changes,"Extending the cuGraph RAPIDS library for GPU, NVIDIA has recently launched the cuGraph backend for NetworkX (nx-cugraph), enabling GPUs for NetworkX with zero code change and achieving acceleration ***up to 500x for NetworkX CPU implementation***. Talking about some salient features of the cuGraph backend for NetworkX:
+
+* **GPU Acceleration**: From up to 50x to 500x faster graph analytics using NVIDIA GPUs vs. NetworkX on CPU, depending on the algorithm.
+* **Zero code change**: NetworkX code does not need to change, simply enable the cuGraph backend for NetworkX to run with GPU acceleration.
+* **Scalability**:  GPU acceleration allows NetworkX to scale to graphs much larger than 100k nodes and 1M edges without the performance degradation associated with NetworkX on CPU.
+* **Rich Algorithm Library**: Includes community detection, shortest path, and centrality algorithms (about 60 graph algorithms supported)
+
+You can try the cuGraph backend for NetworkX on Google Colab as well. Checkout this beginner-friendly notebook for more details and some examples:
+
+Google Colab Notebook: [https://nvda.ws/networkx-cugraph-c](https://nvda.ws/networkx-cugraph-c)
+
+NVIDIA Official Blog: [https://nvda.ws/4e3sKRx](https://nvda.ws/4e3sKRx)
+
+YouTube demo: [https://www.youtube.com/watch?v=FBxAIoH49Xc](https://www.youtube.com/watch?v=FBxAIoH49Xc)
+
+",mehul_gupta1997,1gj66u5,https://reddit.com/r/datascience/comments/1gj66u5/nvidia_launched_cugraph_enabling_gpu_for_graph/,https://www.reddit.com/r/datascience/comments/1gj66u5/nvidia_launched_cugraph_enabling_gpu_for_graph/,2024-11-04 04:27:41,76,0.93,76,0,15,0,0,False,False,True,False,False,ML,self,t3_1gj66u5
+datascience,Looking for Mid to Senior Level Data Scientist Job,"Hi group, 
+
+I am seasoned data Scientist with work experience of 2.5 years. Currently I am looking for a job change. Right now working with a startup in Customer Intelligence Domain based in India. I have worked on creating and managing data pipelines, carrying our various feature engineering tasks in day to day life on heavy No-SQL extensive data with around 500 points with 8-10 level of nesting. Carried out various PoC to leverage genAI for various features and many more tasks related to Classical ML and Computer-Vision Projects because of multiple modalities of Data. 
+
+Basically you can say I managed the feature lifecycle from 0 to 1.
+
+Looking for new opportunities and transit into more product based Jobs. Comfortable with both Startups in 0-1 Phase also established firms. Would prefer the founding member role in early stage startups if we align. 
+
+Let's connect if you could find it relevant. ",SharePlayful1851,1gk7lg4,https://reddit.com/r/datascience/comments/1gk7lg4/looking_for_mid_to_senior_level_data_scientist_job/,https://www.reddit.com/r/datascience/comments/1gk7lg4/looking_for_mid_to_senior_level_data_scientist_job/,2024-11-05 14:12:33,0,0.33,0,0,3,0,0,False,False,True,False,False,Career | Asia,self,t3_1gk7lg4
+datascience,Reporting on Data Regulations Across Industries,"&gt;I have an opportunity to work with a great professor from my grad program on some client facing activities, namely creating a report on data regulations in specific industries. I plan to meet with him this week to align on specific details, but generally have no experience in this arena. I can and will of course learn, but would appreciate feedback on the type of questions you would ask given the below prompt.  
+  
+Client Report Context   
+1) Produce brief report on sensitive/regulated/protected data types in the following industries:  
+a) Fintech  
+b) Health-tech  
+c) Marketing  
+d) Finance  
+e) Banking   
+f) Healthcare   
+2) For each industry we are looking for links to any existing regulatory frameworks (e.g. HIPPA for healthcare, GDPR for tech, etc.)  
+3) Examples of sensitive data that must be protected in certain industries include medical record numbers, user email addresses, social security numbers, etc.   
+  
+Based on this limited context, what type of questions would you ask going into the meeting and how would you approach this project?
+
+",SizePunch,1gjtpvo,https://reddit.com/r/datascience/comments/1gjtpvo/reporting_on_data_regulations_across_industries/,https://www.reddit.com/r/datascience/comments/1gjtpvo/reporting_on_data_regulations_across_industries/,2024-11-05 00:19:12,1,0.67,1,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1gjtpvo
+datascience,Inference on Java - DL4J vs DJL,"Hello there!  
+  
+After a lot of discussions with the engineering team at my company, we have decided to use Java for inference. We have models trained with TensorFlow/Keras, PyTorch, and MLX. The chosen Java framework candidates are [DeepLearning4J (DL4J)](https://github.com/deeplearning4j/deeplearning4j) and [DeepJavaLibrary (DJL)](https://github.com/deepjavalibrary/djl).
+
+**DL4J:**
+
+* Direct support for TensorFlow/Keras models.
+* Support for PyTorch models when exporting to ONNX.
+* Many forks and stars on GitHub.
+
+**DJL:**
+
+* Direct support for TensorFlow/Keras models.
+* Direct support for TorchScript.
+* Developed by the AWS team.
+* Engine-agnostic, which could mean potential support for MLX in the future.
+* Seems to be less commonly used in the industry.
+
+Has anyone tested either of these frameworks (or both)? Any recommendations?
+
+Thanks in advance!",Laippe,1gjgwr8,https://reddit.com/r/datascience/comments/1gjgwr8/inference_on_java_dl4j_vs_djl/,https://www.reddit.com/r/datascience/comments/1gjgwr8/inference_on_java_dl4j_vs_djl/,2024-11-04 15:27:04,5,1.0,5,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1gjgwr8
+datascience,"Taking my first steps on recommender systems, would love some thoughts on the following","Hey guys,
+
+Just for full disclosure, I know *very* little of recommender systems (RS) and I want to try my hands at them, and learn more from these technologies. The issue is that, from the little I have read so far, it seems that, more or less, all the approaches I've read about so far, they all rely on having *some* form of info on the interactions of users with the products to recommend. This is intuitive and I understand why, but I run into a problem quite quickly: how do I go about recommending items for *new* users based on what users similar to them like? I am not talking about ""similar"" in the sense of tastes for the product (which would mean the user is not new and I have already collected data on what these users have bought or read, for example), but similar in terms of other attributes (e.g. demographics, or shops at other stores).
+
+My situation is as follows: 
+
+- I have data for millions of users, and have access to demographic attributes (e.g. gender, age) and also to their shopping baskets at Store A. 
+
+- I want to create a recommender system for new users walking into Store B, with products you have in store B (that I know for a fact that are not part of Store A, so item-item collaboration is out of the question for the moment), for which I have little to no info because that's their situation: they're new to Store B.
+
+My first instinct is to create a clustering algorithm that creates some personas for members using the demographics and shopping behaviour for Store A, and then depending on where the new users fall into cluster-wise I can recommend products from Store B that popular within the cluster (from info from the older users).
+
+The only issue with that approach is that I am not sure where it falls within the spectrum of algorithms from libraries such as `scikit-surprise`, and I am therefore not sure if it will behave as a ""recommender system"" so to speak.
+
+Do you guys have any thoughts you could spare on this situation? Any info or resource is greatly appreciated.",William_Rosebud,1gj5yu9,https://reddit.com/r/datascience/comments/1gj5yu9/taking_my_first_steps_on_recommender_systems/,https://www.reddit.com/r/datascience/comments/1gj5yu9/taking_my_first_steps_on_recommender_systems/,2024-11-04 04:14:09,15,0.95,15,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1gj5yu9
+datascience,"Weekly Entering &amp; Transitioning - Thread 04 Nov, 2024 - 11 Nov, 2024"," 
+
+Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",AutoModerator,1gj6qux,https://reddit.com/r/datascience/comments/1gj6qux/weekly_entering_transitioning_thread_04_nov_2024/,https://www.reddit.com/r/datascience/comments/1gj6qux/weekly_entering_transitioning_thread_04_nov_2024/,2024-11-04 05:01:23,7,1.0,7,0,90,0,0,False,False,True,False,False,,self,t3_1gj6qux
+datascience,Learning Power BI practically ,"I know python, I know sql, but every time I dive into Power BI to learn it I’m overwhelmed with options and varying levels of things to learn.
+
+I’ve done more than a few workshops and even mocked up visuals via Python, excel, and other tools which a data engineer than translated into power BI dashboards. But I’m not sure how to practically learn myself. 
+
+I suspect that I need to get a firm understanding of the modeling piece prior to visualization, but looking for practical tips or primary concepts to focus on in an applied manner. ",SizePunch,1giaime,https://reddit.com/r/datascience/comments/1giaime/learning_power_bi_practically/,https://www.reddit.com/r/datascience/comments/1giaime/learning_power_bi_practically/,2024-11-03 00:18:57,68,0.95,68,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1giaime
+datascience,"Dumb question, but confused","Dumb question, but the relationship between x and y (not including the additional datapoints at y == 850 ) is no correlation, right? Even though they are both Gaussian?
+
+Thanks, feel very dumb rn",SingerEast1469,1ghwr0h,https://reddit.com/r/datascience/comments/1ghwr0h/dumb_question_but_confused/,https://i.redd.it/7f40u4onshyd1.jpeg,2024-11-02 13:44:09,293,0.97,293,0,98,0,0,False,False,False,False,False,Analysis,https://b.thumbs.redditmedia.com/8jaUWqJ90PCvOsF56DL-5HOuZ3iu-12uOw2FfhlMskQ.jpg,t3_1ghwr0h
+datascience,"Need to make a dashboard using Python for the team, but no means to deploy it. What are my options?","I want to create a dashboard for my team but I don’t have any means to deploy my dashboard within the team’s infrastructure. I use Python daily so have been looking into libraries that support easy sharing of the dashboard.
+
+So far dash seems promising and I did create a demo app that is rendering well but the problem is it’s local host link and I don’t know how will I share it with my team. Another option is to make a bunch of plotly plots and turn it into html using jupyter notebooks. I think it will lack some interactivity that I am seeking.
+
+What other options do I have? I tried panels but it’s not installed in the jupyter environment and I am not allowed to install new libraries.
+
+Edit: It’s very ad hoc. Only needs to be refreshed once a quarter.",Lamp_Shade_Head,1ghydn9,https://reddit.com/r/datascience/comments/1ghydn9/need_to_make_a_dashboard_using_python_for_the/,https://www.reddit.com/r/datascience/comments/1ghydn9/need_to_make_a_dashboard_using_python_for_the/,2024-11-02 15:01:47,61,0.93,61,0,79,0,0,False,False,True,False,False,Tools,self,t3_1ghydn9
+datascience,Which licenses should I get?,"I’m heading into my last months in my master degree and I still have access to thousands of educational licenses. I was wondering what you guys recommend me as tools to get access - at least for a while.
+
+Most of my job is done using open source stuff like python, streamlit, airflow.. so that’s why I’m asking for help
+
+Btw, I already have the jetbrains IDE but I honestly prefer VS Code..
+
+Any thoughts?
+
+Thanks!",EducationalUse9983,1gi2re3,https://reddit.com/r/datascience/comments/1gi2re3/which_licenses_should_i_get/,https://www.reddit.com/r/datascience/comments/1gi2re3/which_licenses_should_i_get/,2024-11-02 18:19:37,24,0.88,24,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1gi2re3
+datascience,"Is there any industry you would never want to work in? If so, which one?",I haven’t worked in advertising industry but have read not-so-good experiences in advertising industry. ,lostmillenial97531,1ghrcz3,https://reddit.com/r/datascience/comments/1ghrcz3/is_there_any_industry_you_would_never_want_to/,https://www.reddit.com/r/datascience/comments/1ghrcz3/is_there_any_industry_you_would_never_want_to/,2024-11-02 07:40:28,90,0.95,90,0,180,0,0,False,False,True,False,False,Discussion,self,t3_1ghrcz3
+datascience,How often do you make mistakes at work?,"How often do stakeholders point out issues in your calculations? Honestly, such cases make me question my proficiency",Terrible_Dimension66,1ghrlfi,https://reddit.com/r/datascience/comments/1ghrlfi/how_often_do_you_make_mistakes_at_work/,https://www.reddit.com/r/datascience/comments/1ghrlfi/how_often_do_you_make_mistakes_at_work/,2024-11-02 07:59:57,44,0.92,44,0,34,0,0,False,False,True,False,False,Discussion,self,t3_1ghrlfi
+datascience,What Do Interviewers Look for in Data Analysis Projects for Aspiring Data Scientists?,"
+I’m planning to start a new data analysis project and want to ensure it aligns with what interviewers look for. Can anyone share insights on what really stands out to hiring managers in data analysis projects? Any advice on key elements or focus areas that would make a project more impressive during interviews would be much appreciated!",ds_reddit1,1ghmpgn,https://reddit.com/r/datascience/comments/1ghmpgn/what_do_interviewers_look_for_in_data_analysis/,https://www.reddit.com/r/datascience/comments/1ghmpgn/what_do_interviewers_look_for_in_data_analysis/,2024-11-02 02:35:07,113,0.93,113,0,26,0,0,False,False,True,False,False,Discussion,self,t3_1ghmpgn
+datascience,How does a random forest make predictions on “unseen” data ,"I think I have a fairly solid grasp now of what a random forest is and how it works in practice, but I am still unsure as to exactly how a random forest makes predictions on data it hasn’t seen before. Let me explain what I mean.
+
+When you fit something like a logistic regression model, you train/fit it (I.e. find the model coefficients which minimise prediction error) on some data, and evaluate how that model performs *using* those coefficients on unseen data.
+
+When you do this for a decision tree, a similar logic applies, except instead of finding coefficients, you’re finding “splits” which likewise minimise some error. You could then evaluate the performance of this tree “using” those splits on unseen data. 
+
+Now, a random forest is a collection of decision trees, and each tree is trained on a bootstrapped sample of the data with a random set of predictors considered at the splits. Say you want to train 1000 trees for your forest. Sampling dictates a scenario where for a single datapoint (row of data), you could have it appear in 300/1000 trees. And for 297/300 of those trees, it predicts (1), and for the other 3/300 it predicts (0). So the overall prediction would be a 1. Same logic follows for a regression problem except it’d be taking the arithmetic mean.
+
+But what I can’t grasp is how you’d then use this to predict on unseen data? What are the values I obtained from fitting the random forest model, I.e. what splits is the random forest using? Is it some sort of average split of all the trees trained during the model? 
+
+Or, am I missing the point? I.e. is a new data point actually put through all 1000 trees of the forest?",JLane1996,1ghc7xh,https://reddit.com/r/datascience/comments/1ghc7xh/how_does_a_random_forest_make_predictions_on/,https://www.reddit.com/r/datascience/comments/1ghc7xh/how_does_a_random_forest_make_predictions_on/,2024-11-01 18:24:08,60,0.89,60,0,20,0,0,False,False,True,False,False,ML,self,t3_1ghc7xh
+datascience,Data / analytics engineering resources (online courses ideally) for data scientists to learn good practices?,"I work at a company where the data engineering team is new and quite junior - mostly focused on simple ingestion and pushing whatever the logic our (also often junior) data scientists give them. Data scientists also write up the orchestration, like how to process a real-time streaming pipeline for their metric construction and models. So, we have a lot of messy code the data scientists put together that can be inefficient.
+
+As the most senior person on my team, I've been tasked with taking on more of a lead in teaching the team best practices related to data engineering - simple things like good approaches for backfilling, modularizing queries and query efficiency, DAG construction and monitoring ,etc. While I've picked up a lot from experience, I'm curious to learn more ""proper"" ways to approach some of these problems.
+
+What are some good and practical data/analytics engineering resources you've used?  I saw dbt has interesting documentation on best practices for analytics engineering in the context of their product but looking for other uses.",IronManFolgore,1ghjl94,https://reddit.com/r/datascience/comments/1ghjl94/data_analytics_engineering_resources_online/,https://www.reddit.com/r/datascience/comments/1ghjl94/data_analytics_engineering_resources_online/,2024-11-01 23:55:27,3,0.72,3,0,6,0,0,False,False,True,False,False,Education,self,t3_1ghjl94
+datascience,A delicate situation ,"I just joined a company that is premature when it comes to DS. All codes are in notebooks. No version control on data, code, or model. There are some model documentations. But these documents are quite sparse and more of a business memo than a technical document. 
+
+The good part is that my manager wants to improve the DS workflow. The devops team also want to improve the implementations and they are quite collaborating. The issue are the product owners. 
+
+I recently did a task for one of them. This was to update one of their models. The model lacked a proper technical document, half-ass code on git (just a model dump on s3), even the labels were partly incorrect, no performance monitoring, ... You just guess the rest. 
+
+After working on it for a few weeks, I realized that the product owner only expects a document as my efforts outcome. A document exactly like their business memos that half of the numbers are cherry-picked and the other half are rather either meaningless data tables or some other info that are downright wrong. He also insists that the graphs to be preserved. Graph that lack basic attributes such as axis labels, proper font size, having graphs overlaid to allow easy comparison. He single argument is that ""customer like it this way"". Which, if true, is quite a valid argument.
+
+I cave in for now. Any suggestions on how to navigate the situation? 
+",furioncruz,1ggws6t,https://reddit.com/r/datascience/comments/1ggws6t/a_delicate_situation/,https://www.reddit.com/r/datascience/comments/1ggws6t/a_delicate_situation/,2024-11-01 03:42:52,38,0.91,38,0,24,0,0,False,False,True,False,False,Discussion,self,t3_1ggws6t
+datascience,You do pricing using....,"Hi guys, recently I've been collaborating on automated pricing, we built a model based on demand elasticity for e-commerce products, all statistical methods, even the price elasticity of demand function is assuming a linear relationship between demand and margins.
+
+So far, it's doing ""good"" but not ""good enough"".
+
+The thing is here, the elasticity is considering the trendline of the product alone, which is not the case, what if that product was a complement to another product/s or if it was a substitute?
+
+I managed to tackle that partially with cross-elasticity, it did give good estimations, but still..
+
+There's too much room for improvement, my manager is planning on converting a lot of the structure of the model to RL, in the model, we're actually mimicing the behaviour of RL, where there's an achievement function that we're trying to optimize and it works with the estimated PED.
+but I find RL really hard to make it practical, And I read in many articles and discussions that this problem many companies tackled with deep learning, because it can exhibit and absorb many complex patterns in the data so I decided to give it a shot and started learning deep learning from a hands-on deep learning book and a youtube course. 
+
+But is it worth it?
+
+If anyone worked on pricing would share wisdom that'd be awesome.
+
+Thanks.",Careful_Engineer_700,1ggtku0,https://reddit.com/r/datascience/comments/1ggtku0/you_do_pricing_using/,https://www.reddit.com/r/datascience/comments/1ggtku0/you_do_pricing_using/,2024-11-01 00:44:18,42,0.98,42,0,16,0,0,False,False,True,False,False,Discussion,self,t3_1ggtku0
+datascience,first person in this role,"I am currently two years into my first role as a data scientist in risk in finance post grad. I have been applying for my next opportunity and I have two choices as of now. I could either be doing a lateral internal move into more of a project manager role in credit risk data analytics. This job is very safe, everything is pretty built out, and with banking things evolve a lot slower. My other option is become a data scientist in a niche department in a new company. This is a lot riskier/exciting as I am the first data scientist in this role and I would building things in my vision essentially. Has anyone ever been the first data scientist in a department? What would be the things I should expect in a role like this? I have two years of experience would that be enough to take on a challenge like this. ",NuBoston,1gghsu2,https://reddit.com/r/datascience/comments/1gghsu2/first_person_in_this_role/,https://www.reddit.com/r/datascience/comments/1gghsu2/first_person_in_this_role/,2024-10-31 15:51:57,15,0.94,15,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1gghsu2
+datascience,Multi-step multivariate time-series macroeconomic forecasting - What's SOTA for 30 year forecasts?,"Project goal: create a 'reasonable' 30 year forecast with some core component generating variation which resembles reality. 
+
+Input data: annual US macroeconomic features such as inflation, GDP, wage growth, M2, imports, exports, etc. Features have varying ranges of availability (some going back to 1900 and others starting in the 90s.  
+
+Problem statement: Which method(s) is SOTA for this type of prediction? The recent papers I've read mention BNNs, MAGAN, and LightGBM for smaller data like this and TFT, Prophet, and NeuralProphet for big data. I'm mainly curious if others out there have done something similar and have special insights. My current method of extracting temporal features and using a Trend + Level blend with LightGBM works, but I don't want to be missing out on better ideas--especially ones that fit into a Monte Carlo framework and include something like labeling years into probabilistic 'regimes' of boom/recession.",SwitchFace,1ggi92w,https://reddit.com/r/datascience/comments/1ggi92w/multistep_multivariate_timeseries_macroeconomic/,https://www.reddit.com/r/datascience/comments/1ggi92w/multistep_multivariate_timeseries_macroeconomic/,2024-10-31 16:11:08,9,0.8,9,0,25,0,0,False,False,True,False,False,ML,self,t3_1ggi92w
+datascience,Does Sequential Models actually work for Trading?,"Hey there! Does anyone here know if those sequential models like LSTMs and Transformers work for real trading? I know that stock price data usually has low autocorrelation, but I’ve seen DL courses that use that kind of data and get good results.
+
+I am new to time series forecasting and trading, so please forgive my ignorance ",gomezalp,1gg8rh9,https://reddit.com/r/datascience/comments/1gg8rh9/does_sequential_models_actually_work_for_trading/,https://www.reddit.com/r/datascience/comments/1gg8rh9/does_sequential_models_actually_work_for_trading/,2024-10-31 07:15:00,18,0.73,18,0,8,0,0,False,False,True,False,False,ML,self,t3_1gg8rh9
+datascience,Coming up with Potential Experiments and Customer Journey Mapping,"I have extensive experience in experimentation, but they were generally coming from those higher up - all I had to do was analyse and give a thumbs up if its worth pursuing. 
+
+However, I want to know how you conduct analysis and come up with potential experiments to try out from existing data itself. A big part of it would be to look at pain points in customer journeys, but because the sequence of events is unique for everyone, I'm wondering how you go on about this analysis and visualise this. ",ShayBae23EEE,1gft1w2,https://reddit.com/r/datascience/comments/1gft1w2/coming_up_with_potential_experiments_and_customer/,https://www.reddit.com/r/datascience/comments/1gft1w2/coming_up_with_potential_experiments_and_customer/,2024-10-30 18:06:09,18,0.95,18,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1gft1w2
+datascience,I need some help on how to deploy my models ,"I am through my way and built a few small size models, and now I am looking forward for deployment but can't find any resources that help me to do so 
+
+so if any one here can recommend any resources for model deployment that are straight forward  ",Emotional-Rhubarb725,1gfr7hq,https://reddit.com/r/datascience/comments/1gfr7hq/i_need_some_help_on_how_to_deploy_my_models/,https://www.reddit.com/r/datascience/comments/1gfr7hq/i_need_some_help_on_how_to_deploy_my_models/,2024-10-30 16:50:17,16,0.94,16,0,34,0,0,False,False,True,False,False,Tools,self,t3_1gfr7hq

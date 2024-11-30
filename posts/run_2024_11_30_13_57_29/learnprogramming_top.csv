@@ -1,0 +1,516 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,i don't feel like i am progressing anymore,i have been programming since 2022 but i feel like i am just not progressing anymore. every project i start it just gets too hard or i spend hours fixing one problem and then give up. i keep taking too much time setting up makefiles/doing boilerplate and never actually getting deep into the development of something. what should i do?,accountmaster9191,1h2v4ar,https://reddit.com/r/learnprogramming/comments/1h2v4ar/i_dont_feel_like_i_am_progressing_anymore/,https://www.reddit.com/r/learnprogramming/comments/1h2v4ar/i_dont_feel_like_i_am_progressing_anymore/,2024-11-29 20:32:25,53,0.91,53,0,32,0,0,False,False,True,False,False,,,t3_1h2v4ar
+learnprogramming,Java or c++,"what should I learn?
+in my 1st semester they are teaching c and in feature they will teach c++ 
+but I got to know there is more scope in Java 
+",One-Grand-2082,1h2mo2d,https://reddit.com/r/learnprogramming/comments/1h2mo2d/java_or_c/,https://www.reddit.com/r/learnprogramming/comments/1h2mo2d/java_or_c/,2024-11-29 14:14:43,17,0.76,17,0,35,0,0,False,False,True,False,False,,,t3_1h2mo2d
+learnprogramming,What are the best resources for learning Artificial Intelligence?,"I have plenty of experience working with Python, but I want to apply it to AI, so I'd like to ask if there are any decent online courses that can educate me on this field.",angryrobot5,1h300wh,https://reddit.com/r/learnprogramming/comments/1h300wh/what_are_the_best_resources_for_learning/,https://www.reddit.com/r/learnprogramming/comments/1h300wh/what_are_the_best_resources_for_learning/,2024-11-30 00:23:34,16,0.78,16,0,5,0,0,False,False,True,False,False,,,t3_1h300wh
+learnprogramming,How much coding experience to build a startup?,"
+I’m curious about how much expertise is actually needed to create a functional product, like an MVP for a startup, or something similar. Specifically, those self-taught college dropouts who leave school to found startups, how experienced are they really?
+
+I know many of them start coding at a young age, but are they operating at the level of a senior software engineer? How many years of programming experience (on average) does it take to reach the level of expertise necessary to build and launch something on your own?
+",Filippo295,1h30o2r,https://reddit.com/r/learnprogramming/comments/1h30o2r/how_much_coding_experience_to_build_a_startup/,https://www.reddit.com/r/learnprogramming/comments/1h30o2r/how_much_coding_experience_to_build_a_startup/,2024-11-30 00:56:01,18,0.78,18,0,31,0,0,False,False,True,False,False,,,t3_1h30o2r
+learnprogramming,How to really understand recursion? ,"Apart from practicing solving problems, any resources you recommend to read to really wrap my head around recursion?
+
+It's taking me a while to ""change my metabolism"" and think recursively. ",thebigdbandito,1h2m8wt,https://reddit.com/r/learnprogramming/comments/1h2m8wt/how_to_really_understand_recursion/,https://www.reddit.com/r/learnprogramming/comments/1h2m8wt/how_to_really_understand_recursion/,2024-11-29 13:53:03,13,0.77,13,0,52,0,0,False,False,True,False,False,,,t3_1h2m8wt
+learnprogramming,Dont feel like Programmer ,"Hello
+
+Honestly I am not sure if I feel good at programming. I have tried to learn how to code in different langauge but after a week of learning I always quit.
+I feel very powerfuk in low-code tools (RPA stuff), but I really feel like i have to learn how to code to be still usefull for future jobs.
+Aby tips how to overcome this situation?",Jumpy-Experience-530,1h39rkf,https://reddit.com/r/learnprogramming/comments/1h39rkf/dont_feel_like_programmer/,https://www.reddit.com/r/learnprogramming/comments/1h39rkf/dont_feel_like_programmer/,2024-11-30 10:22:41,6,0.61,6,0,14,0,0,False,False,True,False,False,,,t3_1h39rkf
+learnprogramming,C++ or Java?,"I have a SWE interview coming up and I need to learn one of C++ or Java in order to take it. I have done a full university course on python, completed CS50 and done some coursework in C. I have heard that Java is easier to learn than C++ but considering that I have a pretty good foundation in C, I'm not sure which of the two would be the wisest option to choose. Any advice?",Ayross237,1h36r04,https://reddit.com/r/learnprogramming/comments/1h36r04/c_or_java/,https://www.reddit.com/r/learnprogramming/comments/1h36r04/c_or_java/,2024-11-30 06:44:07,6,0.7,6,0,15,0,0,False,False,True,False,False,,,t3_1h36r04
+learnprogramming,Transitioning from high level languages to low level languages,"hello everyone,
+
+i am a young guy and i will be joining college next year for a 4 year CS course however i want to self-learn programming. i learnt javascript back in 2019, what i used to do was read and analyze other people's source codes on github, read the documentation, stackoverflow (project based learning) i used to build discord bots then websites in reac then vue then nextjs then transitioned to web frameworks and backend like nestjs,express,hono. similarly i learnt golang in 2020 however i do not know the concepts of javascript / go, i don't know what's global execution context, i don't know what's the different between a map or a set i have to refer to the MDN docs/ go docs everytime but if someone tells me to write some code to do this task, etc i'll be able to do that (after reading some source codes if they exist and docs). i also know little bit of devops since i used to deploy some APIs and server-side projects over at aws ec2 / vercel / netlify / cloudflare workers and pages.
+
+i want to learn cs from the absolute basics (semi conductors) and i was suggested patt and patel, however that book does not go much into compilers before clang, should i learn about compilers before C? after learning C i would most probably get into C++ then AI/ML but i want to do backend as well. i would also want to do data structures and algorithms because i have felt the need for it while writing efficient code (i was writing a routing library and felt the need of data structures for trie routers and other hashmap routers etc). please suggest me how should i go about it (i would heavily prefer text content over video lectures)",RespondRepulsive7588,1h2s2s8,https://reddit.com/r/learnprogramming/comments/1h2s2s8/transitioning_from_high_level_languages_to_low/,https://www.reddit.com/r/learnprogramming/comments/1h2s2s8/transitioning_from_high_level_languages_to_low/,2024-11-29 18:18:28,8,0.82,8,0,12,0,0,False,False,True,False,False,Learning,,t3_1h2s2s8
+learnprogramming,How do you take your notes when learning?,or do you even take notes?,SortOk925,1h34t6b,https://reddit.com/r/learnprogramming/comments/1h34t6b/how_do_you_take_your_notes_when_learning/,https://www.reddit.com/r/learnprogramming/comments/1h34t6b/how_do_you_take_your_notes_when_learning/,2024-11-30 04:44:51,9,0.85,9,0,25,0,0,False,False,True,False,False,question,,t3_1h34t6b
+learnprogramming,where to start coding an app?,"I have freshmen year worth of coding experience if that makes sense, mostly in java and one sem on python. i wanna code an app but i do not know where to start?
+
+should i watch a youtube to learn first or have AI help me with some code or should i learn like SwiftUI or any other thing?
+
+i feel like im totally lost and don't know where to start. 
+help🤣",KuzeUS201,1h2u19d,https://reddit.com/r/learnprogramming/comments/1h2u19d/where_to_start_coding_an_app/,https://www.reddit.com/r/learnprogramming/comments/1h2u19d/where_to_start_coding_an_app/,2024-11-29 19:43:15,5,0.67,5,0,17,0,0,False,False,True,False,False,,,t3_1h2u19d
+learnprogramming,Recommendations for learning programing on the go,"So I'm considering going back to my roots in terms of career. In my younger years I was heavily into computers and dabbled in programming (Java and Basic), however never stuck with it and ended up self employed in earthmoving.
+
+Now I'm 31, my body is already failing me in my industry and want to try learn programming again and perhaps make a big change. Is there any recommendations for learning programming on an Android device? I'd be starting from scratch.
+
+I'm really digging learning python, is this a good choice for a career? (Would need to consider remote work)",Tough-Oil6868,1h360xe,https://reddit.com/r/learnprogramming/comments/1h360xe/recommendations_for_learning_programing_on_the_go/,https://www.reddit.com/r/learnprogramming/comments/1h360xe/recommendations_for_learning_programing_on_the_go/,2024-11-30 05:58:15,4,0.84,4,0,5,0,0,False,False,True,False,False,,,t3_1h360xe
+learnprogramming,Finally am making progress on my coding journey!,"i just wanted to share my recent successes on learning programming with you fellow interwebs people. i started trying to learn C++ at the beginning of this year but i could never make any progress with it and had trouble understanding anything past the bare basics. after some reflecting and some advice from a senior developer i networked with through my fiance's uncle, i realized i may have bitten off more than i can chew with C++ as a starting language for me personally. fast forward to now and within 30 minutes of freecodecamp's html course, i already have a website made that i am still developing and i am having so much fun creating my own website. i also started making some basic applications in python on my own without too much trouble.
+
+  
+as of right now while i am typing this, i am currently adding a section to the website called why.html as my own personal playground to find out what i can do with html. the first thing i did was create a hyperlink that generates multiple popups that contain the bee movie script in its entirety because reasons. i also want to see if there is a limit to how many popups can popup at once before it crashes and burns just for my own amusement",Emotional-Silver-134,1h34m62,https://reddit.com/r/learnprogramming/comments/1h34m62/finally_am_making_progress_on_my_coding_journey/,https://www.reddit.com/r/learnprogramming/comments/1h34m62/finally_am_making_progress_on_my_coding_journey/,2024-11-30 04:33:05,3,0.81,3,0,2,0,0,False,False,True,False,False,,,t3_1h34m62
+learnprogramming,Learning CS while learning how to program,Hi there i'm currently 20 learning how to program but I really like hacking and have learned a bit from here and there. I was wondering if anyone had a good place to learn more about hacking like [OWASP.org](http://OWASP.org) or whatever.,Klutzy-Bug-9481,1h353q7,https://reddit.com/r/learnprogramming/comments/1h353q7/learning_cs_while_learning_how_to_program/,https://www.reddit.com/r/learnprogramming/comments/1h353q7/learning_cs_while_learning_how_to_program/,2024-11-30 05:02:03,3,0.81,3,0,1,0,0,False,False,True,False,False,,,t3_1h353q7
+learnprogramming,"What have you been working on recently? [November 30, 2024]","What have you been working on recently? Feel free to share updates on projects you're working on, brag about any major milestones you've hit, grouse about a challenge you've ran into recently... Any sort of ""progress report"" is fair game!
+
+A few requests:
+
+1. If possible, include a link to your source code when sharing a project update. That way, others can learn from your work!
+
+2. If you've shared something, try commenting on at least one other update -- ask a question, give feedback, compliment something cool... We encourage discussion!
+
+3. If you don't consider yourself to be a beginner, include about how many years of experience you have.
+
+This thread will remained stickied over the weekend. [Link to past threads here](https://www.reddit.com/r/learnprogramming/search?q=%22What+have+you+been+working+on+recently%3F%22&amp;sort=new&amp;restrict_sr=on).",AutoModerator,1h352dt,https://reddit.com/r/learnprogramming/comments/1h352dt/what_have_you_been_working_on_recently_november/,https://www.reddit.com/r/learnprogramming/comments/1h352dt/what_have_you_been_working_on_recently_november/,2024-11-30 05:00:10,3,0.72,3,0,3,0,0,False,False,True,False,False,,,t3_1h352dt
+learnprogramming,Making a stopwatch - x16,"So im working on a board and trying to make a reaction speed test. 
+
+Board im working with has a RTC (Real time clock) From that i can use seconds,hours,minutes.
+
+On the other hand, the board has a free running clock-16-bit 1Mhz. 
+
+My approach currently is that im counting clock cycles. That is done by comparing the value of the current clock (free) and the value of the clock when first called. 
+If it is equal then a cycle has completed, CountCycle++ . If it is less than then an overflow occured and clock wrapped back to 0 so CountCycle++.
+
+then i convert CountCycle to  ms by dividing the number of clock cycles by 45 (Rough math was fried at this point). 
+
+Was debugging the code and the answers (in ms) were not realistic at all. Is the math wrong? Or is my way of counting cycles wrong? Personally i feel it is the latter and i am skipping clock cycles while checking if the button is pressed. If so what suggestions do you have.
+
+Feel free to ask any question I’ll do my best to answer.",AbuGainer,1h306c3,https://reddit.com/r/learnprogramming/comments/1h306c3/making_a_stopwatch_x16/,https://www.reddit.com/r/learnprogramming/comments/1h306c3/making_a_stopwatch_x16/,2024-11-30 00:31:06,3,1.0,3,0,4,0,0,False,False,True,False,False,Debugging,,t3_1h306c3
+learnprogramming,Is GPT Wrapper something like this? I'm new to coding ,"How code would it look lets say i use html/css,
+
+1.I just make an input box and send entered text from input box from user to GPT API.
+
+2. Then return it to user. is it that it? 
+
+  
+Example of the code
+
+    &lt;!DOCTYPE html&gt;
+    &lt;html lang=""en""&gt;
+    &lt;head&gt;
+      &lt;meta charset=""UTF-8""&gt;
+      &lt;meta name=""viewport"" content=""width=device-width, initial-scale=1.0""&gt;
+      &lt;title&gt;GPT Wrapper&lt;/title&gt;
+      &lt;style&gt;
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        input, button { margin: 10px 0; padding: 10px; font-size: 16px; }
+        #response { margin-top: 20px; font-weight: bold; }
+      &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+      &lt;h1&gt;GPT Wrapper&lt;/h1&gt;
+      &lt;label for=""user-input""&gt;Enter your text:&lt;/label&gt;
+      &lt;input id=""user-input"" type=""text"" placeholder=""Type something..."" /&gt;
+      &lt;button id=""send-btn""&gt;Send&lt;/button&gt;
+      &lt;div id=""response""&gt;&lt;/div&gt;
+    
+      &lt;script&gt;
+        document.getElementById('send-btn').addEventListener('click', async () =&gt; {
+          const userInput = document.getElementById('user-input').value;
+          if (!userInput) return alert('Please enter some text.');
+    
+          // Make a request to your backend
+          const response = await fetch('/api/gpt', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ prompt: userInput }),
+          });
+    
+          const data = await response.json();
+          document.getElementById('response').textContent = data.reply || 'No response';
+        });
+      &lt;/script&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;",ballbeamboy2,1h37g16,https://reddit.com/r/learnprogramming/comments/1h37g16/is_gpt_wrapper_something_like_this_im_new_to/,https://www.reddit.com/r/learnprogramming/comments/1h37g16/is_gpt_wrapper_something_like_this_im_new_to/,2024-11-30 07:32:40,2,0.63,2,0,4,0,0,False,False,True,False,False,,,t3_1h37g16
+learnprogramming,Leetcode mediums ,I feel like I'm still struggling with leetcode mediums and I don't know why. Like I feel like I can only do the questions I've seen before or very similar but if you picked a random problem out of nowhere I would struggle. Like I don't know what to do ,melon222132,1h32xfd,https://reddit.com/r/learnprogramming/comments/1h32xfd/leetcode_mediums/,https://www.reddit.com/r/learnprogramming/comments/1h32xfd/leetcode_mediums/,2024-11-30 02:57:16,2,0.76,2,0,3,0,0,False,False,True,False,False,,,t3_1h32xfd
+learnprogramming,Leetcode vs Projects ,I was just wondering for someone looking for new grad opportunities should I work on improving my existing projects or do more Leetcode. Just to note in school I did 5 intenrships so I was just wondering if they even care if I did more projects or improved on existing ones or because I have internship experiance it doesn;t matter . ,anonymous78654,1h2x46b,https://reddit.com/r/learnprogramming/comments/1h2x46b/leetcode_vs_projects/,https://www.reddit.com/r/learnprogramming/comments/1h2x46b/leetcode_vs_projects/,2024-11-29 22:04:10,3,0.67,3,0,17,0,0,False,False,True,False,False,,,t3_1h2x46b
+learnprogramming,Need Help Choosing a Framework for Modern-Looking Windows Desktop Apps,"Hi everyone!
+
+I need help choosing the right framework for my needs. I’m a new solo developer (previously a hobbyist but recently started doing this full-time). Some of my clients need desktop apps for Windows. My clients are non-technical, but they occasionally want to tweak the code, so having a Python backend is ideal.
+
+Here’s what I’m looking for:
+
+* Apps that look native and modern.
+* A simple way to turn Figma designs into functional UI components (I use Figma for design).
+
+
+
+So far, I’ve explored:
+
+1. **PyQT and Qt Designer**: Couldn’t find a good integration with Figma.
+2. **Qt Design Studio**: Has a Figma Bridge and recently began supporting Python for the backend, which feels like a dream come true, but it’s locked behind a pricey enterprise license ($2k+/year).
+3. **Tkinter**: While there are some libraries and GitHub repos for Figma integration, the generated UI doesn’t look good.
+4. **Reflex (formerly Pynecone)**: Couldn’t get the Figma integration to work.
+
+After that, I started considering non-Python options but got overwhelmed:
+
+* **WPF and WinUI**: I’m unfamiliar with XAML, and it doesn’t seem to integrate well with Figma (I might be wrong, but I couldn’t get it to work). I found some repos that support a Python backend, but I didn’t dive deeper.
+* **Electron/Tauri**: I have no experience with web-based technologies, but if this is the state-of-the-art for Windows apps, I’m willing to learn.
+
+Since I have some game dev experience, I even tested **Unity** for creating UIs and Windows desktop apps. Unity has some great Figma bridges, and it sort of worked, but using it for desktop apps feels overkill.
+
+At this point, I’m completely lost. I’d prefer a solution with a Python backend, but I’m open to other options if needed. What frameworks would you recommend for creating Windows desktop apps?",External_Leek_2720,1h2qg0u,https://reddit.com/r/learnprogramming/comments/1h2qg0u/need_help_choosing_a_framework_for_modernlooking/,https://www.reddit.com/r/learnprogramming/comments/1h2qg0u/need_help_choosing_a_framework_for_modernlooking/,2024-11-29 17:07:59,2,0.76,2,0,2,0,0,False,False,True,False,False,,,t3_1h2qg0u
+learnprogramming,Which one should I go for? Coursera or boot.dev?,"I wanted to start to learn programing to transition carreer paths, I'm an accountant graduee and didnt quite like the profession.
+
+I've been looking some courses related to programming and came across Coursera and [Boot.dev](http://Boot.dev), this last one has a 50% off black friday deal going on. Is it worth it or Coursera has a better change of me gettin a job? I wanted to go on the back-end path
+
+  
+Sugestions and thoughts are highly apreciated
+
+
+
+",NewspaperExtra3180,1h2qbq1,https://reddit.com/r/learnprogramming/comments/1h2qbq1/which_one_should_i_go_for_coursera_or_bootdev/,https://www.reddit.com/r/learnprogramming/comments/1h2qbq1/which_one_should_i_go_for_coursera_or_bootdev/,2024-11-29 17:02:49,2,1.0,2,0,6,0,0,False,False,True,False,False,,,t3_1h2qbq1
+learnprogramming,Is array an abstract data type ?,"I am learning about ADT but array itself seems to be an ADT(because we don't see how array reads n'th element). Some answers on Quora says yes, arrays are ADT some says no ! ",Joesalqmurrr,1h2o8a1,https://reddit.com/r/learnprogramming/comments/1h2o8a1/is_array_an_abstract_data_type/,https://www.reddit.com/r/learnprogramming/comments/1h2o8a1/is_array_an_abstract_data_type/,2024-11-29 15:28:32,3,0.67,3,0,11,0,0,False,False,True,False,False,,,t3_1h2o8a1
+learnprogramming,"I hate css, design skills, but I want to build apps (web and mobile)","I'm interested in building web and mobile apps but I'm not a fan of CSS or design work. Do I need to be good at designing to create successful apps, or can I focus more on the backend and functionality?
+
+",zls_17,1h2mqdd,https://reddit.com/r/learnprogramming/comments/1h2mqdd/i_hate_css_design_skills_but_i_want_to_build_apps/,https://www.reddit.com/r/learnprogramming/comments/1h2mqdd/i_hate_css_design_skills_but_i_want_to_build_apps/,2024-11-29 14:17:55,3,0.71,3,0,6,0,0,False,False,True,False,False,,,t3_1h2mqdd
+learnprogramming,Doubt on how to apply knn with mongo db for user recommendation feature,"Hello everyone can anyone tell me how I can implement the knn algorithm which collects features, labels, predictionPoint, from the mongo db. I don't know what to do? Plz anyone tell. I need the algorithm for user recommendation. I get the top k users and suggest them. I don't get the average label and all. This is the use case for my knn algorithm. Also graphql is implemented too. Like I have to send a request from the mutation with features labels and the point attached with it to the Ml file which gives back the set of users. I have no idea. Plz anyone tell",Aggressive-Bee-130,1h3ayne,https://reddit.com/r/learnprogramming/comments/1h3ayne/doubt_on_how_to_apply_knn_with_mongo_db_for_user/,https://www.reddit.com/r/learnprogramming/comments/1h3ayne/doubt_on_how_to_apply_knn_with_mongo_db_for_user/,2024-11-30 11:48:56,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h3ayne
+learnprogramming,Correcting aspect ratio in a shader (HLSL)?,"Hi. I wanted to write a shader to correct aspect ratio in a game i'm playing, and i'm running into some problems. Now, i'm not really familiar with graphics programming and shaders at all beyond some very handwavy idea of how they work, but i thought the task was trivial enough to trial and error my way through it. Apparently not!
+
+So, the code for the shader looks like this:
+
+    sampler s0;
+    // Variables that set the width and height of the current game resolution from sfall
+    float w;
+    float h;
+    float2 rcpres; // pixel size
+    
+    static const float2 gameRes = float2(640.0, 480.0);
+    static const float2 windowRes = float2(1920.0, 1080.0);
+    static const float2 scaledRes = float2(gameRes.x * windowRes.y/gameRes.y, windowRes.y);
+    static const float2 border = ( (windowRes - scaledRes)/windowRes ) / 2.0;
+    static const float2 ratio = windowRes/scaledRes;
+    
+    float4 test(float2 uv : TEXCOORD0) : COLOR0
+    {
+      float2 uv1 = uv * ratio;
+      float4 col = tex2D(s0, uv1);
+      return col;
+    }
+    
+    technique TestShader
+    {
+      Pass P0 { PixelShader = compile ps_2_0 test(); }
+    }
+
+And the result i'm getting is [this.](https://i.ibb.co/857cd1y/2024-11-30-134838.png) It looks like i'm losing quite a lot of horizontal resolution, with some of the text letters pretty much merging together. And i'm not sure why, i mean, the resolution i'm scaling to is still over 2x the internal resolution. 
+
+I thought that a pixel shader is executed for every pixel of a rendered surface, which, in this case, would be the entire window. I take in coordinates of the pixel, i do some transformations on them, and then i use those coordinates to sample from the base image that the game is outputting. But then i don't see how would i end up skipping over so many of the pixels in the base image.
+
+Can someone explain this to me, or point me to some relatively simple overview for dummies? Cause i definitely don't feel like taking an entire course just for this. ",iz-Moff,1h3apez,https://reddit.com/r/learnprogramming/comments/1h3apez/correcting_aspect_ratio_in_a_shader_hlsl/,https://www.reddit.com/r/learnprogramming/comments/1h3apez/correcting_aspect_ratio_in_a_shader_hlsl/,2024-11-30 11:31:00,1,1.0,1,0,1,0,0,False,False,True,False,False,Debugging,,t3_1h3apez
+learnprogramming,Learning while on a 8 to 4 job with no access to pc ,"Good morning/afternoon, wherever you are I hope you are having a good day.
+
+To give you guys context, I'm a recent cs graduat, I didn't do much projects during my time in college (that's on me ) and now I have to pay the bills, I'm working as a low current technician for now, and I really want to get back to coding.
+
+My question is, how do you guys learn effectively and make most of your time that you have , I'm a slow learner to say the truth, now I'm learning JavaScript by reading eloquent js and when I get home I try to do some simple problem solving in order to apply what I learned.
+
+Some of my friends frown upon my style of learning, they always say you need to learn by doing and doing projects, but I always find myself lost trying this way.( They are all working as frontend/backend devs) 
+
+Btw guys, I really love web development, and I really want to be good at it, it's a shame I started learning now after graduation, but I think it's better now than later.",abdelfor3,1h39g9a,https://reddit.com/r/learnprogramming/comments/1h39g9a/learning_while_on_a_8_to_4_job_with_no_access_to/,https://www.reddit.com/r/learnprogramming/comments/1h39g9a/learning_while_on_a_8_to_4_job_with_no_access_to/,2024-11-30 09:59:37,1,1.0,1,0,4,0,0,False,False,True,False,False,,,t3_1h39g9a
+learnprogramming,Pattern that only let's you create a valid object,"Quite a while ago I implemented a pattern that only let you create valid objects. But I've completely forgotten how I did it (a colleague told me how) and my search was unsuccessful. Maybe someone knows what I'm talking about?
+
+What I mean is this: let's say you have a class that represents an IBAN, which has two check digits in it, and you only want objects to exist where the IBAN they represent has correct check digits.
+
+The only thing I've found would be something like this, but I think I did it **without an exception** back then:
+
+    class IBAN {
+      ...
+      public IBAN(string IBAN) {
+        if(!this.validate(IBAN)) {
+          throw new ArgumentException(""Invalid IBAN"");
+        }
+        ...
+      }
+      ...
+    }
+
+So, is there another way? Would you do it like this?
+
+Thanks in advance!
+
+PS: Please tell me if there's a better sub for this question to crosspost.",Dry-Plastic9359,1h37nof,https://reddit.com/r/learnprogramming/comments/1h37nof/pattern_that_only_lets_you_create_a_valid_object/,https://www.reddit.com/r/learnprogramming/comments/1h37nof/pattern_that_only_lets_you_create_a_valid_object/,2024-11-30 07:47:59,2,0.76,2,0,6,0,0,False,False,True,False,False,,,t3_1h37nof
+learnprogramming,Cod gsc language,"Cod gsc language
+
+Hello I was curious about cod engine and code and got a bocw source code that was written with gsc I never heard of it but after some search it's based on c++ but with automatic memory control correct me if I'm wrong I'm new and started learning c++ from two weeks so idk a lot so my question is there a tutorial to learn gsc and is there an vs extension for it and if I learned reverse engineering do you guys think I can get cold war engine because all are saying there are tools and stuff that make this engine unique and Thanks ",Unlikely-Spread-9845,1h375nx,https://reddit.com/r/learnprogramming/comments/1h375nx/cod_gsc_language/,https://www.reddit.com/r/learnprogramming/comments/1h375nx/cod_gsc_language/,2024-11-30 07:12:04,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h375nx
+learnprogramming,Hai ,"I’m working on a project to create a priority-based voicemail system, and I’m unsure about how to approach some parts of it. Here’s what I want the system to do:
+	•	Capture voicemails using Twilio.
+	•	Convert voicemails into text for further analysis.
+	•	Prioritize voicemails based on urgency, emotional tone (from audio and text), and content.
+	•	Summarize the text and distribute the voicemails to relevant departments.
+	•	Encrypt sensitive data and mask any PII in both the text and audio.
+
+I also plan to use a basic HTML/CSS/JavaScript interface for displaying the results.
+
+My main questions are:
+	1.	What libraries or models should I use for emotion detection and urgency ranking?
+	2.	How can I implement encryption and PII masking effectively for both text and audio?
+	3.	Are there any tips or resources for integrating all of these components into one system?",Kitchen-Adeptness830,1h34awd,https://reddit.com/r/learnprogramming/comments/1h34awd/hai/,https://www.reddit.com/r/learnprogramming/comments/1h34awd/hai/,2024-11-30 04:15:21,1,0.6,1,0,1,0,0,False,False,True,False,False,,,t3_1h34awd
+learnprogramming,battleship hit function not working,"I can't tell why this function is properly replacing spaces with \~ after being hit. it always says I miss.
+
+my board is a stuct with occupation and target (target 1-5 for P1 ships 11-15 for p2 ships, 0 by defaul, and -1 once hit).
+
+I've tried using both occupation and target to change the hit ships to '\~' but neither work.
+
+  
+help? (this is visual C by the way)
+
+{
+
+	int marker = 0;
+
+	marker = board\[x\]\[y\].target; 
+
+	if (marker &lt;= 0)
+
+	{
+
+		printf(""miss\\n\\n""); return 1; // Indicate a miss
+
+	}
+
+	else
+
+	{
+
+		printf(""hit\\n\\n"");
+
+		 // Mark the hit on the board // Check for other parts of the ship and mark them as well
+
+		for (int i = 0; i &lt; 10; ++i)
+
+		{
+
+			for (int j = 0; j &lt; 10; ++j)
+
+			{
+
+if (board\[i\]\[j\].target == marker)
+
+{
+
+board\[i\]\[j\].target = -1; // Mark the entire ship as hit } } } return 0; // Indicate a hit
+
+board\[i\]\[j\].occupation = '\~';
+
+}
+
+			}
+
+		}
+
+	}
+
+",Idatawhenyousleep,1h304dd,https://reddit.com/r/learnprogramming/comments/1h304dd/battleship_hit_function_not_working/,https://www.reddit.com/r/learnprogramming/comments/1h304dd/battleship_hit_function_not_working/,2024-11-30 00:28:22,1,0.67,1,0,2,0,0,False,False,True,False,False,,,t3_1h304dd
+learnprogramming,Axios network error - Node backend with Vite/React frontend,"I'm learning how to link the frontend (Vite) to the backend (express) by using axios to fetch the backend api but I'm getting a `ERR_NETWORK` error. I know it's probably due to `cors` but can't figure out exactly how to fix it.
+
+I've checked a few stackoverflow threads for common issues
+
+* app is using cors `app.use(cors(corsOptions));` with origin using `http` and not `https`
+* I have {`""proxy"": ""http://localhost:3000""}` in my package.json file for both backend and frontend. I wasn't sure which json file the proxy was supposed to be it in so I tried either/both; didn't work.
+
+I followed the steps to this YouTube video: [How to Create a Express/Node + React Project with Vite | Node Backend + React Frontend](https://www.youtube.com/watch?v=mKmxc8TcWQ8). I'm just console logging a `fruits` array for now to test.
+
+**Error**
+
+    code: ""ERR_NETWORK""
+    message: ""Network Error""
+    name: ""AxiosError""
+
+**App.jsx (front end, port 5173)**
+
+    function App() {
+      const [count, setCount] = useState(0);
+    
+      const fetchAPI = async () =&gt; {
+        const response = await axios.get('http://localhost:3000/api');
+        console.log(response.data.fruits);
+      };
+    
+      useEffect(() =&gt; {
+        fetchAPI();
+      }, []);
+    
+      return (...)
+    }
+
+**server.js (backend, port 3000)**
+
+    import express from 'express';
+    import cors from 'cors';
+    
+    const app = express();
+    const PORT = process.env.PORT || 3000;
+    
+    const corsOptions = {
+      origin: ['http://localhost:5173'],
+    };
+    
+    app.use(cors(corsOptions));
+    app.use(express.urlencoded({ extended: true }));
+    
+    app.get('/api', (req, res) =&gt; {
+      res.json({ fruits: ['apple', 'orange', 'banana'] });
+    });
+    
+    app.listen(PORT, () =&gt; {
+      console.log(`Running messaging app on PORT ${PORT}`);
+    });
+
+",MrGiggleFiggle,1h2zhga,https://reddit.com/r/learnprogramming/comments/1h2zhga/axios_network_error_node_backend_with_vitereact/,https://www.reddit.com/r/learnprogramming/comments/1h2zhga/axios_network_error_node_backend_with_vitereact/,2024-11-29 23:57:15,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h2zhga
+learnprogramming,Returning different types function (Python),"Hi! I'll go straight to the question:
+
+I'm making a module that allows a bigger project to retrieve information from a source. So there's a common function called by the bigger project that returns a String used by that project. 
+
+  
+The thing is that there is ONE case, in which the function should return a list of strings instead of just a string. The project expects that list in that case. It expects a string in any other. Before they were data introduced manually and now I want to automate it.
+
+  
+I know I can return different types from the function, and I can make it so the function returns the list only in the case I need. 
+
+  
+My question is more like, is that good practice if I note it down? I feel like I'm overthinking it but something tells me it was better to ask. 
+
+  
+Thanks a lot and if any other info is needed please tell me! Oh! And any good reads on the matter are also great, because nothing I've found has helped me much. ",honk-thesou,1h2xmg8,https://reddit.com/r/learnprogramming/comments/1h2xmg8/returning_different_types_function_python/,https://www.reddit.com/r/learnprogramming/comments/1h2xmg8/returning_different_types_function_python/,2024-11-29 22:27:53,1,0.67,1,0,11,0,0,False,False,True,False,False,,,t3_1h2xmg8
+learnprogramming,private &amp; public keywords,"So i’m a compsci student at uni w no prior experience in coding AT ALL. we’re learning java and the professor has tried to explain the concept of private vs public keyword so many times but i just can’t GET it.. searched it up online and even tried CHATGpt but i just don’t understand it at all. 
+
+i know it’s not a huge concept in the bigger picture but it’s bugging me way too much for me to just move on from it.
+
+ does anyone know something i can understand it by? ",Icy_Surprise9724,1h2xi7s,https://reddit.com/r/learnprogramming/comments/1h2xi7s/private_public_keywords/,https://www.reddit.com/r/learnprogramming/comments/1h2xi7s/private_public_keywords/,2024-11-29 22:22:17,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h2xi7s
+learnprogramming,Python is retrieving data from nowhere (?),"Currently I've been doing some tests to prepare for an interview to find the longest palindrome, and for some reason Python is retrieving data that is not supposed to.
+
+A brief resume about the issue... If you read the code and the output bellow, the only part of the code that I insert anything into `longest_palindrome` is inside a single `IF` statement. I also put a `print()` function to catch whatever data is catching from the `IF` statement, and for some reason even if it does not print `['b', 'a', 'b', 'a']`, I get `['b', 'a', 'b', 'a']` as result ???
+
+Python version I am using:
+
+&gt; 3.11.10 | packaged by conda-forge | (main, Oct 16 2024, 01:19:04) \[GCC 13.3.0\]
+
+Here is the code and output...
+
+**CODE**
+
+    def longestPalindrome(s: str) -&gt; str:
+        aux = 0 
+        while True:
+            if s[-(aux+1)] not in s[:-(aux+1)]:
+                aux+=1
+            else:
+                break
+        s = s if aux == 0 else s[:len(s)-aux]
+        
+        longest_palindrome= []
+        for idx, value in enumerate(s):
+                current = [value]
+                if value not in s[idx+1:]:
+                    continue
+                for v in (s[idx+1:]):
+                     current.append(v)
+                     if current == list(reversed(current)):
+                         print('if logic current=', current)
+                         longest_palindrome = current if len(longest_palindrome) &lt; len(current) else longest_palindrome
+        return longest_palindrome
+                          
+    res = longestPalindrome(""babad"")
+    print('resut:', res)
+
+**OUTPUT**
+
+    if logic current= ['b', 'a', 'b']
+    if logic current= ['a', 'b', 'a']
+    result: ['b', 'a', 'b', 'a']",CollectionFirm,1h2v7dn,https://reddit.com/r/learnprogramming/comments/1h2v7dn/python_is_retrieving_data_from_nowhere/,https://www.reddit.com/r/learnprogramming/comments/1h2v7dn/python_is_retrieving_data_from_nowhere/,2024-11-29 20:36:22,1,0.67,1,0,3,0,0,False,False,True,False,False,Debugging,,t3_1h2v7dn
+learnprogramming,Struggling with Amazon Product Advertising API - Need Help with Signature and Authorization,"I'm currently working on integrating Amazon's Product Advertising API into my website, but I'm hitting a wall when it comes to the signature and authorization process. I’ve followed the documentation and used Python scripts to generate the **X-Amz-Date** and **Authorization** headers, but I'm still getting errors, both in **Postman** and when testing with **Zapier**.
+
+Here's a summary of what I've done so far:
+
+1. Signed up for Amazon’s **Product Advertising API** and have the **Access Key** and **Secret Key**.
+2. I've generated **X-Amz-Date** (e.g., `20241128T145207Z`) and the **Authorization** header using Python and HMAC SHA256.
+3. Tried sending the request using **Postman** and **Zapier**, but I get the error: `""Error: InternalFailure""`.
+4. I’m also using a **valid PartnerTag** for my affiliate account but still facing issues.
+5. Ensured the **X-Amz-Date** and **Authorization** headers are dynamically generated (not hardcoded)
+6. Double-checked the endpoint URL (`https://webservices.amazon.com/paapi5/getitems`).
+
+The exact error message I receive from Postman is:  
+**400 Bad Request**, and in the response:  
+**""Output"": {""\_\_type"": ""com.amazon.coral.service#InternalFailure""}**
+
+I'm thinking I might be missing something with the **region** or **signature calculation** but I'm not sure. Could anyone with experience in the Amazon Product Advertising API help me troubleshoot this? Or point me to any resources for ensuring my requests are being signed correctly?",TheCheckStand,1h2rqv2,https://reddit.com/r/learnprogramming/comments/1h2rqv2/struggling_with_amazon_product_advertising_api/,https://www.reddit.com/r/learnprogramming/comments/1h2rqv2/struggling_with_amazon_product_advertising_api/,2024-11-29 18:04:08,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h2rqv2
+learnprogramming,Looking to create my first app ever and need some advice and tips,"Hey guys, I am looking to create my first app ever. A bit of background, I have some experience in coding in Python, C,C# and C++. My idea is to create a simple educational based app where you can do quizzes on different subjects. I want this app to be available on android devices in playstore. What I want to know is which programming language would you say is the best to code it in? Also, is there any good resources, websites or videos that I can use to learn the language?",Monke_0101,1h2rc81,https://reddit.com/r/learnprogramming/comments/1h2rc81/looking_to_create_my_first_app_ever_and_need_some/,https://www.reddit.com/r/learnprogramming/comments/1h2rc81/looking_to_create_my_first_app_ever_and_need_some/,2024-11-29 17:46:46,1,0.6,1,0,3,0,0,False,False,True,False,False,,,t3_1h2rc81
+learnprogramming,Need feedback on my biggest web project till now,"I need your feedback on this project I'm about to finish the JavaScript course I'm studying.
+
+live preview: [https://kareem-aez.github.io/weatherly/](https://kareem-aez.github.io/weatherly/)
+
+repo link: [https://github.com/Kareem-AEz/weatherly](https://github.com/Kareem-AEz/weatherly)
+
+",KareemAhmed37,1h2r39h,https://reddit.com/r/learnprogramming/comments/1h2r39h/need_feedback_on_my_biggest_web_project_till_now/,https://www.reddit.com/r/learnprogramming/comments/1h2r39h/need_feedback_on_my_biggest_web_project_till_now/,2024-11-29 17:35:49,1,0.6,1,0,4,0,0,False,False,True,False,False,Code Review,,t3_1h2r39h
+learnprogramming,GitHub Repo to Pages ,"Hey everyone! Learning html, css and JavaScript and started deploying projects on GitHub pages. However, after some trials of deploying on GitHub pages I was finding it annoying that you had to look up the url to access the GitHub pages link. 
+
+So I put my new skills to the test to create a simple app that converts repo URLs to GitHub pages url. Check it out here below!
+
+https://www.github2pages.com/
+
+Please share any feedback you have for me! 
+
+Thank you
+
+",PretendOwl2974,1h2osxx,https://reddit.com/r/learnprogramming/comments/1h2osxx/github_repo_to_pages/,https://www.reddit.com/r/learnprogramming/comments/1h2osxx/github_repo_to_pages/,2024-11-29 15:55:20,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h2osxx
+learnprogramming,I really want to start programming,"Hey,  
+I already did started once with HTML + CSS but then my pc broke and i couldnt code anymore, now i did forgot the most things, is it still worth trying it again or should i start with an other language?",zzyzy81,1h3brox,https://reddit.com/r/learnprogramming/comments/1h3brox/i_really_want_to_start_programming/,https://www.reddit.com/r/learnprogramming/comments/1h3brox/i_really_want_to_start_programming/,2024-11-30 12:41:14,0,0.25,0,0,2,0,0,False,False,True,False,False,,,t3_1h3brox
+learnprogramming,How to make LLM update code in the code editor seamlessly,"So I have a project I'm working on and it will require an LLM to update existing code and write it back to the editor,where I'm having issues is finding a good way to update anywhere within the code without Messing up unchanged ones, I know converting the source code to AST can help when doing function/class wide updates it has easy as transversing the nodes and identifying which function or classes require change.
+
+But for use cases where the updates are limited to few lines of code or for code that are just scripts with no classes and functions,I can't really come up with a good solution to update the code with  messing up other lines that aren't affected, I've tried searching on Google to see similar implementations or articles on it but all of them only talk about how to parse and transverse AST.",FickleSwordfish8689,1h3b30j,https://reddit.com/r/learnprogramming/comments/1h3b30j/how_to_make_llm_update_code_in_the_code_editor/,https://www.reddit.com/r/learnprogramming/comments/1h3b30j/how_to_make_llm_update_code_in_the_code_editor/,2024-11-30 11:57:09,0,0.33,0,0,0,0,0,False,False,True,False,False,,,t3_1h3b30j
+learnprogramming,square one,"I lost all my motivation to study and I'm stuck, does anyone have any tips to progress and get out of the null state?",Sad_Age9831,1h2zjhq,https://reddit.com/r/learnprogramming/comments/1h2zjhq/square_one/,https://www.reddit.com/r/learnprogramming/comments/1h2zjhq/square_one/,2024-11-30 00:00:03,0,0.5,0,0,7,0,0,False,False,True,False,False,,,t3_1h2zjhq
+learnprogramming,Books to read,"Sitting down in breakroom seeing someone reading a book, maybe me think I needs be reading on my 15 min, can anyone reccomend any really good books for DSA? I haven't taken it yet and have only done intro to comp sci and oose and oop, I've used golang python n Java if that helps. I know nothing about frameworks or databases. I know a bit about pandas n tkinter, just looking to advance myself, thanks in advance ",Ok-Ebb-2434,1h2ys85,https://reddit.com/r/learnprogramming/comments/1h2ys85/books_to_read/,https://www.reddit.com/r/learnprogramming/comments/1h2ys85/books_to_read/,2024-11-29 23:22:56,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1h2ys85
+learnprogramming,Need to know what APIs i need for these kind of tools,"Hey everyone, im new in here and ill prolly sound like a complete idiot, im building an app on bubble.
+
+this app is for dropshippers and it basically generates a list of products from aliexpress based on filters, manages fulfillmenet tracking, and manages users Ad campaigns.
+
+My problem is, im not sure what APIs i need, only an the following assumption:
+- meta graph API
+- aliexpress affiliate API
+- shopify API
+
+But the thing is, i think ill need a registered business to get access to these APIs but im just trying to launch an MVP so i dont really have a registered business.
+
+Any idea if i need different ones apart from these? And also is there a way to get access to these APIs without needing a business license?
+
+Thank you for your time!",Humble_Eye_4363,1h2ryvx,https://reddit.com/r/learnprogramming/comments/1h2ryvx/need_to_know_what_apis_i_need_for_these_kind_of/,https://www.reddit.com/r/learnprogramming/comments/1h2ryvx/need_to_know_what_apis_i_need_for_these_kind_of/,2024-11-29 18:13:51,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1h2ryvx
+learnprogramming,Suggestions for Hosting Website for College Semester Project?,"I'm in a group project this semester and need to host our project. I was thinking of using Heroku, but I saw they don't have a free tier anymore (but it is still an option I'm considering). I'm wondering if anyone has suggestions? The frontend is React and the backend is FastAPI. Right now I'm using SQLite for the database, but I'm using SQLAlchemy so that should be able to be changed easily if necessary.",Jumpy_Employment_439,1h2rp7z,https://reddit.com/r/learnprogramming/comments/1h2rp7z/suggestions_for_hosting_website_for_college/,https://www.reddit.com/r/learnprogramming/comments/1h2rp7z/suggestions_for_hosting_website_for_college/,2024-11-29 18:02:13,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h2rp7z
+learnprogramming,Is DB Migrations (KnexJS) and ORM in different repositories a very bad idea? ,"2 things I'll really prefer having:
+
+* DB schema/migrations managed by code which can recreate a DB anywhere easily.
+* Sorf of typesafety and intellisense in ORM in backend.
+
+I planned on having the migrations with Knex in a separate repo and use an ORM in my backend(s). DB in in Supabase which has its own migration via cli. I can use it but preferring.
+
+I read that ORMs like prisma or drizzle can go through the DB (inspection) and create sort of interfaces of tables. Is it reliable? Can they update them when there is a change in DB. Since it is just me working on this project, manually running the inspecton after new migrations won't be a problem.
+
+What is the best practice for this? I have never worked with DB creation/maintainance first hand so I no real-world idea about this. Just reading online and learning.",paanpoodakarwakar,1h2okd5,https://reddit.com/r/learnprogramming/comments/1h2okd5/is_db_migrations_knexjs_and_orm_in_different/,https://www.reddit.com/r/learnprogramming/comments/1h2okd5/is_db_migrations_knexjs_and_orm_in_different/,2024-11-29 15:44:25,0,0.5,0,0,2,0,0,False,False,True,False,False,Database,,t3_1h2okd5
+learnprogramming,Struggling to Find the Right Org for GSoC 2025!,"# I’m planning to apply for GSoC 2025 but struggling to decide on the right organization. There are so many great options, and I want to find one that aligns with my skills and interests. How do you evaluate the organizations and their projects? What strategies worked for you when shortlisting? Any guidance or personal experiences would be super helpful—thanks in advance!",Abject_Draft_9964,1h2n3x4,https://reddit.com/r/learnprogramming/comments/1h2n3x4/struggling_to_find_the_right_org_for_gsoc_2025/,https://www.reddit.com/r/learnprogramming/comments/1h2n3x4/struggling_to_find_the_right_org_for_gsoc_2025/,2024-11-29 14:35:01,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h2n3x4
+learnprogramming,Tabnine without AI,"Hi all, I've just started using tabnine for my python projects on PyCharm. Although the AI completion is neat, I do like seeing what other options I have to auto complete. I saw in this video, [https://www.youtube.com/watch?v=ibf5cx221hk&amp;t=763s](https://www.youtube.com/watch?v=ibf5cx221hk&amp;t=763s) he uses some older version of tabnine I think where it opens the tooltip to see more options (the tabnine options are shown in the same way built-in autocomplete works)",ashequrkhn,1h2lge6,https://reddit.com/r/learnprogramming/comments/1h2lge6/tabnine_without_ai/,https://www.reddit.com/r/learnprogramming/comments/1h2lge6/tabnine_without_ai/,2024-11-29 13:10:23,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h2lge6
+learnprogramming,What will be your reaction on this issue,"You have a large software in php with many tables  , the app has a module to add user and configure some settings for the user , when the tester tried to add user it does not add and freeze , so he came to me and first thing i check is console where when adding user it sql error readystate 4 that column 'active_at' column not found.
+I just write a query to insert the column and gave to server guy , my manager started asking me why is the code not working ( for another feature where we use active_at column was tested perfectly) so i said the only reason the error could have occured is either column was never added or else it got removed, in db when server guy checks the table existed there so when i debugged i found that issue was one api was trying to insert active_at in a different table where active_at was not present so i removed the part of active_at insertion.
+For a good developer what should be my first reaction on this situation i think my assumption that column was removed was very wrong",Available_Canary_517,1h2ps5v,https://reddit.com/r/learnprogramming/comments/1h2ps5v/what_will_be_your_reaction_on_this_issue/,https://www.reddit.com/r/learnprogramming/comments/1h2ps5v/what_will_be_your_reaction_on_this_issue/,2024-11-29 16:38:45,0,0.33,0,0,4,0,0,False,False,True,False,False,,,t3_1h2ps5v
+learnprogramming,Choose language to learn,"I am Nodejs and python developer using them for a couple of years.  Now i want to learn a performant statically typed language.  I am thinking between golang and java. But its hard to choose. I have worked with jenkins so know a some java. 
+So do i choose golang or java based on performance and developer productivity. ",wilbana,1h2mwzv,https://reddit.com/r/learnprogramming/comments/1h2mwzv/choose_language_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h2mwzv/choose_language_to_learn/,2024-11-29 14:26:14,0,0.33,0,0,6,0,0,False,False,True,False,False,,,t3_1h2mwzv
+learnprogramming,Should i use neovim instead of vscode,"Hi im just a beginner coder i only really used vscode(apperantly vscodium is better) I only really know JS Next.js(starting to get used to typescript) and have i have learnt Node.js Mongoose Express aswell. I was thinking of switching to neovim cause i feel like I'm gonna learn it eventually so it's better to start now than later
+",Weeb-Overlord,1h3bbrh,https://reddit.com/r/learnprogramming/comments/1h3bbrh/should_i_use_neovim_instead_of_vscode/,https://www.reddit.com/r/learnprogramming/comments/1h3bbrh/should_i_use_neovim_instead_of_vscode/,2024-11-30 12:13:30,0,0.27,0,0,22,0,0,False,False,True,False,False,Topic,,t3_1h3bbrh
+learnprogramming,Is it normal to be slow at the beginning of coding journey?,"Hi averyone, 
+
+I'm at my second year of college, first year was about static/dynamic data structures, but i didn't practice any coding at the time, and in order to succeed my year i had to learn algorithms on paper.
+
+Discovered leetcode this year, and i am surprised with how slow i am at coming up with a functional algorithm.
+
+Normally i'm quick in other subjects, at maths at general reading at chess ...etc , but in programming m having trouble.
+
+Is this considered normal? Or is it just a matter of time? 
+Can you provide good practices to follow?",Adolph4747,1h39smh,https://reddit.com/r/learnprogramming/comments/1h39smh/is_it_normal_to_be_slow_at_the_beginning_of/,https://www.reddit.com/r/learnprogramming/comments/1h39smh/is_it_normal_to_be_slow_at_the_beginning_of/,2024-11-30 10:24:45,0,0.25,0,0,2,0,0,False,False,True,False,False,,,t3_1h39smh
+learnprogramming,how do i know what data size a value is?,"i may be going backwards, because i started with js, learned a little c# and then i just started c++. (i know you shouldnt jump around so much, but im trying to find one i like before i stick to one. 
+
+my biggest struggle is with data sizes and variable types. i went from just putting everything in const and let and now i need to look at more than just scope..
+
+my understanding is this
+
+8-bit is 1 char and the number 225 and under
+
+16-bit short integers. (how short? like 226?)
+
+32-bit larger integers and file sizes
+
+64-bit much larger integers precise floats and pointers
+
+
+but if i had this string ""the quick brown fox did something with a fence"" how big would that be? how big would it be if i had a whole article in a string? am i putting too much importance on this?",ChrispyGuy420,1h2w7oq,https://reddit.com/r/learnprogramming/comments/1h2w7oq/how_do_i_know_what_data_size_a_value_is/,https://www.reddit.com/r/learnprogramming/comments/1h2w7oq/how_do_i_know_what_data_size_a_value_is/,2024-11-29 21:22:42,0,0.4,0,0,15,0,0,False,False,True,False,False,Topic,,t3_1h2w7oq
+learnprogramming,Created a auto survey fill bot,"Hello guys, Im thinking of a project where I can create a bot that can auto fill survey. I tried to search up every where online but couldn't find one so decided to create my own. Any advice or suggestions? Thx!",Embarrassed-Code8844,1h2v96v,https://reddit.com/r/learnprogramming/comments/1h2v96v/created_a_auto_survey_fill_bot/,https://www.reddit.com/r/learnprogramming/comments/1h2v96v/created_a_auto_survey_fill_bot/,2024-11-29 20:38:39,0,0.17,0,0,0,0,0,False,False,True,False,False,,,t3_1h2v96v
+learnprogramming,Will I be able to develop video games after finishing BroCode's 6 hour C++ course?,"[https://youtu.be/-TkoO8Z07hI?si=1T3GLRCUUfLzrnFi](https://youtu.be/-TkoO8Z07hI?si=1T3GLRCUUfLzrnFi)
+
+Will I learn enough from this video to make and move a cube with W A S D keys in three dimensional space?",OughtToBeFought,1h2rs80,https://reddit.com/r/learnprogramming/comments/1h2rs80/will_i_be_able_to_develop_video_games_after/,https://www.reddit.com/r/learnprogramming/comments/1h2rs80/will_i_be_able_to_develop_video_games_after/,2024-11-29 18:05:48,0,0.15,0,0,24,0,0,False,False,True,False,False,,,t3_1h2rs80
