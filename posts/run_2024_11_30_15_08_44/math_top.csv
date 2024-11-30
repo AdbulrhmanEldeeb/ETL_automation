@@ -1,0 +1,50 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Is it interesting? Can we prove anything about this equation or its solutions? ,,Voyide01,1h2wx22,https://reddit.com/r/math/comments/1h2wx22/is_it_interesting_can_we_prove_anything_about/,https://math.stackexchange.com/questions/5003448/solutions-to-a-congruence-involving-a-tuple-counting-function,2024-11-29 21:55:12,34,0.76,34,0,2,0,0,False,False,False,False,False,,,t3_1h2wx22
+math,Inductive definition of a set.,"I am a computer science student and have studied basic discrete maths, including set theory. I was pacing across some questions when I came across this one. It seems like the standard way of defining a set inductively. A basis clause stating that certain elements are in the set, and an inductive clause which states that if x is in the set, y is also in the set. 
+
+  
+Now the problem that I have with this definition is that for many objects, it does not specify if they are in the set or not (which are not taken into account in both of the clauses). For example in this question, I cannot tell if b is in L or not. According to me, a good definition of a set should be able to define for every object in the universe of discourse, that it belongs to the set or not. The answer here, also completely depends on this assumption. My question is, am I missing something in the way sets are defined inductively, or the question is just vague and poorly framed, or the inductive definition of sets is incomplete and there are better ways to define a set?
+
+I'd be happy to provide any clarifications in my post. TY
+
+https://preview.redd.it/ypujf07p8v3e1.png?width=1374&amp;format=png&amp;auto=webp&amp;s=f688d5e5a14fe568ef1864db0f2f6d158d5e5c6a
+
+",Viable-public-key,1h2pe97,https://reddit.com/r/math/comments/1h2pe97/inductive_definition_of_a_set/,https://www.reddit.com/r/math/comments/1h2pe97/inductive_definition_of_a_set/,2024-11-29 16:21:40,26,0.79,26,0,15,0,0,False,False,True,False,False,,,t3_1h2pe97
+math,"This Week I Learned: November 29, 2024","This recurring thread is meant for users to share cool recently discovered facts, observations, proofs or concepts which that might not warrant their own threads. Please be encouraging and share as many details as possible as we would like this to be a good place for people to learn!",inherentlyawesome,1h2q9an,https://reddit.com/r/math/comments/1h2q9an/this_week_i_learned_november_29_2024/,https://www.reddit.com/r/math/comments/1h2q9an/this_week_i_learned_november_29_2024/,2024-11-29 17:00:08,11,0.93,11,0,4,0,0,False,False,True,False,False,,,t3_1h2q9an
+math,A simple but powerful map ban format for 2-player random queue games,"I have no idea what the right subreddit for this is but I wanted to share it since I feel like it might be interesting and/or useful.
+
+**For a short description of the problem:** You are hosting a random matchmaking queue for a game where two players face off on one of multiple possible maps. Most players don't want to learn every map, so you offer map bans. But you still want to ensure that any two players will be able to find a map that neither of them has banned. What is a good way to allow your average joe to ban as many maps as possible without making things feel too complicated or too restrictive?
+
+The format that is typically used in games (e.g. AoE2) asymptotes at a map pool size of `2n` maps if each player has to leave `n` maps unbanned.
+
+My previously favourite format asymptotes at `4n` maps for `n` unbanned.
+
+This new format that I just found asymptotes at `n²/2` maps for `n` unbanned.
+
+I think the theoretical limit (Fano plane anyone) is somewhere between `n²/2` and `n²` but it seems way too unwieldy to make that into a user-friendly system.
+
+**So here's my new system:**
+
+1. Arrange the available maps into a grid of `x*y` maps, where `x` is odd.
+2. Any given player must select one of the `x` columns as their ""home column"". They can't ban any maps in their home column.
+3. The player may then ban most of the maps in the other columns, except that every *second* column must have at least one map not banned.
+
+If these rules are followed, three scenarios can happen when attempting to match two random players A and B:
+
+**a)** Both players have selected the same column. In this case, any map from that column can be randomly selected and played (fully random, or prioritizing favourited maps, or something else, we don't need to care).
+
+**b)** Player A has selected (wLoG) column 1, and player B has selected an odd column. Then player A has left open one of the maps in player B's home column, so that map can be played.
+
+**c)** Player A has selected (wLoG) column 1, and player B has selected an even column. Then player B has left open one of the maps in player A's home column, so that map can be played.
+
+**Example:** There are `5x4` maps in the pool (picture 1).
+
+    A B C D E        - B - D -        - - - - E
+    F G H I J        - G - - -        - G - - J
+    K L M N O        K L - - -        - - - N O
+    P Q R S T        - Q - - -        - - - - T
+
+Player A's bans leave open the maps in picture 2. Player B's bans leave open the maps in picture 3.
+
+Both players have left map **G** open, so map **G** will be played.",Iwer_Sonsch,1h3dze9,https://reddit.com/r/math/comments/1h3dze9/a_simple_but_powerful_map_ban_format_for_2player/,https://www.reddit.com/r/math/comments/1h3dze9/a_simple_but_powerful_map_ban_format_for_2player/,2024-11-30 14:43:19,3,1.0,3,0,1,0,0,False,False,True,False,False,,,t3_1h3dze9
+math,new way of caculating pi?,,Good_Doughnut8308,1h3djoi,https://reddit.com/r/math/comments/1h3djoi/new_way_of_caculating_pi/,https://www.desmos.com/calculator/bdt7u1anqq,2024-11-30 14:20:57,4,0.63,4,0,3,0,0,False,False,False,False,False,,,t3_1h3djoi
