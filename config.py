@@ -26,7 +26,12 @@ SUBREDDITS = [
     "programming", "devops", "physics", "math", "science",
     "learnprogramming", "gaming", "pcgaming", "books", "movies",
 ]
-TAGS = ['hot', 'top', 'rising', 'controversial', 'new']
+TAGS = ['hot', 
+        'top', 
+        # 'rising', 
+        # 'controversial', 
+        # 'new',
+        ]
 # Parameters
 LIMIT = 100  # Posts per request
 NUM_ITER = 10  # Iterations per subreddit
