@@ -1,0 +1,37 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,I recently wrote an article about creating a Seamless Split Payment Processing System that tackles a major challenge in e-commerce today,"I recently wrote an article about creating a [Seamless Split Payment Processing System](https://medium.com/@rasvihostings/seamless-split-payments-processing-system-d42200107ca7) that tackles a major challenge in e-commerce today: splitting payments among multiple sellers during a single checkout.
+
+As e-commerce continues to dominate, the demand for innovative payment solutions is at an all-time high. For multi-vendor platforms, marketplaces, and collaborative services, managing this dispersed checkout experience efficiently is critical—but it’s no easy task.
+
+How do we balance simplicity for the buyer with complexity on the backend? What technologies or strategies work best for handling such payments while maintaining transparency and regulatory compliance?
+
+Would love to hear your thoughts or experiences on this topic! How are you (or your company) addressing this challenge?  
+[https://medium.com/@rasvihostings/seamless-split-payments-processing-system-d42200107ca7](https://medium.com/@rasvihostings/seamless-split-payments-processing-system-d42200107ca7)",rasvi786,1h3p0nx,https://reddit.com/r/devops/comments/1h3p0nx/i_recently_wrote_an_article_about_creating_a/,https://www.reddit.com/r/devops/comments/1h3p0nx/i_recently_wrote_an_article_about_creating_a/,2024-11-30 23:09:37,0,0.42,0,0,11,0,0,False,False,True,False,False,,self,t3_1h3p0nx
+devops,"With a decade of experience, my resume + cover letter is getting zero responses. How to diagnose what is wrong?",,danielfrances,1h3hj8d,https://reddit.com/r/devops/comments/1h3hj8d/with_a_decade_of_experience_my_resume_cover/,/r/networking/comments/1h3hbu3/with_a_decade_of_experience_my_resume_cover/,2024-11-30 17:25:48,6,0.64,6,0,27,0,0,False,False,False,False,False,,default,t3_1h3hj8d
+devops,check this please ,"hi guys im a full stack developer student , and currently i decided to learn abt cloud so im studying to pass the aws practitioner. is it normal for an it enginner to learn dav and cloud and devops in once or i should just focus on a single thing ???. based on your experiences ,just drop your advice please ❤️",Confident-Sound-9674,1h3fngf,https://reddit.com/r/devops/comments/1h3fngf/check_this_please/,https://www.reddit.com/r/devops/comments/1h3fngf/check_this_please/,2024-11-30 16:03:00,0,0.31,0,0,4,0,0,False,False,True,False,False,,self,t3_1h3fngf
+devops,Jira integration with Qodo Merge: ensuring code quality with ticket compliance,"The article outlines how the integration of Qodo Merge with Jira facilitates better alignment between code changes and project requirements, with ticket compliance highlighted as a practice that ensures code in pull requests meets the specifications outlined in corresponding Jira tickets: [Qodo Merge integration with Jira: ensuring code quality with ticket compliance](https://www.codium.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)",thumbsdrivesmecrazy,1h44wpt,https://reddit.com/r/devops/comments/1h44wpt/jira_integration_with_qodo_merge_ensuring_code/,https://www.reddit.com/r/devops/comments/1h44wpt/jira_integration_with_qodo_merge_ensuring_code/,2024-12-01 14:52:14,0,0.11,0,0,1,0,0,False,False,True,False,False,,self,t3_1h44wpt
+devops,Need help on architecture layout,"Hey all,  
+  
+I'm creating a system that should have about 1 billion requests per month.  
+Since I've never created a system that even comes close to this, I need help in deciding on the architecture...
+
+I was thinking about:   
+  
+1. ELB with 4 servers (horizontal scaling) and add if needs be. Using php and nginx on each server.  
+2. SQS so offload DB work instead of DB call each impression. Still, this comes out at around 380 records per second on average, so I'm not sure this is best way to go, cost wise and function wise.  
+3. DB - what's the best DB to handle such a load? My plan is to collect daily data and create an aggregation through a nightly script, and removing daily data afterwards. Not sure if MySQL is the best way to go here, or BigQuery.  
+4. Since each request should perform a SELECT and an INSERT, I was thinking about saving the SELECT call by having a cache server caching the results (They will be mostly the same).  
+
+
+I would appreciate any advice you might have.
+
+Thanks!",trueicecold,1h40p11,https://reddit.com/r/devops/comments/1h40p11/need_help_on_architecture_layout/,https://www.reddit.com/r/devops/comments/1h40p11/need_help_on_architecture_layout/,2024-12-01 10:43:42,0,0.33,0,0,2,0,0,False,False,True,False,False,,self,t3_1h40p11
+devops,Looking for Beginner-Friendly DevOps Project Ideas for My Portfolio,"Hello, everyone!
+
+I’m currently studying DevOps and relatively new to the field. I want to build my portfolio with practical, beginner-friendly projects that demonstrate DevOps concepts like automation, CI/CD, monitoring, or containerization.
+
+I’d love to hear your recommendations for simple yet impactful projects that can help me learn and showcase my skills as I progress in this field.
+
+Thanks in advance for your suggestions!",Positive_Soup_8153,1h42hi8,https://reddit.com/r/devops/comments/1h42hi8/looking_for_beginnerfriendly_devops_project_ideas/,https://www.reddit.com/r/devops/comments/1h42hi8/looking_for_beginnerfriendly_devops_project_ideas/,2024-12-01 12:43:41,8,0.75,8,0,5,0,0,False,False,True,False,False,,self,t3_1h42hi8
+devops,Switching careers ,I have an opportunity to switch careers from healthcare to Devops… the course is 7 months and it guarantees a job placement or money back for the course. Program states they have a good success rate even with zero experience of IT or anything related. I have a friend who graduated from the program and is now making a great income. Has anyone switched careers like this ? ,Frequent_Kick4359,1h3n4at,https://reddit.com/r/devops/comments/1h3n4at/switching_careers/,https://www.reddit.com/r/devops/comments/1h3n4at/switching_careers/,2024-11-30 21:40:44,0,0.38,0,0,19,0,0,False,False,True,False,False,,self,t3_1h3n4at
+devops,Should I use WSL or DualBoot or Virtual Machine,"I was learning linux for devops. I am not new to linux, I knew th ebasic commands for copying, removing or installing apps. I just don't like the desktop versions of them. I consider the terminal to be the best of them as it supports everything. Also in the Desktop version, there is a lot of problem with NVIDIA and it just sucks on linux. I have used every flavour of linux like debian, ubuntu, fedora, manjaro and alpine. But the WSL is the one which works great and does all the linux work I need it to do. But I was thinking, from a devops engineer's perspective if we gotta use the desktop version for better work or no. Thanks.",Certain-Phrase-4721,1h3xoiq,https://reddit.com/r/devops/comments/1h3xoiq/should_i_use_wsl_or_dualboot_or_virtual_machine/,https://www.reddit.com/r/devops/comments/1h3xoiq/should_i_use_wsl_or_dualboot_or_virtual_machine/,2024-12-01 07:04:58,22,0.88,22,0,35,0,0,False,False,True,False,False,,self,t3_1h3xoiq

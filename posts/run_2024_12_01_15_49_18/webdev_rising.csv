@@ -1,0 +1,281 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Unknown 3rd party code on PageSpeed Insights ,,Beginning_Plant_7931,1h45d96,https://reddit.com/r/webdev/comments/1h45d96/unknown_3rd_party_code_on_pagespeed_insights/,https://i.redd.it/ki1wphad594e1.png,2024-12-01 15:13:38,2,0.75,2,0,0,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/LJKPZN__FEDc2d1tVy7Nj_gifecssZPeqbtx4AwT4h8.jpg,t3_1h45d96
+webdev,Created Advent Of TypeScript!,,bautistaaa,1h3xzkt,https://reddit.com/r/webdev/comments/1h3xzkt/created_advent_of_typescript/,https://i.redd.it/bnetny7nv64e1.gif,2024-12-01 07:26:19,252,0.97,252,0,13,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/OK0bRTnWATnOWuSkMYEqANS9hf7yuduB18-sR8kpxu8.jpg,t3_1h3xzkt
+webdev,I made a tool to create GIFs of source code diffs for sharing on social media,,cmgriffing,1h3l4gj,https://reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/,https://i.redd.it/ib2i8g9ji34e1.gif,2024-11-30 20:08:30,552,0.98,552,0,51,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/JCS8iFK8uXpsprqMVf8xdaJEIoPBTNAnaJ5Rc02EO-o.jpg,t3_1h3l4gj
+webdev,It’s been over two years since I showed off my color palette generator here. Here is how it looks now:,,scpalettegenerator,1h3md6e,https://reddit.com/r/webdev/comments/1h3md6e/its_been_over_two_years_since_i_showed_off_my/,https://www.reddit.com/gallery/1h3md6e,2024-11-30 21:05:32,376,0.98,376,0,34,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/zqMrCbVADGxouwkw_dk7TDoo1pywL1azF-w7t2Y32aY.jpg,t3_1h3md6e
+webdev,What’s the craziest piece of code you’ve seen?,Title says it all ,yeahimjtt,1h3wvsw,https://reddit.com/r/webdev/comments/1h3wvsw/whats_the_craziest_piece_of_code_youve_seen/,https://www.reddit.com/r/webdev/comments/1h3wvsw/whats_the_craziest_piece_of_code_youve_seen/,2024-12-01 06:11:15,66,0.89,66,0,77,0,0,False,False,True,False,False,Question,self,t3_1h3wvsw
+webdev,I made a chrome extension that lets me watch any tv show or movie off IMDB with a single click!,,OriginalPlayerHater,1h3v2zv,https://reddit.com/r/webdev/comments/1h3v2zv/i_made_a_chrome_extension_that_lets_me_watch_any/,https://www.reddit.com/gallery/1h3v2zv,2024-12-01 04:24:57,88,0.94,88,0,12,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/RKAn3IRg35WBsFKc_VUBKkBYsov-fK5LZQ-Avxs8F9I.jpg,t3_1h3v2zv
+webdev,Built a website that converts your browsing history into beautiful insights.,,Eliterocky07,1h3xxzz,https://reddit.com/r/webdev/comments/1h3xxzz/built_a_website_that_converts_your_browsing/,https://www.reddit.com/gallery/1h3xxzz,2024-12-01 07:23:15,33,0.9,33,0,20,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/RzUvvCWUE6UBzp4ujDCEUltHagkAEurjEZXZ0IlhPmY.jpg,t3_1h3xxzz
+webdev,I made a tech comparison tool.,,rahim-mando,1h3kix0,https://reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/,https://i.redd.it/aob5atnmd34e1.jpeg,2024-11-30 19:41:04,202,0.9,202,0,76,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/bJQx9AAlMD1WexPAoOsOqBhU66xmk5xUyy2rWSEzd-M.jpg,t3_1h3kix0
+webdev,HTML &amp; CSS component library?,"Are there any HTML &amp; CSS only component libraries you can recommend?
+
+Most libraries require tons of bloat in form of additional libraries, what I'm looking for are component libraries that give you the HTML &amp; CSS code which:
+- You can just (almost) copy and paste into your own project without requiring more dependencies
+- Is built using just HTML, CSS and minimal JavaScript
+
+The only good one I know of is CodeStitch, wondering if there are more out there? ",BekuBlue,1h3yoz3,https://reddit.com/r/webdev/comments/1h3yoz3/html_css_component_library/,https://www.reddit.com/r/webdev/comments/1h3yoz3/html_css_component_library/,2024-12-01 08:16:07,12,0.76,12,0,16,0,0,False,False,True,False,False,,self,t3_1h3yoz3
+webdev,Bonsai-CLI Demo + Component Development,"https://preview.redd.it/rl2rruk3944e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c5a0c4102c4120ad0175716bdfbb40dd395bcbc8
+
+
+
+Bonsai-CLI will streamline web development for agencies or solo developers. I think it will truly 10-100x my development speed, for websites or web apps.
+
+Demo + live-stream: [https://www.youtube.com/watch?v=hM1V1IjR96E&amp;ab\_channel=JackalopeLabs](https://www.youtube.com/watch?v=hM1V1IjR96E&amp;ab_channel=JackalopeLabs)
+
+Bonsai-CLI allows you to generate a beautiful web app in seconds, using pre-built and designed Tailwind/Alpine components. All the copy, images, layouts, components, templates, styles can be configured by AI in a matter of seconds.
+
+It’s built specifically for Roots WP stack at the moment, in the future it could support more stacks.
+
+Once you have a [Roots.io](http://Roots.io) site up running, you can run two commands to create a new landing page–
+
+`wp acorn bonsai:init`
+
+`wp acorn bonsai:generate bonsai`
+
+At the moment, the landing page is fairly basic. I’m going to add all of my custom built components to it. Once Bonsai-CLI is done, it’s going to be able to build full on web apps in a matter of seconds. That’s the goal.
+
+Bonsai-CLI: [https://github.com/jackalopelabs/bonsai-cli](https://github.com/jackalopelabs/bonsai-cli)",eyeiskind,1h3o8uz,https://reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/,https://www.reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/,2024-11-30 22:33:23,64,0.95,64,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/DP0E67TgcvYH7eQjb8FRrm7bdrkU3Mr-6GOFQjtRQQg.jpg,t3_1h3o8uz
+webdev,Is this still valid for frontend devs who are not designers?,,an4s_911,1h352kj,https://reddit.com/r/webdev/comments/1h352kj/is_this_still_valid_for_frontend_devs_who_are_not/,https://i.redd.it/tjghy1vq0z3e1.jpeg,2024-11-30 05:00:27,1459,0.96,1459,0,205,0,0,False,False,False,False,False,Question,https://a.thumbs.redditmedia.com/uYdeznY2yqpPTMu0jkv0GcxUBrx1nutxjyP1xFYKNz4.jpg,t3_1h352kj
+webdev,How I solved common Prisma ORM errors,"I have been using Prisma ORM for the last 2 years, and I have experience with troubleshooting different types of error.
+
+In this post, I want to share it with you, so you don’t have to spend hours figuring out what I’ve already learned.
+
+**Why Prisma?**
+
+I have been using Prisma to interact with the database for all my SaaS products. So far, I’ve built six SaaS products, and I hope to build more in the future (some of them are [BlackTwist](https://blacktwist.app), [Wuf](https://usewuf.com), [Userdesk](https://userdesk.io), [Inboxs](https://inboxs.io), [Hivoe](https://hivoe.com)).
+
+I've used Prisma in Next.js web apps, node.js servers, and cron jobs.
+
+The key goals of using Prisma are:
+
+* keep under control your database schema
+   * define tables and types
+   * apply migrations
+   * query your database with type safety
+   * avoid typing errors
+* protect from SQL injection
+* leverage pooling
+
+**Common issues**
+
+Despite being a stable product, sometimes you can encounter some issues.
+
+Below I describe two common errors:
+
+* migration errors
+* query errors
+
+Let’s start with the first one.
+
+**Error with data migrations**
+
+Sometimes your migrations emit an error, that’s not very simple to debug, like this one.
+
+    Error: ERROR: prepared statement ""s2"" does not exist
+
+You usually get this error when you run `npx prisma db push` (apply your schema changes to the database) or `npx prisma generate` (generate the types from your schema).
+
+But what does this mean?
+
+This error happens when using a relational database, like [PostgreSQL](https://www.postgresql.org/) (one of the most popular, and advanced open-source SQL databases on the market).
+
+Specifically, a prepared statement in PostgreSQL is a feature that allows you to execute a query plan that is prepared and stored by the database server for reuse. It improves performance and security, especially when executing the same query multiple times with different parameter values.
+
+Prisma ORM leverages the prepared statements as part of its database query execution process, under the hood (but you don’t have to know or master prepared statements to use Prisma).
+
+The main issues arise with the confusion between the different database connections string configurations, pooling and PgBouncer.
+
+Let me go straight to the solution, then I explain you the different parts.
+
+The main solution I’ve found is to use two connection strings, one to run the migrations and the second for the execution of your web application / node.js server.
+
+First, identify the correct connection strings for your database.
+
+The connection string to run the migrations is the direct access to the database (no pooling or PgBouncer), like for instance
+
+    postgresql://username:password@host:5432/dbname
+
+Save this connection string as an environment variable called `DATABASE_DIRECT_URL`.
+
+    DATABASE_DIRECT_URL=""postgresql://username:password@host:5432/dbname""
+
+Add it to your local `.env` file and to your hosting service (Vercel, Netlify, Render, and so on).
+
+Secondly, get the connection string with the pool, for instance:
+
+    postgresql://user:password@host:post/poolName
+
+Get this connection string from your database hosting provider, the parameters might be different.
+
+Save this connection string as an environment variables called `DATABASE_URL`.
+
+    DATABASE_URL=""postgresql://user:password@host:post/poolName""
+
+Add it to your local `.env` file and to your hosting service (Vercel, Netlify, Render, and so on).
+
+The second step is to update the Prisma configuration to use these two environment variables.
+
+Open the file `schema.prisma` and update the section `datasource db` to include this:
+
+    datasource db {
+      provider  = ""postgresql""
+      url       = env(""DATABASE_URL"")
+      directUrl = env(""DATABASE_DIRECT_URL"")
+    }
+
+Now, run the usual commands like `npx prisma db push` and `npx prisma generate` locally to ensure that everything is working correctly, and run your application locally.
+
+If all is good, push the modifications to your hosting service and trigger a new deployment for the modifications to take effect.
+
+Prisma is now correctly configured and you should not have the same issue again.
+
+**Query performance issues**
+
+Recently, I got the ""stack depth limit exceeded"" error message.
+
+    PrismaClientUnknownRequestError: Invalid `prisma.table.findMany()` invocation: Error occurred during query execution: ConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: ""54001"", message: ""stack depth limit exceeded"", severity: ""ERROR"", detail: None, column: None, hint: Some(""Increase the configuration parameter \""max_stack_depth\"" (currently 2048kB), after ensuring the platform's stack depth limit is adequate."") }), transient: false })
+
+This means that the usage of memory exceeds the database configuration for a specific query.
+
+I ran this SQL command on my database and found this value:
+
+    SHOW max_stack_depth;
+    ---
+    2MB
+
+I had a query that was returning 1900+ records to aggregate some values.
+
+For each record I have to recalculate the sum of certain values.
+
+When this happens you have two options:
+
+* increase the `max_stack_depth` value in your database
+* refactor the logic in the code to avoid to run that big query
+* optimize the query
+
+I tried to increase `max_stack_depth` because it was the quickest solution (not the best one), but my database is hosted on DigitalOcean and I didn’t have the permissions to run the `ALTER` command:
+
+    ALTER SYSTEM SET max_stack_depth = '4MB';
+    ---
+    permission denied to set parameter ""max_stack_depth""
+
+(I contacted DigitalOcean via a support ticket and they promptly provided a solution, I can alter the value using their web API).
+
+Then, I started to analyze the problem.
+
+The first thing I tried was to run the same query as plain SQL against the database using [pgAdmin](https://www.pgadmin.org/), and it perfectly worked.
+
+This was suspicious, it means that probably Prisma was executing a query too complex and expensive.
+
+Then, I refactored the code, using the Prisma method `$queryRaw` to run the same query, and it worked!
+
+At this point, I didn’t want to manually define all the type for the values returned by the query, and I thought of using a new cool feature of Prisma called [TypedSQL](https://www.prisma.io/docs/orm/prisma-client/using-raw-sql/typedsql).
+
+This way I can run a Raw Query against the database with the types automatically generated by Prisma for me.
+
+So, in the end, I refactored to code, and avoided to increase the value `max_stack_depth` that would have increased the memory consumption in general.
+
+**Conclusion**
+
+I hope that this post was useful, and it avoids you from spending hours on troubleshooting these kind of errors with Prisma.
+
+Overall my experience with the tool has been very good and exciting, and I see how they are releasing new versions, features, and improvements.
+
+You can find the [documentation of Prisma at this link](https://www.prisma.io/docs).
+
+As a side note, I’m not affiliated with Prisma in any way, I’m just a happy user of the product.
+
+Cheers",ikoichi2112,1h42er1,https://reddit.com/r/webdev/comments/1h42er1/how_i_solved_common_prisma_orm_errors/,https://www.reddit.com/r/webdev/comments/1h42er1/how_i_solved_common_prisma_orm_errors/,2024-12-01 12:39:11,4,1.0,4,0,1,0,0,False,False,True,False,False,,self,t3_1h42er1
+webdev,Monthly Getting Started / Web Dev Career Thread,"Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat posts on this topic. These types of posts will no longer be allowed in the main thread.
+
+Many of these questions are also addressed in the sub FAQ or may have been asked in [previous monthly career threads](/r/webdev/search?q=flair%3AMonthlyCareerThread&amp;restrict_sr=on&amp;sort=new&amp;t=all).
+
+Subs dedicated to these types of questions include [r/cscareerquestions](/r/cscareerquestions) for general and opened ended career questions and [r/learnprogramming](/r/learnprogramming) for early learning questions.
+
+A general recommendation of topics to learn to become industry ready include:
+
+- [HTML/CSS/JS Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial)
+- [Version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Automation](https://blog.logrocket.com/tools-and-modern-workflow-for-front-end-developers-505c7227e917/)
+- [Front End Frameworks (React/Vue/Etc)](https://www.freecodecamp.org/news/complete-guide-for-front-end-developers-javascript-frameworks-2019/)
+- [APIs and CRUD](https://www.freecodecamp.org/news/crud-operations-using-vanilla-javascript-cd6ee2feff67/)
+- [Testing (Unit and Integration)](https://raygun.com/blog/javascript-unit-testing-frameworks/)
+- [Common Design Patterns](https://www.patterns.dev/)
+
+You will also need a portfolio of work with 4-5 personal projects you built, and a resume/CV to apply for work.
+
+Plan for 6-12 months of self study and project production for your portfolio before applying for work.",AutoModerator,1h41srz,https://reddit.com/r/webdev/comments/1h41srz/monthly_getting_started_web_dev_career_thread/,https://www.reddit.com/r/webdev/comments/1h41srz/monthly_getting_started_web_dev_career_thread/,2024-12-01 12:00:26,4,1.0,4,0,0,0,0,False,False,True,False,False,Monthly Career Thread,self,t3_1h41srz
+webdev,I’m working on an app for people suffering with chronic pain.,"Hi everyone,
+
+I’ve been working on an app called [Pain Coach](https://paincoach.online) for the past few months, with the help of a friend who is a Physiotherapist. 
+
+We began developing it as a tool that they would be able to use in their own practice, a way to give them more insight into what is causing their patients to have flare ups, and to give patients a way to understand what might be negatively impacting their pain.
+
+However we wanted to see if people would be interested in something like this as a publicly available app instead of doing business to business, so we put together a small demonstration and waiting list page. Im still an undergrad cs student and new to the field so any thoughts, advice, or criticisms would be really appreciated as Im sure there are things that can be improved!",zephdev,1h3tn8v,https://reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/,https://paincoach.online,2024-12-01 03:04:44,15,0.95,15,0,5,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/d9EODUzpbGeCrE3DqRCiHUTCPem_P_DF6ISuRZCyfdM.jpg,t3_1h3tn8v
+webdev,I created 12 free tools in 2 weeks - all completely browser based.,"Hi redditors,  
+I created a website where I'm creating free tools - all browser based to showcase my coding skills. The tech stack I used is next.js and cloudflare. These are the list of free tools:
+
+  
+\- Summarize text with AI  
+\- Cover letter with AI  
+\- Linkedin post generator  
+\- Instagram caption generator  
+\- Credit card generator  
+\- QR Code generator  
+\- Image to animated gif  
+\- Image to text  
+\- Convert colors  
+\- Image to base64  
+\- Invoice generators  
+\- Color palette generator
+
+You can access all the free tools here: [https://webaggr.com/free-tools](https://webaggr.com/free-tools)",eashish93,1h3hnza,https://reddit.com/r/webdev/comments/1h3hnza/i_created_12_free_tools_in_2_weeks_all_completely/,https://www.reddit.com/r/webdev/comments/1h3hnza/i_created_12_free_tools_in_2_weeks_all_completely/,2024-11-30 17:31:41,76,0.74,76,0,21,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3hnza
+webdev,Difference with remix-express-server and express server,"Hey guys,  
+Was curious about Remixjs since its starting to gain some traction  
+I have some questions(as a beginner in full stack frameworks)  
+
+- Remix has its own web server, how its different then your conventional express server
+- Can we use express server on top of remix , Not using its own remix-server
+- If you have used both of these approaches , which one will you prefer for your projects
+
+",Opposite_Squirrel_32,1h42j8f,https://reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/,https://www.reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/,2024-12-01 12:46:30,2,1.0,2,0,1,0,0,False,False,True,False,False,Question,self,t3_1h42j8f
+webdev,Which paid resources/courses were actually worth the money for you as a developer? ,"Could you share:
+
+1. Which **paid** resources (**courses/books/subscriptions**) have genuinely helped you grow as a developer and were worth every rupee?
+2. Which ones turned out to be a waste of money and you regret purchasing?
+
+Looking for honest reviews from your personal experience. This could help others make informed decisions too! Some points to consider while sharing:
+
+* Cost vs Value gained
+* How it impacted your learning/career
+* Whether you still use it
+* Would you recommend it to others
+
+*You can also mention any resources that have helped you in getting better in any aspect of life, like personal development etc if you wish to.*",saintandthesinner,1h3fhlg,https://reddit.com/r/webdev/comments/1h3fhlg/which_paid_resourcescourses_were_actually_worth/,https://www.reddit.com/r/webdev/comments/1h3fhlg/which_paid_resourcescourses_were_actually_worth/,2024-11-30 15:55:42,74,0.93,74,0,59,0,0,False,False,True,False,False,Discussion,self,t3_1h3fhlg
+webdev,How to have sub pages with unique URLs on my site?,"Sorry I'm not sure how to explain this in the title! I built my own site in Wordpress, but I'm a bit of a noob. I do quite a lot of different jobs - videography, editing, composition, sound design etc. I've had it all on one site, but I've had some people tell me they think I should have a separate site for Music and Sound Design as Agencies want a specialist, not someone who does everything, which makes sense
+
+So I currently have my main .co.uk site and I have .com with the same name redirecting to the .co.uk site.
+
+Are my only options for doing the above to buy a new domain and create a new website, or to have a page on my current site that doesn't link back to the main site or have a menu, but then people could just change the URL to get to my main site if they noticed
+
+Are there ways of doing this I'm missing, which don't involve buying new domains?
+
+thanks",fiftyfifteen,1h458no,https://reddit.com/r/webdev/comments/1h458no/how_to_have_sub_pages_with_unique_urls_on_my_site/,https://www.reddit.com/r/webdev/comments/1h458no/how_to_have_sub_pages_with_unique_urls_on_my_site/,2024-12-01 15:07:45,1,1.0,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1h458no
+webdev,Error 403 forbidden,"I am creating my own website, using the tutorial at [this link](https://sive.rs/ti). All went very smoothly, until recently. I purchased a domain name, got server space from Vultr, and created an SSH key. The problem started when I went through [step 6](https://sive.rs/ti#web1)  of the tutorial. I downloaded the files successfully, then used FreeFileSync to upload the htdocs folder to the server. I mirrored the /home/me/htdocs folder with the /var/www folder on the server side. I see the htdocs folder on the server side now, but when I go to my domain I get a 403 forbidden error. 
+
+I have been reading that permissions might be an issue. I tried chmod 755 /var/www while logged into my server in the terminal, but got this result. 
+
+    chmod: /var/www: Operation not permitted
+
+I know I am doing something elementary wrong, but I don't know what it is. Thanks in advance for your help!",bluepoodle7476,1h44nl4,https://reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/,https://www.reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/,2024-12-01 14:39:44,1,1.0,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1h44nl4
+webdev,Any tips/idea on how to built a Spinning Carousel ,"i am trying to built a spinning carousel for my project similar to this :  
+[https://www.pinterest.com/pin/234257618107500859/](https://www.pinterest.com/pin/234257618107500859/)  
+How can i built this , Can anyone have any insights to building this , whether is it by building it myself or any existing packages?   
+I really love the concept for this and would love to built one",Beasta07,1h40ilz,https://reddit.com/r/webdev/comments/1h40ilz/any_tipsidea_on_how_to_built_a_spinning_carousel/,https://www.reddit.com/r/webdev/comments/1h40ilz/any_tipsidea_on_how_to_built_a_spinning_carousel/,2024-12-01 10:30:22,2,1.0,2,0,6,0,0,False,False,True,False,False,Question,self,t3_1h40ilz
+webdev,How to make sure everything keeps going once you're gone?,"Hey!
+
+Few days ago I had a talk with my dad; He asked me what happens with all the things I host once I am gone.
+
+It's not a stupid question at all, I am young but anything can happen whether it's an accident or illness. I host several websites, a big app for a few companies and few other things which add up to a pretty big set. I have a VPS, and all the code is on my private github account. 
+
+How do you folks make sure that everything can keep going smoothly if something were to happen to you? In my case, I am a solo dev and I have nobody else to take care of all that - do you have a private document with instructions on how to access things? Do you just share your github credentials with somebody? Do you even thing about such things? ",Sziszhaq,1h40dzx,https://reddit.com/r/webdev/comments/1h40dzx/how_to_make_sure_everything_keeps_going_once/,https://www.reddit.com/r/webdev/comments/1h40dzx/how_to_make_sure_everything_keeps_going_once/,2024-12-01 10:21:06,3,0.71,3,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h40dzx

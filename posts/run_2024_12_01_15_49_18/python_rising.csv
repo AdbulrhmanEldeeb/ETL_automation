@@ -1,0 +1,196 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Project collaboration ,"Hi everyone, I have been creating and working on a few python projects for fun  i have one I'm working on and would love some people to join in and collaborate to make the project better. Many hands make light work and different inputs and ideas can make a project that much better.
+The GUI is built with ttkbootstrap pretty much a themed fork of tkinter.
+Would love to see some pull requests in the future and I'm excited to see where this project can go 
+I have created build scripts that basically fit for my environment as they generate RPM packages for installing on Fedora. I do have code in build scripts generate standalone binary files also if needed.
+
+Thanks, find the repo here: https://github.com/BradHeff/Arxis-Pentester",bradheff,1h44g99,https://reddit.com/r/Python/comments/1h44g99/project_collaboration/,https://www.reddit.com/r/Python/comments/1h44g99/project_collaboration/,2024-12-01 14:29:38,2,0.75,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h44g99
+Python,"Enhance Your Python Logging with Pretty Pie Log: Colorized, Structured, and Thread-Safe!","# What My Project Does:
+
+Pretty Pie Log is a feature-rich Python logging utility designed to improve the readability and usability of logs. It provides colorized output for easy distinction of log levels, supports structured logging with JSON, and offers thread-safe logging for multi-threaded applications. It can be customized with different colors, log formatting, timezone support, and file logging. It even tracks function execution and provides detailed stack traces for exceptions.
+
+# Target Audience:
+
+This package is intended for developers working on small—to medium-sized Python applications and those with multi-threaded components. It's ideal for debugging and tracking program behaviour in an organized and visually appealing way. Pretty Pie Log is lightweight enough for scripts but offers features robust enough for small applications or internal tools.
+
+# Comparison:
+
+There are several Python logging libraries available, such as `logging` and `loguru`. However, Pretty Pie Log stands out because of its:
+
+* **Colorized Output**: Making logs more readable at a glance.
+* **Thread-Safety**: A key feature that ensures reliability in multi-threaded environments.
+* **Function Execution Tracking**: Using decorators to log function entry, exit, and results automatically.
+* **Enhanced Data Handling**: It handles complex data types, including non-serializable objects, with automatic serialization to strings.
+
+Other logging libraries might lack one or more of these features, making Pretty Pie Log an ideal choice for developers looking for a lightweight but feature-packed solution.
+
+# Why You Should Try It:
+
+* **Customizable Formatting**: Adjust colors, log level widths, and padding to suit your preferences.
+* **Enhanced Log Details**: Handles non-serializable objects, ensuring all your log details are readable.
+* **File Logging**: Automatically rotates log files when they exceed size limits, keeping your disk space clean.
+* **Timezone Support**: Configure timestamps to match your local timezone.
+* **Stack Trace Integration**: Automatically includes full stack traces for exceptions.
+* **Function Execution Tracking**: Logs function entry, arguments, exit, and return values with a simple decorator.
+
+Check out the full documentation and code on GitHub:  
+[pretty-pie-log GitHub Repository](https://github.com/chanpreet3000/pretty-pie-log)",chanpreet3000,1h42kmi,https://reddit.com/r/Python/comments/1h42kmi/enhance_your_python_logging_with_pretty_pie_log/,https://www.reddit.com/r/Python/comments/1h42kmi/enhance_your_python_logging_with_pretty_pie_log/,2024-12-01 12:48:50,24,0.93,24,0,9,0,0,False,False,True,False,False,Showcase,self,t3_1h42kmi
+Python,Protocols vs Abstract Base Classes in Python,"Hi everyone. Last time I shared a post about [Interface programming using abs in Python](https://www.reddit.com/r/Python/comments/1h0rkmn/interface_programming_using_abs_in_python/), and it got a lot of positive feedback—thank you! 
+
+Several people mentioned protocols, so I wrote a new article exploring that topic. In it, I compare protocols with abstract base classes and share my thoughts and experiences with both. You can check it out here: [https://www.tk1s.com/python/protocols-vs-abstract-base-classes-in-python](https://www.tk1s.com/python/protocols-vs-abstract-base-classes-in-python) Hope you'll like it! Thanks!",tuple32,1h3rmn5,https://reddit.com/r/Python/comments/1h3rmn5/protocols_vs_abstract_base_classes_in_python/,https://www.reddit.com/r/Python/comments/1h3rmn5/protocols_vs_abstract_base_classes_in_python/,2024-12-01 01:17:41,91,0.97,91,0,24,0,0,False,False,True,False,False,Tutorial,self,t3_1h3rmn5
+Python,Big Tech Best Practices ,"I'm working at small startup, we are using FastAPI, SQLAlchemy, Pydantic, Postgres for backend  
+I was wondering what practices do people in FAANG  use when building production API  
+Code organization, tests structure, data factories, session managing, error handling, logging etc
+
+I found this repo [https://github.com/zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) and it gave me some insights but I want more
+
+Please share practices from your company if you think they worth to share",Key-Deer-8156,1h3jize,https://reddit.com/r/Python/comments/1h3jize/big_tech_best_practices/,https://www.reddit.com/r/Python/comments/1h3jize/big_tech_best_practices/,2024-11-30 18:56:04,106,0.96,106,0,32,0,0,False,False,True,False,False,Discussion,self,t3_1h3jize
+Python,Multi-Threading in Python and Free threaded Python 3.13,"Here is my article  [Multi-Threading in Python and Free threaded Python 3.13](https://nolowiz.com/multi-threading-in-python-and-free-threaded-python-3-13/) which discuss  multi threading in Python and some experiments on free threaded Python 3.13. 
+
+# ",simpleuserhere,1h3wd80,https://reddit.com/r/Python/comments/1h3wd80/multithreading_in_python_and_free_threaded_python/,https://www.reddit.com/r/Python/comments/1h3wd80/multithreading_in_python_and_free_threaded_python/,2024-12-01 05:39:36,9,0.63,9,0,8,0,0,False,False,True,False,False,Tutorial,self,t3_1h3wd80
+Python,Kitten Mixer: A Fun Tool to Combine Cat Images with AI,"Hello Python community,
+
+My name is Dylan, and I’m a data scientist. I recently developed a fun little project called [Kitten Mixer](https://mezclador-gatitos.streamlit.app/), and I’d love to share it with you and hear your feedback!
+
+# What My Project Does
+
+Kitten Mixer is a Python-based web app that uses Variational Autoencoders (VAEs) to generate smooth image interpolations of cats. By combining the power of AI with some adorable cat pictures, the app creates unique and visually fascinating blends between different cat images.
+
+# Key Features
+
+* **Image Interpolations:** Combine two cat images and explore their latent-space interpolations.
+* **Latent Space Exploration:** Visualize how the neural network represents cat images in a 2D latent space.
+* **Interactive Web App:** The app is built with Streamlit for an intuitive and easy-to-use interface.
+
+# Target Audience
+
+* **Who It’s For:** Python enthusiasts, AI hobbyists, and cat lovers looking for an entertaining and educational use of machine learning.
+* **Intended Use:** Great for learning about Variational Autoencoders, showcasing AI-generated content, or just having fun creating unique cat images.
+
+# How It Works
+
+1. The project uses a Variational Autoencoder (VAE) implemented in PyTorch to encode and decode cat images.
+2. By interpolating in the latent space of the VAE, the app generates smooth transitions between any two selected cat images.
+3. The app runs interactively on Streamlit, allowing users to upload images, select parameters, and visualize results in real time.
+
+*Important Note:* Don’t forget to press the ""English"" button on the Kitten Mixer web app and the GitHub repository README to view the content in English!
+
+# Links
+
+* **GitHub:** [Kitten Mixer Repository](https://github.com/dylannalex/mezclador_de_gatitos)
+* **Web App:** [Kitten Mixer](https://mezclador-gatitos.streamlit.app/)
+
+I’d love to get your thoughts on this project! If you find it interesting or fun, feel free to star the repository on GitHub. I’m also open to suggestions or contributions if anyone wants to collaborate.
+
+Thank you for your time, and I hope you enjoy experimenting with Kitten Mixer!",dylannalex01,1h43i92,https://reddit.com/r/Python/comments/1h43i92/kitten_mixer_a_fun_tool_to_combine_cat_images/,https://www.reddit.com/r/Python/comments/1h43i92/kitten_mixer_a_fun_tool_to_combine_cat_images/,2024-12-01 13:40:49,2,0.67,2,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h43i92
+Python,Advanced Python Development Workflow in Emacs,"Hey everyone!
+
+Lately, I’ve been spending more time reading code than writing it, but I still code every now and then, mostly in Python. My daily editor — for both coding and just about everything else — has been Emacs for several years now.
+
+Recently, I decided to dig into how the Language Server Protocol (LSP) and Debug Adapter Protocol (DAP) work in Emacs, how they can be integrated, and what minimal configuration is needed to get started. As I explored, I took notes for myself, and eventually, those notes turned into a blog post.
+
+It ended up being quite a long read, but I’m really happy with the result. The more I researched and wrote, the further I drifted from my original goal of creating a quick and minimal Emacs setup guide. I rewrote the introduction a few times before landing on something I felt good about, and now I’m ready to share it with you.
+
+The article isn’t perfect — there are still some rough edges and gaps I plan to address soon. For example:
+
+* I haven’t covered tree-sitter integration.
+* Navigation between code elements feels a bit underexplored.
+* Some parts are more superficial than I’d like.
+
+But it’s in a good enough state to share. If you’re curious and have the patience to read through, I’d love some constructive feedback. Let me know if there’s anything missing that you’d find helpful or if you catch any mistakes I might’ve made.
+
+Here’s the link to the article: [https://blog.serghei.pl/posts/emacs-python-ide/](https://blog.serghei.pl/posts/emacs-python-ide/)
+
+Thanks in advance for your time and thoughts!",i_serghei,1h45hl7,https://reddit.com/r/Python/comments/1h45hl7/advanced_python_development_workflow_in_emacs/,https://www.reddit.com/r/Python/comments/1h45hl7/advanced_python_development_workflow_in_emacs/,2024-12-01 15:19:10,1,1.0,1,0,0,0,0,False,False,True,False,False,Tutorial,self,t3_1h45hl7
+Python,"CntxtPY: Smarter Python Context Management for LLMs (Open Source, MIT)","No more burning through your LLM context window tokens trying to make it understand your codebase.
+
+* **What My Project Does**: Generates knowledge graphs to compress Python codebases, reducing token usage by up to 75% for better LLM performance.
+* **Target Audience**: Developers and teams integrating LLMs into workflows; ready for production and experimental use.
+* **Comparison**: Unlike generic tools, CntxtPY optimizes LLM context windows with tailored graphs, modern framework support, and dependency analysis.
+
+⭐ Try it out and leave a star: [CntxtPY on GitHub](https://github.com/brandondocusen/CntxtPY)  
+Why try **CntxtPY**?
+
+* 🧠 **75% Token Reductio**n: Compresses your code context without losing critical details.
+* 🔍 **Deep Codebase Analysi**s: Maps relationships, hierarchies, imports, and workflows.
+* 📊 **Knowledge Graph**s: Generates structured JSON and visual graphs of your codebase.
+* 🚀 **Optimized for LLM**s: Provides LLMs with focused, actionable insights for better recommendations.
+* 🎯 **Wide Compatibilit**y: Supports modern Python frameworks, decorators, and type hints.",jxjq,1h3x04k,https://reddit.com/r/Python/comments/1h3x04k/cntxtpy_smarter_python_context_management_for/,https://www.reddit.com/r/Python/comments/1h3x04k/cntxtpy_smarter_python_context_management_for/,2024-12-01 06:19:04,1,0.53,1,0,7,0,0,False,False,True,False,False,Showcase,self,t3_1h3x04k
+Python,"Package for Sharing/Editing Pandas Dataframes with Nontechnical Contributors
+","**1. What My Project Does**
+
+I created a python package that allows you to generate temporary shareable links to a web-editor for your pandas dataframe!
+
+Running df = pandaBear(df) will generate the free ngrok link from your token in the .env, prompt you for a gmail to authorize access, and then when the person you shared it with finishes editing using the web editor you will have the updated df.
+
+Feel free to check out the demos on [GitHub](https://github.com/RohanAdwankar/share-df)!
+
+**2. Target Audience**
+
+This is for the scenario where devs are collaborating with nontechnical contributors who want to make quick edits, and the devs want to save time by not having to export the df to a different file and import it again (and deal with whatever issues happen in this formatting and reformatting process).
+
+This is my first python package and it is in the early stages. If people are interested in it I would love to make upgrades to the UI and how it handles large dataframes so please don't hesitate to provide feedback and feature requests! 
+
+**3. Comparison**
+
+There are great, more mature tools like Streamlit for displaying dataframes, but as far as I know, this is the only tool oriented toward temporary sharing and editing.",ilikehikingalot,1h3prey,https://reddit.com/r/Python/comments/1h3prey/package_for_sharingediting_pandas_dataframes_with/,https://www.reddit.com/r/Python/comments/1h3prey/package_for_sharingediting_pandas_dataframes_with/,2024-11-30 23:46:03,5,0.7,5,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1h3prey
+Python,Sunday Daily Thread: What's everyone working on this week?,"# Weekly Thread: What's Everyone Working On This Week? 🛠️
+
+Hello /r/Python! It's time to share what you've been working on! Whether it's a work-in-progress, a completed masterpiece, or just a rough idea, let us know what you're up to!
+
+## How it Works:
+
+1. **Show &amp; Tell**: Share your current projects, completed works, or future ideas.
+2. **Discuss**: Get feedback, find collaborators, or just chat about your project.
+3. **Inspire**: Your project might inspire someone else, just as you might get inspired here.
+
+## Guidelines:
+
+* Feel free to include as many details as you'd like. Code snippets, screenshots, and links are all welcome.
+* Whether it's your job, your hobby, or your passion project, all Python-related work is welcome here.
+
+## Example Shares:
+
+1. **Machine Learning Model**: Working on a ML model to predict stock prices. Just cracked a 90% accuracy rate!
+2. **Web Scraping**: Built a script to scrape and analyze news articles. It's helped me understand media bias better.
+3. **Automation**: Automated my home lighting with Python and Raspberry Pi. My life has never been easier!
+
+Let's build and grow together! Share your journey and learn from others. Happy coding! 🌟",AutoModerator,1h3q203,https://reddit.com/r/Python/comments/1h3q203/sunday_daily_thread_whats_everyone_working_on/,https://www.reddit.com/r/Python/comments/1h3q203/sunday_daily_thread_whats_everyone_working_on/,2024-12-01 00:00:18,3,0.72,3,0,2,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h3q203
+Python,Python backend interview experience - Fresher ,"https://youtu.be/w3feD6wsDp4?si=hLvDvh4OvSQKf60I
+
+Hello all, I am a final year student who got multiple offers and I have decided to post my interview experiences on youtube. I have also recently attended amazon interview(which I ll be posting soon). I have shared my first interview experience video in the above youtube video. This interview was for Python backend developer role. You can check it out and let me know if I have to change anything from my upcoming videos",Sure_Cry3926,1h3uqhr,https://reddit.com/r/Python/comments/1h3uqhr/python_backend_interview_experience_fresher/,https://www.reddit.com/r/Python/comments/1h3uqhr/python_backend_interview_experience_fresher/,2024-12-01 04:04:52,1,0.55,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h3uqhr
+Python,Tech Events @ Europe,"In the repository [https://github.com/ortolanph/tech-events-europe](https://github.com/ortolanph/tech-events-europe) there is a listing of events for Europe for this year (I know that's only Portugal, but this is what I have done for now). If you want to contribute to next year's event, just follow the rules on the site.
+
+Thanks!",ortolanph,1h3bhgl,https://reddit.com/r/Python/comments/1h3bhgl/tech_events_europe/,https://www.reddit.com/r/Python/comments/1h3bhgl/tech_events_europe/,2024-11-30 12:23:50,9,0.8,9,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h3bhgl
+Python,"I hadn't used Python in a while, but I came back to it to make this CLI hash checking script","Here is a link to the project on GitHub (MIT License):
+
+https://github.com/Cyncrovee/CynVee-Hash-Checker_CLI
+
+## What My Project Does
+It's a simple CLI tool to output the hashes of files using multiple algorithms, which at the moment includes:
+
+- SHA1
+- SHA224
+- SHA256
+- SHA384
+- SHA512
+- SHA3\_224
+- SHA3\_256
+- SHA3\_384
+- SHA3\_512
+- MD5
+- BLAKE2b
+- BLAKE2s
+
+You simply run the main.py file (with optional arguments) and once you have selected the file you want to use, it will generate the hashes for said file with all the above algorithms (though the README has more detailed intructions).
+
+It's actually a sort of ""spin-off"" of another project I have in C#, which is a similar thing except with a GUI and less hashing algorithms (with some other differences). I started making it because I just wanted to test out a Neovim config I made, but now I think I may keep using it.
+
+## Target Audience
+Well to be honest I mostly made it for myself, but I think other people might get some leverage out of it if they need to hash files often. For example, if you're a distro hopper and need to verify lots of ISO files (I've been there lol-)
+
+## Comparison
+There are a few similar utilities like certUtil or the checksum package on Chocolatey, however they can be a bit tedious to use in my experience, usually because the commands can get quite long, and/or because it doesn't support the hashing algorithms I need. The downside is that the script can take quite a long time when hashing a large file, so it wouldn’t be the best choice if speed is a concern
+
+## End
+I hope you like it! Coming back to Python was nice, the syntax is great and most things just work really easily. Hopefully I can use it for another project soon :]",ever-ella77,1h3ntgy,https://reddit.com/r/Python/comments/1h3ntgy/i_hadnt_used_python_in_a_while_but_i_came_back_to/,https://www.reddit.com/r/Python/comments/1h3ntgy/i_hadnt_used_python_in_a_while_but_i_came_back_to/,2024-11-30 22:13:26,0,0.48,0,0,15,0,0,False,False,True,False,False,Showcase,self,t3_1h3ntgy
