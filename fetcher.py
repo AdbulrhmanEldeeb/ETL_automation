@@ -3,7 +3,6 @@ import requests
 import pandas as pd
 from tqdm import tqdm
 from processor import df_from_response
-from glob import glob
 
 def fetch_posts(headers, subreddits, tags, num_iter, limit, run_dir):
     os.makedirs(f'posts/{run_dir}', exist_ok=True)  # Ensure directory exists
