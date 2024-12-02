@@ -1,0 +1,32 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,"i picked up this old calculus book, the previous owner seemed to cherish it and also left me with some wisdom.",,Konundrum_Is_God,1h4bpox,https://reddit.com/r/math/comments/1h4bpox/i_picked_up_this_old_calculus_book_the_previous/,https://www.reddit.com/gallery/1h4bpox,2024-12-01 19:48:27,403,0.98,403,0,29,0,0,False,False,False,False,False,Image Post,,t3_1h4bpox
+math,Solution to the Moving Sofa Problem Claimed - Optimality of Gerver's Sofa,,areasofsimplex,1h4om4s,https://reddit.com/r/math/comments/1h4om4s/solution_to_the_moving_sofa_problem_claimed/,https://arxiv.org/abs/2411.19826,2024-12-02 06:19:39,126,0.99,126,0,20,0,0,False,False,False,False,False,,,t3_1h4om4s
+math,What are some famous proofs that contained (major but corrigible) technical errors when first published? ,I’m thinking of proofs that were strictly speaking incorrect but were subsequently “patched-up” and we still attribute the proof to the original author,Scepticalignorant,1h4bfnj,https://reddit.com/r/math/comments/1h4bfnj/what_are_some_famous_proofs_that_contained_major/,https://www.reddit.com/r/math/comments/1h4bfnj/what_are_some_famous_proofs_that_contained_major/,2024-12-01 19:36:52,91,0.96,91,0,37,0,0,False,False,True,False,False,,,t3_1h4bfnj
+math,How monstrously long papers are made?,"Following the steps of a recent discussion in the community, I have read a Wiki page on the Feit–Thompson theorem. There I found the following:
+
+*The final paper is 255 pages long. &lt;...&gt;*
+
+*Perhaps the most revolutionary aspect of the proof was its length: before the Feit–Thompson paper, few arguments in group theory were more than a few pages long and most could be read in a day. Once group theorists realized that such long arguments could work, a series of papers that were several hundred pages long started to appear. Some of these dwarfed even the Feit–Thompson paper; the paper by Michael Aschbacher and Stephen D. Smith on quasithin groups was 1,221 pages long.*
+
+How do authors come up with such long proofs? I don't believe there are brilliant insights every few pages. If there were, these gigantic papers would be valued as high as FLT proof, but they are not. I imagine there should be some machinery that produces arguments more or less mechanically, but still,  these arguments are not so standard that they could be just omitted from the paper.
+
+But that's just my guess. If it is true, what does this machinery look like? If it is not, how are behemoth-long proofs actually made?
+
+",DrBiven,1h4v9yx,https://reddit.com/r/math/comments/1h4v9yx/how_monstrously_long_papers_are_made/,https://www.reddit.com/r/math/comments/1h4v9yx/how_monstrously_long_papers_are_made/,2024-12-02 13:45:03,65,0.98,65,0,20,0,0,False,False,True,False,False,,,t3_1h4v9yx
+math,Does your mood crash in the days after an exam or assignment?,Been noticing this. I guess a lot of dopamine is rolling round in the build up and I just feel kind of lost the days after. Wonder if anyone has similar experiences and how you deal with it.,lipguy123,1h4qlro,https://reddit.com/r/math/comments/1h4qlro/does_your_mood_crash_in_the_days_after_an_exam_or/,https://www.reddit.com/r/math/comments/1h4qlro/does_your_mood_crash_in_the_days_after_an_exam_or/,2024-12-02 08:41:28,37,0.95,37,0,11,0,0,False,False,True,False,False,,,t3_1h4qlro
+math,Names for two desired properties of classifcation schemes?,"Hello! Forgive the improper terminology. 
+
+If you are coming up with a system of classifying some set of things, you want the system to be: 
+
+1. Complete, meaning every item in the set falls into one class or category, i.e., there are no items that cannot fit into some category or another, and 
+
+2. Unambiguous, meaning every item falls into one and only one category; no item could be said to fit into more than one category. 
+
+I'm pretty sure there are actual mathematical terms for those two properties, but I don't know what they are. Any wisdom or me? 
+
+Incidentally, I'm sure this issue comes up in about a billion different settings, like library science, cladistics, law and legal statutes, etc. 
+
+Thanks! ",KokoTheTalkingApe,1h4eqr3,https://reddit.com/r/math/comments/1h4eqr3/names_for_two_desired_properties_of_classifcation/,https://www.reddit.com/r/math/comments/1h4eqr3/names_for_two_desired_properties_of_classifcation/,2024-12-01 21:57:29,13,0.88,13,0,17,0,0,False,False,True,False,False,,,t3_1h4eqr3
+math,Number I just thought of,"sorry if this is dumb but I just thought of a cool number let me try to explain:
+
+basically you know that graham's number = g64 right? Well do g(Graham's number), elevate it to the power of googolplex! (factorial), repeat the power a graham's number amount of times that's it",F9klco,1h4tcgx,https://reddit.com/r/math/comments/1h4tcgx/number_i_just_thought_of/,https://www.reddit.com/r/math/comments/1h4tcgx/number_i_just_thought_of/,2024-12-02 11:58:49,0,0.2,0,0,3,0,0,False,False,True,False,False,,,t3_1h4tcgx

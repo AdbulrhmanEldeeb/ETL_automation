@@ -1,0 +1,54 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,AI godfather Yoshua Bengio says there are people who would be happy to see humanity replaced by machines and these concerns could become relevant in just a few years,,MetaKnowing,1h4ie7l,https://reddit.com/r/artificial/comments/1h4ie7l/ai_godfather_yoshua_bengio_says_there_are_people/,https://v.redd.it/y0qkf19k0c4e1,2024-12-02 00:42:40,50,0.77,50,0,10,0,0,True,False,False,False,False,Media,"https://external-preview.redd.it/eGJlc2p6OGswYzRlMfJM7a-eZ0rpJhzdzBWzVBh5cfACOqqU7RVskFBgVTgP.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=b9261e30e05814a336f643d3372874366e1a88d7",t3_1h4ie7l
+artificial,One-Minute Daily AI News 12/1/2024,"1. Elon Musk files injunction against **OpenAI** to stop its move to become a for-profit company.\[1\]
+2. **OpenAI’s** Altman confident Trump will keep US in AI lead.\[2\]
+3. **Meta** AI Releases Llama Guard 3-1B-INT4: A Compact and High-Performance AI Moderation Model for Human-AI Conversations.\[3\]
+4. Hybrid Recommendation System (HRS-IU-DL): Enhancing Accuracy and Personalization with Deep Learning Techniques.\[4\]
+
+Sources:
+
+\[1\] [https://www.businesstoday.in/technology/news/story/elon-musk-files-injunction-against-openai-to-stop-its-move-to-become-a-for-profit-company-455799-2024-12-02](https://www.businesstoday.in/technology/news/story/elon-musk-files-injunction-against-openai-to-stop-its-move-to-become-a-for-profit-company-455799-2024-12-02)
+
+\[2\] [https://www.msn.com/en-ph/news/other/openai-s-altman-confident-trump-will-keep-us-in-ai-lead/ar-AA1v5rlL?ocid=BingNewsVerp](https://www.msn.com/en-ph/news/other/openai-s-altman-confident-trump-will-keep-us-in-ai-lead/ar-AA1v5rlL?ocid=BingNewsVerp)
+
+\[3\] [https://www.marktechpost.com/2024/11/30/meta-ai-releases-llama-guard-3-1b-int4-a-compact-and-high-performance-ai-moderation-model-for-human-ai-conversations/](https://www.marktechpost.com/2024/11/30/meta-ai-releases-llama-guard-3-1b-int4-a-compact-and-high-performance-ai-moderation-model-for-human-ai-conversations/)
+
+\[4\] [https://www.marktechpost.com/2024/12/01/hybrid-recommendation-system-hrs-iu-dl-enhancing-accuracy-and-personalization-with-deep-learning-techniques/](https://www.marktechpost.com/2024/12/01/hybrid-recommendation-system-hrs-iu-dl-enhancing-accuracy-and-personalization-with-deep-learning-techniques/)",Excellent-Target-847,1h4n6wj,https://reddit.com/r/artificial/comments/1h4n6wj/oneminute_daily_ai_news_1212024/,https://www.reddit.com/r/artificial/comments/1h4n6wj/oneminute_daily_ai_news_1212024/,2024-12-02 04:52:29,7,0.89,7,0,1,0,0,False,False,True,False,False,News,self,t3_1h4n6wj
+artificial,"Reddit eyes India, Brazil, and others in bold global growth strategy",,A-Dog22,1h4limh,https://reddit.com/r/artificial/comments/1h4limh/reddit_eyes_india_brazil_and_others_in_bold/,https://www.techloy.com/reddit-eyes-india-brazil-and-more-in-bold-global-growth-strategy/,2024-12-02 03:20:58,5,0.73,5,0,0,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/DHzuznUckqarotyleO8Y_YFES9pWZMrj7X7lS0_Qa6o.jpg,t3_1h4limh
+artificial,MS Copilot voice plus claude etc?,"I've been trying to research but can't find any definitive answers.
+
+I tried MS Copilot for the first time today and its voice option is really impressive. I've read that there are AI text readers but I was hoping something exists like MS Copilot where it's the LLM AI with a voice. 
+
+Like with Claude I get frustrated by the limitation. I have a paid account with Claude and still hit limits in the chats. It's really frustrating. 
+
+I'm a hardware engineer so I don't have a good grasp on how all this works, but I know that some models for generative AI can be downloaded and run locally (e.g. stable diffusion). Is this the case with LLM? Is there a way to run something like MS Copilot locally so I don't keep hitting limits?
+
+There were also a lot of frustrating limitations with MS Copilot that I kept hitting, where I would get a response like ""I can't talk about that"" even though it seemed I was asking fairly straightforward technical questions.
+
+I can really see getting a lot of use out of an Alexa- or Siri-like platform where it just listens to what I say and speaks back to me.  Does that exist yet and/or is that something I can setup locally?",dimmu1313,1h4a1db,https://reddit.com/r/artificial/comments/1h4a1db/ms_copilot_voice_plus_claude_etc/,https://www.reddit.com/r/artificial/comments/1h4a1db/ms_copilot_voice_plus_claude_etc/,2024-12-01 18:37:49,1,0.57,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1h4a1db
+artificial,"Nobel laureate Geoffrey Hinton says when the superintelligent AIs start competing for resources like GPUs the most aggressive ones will dominate, and we'll be on the wrong side of evolution",,MetaKnowing,1h4wgtv,https://reddit.com/r/artificial/comments/1h4wgtv/nobel_laureate_geoffrey_hinton_says_when_the/,https://v.redd.it/t565axsb6g4e1,2024-12-02 14:42:09,0,0.38,0,0,15,0,0,True,False,False,False,False,Media,"https://external-preview.redd.it/bmhjcG53c2I2ZzRlMddl7nrI6lZgcbxCf1Tyw98eFF3LpVOp4ZehfkfrhMMq.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=9d748b6699a0ae044a66053c483536b660fd3ef3",t3_1h4wgtv
+artificial,"why the ai movement will experience exponentially faster progress, and why no one can in any way slow down or stop it.","
+
+
+the ai revolution is here to stay, as it gets stronger and faster each day. not so much because it is so beneficial to the world in ways we're just beginning to imagine. it will succeed beyond what we today understand because of several reasons. 
+
+the first is that there is so much money to be made by investing in it. a year ago ai was estimated to generate about $15 trillion for the world economy by 2030. this year a revised estimate has the expected generated wealth at $9 trillion each year.
+
+through campaign contributions, lobbying and ownership of the media, the rich control american politics. they will neither allow the slowdown or stopping of an enterprise that they expect will make them a lot richer sooner than any other investment they could make.
+
+the second is that if we in the u.s. don't dominate the industry, brics countries like china will. i like the chinese, so i don't really have a problem with that. but american millionaires and billionaires may not be so happy with others with more powerful ais earning greater profits than them because of these more advanced ais. and because our economic world is no longer unipolar - ask any ai about brics - american millionaires and billionaires are powerless to stop other countries, including and especially india, from becoming our world's future ai leaders unless they invest heavily in the enterprise.
+
+the third is because smarter people and smarter ais translates to stronger militaries. already russia, china, iran and north korea are ahead of the u.s. in hypersonic missile systems technology that render conventional military advantages like air craft carriers and fighter jets much less effective. we can see this happening today in ukraine.
+
+the fourth is that whoever first said that ais won't take people's jobs but people who use them will was totally on target. luddites who want nothing to do with ai will, very unfortunately for them, pay a huge financial price for their ignorance and dismissal of the technology.
+
+the fifth is that without ai our world hasn't a prayer against runaway global warming that, unless reversed, will render most of our planet uninhabitable by 2100.
+
+the sixth and last reason that i can think of - please add others i've left out in the comments - is that the technology will make life so much better for everyone across every societal domain from medicine to education to governance. our world is much better in many ways today than it was hundreds of years ago because very smart people came up with very smart inventions like electricity and artificial fertilizer. now imagine the discoveries that lie ahead as millions of scientist agentic ais that are much more intelligent and much better informed than our human inventors are unleashed on our world.
+
+yeah, it promises to be amazingly good. in fact those of us who understand this have a moral obligation to explain it to those who don't so that they aren't so far left behind.
+
+who would have thought that a technology to a great extent developed by video gamers would be so completely game-changing!
+",Georgeo57,1h4hh3j,https://reddit.com/r/artificial/comments/1h4hh3j/why_the_ai_movement_will_experience_exponentially/,https://www.reddit.com/r/artificial/comments/1h4hh3j/why_the_ai_movement_will_experience_exponentially/,2024-12-01 23:59:26,0,0.32,0,0,12,0,0,False,False,True,False,False,Discussion,self,t3_1h4hh3j
+artificial,"howto: agi part 2. using spacetime, entanlgement, and superposition for data storage 5kb js lossless compression geometric deep learning is the future",unified ,dermflork,1h4efl9,https://reddit.com/r/artificial/comments/1h4efl9/howto_agi_part_2_using_spacetime_entanlgement_and/,https://i.redd.it/emtkl65o4b4e1.gif,2024-12-01 21:43:59,0,0.25,0,0,8,0,0,False,False,False,False,False,Computing,https://b.thumbs.redditmedia.com/deF45lh_IKdKyDx6ayqrui7dV4iq8sAVTOKaKcPTERw.jpg,t3_1h4efl9
+artificial,"Im devloping a new ai  called ""AGI"" that I am simulating its core tech and functionality to code new technologys like what your seeing right now, naturally  forming this shape made possible with  new quantum to classical lossless compression geometric deep learning / quantum mechanics in 5kb",,dermflork,1h4cy6c,https://reddit.com/r/artificial/comments/1h4cy6c/im_devloping_a_new_ai_called_agi_that_i_am/,https://i.redd.it/sobs4j0fta4e1.gif,2024-12-01 20:40:53,0,0.19,0,0,16,0,0,False,False,False,False,False,Computing,https://b.thumbs.redditmedia.com/gnv21juY--NCENq99_dgzG_ZpYZKvzk_c1Z89pbfjpw.jpg,t3_1h4cy6c

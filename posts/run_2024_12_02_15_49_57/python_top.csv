@@ -1,0 +1,273 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Advent of Code 2024!,"# Join the Advent of Code Challenge with Python!
+
+Hey Pythonistas! 🐍
+
+It's almost that exciting time of the year again! The [Advent of Code](https://adventofcode.com/2024) is just around the corner, and we're inviting everyone to join in the fun!
+
+## What is Advent of Code?
+
+Advent of Code is an annual online event that runs from December 1st to December 25th. Each day, a new coding challenge is released—two puzzles that are part of a continuing story. It's a fantastic way to improve your coding skills and get into the holiday spirit!
+
+You can read more about it [here](https://adventofcode.com/2024/about).
+
+## Why Python?
+
+Python is a great choice for these challenges due to its readability and wide range of libraries. Whether you're a beginner or an experienced coder, Python makes solving these puzzles both fun and educational.
+
+## How to Participate?
+
+1. [**Sign Up/In**](https://adventofcode.com/2024/auth/login)**.**
+2. Join the r/Python private leaderboard with code `2186960-67024e32`
+3. Start solving the puzzles released each day using ***Python.***
+4. **Share your solutions and discuss strategies with the community.**
+
+## Join the r/Python Leaderboard!
+
+We can have up to 200 people in a private leaderboard, so this may go over poorly - but you can join us with the following code: `2186960-67024e32`
+
+## How to Share Your Solutions?
+
+You can join the [Python Discord](https://discord.gg/python) to discuss the challenges, share your solutions, or you can post in the r/AdventOfCode mega-thread for solutions.
+
+There will be a stickied post for each day's challenge. Please follow their subreddit-specific rules. Also, shroud your solutions in spoiler tags &gt;!like this!&lt;
+
+## Resources
+
+## Community
+
+* [Python official Documentation](https://docs.python.org) for Python documentation.
+* [r/LearnPython](https://www.reddit.com/r/learnpython/) for Python learning resources and discussions.
+* [Python Discord](https://discord.gg/python) for Python discussions and help.
+
+## AoC
+
+* [2024 Leaderboard](https://adventofcode.com/2024/leaderboard)
+* [AoC++](https://adventofcode.com/2024/support) to support the project
+* [AoC Subreddit](https://www.reddit.com/r/adventofcode/) for general discussions
+* [AoC Shop](https://advent-of-code.creator-spring.com/) for merch
+
+## Python Discord
+
+The [Python Discord](https://discord.gg/python) will also be participating in this year's Advent of Code. Join it to discuss the challenges, share your solutions, and meet other *Pythonistas*. You will also find they've set up a Discord bot for joining in the fun by linking your AoC account.Check out their [Advent of Code FAQ channel](https://discord.com/channels/267624335836053506/1047672643584786442).
+
+Let's code, share, and celebrate this festive season with Python and the global coding community! 🌟
+
+Happy coding! 🎄
+
+P.S. - Any issues in this thread? Send us a modmail.",xelf,1h47nhs,https://reddit.com/r/Python/comments/1h47nhs/advent_of_code_2024/,https://www.reddit.com/r/Python/comments/1h47nhs/advent_of_code_2024/,2024-12-01 16:56:30,81,0.97,81,0,3,0,0,False,False,True,False,False,:pythonLogo: Official Event,self,t3_1h47nhs
+Python,Best PDF library for extracting text from structured templates,"Hello All, 
+
+I am currently working on a project where I have to extract data from around 8 different structured templates which together spans 12 Million + pages across 10K PDF Documents. 
+
+I am using a mix of Regular Expression and bounding box approach where by 4 of these templates are regular expression friendly and for the rest I am using bounding box to extract the data. On testing the extraction works very well. There are no images or tables, but simple labels and values.
+
+The library that I am currently using is PDF Plumber for data extraction and PyPDF for splitting the documents in small chunks for better memory utilization(PDF Plumber sometimes throws an error when the page count goes above 4000 pages, hence splitting them into smaller chunks temporarily). However this approach is taking 5 seconds per page which is a bit too much considering that I have to process 12M pages. 
+
+I did take a look at the different other libraries mentioned in the below link but I am not sure which one to choose as I would love to work with an open source library that is having a good maintenance history and better performance .   
+[https://github.com/py-pdf/benchmarks?tab=readme-ov-file](https://github.com/py-pdf/benchmarks?tab=readme-ov-file)
+
+Request your suggestions . Thanks in advance !",WarmAd3569,1h4pqqh,https://reddit.com/r/Python/comments/1h4pqqh/best_pdf_library_for_extracting_text_from/,https://www.reddit.com/r/Python/comments/1h4pqqh/best_pdf_library_for_extracting_text_from/,2024-12-02 07:36:35,21,0.86,21,0,16,0,0,False,False,True,False,False,Discussion,self,t3_1h4pqqh
+Python,I made a Python Script that Shows up current playing song lyrics synced as discord activity.,"demo : [https://imgur.com/a/guIH7fM](https://imgur.com/a/guIH7fM)
+
+hey , its my first time posting here.
+
+i got this idea few days ago , i wanted to show the lyrics as status in my discord. so i made it happen!
+
+# What My Project Does:
+
+it tracks your current playing song using spotify api and fetch the lyrics and apply it to rpc.
+
+its really easy to use i hope u enjoy it!
+
+# Target Audience:
+
+anyone who uses discord and wants a nice RPC.
+
+# Comparison:
+
+i couldn't find anything like this in my search so i dont know if there is something similar.
+
+let me know if there is something i can do to make it better!
+
+[https://github.com/iiDriisTN/lyrics-rpc](https://github.com/iiDriisTN/lyrics-rpc)",iiDris_TN,1h48722,https://reddit.com/r/Python/comments/1h48722/i_made_a_python_script_that_shows_up_current/,https://www.reddit.com/r/Python/comments/1h48722/i_made_a_python_script_that_shows_up_current/,2024-12-01 17:19:52,15,0.86,15,0,3,0,0,False,False,True,False,False,Showcase,self,t3_1h48722
+Python,ComputeLite - A true serverless tool,"What My Project Does:
+
+ComputeLite is a true serverless tool that leverages the power of WebAssembly (WASM) and SQLite OPFS to ensure that all data and code remain securely in the browser, with no server dependencies or external storage. Right now it supports Python (powered by Pyodide) and SQL( powered by SQLITE)
+
+So you can write all your python code and use Pyodide supported or pure python packages right away in browser without any need to install anything.
+
+Target Audience:
+
+Students, Developers, Could be used for scripting
+
+Comparison:
+
+It can be compared with PyScript but user can create different models which could include scripts with relative imports and packages listed in requirements.txt file
+
+Link: https://computelite.com/
+
+GitHub: https://github.com/computelite/computelite
+
+",airen977,1h4spi7,https://reddit.com/r/Python/comments/1h4spi7/computelite_a_true_serverless_tool/,https://www.reddit.com/r/Python/comments/1h4spi7/computelite_a_true_serverless_tool/,2024-12-02 11:17:20,12,0.8,12,0,4,0,0,False,False,True,False,False,Showcase,self,t3_1h4spi7
+Python,Advanced Python Development Workflow in Emacs,"Hey everyone!
+
+Lately, I’ve been spending more time reading code than writing it, but I still code every now and then, mostly in Python. My daily editor — for both coding and just about everything else — has been Emacs for several years now.
+
+Recently, I decided to dig into how the Language Server Protocol (LSP) and Debug Adapter Protocol (DAP) work in Emacs, how they can be integrated, and what minimal configuration is needed to get started. As I explored, I took notes for myself, and eventually, those notes turned into a blog post.
+
+It ended up being quite a long read, but I’m really happy with the result. The more I researched and wrote, the further I drifted from my original goal of creating a quick and minimal Emacs setup guide. I rewrote the introduction a few times before landing on something I felt good about, and now I’m ready to share it with you.
+
+The article isn’t perfect — there are still some rough edges and gaps I plan to address soon. For example:
+
+* I haven’t covered tree-sitter integration.
+* Navigation between code elements feels a bit underexplored.
+* Some parts are more superficial than I’d like.
+
+But it’s in a good enough state to share. If you’re curious and have the patience to read through, I’d love some constructive feedback. Let me know if there’s anything missing that you’d find helpful or if you catch any mistakes I might’ve made.
+
+Here’s the link to the article: [https://blog.serghei.pl/posts/emacs-python-ide/](https://blog.serghei.pl/posts/emacs-python-ide/)
+
+Thanks in advance for your time and thoughts!",i_serghei,1h45hl7,https://reddit.com/r/Python/comments/1h45hl7/advanced_python_development_workflow_in_emacs/,https://www.reddit.com/r/Python/comments/1h45hl7/advanced_python_development_workflow_in_emacs/,2024-12-01 15:19:10,10,0.78,10,0,0,0,0,False,False,True,False,False,Tutorial,self,t3_1h45hl7
+Python,"kanban-tui , customizable cross platform kanban/task manager in your terminal","* **What My Project Does**
+
+Kanban-Tui is a CLI tool that gives you a visual board with moveable tasks in the terminal.
+
+With the newest release v0.4.0, you can create multiple boards with individual columns.
+More Customization like creating task categories for tasks or change the column visibility is also possible.
+It also utilizes plotext to give you an overview about several metrics (created/completed/started tasks). 
+
+
+For a quick demo you can use uvx to create a temporary database and config files with: `uvx --from kanban-tui ktui demo`
+They get deleted after you close the application. For detailed instructions and features you can check the Readme on github.
+
+Source Code on github: [Link](https://github.com/Zaloog/kanban-tui)
+
+
+* **Target Audience** 
+
+Terminal affine developers who do not want to miss a nice graphical experience.
+
+* **Comparison** 
+
+Its similar to kanban-python, which I created before before this project but less minimal and the interaction with the tasks is faster more convenient.
+I.e with the TUI one is able to utilize vim-like motions to move cards around, which comes closer to the feeling of actually moving physical cards. 
+
+
+
+If you find bugs or are missing a feature, please dont hesitate to open an [issue](https://github.com/Zaloog/kanban-tui/issues).",Zaloog1337,1h4aagg,https://reddit.com/r/Python/comments/1h4aagg/kanbantui_customizable_cross_platform_kanbantask/,https://www.reddit.com/r/Python/comments/1h4aagg/kanbantui_customizable_cross_platform_kanbantask/,2024-12-01 18:48:34,8,0.9,8,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h4aagg
+Python,Monday Daily Thread: Project ideas!,"# Weekly Thread: Project Ideas 💡
+
+Welcome to our weekly Project Ideas thread! Whether you're a newbie looking for a first project or an expert seeking a new challenge, this is the place for you.
+
+## How it Works:
+
+1. **Suggest a Project**: Comment your project idea—be it beginner-friendly or advanced.
+2. **Build &amp; Share**: If you complete a project, reply to the original comment, share your experience, and attach your source code.
+3. **Explore**: Looking for ideas? Check out Al Sweigart's [""The Big Book of Small Python Projects""](https://www.amazon.com/Big-Book-Small-Python-Programming/dp/1718501242) for inspiration.
+
+## Guidelines:
+
+* Clearly state the difficulty level.
+* Provide a brief description and, if possible, outline the tech stack.
+* Feel free to link to tutorials or resources that might help.
+
+# Example Submissions:
+
+## Project Idea: Chatbot
+
+**Difficulty**: Intermediate
+
+**Tech Stack**: Python, NLP, Flask/FastAPI/Litestar 
+
+**Description**: Create a chatbot that can answer FAQs for a website.
+
+**Resources**: [Building a Chatbot with Python](https://www.youtube.com/watch?v=a37BL0stIuM)
+
+# Project Idea: Weather Dashboard
+
+**Difficulty**: Beginner
+
+**Tech Stack**: HTML, CSS, JavaScript, API
+
+**Description**: Build a dashboard that displays real-time weather information using a weather API.
+
+**Resources**: [Weather API Tutorial](https://www.youtube.com/watch?v=9P5MY_2i7K8)
+
+## Project Idea: File Organizer
+
+**Difficulty**: Beginner
+
+**Tech Stack**: Python, File I/O
+
+**Description**: Create a script that organizes files in a directory into sub-folders based on file type.
+
+**Resources**: [Automate the Boring Stuff: Organizing Files](https://automatetheboringstuff.com/2e/chapter9/)
+
+Let's help each other grow. Happy coding! 🌟",AutoModerator,1h4hhn4,https://reddit.com/r/Python/comments/1h4hhn4/monday_daily_thread_project_ideas/,https://www.reddit.com/r/Python/comments/1h4hhn4/monday_daily_thread_project_ideas/,2024-12-02 00:00:08,5,0.86,5,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h4hhn4
+Python,"Goodbye Make and Shell, Hello... Python?","I wrote an post documenting a [transition from typical build project tooling using Make and bash scripts, to a Python system](https://trstringer.com/python-build-tooling/). Lots of lessons learned, but it was a very enlightening exercise!",chillysurfer,1h4wvzy,https://reddit.com/r/Python/comments/1h4wvzy/goodbye_make_and_shell_hello_python/,https://www.reddit.com/r/Python/comments/1h4wvzy/goodbye_make_and_shell_hello_python/,2024-12-02 15:01:18,1,0.67,1,0,4,0,0,False,False,True,False,False,News,self,t3_1h4wvzy
+Python,Optimization-Based Rule Learning for Scalable and Interpretable Classification,"RuleOpt is a Python library that uses optimization-based rule learning for classification tasks, focusing on scalability and model interpretability. It helps practitioners generate transparent, rule-based models, even for large datasets, using linear programming. RuleOpt is designed to integrate smoothly with machine learning pipelines and is especially powerful for extracting rules from ensemble models like random forests and boosting algorithms.
+
+An earlier version of this work is available in [our manuscript](https://arxiv.org/abs/2104.10751).
+
+
+**What RuleOpt Does:**
+
+- **Efficient Rule Generation and Extraction:** Uses linear programming to generate rules both as a stand-alone machine learning method and for extracting rules from trained models like random forests and boosting algorithms (XGBoost, LightGBM).
+- **Interpretability:** Focuses on achieving a balance between rule accuracy and transparency, allowing for clear decision-making.
+- **Model Integration:** Seamlessly integrates with popular Python libraries such as scikit-learn, XGBoost, and LightGBM for smooth model development and rule extraction.
+- **Extensive Solver Support:** Works with a range of solvers, including Gurobi, CPLEX, and OR-Tools, to optimize rule learning tasks.
+
+**Target Audience:**
+This library is ideal for:
+
+- Data scientists and machine learning engineers who need transparent models.
+- Researchers who are exploring rule-based classification systems.
+- ML practitioners working with large datasets who seek interpretable, scalable models for decision-making.
+
+**Comparison to Existing Alternatives:**
+Here’s how RuleOpt stands out:
+
+- **Versus Other Rule Learning Methods:** RuleOpt leverages the power of optimization and linear programming for scalable rule generation, offering higher efficiency for large-scale datasets compared to traditional rule induction methods.
+- **Versus SHAP and LIME:** While SHAP and LIME focus on explaining model predictions, RuleOpt goes a step further by extracting clear, interpretable rules that can be used directly for decision-making and model transparency.
+
+**Key Features:**
+
+- **Scalable Rule Learning:** Efficiently handles large datasets and complex models through linear programming.
+- **Transparent Models:** Provides human-readable rules, ensuring high interpretability.
+- **Integration with ML Libraries:** Works smoothly with scikit-learn, XGBoost, LightGBM, and other machine learning frameworks.
+- **Solver Flexibility:** Supports multiple solvers (Gurobi, CPLEX, OR-Tools) for enhanced performance.
+
+**Algorithm &amp; Performance:**
+The RuleOpt algorithm focuses on formulating rule extraction as an optimization problem using linear programming. It has been tested on large-scale classification problems and demonstrated scalability and interpretability, even in the case of ensemble models.
+
+
+**Quick Start:**
+Install RuleOpt via pip:
+
+```bash
+pip install ruleopt
+```
+
+For examples, detailed usage, and API details, check out the [documentation](https://ruleopt.readthedocs.io/).
+
+**GitHub Repository:**  
+[RuleOpt GitHub](https://github.com/sametcopur/ruleopt)
+
+We encourage feedback and contributions! While RuleOpt is a powerful tool, we are continuously working to refine its algorithm and improve usability.",zedeleyici3401,1h4tvzd,https://reddit.com/r/Python/comments/1h4tvzd/optimizationbased_rule_learning_for_scalable_and/,https://www.reddit.com/r/Python/comments/1h4tvzd/optimizationbased_rule_learning_for_scalable_and/,2024-12-02 12:30:55,2,0.63,2,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h4tvzd
+Python,Books for data science,"Hi,
+
+I’m writing up an essay about a python program I’ve made for an assessment, which looks at cleaning, reshaping and all that kind of stuff with pandas. 
+
+I’m trying to find some good references to back some stuff up, but would like some recommendations! 
+
+I already have:
+- Python For Data Analysis, McKinney
+- Python Cookbook, O’Reilly
+
+Do you have any others? I’m particularly looking for things that discuss:
+1. Best data formats (json, csv, etc)
+2. Cleaning for data analysis
+3. Applicable APIs for various analysis tasks
+
+Thanks in advance :) ",aspadora24,1h4s0xe,https://reddit.com/r/Python/comments/1h4s0xe/books_for_data_science/,https://www.reddit.com/r/Python/comments/1h4s0xe/books_for_data_science/,2024-12-02 10:29:13,0,0.45,0,0,1,0,0,False,False,True,False,False,Resource,self,t3_1h4s0xe

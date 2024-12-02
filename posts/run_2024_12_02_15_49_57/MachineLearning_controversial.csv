@@ -1,0 +1,223 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] Anthropic AI fellow/residents- any new grads/entry-level people accepted?,"Hello. Are entry-level or new grads accepted into the Anthropic fellowship or resident programs? Past people who were accepted, what was your CV and experience like?",geekgeek2019,1h4e0ah,https://reddit.com/r/MachineLearning/comments/1h4e0ah/d_anthropic_ai_fellowresidents_any_new/,https://www.reddit.com/r/MachineLearning/comments/1h4e0ah/d_anthropic_ai_fellowresidents_any_new/,2024-12-01 21:25:59,16,0.64,16,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1h4e0ah
+MachineLearning,[R] Simplified RNNs Achieve Transformer-Like Performance with Parallel Training and Reduced Parameters,"This paper systematically examines whether RNNs might have been sufficient for many NLP tasks that are now dominated by transformers. The researchers conduct controlled experiments comparing RNNs and transformers while keeping model size, training data, and other variables constant.
+
+Key technical points:
+- Tested both architectures on language modeling and seq2seq tasks using matched parameters (70M-1.5B)
+- Introduced ""RNN with Parallel Generation"" (RPG) allowing RNNs to generate tokens in parallel like transformers
+- Evaluated on standard benchmarks including WikiText-103 and WMT14 En-De translation
+- Analyzed representation capacity through probing tasks and attention pattern analysis
+
+Main results:
+- RNNs matched or outperformed similarly-sized transformers on WikiText-103 language modeling
+- Transformers showed 1-2 BLEU score advantage on translation tasks
+- RPG achieved 95% of transformer generation speed with minimal accuracy loss
+- RNNs showed stronger local context modeling while transformers excelled at long-range dependencies
+
+I think this work raises important questions about architecture choice in modern NLP. While transformers have become the default, RNNs may still be viable for many applications, especially those focused on local context. The parallel generation technique could make RNNs more practical for production deployment.
+
+I think the results suggest we should reconsider RNNs for specific use cases rather than assuming transformers are always optimal. The computational efficiency of RNNs could be particularly valuable for resource-constrained applications.
+
+TLDR: Comprehensive comparison shows RNNs can match transformers on some NLP tasks when controlling for model size and training. Introduces parallel generation technique for RNNs. Results suggest architecture choice should depend on specific application needs.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/were-rnns-all-we-needed). Paper [here](https://arxiv.org/abs/2410.01201)",Successful-Western27,1h4urpr,https://reddit.com/r/MachineLearning/comments/1h4urpr/r_simplified_rnns_achieve_transformerlike/,https://www.reddit.com/r/MachineLearning/comments/1h4urpr/r_simplified_rnns_achieve_transformerlike/,2024-12-02 13:19:02,7,0.66,7,0,1,0,0,False,False,True,False,False,Research,self,t3_1h4urpr
+MachineLearning,[Project] Noema – A Declarative AI Programming Library,,Super_Dependent_2978,1h46341,https://reddit.com/r/MachineLearning/comments/1h46341/project_noema_a_declarative_ai_programming_library/,/r/LocalLLaMA/comments/1h3d4d8/noema_a_declarative_ai_programming_library/,2024-12-01 15:46:35,2,0.57,2,0,1,0,0,False,False,False,False,False,Project,https://a.thumbs.redditmedia.com/Bke830yFsuJxUn2gkbNe1tpnLzRcSugASe-RSwzFQu0.jpg,t3_1h46341
+MachineLearning,[D] Seeking Advice on Machine Learning Models for Generating Seamless 360° Images,"Hi everyone,
+
+I’m working on a project that involves creating 360° images, and I’m running into some challenges. The goal is to generate seamless 360° panoramas without visible edges or artifacts where the image wraps around.
+
+I’m wondering if there are any machine learning models, techniques, or tools that are particularly well-suited for this task. Specifically, I’m looking for something that can:
+
+* Ensure continuity at the edges of the 360° image.
+* Handle different textures and patterns without noticeable distortions.
+* Be trained or fine-tuned on my custom dataset (if needed).
+
+I’ve explored GANs like StyleGAN and diffusion models, but I’m not sure if they can handle the edge continuity issue out of the box. Has anyone worked on a similar problem or knows of a good starting point?
+
+Any suggestions, resources, or insights would be greatly appreciated! Thanks in advance!",Deep_Land_4093,1h48950,https://reddit.com/r/MachineLearning/comments/1h48950/d_seeking_advice_on_machine_learning_models_for/,https://www.reddit.com/r/MachineLearning/comments/1h48950/d_seeking_advice_on_machine_learning_models_for/,2024-12-01 17:22:26,0,0.43,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h48950
+MachineLearning,[P] Promptwright - Open source project to generate large synthetic datasets using an LLM (local or hosted),"Hey r/machinelearning,
+
+[Promptwright](https://github.com/StacklokLabs/promptwright), a free to use *open source* tool designed to easily generate synthetic datasets using either local large language models or one of the many hosted models (OpenAI, Anthropic, Google Gemini etc)
+
+Key Features:
+
+\* Multiple LLM Providers Support: Works with most LLM service providers and LocalLLM's via Ollama, VLLM etc
+
+\* Configurable Instructions and Prompts: Define custom instructions and system prompts in YAML, over scripts as before.
+
+\* Command Line Interface: Run generation tasks directly from the command line
+
+\* Push to Hugging Face: Push the generated dataset to Hugging Face Hub with automatic dataset cards and tags
+
+Here is an example dataset created with promptwright on this latest release:
+
+[https://huggingface.co/datasets/stacklok/insecure-code/viewer](https://huggingface.co/datasets/stacklok/insecure-code/viewer)
+
+This was generated from the following template using \`mistral-nemo:12b\`, but honestly most models perform, even the small 1/3b models.
+
+    system_prompt: ""You are a programming assistant. Your task is to generate examples of insecure code, highlighting vulnerabilities while maintaining accurate syntax and behavior.""
+    
+    topic_tree:
+      args:
+        root_prompt: ""Insecure Code Examples Across Polyglot Programming Languages.""
+        model_system_prompt: ""&lt;system_prompt_placeholder&gt;""  # Will be replaced with system_prompt
+        tree_degree: 10  # Broad coverage for languages (e.g., Python, JavaScript, C++, Java)
+        tree_depth: 5  # Deep hierarchy for specific vulnerabilities (e.g., SQL Injection, XSS, buffer overflow)
+        temperature: 0.8  # High creativity to diversify examples
+        provider: ""ollama""  # LLM provider
+        model: ""mistral-nemo:12b""  # Model name
+      save_as: ""insecure_code_topictree.jsonl""
+    
+    data_engine:
+      args:
+        instructions: ""Generate insecure code examples in multiple programming languages. Each example should include a brief explanation of the vulnerability.""
+        system_prompt: ""&lt;system_prompt_placeholder&gt;""  # Will be replaced with system_prompt
+        provider: ""ollama""  # LLM provider
+        model: ""mistral-nemo:12b""  # Model name
+        temperature: 0.9  # Encourages diversity in examples
+        max_retries: 3  # Retry failed prompts up to 3 times
+    
+    dataset:
+      creation:
+        num_steps: 15  # Generate examples over 10 iterations
+        batch_size: 10  # Generate 5 examples per iteration
+        provider: ""ollama""  # LLM provider
+        model: ""mistral-nemo:12b""  # Model name
+        sys_msg: true  # Include system message in dataset (default: true)
+      save_as: ""insecure_code_dataset.jsonl""
+    
+    # Hugging Face Hub configuration (optional)
+    huggingface:
+      # Repository in format ""username/dataset-name""
+      repository: ""hfuser/dataset""
+      # Token can also be provided via HF_TOKEN environment variable or --hf-token CLI option
+      token: ""$token""
+      # Additional tags for the dataset (optional)
+      # ""promptwright"" and ""synthetic"" tags are added automatically
+      tags:
+        - ""promptwright""
+
+We've been using it internally for a few projects, and it's been working great. You can process thousands of samples without worrying about API costs or rate limits. Plus, since everything runs locally, you don't have to worry about sensitive data leaving your environment.
+
+The code is Apache 2 licensed, and we'd love to get feedback from the community. If you're doing any kind of synthetic data generation for ML, give it a try and let us know what you think!
+
+Links:
+
+Checkout the [examples](https://github.com/StacklokLabs/promptwright/tree/main/examples) folder , for examples for generating code, scientific or creative ewr
+
+Would love to hear your thoughts and suggestions, if you see any room for improvement please feel free to raise and issue or make a pull request.",zero_proof_fork,1h4bcz2,https://reddit.com/r/MachineLearning/comments/1h4bcz2/p_promptwright_open_source_project_to_generate/,https://www.reddit.com/r/MachineLearning/comments/1h4bcz2/p_promptwright_open_source_project_to_generate/,2024-12-01 19:33:47,13,0.84,13,0,3,0,0,False,False,True,False,False,Project,self,t3_1h4bcz2
+MachineLearning,[P] PyTorch implementation of Levenberg-Marquardt training algorithm,"Hi everyone,
+
+In case anyone is interested, here’s a PyTorch implementation of the **Levenberg-Marquardt (LM)** algorithm that I’ve developed.
+
+**GitHub Repo**: [torch-levenberg-marquardt](https://github.com/fabiodimarco/torch-levenberg-marquardt)
+
+A PyTorch implementation of the **Levenberg-Marquardt (LM)** optimization algorithm, supporting **mini-batch training** for both **regression** and **classification** problems. It leverages GPU acceleration and offers an extensible framework, supporting diverse loss functions and customizable damping strategies.
+
+A TensorFlow implementation is also available: [tf-levenberg-marquardt](https://github.com/fabiodimarco/tf-levenberg-marquardt)
+
+# Installation
+
+    pip install torch-levenberg-marquardt",fabiodimarco,1h4ubbd,https://reddit.com/r/MachineLearning/comments/1h4ubbd/p_pytorch_implementation_of_levenbergmarquardt/,https://www.reddit.com/r/MachineLearning/comments/1h4ubbd/p_pytorch_implementation_of_levenbergmarquardt/,2024-12-02 12:54:53,20,0.9,20,0,1,0,0,False,False,True,False,False,Project,self,t3_1h4ubbd
+MachineLearning,[D] How to handle varying Feature Dimensions in Graph Neural Networks training?,"I have a question about handling datasets with varying feature dimensions in Graph Neural Network training. For example, in one training instance (let's call it Dataset A), the node features have a dimension of 4, and the edge features have a dimension of 16. In another instance (Dataset B), the node features have a dimension of 5, and the edge features have a dimension of 25. Other datasets may have different feature dimensions as well.
+
+What are the standard methods used to handle varying feature dimensions for each instance when training a GNN model with such datasets? I would appreciate any guidance or direction on how to approach this. Thanks!",bipulthapa,1h4dbvi,https://reddit.com/r/MachineLearning/comments/1h4dbvi/d_how_to_handle_varying_feature_dimensions_in/,https://www.reddit.com/r/MachineLearning/comments/1h4dbvi/d_how_to_handle_varying_feature_dimensions_in/,2024-12-01 20:57:35,20,0.95,20,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1h4dbvi
+MachineLearning,[R] A Comprehensive Database of 300+ Production LLM Implementations with Technical Architecture Details,"Sharing a valuable resource for ML practitioners: A newly released database documenting over 300 real-world LLM implementations, with detailed technical architectures and engineering decisions.
+
+Key aspects that might interest this community:
+
+* Retrieval-Augmented Generation (RAG) architectures in production
+* Fine-tuning decisions and performance comparisons
+* Embedding strategies and vector database implementations
+* Model optimization techniques and quantization approaches
+* Evaluation methodologies and monitoring systems
+
+Notable technical implementations covered:
+
+* Anzen's document classification system using BERT (95% accuracy in production)
+* Barclays' MLOps evolution for regulatory compliance
+* MosaicML's lessons from training &amp; deploying MPT
+* Emergent Methods' real-time RAG system for news processing
+* Qatar Computing Research Institute's T-RAG architecture
+
+Technical focus areas:
+
+1. Model serving architectures
+2. Training infrastructure decisions
+3. Latency optimization strategies
+4. Cost-performance trade-offs
+5. Production monitoring approaches
+
+Each case study includes:
+
+* Technical architecture diagrams where available
+* Performance metrics and benchmarks
+* Implementation challenges and solutions
+* Infrastructure decisions and rationale
+* Scaling considerations
+
+URL: [https://www.zenml.io/llmops-database/](https://www.zenml.io/llmops-database/)
+
+We're also accepting technical write-ups of production implementations through the submission form: [https://docs.google.com/forms/d/e/1FAIpQLSfrRC0\_k3LrrHRBCjtxULmER1-RJgtt1lveyezMY98Li\_5lWw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfrRC0_k3LrrHRBCjtxULmER1-RJgtt1lveyezMY98Li_5lWw/viewform)
+
+Would be particularly interested in this community's thoughts on the architectural patterns emerging across different scales of deployment.
+
+*Edit: We've also synthesized cross-cutting technical themes into summary podcasts for those interested in high-level patterns.*
+
+*Edit: An accompanying blog synthesizes much of the learnings:* [*https://www.zenml.io/blog/demystifying-llmops-a-practical-database-of-real-world-generative-ai-implementations*](https://www.zenml.io/blog/demystifying-llmops-a-practical-database-of-real-world-generative-ai-implementations)",htahir1,1h4udds,https://reddit.com/r/MachineLearning/comments/1h4udds/r_a_comprehensive_database_of_300_production_llm/,https://www.reddit.com/r/MachineLearning/comments/1h4udds/r_a_comprehensive_database_of_300_production_llm/,2024-12-02 12:58:02,37,0.94,37,0,5,0,0,False,False,True,False,False,Research,self,t3_1h4udds
+MachineLearning,[D] Handle varying output dimension in Graph Neural Networks?,"I have a question about handling varying output dimensions in **Graph Neural Networks (GNNs)** during training. I'm working with **a combined graph** (merging task and compute graphs), where the structure resembles the task graph, but with compute node information integrated into the features. Since both the task graph and compute nodes can vary, I'm using a feedforward layer to transform the node and edge features into a fixed hyperparameter embedding dimension. However, the dataset contains instances with **different numbers of compute nodes**. For example, one instance (A) might have 5 compute nodes, while another instance (B) might have 7 compute nodes. Given that this is a scheduling task using GNNs, the output dimension must match the number of compute nodes, as tasks are assigned to these nodes. I'm wondering how to handle varying output dimensions in GNNs and if there are any standard approaches to manage this kind of variation. Thanks!",bipulthapa,1h4uyn9,https://reddit.com/r/MachineLearning/comments/1h4uyn9/d_handle_varying_output_dimension_in_graph_neural/,https://www.reddit.com/r/MachineLearning/comments/1h4uyn9/d_handle_varying_output_dimension_in_graph_neural/,2024-12-02 13:29:07,2,0.76,2,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h4uyn9
+MachineLearning,[R] RuleOpt v.1.1: Optimization-Based Rule Learning for Classification,"**Paper**: [https://arxiv.org/abs/2104.10751](https://arxiv.org/abs/2104.10751)
+
+**Package:** [https://github.com/sametcopur/ruleopt](https://github.com/sametcopur/ruleopt)
+
+**Documentation:** [https://ruleopt.readthedocs.io/](https://ruleopt.readthedocs.io/)
+
+RuleOpt is an optimization-based rule learning algorithm designed for classification problems. Focusing on scalability and interpretability, RuleOpt utilizes linear programming for rule generation and extraction.
+
+The Python library ruleopt is capable of extracting rules from ensemble models, and it also implements a novel rule generation scheme. The library ensures compatibility with existing machine learning pipelines, and it is especially efficient for tackling large-scale problems.
+
+Here are a few highlights of ruleopt:
+
+* **Efficient Rule Generation and Extraction**: Leverages linear programming for scalable rule generation (stand-alone machine learning method) and rule extraction from trained random forest and boosting models.
+* **Interpretability**: Prioritizes model transparency by assigning costs to rules in order to achieve a desirable balance with accuracy.
+* **Integration with Machine Learning Libraries**: Facilitates smooth integration with well-known Python libraries scikit-learn, LightGBM, and XGBoost, and existing machine learning pipelines.
+* **Extensive Solver Support**: Supports a wide array of solvers, including *Gurobi*, *CPLEX* and *OR-Tools*.
+
+  
+With the latest version update, RuleOpt is now fast even with the free solver OR-Tools, even on large datasets! In the graph below, you can see how the new version performs in terms of runtime compared to the previous version.
+
+[Training Times v1.0 vs v1.1](https://preview.redd.it/ev5u5m4bjf4e1.jpg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=e38ea3c168ece7ad6660153a6073f8064ac85d83)
+
+  
+We’d love to hear your feedback, questions, or any other inquiries you may have!",zedeleyici3401,1h4tzd0,https://reddit.com/r/MachineLearning/comments/1h4tzd0/r_ruleopt_v11_optimizationbased_rule_learning_for/,https://www.reddit.com/r/MachineLearning/comments/1h4tzd0/r_ruleopt_v11_optimizationbased_rule_learning_for/,2024-12-02 12:36:23,6,1.0,6,0,0,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/HhFHG_WRfu3w1cHy2TmWE1t-ZUve2F-IM_C2fVLZwqo.jpg,t3_1h4tzd0
+MachineLearning,[R] Feature Generation,"I apologize in advance for a possibly silly question.
+
+I'm trying to replicate a research paper wherein some ML models have been trained to condition monitoring of a metal cutting tool, so my question is about feature generation.
+
+Let's suppose I have a dataframe with 6 signals (features) and the rows are measurements at a certain time. To generate a new feature, say RMS value, I just need to take 6 measurements and calculate the RMS value of 6 numbers for each row? Will this be my new feature?
+
+Thanks.
+
+https://preview.redd.it/dsjfcapthe4e1.png?width=560&amp;format=png&amp;auto=webp&amp;s=b22c007b2d2a73612280d0ecfa6556b68b793a17
+
+",su_25_frogfoot,1h4qwt4,https://reddit.com/r/MachineLearning/comments/1h4qwt4/r_feature_generation/,https://www.reddit.com/r/MachineLearning/comments/1h4qwt4/r_feature_generation/,2024-12-02 09:04:55,5,0.86,5,0,0,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/m56www4G1RbpNxO1S_wnA793xMTia8-V1pfcOH285aE.jpg,t3_1h4qwt4
+MachineLearning,[R] Best chunking method for PDFs with complex layout?,"I am working on a RAG based PDF Query system , specifically for complex PDFs that contains multi column tables, images, tables that span across multiple pages, tables that have images inside them.
+
+I want to find the best chunking strategy for such pdfs.
+
+Currently i am using RecursiveCharacterTextSplitter. What worked best for you all for complex PDF?
+
+",ElectronicHoneydew86,1h4pkmh,https://reddit.com/r/MachineLearning/comments/1h4pkmh/r_best_chunking_method_for_pdfs_with_complex/,https://www.reddit.com/r/MachineLearning/comments/1h4pkmh/r_best_chunking_method_for_pdfs_with_complex/,2024-12-02 07:24:21,10,0.92,10,0,1,0,0,False,False,True,False,False,Research,self,t3_1h4pkmh
+MachineLearning,[R] Queries on DeepAR Framework in AWS Sagemaker,"Hi,
+
+I'm trying to implement deepAr for various stores to predict futures sales (each store with ~10k SKU of different products). Due to sheer size of the SKU I wouldn't be able to just do only single training for all the data at once. I'm thinking to train it by store.
+
+1. How do I do parallelism in AWS for the training purpose? Each store training process would take up to 30mins;
+2. How to deal with unseen SKUs which are not present in the data?
+
+Thanks.",skw1990,1h4gwxy,https://reddit.com/r/MachineLearning/comments/1h4gwxy/r_queries_on_deepar_framework_in_aws_sagemaker/,https://www.reddit.com/r/MachineLearning/comments/1h4gwxy/r_queries_on_deepar_framework_in_aws_sagemaker/,2024-12-01 23:33:04,5,0.79,5,0,0,0,0,False,False,True,False,False,Research,self,t3_1h4gwxy
+MachineLearning,[D] Simple Questions Thread,"Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!
+
+Thread will stay alive until next one so keep posting after the date in the title.
+
+Thanks to everyone for answering questions in the previous thread!",AutoModerator,1h46e6j,https://reddit.com/r/MachineLearning/comments/1h46e6j/d_simple_questions_thread/,https://www.reddit.com/r/MachineLearning/comments/1h46e6j/d_simple_questions_thread/,2024-12-01 16:00:30,6,0.88,6,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h46e6j
