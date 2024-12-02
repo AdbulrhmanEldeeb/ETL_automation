@@ -1,0 +1,50 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,"Due to ""unsettling shifts"" yet another senior AGI safety researcher has left OpenAI with a warning",,MetaKnowing,1h3r7fa,https://reddit.com/r/artificial/comments/1h3r7fa/due_to_unsettling_shifts_yet_another_senior_agi/,https://x.com/RosieCampbell/status/1863017727063113803,2024-12-01 00:56:02,41,0.78,41,0,24,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/_7sJjsWYmePDcaowvAP8d0fil_HNERpDRs0I-rOzfNk.jpg,t3_1h3r7fa
+artificial,One-Minute Daily AI News 11/30/2024,"1. No tennis partner? Play anytime with this AI robot.\[1\]
+2. AI-Powered ‘Death Clock’ Promises More Exact Prediction Of Day You’ll Die.\[2\]
+3. Study: 94% Of AI-Generated College Writing Is Undetected By Teachers.\[3\]
+4. British PM opens Google-backed AI Campus to inspire students.\[4\]
+
+Sources:
+
+\[1\] [https://www.foxnews.com/video/6365364768112](https://www.foxnews.com/video/6365364768112)
+
+\[2\] [https://www.ndtv.com/world-news/ai-powered-death-clock-promises-more-exact-prediction-of-day-youll-die-7145051](https://www.ndtv.com/world-news/ai-powered-death-clock-promises-more-exact-prediction-of-day-youll-die-7145051)
+
+\[3\] [https://www.forbes.com/sites/dereknewton/2024/11/30/study-94-of-ai-generated-college-writing-is-undetected-by-teachers/](https://www.forbes.com/sites/dereknewton/2024/11/30/study-94-of-ai-generated-college-writing-is-undetected-by-teachers/)
+
+\[4\] [https://www.reuters.com/technology/artificial-intelligence/british-pm-opens-google-backed-ai-campus-inspire-students-2024-11-27/](https://www.reuters.com/technology/artificial-intelligence/british-pm-opens-google-backed-ai-campus-inspire-students-2024-11-27/)",Excellent-Target-847,1h3v9b7,https://reddit.com/r/artificial/comments/1h3v9b7/oneminute_daily_ai_news_11302024/,https://www.reddit.com/r/artificial/comments/1h3v9b7/oneminute_daily_ai_news_11302024/,2024-12-01 04:35:09,5,0.78,5,0,1,0,0,False,False,True,False,False,News,self,t3_1h3v9b7
+artificial,Nobel laureate Geoffrey Hinton says open sourcing big models is like letting people buy nuclear weapons at Radio Shack,,MetaKnowing,1h43lis,https://reddit.com/r/artificial/comments/1h43lis/nobel_laureate_geoffrey_hinton_says_open_sourcing/,https://v.redd.it/185j3trcr84e1,2024-12-01 13:45:44,9,0.6,9,0,14,0,0,True,False,False,False,False,Media,"https://external-preview.redd.it/b3k0eWVzcmNyODRlMWLaXErbvqGuGQ6nkgqW-UkpsKhB_64OUElWH6_v7MTZ.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=53d98c8171c4b6d3a877ff5794f56301d619cd0d",t3_1h43lis
+artificial,Secure AI Research tool,I've recently discovered NotebookLM and I think it's pretty great. I wonder if there's any other tool alike which is secure and free.,Existing_Hat_7557,1h3iqwu,https://reddit.com/r/artificial/comments/1h3iqwu/secure_ai_research_tool/,https://www.reddit.com/r/artificial/comments/1h3iqwu/secure_ai_research_tool/,2024-11-30 18:20:48,1,0.66,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1h3iqwu
+artificial,"AI World : the future site where all kind of AI Content used for the public made by the public will ve sent in the future. (this isn't official,but rather a WIP.)","This is a work i started. AI World basically is a Youtube inspired application. It has a site version and an application version. Inside AI World, there will be videos and shorts. The big difference is that AI World will be the only place where AI content will be uploaded. With the future of AI being uncertain, norms will of course be done, and so why AI World's concept exist. by the way, if you are interested,here is a link toward the document that describe AI World and its rules : [https://drive.google.com/drive/folders/16z5QjnSnLoCW1\_M7MU6F6lUKyyr-M6aS?usp=drive\_link](https://drive.google.com/drive/folders/16z5QjnSnLoCW1_M7MU6F6lUKyyr-M6aS?usp=drive_link)",Smooth_Solution_7075,1h44dv8,https://reddit.com/r/artificial/comments/1h44dv8/ai_world_the_future_site_where_all_kind_of_ai/,https://www.reddit.com/r/artificial/comments/1h44dv8/ai_world_the_future_site_where_all_kind_of_ai/,2024-12-01 14:26:20,0,0.43,0,0,0,0,0,False,False,True,False,False,Project,self,t3_1h44dv8
+artificial,What problems have you used to stump the top chat bots? They seem unable to solve this train riddle.,"Here is ChatGPT's second attempt, for example:
+
+---
+
+Step 1: Train A splits
+
+1. Train A moves 40 cars and its locomotive into the siding, leaving the other 40 cars on the main track.
+
+2. Train A's locomotive remains attached to the 40 cars in the siding.
+
+---
+
+Step 2: Train B moves
+
+1. Train B (intact with all 80 cars) proceeds along the main track and passes the 40 cars of Train A still on the main track.
+
+2. Train B stops beyond the siding, leaving space for Train A to maneuver.
+
+---
+
+Step 3: Train A’s siding cars return to the main track
+
+1. Train A’s locomotive pulls its 40 cars out of the siding and rejoins them with its other 40 cars left on the main track.
+
+---
+
+Now both trains are on their way again, having successfully passed each other. This method uses the siding's limited capacity effectively. Does this align better with the diagram's setup?",dudefaceguy_,1h3sgbf,https://reddit.com/r/artificial/comments/1h3sgbf/what_problems_have_you_used_to_stump_the_top_chat/,https://i.redd.it/jwpf7quk954e1.png,2024-12-01 02:00:39,0,0.41,0,0,18,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/sQg_0YDPkL0tItn5tsopH_Oj7KQ08MxvROj9JylrB-Q.jpg,t3_1h3sgbf
+artificial,The start of recursive self-improvement,,MetaKnowing,1h3i77v,https://reddit.com/r/artificial/comments/1h3i77v/the_start_of_recursive_selfimprovement/,https://i.redd.it/anf6n8j0v24e1.png,2024-11-30 17:55:45,0,0.45,0,0,3,0,0,False,False,False,False,False,Media,https://b.thumbs.redditmedia.com/rWF6z73IYIP0QL-gJaDEkkcG_dyzHWYaJu08cIBEMoE.jpg,t3_1h3i77v
+artificial,YouTubers and streamers using ai characters?,"I’ve recently seen a plethora of YouTubers/streamers using AI charecters
+
+I have strong doubts these people have coding knowledge so if anyone knows the software they are using that would be great!",ArkhamInmate11,1h3sr66,https://reddit.com/r/artificial/comments/1h3sr66/youtubers_and_streamers_using_ai_characters/,https://www.reddit.com/r/artificial/comments/1h3sr66/youtubers_and_streamers_using_ai_characters/,2024-12-01 02:16:21,0,0.38,0,0,1,0,0,False,False,True,False,False,Question,self,t3_1h3sr66

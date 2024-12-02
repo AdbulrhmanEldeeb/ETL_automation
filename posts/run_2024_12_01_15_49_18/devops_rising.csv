@@ -1,0 +1,103 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Devops internship opportunity ,"I am a graduate of the software engineering and currently on a masters in cyber security. I have internship experience as mern  stack
+developer. I have taken some courses on devops and also work on some projects with tools like; AWS, jenkins, docker, Kubernetes, ArgoCD, sonaqube, version control . I also have some experience in writing standard docs for APIs with openApi specification. am looking for a remote internship opportunity in any time zone and any company size",Ready-Worldliness-39,1h45a9i,https://reddit.com/r/devops/comments/1h45a9i/devops_internship_opportunity/,https://www.reddit.com/r/devops/comments/1h45a9i/devops_internship_opportunity/,2024-12-01 15:09:45,1,0.57,1,0,0,0,0,False,False,True,False,False,,self,t3_1h45a9i
+devops,Should I use WSL or DualBoot or Virtual Machine,"I was learning linux for devops. I am not new to linux, I knew th ebasic commands for copying, removing or installing apps. I just don't like the desktop versions of them. I consider the terminal to be the best of them as it supports everything. Also in the Desktop version, there is a lot of problem with NVIDIA and it just sucks on linux. I have used every flavour of linux like debian, ubuntu, fedora, manjaro and alpine. But the WSL is the one which works great and does all the linux work I need it to do. But I was thinking, from a devops engineer's perspective if we gotta use the desktop version for better work or no. Thanks.",Certain-Phrase-4721,1h3xoiq,https://reddit.com/r/devops/comments/1h3xoiq/should_i_use_wsl_or_dualboot_or_virtual_machine/,https://www.reddit.com/r/devops/comments/1h3xoiq/should_i_use_wsl_or_dualboot_or_virtual_machine/,2024-12-01 07:04:58,24,0.89,24,0,35,0,0,False,False,True,False,False,,self,t3_1h3xoiq
+devops,Looking for Beginner-Friendly DevOps Project Ideas for My Portfolio,"Hello, everyone!
+
+I’m currently studying DevOps and relatively new to the field. I want to build my portfolio with practical, beginner-friendly projects that demonstrate DevOps concepts like automation, CI/CD, monitoring, or containerization.
+
+I’d love to hear your recommendations for simple yet impactful projects that can help me learn and showcase my skills as I progress in this field.
+
+Thanks in advance for your suggestions!",Positive_Soup_8153,1h42hi8,https://reddit.com/r/devops/comments/1h42hi8/looking_for_beginnerfriendly_devops_project_ideas/,https://www.reddit.com/r/devops/comments/1h42hi8/looking_for_beginnerfriendly_devops_project_ideas/,2024-12-01 12:43:41,7,0.71,7,0,5,0,0,False,False,True,False,False,,self,t3_1h42hi8
+devops,Need help on architecture layout,"Hey all,  
+  
+I'm creating a system that should have about 1 billion requests per month.  
+Since I've never created a system that even comes close to this, I need help in deciding on the architecture...
+
+I was thinking about:   
+  
+1. ELB with 4 servers (horizontal scaling) and add if needs be. Using php and nginx on each server.  
+2. SQS so offload DB work instead of DB call each impression. Still, this comes out at around 380 records per second on average, so I'm not sure this is best way to go, cost wise and function wise.  
+3. DB - what's the best DB to handle such a load? My plan is to collect daily data and create an aggregation through a nightly script, and removing daily data afterwards. Not sure if MySQL is the best way to go here, or BigQuery.  
+4. Since each request should perform a SELECT and an INSERT, I was thinking about saving the SELECT call by having a cache server caching the results (They will be mostly the same).  
+
+
+I would appreciate any advice you might have.
+
+Thanks!",trueicecold,1h40p11,https://reddit.com/r/devops/comments/1h40p11/need_help_on_architecture_layout/,https://www.reddit.com/r/devops/comments/1h40p11/need_help_on_architecture_layout/,2024-12-01 10:43:42,0,0.33,0,0,2,0,0,False,False,True,False,False,,self,t3_1h40p11
+devops,Review KodeKloud: is it worth it?,"Ok.... CKA and CKAD are already on udemy including some other courses provided by KodeKloud. KodeKloud engineer is also quite free! So, why do you think one should get a 1 year subscription for the platform? ",Radon03,1h3agow,https://reddit.com/r/devops/comments/1h3agow/review_kodekloud_is_it_worth_it/,https://www.reddit.com/r/devops/comments/1h3agow/review_kodekloud_is_it_worth_it/,2024-11-30 11:13:20,28,0.81,28,0,17,0,0,False,False,True,False,False,,self,t3_1h3agow
+devops,Jira integration with Qodo Merge: ensuring code quality with ticket compliance,"The article outlines how the integration of Qodo Merge with Jira facilitates better alignment between code changes and project requirements, with ticket compliance highlighted as a practice that ensures code in pull requests meets the specifications outlined in corresponding Jira tickets: [Qodo Merge integration with Jira: ensuring code quality with ticket compliance](https://www.codium.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)",thumbsdrivesmecrazy,1h44wpt,https://reddit.com/r/devops/comments/1h44wpt/jira_integration_with_qodo_merge_ensuring_code/,https://www.reddit.com/r/devops/comments/1h44wpt/jira_integration_with_qodo_merge_ensuring_code/,2024-12-01 14:52:14,0,0.11,0,0,1,0,0,False,False,True,False,False,,self,t3_1h44wpt
+devops,"With a decade of experience, my resume + cover letter is getting zero responses. How to diagnose what is wrong?",,danielfrances,1h3hj8d,https://reddit.com/r/devops/comments/1h3hj8d/with_a_decade_of_experience_my_resume_cover/,/r/networking/comments/1h3hbu3/with_a_decade_of_experience_my_resume_cover/,2024-11-30 17:25:48,5,0.64,5,0,27,0,0,False,False,False,False,False,,default,t3_1h3hj8d
+devops,I recently wrote an article about creating a Seamless Split Payment Processing System that tackles a major challenge in e-commerce today,"I recently wrote an article about creating a [Seamless Split Payment Processing System](https://medium.com/@rasvihostings/seamless-split-payments-processing-system-d42200107ca7) that tackles a major challenge in e-commerce today: splitting payments among multiple sellers during a single checkout.
+
+As e-commerce continues to dominate, the demand for innovative payment solutions is at an all-time high. For multi-vendor platforms, marketplaces, and collaborative services, managing this dispersed checkout experience efficiently is critical—but it’s no easy task.
+
+How do we balance simplicity for the buyer with complexity on the backend? What technologies or strategies work best for handling such payments while maintaining transparency and regulatory compliance?
+
+Would love to hear your thoughts or experiences on this topic! How are you (or your company) addressing this challenge?  
+[https://medium.com/@rasvihostings/seamless-split-payments-processing-system-d42200107ca7](https://medium.com/@rasvihostings/seamless-split-payments-processing-system-d42200107ca7)",rasvi786,1h3p0nx,https://reddit.com/r/devops/comments/1h3p0nx/i_recently_wrote_an_article_about_creating_a/,https://www.reddit.com/r/devops/comments/1h3p0nx/i_recently_wrote_an_article_about_creating_a/,2024-11-30 23:09:37,0,0.45,0,0,11,0,0,False,False,True,False,False,,self,t3_1h3p0nx
+devops,How often do you edit your CI/CD?,Do you frequently edit your CI/CD pipelines? If you do how often?,No-Contribution8248,1h2sqw5,https://reddit.com/r/devops/comments/1h2sqw5/how_often_do_you_edit_your_cicd/,https://www.reddit.com/r/devops/comments/1h2sqw5/how_often_do_you_edit_your_cicd/,2024-11-29 18:47:21,37,0.88,37,0,48,0,0,False,False,True,False,False,,self,t3_1h2sqw5
+devops,Switching careers ,I have an opportunity to switch careers from healthcare to Devops… the course is 7 months and it guarantees a job placement or money back for the course. Program states they have a good success rate even with zero experience of IT or anything related. I have a friend who graduated from the program and is now making a great income. Has anyone switched careers like this ? ,Frequent_Kick4359,1h3n4at,https://reddit.com/r/devops/comments/1h3n4at/switching_careers/,https://www.reddit.com/r/devops/comments/1h3n4at/switching_careers/,2024-11-30 21:40:44,0,0.23,0,0,19,0,0,False,False,True,False,False,,self,t3_1h3n4at
+devops,Basic auth via HMAC signatures for Squid,"I'd like to share with you my recent development - [basic auth helper for Squid](https://github.com/SenseUnit/basic_hmac_auth), which uses HMAC signatures for authentication.
+
+It essentially allows fleet of proxies to use centralized authentication without the need for proxies to communicate with any central server directly. It works like this: some entity (e.g. API server) issues HMAC-signed token with limited validity time to the users. Users can't forge HMAC-signed token because they don't know secret key, while proxy can validate signature sent by user as credentials and decide to allow access immediately, without any need to communicate with central server or database to check user's password and status. All relevant information to allow access is already carried by users within their requests.
+
+  
+Hope it will be useful for people building proxy services!",yarmak,1h3031f,https://reddit.com/r/devops/comments/1h3031f/basic_auth_via_hmac_signatures_for_squid/,https://www.reddit.com/r/devops/comments/1h3031f/basic_auth_via_hmac_signatures_for_squid/,2024-11-30 00:26:26,8,0.84,8,0,0,0,0,False,False,True,False,False,,self,t3_1h3031f
+devops,Recommended Setup for a Data Project. ,"Hello All,
+
+I’m currently working on a small data project and exploring the best AWS setup to meet my needs now and in the future. Currently I have the following setup working: 
+
+* Large number of different CSV files stored in S3 (new files are added daily).
+* I’ve used AWS Glue to map the files into tables.
+* For querying, I’m using Athena.
+
+So far, the setup has been straightforward (this is my first time using AWS), and it’s working as intended aside from a few minor bugs I managed to fix.  
+  
+I’m looking to build a **front-end service** where users can:
+
+* Visually query the data without writing SQL.
+* See results presented in graphs, tables, etc.
+
+Right now, I’m querying Athena manually, but it’s not very user-friendly since you have to write SQL queries every time, and if I want to add more people to the project this can simply become unusable. Also, there are strange issues with Athena. For instance, when querying small numbers like `0.0005` or `0.00003`, Athena returns them in scientific notation, I have no idea why it does that.  
+
+Some thoughts and considerations I have:
+
+* As far as I understand, Athena may not be cost-effective at scale.
+* I’m considering whether setting up a dedicated database to store the data (instead of querying directly from S3) might be better. 
+   * New CSV files are added to S3 daily, so the database would need **daily updates**, ideally automated.
+* **Speed is not a priority**, so some latency is acceptable.
+* Since I’m still learning, I’d prefer tools and workflows that are **user-friendly** and straightforward to implement.
+
+**Looking for Advice:**
+
+* Should I move the data into a database? If so, which one would you recommend (e.g., Redshift, RDS, etc.) I've red about the different ones but I'm not sure I truly understand what's better. Not to mention this also means that I'll need to connect this to a server? Where is the 'compute power'? 
+* What front-end solutions would work well for visual querying and displaying results? I've used QuickSight but I don't really think it's what I'm looking for. I've started experimenting with Next.JS and Vercel. 
+* Any tips on automating daily updates from S3 to a database?
+
+I’d appreciate any recommendations or insights, especially from those with similar experiences.   
+Many Thanks!",Badger00000,1h39uax,https://reddit.com/r/devops/comments/1h39uax/recommended_setup_for_a_data_project/,https://www.reddit.com/r/devops/comments/1h39uax/recommended_setup_for_a_data_project/,2024-11-30 10:28:09,0,0.33,0,0,2,0,0,False,False,True,False,False,,self,t3_1h39uax
+devops,What level of Python should i learn for devops role? ,"Every company asking for python expertise. What should i prepare for interview level. Programs like palllindrome, Fibonacci series e.t. c  or need to practice some programs or request modules or should i directly jump to easy medium leetcode...
+
+I have only basic knowledge of python + have some familiarity on usage of requests,boto3 module and never worked on any realtime projects.",Suitable-Time-7959,1h2lgz1,https://reddit.com/r/devops/comments/1h2lgz1/what_level_of_python_should_i_learn_for_devops/,https://www.reddit.com/r/devops/comments/1h2lgz1/what_level_of_python_should_i_learn_for_devops/,2024-11-29 13:11:17,33,0.84,33,0,21,0,0,False,False,True,False,False,,self,t3_1h2lgz1
+devops,Where can i get more projects like these?,https://medium.com/@mudasirhaji/deploy-a-java-web-app-with-github-jenkins-maven-and-tomcat-on-aws-step-by-step-process-f813c11c9930,No_Place_6696,1h37hea,https://reddit.com/r/devops/comments/1h37hea/where_can_i_get_more_projects_like_these/,https://www.reddit.com/r/devops/comments/1h37hea/where_can_i_get_more_projects_like_these/,2024-11-30 07:35:17,1,0.53,1,0,1,0,0,False,False,True,False,False,,self,t3_1h37hea
+devops,check this please ,"hi guys im a full stack developer student , and currently i decided to learn abt cloud so im studying to pass the aws practitioner. is it normal for an it enginner to learn dav and cloud and devops in once or i should just focus on a single thing ???. based on your experiences ,just drop your advice please ❤️",Confident-Sound-9674,1h3fngf,https://reddit.com/r/devops/comments/1h3fngf/check_this_please/,https://www.reddit.com/r/devops/comments/1h3fngf/check_this_please/,2024-11-30 16:03:00,0,0.27,0,0,4,0,0,False,False,True,False,False,,self,t3_1h3fngf
+devops,Need help deciding infra,"Ok so i am creating a SAAS ai  video generator!
+
+It calls 3 api
+Open ai
+Dalle
+Eleven labs 
+
+and puts everything together using
+remotion library and for player too?
+
+now i want to deploy it in AWS what should be my deployment stategy for load balancing and performance! It's a monolith nextjs project !",AdvantageDear,1h3ajw5,https://reddit.com/r/devops/comments/1h3ajw5/need_help_deciding_infra/,https://www.reddit.com/r/devops/comments/1h3ajw5/need_help_deciding_infra/,2024-11-30 11:19:47,0,0.13,0,0,2,0,0,False,False,True,False,False,,self,t3_1h3ajw5
+devops,Switching from Networking to Devops.,"Currently, I am working as a TAC engineer at Palo Alto network, India and I want to switch to devops obviously for better growth in terms of salary and Job Stability.
+
+I have practised a lot on devops like followed some playlist in YouTube. I know basics about all devops tools like Jenkins, grafana, AWS services.
+
+But, util and unless I came to know about some real time projects I can't learn properly.
+
+Is there anyone who can guide me related to this. I am really looking for someone who can mention me to devops. 
+",ayush7749,1h38gnp,https://reddit.com/r/devops/comments/1h38gnp/switching_from_networking_to_devops/,https://www.reddit.com/r/devops/comments/1h38gnp/switching_from_networking_to_devops/,2024-11-30 08:45:52,0,0.38,0,0,12,0,0,False,False,True,False,False,,self,t3_1h38gnp

@@ -1,0 +1,63 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Give me your favorite bijections,,PM_TITS_GROUP,1h40nbg,https://reddit.com/r/math/comments/1h40nbg/give_me_your_favorite_bijections/,https://www.reddit.com/r/math/comments/1h40nbg/give_me_your_favorite_bijections/,2024-12-01 10:40:12,36,0.85,36,0,65,0,0,False,False,True,False,False,,,t3_1h40nbg
+math,Interesting counterexamples in analysis?,"When one first learns real analysis/rigorous calculus, part of the experience is coming up with pathological functions to act as counterexamples. For example:
+
+""Every function ℝ → ℝ is locally bounded somewhere.""  
+Counterexample: The function f(x) = 0 when x is irrational, and f(x) = q where x=p/q is rational and written in lowest terms.
+
+Even if the pathological function is well known, it can still be interesting to see what statements they are a counterexample for. For example:
+
+""Every removable discontinuity of a Riemann integrable function ℝ → ℝ is isolated.""  
+Counterexample: The removable discontinuities of [Thomae's function](https://en.wikipedia.org/wiki/Thomae's_function) are dense in the reals.
+
+What are your favorite counterexamples?",MorrowM_,1h42zur,https://reddit.com/r/math/comments/1h42zur/interesting_counterexamples_in_analysis/,https://www.reddit.com/r/math/comments/1h42zur/interesting_counterexamples_in_analysis/,2024-12-01 13:12:41,12,0.88,12,0,10,0,0,False,False,True,False,False,,,t3_1h42zur
+math,What do you do when the subject you are trying to study feels unmotivated?,"If, for example, you are studying linear algebra and don't understand why anyone would come up with a notion of a vector space in the first place or if you see an axiom so obvious you don't understand why it exists, and so on, how do you get out of that feeling? Do you just battle through in hopes you'll get it later? 
+
+I think this is the hardest part for me, when I am trying to self-study. Sometimes the maths I am trying to understand seems too detached or too abstract, unmotivated, sort of artificial. Then Mathematics stops sparking curiosity in me and I get stuck. Do you ever feel the same? How do you deal with it?",vladshockolad,1h3qal1,https://reddit.com/r/math/comments/1h3qal1/what_do_you_do_when_the_subject_you_are_trying_to/,https://www.reddit.com/r/math/comments/1h3qal1/what_do_you_do_when_the_subject_you_are_trying_to/,2024-12-01 00:11:07,103,0.95,103,0,39,0,0,False,False,True,False,False,,,t3_1h3qal1
+math,Quaternion double-cover of SO(3),"It’s clear to me why the quaternion rotation formula works. The exps commute through the parallel component, cancelling and leaving it unchanged, but they anticommute with the orthogonal part, each performing a half-rotation. And we use exp because exp of a 90-degree rotation (e.g. all unit pure quaternions) generates all rotations.
+
+What doesn’t make sense to me is how this relates to the double-covering of SO(3) by Spin(3). I understand algebraically that the sign of the quaternion cancels in the rotation formula. I also understand that the theta/2 in the quaternion rotation formula requires you to take a 720deg path around Spin(3) to make a full loop. But I don’t understand what’s really special about a full 720deg walk. So what if we need that to take a loop around Spin(3)? What makes Spin(3) a truer group of rotations than SO(3)? I know it’s the universal cover, but why is that relevant in this case?
+
+And of course, there’s Dirac’s belt trick. I “get” what’s going on there, but I fail to see the significance of it.
+
+What’s so special about 720deg rotations?? This is driving me crazy",hydmar,1h42q7r,https://reddit.com/r/math/comments/1h42q7r/quaternion_doublecover_of_so3/,https://www.reddit.com/r/math/comments/1h42q7r/quaternion_doublecover_of_so3/,2024-12-01 12:58:17,7,1.0,7,0,7,0,0,False,False,True,False,False,,,t3_1h42q7r
+math,How you understand something you can't visualize?,"I feel it is hard to distinguish real understanding from just being able to do symbolic manipulation and get the right answer consistently. For me, visualization is a big part of understanding, but so many concepts require higher dimensions to be able to ""seen"".  So sometimes, even if I can do a proof, I feel like there is not something I could explain about that proof.
+
+An example: Right now, I'm learning about duality in optimization. And it's interesting, and I can do some proofs, but I don't really see why two polyhedra would be dual to each other or what that means.",TYHVoteForBurr,1h41gow,https://reddit.com/r/math/comments/1h41gow/how_you_understand_something_you_cant_visualize/,https://www.reddit.com/r/math/comments/1h41gow/how_you_understand_something_you_cant_visualize/,2024-12-01 11:37:32,6,0.8,6,0,8,0,0,False,False,True,False,False,,,t3_1h41gow
+math,Is there any „deep” connection between a function and the method used to implement it?,"Let’s say we want to compute a square root. There are different methods or algorithms to compute a square root function, but can we say or prove something about them in general?
+
+",kiockete,1h3pwjw,https://reddit.com/r/math/comments/1h3pwjw/is_there_any_deep_connection_between_a_function/,https://www.reddit.com/r/math/comments/1h3pwjw/is_there_any_deep_connection_between_a_function/,2024-11-30 23:53:02,35,0.76,35,0,15,0,0,False,False,True,False,False,,,t3_1h3pwjw
+math,"Looking for references on ""coproduct"" of random variables","I'm trying to find what a concept is called and references to learn more about it. My best guess is to call it a coproduct of random variables, but this leads nowhere.
+
+---
+
+Here's a description (handwaving measure theory to keep things short):
+
+Given two random variables x : Ω → S\_x and y : Ω → S\_y, we can form the joint random variable (x,y) : Ω → S\_x × S\_y by taking (x,y)(ω) = (x(ω), y(ω)). This is a product in the category of random variables over (Ω, Σ, μ). This raises the question: is there a coproduct?
+
+Yes, there is. We can prove its existence using Zorn's lemma or explicitly construct it by taking the coequaliser of the maps x : Ω → S\_x ∪ S\_y and y : Ω → S\_x ∪ S\_y, i.e. the random variable x∨y : Ω → E, where E = S\_x ∪ S\_y / ~ and ~ is the smallest relation such that x(ω) ~ y(ω) for all ω.
+
+Another characterisation of this object is that the sub-σ-algebra of Σ induced by (x∨y)^(-1) is the intersection of the sub-σ-algebras induced by x^(-1) and y^(-1).
+
+---
+
+Some questions:
+
+What is x∨y called in the literature and how is it usually denoted?
+
+Are there references discussing this construction?
+
+What interesting results are there regarding x∨y? Can we express its distribution function nicely? Does it satisfy an entropy relation?",AseOdin,1h3rqo7,https://reddit.com/r/math/comments/1h3rqo7/looking_for_references_on_coproduct_of_random/,https://www.reddit.com/r/math/comments/1h3rqo7/looking_for_references_on_coproduct_of_random/,2024-12-01 01:23:30,25,0.84,25,0,7,0,0,False,False,True,False,False,,,t3_1h3rqo7
+math,Prime Numbers Between n and 2n,"By Bertrand's Postulate, for every n&gt;1, there is at least one prime p such that n&lt;p&lt;2n. However, this result has been greatly improved upon. For example, Pierre Dusart showed that if n&gt;=89693, there is at least one prime p in the interval n&lt;p&lt;=(1+1/ln³(n))n. I was wondering about the number of primes between n and 2n. This is approximately n/ln(n) for large n, but my question is what is a good lower bound on the number of primes between n and 2n? With the improvements to Bertrand's Postulate, there should be a good lower bound on this that always holds.",MrPenguin143,1h3l7jo,https://reddit.com/r/math/comments/1h3l7jo/prime_numbers_between_n_and_2n/,https://www.reddit.com/r/math/comments/1h3l7jo/prime_numbers_between_n_and_2n/,2024-11-30 20:12:29,37,0.94,37,0,3,0,0,False,False,True,False,False,,,t3_1h3l7jo
+math,"In the Yoneda Lemma, in what ways can Hom(C,-) and Hom(D,-) fail to be naturally isomorphic? How do such failures correspond to failures in C and D being isomorphic?","The paragraph below is from [https://www.reddit.com/user/fredarietem/](https://www.reddit.com/user/fredarietem/) , who posted four years ago in ""Is it normal to be struggling to “get” the Yoneda lemma or is Category Theory just not for me?Is it normal to be struggling to “get” the Yoneda lemma or is Category Theory just not for me?"", [https://www.reddit.com/r/math/comments/n9a761/is\_it\_normal\_to\_be\_struggling\_to\_get\_the\_yoneda/](https://www.reddit.com/r/math/comments/n9a761/is_it_normal_to_be_struggling_to_get_the_yoneda/) . The post is archived, unfortunately, which means I can't discuss it with the original discussants. But the paragraph says exactly what I want to start from. To go further, I want to ask: in what way can Hom(C,-) and Hom(D,-) fail to be naturally isomorphic, and how do such failures correspond to failure in C and D being isomorphic?
+
+&gt;One way to appreciate the Yoneda lemma is through its corollaries. There's one particular special case which I find particularly enlightening: the Yoneda embedding. The idea is that we can think of an object C as being represented by a hom functor Hom(C,-), i. e. by all its relations to other objects in the category (in the form of arrows from C). Then, an arrow from C to D corresponds exactly to a natural transformation between the corresponding hom functors (this is because the Yoneda embedding is fully faithful, courtesy of the Yoneda lemma). In particular, if Hom(C,-) and Hom(D,-) are naturally isomorphic then C and D are isomorphic, which essentially justifies the ""it's the arrows that are important"" perspective of category theory. Note that we could just as well look at Hom(-,C) instead of Hom(C,-).
+
+I've never seen this discussed, but is there a concept of ""C and D are isomorphic except for these cases""? Of, as it were, defects or deformations in isomorphism? As a programmer, I find it natural (sorry!) to study such points of failure. If I could do so for Yoneda, I think it would be enlightening. Because it's easy to see how a natural transformation can fail. Some components may not be there. But what kind of damage does that do to the wanna-be isomorphism arrows between C and D?
+
+By the way, I attach a picture of a category with objects C and D in, also X, X', X'', etc. It also shows the functors Hom(C,-) and Hom(D,-), with just visible hom-sets indicating their effect on some of the X's, and a natural transformation. Maybe someone can see how to complete it to make the source of C and D's isomorphism obvious.
+
+https://preview.redd.it/sij3s1hm194e1.png?width=3432&amp;format=png&amp;auto=webp&amp;s=42ab78b0f129cb9973e0923305c9514e5ede0876
+
+",InfiniteCry3898,1h44qdm,https://reddit.com/r/math/comments/1h44qdm/in_the_yoneda_lemma_in_what_ways_can_homc_and/,https://www.reddit.com/r/math/comments/1h44qdm/in_the_yoneda_lemma_in_what_ways_can_homc_and/,2024-12-01 14:43:36,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h44qdm
+math,Papers in mathematics like B2FH?,In Physics the B2FH paper is basically a monument and provides  the origins of chemical elements and is foundational to cosmology. I'm not a physist but I was wondering within mathematics what are similarly monumental type papers and field defining work?,som6Jordan,1h41kms,https://reddit.com/r/math/comments/1h41kms/papers_in_mathematics_like_b2fh/,https://www.reddit.com/r/math/comments/1h41kms/papers_in_mathematics_like_b2fh/,2024-12-01 11:45:10,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h41kms

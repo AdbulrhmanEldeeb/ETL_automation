@@ -1,0 +1,400 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,I'm looking for a short course and I know nothing about programming,"I (16F) just ended my college year and I put myself the goal to learn some programming in this vacation, but I really don't know a thing about it, I just know I'd like to program games and maybe websites...
+
+From what I've read, I could start with HTML and JavaScript, is that right? Any advice accepted!",OkMariXD,1h45vmd,https://reddit.com/r/learnprogramming/comments/1h45vmd/im_looking_for_a_short_course_and_i_know_nothing/,https://www.reddit.com/r/learnprogramming/comments/1h45vmd/im_looking_for_a_short_course_and_i_know_nothing/,2024-12-01 15:37:17,5,0.86,5,0,6,0,0,False,False,True,False,False,Help,,t3_1h45vmd
+learnprogramming,Reminder: Advent of Code starts tonight!,"I always remember that Advent of Code is happening about halfway through December, and feel like it's not worth trying at that point. So, here's your reminder:
+
+https://adventofcode.com/
+
+Starts at midnight, EST tonight. Four hours from when this was posted. 
+
+25 days of programming puzzles, ranging from very easy to pretty hard. One puzzle a day until Christmas. It's a good opportunity to learn a new language, or polish your skills in one you already know. ",i_invented_the_ipod,1h3rc45,https://reddit.com/r/learnprogramming/comments/1h3rc45/reminder_advent_of_code_starts_tonight/,https://www.reddit.com/r/learnprogramming/comments/1h3rc45/reminder_advent_of_code_starts_tonight/,2024-12-01 01:02:31,101,0.97,101,0,10,0,0,False,False,True,False,False,Resource,,t3_1h3rc45
+learnprogramming,Best low-level language for a python back end dev?,"I write back-end python code in my job (Django etc). I'm fairly comfortable with Java too, so I understand what it's like to use a strongly-typed, compiled language.
+
+But I am told that learning a language like C++, Rust or even C could help me be a better python programmer too?
+
+I want to mess around with one at the weekend. C++ sounds interesting for microcontrollers, but also many cool products get made in Rust nowadays?
+
+I like the idea of messing around with microcontrollers too.
+
+Have people had a both fun and educational experience with one of those languages?",tmutimer,1h431nr,https://reddit.com/r/learnprogramming/comments/1h431nr/best_lowlevel_language_for_a_python_back_end_dev/,https://www.reddit.com/r/learnprogramming/comments/1h431nr/best_lowlevel_language_for_a_python_back_end_dev/,2024-12-01 13:15:30,8,0.76,8,0,22,0,0,False,False,True,False,False,,,t3_1h431nr
+learnprogramming,I am studying to become a cybersecurity engineer.,"**I am studying to become a cybersecurity engineer. I am still in my second year of university, and I want to specialize in cybersecurity.** Therefore, I am here asking if there is anything that I can learn by myself that will help my academic and professional life.",not_thatman,1h423p6,https://reddit.com/r/learnprogramming/comments/1h423p6/i_am_studying_to_become_a_cybersecurity_engineer/,https://www.reddit.com/r/learnprogramming/comments/1h423p6/i_am_studying_to_become_a_cybersecurity_engineer/,2024-12-01 12:19:49,8,0.79,8,0,21,0,0,False,False,True,False,False,question,,t3_1h423p6
+learnprogramming,Recent Graduate |Feel lost on what to do on the job search,"I am a Computer Science Graduate focused on Backend Development. It's been 1 month since I graduated and I still couldn't find a job.
+
+I know this is a very cliche question but I don't know what to code to prove that I can be employable. How can I prove that I am a good programmer? I am sick of demo/tutorial projects but I don't have an business idea to code either. 
+
+What can I do? Should I also solve Leetcode projects besides projects? 
+
+Thanks in regards.",batugkocak,1h3s9qh,https://reddit.com/r/learnprogramming/comments/1h3s9qh/recent_graduate_feel_lost_on_what_to_do_on_the/,https://www.reddit.com/r/learnprogramming/comments/1h3s9qh/recent_graduate_feel_lost_on_what_to_do_on_the/,2024-12-01 01:50:56,20,0.82,20,0,8,0,0,False,False,True,False,False,,,t3_1h3s9qh
+learnprogramming,"Can you guys please guide me on how to approach DSA? I have only learnt CPP basic level(no STL), learning oop and DBMS for sem. There is  also DSA in sem I don't know what to do in DSA for sem or placement. PLEASE HELP","Please help me , I have no idea I am overwhelmed by the videos on YouTube.",dreamwastobepilot,1h42wao,https://reddit.com/r/learnprogramming/comments/1h42wao/can_you_guys_please_guide_me_on_how_to_approach/,https://www.reddit.com/r/learnprogramming/comments/1h42wao/can_you_guys_please_guide_me_on_how_to_approach/,2024-12-01 13:07:41,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1h42wao
+learnprogramming,What is the fastest way to learn C++ coming from languages that had more abstractions such as java and C#?,"Basically title, I need to get up to speed quickly on C++ but it has many differences so I am finding it harder to pick up compared to the other languages I know.
+
+I don't want to waste my time learning very basic stuff like what an int is because I already know it but Stuff like pointers, memory management etc are usually handled automatically in newer languages so that's the part I struggle with.",MokNaruto,1h40n5z,https://reddit.com/r/learnprogramming/comments/1h40n5z/what_is_the_fastest_way_to_learn_c_coming_from/,https://www.reddit.com/r/learnprogramming/comments/1h40n5z/what_is_the_fastest_way_to_learn_c_coming_from/,2024-12-01 10:39:53,2,0.67,2,0,5,0,0,False,False,True,False,False,,,t3_1h40n5z
+learnprogramming,Built the linux uniq tool in js.,"I recently created a simple command-line tool to process text files. It’s meant to make repetitive tasks easier, like counting lines, skipping fields, or finding unique lines in a file.  
+Just wanted some feedback was thinking of publishing it to npm.
+
+[https://github.com/vr-varad/coding-challenges/tree/master/uniq](https://github.com/vr-varad/coding-challenges/tree/master/uniq)",VaradGupta,1h42i32,https://reddit.com/r/learnprogramming/comments/1h42i32/built_the_linux_uniq_tool_in_js/,https://www.reddit.com/r/learnprogramming/comments/1h42i32/built_the_linux_uniq_tool_in_js/,2024-12-01 12:44:38,2,0.76,2,0,2,0,0,False,False,True,False,False,,,t3_1h42i32
+learnprogramming,FREE RESOURCES TO LEARN C++,"The two resources that seem to be most recommended are learncpp.com and studyplan.dev.
+Which is better???
+pros-cons?
+
+We are talking about what seem to be full A-Z courses. 
+Keep in mind it is for a (almost completely) beginner person, I do have some prior knowledge, but i want to start from 0. ",saucyasiam,1h3p4lp,https://reddit.com/r/learnprogramming/comments/1h3p4lp/free_resources_to_learn_c/,https://www.reddit.com/r/learnprogramming/comments/1h3p4lp/free_resources_to_learn_c/,2024-11-30 23:15:06,22,0.77,22,0,6,0,0,False,False,True,False,False,Resource,,t3_1h3p4lp
+learnprogramming,Shot in the dark - anyone here an expert on the Pulp package in Python and could lend a hand?,"I am learning Pulp for my decision analysis class and trying to create a script to model several aircraft taxiing from a gate node to a runway node to minimize the taxi and wait times. Where I am getting stuck is adding a time range to the problem so that I can compute the collective hold time for the aircraft (the code runs without error, just that the solution is unfeasible). If anyone would be willing to look at my code that would be much appreciated. Problem definition, objective function, and constraints below. Thank you!
+
+aircraft = \[""A1"", ""A2"", ""A3"", ""A4"", ""A5"", ""A6"", ""A7""\]  # List of aircraft
+
+nodes = \[""Gate1"", ""Node1"", ""Node2"", ""Runway"", ""Node3""\]  # Taxiway nodes
+
+arcs = \[(""Gate1"", ""Node1""), (""Gate1"", ""Node3""), (""Node1"", ""Node2""), (""Node2"", ""Runway""), (""Node3"", ""Runway""), (""Gate1"", ""Node2"")\]  # Taxiway arcs
+
+taxi\_time = {(""Gate1"", ""Node1""): 3, (""Gate1"", ""Node3""): 2, (""Node1"", ""Node2""): 2, (""Node2"", ""Runway""): 2, (""Node3"", ""Runway""): 4, (""Gate1"", ""Node2""): 3,(""Node2"", ""Node3""):1 }  # Time for each arc
+
+time\_periods = range(1,61)
+
+
+
+arc\_capacity = {(""Gate1"", ""Node1""): 1, (""Gate1"", ""Node3""): 1, (""Node1"", ""Node2""): 1, (""Node2"", ""Runway""): 1, (""Node3"", ""Runway""): 1, (""Gate1"", ""Node2""): 1, (""Node2"", ""Node3""): 1}
+
+\# Aircraft-specific start and end nodes
+
+start\_node = {""A1"": ""Gate1"", ""A2"": ""Gate1"", ""A3"": ""Gate1"", ""A4"": ""Gate1"", ""A5"": ""Gate1"", ""A6"": ""Gate1"", ""A7"": ""Gate1""}
+
+end\_node = {""A1"": ""Runway"", ""A2"": ""Runway"", ""A3"": ""Runway"", ""A4"": ""Runway"", ""A5"": ""Runway"", ""A6"": ""Runway"", ""A7"": ""Runway""}
+
+
+
+\# Time windows for each aircraft
+
+\#time\_window = {""A1"": (0, 2), ""A2"": (0, 2), ""A3"": (0, 5), ""A4"": (0, 5), ""A5"": (0,7), ""A6"": (0, 5), ""A7"": (0,7) }
+
+
+
+\# Decision variables
+
+x = pl.LpVariable.dicts(""x"", \[(a, arc, t) for a in aircraft for arc in arcs for t in time\_periods\], cat=""Binary"")
+
+w = pl.LpVariable.dicts(""w"", \[(a, node, t) for a in aircraft for node in nodes for t in time\_periods\], lowBound=0, cat=""Continuous"")
+
+
+
+\# Model
+
+model = pl.LpProblem(""Minimize\_Taxi\_and\_Waiting\_Time"", pl.LpMinimize)
+
+\# Objective: Minimize taxi time and waiting time
+
+model += (
+
+pl.lpSum(x\[a, arc, t\] \* taxi\_time\[arc\] for a in aircraft for arc in arcs for t in time\_periods)
+
+\+ pl.lpSum(w\[a, node, t\] for a in aircraft for node in nodes for t in time\_periods),
+
+""Total\_Time"",
+
+)
+
+
+
+\# Constraints
+
+\# 1. Each aircraft must start at its starting node
+
+for a in aircraft:
+
+for t in time\_periods:
+
+model += pl.lpSum(x\[a, arc, t\] for arc in arcs for t in time\_periods if arc\[0\] == start\_node\[a\]) == 1 #, f""Start\_Node\_{a}""
+
+
+
+\# 2. Each aircraft must end at its ending node
+
+for a in aircraft:
+
+for t in time\_periods:
+
+model += pl.lpSum(x\[a, arc, t\] for arc in arcs or t in time\_periods if arc\[1\] == end\_node\[a\]) == 1 #, f""End\_Node\_{a}""
+
+
+
+\# 3. Flow conservation for intermediate nodes
+
+for a in aircraft:
+
+for node in nodes:
+
+for t in time\_periods:
+
+if node not in \[start\_node\[a\], end\_node\[a\]\]:
+
+model += (
+
+pl.lpSum(x\[a, arc, t\] for arc in arcs for t in time\_periods if arc\[1\] == node)
+
+== pl.lpSum(x\[a, arc, t\] for arc in arcs for t in time\_periods if arc\[0\] == node)
+
+\#f""Flow\_Conservation\_{a}\_{node}"",
+
+)
+
+
+
+\# 4. Waiting time constraints
+
+\# Waiting time at a node must be non-negative and within the time window
+
+for a in aircraft:
+
+for node in nodes:
+
+for t in time\_periods:
+
+model += w\[a, node, t\] &gt;= 0 #, f""NonNegative\_Wait\_{a}\_{node}""
+
+
+
+\# 5. Aircraft separation at nodes
+
+\# Prevent multiple aircraft from occupying the same node at the same time
+
+for node in nodes:
+
+for t in time\_periods:
+
+model += (
+
+pl.lpSum(w\[a, node, t\] for a in aircraft for t in time\_periods) &lt;= arc\_capacity
+
+\#f""Node\_Separation\_{node}"",
+
+)",Delta_B747,1h45kd2,https://reddit.com/r/learnprogramming/comments/1h45kd2/shot_in_the_dark_anyone_here_an_expert_on_the/,https://www.reddit.com/r/learnprogramming/comments/1h45kd2/shot_in_the_dark_anyone_here_an_expert_on_the/,2024-12-01 15:22:44,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1h45kd2
+learnprogramming,My FAANG level Algo/DS preparation journey,"Sharing the medium article while details real and honest account of FAANG level Algo/DS preparation
+
+[https://medium.com/@rajbopche/my-preparation-for-algo-ds-193c90952d8c](https://medium.com/@rajbopche/my-preparation-for-algo-ds-193c90952d8c)  
+",raj_bopche,1h459y7,https://reddit.com/r/learnprogramming/comments/1h459y7/my_faang_level_algods_preparation_journey/,https://www.reddit.com/r/learnprogramming/comments/1h459y7/my_faang_level_algods_preparation_journey/,2024-12-01 15:09:20,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h459y7
+learnprogramming,Looking for a DSA Coach/Tutor,"Hey,
+I'm looking for a tutor for DSA. 
+About me:
+B.E 2019 (Electronics and Telecom) 
+Work Experience: 5 years (Java developer) 
+
+Expectations:
+Some one who can teach DSA from scratch 
+3 to 4 times a week (Preferably Evenings). 
+ Assign H.W and track progess
+
+",tejas1097,1h44vf2,https://reddit.com/r/learnprogramming/comments/1h44vf2/looking_for_a_dsa_coachtutor/,https://www.reddit.com/r/learnprogramming/comments/1h44vf2/looking_for_a_dsa_coachtutor/,2024-12-01 14:50:25,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h44vf2
+learnprogramming,I'm stuck - resources for (advanced) projects?,"I'm a mechanical engineer who somehow landed in the IT field, and now my dayjob - amongst other things - involves programming. I am not a computer scientist, and most things I know on IT topics are self taught.
+But I feel like I'm kind of stuck. Most programming tasks I do for work are not too challenging, since it is not my main task. That is why I feel like I don't make much progress when it comes to my programming skills, which has been frustating me for quite some time now.
+For me, I feel like I need to create things and apply my knowledge in order to really get things into my long term memory, which is why I learn the most by solving  problems myself or building stuff.
+
+But the question is: What? I feel terribly uninspired and don't have any idea for problems/projects that make things fun again.
+I don't really care about the technology used, I've used different languages over the years (C#, Java, Python, etc.). Are there any resources (websites, books, etc) that have fun projects and problems that could inspire someone like me to advance further?",Robbzter,1h44diw,https://reddit.com/r/learnprogramming/comments/1h44diw/im_stuck_resources_for_advanced_projects/,https://www.reddit.com/r/learnprogramming/comments/1h44diw/im_stuck_resources_for_advanced_projects/,2024-12-01 14:25:50,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h44diw
+learnprogramming,Seeking Job Simulations or kinda,"Hi!, I recently got a bootcamp degree on Full-Stack Developer where I learned the path JavaScript/React and Python/flask but I'm seeking like job simulations programs to get experience and more practice because in this times I think we need get more professional experience to get hired hahaha",Wrong_Screen_3483,1h44802,https://reddit.com/r/learnprogramming/comments/1h44802/seeking_job_simulations_or_kinda/,https://www.reddit.com/r/learnprogramming/comments/1h44802/seeking_job_simulations_or_kinda/,2024-12-01 14:18:09,1,0.6,1,0,1,0,0,False,False,True,False,False,,,t3_1h44802
+learnprogramming,Looking for Portfolio Inspiration! Share Your Service-Based Portfolio Links! 🚀,"Hey everyone!
+
+I’m currently working on a portfolio to showcase my \[specific service, e.g., web scraping, programming, freelancing\] skills and would love to see how others have approached this. If you have a portfolio that aims to sell a service, drop your link below!
+
+I’m particularly interested in:
+
+* Design and layout ideas
+* How you present your services and skills
+* Call-to-action strategies
+
+Feel free to share any tips or tools you’ve used to create your portfolio as well. Let’s inspire each other! 🙌
+
+Looking forward to checking out your amazing work! 😊",Direct-Judgment-8805,1h43xsk,https://reddit.com/r/learnprogramming/comments/1h43xsk/looking_for_portfolio_inspiration_share_your/,https://www.reddit.com/r/learnprogramming/comments/1h43xsk/looking_for_portfolio_inspiration_share_your/,2024-12-01 14:03:10,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h43xsk
+learnprogramming,Is using Horner's rule for calculating polynomials more efficiant than calculating it in it's regular form in C language,"Let's say that we have polynomial y=3 \* (x \* x \* x \* x \* x) + 2 \* (x \* x \* x \* x) - 5 \* (x \* x \* x ) - (x \* x) + (7 \* x) - 6;
+
+Is it more efficiant to calculate that polynomial with Horner's rule:
+
+y=((((3\*x + 2)\*x - 5)\*x - 1)\*x + 7)\*x - 6;
+
+I mean we have fewer operations after all",Impossible_Visit2810,1h3qzj2,https://reddit.com/r/learnprogramming/comments/1h3qzj2/is_using_horners_rule_for_calculating_polynomials/,https://www.reddit.com/r/learnprogramming/comments/1h3qzj2/is_using_horners_rule_for_calculating_polynomials/,2024-12-01 00:45:07,10,0.71,10,0,13,0,0,False,False,True,False,False,optimization,,t3_1h3qzj2
+learnprogramming,"When a function parameter is a string, what does C++ transmit?","I'm trying to work through Bjarne Stroustrup's *Programming: Principles and Practices,* and the support headers are driving me crazy. Right now I'm trying to use simple\_error(int s&amp;) which g++ barfs on. In PPP\_support.h, the definition is
+
+\[code\[ inline void simple\_error(std::string&amp; s)\[/code\]
+
+I seem to need to use #include ""PPPheaders.h"", but my g++ doesn't like it.
+
+
+
+",GothRoger,1h3zzj0,https://reddit.com/r/learnprogramming/comments/1h3zzj0/when_a_function_parameter_is_a_string_what_does_c/,https://www.reddit.com/r/learnprogramming/comments/1h3zzj0/when_a_function_parameter_is_a_string_what_does_c/,2024-12-01 09:51:22,2,0.67,2,0,4,0,0,False,False,True,False,False,,,t3_1h3zzj0
+learnprogramming,How much cloud does your typical backend spring boot developer need to know?,I feel like im in a good place in terms of spring sp im moving on to cloud but its hard to tell how much knowledge is actually needed outside of deployment and using stuff like messaging queus and api gateways.,Swimming-Control-872,1h3srnq,https://reddit.com/r/learnprogramming/comments/1h3srnq/how_much_cloud_does_your_typical_backend_spring/,https://www.reddit.com/r/learnprogramming/comments/1h3srnq/how_much_cloud_does_your_typical_backend_spring/,2024-12-01 02:17:02,6,0.68,6,0,6,0,0,False,False,True,False,False,,,t3_1h3srnq
+learnprogramming,Manning subscription sharing,Anyone wants to share manning subscription on annual basis? Cost will be 100 USD.,cannyuncanny,1h42w3w,https://reddit.com/r/learnprogramming/comments/1h42w3w/manning_subscription_sharing/,https://www.reddit.com/r/learnprogramming/comments/1h42w3w/manning_subscription_sharing/,2024-12-01 13:07:24,0,0.4,0,0,0,0,0,False,False,True,False,False,,,t3_1h42w3w
+learnprogramming,First Project,"I just joined my uni and i knows basics of python and c++ and I know HTML, CSS and will soon be starting js.
+
+I badly want to make projects, I have some ideas of which I want to make project but I don't know where to start. i want to make physics simulations, some websites which use facial structure to know which hairstyle might suit you.
+
+I know these ideas are not unique but I really want to make on my own and want to learn.  
+I am ready to go long hours on this but tell me where to start. IK this qsn might sound dumb to u guys, but a little bit of advice could help me a lot.
+
+Please give advice keeping in mind that I have minimal knowledge about all these things and this is going to be my first project!",Swimming_Arm_1804,1h42mss,https://reddit.com/r/learnprogramming/comments/1h42mss/first_project/,https://www.reddit.com/r/learnprogramming/comments/1h42mss/first_project/,2024-12-01 12:52:27,1,0.67,1,0,1,0,0,False,False,True,False,False,Resource,,t3_1h42mss
+learnprogramming,How Do I Create A Web App on VS2022?,"Context:
+I am a complete beginner to this so please bear with me if I say completely wrong and stupid things.
+
+I have a task where I have to create a web application that is connected to a database that we can update, create and delete using VS2022 Core Web API, but I don't have any experience to this nor were we taught the very basics. I do know basic JavaScript but that's the extent of my knowledge.
+
+What I Have Done:
+I have tried researching, watching videos and even straight up using AI to teach me but I found no solution after days of constantly trying. The videos I find usually use ""ASP.NET Core Web App"" but I have no idea if that is actually what I need as we were told to use Core Web API. 
+
+The Problem:
+For more context, our instructor is one of those terrible yet terror instructors, which is why I am here. We were told to create a Web Application that is connected to a database, can create, update and delete data using ASP.NET Core Web API and was left to our own devices without being taught the very basics. I have been searching and trying but I can't seem to find anything, as nothing is familiar to me in VS 2022 and I am not familiar to it as VSC. ",Hi_ImJustARandomGuy,1h426y0,https://reddit.com/r/learnprogramming/comments/1h426y0/how_do_i_create_a_web_app_on_vs2022/,https://www.reddit.com/r/learnprogramming/comments/1h426y0/how_do_i_create_a_web_app_on_vs2022/,2024-12-01 12:25:35,1,0.6,1,0,1,0,0,False,False,True,False,False,,,t3_1h426y0
+learnprogramming,How to write Pseudocode in an efficient way?,"I have to learn pseudocode for some exams and I really feel like it's harder than simply writing programming-code. Since we can't use a specific language, I always end up writing everything way more verbosely, because it feels like pseudocode is meant to still be very exact and also easy to understand for non-programmers.
+
+I like programming for the clear structure and rules. So I basically want the same for pseudocode.
+
+I mainly program in Java und Kotlin, but also know some Python. Python seems quite well-suited for pseudocode. So I might want to basically write Python with some Kotlin, where Python is less expressive (e.g. fun instead of def for functions).
+
+Do you have tipps and rules for efficient and readable pseudocode, that doesn't take an eternity to think about or write down?
+
+**Examples with Python + Kotlin for Pseudocode**
+
+Write a function that takes two numbers from the user and prints out the sum of those.
+
+    fun add():
+      set x = input
+      set y = input
+    
+      print(x + y)
+
+  
+Write a function that takes a list of sales figures, adds them together and prints out the total sales in $.
+
+    fun total_sales(sales_figues):
+      set total = 0.0
+    
+      for each sales_figure in sales_figures:
+        total = total + sales_figure
+    
+      print(""Total: "" + total + ""$"")",No-Meaning-7694,1h426ib,https://reddit.com/r/learnprogramming/comments/1h426ib/how_to_write_pseudocode_in_an_efficient_way/,https://www.reddit.com/r/learnprogramming/comments/1h426ib/how_to_write_pseudocode_in_an_efficient_way/,2024-12-01 12:24:49,1,0.6,1,0,10,0,0,False,False,True,False,False,,,t3_1h426ib
+learnprogramming,My Programming Learning Journey: Struggling with Syntax and Cognitive Load After Two Years of Consistent Effort,"I've been seriously learning programming for over two years now, with a particularly intense period of daily coding and study since summer 2023. My ""uptime"" has been close to about 98% — I'm committed, but something fundamental feels broken in how I learn
+
+Every time I start something new, it feels like pure torture. Whether it's a new stack or technology, the process drains the life out of me. Learning seems like a constant battle where every single step is either a snag or a stumbling block
+
+My Learning Process:
+
+\- I break down tutorial videos into tiny 7-minute segments
+
+\- Take extremely detailed notes (down to the dot)
+
+\- Rewatch these segments multiple times
+
+\- Spend literally 30 minutes of real life analyzing just one minute of video
+
+\- Despite all this effort, I retain maybe 1/20 of the information
+
+
+
+The most frustrating part? Others seem to breeze through content by binge-watching, while I'm meticulously dissecting every moment and still feeling lost
+
+
+
+Current Focus: Frontend development, currently wrestling with advanced Redux (RTK)
+
+
+
+Biggest Challenge: Syntax retention. I understand logic most of the time, but remembering syntax feels impossible. Even after breaking concepts down into minute, simple parts, the connections remain fuzzy.
+
+
+
+I've tried everything:
+
+\- Detailed note-taking
+
+\- Repeated viewing
+
+\- Breaking down concepts
+
+\- Intensive study sessions
+
+
+
+But documentation feels like a foreign language. YouTube tutorials often show workarounds different from docs, making everything more confusing. I can spend 14 days, 5 hours daily on a 50-minute video and still only grasp a vague understanding.
+
+
+
+Emotional Toll:
+
+It feels like I'm constantly hitting my head against a wall. Each new technology seems like an entirely different world, and the learning curve appears almost vertical.
+
+
+
+I'm not looking for sympathy, but insight. Has anyone else experienced this? How do you break through this seemingly impenetrable wall of learning?
+
+
+
+Hoping to find some strategies and understanding. Thanks",Cold_Article_1399,1h3gzb5,https://reddit.com/r/learnprogramming/comments/1h3gzb5/my_programming_learning_journey_struggling_with/,https://www.reddit.com/r/learnprogramming/comments/1h3gzb5/my_programming_learning_journey_struggling_with/,2024-11-30 17:01:22,32,0.81,32,0,45,0,0,False,False,True,False,False,,,t3_1h3gzb5
+learnprogramming,Need Help with Banker’s Algorithm: Minimal Resources for a Safe State,"Hi everyone,
+
+I’m working on a problem involving the Banker’s Algorithm, and I’m stuck on determining the smallest value of x for which the system is in a safe state. Here’s the problem setup:
+
+**Problem Description:**
+
+The system has 4 processes and 5 allocatable resources. The current allocation, maximum needs, and available resources are as follows:
+
+|Process|Allocation|Max|Available|
+|:-|:-|:-|:-|
+|P0|1 0 2 1 1|1 2 1 3| 0 0 x 1 2|
+|P1|2 0 1 1 0|2 2 1 0||
+|P2|1 1 0 1 0|2 1 3 1 0||
+|P3|1 1 1 1 0|1 2 2 2 1||
+
+**Objective:**
+
+What is the smallest value of x such that this is a safe state?
+
+**Hints provided:**
+
+1. Compute the ""needs matrix"" (Need=Max−Allocation).
+2. Identify the process that can complete first if x is sufficiently large.
+
+I’ve calculated the needs matrix and tried different values for x, but I’m not entirely sure how to proceed with finding the exact smallest x that ensures the system remains in a safe state. I’d appreciate if someone could guide me through the steps or point me to resources that explain this process in detail.
+
+Thanks in advance for your help!
+
+**What I’ve Tried So Far:**
+
+* Calculated the needs matrix:
+   * Need\[i\]\[j\]=Max\[i\]\[j\]-Allocation\[i\]\[j\],
+      * where i represents the process number, j represents the resource type. The Max matrix indicates the maximum demand of each resource for each process. The Allocation matrix indicates the resources currently allocated to each process.
+   * For each process Pᵢ and each resource Rⱼ, subtract the allocated resources from the maximum demand:  
+      * Need ᵢⱼ=Max ᵢⱼ−Allocation ᵢⱼ 
+
+# 
+
+|Process|Allocation (A)|Max (M)|Need (M - A)|
+|:-|:-|:-|:-|
+|P0|\[1,0,2,1,1\]|\[1,1,2,1,3\]|\[0,1,0,0,2\]|
+|P1​|\[2,0,1,1,0\]|\[2,2,2,1,0\]|\[0,2,1,0,0\]|
+|P2​|\[1,1,0,1,0\]|\[2,1,3,1,0\]|\[1,0,3,0,0\]|
+|P3​|\[1,1,1,1,0\]|\[1,1,2,2,1\]|\[0,0,1,1,1\]|
+
+Now, given the availability vector, we know that R₁=0, R₂=0, R₄=1, R₆=2 are fixed, but we want to determine R₃.
+
+A process can execute if its resource requirements (from the Needs Matrix) are less than or equal to the resources currently available. For each process Pᵢ, we check if:  
+
+Need\[i\]\[j\] ≤ Available \[j\] ∀j   
+
+Where:
+
+− Need\[i\]\[j\] is the need of process Pᵢ for resource Rⱼ.
+
+− Available \[j\] is the current availability of resource Rⱼ.
+
+If Need(P₀)=\[0,1,0,0,2\], then:
+
+\- For R₁: 0 ≤ 0 (satisfied)
+
+\- For R₂: 1 ≤ 0 (not satisfied, so P₀ cannot run yet),
+
+\- For R₃: 0 ≤ x (always satisfied because 0 ≤ x for any x ),
+
+\- For R₄: 0 ≤ 1 (satisfied),
+
+\- For R₅: 2 ≤ 2 (satisfied).
+
+Since all conditions are not satisfied, do we state that P₀ cannot run? Do we repeat this calculation process for the other P's? But I am not sure how we get to the point of determining the smallest x.
+
+Any help is appreciated!",Fre5h_J4,1h3wk46,https://reddit.com/r/learnprogramming/comments/1h3wk46/need_help_with_bankers_algorithm_minimal/,https://www.reddit.com/r/learnprogramming/comments/1h3wk46/need_help_with_bankers_algorithm_minimal/,2024-12-01 05:51:22,3,1.0,3,0,0,0,0,False,False,True,False,False,Operating Systems,,t3_1h3wk46

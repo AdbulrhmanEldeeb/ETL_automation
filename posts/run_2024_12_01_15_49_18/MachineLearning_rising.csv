@@ -1,0 +1,79 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[R] Sources: Reasons why KG outperformes RD in Retrievers?,"Are there any sources discussing WHY Retriever work better with KG in contrast to RD? I find it super intuitive to say its better because in knowledge graphs we have more semantic structure and relations are discovered effeciently. In my mind its ""of course the graph is richer/more dense"" but when collaborated on a paper, it struck me that I wasnt able to justify that claim. I found no source whatsoever that actually explained why that might be the case.
+
+The only source i got was this one:  
+[https://arxiv.org/abs/2311.07509](https://arxiv.org/abs/2311.07509)
+
+also here in [](https://www.reddit.com/r/LocalLLaMA/) sub last year:  [https://www.reddit.com/r/LocalLLaMA/comments/17vy1bo/a\_benchmark\_to\_understand\_the\_role\_of\_knowledge/](https://www.reddit.com/r/LocalLLaMA/comments/17vy1bo/a_benchmark_to_understand_the_role_of_knowledge/)
+
+So all we we're able to say was ""We justify our decision because KG works better then RD \[source to benchmark paper\]""
+
+I would have loved to discuss why exactly KG are better suited and give arguments about information density, semantic strutuce or the better selection of related entities. But everything I found were only articles that threw around wild claims or pointed out easier/native implementation, which technically could also be achieved with RD.
+
+Can anyone point me to sources? would love to read an in-depth discussion on the reasons of better performance.",PopPsychological4106,1h447eu,https://reddit.com/r/MachineLearning/comments/1h447eu/r_sources_reasons_why_kg_outperformes_rd_in/,https://www.reddit.com/r/MachineLearning/comments/1h447eu/r_sources_reasons_why_kg_outperformes_rd_in/,2024-12-01 14:17:17,7,0.65,7,0,9,0,0,False,False,True,False,False,Research,self,t3_1h447eu
+MachineLearning,"[R] Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond",,moschles,1h40wms,https://reddit.com/r/MachineLearning/comments/1h40wms/r_qwenvl_a_versatile_visionlanguage_model_for/,https://storage.prod.researchhub.com/uploads/papers/2023/12/25/2308.12966.pdf,2024-12-01 10:59:28,7,1.0,7,0,0,0,0,False,False,False,False,False,Research,default,t3_1h40wms
+MachineLearning,[D] Monthly Who's Hiring and Who wants to be Hired?,"**For Job Postings** please use this template
+
+&gt;Hiring: \[Location\], Salary:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]    and \[Brief overview, what you're looking for\]
+
+**For Those looking for jobs** please use this template
+
+&gt;Want to be Hired: \[Location\], Salary Expectation:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]  Resume: \[Link to resume\] and \[Brief overview, what you're looking for\]
+
+&amp;#x200B;
+
+Please remember that this community is geared towards those with experience.",AutoModerator,1h3u444,https://reddit.com/r/MachineLearning/comments/1h3u444/d_monthly_whos_hiring_and_who_wants_to_be_hired/,https://www.reddit.com/r/MachineLearning/comments/1h3u444/d_monthly_whos_hiring_and_who_wants_to_be_hired/,2024-12-01 03:30:15,24,0.84,24,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h3u444
+MachineLearning,[Project] Noema – A Declarative AI Programming Library,,Super_Dependent_2978,1h46341,https://reddit.com/r/MachineLearning/comments/1h46341/project_noema_a_declarative_ai_programming_library/,/r/LocalLLaMA/comments/1h3d4d8/noema_a_declarative_ai_programming_library/,2024-12-01 15:46:35,2,1.0,2,0,0,0,0,False,False,False,False,False,Project,https://a.thumbs.redditmedia.com/Bke830yFsuJxUn2gkbNe1tpnLzRcSugASe-RSwzFQu0.jpg,t3_1h46341
+MachineLearning,Augmentation for Images with ROI [D],"I have an Image with roi (x\_min,y\_min,x\_max,y\_max). I want do Random flip,rotate,skew, translate ,etc.. with torchvison. what are the different ways in which you can transform the roi respectively in order to match with the augmented image ?",Brief_Papaya121,1h41z2x,https://reddit.com/r/MachineLearning/comments/1h41z2x/augmentation_for_images_with_roi_d/,https://www.reddit.com/r/MachineLearning/comments/1h41z2x/augmentation_for_images_with_roi_d/,2024-12-01 12:11:25,3,0.67,3,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1h41z2x
+MachineLearning,What's the best Open Source Image-Upscaling Model? [Discussion],"I'm using [Playground-v2.5-aesthetic](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic) to make some images for YouTube thumbnails. I'm really happy with the results:
+
+[1024x1024 base image of mars base.](https://preview.redd.it/uuo4sdgwp44e1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=84d61bf4d7fbf2457df1037e95603166390efa12)
+
+But I would like the image to be 1920x1080 pixels, and my only options are 1024x1024, or 1280x720 pixels. At the moment, I can get to 1920x1080 with Photoshop's outpainting:
+
+[1920x1080 outpainted image of mars base.](https://preview.redd.it/07tt5ix4q44e1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=cdfb7cefa8d2bb4f187d2ab6b86aaba17596506a)
+
+This is okay, but photoshops outpainting is manual and has a fairly significant quality drop. Ideally, I would generate an image in 1280x720 then upscale to 1920x1080 programmatically.
+
+I've heard of the following models:
+
+* Real-ERSGAN
+* Waifu2
+* SRGAN
+
+But before I jump into any of them, what open-source model is generally considered best to achieve this? I have an RTX 3060 12GB of VRAM.",FPGA_Superstar,1h3qcon,https://reddit.com/r/MachineLearning/comments/1h3qcon/whats_the_best_open_source_imageupscaling_model/,https://www.reddit.com/r/MachineLearning/comments/1h3qcon/whats_the_best_open_source_imageupscaling_model/,2024-12-01 00:13:57,27,0.89,27,0,8,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/ROcJ4oUu0I-1wtjwdAycnGfQ3s8tbIsJdyufqyhsVyI.jpg,t3_1h3qcon
+MachineLearning,[D] Any 'actual' credible ML certifications to apply for?,"As the title suggests, I'm looking for some ML certifications that actually hold some credibility and isn't very common. Would love to know from the experts here about any such certifications that I can apply to.",Swimming-Ad-3529,1h45t3x,https://reddit.com/r/MachineLearning/comments/1h45t3x/d_any_actual_credible_ml_certifications_to_apply/,https://www.reddit.com/r/MachineLearning/comments/1h45t3x/d_any_actual_credible_ml_certifications_to_apply/,2024-12-01 15:33:59,1,1.0,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h45t3x
+MachineLearning,[D] Looking for a Simple Program to Train a Language Model,"Hi everyone,
+I’ve recently started learning programming and have been working with various AI tools like ChatGPT. Now, I want to take it a step further and train my own language model. I’m looking for a program—preferably something on GitHub or similar—that can help me fine-tune a model on specific datasets like websites, books, or forums. Ideally, the program should have a user interface (UI) for ease of use, but if not, that’s fine as long as it’s straightforward.
+
+The Problem I Want to Solve
+While tools like ChatGPT are amazing, they often give general answers that don’t always align with my needs. For instance, I’d like an AI that only searches or provides answers based on a specific dataset that I provide. This would make the information much more relevant and tailored to my goals.
+
+My plan is to fine-tune an existing model using data I choose, such as a specific website, book, or any other source. The ultimate goal is to chat with an AI that has been customized to meet my requirements.
+
+My PC Specifications
+Here’s what I’m working with:
+
+•	Motherboard: Gigabyte B760 GAMING X AX DDR4
+•	Graphics Card: 12GB Sapphire Radeon RX 6700 XT PULSE
+•	Storage: 1TB Kingston NV2 M.2 PCIe 4.0 NVMe and 1TB Corsair Force MP600GS M.2 PCIe NVME
+•	Processor: Intel Core i5 12400F (6 cores, 2.50GHz)
+•	RAM: 32GB G.Skill RipJaws V DDR4-3600
+•	Cooling: be quiet! Pure Rock 2 Black Tower Cooler
+•	Power Supply: 750 Watt be quiet! Pure Power 12 M Modular (80+ Gold certified)
+
+Is this setup sufficient for training or fine-tuning a model locally? If not, what would you recommend?
+
+Looking for Recommendations
+Can anyone suggest a program or tool (preferably on GitHub) that simplifies the process of training or fine-tuning a language model? A UI would be great, but if it’s a command-line tool, that works too—as long as there’s good documentation for beginners. Any resources or tips for getting started with fine-tuning and deploying a customized model would also be highly appreciated.
+
+Thanks in advance for your suggestions!
+",yeah280,1h45yt7,https://reddit.com/r/MachineLearning/comments/1h45yt7/d_looking_for_a_simple_program_to_train_a/,https://www.reddit.com/r/MachineLearning/comments/1h45yt7/d_looking_for_a_simple_program_to_train_a/,2024-12-01 15:41:12,0,0.25,0,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1h45yt7
+MachineLearning,[D] Modern use-cases for RNNs?,"The discussion can be twofold.
+1)What are in your opinion some tasks, for the personal projects scale, where you think RNNs close to traditional implementations (LSTM, GRU) are still the best starting and ending point? Especially compared to transformers.
+
+In small time-series forecasting settings I can see a GRU being more convenient than a Transformer probably, but I am interested also in tasks where inputs are sequences of symbols or measures, but outputs maybe not.
+
+The main goal is to play with LSTM and GRU variants (eg minGRU) on datasets where it makes sense, might do tiny-Shakespeare but it doesn't warm my heart...
+
+2) do you think there are sequential tasks and settings where RNNs are not only the more natural option according to our intuition, but actually the only theoretically or experimentally available option to make do, compared to Transformers or 1D CNNs etc?",Sad-Razzmatazz-5188,1h38ym2,https://reddit.com/r/MachineLearning/comments/1h38ym2/d_modern_usecases_for_rnns/,https://www.reddit.com/r/MachineLearning/comments/1h38ym2/d_modern_usecases_for_rnns/,2024-11-30 09:22:32,47,0.88,47,0,21,0,0,False,False,True,False,False,Discussion,self,t3_1h38ym2

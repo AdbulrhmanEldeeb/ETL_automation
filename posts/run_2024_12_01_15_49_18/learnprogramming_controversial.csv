@@ -1,0 +1,643 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,"Self taught programmer for ~10 years, feeling completely lost","Hello, I’m a self taught programmer. I’ve started off with scratch when i was 6-7, then i went on to program in LUA in roblox studio, then i learnt Unity (but very briefly), then i started taking in more seriously and learnt Java and Python. 
+I’m now 17 and feeling like i have never really accomplished anything important. 
+I tried reading books about machine learning, but i felt those were too overwhelming. 
+Honestly I feel like i’m just suffering from the dunning krueger effect, that i should start something important and sticking to a roadmap (like electronics, which has always been something that interested me)
+
+What would you do? Do you have any stories to share? Thanks a lot. ",Alfotiub,1h3qtx9,https://reddit.com/r/learnprogramming/comments/1h3qtx9/self_taught_programmer_for_10_years_feeling/,https://www.reddit.com/r/learnprogramming/comments/1h3qtx9/self_taught_programmer_for_10_years_feeling/,2024-12-01 00:37:19,0,0.36,0,0,32,0,0,False,False,True,False,False,Topic,,t3_1h3qtx9
+learnprogramming,MIMXRT1024 webserver,"Hello everyone. I'm looking for someone who could help me crack and understand an assignment I've been given for my school.
+
+The assignment:
+Run a webserver on a MIMXRT1024-evk board and use CGI to make an LED blink on the board upon user input.
+
+I was able to run the webserver using the sdk lwip_httpsrv_freertos example. I was also able to run my own html/css/js files on it. What I'm struggling is the last part - connecting the button on my website to the physical board and making the LED blink.
+I'm not a very experienced programmer and I don't work well with other peoples code (ie. the example), there's a lot of stuff I don't understand and I don't know where and how to  configure the LED settings.
+
+If anybody would be willing to chat of provide some info, like where to learn more about this stuff, I would be very grateful.
+
+Thanks!",vendettasmith,1h40o4d,https://reddit.com/r/learnprogramming/comments/1h40o4d/mimxrt1024_webserver/,https://www.reddit.com/r/learnprogramming/comments/1h40o4d/mimxrt1024_webserver/,2024-12-01 10:41:48,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1h40o4d
+learnprogramming,Way to make my project more brainrotty/stupid?,"Hey everyone. I've created a project recently called TC or GTFO. It's a script that I created that basically auto comments TC or GTFO if one's TC isn't mentioned in a post from Blind. Now, I'm thinking of ideas to make this projects stupider to the point of no return. Any ideas?",Best-Objective-8948,1h3rvjd,https://reddit.com/r/learnprogramming/comments/1h3rvjd/way_to_make_my_project_more_brainrottystupid/,https://www.reddit.com/r/learnprogramming/comments/1h3rvjd/way_to_make_my_project_more_brainrottystupid/,2024-12-01 01:30:28,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1h3rvjd
+learnprogramming,Does anyone remember the post with the interactive coding website?,"I went down a rabbit hole and saw posts from like two months back to more recently. There was someone who posted a website they made to learn JavaScript and css with coding and also gaming. I thought this was a really cool concept and the website looked awesome but I accidentally lost the tab and can't find the website anymore because only more mainstream websites come up when I look for this diy one. 
+
+The original poster commented about how they struggled a lot to learn cs and they made the website to help others, if that info helps at all?
+Would love it if anyone could recommend similar websites if no one can recall what I'm looking for. Thanks! ",Think_Pilot_,1h3li67,https://reddit.com/r/learnprogramming/comments/1h3li67/does_anyone_remember_the_post_with_the/,https://www.reddit.com/r/learnprogramming/comments/1h3li67/does_anyone_remember_the_post_with_the/,2024-11-30 20:25:54,1,0.57,1,0,0,0,0,False,False,True,False,False,,,t3_1h3li67
+learnprogramming,"This might be dumb, but do you guys recommend using same username for all platforms?","
+Like imagine using the same string (eg. Asteroiddestroyer) over all your accounts? Like leetcode, code forces, Twitter and all?
+
+I'm asking coz I just read a comment that said ---- **""Better not to mention code forces account coz they'll flood you with hard DSA questions in the interview""**
+
+So using an unique username can make them search up our profiles and thus get hands over it.
+
+What do you guys personally do? I have one username used among almost every site",deja_vu_999,1h3jkzw,https://reddit.com/r/learnprogramming/comments/1h3jkzw/this_might_be_dumb_but_do_you_guys_recommend/,https://www.reddit.com/r/learnprogramming/comments/1h3jkzw/this_might_be_dumb_but_do_you_guys_recommend/,2024-11-30 18:58:41,0,0.38,0,0,12,0,0,False,False,True,False,False,,,t3_1h3jkzw
+learnprogramming,I want to learn C! ,Hello! I want to learn c for exam. How can i learn fast and efficient?,Cehyy,1h3oiaj,https://reddit.com/r/learnprogramming/comments/1h3oiaj/i_want_to_learn_c/,https://www.reddit.com/r/learnprogramming/comments/1h3oiaj/i_want_to_learn_c/,2024-11-30 22:45:42,6,0.69,6,0,20,0,0,False,False,True,False,False,,,t3_1h3oiaj
+learnprogramming,Don't become a junior Web Dev freelancer ,"Hello everyone,
+
+I have the impression that it's very difficult for a junior developer to go freelance, not because of a lack of skills but because of a lack of visibility. It's as if the freelancing market were saturated with either companies or expert freelancers.
+
+Do you think it would be good for everyone to think about a different way of linking up projects and freelancers (less difficulty for juniors, keeping the activity of people already in the business)? 🧐",M_AI-MyMarketingAI,1h42ep9,https://reddit.com/r/learnprogramming/comments/1h42ep9/dont_become_a_junior_web_dev_freelancer/,https://www.reddit.com/r/learnprogramming/comments/1h42ep9/dont_become_a_junior_web_dev_freelancer/,2024-12-01 12:39:07,0,0.38,0,0,1,0,0,False,False,True,False,False,,,t3_1h42ep9
+learnprogramming,How should you take notes while learning code and what platforms/tools are useful in doing so?,"I've noticed that the note taking skills I've built up for other subjects don't translate well to coding. Is traditional pen and paper note taking an effective way to learn coding (specifically R since this is the language I'm learning first)? If not, are there online notebooks or platforms that make note taking easier? 
+
+Any general tips on this topic would be much appreciated - I hope others who have similar questions are able to get that answered in this thread!",BruinShade,1h3lnke,https://reddit.com/r/learnprogramming/comments/1h3lnke/how_should_you_take_notes_while_learning_code_and/,https://www.reddit.com/r/learnprogramming/comments/1h3lnke/how_should_you_take_notes_while_learning_code_and/,2024-11-30 20:32:49,0,0.42,0,0,14,0,0,False,False,True,False,False,,,t3_1h3lnke
+learnprogramming,How to learn higher level concepts?,"I'm a self taught programmer.  I've had a lot of success learning by building projects and reading books / posts online.  I feel like I have good know how and problem solving ability and I've had a good amount of success in my job,  however I feel like I'm lacking some theoretical knowledge (algorithms, system design, concurrency and parallelism, how a computer actually works etc.).  
+
+How should I about learning these things?  Does anyone have any tips/courses/books that could help a developer from a non comp sci background improve there academic knowledge of computer science?",skrillavilla,1h3smxl,https://reddit.com/r/learnprogramming/comments/1h3smxl/how_to_learn_higher_level_concepts/,https://www.reddit.com/r/learnprogramming/comments/1h3smxl/how_to_learn_higher_level_concepts/,2024-12-01 02:10:08,1,0.6,1,0,4,0,0,False,False,True,False,False,,,t3_1h3smxl
+learnprogramming,FREE RESOURCES TO LEARN C++,"The two resources that seem to be most recommended are learncpp.com and studyplan.dev.
+Which is better???
+pros-cons?
+
+We are talking about what seem to be full A-Z courses. 
+Keep in mind it is for a (almost completely) beginner person, I do have some prior knowledge, but i want to start from 0. ",saucyasiam,1h3p4lp,https://reddit.com/r/learnprogramming/comments/1h3p4lp/free_resources_to_learn_c/,https://www.reddit.com/r/learnprogramming/comments/1h3p4lp/free_resources_to_learn_c/,2024-11-30 23:15:06,21,0.75,21,0,6,0,0,False,False,True,False,False,Resource,,t3_1h3p4lp
+learnprogramming,"I wanna learn C, Is MinGW really necessary? If yes, is there alternative?",I want to learn C but every video tutorial wants me to install MinGW. I can't install it because it requires admin password which I can't remeber so im stuck and I decided to ask if anyone knows any alternative that works about the same.,ErasingMomsSpagetti,1h3ismm,https://reddit.com/r/learnprogramming/comments/1h3ismm/i_wanna_learn_c_is_mingw_really_necessary_if_yes/,https://www.reddit.com/r/learnprogramming/comments/1h3ismm/i_wanna_learn_c_is_mingw_really_necessary_if_yes/,2024-11-30 18:23:03,4,0.65,4,0,17,0,0,False,False,True,False,False,,,t3_1h3ismm
+learnprogramming,Looking for a DSA Coach/Tutor,"Hey,
+I'm looking for a tutor for DSA. 
+About me:
+B.E 2019 (Electronics and Telecom) 
+Work Experience: 5 years (Java developer) 
+
+Expectations:
+Some one who can teach DSA from scratch 
+3 to 4 times a week (Preferably Evenings). 
+ Assign H.W and track progess
+
+",tejas1097,1h44vf2,https://reddit.com/r/learnprogramming/comments/1h44vf2/looking_for_a_dsa_coachtutor/,https://www.reddit.com/r/learnprogramming/comments/1h44vf2/looking_for_a_dsa_coachtutor/,2024-12-01 14:50:25,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h44vf2
+learnprogramming,Manning subscription sharing,Anyone wants to share manning subscription on annual basis? Cost will be 100 USD.,cannyuncanny,1h42w3w,https://reddit.com/r/learnprogramming/comments/1h42w3w/manning_subscription_sharing/,https://www.reddit.com/r/learnprogramming/comments/1h42w3w/manning_subscription_sharing/,2024-12-01 13:07:24,0,0.4,0,0,0,0,0,False,False,True,False,False,,,t3_1h42w3w
+learnprogramming,How to write Pseudocode in an efficient way?,"I have to learn pseudocode for some exams and I really feel like it's harder than simply writing programming-code. Since we can't use a specific language, I always end up writing everything way more verbosely, because it feels like pseudocode is meant to still be very exact and also easy to understand for non-programmers.
+
+I like programming for the clear structure and rules. So I basically want the same for pseudocode.
+
+I mainly program in Java und Kotlin, but also know some Python. Python seems quite well-suited for pseudocode. So I might want to basically write Python with some Kotlin, where Python is less expressive (e.g. fun instead of def for functions).
+
+Do you have tipps and rules for efficient and readable pseudocode, that doesn't take an eternity to think about or write down?
+
+**Examples with Python + Kotlin for Pseudocode**
+
+Write a function that takes two numbers from the user and prints out the sum of those.
+
+    fun add():
+      set x = input
+      set y = input
+    
+      print(x + y)
+
+  
+Write a function that takes a list of sales figures, adds them together and prints out the total sales in $.
+
+    fun total_sales(sales_figues):
+      set total = 0.0
+    
+      for each sales_figure in sales_figures:
+        total = total + sales_figure
+    
+      print(""Total: "" + total + ""$"")",No-Meaning-7694,1h426ib,https://reddit.com/r/learnprogramming/comments/1h426ib/how_to_write_pseudocode_in_an_efficient_way/,https://www.reddit.com/r/learnprogramming/comments/1h426ib/how_to_write_pseudocode_in_an_efficient_way/,2024-12-01 12:24:49,1,0.6,1,0,10,0,0,False,False,True,False,False,,,t3_1h426ib
+learnprogramming,How to Efficiently Convert a 250MB CSV File with 1 Million Rows to XLSX in AWS S3,"# Problem:
+
+I'm working on a project where I need to **convert large CSV files (250MB, with 1 million+ rows)** to **XLSX format** and save them back to **AWS S3**. The CSV is stored in an S3 bucket, and I’m trying to do the conversion directly from S3 without downloading the file locally due to its large size.
+
+However, I’m facing performance issues, as processing and converting these large files takes a lot of time. My current approach is based on **Node.js**, using libraries like `xlsx`, `fast-csv`, and **AWS SDK** for reading and writing to S3.
+
+# What I’ve Tried:
+
+1. **Streaming the CSV file**: I’ve tried using `fast-csv` to stream the file and process it in chunks. However, I still face memory and performance bottlenecks when writing the data to XLSX, especially with large files.
+2. **Worker Threads**: I’ve attempted to parallelize processing by using **worker threads** to handle chunks of the CSV data. This doesn’t seem to improve the performance significantly.
+3. **Buffering Issues**: I am encountering issues related to **buffers**, **memory consumption**, and **XLSX formatting**, as writing each row to the workbook one by one leads to significant delays, particularly with over a million rows.
+4. // Example of my approach to processing CSV and converting to XLSX
+5. const { S3Client, GetObjectCommand, PutObjectCommand } = require('@aws-sdk/client-s3');
+6. const { Worker, isMainThread, parentPort } = require('worker\_threads');
+7. const fastcsv = require('fast-csv');
+8. const xlsx = require('xlsx');
+9. const { PassThrough } = require('stream');
+10. const s3 = new S3Client({ region: 'us-east-1' });
+11. const bucketName = 'my-bucket';
+12. const inputFileKey = 'path/to/my-csv.csv';
+13. const outputFileKey = 'output\_data.xlsx';
+14. function processCSVInChunks() {
+15.   // Reading CSV from S3, then converting and writing to XLSX
+16. }
+17. function processBatch(rows) {
+18.   // Worker thread for processing batches
+19. }
+20. if (!isMainThread) {
+21.   parentPort.on('message', (rows) =&gt; {
+22. // Process and create XLSX in worker threads
+23.   });
+24. } else {
+25.   processCSVInChunks();
+26. }",Accomplished_Cod7500,1h41gfj,https://reddit.com/r/learnprogramming/comments/1h41gfj/how_to_efficiently_convert_a_250mb_csv_file_with/,https://www.reddit.com/r/learnprogramming/comments/1h41gfj/how_to_efficiently_convert_a_250mb_csv_file_with/,2024-12-01 11:36:59,0,0.5,0,0,15,0,0,False,False,True,False,False,,,t3_1h41gfj
+learnprogramming,how do I input an rfid scanner connected to arduino uno onto an html code?,"we have this research for our ecomp subject, but my teacher barely teaches us anything so we have to do things basically by ourselves. can anyone help/send me some video tutorials on how to connect and arduino based rfid scanner and it's tags' info onto an html so that the scan is functional in the webpage result? for reference our research is entitled ""**Implementation of a Radio Frequency Identification (RFID) Based Tracking System for Efficient Inventory Management of Chemistry Laboratory Materials in (name of our school)""**",donlol_,1h401z8,https://reddit.com/r/learnprogramming/comments/1h401z8/how_do_i_input_an_rfid_scanner_connected_to/,https://www.reddit.com/r/learnprogramming/comments/1h401z8/how_do_i_input_an_rfid_scanner_connected_to/,2024-12-01 09:56:29,0,0.5,0,0,4,0,0,False,False,True,False,False,,,t3_1h401z8
+learnprogramming,Express.js API Documentation,"I'm thinking about studying Swagger to create documentation for my nodejs api, what tips would you give me and how can I do this in the best way?",darlan_dev,1h3pblu,https://reddit.com/r/learnprogramming/comments/1h3pblu/expressjs_api_documentation/,https://www.reddit.com/r/learnprogramming/comments/1h3pblu/expressjs_api_documentation/,2024-11-30 23:24:38,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h3pblu
+learnprogramming,VBA Probability tree,Hello all. I’m creating a probability tree in VBA that utilizes nested loops. The last branch of the tree is making 40 to the tenth calculations and it’s freezing up excel. I get a blue spinning circle. Is vba able to handle this many calculations? Is there a better way to code a probability tree than with nested loops? Any insight is appreciated. ,NME6415,1h3ozef,https://reddit.com/r/learnprogramming/comments/1h3ozef/vba_probability_tree/,https://www.reddit.com/r/learnprogramming/comments/1h3ozef/vba_probability_tree/,2024-11-30 23:08:01,0,0.5,0,0,2,0,0,False,False,True,False,False,,,t3_1h3ozef
+learnprogramming,How to use the OMBd API in js?,"Welcome all
+
+I am currently building a website that picks movies based on the genre, time, and year. I need to build this for school. I am currently using the OMBb api. I get no error, but i cannot get any movies. I use the genre, minYear, maxYear, minTime, and maxTime. this is an example of the data:
+
+`Fetching movies for: Action 1970 2020 75 150`
+
+I use this line to get the movies out of the api:
+
+      const url = `https://www.omdbapi.com/?s=${genre}&amp;y=${startYear}&amp;apikey=${apiKey}`;
+
+But the problem is I always get null from the api.",UpstairsWild9057,1h3onxd,https://reddit.com/r/learnprogramming/comments/1h3onxd/how_to_use_the_ombd_api_in_js/,https://www.reddit.com/r/learnprogramming/comments/1h3onxd/how_to_use_the_ombd_api_in_js/,2024-11-30 22:53:10,0,0.5,0,0,8,0,0,False,False,True,False,False,,,t3_1h3onxd
+learnprogramming,Passive learning,"Couldn't come up with a better title.
+
+I've been learning Haskell by reading a PDF of [learnyouahaskell.com](http://learnyouahaskell.com), in commute, in a queue — anywhere except at a computer with an IDE open. My reasoning is following: I haven't been able to figure out how I would apply it practically, and at least this particular PDF (but I've also looked at other resources) doesn't have  practical exercises that you have to figure out on your own. All the code it has illustrates new concepts, so I can't know the solution.
+
+To be honest, even if it had exercises, I just don't love reading in front of a computer, so in that case I would probably still read all the explanations on the bus, and then do the exercises when I'm home. And that's if I couldn't figure them out just in my head, because, again, I don't expect to apply my knowledge practically, so I don't think deep knowledge is necessary.
+
+Still, I can't help feeling... weird about it, since I don't recall if I've ever approached a programming language this way.
+
+What do you think?",MeekHat,1h3jcby,https://reddit.com/r/learnprogramming/comments/1h3jcby/passive_learning/,https://www.reddit.com/r/learnprogramming/comments/1h3jcby/passive_learning/,2024-11-30 18:47:45,0,0.5,0,0,2,0,0,False,False,True,False,False,,,t3_1h3jcby
+learnprogramming,Tips on Volunteering to Teach Youth ,"Hi, I'm not sure if this is the right subreddit.
+
+I'm looking to volunteer at a non-profit to teach youth, possibly low-income, to learn programming and potentially other computer skills.
+
+Preferably something free since I don't want to pay for the kids.
+
+I found the following resources, but I'm not sure if this is the correct direction:
+
+Sololearn
+
+Freecodecamp
+This service also offers YouTube tutorials. In this video for example I'd to use the chapters as a curriculum for our classes. But I would teach them myself to help with student engagement.
+htts://youtu.be/rfscVS0vtbw?si=l703Zyb3_tiNnMoS
+
+Codeacademy
+
+Mimo
+
+Exercism ",Hey_Dudesss,1h3igee,https://reddit.com/r/learnprogramming/comments/1h3igee/tips_on_volunteering_to_teach_youth/,https://www.reddit.com/r/learnprogramming/comments/1h3igee/tips_on_volunteering_to_teach_youth/,2024-11-30 18:07:27,0,0.5,0,0,2,0,0,False,False,True,False,False,Resource,,t3_1h3igee
+learnprogramming,How to implement state machine pattern for my context,"Context: User fills in a form on my webpage. User then saves the form, based on the filled in data the form can get the following states:  
+  
+States:
+
+     public enum State
+        {
+            [Description(""NewForm"")] // Initial state
+            Draft = 0,
+            [Description(""Denied"")]
+            Afgekeurd = 1,
+            [Description(""Approved"")]
+            Afgerond = 2, 
+            [Description(""WaitForApprovalManager"")]
+            WaitForApprovalManager = 3,
+            [Description(""WaitForApprovalTech"")]
+            WaitForApprovalTech = 4,
+            [Description(""WaitForApprovalFinance"")]
+            WaitForApprovalFinance = 5,
+        }
+
+How I implemented the State Machine Pattern:  
+FormStateService.cs:
+
+    public class FormStateService
+        {
+            private FormState _currentState; // Current state of the form
+            private Form _form; // Form that the user filled in
+     
+            public FormStateService(Form form)
+            {
+                _form = form;
+                if (_currentState == null)
+                {
+                    SetState(new DraftState()); // Set initial state to draft
+                }
+            }
+     
+            public void SetState(FormState state)
+            {
+                _currentState = state;
+                _currentState.SetContext(_form);
+            }
+     
+            public Form HandleStateTransition()
+            {
+                _currentState.HandleStateTransition(this);
+                return _form;
+            }
+     
+            public Status GetCurrentState()
+            {
+                return (State)_form.State;
+            }
+        }
+
+FormState.cs:
+
+        public abstract class FormState
+        {
+            protected Form _form;
+     
+            public void SetContext(Form form)
+            {
+                _form = form;
+            }
+     
+            public abstract void HandleStateTransition(FormStateService stateMachine);
+        }
+
+WaitForApprovalManagerState.cs
+
+            public override void HandleStateTransition(FormStateService stateMachine)
+            {
+     
+                if (_form.TotalReceipt &gt;= 500) // Wait for managed to approve
+                {
+                    _form.State = (int)Status.WaitForApprovalManagerState;
+                    stateMachine.SetState(new WaitForApprovalManagerState());
+                    return;
+                }
+     
+                if (_form.TotalReceipt &gt;= 500 &amp;&amp; _form.ManagerApproved &amp;&amp; _form.TechForm == true) // If manager has approved let tech approve
+                {
+                    _form.State = (int)Status.WaitForApprovalTechState;
+                    stateMachine.SetState(new WaitForApprovalTechState());
+                    return;
+                }
+     
+            }
+    ",pubGGWP,1h3gipx,https://reddit.com/r/learnprogramming/comments/1h3gipx/how_to_implement_state_machine_pattern_for_my/,https://www.reddit.com/r/learnprogramming/comments/1h3gipx/how_to_implement_state_machine_pattern_for_my/,2024-11-30 16:41:47,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h3gipx
+learnprogramming,Is using Horner's rule for calculating polynomials more efficiant than calculating it in it's regular form in C language,"Let's say that we have polynomial y=3 \* (x \* x \* x \* x \* x) + 2 \* (x \* x \* x \* x) - 5 \* (x \* x \* x ) - (x \* x) + (7 \* x) - 6;
+
+Is it more efficiant to calculate that polynomial with Horner's rule:
+
+y=((((3\*x + 2)\*x - 5)\*x - 1)\*x + 7)\*x - 6;
+
+I mean we have fewer operations after all",Impossible_Visit2810,1h3qzj2,https://reddit.com/r/learnprogramming/comments/1h3qzj2/is_using_horners_rule_for_calculating_polynomials/,https://www.reddit.com/r/learnprogramming/comments/1h3qzj2/is_using_horners_rule_for_calculating_polynomials/,2024-12-01 00:45:07,10,0.72,10,0,13,0,0,False,False,True,False,False,optimization,,t3_1h3qzj2
+learnprogramming,Best low-level language for a python back end dev?,"I write back-end python code in my job (Django etc). I'm fairly comfortable with Java too, so I understand what it's like to use a strongly-typed, compiled language.
+
+But I am told that learning a language like C++, Rust or even C could help me be a better python programmer too?
+
+I want to mess around with one at the weekend. C++ sounds interesting for microcontrollers, but also many cool products get made in Rust nowadays?
+
+I like the idea of messing around with microcontrollers too.
+
+Have people had a both fun and educational experience with one of those languages?",tmutimer,1h431nr,https://reddit.com/r/learnprogramming/comments/1h431nr/best_lowlevel_language_for_a_python_back_end_dev/,https://www.reddit.com/r/learnprogramming/comments/1h431nr/best_lowlevel_language_for_a_python_back_end_dev/,2024-12-01 13:15:30,10,0.79,10,0,22,0,0,False,False,True,False,False,,,t3_1h431nr
+learnprogramming,My Programming Learning Journey: Struggling with Syntax and Cognitive Load After Two Years of Consistent Effort,"I've been seriously learning programming for over two years now, with a particularly intense period of daily coding and study since summer 2023. My ""uptime"" has been close to about 98% — I'm committed, but something fundamental feels broken in how I learn
+
+Every time I start something new, it feels like pure torture. Whether it's a new stack or technology, the process drains the life out of me. Learning seems like a constant battle where every single step is either a snag or a stumbling block
+
+My Learning Process:
+
+\- I break down tutorial videos into tiny 7-minute segments
+
+\- Take extremely detailed notes (down to the dot)
+
+\- Rewatch these segments multiple times
+
+\- Spend literally 30 minutes of real life analyzing just one minute of video
+
+\- Despite all this effort, I retain maybe 1/20 of the information
+
+
+
+The most frustrating part? Others seem to breeze through content by binge-watching, while I'm meticulously dissecting every moment and still feeling lost
+
+
+
+Current Focus: Frontend development, currently wrestling with advanced Redux (RTK)
+
+
+
+Biggest Challenge: Syntax retention. I understand logic most of the time, but remembering syntax feels impossible. Even after breaking concepts down into minute, simple parts, the connections remain fuzzy.
+
+
+
+I've tried everything:
+
+\- Detailed note-taking
+
+\- Repeated viewing
+
+\- Breaking down concepts
+
+\- Intensive study sessions
+
+
+
+But documentation feels like a foreign language. YouTube tutorials often show workarounds different from docs, making everything more confusing. I can spend 14 days, 5 hours daily on a 50-minute video and still only grasp a vague understanding.
+
+
+
+Emotional Toll:
+
+It feels like I'm constantly hitting my head against a wall. Each new technology seems like an entirely different world, and the learning curve appears almost vertical.
+
+
+
+I'm not looking for sympathy, but insight. Has anyone else experienced this? How do you break through this seemingly impenetrable wall of learning?
+
+
+
+Hoping to find some strategies and understanding. Thanks",Cold_Article_1399,1h3gzb5,https://reddit.com/r/learnprogramming/comments/1h3gzb5/my_programming_learning_journey_struggling_with/,https://www.reddit.com/r/learnprogramming/comments/1h3gzb5/my_programming_learning_journey_struggling_with/,2024-11-30 17:01:22,32,0.8,32,0,45,0,0,False,False,True,False,False,,,t3_1h3gzb5
+learnprogramming,Seeking Job Simulations or kinda,"Hi!, I recently got a bootcamp degree on Full-Stack Developer where I learned the path JavaScript/React and Python/flask but I'm seeking like job simulations programs to get experience and more practice because in this times I think we need get more professional experience to get hired hahaha",Wrong_Screen_3483,1h44802,https://reddit.com/r/learnprogramming/comments/1h44802/seeking_job_simulations_or_kinda/,https://www.reddit.com/r/learnprogramming/comments/1h44802/seeking_job_simulations_or_kinda/,2024-12-01 14:18:09,1,0.6,1,0,1,0,0,False,False,True,False,False,,,t3_1h44802
+learnprogramming,"When a function parameter is a string, what does C++ transmit?","I'm trying to work through Bjarne Stroustrup's *Programming: Principles and Practices,* and the support headers are driving me crazy. Right now I'm trying to use simple\_error(int s&amp;) which g++ barfs on. In PPP\_support.h, the definition is
+
+\[code\[ inline void simple\_error(std::string&amp; s)\[/code\]
+
+I seem to need to use #include ""PPPheaders.h"", but my g++ doesn't like it.
+
+
+
+",GothRoger,1h3zzj0,https://reddit.com/r/learnprogramming/comments/1h3zzj0/when_a_function_parameter_is_a_string_what_does_c/,https://www.reddit.com/r/learnprogramming/comments/1h3zzj0/when_a_function_parameter_is_a_string_what_does_c/,2024-12-01 09:51:22,2,0.67,2,0,4,0,0,False,False,True,False,False,,,t3_1h3zzj0
+learnprogramming,I got this question in an OA 1 months back.,"I am unable to get all permutations of the string that is divided into m parts.  
+Joe has organized a party for M guests and has planned a party game. In the game, Joe gives everyone a string S and explains to them the rules to play the game. The rules to play the game are as follows The string S needs to be distributed among the M guests, and each guest must get at least one character. The smallest lexicographical distribution of the string S among the M guests must be stored. Out of all the stored smallest lexicographical distributions, the largest lexicographical string must be found for distributing ""good"" and the number of guests are 3. Here are all possible ways in which you can distribute the string among 3 guests: ((o, o, dg), (oo, d, g), (o, do, g), (o, d, go), (o, d, og), (o, gd, o), (o, od, g)\] Now, the lexicographically smallest strings among all these distributions are   
+(o, o, dg)-dg  
+(oo, d, g)-d  
+(o, d, go)-d   
+(o, d, og)-d   
+(o, gd, o)-gd   
+(o, od, g)-g   
+After comparing all the lexicographically smallest strings of every distribution, ""gd"" is the lexicographically strongest string. Hence, gd is returned as the output.  
+
+
+Here I am unable to find an efficient way to get the distributions. I asked ai assistants but they also failed to give a solution. On google search there is a similar question but it is not same and they are also not finding the correct permutations and the question is not completely same.",Electrical_Jicama144,1h3yai3,https://reddit.com/r/learnprogramming/comments/1h3yai3/i_got_this_question_in_an_oa_1_months_back/,https://www.reddit.com/r/learnprogramming/comments/1h3yai3/i_got_this_question_in_an_oa_1_months_back/,2024-12-01 07:48:14,1,0.67,1,0,3,0,0,False,False,True,False,False,Unable to find solution,,t3_1h3yai3
+learnprogramming,Coding  a native application to find lyrics in music files,"Hi everyone!
+
+Yes, I read the FAQ, yes I've researched the topic for a while and still haven't reached a conclusive answer. Maybe my search terms are wrong, maybe I am not good at this. Anyhow...
+
+I'm starting a personal project to build a native application (for Linux, ideally) that can determine if a song has lyrics. I find music helpful to focus, but lyrics can be distracting.
+
+Currently my solution is just listening to bits and pieces of the songs and sorting them efficiently, but manually using a bash script.
+
+I'm hoping to create a program that can analyze audio files and identify whether or not they contain significant amounts of vocal content (lyrics). Ideally, the program would analyse the whole library and write a commentary in the metadata of each track.
+
+However, I'm stuck on the technical side. I'm not sure what technologies would be best suited for this task. Does anyone have experience with developing programs that analyze audio for vocal content? Are there established libraries or frameworks I should be looking into? Is this even feasible?  
+I'm particularly interested in:
+
+Possible technologies: e.g., libraries for audio analysis
+
+Existing solutions: if any already exist and I just haven't stumbled upon them. Proprietary and even expensive programs might be worth it, but it has to be processed locally.
+
+Potential challenges: things I might not have considered
+
+Thanks in advance for any help!",55th_dollar,1h3olol,https://reddit.com/r/learnprogramming/comments/1h3olol/coding_a_native_application_to_find_lyrics_in/,https://www.reddit.com/r/learnprogramming/comments/1h3olol/coding_a_native_application_to_find_lyrics_in/,2024-11-30 22:50:08,0,0.4,0,0,0,0,0,False,False,True,False,False,Topic,,t3_1h3olol
+learnprogramming,State being stored in a central database,"I've read that in order for a server to be considered stateless, it must not store any information about the client and sessions are not stateful because the clients information are stored on a server.  
+My question is, if we decide to store the state on a centralised database where all servers can access the data, does it make the server stateless?",lubiah,1h3odz1,https://reddit.com/r/learnprogramming/comments/1h3odz1/state_being_stored_in_a_central_database/,https://www.reddit.com/r/learnprogramming/comments/1h3odz1/state_being_stored_in_a_central_database/,2024-11-30 22:40:01,1,0.6,1,0,3,0,0,False,False,True,False,False,,,t3_1h3odz1
+learnprogramming,How much cloud does your typical backend spring boot developer need to know?,I feel like im in a good place in terms of spring sp im moving on to cloud but its hard to tell how much knowledge is actually needed outside of deployment and using stuff like messaging queus and api gateways.,Swimming-Control-872,1h3srnq,https://reddit.com/r/learnprogramming/comments/1h3srnq/how_much_cloud_does_your_typical_backend_spring/,https://www.reddit.com/r/learnprogramming/comments/1h3srnq/how_much_cloud_does_your_typical_backend_spring/,2024-12-01 02:17:02,8,0.71,8,0,6,0,0,False,False,True,False,False,,,t3_1h3srnq
+learnprogramming,Is DS good for me or should i switch to CS?,"
+It seems that the “building ml models” part is going to ml engineers, while data scientists especially at big tech companies are just analysts that do ab testing (at least from reading job descriptions).
+
+Is DS still a good path if i like to analyze data and build ml models or should i switch to ml engineer? I am currently studying MS is data science, i can switch to CS but it would cost me one year, if it is worth it i will do it no problem",Filippo295,1h3n6nw,https://reddit.com/r/learnprogramming/comments/1h3n6nw/is_ds_good_for_me_or_should_i_switch_to_cs/,https://www.reddit.com/r/learnprogramming/comments/1h3n6nw/is_ds_good_for_me_or_should_i_switch_to_cs/,2024-11-30 21:43:48,2,0.67,2,0,0,0,0,False,False,True,False,False,,,t3_1h3n6nw
+learnprogramming,What is precompiled code?,"What is precompiled code? I've heard that pre compiled code is code inside of a header file which gets compiled before your actual .c file gets compiled. But how does that Work? Do you just simply write a Header file and it gets ""pre compiled"" when you save the file? 
+Can someone explain?",Business-Bed5916,1h3ln8f,https://reddit.com/r/learnprogramming/comments/1h3ln8f/what_is_precompiled_code/,https://www.reddit.com/r/learnprogramming/comments/1h3ln8f/what_is_precompiled_code/,2024-11-30 20:32:22,2,0.63,2,0,5,0,0,False,False,True,False,False,,,t3_1h3ln8f
+learnprogramming,What is the fastest way to learn C++ coming from languages that had more abstractions such as java and C#?,"Basically title, I need to get up to speed quickly on C++ but it has many differences so I am finding it harder to pick up compared to the other languages I know.
+
+I don't want to waste my time learning very basic stuff like what an int is because I already know it but Stuff like pointers, memory management etc are usually handled automatically in newer languages so that's the part I struggle with.",MokNaruto,1h40n5z,https://reddit.com/r/learnprogramming/comments/1h40n5z/what_is_the_fastest_way_to_learn_c_coming_from/,https://www.reddit.com/r/learnprogramming/comments/1h40n5z/what_is_the_fastest_way_to_learn_c_coming_from/,2024-12-01 10:39:53,2,0.67,2,0,5,0,0,False,False,True,False,False,,,t3_1h40n5z
+learnprogramming,Building my first app ,"Hello,
+
+I'm looking to try and build an app for the purposes of STEM events (Science, Technology, Engineering, Mathematics). It will be very basic, aimed at school level children. This will be on an android tablet.
+
+It will essentially be a menu screen, then each subsequent screen will be 4 or so pictures where the kids need to pick the correct option. Then moving on to the next section and rinse and repeat. Perhaps I'd have a score at the end which ties all their answers together but that could wait.
+
+I have no experience of doing this aside from working with Dreamweaver for websites many, many years ago. 
+Is this something I can accomplish myself? And if so what is the best platform to write the app in? Any tutorial pages on YouTube to help?
+I won't be putting it on an appstore or anything, it will live solely on a tablet at my work.
+
+Any other information required please ask.
+
+TIA ",Teatowel_DJ,1h3iaap,https://reddit.com/r/learnprogramming/comments/1h3iaap/building_my_first_app/,https://www.reddit.com/r/learnprogramming/comments/1h3iaap/building_my_first_app/,2024-11-30 17:59:48,2,0.63,2,0,9,0,0,False,False,True,False,False,,,t3_1h3iaap
+learnprogramming,system() returning different value with gcc,"I'm writing an interepreter, and I have an end-to-end test program in C++ which calls the interpreter executable. To get things off the ground, I'm just calling it with `system()`. Something like this.
+
+    const int ReturnValue = system(Command.c_str());
+    assert(ExpectedReturnValue == ReturnValue);
+
+On Windows, this seems to be working fine. But my CI runs in Gitlab on some sort of Linux image with gcc. Over there, it works fine when my interpreter returns 0, but when it returns 1, the `system()` command returns 256. I know the interpret is running fine, because I see it printing out the correct value before it exits:
+
+    std::cerr &lt;&lt; ""Returning "" &lt;&lt; Retval &lt;&lt; std::endl;
+    return Retval;
+
+My understanding of [the man page](https://www.man7.org/linux/man-pages/man3/system.3.html) is that the return value of system should be the return value of the last command it executes...
+
+Any idea what I'm missing?",TheyWhoPetKitties,1h3fm38,https://reddit.com/r/learnprogramming/comments/1h3fm38/system_returning_different_value_with_gcc/,https://www.reddit.com/r/learnprogramming/comments/1h3fm38/system_returning_different_value_with_gcc/,2024-11-30 16:01:16,3,0.8,3,0,4,0,0,False,False,True,False,False,,,t3_1h3fm38
+learnprogramming,Recent Graduate |Feel lost on what to do on the job search,"I am a Computer Science Graduate focused on Backend Development. It's been 1 month since I graduated and I still couldn't find a job.
+
+I know this is a very cliche question but I don't know what to code to prove that I can be employable. How can I prove that I am a good programmer? I am sick of demo/tutorial projects but I don't have an business idea to code either. 
+
+What can I do? Should I also solve Leetcode projects besides projects? 
+
+Thanks in regards.",batugkocak,1h3s9qh,https://reddit.com/r/learnprogramming/comments/1h3s9qh/recent_graduate_feel_lost_on_what_to_do_on_the/,https://www.reddit.com/r/learnprogramming/comments/1h3s9qh/recent_graduate_feel_lost_on_what_to_do_on_the/,2024-12-01 01:50:56,22,0.83,22,0,8,0,0,False,False,True,False,False,,,t3_1h3s9qh
+learnprogramming,Unmotivated ,"Hi, I've failed my first programming exam, although I thought I'd pass it because I'd done a lot of preparation. Now I feel very unmotivated and I don't know what to do, because now I'm ""scared"" about all the remaining exams and I'm thinking a lot about my future with programming... Is this feeling normal? What can I do? Thank you.",ASAPCream1,1h3ev0l,https://reddit.com/r/learnprogramming/comments/1h3ev0l/unmotivated/,https://www.reddit.com/r/learnprogramming/comments/1h3ev0l/unmotivated/,2024-11-30 15:25:55,7,0.78,7,0,11,0,0,False,False,True,False,False,,,t3_1h3ev0l
+learnprogramming,What could I learn next to increase my skills to a higher level,"Hello, I knew to program for few years.  I have learnt the basics of languages such as c c++ python( intermediate level) and more, and want to just concentrate on any one such thing and make something useful like a project. Also I want to learn a useful skill . I have been thinking over what to do and also started to use unity engine with C# and at the same time learned 3D modelling in blender to create a game, even then now I have been caught up with other stuffs so I can't much concentrate on them. So I thought to change over to something that might be more useful to learn like ml or AI but I am not sure what to continue. So could anyone help me , so that I want to know what to learn/ from where to learn something that I might be able to do useful solo projects and increase my skillsets, also would be happy where can I attend worthy programming competitions with certificates",Wardragon3344,1h3eis9,https://reddit.com/r/learnprogramming/comments/1h3eis9/what_could_i_learn_next_to_increase_my_skills_to/,https://www.reddit.com/r/learnprogramming/comments/1h3eis9/what_could_i_learn_next_to_increase_my_skills_to/,2024-11-30 15:08:56,8,0.84,8,0,8,0,0,False,False,True,False,False,,,t3_1h3eis9
+learnprogramming,I am studying to become a cybersecurity engineer.,"**I am studying to become a cybersecurity engineer. I am still in my second year of university, and I want to specialize in cybersecurity.** Therefore, I am here asking if there is anything that I can learn by myself that will help my academic and professional life.",not_thatman,1h423p6,https://reddit.com/r/learnprogramming/comments/1h423p6/i_am_studying_to_become_a_cybersecurity_engineer/,https://www.reddit.com/r/learnprogramming/comments/1h423p6/i_am_studying_to_become_a_cybersecurity_engineer/,2024-12-01 12:19:49,7,0.74,7,0,21,0,0,False,False,True,False,False,question,,t3_1h423p6
+learnprogramming,Reminder: Advent of Code starts tonight!,"I always remember that Advent of Code is happening about halfway through December, and feel like it's not worth trying at that point. So, here's your reminder:
+
+https://adventofcode.com/
+
+Starts at midnight, EST tonight. Four hours from when this was posted. 
+
+25 days of programming puzzles, ranging from very easy to pretty hard. One puzzle a day until Christmas. It's a good opportunity to learn a new language, or polish your skills in one you already know. ",i_invented_the_ipod,1h3rc45,https://reddit.com/r/learnprogramming/comments/1h3rc45/reminder_advent_of_code_starts_tonight/,https://www.reddit.com/r/learnprogramming/comments/1h3rc45/reminder_advent_of_code_starts_tonight/,2024-12-01 01:02:31,101,0.97,101,0,10,0,0,False,False,True,False,False,Resource,,t3_1h3rc45
+learnprogramming,I'm stuck - resources for (advanced) projects?,"I'm a mechanical engineer who somehow landed in the IT field, and now my dayjob - amongst other things - involves programming. I am not a computer scientist, and most things I know on IT topics are self taught.
+But I feel like I'm kind of stuck. Most programming tasks I do for work are not too challenging, since it is not my main task. That is why I feel like I don't make much progress when it comes to my programming skills, which has been frustating me for quite some time now.
+For me, I feel like I need to create things and apply my knowledge in order to really get things into my long term memory, which is why I learn the most by solving  problems myself or building stuff.
+
+But the question is: What? I feel terribly uninspired and don't have any idea for problems/projects that make things fun again.
+I don't really care about the technology used, I've used different languages over the years (C#, Java, Python, etc.). Are there any resources (websites, books, etc) that have fun projects and problems that could inspire someone like me to advance further?",Robbzter,1h44diw,https://reddit.com/r/learnprogramming/comments/1h44diw/im_stuck_resources_for_advanced_projects/,https://www.reddit.com/r/learnprogramming/comments/1h44diw/im_stuck_resources_for_advanced_projects/,2024-12-01 14:25:50,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h44diw
+learnprogramming,Looking for Portfolio Inspiration! Share Your Service-Based Portfolio Links! 🚀,"Hey everyone!
+
+I’m currently working on a portfolio to showcase my \[specific service, e.g., web scraping, programming, freelancing\] skills and would love to see how others have approached this. If you have a portfolio that aims to sell a service, drop your link below!
+
+I’m particularly interested in:
+
+* Design and layout ideas
+* How you present your services and skills
+* Call-to-action strategies
+
+Feel free to share any tips or tools you’ve used to create your portfolio as well. Let’s inspire each other! 🙌
+
+Looking forward to checking out your amazing work! 😊",Direct-Judgment-8805,1h43xsk,https://reddit.com/r/learnprogramming/comments/1h43xsk/looking_for_portfolio_inspiration_share_your/,https://www.reddit.com/r/learnprogramming/comments/1h43xsk/looking_for_portfolio_inspiration_share_your/,2024-12-01 14:03:10,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h43xsk
+learnprogramming,"Can you guys please guide me on how to approach DSA? I have only learnt CPP basic level(no STL), learning oop and DBMS for sem. There is  also DSA in sem I don't know what to do in DSA for sem or placement. PLEASE HELP","Please help me , I have no idea I am overwhelmed by the videos on YouTube.",dreamwastobepilot,1h42wao,https://reddit.com/r/learnprogramming/comments/1h42wao/can_you_guys_please_guide_me_on_how_to_approach/,https://www.reddit.com/r/learnprogramming/comments/1h42wao/can_you_guys_please_guide_me_on_how_to_approach/,2024-12-01 13:07:41,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1h42wao
+learnprogramming,First Project,"I just joined my uni and i knows basics of python and c++ and I know HTML, CSS and will soon be starting js.
+
+I badly want to make projects, I have some ideas of which I want to make project but I don't know where to start. i want to make physics simulations, some websites which use facial structure to know which hairstyle might suit you.
+
+I know these ideas are not unique but I really want to make on my own and want to learn.  
+I am ready to go long hours on this but tell me where to start. IK this qsn might sound dumb to u guys, but a little bit of advice could help me a lot.
+
+Please give advice keeping in mind that I have minimal knowledge about all these things and this is going to be my first project!",Swimming_Arm_1804,1h42mss,https://reddit.com/r/learnprogramming/comments/1h42mss/first_project/,https://www.reddit.com/r/learnprogramming/comments/1h42mss/first_project/,2024-12-01 12:52:27,1,0.67,1,0,1,0,0,False,False,True,False,False,Resource,,t3_1h42mss
+learnprogramming,Built the linux uniq tool in js.,"I recently created a simple command-line tool to process text files. It’s meant to make repetitive tasks easier, like counting lines, skipping fields, or finding unique lines in a file.  
+Just wanted some feedback was thinking of publishing it to npm.
+
+[https://github.com/vr-varad/coding-challenges/tree/master/uniq](https://github.com/vr-varad/coding-challenges/tree/master/uniq)",VaradGupta,1h42i32,https://reddit.com/r/learnprogramming/comments/1h42i32/built_the_linux_uniq_tool_in_js/,https://www.reddit.com/r/learnprogramming/comments/1h42i32/built_the_linux_uniq_tool_in_js/,2024-12-01 12:44:38,2,0.76,2,0,2,0,0,False,False,True,False,False,,,t3_1h42i32
+learnprogramming,How Do I Create A Web App on VS2022?,"Context:
+I am a complete beginner to this so please bear with me if I say completely wrong and stupid things.
+
+I have a task where I have to create a web application that is connected to a database that we can update, create and delete using VS2022 Core Web API, but I don't have any experience to this nor were we taught the very basics. I do know basic JavaScript but that's the extent of my knowledge.
+
+What I Have Done:
+I have tried researching, watching videos and even straight up using AI to teach me but I found no solution after days of constantly trying. The videos I find usually use ""ASP.NET Core Web App"" but I have no idea if that is actually what I need as we were told to use Core Web API. 
+
+The Problem:
+For more context, our instructor is one of those terrible yet terror instructors, which is why I am here. We were told to create a Web Application that is connected to a database, can create, update and delete data using ASP.NET Core Web API and was left to our own devices without being taught the very basics. I have been searching and trying but I can't seem to find anything, as nothing is familiar to me in VS 2022 and I am not familiar to it as VSC. ",Hi_ImJustARandomGuy,1h426y0,https://reddit.com/r/learnprogramming/comments/1h426y0/how_do_i_create_a_web_app_on_vs2022/,https://www.reddit.com/r/learnprogramming/comments/1h426y0/how_do_i_create_a_web_app_on_vs2022/,2024-12-01 12:25:35,1,0.6,1,0,1,0,0,False,False,True,False,False,,,t3_1h426y0
+learnprogramming,Seeking Guidance on Message Queue Development and the Importance of a Portfolio,"I have developed multiple projects but have deleted many, as I am mainly driven by design. Once I achieve the design, I tend to stop progressing with functionality and media queries. Currently, I am developing a message queue in Python. If anyone has successfully created a message queue, I would appreciate guidance. Also, I wonder if a portfolio really matters.",AnandGriffin,1h41lcs,https://reddit.com/r/learnprogramming/comments/1h41lcs/seeking_guidance_on_message_queue_development_and/,https://www.reddit.com/r/learnprogramming/comments/1h41lcs/seeking_guidance_on_message_queue_development_and/,2024-12-01 11:46:31,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h41lcs
+learnprogramming,best next baby step for someone that has a very specific project but lacks focus when learning. ,"So I have a project I'm working on, not thinking about working on, as steely dan would say ""I've already bought the dream"" so its too late to change direction. what I need help with is; whats the next step in learning for a guy in my position with my project? The project is a C++ based touch screen OS for a raspberry pi that can:  
+   
+A: be a radio, USB storage stereo and bluetooth stereo while outputting audio to an amplifier.   
+B: accept 0-5v input from sensors for referencing fuel+boost pressure and manifold pressure to precisely change motor speed via PWM to correct fuel pressure as required.   
+C: have a settings page.   
+D: run a second display with a gauge cluster.   
+E: control HVAC via a second smaller touch screen. 
+
+The reasons I'm not using openauto for this are as follows:
+
+A: as far as I know open auto requires an ECU to communicate with, this is a mechanical fuel system with electronic monitoring and pressure regulation.   
+B: I want the HVAC system to be separate because I hope to make it a product available to the public on it's own some day. its an open source mini mostly 3d-printable(heater core housing should really be metal) HVAC system for racecars. sounds corny but there's a lot of local interest.   
+C: I need to write, model and come up with all my own original code in order to avoid being sued or to avoid gigantic licensing fees. 
+
+I was going to learn about wxwidgets and get an idea of how to start the gui then I kinda stopped and asked myself ""if i go with wxwidgets, am I going to learn a whole bunch of stuff I can't use?""
+
+I recently went through a week long online refresher on C++ because it had been 14 years since I typed a line of it. anyway, now that I'm re-familiarized with my code of choice, where would a more seasoned person recommend a guy goes next? with the goal I have set in mind? sorry for the long read just felt like specificity was key here. I'm not doing this with the idea of being a professional programmer in mind, just adding to my ""inventors tool belt"" if you will. I'm good at everything physical but programming is.... new territory :s ",Sharkie921,1h3x8q9,https://reddit.com/r/learnprogramming/comments/1h3x8q9/best_next_baby_step_for_someone_that_has_a_very/,https://www.reddit.com/r/learnprogramming/comments/1h3x8q9/best_next_baby_step_for_someone_that_has_a_very/,2024-12-01 06:34:56,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h3x8q9
+learnprogramming,Need Help with Banker’s Algorithm: Minimal Resources for a Safe State,"Hi everyone,
+
+I’m working on a problem involving the Banker’s Algorithm, and I’m stuck on determining the smallest value of x for which the system is in a safe state. Here’s the problem setup:
+
+**Problem Description:**
+
+The system has 4 processes and 5 allocatable resources. The current allocation, maximum needs, and available resources are as follows:
+
+|Process|Allocation|Max|Available|
+|:-|:-|:-|:-|
+|P0|1 0 2 1 1|1 2 1 3| 0 0 x 1 2|
+|P1|2 0 1 1 0|2 2 1 0||
+|P2|1 1 0 1 0|2 1 3 1 0||
+|P3|1 1 1 1 0|1 2 2 2 1||
+
+**Objective:**
+
+What is the smallest value of x such that this is a safe state?
+
+**Hints provided:**
+
+1. Compute the ""needs matrix"" (Need=Max−Allocation).
+2. Identify the process that can complete first if x is sufficiently large.
+
+I’ve calculated the needs matrix and tried different values for x, but I’m not entirely sure how to proceed with finding the exact smallest x that ensures the system remains in a safe state. I’d appreciate if someone could guide me through the steps or point me to resources that explain this process in detail.
+
+Thanks in advance for your help!
+
+**What I’ve Tried So Far:**
+
+* Calculated the needs matrix:
+   * Need\[i\]\[j\]=Max\[i\]\[j\]-Allocation\[i\]\[j\],
+      * where i represents the process number, j represents the resource type. The Max matrix indicates the maximum demand of each resource for each process. The Allocation matrix indicates the resources currently allocated to each process.
+   * For each process Pᵢ and each resource Rⱼ, subtract the allocated resources from the maximum demand:  
+      * Need ᵢⱼ=Max ᵢⱼ−Allocation ᵢⱼ 
+
+# 
+
+|Process|Allocation (A)|Max (M)|Need (M - A)|
+|:-|:-|:-|:-|
+|P0|\[1,0,2,1,1\]|\[1,1,2,1,3\]|\[0,1,0,0,2\]|
+|P1​|\[2,0,1,1,0\]|\[2,2,2,1,0\]|\[0,2,1,0,0\]|
+|P2​|\[1,1,0,1,0\]|\[2,1,3,1,0\]|\[1,0,3,0,0\]|
+|P3​|\[1,1,1,1,0\]|\[1,1,2,2,1\]|\[0,0,1,1,1\]|
+
+Now, given the availability vector, we know that R₁=0, R₂=0, R₄=1, R₆=2 are fixed, but we want to determine R₃.
+
+A process can execute if its resource requirements (from the Needs Matrix) are less than or equal to the resources currently available. For each process Pᵢ, we check if:  
+
+Need\[i\]\[j\] ≤ Available \[j\] ∀j   
+
+Where:
+
+− Need\[i\]\[j\] is the need of process Pᵢ for resource Rⱼ.
+
+− Available \[j\] is the current availability of resource Rⱼ.
+
+If Need(P₀)=\[0,1,0,0,2\], then:
+
+\- For R₁: 0 ≤ 0 (satisfied)
+
+\- For R₂: 1 ≤ 0 (not satisfied, so P₀ cannot run yet),
+
+\- For R₃: 0 ≤ x (always satisfied because 0 ≤ x for any x ),
+
+\- For R₄: 0 ≤ 1 (satisfied),
+
+\- For R₅: 2 ≤ 2 (satisfied).
+
+Since all conditions are not satisfied, do we state that P₀ cannot run? Do we repeat this calculation process for the other P's? But I am not sure how we get to the point of determining the smallest x.
+
+Any help is appreciated!",Fre5h_J4,1h3wk46,https://reddit.com/r/learnprogramming/comments/1h3wk46/need_help_with_bankers_algorithm_minimal/,https://www.reddit.com/r/learnprogramming/comments/1h3wk46/need_help_with_bankers_algorithm_minimal/,2024-12-01 05:51:22,3,1.0,3,0,0,0,0,False,False,True,False,False,Operating Systems,,t3_1h3wk46
+learnprogramming,What are the job opportunities for a bachelor’s in CIT,"I’m a high school senior currently in the process of applying for college. I’ve always wanted to do something with computer since I was a child, and though I am by no means a programming expert, I would like a programming heavy job. 
+
+I’m currently torn between two degrees.
+Computer Science (CS) and Computer and Information Technology (CIT). I know that CS is the more “advanced” degree, and the bare minimum requirement for most software engineering, but I’m terrible at math and don’t know how I’d handle the calculus classes required to earn the degree. 
+
+That’s why I’m looking at CIT as an alternative. The classes my local university offers seem specifically tailored to different areas, including web design, video game development, and mobile app development. It seems like a good alternative, but I’m also not entirely sure what programming jobs I can get with it. IT looks temping but I know i wouldn’t be doing a lot of actual programming. 
+
+Should I just bite the bullet and major in CS and hope the math classes don’t turn me off, or is CIT still a viable option for someone looking for a programming centric job? Any and all advice will be appreciated. ",Night-Monkey15,1h3s0k7,https://reddit.com/r/learnprogramming/comments/1h3s0k7/what_are_the_job_opportunities_for_a_bachelors_in/,https://www.reddit.com/r/learnprogramming/comments/1h3s0k7/what_are_the_job_opportunities_for_a_bachelors_in/,2024-12-01 01:37:49,2,1.0,2,0,5,0,0,False,False,True,False,False,,,t3_1h3s0k7
+learnprogramming,Project Ideas,"Hello! This may be straddling the line of ""off-topic posts"", fair warning: 
+
+I am fairly moderate when it comes to my expertise in python and I am welcoming any and all ideas for a project I can conduct on my own. I have ideas of what I want to do, but I would like to reach out to all of you to see what your first project was and any ideas you may have for me to accomplish. 
+
+Some background info:
+
+\-served 6 years as a cyber security liaison in the Air Force
+
+\-Halfway through my bachelors in Cloud Computing
+
+\-Have delved into python off and on as I needed to refresh myself on the more complex coding, but have not gone out of my way to do something on my own beyond a simple game
+
+\-I am transitioning out of the military and am finishing school before I go job hunting in this field so time is on my side, thankfully
+
+Any and all advice is welcome and appreciated. If I have broken any rule with this post I understand and will do my best moving forward. ",cbnova,1h3rmkq,https://reddit.com/r/learnprogramming/comments/1h3rmkq/project_ideas/,https://www.reddit.com/r/learnprogramming/comments/1h3rmkq/project_ideas/,2024-12-01 01:17:35,1,1.0,1,0,5,0,0,False,False,True,False,False,,,t3_1h3rmkq
+learnprogramming,Cs50ai versus cs50,Do I need to take the regular cs50 class before I take the AI class?,temp_jits,1h3r8xg,https://reddit.com/r/learnprogramming/comments/1h3r8xg/cs50ai_versus_cs50/,https://www.reddit.com/r/learnprogramming/comments/1h3r8xg/cs50ai_versus_cs50/,2024-12-01 00:58:11,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h3r8xg
+learnprogramming,How do I deploy a full stack MVC app using Render?,"Hey guys, I’m finishing up my project and I want to deploy it. I’m using the Model-view-controller design pattern for my app. 
+
+I’m finishing up the project and I want to deploy it. I’ve tried a few times but nothing is working. My server is hosted in my back end as well as my model and controller and api. My front end is in my view file. Is there a specific configuration I need to do? I can’t get it to work. 
+
+Any help is appreciated 😁
+
+Here’s the repo:
+
+https://github.com/sukrijakararic/pleigns-ecommerce-fullstack-app",shuki-_,1h3if8v,https://reddit.com/r/learnprogramming/comments/1h3if8v/how_do_i_deploy_a_full_stack_mvc_app_using_render/,https://www.reddit.com/r/learnprogramming/comments/1h3if8v/how_do_i_deploy_a_full_stack_mvc_app_using_render/,2024-11-30 18:05:55,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h3if8v
+learnprogramming,Seeking advice on handling images and optimize costs in my ASP.NET App,"I apologize for asking you guys to ""solve"" my problem.  
+I'll try to provide some context first.
+
+I recently created a rudimentary application with 2 components:
+
+1. A frontend application that has 2 pages and that fetches car entities from firebase. - 1 overview page that displays said cars through pagination. - 1 page to display one particular car entity and all its details.
+2. A .NET desktop application to upload car data + images to firebase.
+
+A problem is that the load time for the images is extremely big, the overview page takes 7-8+ seconds to load.  
+Each entity has \~10 images and the overview page initially loads 6 entities, so that's 60 images. Small edit -&gt; I did use compression for the images fetched on the overview, it did not improve load times in a noticeable way.
+
+I'm using a free tier version of hosting for the frontend application and as well for firestore and firebase storage so I can't complain about speed but few other concerns did pop in my head aaaand long story short and after a bit of research I'm now currently trying to steer towards a full stack .net application instead that I will probably host on Azure.
+
+Now, below are my plans, concerns and questions where I do need some feedback. :&lt;
+
+One of the most concerning things is optimizing the bandwidth for all the data transfers regarding images, I would like to carefully approach this.  
+Some safety guards against malicious users spamming requests are also welcomed, I'm not sure if this will even be a real problem.  
+Ultimately, decent loading times are also important.
+
+I'll try to somehow arrange my plans based on the topic.
+
+A. Due to the simplicity of the application my current plan revolves around creating a [ASP.NET](http://ASP.NET) MVC Web App and using a Linux container to host it in Azure as an app service.
+
+B. The total amount of data that I will have is really small, around 50-100 car entities at max.  
+For storing the images I'll most probably go with azure blob storage but for storing the car entity details I'm not sure. I would only need two tables. One holding the car details and the other having all the references to the images blob storage images, both with few records.  
+Is using the storage provided by App Service a viable alternative?
+
+C. My application doesn't target users from different regions/countries. However, I've read Azure CDN can optimize bandwidth usage and load times.  
+Is a CDN necessary for this application?
+
+D. How can I protect myself against malicious users?  
+Sorry if this is a extremely stupid question but are there any built-in safeguards for someone spamming million requests to fetch images from the blob storage?  
+How to handle this kind of issue?
+
+E. I assume caching is essential for this, it will help optimizing data transfer and costs.  
+Any tips for implementing caching effectively for this?
+
+F. COSTS... after all, is going full Azure a good idea for this?  
+While I don't want to cut corners unnecessarily I would prefer to approach this in a smart way.  
+Unfortunately, my lack of experience is showing.
+
+How would you approach this? Are the technologies/cloud provider I chose suitable for my context?
+
+I will HIGHLY appreciate any kind of input about this.
+
+Thank you, and have an awesome day!",MindfreakGG,1h3i99g,https://reddit.com/r/learnprogramming/comments/1h3i99g/seeking_advice_on_handling_images_and_optimize/,https://www.reddit.com/r/learnprogramming/comments/1h3i99g/seeking_advice_on_handling_images_and_optimize/,2024-11-30 17:58:24,2,0.76,2,0,0,0,0,False,False,True,False,False,,,t3_1h3i99g
+learnprogramming,Creating a game in console before creating a UI,"I'm very early into learning C++ but I have a grasp on the basic concepts. Whilst not programming, I'm drafting out an idea on a very long term project I'm thinking about making.
+
+My main question is on the feasibility of creating an entire game (all of the logic etc) using just the console, then porting it across to a UI as and when I have gained the ability to do so? I think the game I'm working on could be made entirely of text based elements but wouldn't really appeal enough to release without interactive visual elements.
+
+Any input on whether this can be done, or if this is a common way of doing things would be appreciated.",Gazabyte,1h3g52f,https://reddit.com/r/learnprogramming/comments/1h3g52f/creating_a_game_in_console_before_creating_a_ui/,https://www.reddit.com/r/learnprogramming/comments/1h3g52f/creating_a_game_in_console_before_creating_a_ui/,2024-11-30 16:24:57,6,0.88,6,0,6,0,0,False,False,True,False,False,Topic,,t3_1h3g52f

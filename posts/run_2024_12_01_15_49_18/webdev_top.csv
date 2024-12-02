@@ -1,0 +1,618 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,I made a tool to create GIFs of source code diffs for sharing on social media,,cmgriffing,1h3l4gj,https://reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/,https://i.redd.it/ib2i8g9ji34e1.gif,2024-11-30 20:08:30,552,0.98,552,0,51,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/JCS8iFK8uXpsprqMVf8xdaJEIoPBTNAnaJ5Rc02EO-o.jpg,t3_1h3l4gj
+webdev,It’s been over two years since I showed off my color palette generator here. Here is how it looks now:,,scpalettegenerator,1h3md6e,https://reddit.com/r/webdev/comments/1h3md6e/its_been_over_two_years_since_i_showed_off_my/,https://www.reddit.com/gallery/1h3md6e,2024-11-30 21:05:32,373,0.98,373,0,34,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/zqMrCbVADGxouwkw_dk7TDoo1pywL1azF-w7t2Y32aY.jpg,t3_1h3md6e
+webdev,Created Advent Of TypeScript!,,bautistaaa,1h3xzkt,https://reddit.com/r/webdev/comments/1h3xzkt/created_advent_of_typescript/,https://i.redd.it/bnetny7nv64e1.gif,2024-12-01 07:26:19,255,0.97,255,0,13,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/OK0bRTnWATnOWuSkMYEqANS9hf7yuduB18-sR8kpxu8.jpg,t3_1h3xzkt
+webdev,I made a tech comparison tool.,,rahim-mando,1h3kix0,https://reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/,https://i.redd.it/aob5atnmd34e1.jpeg,2024-11-30 19:41:04,205,0.9,205,0,76,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/bJQx9AAlMD1WexPAoOsOqBhU66xmk5xUyy2rWSEzd-M.jpg,t3_1h3kix0
+webdev,I made a chrome extension that lets me watch any tv show or movie off IMDB with a single click!,,OriginalPlayerHater,1h3v2zv,https://reddit.com/r/webdev/comments/1h3v2zv/i_made_a_chrome_extension_that_lets_me_watch_any/,https://www.reddit.com/gallery/1h3v2zv,2024-12-01 04:24:57,85,0.94,85,0,12,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/RKAn3IRg35WBsFKc_VUBKkBYsov-fK5LZQ-Avxs8F9I.jpg,t3_1h3v2zv
+webdev,Which paid resources/courses were actually worth the money for you as a developer? ,"Could you share:
+
+1. Which **paid** resources (**courses/books/subscriptions**) have genuinely helped you grow as a developer and were worth every rupee?
+2. Which ones turned out to be a waste of money and you regret purchasing?
+
+Looking for honest reviews from your personal experience. This could help others make informed decisions too! Some points to consider while sharing:
+
+* Cost vs Value gained
+* How it impacted your learning/career
+* Whether you still use it
+* Would you recommend it to others
+
+*You can also mention any resources that have helped you in getting better in any aspect of life, like personal development etc if you wish to.*",saintandthesinner,1h3fhlg,https://reddit.com/r/webdev/comments/1h3fhlg/which_paid_resourcescourses_were_actually_worth/,https://www.reddit.com/r/webdev/comments/1h3fhlg/which_paid_resourcescourses_were_actually_worth/,2024-11-30 15:55:42,74,0.93,74,0,59,0,0,False,False,True,False,False,Discussion,self,t3_1h3fhlg
+webdev,I created 12 free tools in 2 weeks - all completely browser based.,"Hi redditors,  
+I created a website where I'm creating free tools - all browser based to showcase my coding skills. The tech stack I used is next.js and cloudflare. These are the list of free tools:
+
+  
+\- Summarize text with AI  
+\- Cover letter with AI  
+\- Linkedin post generator  
+\- Instagram caption generator  
+\- Credit card generator  
+\- QR Code generator  
+\- Image to animated gif  
+\- Image to text  
+\- Convert colors  
+\- Image to base64  
+\- Invoice generators  
+\- Color palette generator
+
+You can access all the free tools here: [https://webaggr.com/free-tools](https://webaggr.com/free-tools)",eashish93,1h3hnza,https://reddit.com/r/webdev/comments/1h3hnza/i_created_12_free_tools_in_2_weeks_all_completely/,https://www.reddit.com/r/webdev/comments/1h3hnza/i_created_12_free_tools_in_2_weeks_all_completely/,2024-11-30 17:31:41,76,0.74,76,0,21,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3hnza
+webdev,What’s the craziest piece of code you’ve seen?,Title says it all ,yeahimjtt,1h3wvsw,https://reddit.com/r/webdev/comments/1h3wvsw/whats_the_craziest_piece_of_code_youve_seen/,https://www.reddit.com/r/webdev/comments/1h3wvsw/whats_the_craziest_piece_of_code_youve_seen/,2024-12-01 06:11:15,70,0.9,70,0,77,0,0,False,False,True,False,False,Question,self,t3_1h3wvsw
+webdev,Bonsai-CLI Demo + Component Development,"https://preview.redd.it/rl2rruk3944e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c5a0c4102c4120ad0175716bdfbb40dd395bcbc8
+
+
+
+Bonsai-CLI will streamline web development for agencies or solo developers. I think it will truly 10-100x my development speed, for websites or web apps.
+
+Demo + live-stream: [https://www.youtube.com/watch?v=hM1V1IjR96E&amp;ab\_channel=JackalopeLabs](https://www.youtube.com/watch?v=hM1V1IjR96E&amp;ab_channel=JackalopeLabs)
+
+Bonsai-CLI allows you to generate a beautiful web app in seconds, using pre-built and designed Tailwind/Alpine components. All the copy, images, layouts, components, templates, styles can be configured by AI in a matter of seconds.
+
+It’s built specifically for Roots WP stack at the moment, in the future it could support more stacks.
+
+Once you have a [Roots.io](http://Roots.io) site up running, you can run two commands to create a new landing page–
+
+`wp acorn bonsai:init`
+
+`wp acorn bonsai:generate bonsai`
+
+At the moment, the landing page is fairly basic. I’m going to add all of my custom built components to it. Once Bonsai-CLI is done, it’s going to be able to build full on web apps in a matter of seconds. That’s the goal.
+
+Bonsai-CLI: [https://github.com/jackalopelabs/bonsai-cli](https://github.com/jackalopelabs/bonsai-cli)",eyeiskind,1h3o8uz,https://reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/,https://www.reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/,2024-11-30 22:33:23,67,0.96,67,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/DP0E67TgcvYH7eQjb8FRrm7bdrkU3Mr-6GOFQjtRQQg.jpg,t3_1h3o8uz
+webdev,Built a website that converts your browsing history into beautiful insights.,,Eliterocky07,1h3xxzz,https://reddit.com/r/webdev/comments/1h3xxzz/built_a_website_that_converts_your_browsing/,https://www.reddit.com/gallery/1h3xxzz,2024-12-01 07:23:15,31,0.9,31,0,20,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/RzUvvCWUE6UBzp4ujDCEUltHagkAEurjEZXZ0IlhPmY.jpg,t3_1h3xxzz
+webdev,I’m working on an app for people suffering with chronic pain.,"Hi everyone,
+
+I’ve been working on an app called [Pain Coach](https://paincoach.online) for the past few months, with the help of a friend who is a Physiotherapist. 
+
+We began developing it as a tool that they would be able to use in their own practice, a way to give them more insight into what is causing their patients to have flare ups, and to give patients a way to understand what might be negatively impacting their pain.
+
+However we wanted to see if people would be interested in something like this as a publicly available app instead of doing business to business, so we put together a small demonstration and waiting list page. Im still an undergrad cs student and new to the field so any thoughts, advice, or criticisms would be really appreciated as Im sure there are things that can be improved!",zephdev,1h3tn8v,https://reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/,https://paincoach.online,2024-12-01 03:04:44,15,0.95,15,0,5,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/d9EODUzpbGeCrE3DqRCiHUTCPem_P_DF6ISuRZCyfdM.jpg,t3_1h3tn8v
+webdev,HTML &amp; CSS component library?,"Are there any HTML &amp; CSS only component libraries you can recommend?
+
+Most libraries require tons of bloat in form of additional libraries, what I'm looking for are component libraries that give you the HTML &amp; CSS code which:
+- You can just (almost) copy and paste into your own project without requiring more dependencies
+- Is built using just HTML, CSS and minimal JavaScript
+
+The only good one I know of is CodeStitch, wondering if there are more out there? ",BekuBlue,1h3yoz3,https://reddit.com/r/webdev/comments/1h3yoz3/html_css_component_library/,https://www.reddit.com/r/webdev/comments/1h3yoz3/html_css_component_library/,2024-12-01 08:16:07,10,0.74,10,0,16,0,0,False,False,True,False,False,,self,t3_1h3yoz3
+webdev,"Just builded something for myself, of course is my portfolio ","Let me know what di you think about, and what I can improve, change or add 😉",gianoart,1h3iz8s,https://reddit.com/r/webdev/comments/1h3iz8s/just_builded_something_for_myself_of_course_is_my/,https://gianolab.com,2024-11-30 18:31:23,11,0.67,11,0,14,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h3iz8s
+webdev,Snowbody Knows: An open source gift wishlist sharing web app,"I built a web app to share Christmas wishlists amongst my family members, so everybody can give and get gifts they really want.
+
+Its free to use and open source!
+
+https://snowbodyknows.com
+ https://github.com/imacrayon/snowbodyknows
+",ima_crayon,1h3ez4s,https://reddit.com/r/webdev/comments/1h3ez4s/snowbody_knows_an_open_source_gift_wishlist/,https://www.reddit.com/r/webdev/comments/1h3ez4s/snowbody_knows_an_open_source_gift_wishlist/,2024-11-30 15:31:24,9,0.92,9,0,1,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3ez4s
+webdev,What do you do in your documentation to improve user experience?,C,SpOOkWins,1h3p0ue,https://reddit.com/r/webdev/comments/1h3p0ue/what_do_you_do_in_your_documentation_to_improve/,https://www.reddit.com/r/webdev/comments/1h3p0ue/what_do_you_do_in_your_documentation_to_improve/,2024-11-30 23:09:50,10,1.0,10,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h3p0ue
+webdev,I need help!! ,"I have been struggling to replicate the first picture, I am new to web development, i'm using WordPress builder for the websites, I have played around a bit with code like html, CSS and javascript, by using 'WP CODE' and got to the second photo, which is working, sort of, but still overlapping the content which I don't want and struggling with.
+
+Also, I have no idea how to make this responsive on mobile.
+
+I need help urgently, please.",Henk_Davel1,1h3ii7z,https://reddit.com/r/webdev/comments/1h3ii7z/i_need_help/,https://www.reddit.com/gallery/1h3ii7z,2024-11-30 18:09:46,9,0.91,9,0,22,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/kmiR0lQiLVVr4unScw-jNOwYE71wYgL2p9ThynQNVT0.jpg,t3_1h3ii7z
+webdev,Just released my first NPM package for NextJS,"This may not be a big deal to some, but i feel accomplished. I just released my first NPM package, its for Next JS and allows you to generate Pages or API routes from the command line. It supports TailwindCSS , Typescript and Javascript currently. 
+
+  
+Feel free to take a look and try it out here: [https://www.npmjs.com/package/next-genkit/v/1.1.9](https://www.npmjs.com/package/next-genkit/v/1.1.9)
+
+  
+Thank you ",serial9,1h3p4k4,https://reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/,https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/,2024-11-30 23:15:02,8,0.83,8,0,2,0,0,False,False,True,False,False,Resource,self,t3_1h3p4k4
+webdev,From LocalHost to Public Endpoint - Quickly Share Your Work With zrok,,PatoJAD,1h3j6yo,https://reddit.com/r/webdev/comments/1h3j6yo/from_localhost_to_public_endpoint_quickly_share/,https://dly.to/jVKBlOUXwKB,2024-11-30 18:41:12,7,0.89,7,0,0,0,0,False,False,False,False,False,,default,t3_1h3j6yo
+webdev,How I solved common Prisma ORM errors,"I have been using Prisma ORM for the last 2 years, and I have experience with troubleshooting different types of error.
+
+In this post, I want to share it with you, so you don’t have to spend hours figuring out what I’ve already learned.
+
+**Why Prisma?**
+
+I have been using Prisma to interact with the database for all my SaaS products. So far, I’ve built six SaaS products, and I hope to build more in the future (some of them are [BlackTwist](https://blacktwist.app), [Wuf](https://usewuf.com), [Userdesk](https://userdesk.io), [Inboxs](https://inboxs.io), [Hivoe](https://hivoe.com)).
+
+I've used Prisma in Next.js web apps, node.js servers, and cron jobs.
+
+The key goals of using Prisma are:
+
+* keep under control your database schema
+   * define tables and types
+   * apply migrations
+   * query your database with type safety
+   * avoid typing errors
+* protect from SQL injection
+* leverage pooling
+
+**Common issues**
+
+Despite being a stable product, sometimes you can encounter some issues.
+
+Below I describe two common errors:
+
+* migration errors
+* query errors
+
+Let’s start with the first one.
+
+**Error with data migrations**
+
+Sometimes your migrations emit an error, that’s not very simple to debug, like this one.
+
+    Error: ERROR: prepared statement ""s2"" does not exist
+
+You usually get this error when you run `npx prisma db push` (apply your schema changes to the database) or `npx prisma generate` (generate the types from your schema).
+
+But what does this mean?
+
+This error happens when using a relational database, like [PostgreSQL](https://www.postgresql.org/) (one of the most popular, and advanced open-source SQL databases on the market).
+
+Specifically, a prepared statement in PostgreSQL is a feature that allows you to execute a query plan that is prepared and stored by the database server for reuse. It improves performance and security, especially when executing the same query multiple times with different parameter values.
+
+Prisma ORM leverages the prepared statements as part of its database query execution process, under the hood (but you don’t have to know or master prepared statements to use Prisma).
+
+The main issues arise with the confusion between the different database connections string configurations, pooling and PgBouncer.
+
+Let me go straight to the solution, then I explain you the different parts.
+
+The main solution I’ve found is to use two connection strings, one to run the migrations and the second for the execution of your web application / node.js server.
+
+First, identify the correct connection strings for your database.
+
+The connection string to run the migrations is the direct access to the database (no pooling or PgBouncer), like for instance
+
+    postgresql://username:password@host:5432/dbname
+
+Save this connection string as an environment variable called `DATABASE_DIRECT_URL`.
+
+    DATABASE_DIRECT_URL=""postgresql://username:password@host:5432/dbname""
+
+Add it to your local `.env` file and to your hosting service (Vercel, Netlify, Render, and so on).
+
+Secondly, get the connection string with the pool, for instance:
+
+    postgresql://user:password@host:post/poolName
+
+Get this connection string from your database hosting provider, the parameters might be different.
+
+Save this connection string as an environment variables called `DATABASE_URL`.
+
+    DATABASE_URL=""postgresql://user:password@host:post/poolName""
+
+Add it to your local `.env` file and to your hosting service (Vercel, Netlify, Render, and so on).
+
+The second step is to update the Prisma configuration to use these two environment variables.
+
+Open the file `schema.prisma` and update the section `datasource db` to include this:
+
+    datasource db {
+      provider  = ""postgresql""
+      url       = env(""DATABASE_URL"")
+      directUrl = env(""DATABASE_DIRECT_URL"")
+    }
+
+Now, run the usual commands like `npx prisma db push` and `npx prisma generate` locally to ensure that everything is working correctly, and run your application locally.
+
+If all is good, push the modifications to your hosting service and trigger a new deployment for the modifications to take effect.
+
+Prisma is now correctly configured and you should not have the same issue again.
+
+**Query performance issues**
+
+Recently, I got the ""stack depth limit exceeded"" error message.
+
+    PrismaClientUnknownRequestError: Invalid `prisma.table.findMany()` invocation: Error occurred during query execution: ConnectorError(ConnectorError { user_facing_error: None, kind: QueryError(PostgresError { code: ""54001"", message: ""stack depth limit exceeded"", severity: ""ERROR"", detail: None, column: None, hint: Some(""Increase the configuration parameter \""max_stack_depth\"" (currently 2048kB), after ensuring the platform's stack depth limit is adequate."") }), transient: false })
+
+This means that the usage of memory exceeds the database configuration for a specific query.
+
+I ran this SQL command on my database and found this value:
+
+    SHOW max_stack_depth;
+    ---
+    2MB
+
+I had a query that was returning 1900+ records to aggregate some values.
+
+For each record I have to recalculate the sum of certain values.
+
+When this happens you have two options:
+
+* increase the `max_stack_depth` value in your database
+* refactor the logic in the code to avoid to run that big query
+* optimize the query
+
+I tried to increase `max_stack_depth` because it was the quickest solution (not the best one), but my database is hosted on DigitalOcean and I didn’t have the permissions to run the `ALTER` command:
+
+    ALTER SYSTEM SET max_stack_depth = '4MB';
+    ---
+    permission denied to set parameter ""max_stack_depth""
+
+(I contacted DigitalOcean via a support ticket and they promptly provided a solution, I can alter the value using their web API).
+
+Then, I started to analyze the problem.
+
+The first thing I tried was to run the same query as plain SQL against the database using [pgAdmin](https://www.pgadmin.org/), and it perfectly worked.
+
+This was suspicious, it means that probably Prisma was executing a query too complex and expensive.
+
+Then, I refactored the code, using the Prisma method `$queryRaw` to run the same query, and it worked!
+
+At this point, I didn’t want to manually define all the type for the values returned by the query, and I thought of using a new cool feature of Prisma called [TypedSQL](https://www.prisma.io/docs/orm/prisma-client/using-raw-sql/typedsql).
+
+This way I can run a Raw Query against the database with the types automatically generated by Prisma for me.
+
+So, in the end, I refactored to code, and avoided to increase the value `max_stack_depth` that would have increased the memory consumption in general.
+
+**Conclusion**
+
+I hope that this post was useful, and it avoids you from spending hours on troubleshooting these kind of errors with Prisma.
+
+Overall my experience with the tool has been very good and exciting, and I see how they are releasing new versions, features, and improvements.
+
+You can find the [documentation of Prisma at this link](https://www.prisma.io/docs).
+
+As a side note, I’m not affiliated with Prisma in any way, I’m just a happy user of the product.
+
+Cheers",ikoichi2112,1h42er1,https://reddit.com/r/webdev/comments/1h42er1/how_i_solved_common_prisma_orm_errors/,https://www.reddit.com/r/webdev/comments/1h42er1/how_i_solved_common_prisma_orm_errors/,2024-12-01 12:39:11,4,1.0,4,0,1,0,0,False,False,True,False,False,,self,t3_1h42er1
+webdev,Monthly Getting Started / Web Dev Career Thread,"Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat posts on this topic. These types of posts will no longer be allowed in the main thread.
+
+Many of these questions are also addressed in the sub FAQ or may have been asked in [previous monthly career threads](/r/webdev/search?q=flair%3AMonthlyCareerThread&amp;restrict_sr=on&amp;sort=new&amp;t=all).
+
+Subs dedicated to these types of questions include [r/cscareerquestions](/r/cscareerquestions) for general and opened ended career questions and [r/learnprogramming](/r/learnprogramming) for early learning questions.
+
+A general recommendation of topics to learn to become industry ready include:
+
+- [HTML/CSS/JS Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial)
+- [Version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Automation](https://blog.logrocket.com/tools-and-modern-workflow-for-front-end-developers-505c7227e917/)
+- [Front End Frameworks (React/Vue/Etc)](https://www.freecodecamp.org/news/complete-guide-for-front-end-developers-javascript-frameworks-2019/)
+- [APIs and CRUD](https://www.freecodecamp.org/news/crud-operations-using-vanilla-javascript-cd6ee2feff67/)
+- [Testing (Unit and Integration)](https://raygun.com/blog/javascript-unit-testing-frameworks/)
+- [Common Design Patterns](https://www.patterns.dev/)
+
+You will also need a portfolio of work with 4-5 personal projects you built, and a resume/CV to apply for work.
+
+Plan for 6-12 months of self study and project production for your portfolio before applying for work.",AutoModerator,1h41srz,https://reddit.com/r/webdev/comments/1h41srz/monthly_getting_started_web_dev_career_thread/,https://www.reddit.com/r/webdev/comments/1h41srz/monthly_getting_started_web_dev_career_thread/,2024-12-01 12:00:26,4,0.84,4,0,0,0,0,False,False,True,False,False,Monthly Career Thread,self,t3_1h41srz
+webdev,"Welcome to REdocs, a Resident Evil resource site built with Svelte 5, SvelteKit, Tailwind, and Embla!",,sina-gst,1h3ej1a,https://reddit.com/r/webdev/comments/1h3ej1a/welcome_to_redocs_a_resident_evil_resource_site/,https://re-docs.github.io/,2024-11-30 15:09:18,5,1.0,5,0,4,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h3ej1a
+webdev,How to make sure everything keeps going once you're gone?,"Hey!
+
+Few days ago I had a talk with my dad; He asked me what happens with all the things I host once I am gone.
+
+It's not a stupid question at all, I am young but anything can happen whether it's an accident or illness. I host several websites, a big app for a few companies and few other things which add up to a pretty big set. I have a VPS, and all the code is on my private github account. 
+
+How do you folks make sure that everything can keep going smoothly if something were to happen to you? In my case, I am a solo dev and I have nobody else to take care of all that - do you have a private document with instructions on how to access things? Do you just share your github credentials with somebody? Do you even thing about such things? ",Sziszhaq,1h40dzx,https://reddit.com/r/webdev/comments/1h40dzx/how_to_make_sure_everything_keeps_going_once/,https://www.reddit.com/r/webdev/comments/1h40dzx/how_to_make_sure_everything_keeps_going_once/,2024-12-01 10:21:06,1,0.56,1,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h40dzx
+webdev,I made a custom popover library using the new CSS Popover and Anchor Positioning features with themes and transitions,Feel free to give me constructive criticism. I’ve been teaching myself JS and this was a fun thing I’ve slowly been working on!,thingmabobby,1h3qndk,https://reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/,https://github.com/thingmabobby/Bobpop,2024-12-01 00:28:22,3,0.81,3,0,2,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/cglHndToIMlbfEdEGexYHffG400GGWpkCo0ec3B9D7o.jpg,t3_1h3qndk
+webdev,"I want to create a personal uni assignments tracker like a todolist combined with calendar, progress bars and more. What framework and libraries would be helpful for this project? And any ideas on what else to add?",As said in the title I want to create a uni based system because I dislike the one my uni has honestly and also I want to feel free to customize everything and add stuff like upcoming homework exams tests. Also have there some pdfs that I can have a description under for writing notes like I don't understand this one or stuff like that. I'm already using obsidian todoist google calendar but I want all in one place. I have experience in web dev so I know what to do. But I'm looking for ideas for the project and implementations that can be helpful. Thankss,Typical_Cranberry_80,1h3lfm7,https://reddit.com/r/webdev/comments/1h3lfm7/i_want_to_create_a_personal_uni_assignments/,https://www.reddit.com/r/webdev/comments/1h3lfm7/i_want_to_create_a_personal_uni_assignments/,2024-11-30 20:22:38,3,1.0,3,0,2,0,0,False,False,True,False,False,,self,t3_1h3lfm7
+webdev,Need some feedback on my portfolio site,"Hey! Any constructive feedback welcome, being UX, UI, SEO... Whatever! It was made using NextJS
+
+Thanks! 
+
+https://djigo.dev/",djigoio,1h3f8x0,https://reddit.com/r/webdev/comments/1h3f8x0/need_some_feedback_on_my_portfolio_site/,https://djigo.dev/,2024-11-30 15:44:15,3,0.8,3,0,2,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/zVAl-XmuApvPcFDN0aPzs2nJiLFaQh89JHHVRbj7JVA.jpg,t3_1h3f8x0
+webdev,Difference with remix-express-server and express server,"Hey guys,  
+Was curious about Remixjs since its starting to gain some traction  
+I have some questions(as a beginner in full stack frameworks)  
+
+- Remix has its own web server, how its different then your conventional express server
+- Can we use express server on top of remix , Not using its own remix-server
+- If you have used both of these approaches , which one will you prefer for your projects
+
+",Opposite_Squirrel_32,1h42j8f,https://reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/,https://www.reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/,2024-12-01 12:46:30,2,1.0,2,0,1,0,0,False,False,True,False,False,Question,self,t3_1h42j8f
+webdev,Any tips/idea on how to built a Spinning Carousel ,"i am trying to built a spinning carousel for my project similar to this :  
+[https://www.pinterest.com/pin/234257618107500859/](https://www.pinterest.com/pin/234257618107500859/)  
+How can i built this , Can anyone have any insights to building this , whether is it by building it myself or any existing packages?   
+I really love the concept for this and would love to built one",Beasta07,1h40ilz,https://reddit.com/r/webdev/comments/1h40ilz/any_tipsidea_on_how_to_built_a_spinning_carousel/,https://www.reddit.com/r/webdev/comments/1h40ilz/any_tipsidea_on_how_to_built_a_spinning_carousel/,2024-12-01 10:30:22,2,1.0,2,0,6,0,0,False,False,True,False,False,Question,self,t3_1h40ilz
+webdev,My biggest project so far!,"https://preview.redd.it/ya6e0nf9s74e1.jpg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=9ca22544a3bc3174c8cac15536db2f748c2cbd14
+
+I would appreciate your feedback on this project I'm about to finish the JS course and this is the biggest project I've built so far!  
+  
+Tech stack: HTML, CSS, Vanilla JS",KareemAhmed37,1h40iig,https://reddit.com/r/webdev/comments/1h40iig/my_biggest_project_so_far/,https://www.reddit.com/r/webdev/comments/1h40iig/my_biggest_project_so_far/,2024-12-01 10:30:13,1,0.6,1,0,13,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/xPhGwTe6FEB6FfSrm_TZ6GDK4tRnZJI1mpKWBDXQZnc.jpg,t3_1h40iig
+webdev,Redux State object issue,"  
+Hello, I am trying to update a single key in my redux userData object. Normally after login I would just insert a whole object but now i only need to update a single key. Here is the dispatch section      
+
+    dispatch(setUserData({ club: club }));
+
+And here is the reducer
+
+     
+        reducers: {
+            setUserData: (state, action) =&gt; {
+                state.data = { ...state.data, ...action.payload };
+            }
+        }
+
+What am I doing wrong? ",Altugsalt,1h3z9wj,https://reddit.com/r/webdev/comments/1h3z9wj/redux_state_object_issue/,https://www.reddit.com/r/webdev/comments/1h3z9wj/redux_state_object_issue/,2024-12-01 08:58:25,2,1.0,2,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1h3z9wj
+webdev,"Tried building a critical and complex home page using several AI autocomplete tools, and here are my findings","( i am hoping, this is useful for this group, and if its not , i am happy to take it down )
+
+I used BlackBox AI, V0, and Claude simultaneously. I have paid subscriptions for V0, Claude, and ChatGPT, while BlackBox seems to use ChatGPT by default without linking it to my chat gpt account.
+
+**Winner:** For me, Claude was the clear winner, though it’s missing a few features compared to the others.
+
+**What I learned about time savings:** I’m not great at creative coding from scratch, so using these tools made things much easier. It would have taken me 3 workdays to achieve what I did in a 4-hour session split between the tools. Although AI-generated code still needs review—I wouldn't fully trust it—making things responsive using AI saved significant time compared to if I had written everything manually or cleaned up an HTML template. Going forward, I think I can be 3x more productive with Claude, especially now that it understands my project context.
+
+**BlackBox AI:** The main reason to explore BlackBox AI was its VS Code integration, which the others don’t offer. I started generating code on the website, then moved to the VS Code extension. Unfortunately, even with the extension, the improvement process was slow, and ultimately it delivered about 1/10th of the results of Claude or V0.
+
+**Advantages:** Easy code export, since everything’s already local.
+
+**V0:** V0 feels like me—it gets overwhelmed and forgets past discussions. Fixing a bug at one step only to see it return after another adjustment was a common frustration. The interface is clean, and the ability to resize the screen was useful for comparing mobile vs. desktop views. However, some persistent issues included:
+
+* Compilation errors were frequent, though reporting them usually led to fixes. Ideally, it should self-correct.
+* Filters would sometimes render incorrectly after a few more feature additions.
+* Exporting code is made unnecessarily difficult. It’s not much better in Claude, but with V0 it seems intentional.
+* Deployment is easy but seems intended to lock users into the V0 ecosystem, which becomes problematic when scaling to 100-200 files, no more easy way to export except 1 file at a time.
+
+**Claude:** Claude’s UI is cleaner, and it understands my requests better, making adjustments seamless. There were no compilation errors, and changes were stable. The output was visually clearer, and I'm starting to trust the quality of the changes it makes. Although export isn’t straightforward.
+
+Overall, Claude’s consistency and quality make it my preferred tool. It’s stable, efficient, and I think I can use it to be significantly more productive moving forward.",HurryFormal7067,1h3webg,https://reddit.com/r/webdev/comments/1h3webg/tried_building_a_critical_and_complex_home_page/,https://www.reddit.com/r/webdev/comments/1h3webg/tried_building_a_critical_and_complex_home_page/,2024-12-01 05:41:26,1,0.54,1,0,6,0,0,False,False,True,False,False,,self,t3_1h3webg
+webdev,I made landing page for web solution services for Real Estate agents. ,"I am trying to enter the market for web design services specifically aimed at real estate agents, agencies, and brokers. I created a landing page and ran some ads for it, but the results were disappointing. I plan to develop a version 2 (V2) soon and would appreciate any feedback on what changes you think are necessary. 
+
+[https://realwebspaces.com/](https://realwebspaces.com/)",Aintellectual_Prof,1h3v4hq,https://reddit.com/r/webdev/comments/1h3v4hq/i_made_landing_page_for_web_solution_services_for/,https://www.reddit.com/r/webdev/comments/1h3v4hq/i_made_landing_page_for_web_solution_services_for/,2024-12-01 04:27:22,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1h3v4hq
+webdev,I Created a Simple Clock Based on Area Codes,"https://preview.redd.it/fm5bb7ywu34e1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=774f9fc74dbb234b2eacf0ead0f7378cf3f8bd56
+
+",benlikescode,1h3mmhz,https://reddit.com/r/webdev/comments/1h3mmhz/i_created_a_simple_clock_based_on_area_codes/,https://www.reddit.com/r/webdev/comments/1h3mmhz/i_created_a_simple_clock_based_on_area_codes/,2024-11-30 21:17:44,2,0.67,2,0,4,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/QpUxb4lefDdz3HyTkN5BI9lkVaPbYQr3XjmXq21Uf9o.jpg,t3_1h3mmhz
+webdev,Error 403 forbidden,"I am creating my own website, using the tutorial at [this link](https://sive.rs/ti). All went very smoothly, until recently. I purchased a domain name, got server space from Vultr, and created an SSH key. The problem started when I went through [step 6](https://sive.rs/ti#web1)  of the tutorial. I downloaded the files successfully, then used FreeFileSync to upload the htdocs folder to the server. I mirrored the /home/me/htdocs folder with the /var/www folder on the server side. I see the htdocs folder on the server side now, but when I go to my domain I get a 403 forbidden error. 
+
+I have been reading that permissions might be an issue. I tried chmod 755 /var/www while logged into my server in the terminal, but got this result. 
+
+    chmod: /var/www: Operation not permitted
+
+I know I am doing something elementary wrong, but I don't know what it is. Thanks in advance for your help!",bluepoodle7476,1h44nl4,https://reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/,https://www.reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/,2024-12-01 14:39:44,1,1.0,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1h44nl4
+webdev,Best practice for sanitising user input for comments ,"I am creating a site driven by user content. It's a social sharing site where users can comment on others posts. 
+
+My question is, what would be best practice in ensuring that malicious users can't post anything nasty like scripts or other surprises?
+
+My initial thought was to remove and angle brackets and other symbols used in HTML but looking for guidance. ",voltboyee,1h423wj,https://reddit.com/r/webdev/comments/1h423wj/best_practice_for_sanitising_user_input_for/,https://www.reddit.com/r/webdev/comments/1h423wj/best_practice_for_sanitising_user_input_for/,2024-12-01 12:20:11,1,1.0,1,0,6,0,0,False,False,True,False,False,Question,self,t3_1h423wj
+webdev,How Do I Create A Web App on VS2022?,"Context:
+I am a complete beginner to this so please bear with me if I say completely wrong and stupid things.
+
+I have a task where I have to create a web application that is connected to a database that we can update, create and delete using VS2022 Core Web API, but I don't have any experience to this nor were we taught the very basics. I do know basic JavaScript but that's the extent of my knowledge.
+
+What I Have Done:
+I have tried researching, watching videos and even straight up using AI to teach me but I found no solution after days of constantly trying. The videos I find usually use ""ASP.NET Core Web App"" but I have no idea if that is actually what I need as we were told to use Core Web API. 
+
+The Problem:
+For more context, our instructor is one of those terrible yet terror instructors, which is why I am here. We were told to create a Web Application that is connected to a database, can create, update and delete data using ASP.NET Core Web API and was left to our own devices without being taught the very basics. I have been searching and trying but I can't seem to find anything, as nothing is familiar to me in VS 2022 and I am not familiar to it as VSC. ",Hi_ImJustARandomGuy,1h41vya,https://reddit.com/r/webdev/comments/1h41vya/how_do_i_create_a_web_app_on_vs2022/,https://www.reddit.com/r/webdev/comments/1h41vya/how_do_i_create_a_web_app_on_vs2022/,2024-12-01 12:05:44,1,0.67,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h41vya
+webdev,I want to publish an Azure function from a Monorepo,"I am a long term Azure functions user and I have properly created, published, and maintained infrastructure that relied on Azure functions. My process is usually very similar.
+
+I scaffold a basic Azure function (version 4, typescript, http trigger) from the Visual Studio Code Azure extension, I modify the default function with my code, build it with npm run build which is just a tsc command, run it with func start, test it by hitting the API with Postman, and then it's time to publish it to my Azure dashboard on my Azure account.
+
+To publish this correctly functioning Azure function, I run a command like this that actually creates the function instance `az functionapp create --resource-group RESOURCE_GROUP_NAME --consumption-plan-location LOCATION_CODE --runtime node --name FUNCTION_AZURE_NAME --storage-account STORAGE_ACCOUNT_NAME --os-type Linux` , then I run something like `func azure functionapp publish FUNCTION_NAME` in the root directory of the function repo to actually push up the function to my Azure account.
+
+I recently decided that it would be more convenient to start putting all of my Azure functions into 1 monorepo. It was getting hard to keep track of all of the Github repos of single purpose Azure functions. I used NX to make this monorepo.
+
+I found this project [https://github.com/AlexPshul/nxazure](https://github.com/AlexPshul/nxazure) , which allows you to scaffold Azure functions into an NX repo. I ran `npx create-nx-workspace@latest` to create the repo and followed the prompts to make a blank repo.
+
+I made the Azure function in question with these commands:
+
+    npx nx g u/nxazure/func:init FUNCTION_DIRECTORY
+    npx nx g u/nxazure/func:new FUNCTION_NAME --project=FUNCTION_DIRECTORY --template=""HTTP trigger""
+
+The function works great locally and I'm able to run it just fine with the NX supplied build and run commands. I can hit the APIs locally with Postman, just like when I scaffolded the functions with the Visual Studio Code extension. The problem is that when it comes time to publish the function to my Azure account, the NX supplied publish command does nothing. It doesn't even error, it succeeds with 0 functions uploaded to Azure.
+
+My best theory on why this is happening lies in the build output structure for @ nxazure/func as opposed to the build structure of the Visual Studio Code extension. The Visual Studio Code build structure outputs something like this:
+
+    PS \Path\To\This\Functions\Directory&gt; tree .\dist\ /f
+    Folder PATH listing
+    \Path\To\This\Functions\Directory\DIST
+    └───src
+        │   index.js
+        │   index.js.map
+        │
+        └───functions
+                MYFUNCTIONNAME.js
+                MYFUNCTIONNAME.js.map
+    
+    PS \Path\To\This\Functions\Directory&gt;
+
+But the @ nxazure/func build structure outputs something like this:
+
+    PS \Path\To\This\Functions\Directory&gt; tree .\packages\MYFUNCTIONDIRECTORYNAME\dist\ /f
+    Folder PATH listing
+    \Path\To\This\Functions\Directory\DIST
+    │   tsconfig.base.json
+    │   
+    └───packages
+        └───bTSOrdAddrsCreate
+            │   _registerPaths.js
+            │   _registerPaths.js.map        
+            │   
+            └───src
+                └───functions
+                        MYFUNCTIONNAME.js    
+                        MYFUNCTIONNAME.js.map
+    
+    PS \Path\To\This\Functions\Directory&gt;
+
+With the `func` command, you only need to run `func azure functionapp publish FUNCTION_NAME` in the same directory as the dist folder and the function will be automatically uploaded to your Azure dashboard/account. Maybe that command expects the `dist` folder to have an `index.js` file within the first level of the folder? I'm not quite sure what the publish command is actually doing under the hood.
+
+In short, how do I successfully execute a publish command for a function build in an NX monorepo that was scaffolded with @ nxazure/func? If there is no way to do it via a simple command from the parent directory of the function or at the root of the monorepo, is there a roundabout way to compile the function to a zip and use some command to upload that to my Azure account/dashboard?",warpanomaly,1h3y2eb,https://reddit.com/r/webdev/comments/1h3y2eb/i_want_to_publish_an_azure_function_from_a/,https://www.reddit.com/r/webdev/comments/1h3y2eb/i_want_to_publish_an_azure_function_from_a/,2024-12-01 07:31:58,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h3y2eb
+webdev,Thinking about moving away from square space,"Hi! So I’ve been running my personal website through square space for like 7 years. It works ok, but it’s gotten pretty expensive, and when I want low level control of things, I don’t have it.
+
+* Where are the hosting services that let you make your own website
+
+* Are they cheaper than square space?
+
+* Not sure if I want to build everything from scratch myself (maybe javascript, html) or if I want to use wordpress. What do you guys think of that? Is wordpress good?
+
+I’m an a long time developer, but not a webdev , so i’d like a little guidance about this. Thanks.",AutomaticLake4627,1h3miwl,https://reddit.com/r/webdev/comments/1h3miwl/thinking_about_moving_away_from_square_space/,https://www.reddit.com/r/webdev/comments/1h3miwl/thinking_about_moving_away_from_square_space/,2024-11-30 21:13:08,1,0.6,1,0,2,0,0,False,False,True,False,False,,self,t3_1h3miwl
+webdev,"Constructively criticize my CV, please.","Hi, everyone.
+
+I just permanently moved to the US and getting ready to apply for Mid Frontend developer positions (React).  
+I would like hear your honest opinion on my CV
+
+[Resume | CV](https://preview.redd.it/jwftnyeor34e1.jpg?width=1224&amp;format=pjpg&amp;auto=webp&amp;s=e7ef758fa294f3521f7acfae5b12f2cd2c0ea1ca)
+
+**Here is what I did:**  
+\- I tried following convention of telling ""What I did"" and ""how did if affect company I work for"".  
+\- English is not my first language, so ChatGPT was involved to ""sound professional"".  
+\- I've Ignored the education section, since my Bachelor is in music, and that's not related to IT.
+
+**What I am curious about:**
+
+1. For me it looks like too many bullet point given, but all took important place in the job, would you get rid of something?
+2. I listed things like setting up VPS and NginX, does that have any influence for a frontend position?
+3. Since ChatGPT was used, is it obvious for a native? Would you change wordings?
+4. I finished CS50x course by Harvard a year ago and I have their free certificate, does it count as a proper education and will it be best to include it in this CV?
+5. Skills section, some of the things look funny to me, should I keep simple things like CSS and HTML in it or remove them, anything big missing?
+6. I don't have any pet projects to show off on my github, do they look for it for a Middle position, if yes, then what kind of projects would that be?
+7. Any other tips?",Ekernik,1h3m7we,https://reddit.com/r/webdev/comments/1h3m7we/constructively_criticize_my_cv_please/,https://www.reddit.com/r/webdev/comments/1h3m7we/constructively_criticize_my_cv_please/,2024-11-30 20:58:54,1,0.67,1,0,4,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/Wu9uzPdkrmLu9sws_jOdRgBZARGMXpjCA7Qk29CEIKE.jpg,t3_1h3m7we
+webdev,iOS Safari theme-color behaviour,"Recently, I was building a form for my agency’s website and decided to add a top bar and link to it. Once everything was done, I noticed on my iPhone that the theme color automatically matched the red of the top bar. I immediately thought, “Alright, let’s add some meta tags to specify the theme color.” I included tags for both dark and light color schemes, as well as a default one without any media query. Then, I added some JavaScript to ensure the theme color would dynamically switch between dark and light modes.
+
+However, I noticed that if the theme color was set to pure white (#FFFFFF), Safari would still auto-adjust it to match the top bar’s color. I tried everything—media queries, adjusting the HTML structure, and other methods—but nothing worked. Safari just overrides white and picks the top bar’s color automatically. I inspected my website and confirmed the theme color was set to #FFFFFF, but Safari ignored it.
+
+In the end, I changed the light mode color to #FEFEFE, which Safari respects, unlike pure white. It’s such a strange and unnecessary limitation. I had to make this adjustment because I didn’t want the site to look like you’re in a call when browsing the agency website.
+
+So, I’m curious—how do you handle this issue? Do you even care about these kinds of details, or would you just leave it as it is? For me, it was worth fixing because it really bothered me.",malagahermanos,1h3hz2g,https://reddit.com/r/webdev/comments/1h3hz2g/ios_safari_themecolor_behaviour/,https://kommerz24.com,2024-11-30 17:45:29,1,0.67,1,0,10,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/RQhc6vbO0emhVOdzFxi7VTApWYFsb9m6Xzc6kY4KsQc.jpg,t3_1h3hz2g
+webdev,"If I want an indicator whether content on my site is AI-generated or not, is there a microformat-kinda tag, upcoming standard, accepted practice or anything?","I've been outta the game for a while, but I'm developing a new personal site to be as accessible to the fediverse / general machine readability as possible.
+
+I'm curious if there's anything being worked on to differentiate human-made from machine-made content on a semantic level i guess.",quicxly,1h3hri4,https://reddit.com/r/webdev/comments/1h3hri4/if_i_want_an_indicator_whether_content_on_my_site/,https://www.reddit.com/r/webdev/comments/1h3hri4/if_i_want_an_indicator_whether_content_on_my_site/,2024-11-30 17:36:02,1,1.0,1,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h3hri4
+webdev,Building a Modern React Library Starter – A Quick Guide!,"Hey devs! 👋
+
+Just wrote a quick guide on [my blog](https://dev.to/abhirup99/building-a-modern-react-library-starter-a-comprehensive-guide-3m5b/) for anyone looking to build a **React library starter template** from scratch. It covers setting up TypeScript, Vite, SWC, Rollup and more to get you production-ready fast!
+
+Check it out and let me know what you think – feedback is always welcome!
+
+Link to the github repo: [https://github.com/Abhirup-99/react-library-starter-template](https://github.com/Abhirup-99/react-library-starter-template)
+
+A modern starter template for building React libraries using SWC, TypeScript, and Rollup. Created due to the lack of existing templates that combine SWC's speed with Rollup's efficient bundle optimization.
+
+⚡️ SWC for ultra-fast compilation
+
+📦 Rollup for optimal bundling
+
+🔷 TypeScript support
+
+🎯 Generates CJS and ESM builds
+
+💪 Type definitions included
+
+🔍 Source maps support
+
+📄 MIT License",abhirup_99,1h3fans,https://reddit.com/r/webdev/comments/1h3fans/building_a_modern_react_library_starter_a_quick/,https://www.reddit.com/r/webdev/comments/1h3fans/building_a_modern_react_library_starter_a_quick/,2024-11-30 15:46:33,1,0.67,1,0,0,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3fans
+webdev,Fast 301 Redirect Tool for Site Migrations ,"Hi Web Dev community. I bet many of you are getting ready for website launches after the new year so I wanted to share a tool that takes the manual process out of bulk 301 redirects: https://www.wislr.com/
+
+The WISLR team wants our 301 Redirect Tool to help remove the time consuming task of mapping URLs from your launch checklist. ",wislr,1h3t1w6,https://reddit.com/r/webdev/comments/1h3t1w6/fast_301_redirect_tool_for_site_migrations/,https://i.redd.it/jr49pfjaf54e1.png,2024-12-01 02:32:40,0,0.5,0,0,0,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/SAzNIM3NnIEw3ralXr790F85jdcXaj0amie4NAZO7sU.jpg,t3_1h3t1w6
+webdev,In need of help of expertise of host/domain for website,"Hello, I have a potential client that is in need of a website but they don't want to spend an **arm and a leg on webhosting and a domain**. Their in the landscaping business so I know it's not just the homepage. 
+
+I was hoping someone here would know of a good **host/domain combo** for a simple website. They're not selling anything just telling about what they do and contacting them. Thanks",Itachi03,1h3mvo8,https://reddit.com/r/webdev/comments/1h3mvo8/in_need_of_help_of_expertise_of_hostdomain_for/,https://www.reddit.com/r/webdev/comments/1h3mvo8/in_need_of_help_of_expertise_of_hostdomain_for/,2024-11-30 21:29:30,0,0.5,0,0,3,0,0,False,False,True,False,False,Question,self,t3_1h3mvo8
+webdev,Cheap Webspace (data storage),"hey guys, im looking for cheap webspace, only for data storage from old backup files.
+
+What is the cheapest and best hoster?
+
+need around 250-500gb :\_)
+
+br",cozysleet,1h3mmnf,https://reddit.com/r/webdev/comments/1h3mmnf/cheap_webspace_data_storage/,https://www.reddit.com/r/webdev/comments/1h3mmnf/cheap_webspace_data_storage/,2024-11-30 21:17:57,0,0.5,0,0,2,0,0,False,False,True,False,False,Resource,self,t3_1h3mmnf
+webdev,Refactoring TypeScript at Scale,,haasilein,1h3klcr,https://reddit.com/r/webdev/comments/1h3klcr/refactoring_typescript_at_scale/,https://stefanhaas.dev/blog/refactoring-at-scale,2024-11-30 19:44:11,0,0.5,0,0,0,0,0,False,False,False,False,False,Article,default,t3_1h3klcr
+webdev,Why is my layout breaking when viewing iPhone layout using chrome devtools?,"https://imgur.com/a/Gwbx16N
+
+I've set body width as 100vw, overflow-x:hidden
+When resizing the chrome browser, it works just as fine. But when using the devtools IPhone layout this extra vw gets added and my layout breaks. 
+I've used viewport measurements everywhere and idk how to fix it.
+
+edit: it happens if you use the left property of css",ThXnDiEaGaIn,1h3i25s,https://reddit.com/r/webdev/comments/1h3i25s/why_is_my_layout_breaking_when_viewing_iphone/,https://www.reddit.com/r/webdev/comments/1h3i25s/why_is_my_layout_breaking_when_viewing_iphone/,2024-11-30 17:49:23,0,0.5,0,0,2,0,0,False,False,True,False,False,Question,self,t3_1h3i25s
+webdev,[Showoff Saturday] - I added version control to WordPress' database using a custom plugin and Dolt,"I created a [custom plugin](https://yourrightwebsite.com/how-i-built-a-custom-plugin-to-add-version-control-to-the-wordpress-database-with-dolt/) for WordPress that uses the [Dolt](https://www.dolthub.com/) database engine to enable version control and branching within the WordPress database.  This plugin along with Dolt adds powerful version control features to WordPress content editing.
+
+Right now the plugin is in beta, but I would love some feedback.  You can [download the plugin on Github](https://github.com/YourRightWebsite/branch-manager) or [read a blog post about how I created it](https://yourrightwebsite.com/how-i-built-a-custom-plugin-to-add-version-control-to-the-wordpress-database-with-dolt/) which goes into more details about how it works.  I also have [a video](https://www.youtube.com/watch?v=zC5aEAK7jPg) of the plugin in action.
+
+Hopefully someone finds this useful and I would love to get some feedback on this project and if it's worth pursuing further.",YourRightWebsite,1h3hw32,https://reddit.com/r/webdev/comments/1h3hw32/showoff_saturday_i_added_version_control_to/,https://www.reddit.com/r/webdev/comments/1h3hw32/showoff_saturday_i_added_version_control_to/,2024-11-30 17:41:45,0,0.5,0,0,0,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3hw32
+webdev,[Showoff Saturday] Requesting feedback on a SaaS that I’m building,"Company Name: Schedly
+
+URL: http://schedly.thebytesized.com
+
+Purpose of Startup and Product: Schedly is a SaaS tool aimed at simplifying event and calendar management for developers. It focuses on seamless integration with external calendars and flexible APIs, offering a streamlined solution for individual developers, startups, and SMBs.
+
+Technologies Used:
+
+•	⁠Backend: Node.js with Express for the API.
+•	⁠Admin Dashboard: Under development, likely using React.
+•	⁠Landing Page: Currently being rebuilt using Docusaurus for better structure and scalability.
+
+Feedback Requested: We would love feedback on:
+
+•	⁠The landing page: Does it communicate the product’s value effectively? Are the design and structure engaging? -The user experience: Are there any must-have features developers would expect from such a tool?
+•	⁠Suggestions for improving the survey and beta onboarding process.
+
+Seeking Beta-Testers:
+
+Yes! We’re looking for developers and early adopters to test the beta version of Schedly.
+
+Additional Comments:
+
+We’ve prepared a 3-minute survey to better understand the challenges developers face with scheduling and event management. As a token of appreciation, participants will receive free early access to our beta version.
+
+Here’s the link to the survey: https://forms.office.com/r/SqKXBKgnyr
+
+I’d also be happy to give feedback on your product or project in return! Feel free to share your work with me, and I’ll provide constructive feedback as soon as possible.
+
+We’d greatly appreciate your feedback and are happy to collaborate with the community. Let’s build something impactful together!",CloudPower97,1h3id0v,https://reddit.com/r/webdev/comments/1h3id0v/showoff_saturday_requesting_feedback_on_a_saas/,https://www.reddit.com/r/webdev/comments/1h3id0v/showoff_saturday_requesting_feedback_on_a_saas/,2024-11-30 18:03:05,0,0.33,0,0,4,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3id0v
+webdev,Does someone knows how to do this overlapping rounded borders with tailwindcss or whatever tool?,"https://preview.redd.it/tm6jzq3yk24e1.png?width=797&amp;format=png&amp;auto=webp&amp;s=7020e742df00a47fe7e6dd7dce0c287d70c543f4
+
+",edmblue,1h3gx25,https://reddit.com/r/webdev/comments/1h3gx25/does_someone_knows_how_to_do_this_overlapping/,https://www.reddit.com/r/webdev/comments/1h3gx25/does_someone_knows_how_to_do_this_overlapping/,2024-11-30 16:59:18,0,0.25,0,0,3,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/adBqnbd07F2AHpAQ2HDIV2WaT6rBM7uFZDAHi5_ZFqg.jpg,t3_1h3gx25
+webdev,Advice needed: Looking for a Freelancer to Build an AI-Powered LL.M.-Matching Website – What Should I Look For?,"Hey everyone,
+
+I'm currently planning a website that helps users find the perfect matching offer on my site. The idea is to provide general information on the landing page, and then users can input their preferences via an AI chatbot (the best example i can find is Fiverr Neo). Based on their answers, the bot will suggest matching offers from a database. The rest of the site will offer detailed information about the individual offers.
+
+I've already set up a WordPress site on google cloud and have a rough idea of how this could work technically. Now, I’m looking to hire a freelancer to bring this project to life. Before I proceed, I need some advice as i have never worked with freelancer before.
+
+What should I look for in a freelancer?
+
+What skills should they have? (e.g., WordPress, Dialogflow/OpenAI API, database integration, UX/UI design)
+
+Are there specific certifications or portfolios I should check?
+
+Should I hire someone specialized in AI, or will a skilled web developer suffice?
+
+
+
+Budget and Timeline:
+
+What’s a realistic budget for a project like this?
+
+How long would it typically take to build, assuming the requirements are clear?
+
+
+
+# Communication and Collaboration:
+
+How can I ensure the freelancer understands my vision?
+
+Should I prepare a detailed question catalog and database structure beforehand, or can they help me with that?
+
+
+
+Technology and Maintenance:
+
+What should I set up technically to ensure the site is easy to maintain in the long run?
+
+Should I plan for ongoing collaboration with the freelancer for updates and maintenance?
+
+How to stay safe and handle rules or password? 
+
+I plan to run the project on WordPress , hosted on google cloud and integrate the AI chatbot (Dialogflow or OpenAI API), but I’m open to better alternatives if suggested.
+
+If anyone has experience working with freelancers for projects like this or can provide tips on how to approach it, I’d be super grateful",srin4,1h42755,https://reddit.com/r/webdev/comments/1h42755/advice_needed_looking_for_a_freelancer_to_build/,https://www.reddit.com/r/webdev/comments/1h42755/advice_needed_looking_for_a_freelancer_to_build/,2024-12-01 12:25:59,0,0.14,0,0,0,0,0,False,False,True,False,False,,self,t3_1h42755
+webdev,Not another Slack Git integration,"While there are plenty of Slack-GitHub/Bitbucket/GitLab integrations out there, many miss one important aspect.
+
+They act as notification channels (like emails)—which is helpful for many teams—but they still leave a lot for teams to figure out themselves, such as fair code review distribution, back-and-forth communication (like I left new comments - I replied to your comments) and reminders.
+
+This is what ReviewNudgeBot offers on top of very convenient and noise-free notifications:
+
+* **Reminders for reviewers blocking PR progress**: When a PR is left without a review, reviewers’ comments are replied to, or a new commit is pushed to the PR, reviewers are reminded after some time of inactivity.
+* **Reminders for authors blocking PR progress**: When reviewers request changes, new comments are added to a PR, or a build fails, the author is reminded after some time of inactivity.
+* **Auto-assign reviewer**: After a few team reminders to review a PR, the bot selects specific reviewers and reminds them to review the PR. This helps resolve the bystander effect.
+* **Escalate notification**: The bot can be configured to notify a manager if a PR sits for too long without reviews.
+
+And there are more features! Please check out [ReviewNudgeBot](https://reviewnudgebot.com/) or leave comments on why you wouldn’t use it.",RealDaikon7106,1h3lyad,https://reddit.com/r/webdev/comments/1h3lyad/not_another_slack_git_integration/,https://www.reddit.com/r/webdev/comments/1h3lyad/not_another_slack_git_integration/,2024-11-30 20:46:31,0,0.33,0,0,2,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3lyad
+webdev,Would you consider using iframes instead of divs for easier organization good practice?,"I am trying to make a button on a sort of ""home page"" that you would bring you to another page with a cool transition - something like the page sliding from the right side of the screen, doesn't matter that much. I am planning to do that using an animation (need to learn how to do that... that's another topic) where the page would be either a div or an iframe that would move into view. Would you recommend using a div or an iframe in that case? It *feels* right to use an iframe because the page is somewhat of an independent thing, but at the same time, it's still very much the same website (if I used an iframe I would simply load a local HTML file).
+
+I'm fairly new to web development so if I am taking a completely inefficient approach to the problem I'd like you to let me know 😅
+
+Thanks in advance for any help! It is very much appreciated.",Awkward-Video-9382,1h3ulr6,https://reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/,https://www.reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/,2024-12-01 03:57:47,0,0.3,0,0,6,0,0,False,False,True,False,False,Question,self,t3_1h3ulr6
+webdev,⦗ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱: h0p3⦘ - ~65MB html file I've been workin' on everyday for 8 years,,3p0h0p3,1h3me5g,https://reddit.com/r/webdev/comments/1h3me5g/ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱_h0p3_65mb_html_file_ive_been_workin_on/,https://h0p3.nekoweb.org/,2024-11-30 21:06:48,0,0.41,0,0,11,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h3me5g
+webdev,Is anyone actively replacing reddit?,i don’t really trust the platform despite having a large user base. there’s plenty of dev communities but where can you see the latest and greatest with user comments without getting attacked by ads? ,salvadorabledali,1h3lezx,https://reddit.com/r/webdev/comments/1h3lezx/is_anyone_actively_replacing_reddit/,https://www.reddit.com/r/webdev/comments/1h3lezx/is_anyone_actively_replacing_reddit/,2024-11-30 20:21:53,0,0.29,0,0,9,0,0,False,False,True,False,False,,self,t3_1h3lezx
+webdev,Click here to cancel,,breck,1h3kpx2,https://reddit.com/r/webdev/comments/1h3kpx2/click_here_to_cancel/,https://hub.scroll.pub/cancel/index.html,2024-11-30 19:50:04,0,0.25,0,0,1,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h3kpx2
+webdev,What do people use for simple one-page website nowdays?,I've been out of frontend for years and have to make a simple website (no-backend) and I just wanna use some template or the easiest thing to make a good-looking website. Are templates still way to go? Which sites you recommend for templates? I used to use Bulma or Bootstrap.,RikiMaro18,1h3kok8,https://reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/,https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/,2024-11-30 19:48:20,0,0.38,0,0,35,0,0,False,False,True,False,False,Question,self,t3_1h3kok8
+webdev,Should I turn my dating POC into a full app?,"I made a POC of a dating app, the premise is no matching algorithms or pictures. 
+
+Ask and answer interesting questions, get matched on mutual liking. 
+
+In order to get answers you must answer. 
+
+I need to know if it’s worth the effort into making it into a real app now. 
+
+I have ideas on how to make it so it’s less AI able, and more audio based but same premise. 
+
+Let me know. It’s https://app.bold.dating ",IAmRules,1h3fpdi,https://reddit.com/r/webdev/comments/1h3fpdi/should_i_turn_my_dating_poc_into_a_full_app/,https://www.reddit.com/r/webdev/comments/1h3fpdi/should_i_turn_my_dating_poc_into_a_full_app/,2024-11-30 16:05:24,0,0.35,0,0,17,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h3fpdi
+webdev,I made an AI workflow to go from a product strategy canvas straight to deployable code,,squadai,1h426d1,https://reddit.com/r/webdev/comments/1h426d1/i_made_an_ai_workflow_to_go_from_a_product/,https://i.redd.it/g9nzycpuc84e1.gif,2024-12-01 12:24:31,0,0.17,0,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/RV0xFJ4fHEaT7CW7osIlVXf7r7UDQCT4BXdLBr4-HYc.jpg,t3_1h426d1
+webdev,"Schedule anything, anytime, with just a prompt!",,nobilis_rex_,1h3kczh,https://reddit.com/r/webdev/comments/1h3kczh/schedule_anything_anytime_with_just_a_prompt/,https://i.redd.it/rujfc9chc34e1.gif,2024-11-30 19:33:39,0,0.31,0,0,13,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/_28K9VHvdSEz6ItEzREzGT-u8rK0vdpj1eowweWBzs8.jpg,t3_1h3kczh
+webdev,It's Time for JavaScript to Step Aside,[https://x.com/JohnDunlap/status/1860191426484502817](https://x.com/JohnDunlap/status/1860191426484502817),john_dunlap,1h3v74m,https://reddit.com/r/webdev/comments/1h3v74m/its_time_for_javascript_to_step_aside/,https://www.reddit.com/r/webdev/comments/1h3v74m/its_time_for_javascript_to_step_aside/,2024-12-01 04:31:35,0,0.19,0,0,6,0,0,False,False,True,False,False,,self,t3_1h3v74m
+webdev,"Built ""Just a Chill Guy"" Meme Generator",,sujjeeee,1h3gq3l,https://reddit.com/r/webdev/comments/1h3gq3l/built_just_a_chill_guy_meme_generator/,https://just-chill-guy.vercel.app,2024-11-30 16:50:53,0,0.18,0,0,4,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/-A8KZoPJKPJhfF8T309xW4RlfrFYaZQjnD78QIR00R0.jpg,t3_1h3gq3l
