@@ -1,0 +1,537 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Am I an asshole for blocking my friend over a hobby web app project?,"TL;DR: my friend expects me to work hard on his hobby project, berated me for not complete the task he assigned so I was mad and block him.
+
+My friend is a senior dev (mainly focus on data engineering) who has worked for multiple large projects, for the last few months started a side project with his friend and invited me to join them. The project is a platform which helps connect designers and let them share their artworks and stuff.
+
+Having bad experiences working with multiple projects like this, where I spent LOTS of time to build apps for friends' ideas (which they promised will be very interesting and lucrative lol) but then received almost nothing in return; I hesitated at first but he said it's just a hobby project to hone our skills so just chilling around. No money involved and just focus on dev so no big issues it seems, I accepted his invitation.
+
+On boarding last weekend, was told about purposes of the project and team, but I didn't receive any overview of the app nor any doc as it hasnt been written yet. I was assigned a small task to begin with. Well it's cool, gotta dive in the code then, it's what I usually do anyway. Though I'm a self taught dev for 6+ years on and off, the project is mainly front-end in Nextjs using supabase for auth which I only have experience in less than 1 year, so took me sometimes to be familiar.
+
+HERE COMES THE PROBLEM. The app was built okay on my machine but whenever I changed a bit of the code, my WSL crashed entirely and took 2 3 minutes to restart. The codebase seems okay, but it's quite large so I reported to him it will take me sometimes to debug and to make it work properly. He was mildly frustrated and kept checking me every 3 4 hours if I have finished the task assigned yet as he and others don't have the problem as I do. It was on weekend so I was quite annoyed to be forced to work by him, as I have other stuffs to do with my family.
+
+Fast forward to monday, after spent 10+ hours debugging, going over the web app to test as well as the codebase and other tasks/ issues have done in the last few months, I noted down some points which can improve the app. I also noted that it's only my suggestions, not necessary to change anything now; and I will work on the task assigned today as I have fixed the crashing error.
+
+He called me over and was ULTRA mad and tell me:
+
+- I was too distracted and unprofessional. I MUST and CAN code the task because it's so easy according to him, no need the app to run to do it.
+
+- My coding skill is subpar as the 2 unpaid interns who havent graduated yet can do it easily. He even stressed that the university they come from is below-average.
+
+- Scolded me because I'm distracted so they may miss their deadline
+
+- My coding skill is ass so in the future he can't give me big task, and he MUST break it down to small ones for me to complete it
+
+- He said in a assumed circumstance, if one of his employees acts unprofessional like I did what will he feel about them (disappointed, angry etc.)
+
+- He told me to finished the task immediately, and he will check in after 0.5 hour. Or else he will be so mad.
+
+- Said that this project is good but no promise for economic value in the future; though I can add it to my portfolio for better recognition for future employer lol.
+
+- Said that he commited 4 5 hours per day for this project so he expects me to do the same
+
+After that I was so mad as I feel I do nothing wrong?; so after complete the task and a few hours I blocked him all around. One of my close friend told me I was too rushed and need to explain to him explicitly (which I did previously). So am I an asshole to block him too quickly like that?",kenvinams,1h4xct4,https://reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/,https://www.reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/,2024-12-02 15:21:32,121,0.81,121,0,173,0,0,False,False,True,False,False,Discussion,self,t3_1h4xct4
+webdev,Do you code your own SVG icons?,It is surprisingly easy. You should give it a try!,jbrms,1h56zc3,https://reddit.com/r/webdev/comments/1h56zc3/do_you_code_your_own_svg_icons/,https://brems.dev/blog/why-not-make-your-own-svg-icons,2024-12-02 21:54:57,122,0.87,122,0,61,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/-EIKx3jE6MqbN7rTdFFcHzsgLZKK6pAAjeJKeMudvGY.jpg,t3_1h56zc3
+webdev,How is this site detecting dev tools? (and clearing out the page),"This site seems to disable right-click, and if you open the inspector anyways, it detects it somehow and blanks out the page: [https://chillychiles.com/](https://chillychiles.com/)
+
+How are they detecting that?",ImNewHere05,1h5004w,https://reddit.com/r/webdev/comments/1h5004w/how_is_this_site_detecting_dev_tools_and_clearing/,https://www.reddit.com/r/webdev/comments/1h5004w/how_is_this_site_detecting_dev_tools_and_clearing/,2024-12-02 17:12:21,117,0.95,117,0,21,0,0,False,False,True,False,False,,self,t3_1h5004w
+webdev,Easy ways to hide API keys,"I’m a frontend developer and run into this problem a lot, especially with hobby projects.
+
+Say I’m working on a project and want to use a third party API, which requires a key that I pay for and manage. 
+
+I can’t simply place it on my frontend app as an environment variable, because someone could dig into the request and steal the key.
+
+So, instead I need to set up a backend, usually through a cloud provider that comes with more features than I need and confuses the hell out of me.
+
+Basically, what’s a simple way to set up a backend that authenticates a “guest” user from a whitelisted client, relays my request to the third party with the key attached, then returns the data to my frontend?",Greeby_Bopes,1h4znal,https://reddit.com/r/webdev/comments/1h4znal/easy_ways_to_hide_api_keys/,https://www.reddit.com/r/webdev/comments/1h4znal/easy_ways_to_hide_api_keys/,2024-12-02 16:58:07,88,0.86,88,0,85,0,0,False,False,True,False,False,Question,self,t3_1h4znal
+webdev,Does AI take the joy out of programming for anyone else?,"I’ve always enjoyed the process of building something and striving for a codebase that’s both maintainable and easy to understand. Solving the initial problem for someone is rewarding, but as the app matures, I find even more value in the **craftsmanship** of the code itself.
+
+Lately, though, I’ve been feeling increasingly demotivated at work. My entire team relies heavily on AI (looking at you, Cursor!) to develop features from start to finish. When I am reviewing their work, I can’t shake the feeling that I’m reviewing AI-generated code, not my colleagues creations. It makes me second guess whether I’ll continue to enjoy programming as it evolves. Right now it feels like I am pair programming with a junior dev(AI) to spit out the next feature.
+
+Do you feel like AI is reshaping programming into something fundamentally different? Is this 'change' for the better or worse?",iamchets,1h5izr8,https://reddit.com/r/webdev/comments/1h5izr8/does_ai_take_the_joy_out_of_programming_for/,https://www.reddit.com/r/webdev/comments/1h5izr8/does_ai_take_the_joy_out_of_programming_for/,2024-12-03 08:37:12,86,0.74,86,0,127,0,0,False,False,True,False,False,,self,t3_1h5izr8
+webdev,Next-level frosted glass with backdrop-filter,,feross,1h53uk6,https://reddit.com/r/webdev/comments/1h53uk6/nextlevel_frosted_glass_with_backdropfilter/,https://www.joshwcomeau.com/css/backdrop-filter/,2024-12-02 19:47:15,66,0.95,66,0,6,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/nP2uUJEYahqxP7FXCNO8jj091FAuFuUTENdyglMuJJA.jpg,t3_1h53uk6
+webdev,"what tools are you using, commonly and uncommonly working for yourself?","* What software / tools are you using to build sites &amp; or applications? 
+* what CMS's are you using for what purpose?
+* what framework do you commonly use for what purpose?
+* talk to me like i've never heard of any of it.
+
+so looking to make a side gig and i want to put together my tool belt before heading to work. i know a decent bit of code and it dosnet take long usually to learn new things anymore, but regressing people often dont pick they fanciest most complicated tool for the job, they pick the easiest \*for most applications\*. I was wondering what real professionals are using, are you using stuff like wix / wordpress for basic static sites with a few whistles or are you throwing together a quick bit of js or react. what about when you get the once in a while application that has no other purpose than to create timers or something unusual. i'm not looking for the answer to every problem here, but a rough ballpark tool selection to get a concrete selection before adding some of my own personality to it if you know what i mean.",Active_Access_4850,1h53iu2,https://reddit.com/r/webdev/comments/1h53iu2/what_tools_are_you_using_commonly_and_uncommonly/,https://www.reddit.com/r/webdev/comments/1h53iu2/what_tools_are_you_using_commonly_and_uncommonly/,2024-12-02 19:33:58,11,0.86,11,0,25,0,0,False,False,True,False,False,,self,t3_1h53iu2
+webdev,Is it overkill to learn this tech stack for an MVP?,"I'm new to web dev, with a couple simple projects under my belt, but my next project is aiming to be more ambitious creating a social media / blogging platform.
+
+I've done some research and the tech stack that seems to make most sense is:
+
+Backend: Node.js (Express), Supabase (as includes auth)  
+Frontend: React (+ React Query), Tailwind CSS  
+Hosting: Railway (Backend), Vercel (Frontend), S3 (Images)
+
+However I have no experience with React, Tailwind, Vercel or Supabase (just vanilla CSS + JS, HTML/EJS, PostrgreSQL, hosting on Railway)
+
+So really I want some help understanding:
+
+1. Over the next 3 months, am I likely to have saved more time by learning React + Tailwind + Supabase or is it better to stick with my vanilla stack if I'm aiming to maximise progress in 3 months?
+2. If I were to create my MVP using my current ""vanilla"" stack and hire a software dev in 3 months, would there likely be lots of technical debt to overcome or would converting to the new stack be relatively easy?
+
+React seems to be the really big one to learn, so I'm also considering just learning tailwind + supabase, and leaving React for later.
+
+(Sorry, I know this question has probably been asked 1000 different times 1000 different ways but feeling a bit stuck)",lucaducca,1h54k3a,https://reddit.com/r/webdev/comments/1h54k3a/is_it_overkill_to_learn_this_tech_stack_for_an_mvp/,https://www.reddit.com/r/webdev/comments/1h54k3a/is_it_overkill_to_learn_this_tech_stack_for_an_mvp/,2024-12-02 20:16:12,10,0.68,10,0,39,0,0,False,False,True,False,False,Question,self,t3_1h54k3a
+webdev,Is This Login/Signup System Secure and Efficient? Looking for Feedback,"Hi, I’ve built a login/signup system for my website and would love your feedback. Here's a breakdown:
+
+**1. Sign-Up Flow**
+
+* User fills out name, email, password (validated for strength) and completes hCaptcha.
+* Frontend sends a POST request to /api/auth/register with user data and hCaptcha token.
+* Server validates data, verifies hCaptcha, and creates a ""pending user"" with:
+   * Hashed password, 6-digit OTP (valid 5 mins), and expiration (30 mins).
+* OTP is emailed to the user for verification.
+* On valid OTP, a user account is created, and the pending entry is removed.
+
+**2. Sign-In Flow**
+
+* User enters email/password.
+* Server verifies credentials and creates a session via NextAuth.
+* On success, user is redirected to the dashboard.
+
+**3. Additional Security**
+
+* Passwords hashed with bcrypt.
+* Failed logins tracked for account lockout.
+* Background task clears expired pending users every 5 minutes.
+* Password resets use the same OTP process as registration.
+
+**4. Session Management**
+
+* Handled by NextAuth with token storage in cookies.
+
+**Questions:**
+
+* Is this secure enough?
+* Any improvements to the email verification or overall flow?
+* Other tips for a better user experience or security?
+
+Thanks for your input! ",DisastrousJuice1658,1h5bffm,https://reddit.com/r/webdev/comments/1h5bffm/is_this_loginsignup_system_secure_and_efficient/,https://www.reddit.com/r/webdev/comments/1h5bffm/is_this_loginsignup_system_secure_and_efficient/,2024-12-03 01:12:38,6,1.0,6,0,4,0,0,False,False,True,False,False,Question,self,t3_1h5bffm
+webdev,The friendliest image hosting for small but many images?,"I have many small images, and I want to embed them directly to my page. I'm looking for a free image hosting service thats perfect for this. ",ThaisaGuilford,1h5m7vu,https://reddit.com/r/webdev/comments/1h5m7vu/the_friendliest_image_hosting_for_small_but_many/,https://www.reddit.com/r/webdev/comments/1h5m7vu/the_friendliest_image_hosting_for_small_but_many/,2024-12-03 12:24:32,6,1.0,6,0,14,0,0,False,False,True,False,False,Question,self,t3_1h5m7vu
+webdev,You Might As Well Use a Content Security Policy,,alexmacarthur,1h51xrv,https://reddit.com/r/webdev/comments/1h51xrv/you_might_as_well_use_a_content_security_policy/,https://macarthur.me/posts/csp,2024-12-02 18:29:50,4,0.7,4,0,0,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/fNj-Z5EARycfadrVhiNzCVePgsw9Mru0ZCQ3JNwitfY.jpg,t3_1h51xrv
+webdev,"How to first load placeholders for all assets on a page, and only then start loading the actual assets?","I have a page with dozens of embedded JPGs, GIFs and a few videos. GIFs and videos take a while to load, leading to an awkard empty layout meanwhile.
+
+I'd like to assign lightweight JPG placeholders for all of these GIFs and videos, and have them all load immediately. Only once all these placeholders are loaded, I want the page to start loading the heavier assets, replacing the placeholders as they become available. Is this possible?
+
+I've tried lazy loading, however this doesn't really address the issue. I don't want the user to see the empty space before a GIF or video loads.
+
+My knowledge of html/css is very basic. I'm ok using JS, as long as the solution is not too complicated.
+
+Thanks!",D1g1talCreat1ve,1h508hk,https://reddit.com/r/webdev/comments/1h508hk/how_to_first_load_placeholders_for_all_assets_on/,https://www.reddit.com/r/webdev/comments/1h508hk/how_to_first_load_placeholders_for_all_assets_on/,2024-12-02 17:21:45,4,1.0,4,0,1,0,0,False,False,True,False,False,Question,self,t3_1h508hk
+webdev,What has happened to Render?,"I hosted a Django app on Render using their free tier. Initially, the server responds quickly after a restart, but over time (a day or two), the response times degrade significantly — even loading the home page can take 1-2 minutes. Occasionally, the server fails to start altogether, forcing me to restart it manually.
+
+This issue seems new, as I don’t recall facing such problems with Render 2-3 months ago. Could it be that Render has significantly reduced the resources allocated to their free tier?",Uziii-Boiii,1h5hxjp,https://reddit.com/r/webdev/comments/1h5hxjp/what_has_happened_to_render/,https://www.reddit.com/r/webdev/comments/1h5hxjp/what_has_happened_to_render/,2024-12-03 07:18:15,1,0.56,1,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1h5hxjp
+webdev,News Article Content without JavaScript,"Curiosity question. I noticed this with Bloomberg but I've seen it with several others: the article content is unloaded if JavaScript is disabled, and not to be found in the HTML or DOM.
+
+A lot of news websites (paywalled or otherwise) still load the article content, sometimes hidden, in the HTML with JavaScript disabled. I've noticed lots don't. 
+
+Is this because Google has gotten better at loading the articles when it crawls so gating it behind a paywall doesn't matter anymore for SEO? Maybe there is some access token or element the crawler uses or they give search engines the article content from somewhere else (or don't care that much about losing out on search results if it gets them paid subs)?",KDLGates,1h5as5e,https://reddit.com/r/webdev/comments/1h5as5e/news_article_content_without_javascript/,https://www.reddit.com/r/webdev/comments/1h5as5e/news_article_content_without_javascript/,2024-12-03 00:42:16,3,0.8,3,0,4,0,0,False,False,True,False,False,,self,t3_1h5as5e
+webdev,Where to learn Front End System Design?,"Is there a good place to learn System Design (or the equivalent) to how Front Ends works and why they are built certain ways? I understand JS, React, C#, .NET, etc.. I've worked professionally for 4 years now, but don't have a solid background. No schooling. So I'm trying to learn how everything works together. Specifically Front End, but I guess System Design in general would be beneficial. Anyone know a good website, YouTube channel, or even a book worth using/buying? ",mister_peachmango,1h52x9e,https://reddit.com/r/webdev/comments/1h52x9e/where_to_learn_front_end_system_design/,https://www.reddit.com/r/webdev/comments/1h52x9e/where_to_learn_front_end_system_design/,2024-12-02 19:09:51,3,1.0,3,0,2,0,0,False,False,True,False,False,Question,self,t3_1h52x9e
+webdev,embedding maps on a website,"for a customer project i'm doing a s a freelance i'm going to have to setup a component that can display a vector map view (scope of the map being limited to a city and it's surrounding) with his position in real time (the real time position part is figured out via using owntrack and a mqtt broker )
+
+but i'm stuck on the vector map side , should i :   
+\- use gmap and a pay as you go scheme ?
+
+\- a saas solution like slpy ? which seems to have an okay-ish credit/$ ratio and a base credit ammount renewed each month that might fit the use
+
+\- host a tile server on the server alongside the website and just serve it, which since it's for a limited area, caching and such can be done to reduce cpu cost on the long run? 
+
+  
+i'm missing some variable like the ammount of people who'll access the website and such",mrjuoji,1h5nsfa,https://reddit.com/r/webdev/comments/1h5nsfa/embedding_maps_on_a_website/,https://www.reddit.com/r/webdev/comments/1h5nsfa/embedding_maps_on_a_website/,2024-12-03 13:49:03,3,1.0,3,0,8,0,0,False,False,True,False,False,Question,self,t3_1h5nsfa
+webdev,How to display math formulas on a webpage?,"What are your guys favorite ways to display formulas in html without any additional website performance issues?
+
+And preferable text since it seems to be shown a lot more in search engines compared to svg.
+
+",TheDoomfire,1h5mwve,https://reddit.com/r/webdev/comments/1h5mwve/how_to_display_math_formulas_on_a_webpage/,https://www.reddit.com/r/webdev/comments/1h5mwve/how_to_display_math_formulas_on_a_webpage/,2024-12-03 13:03:38,3,1.0,3,0,10,0,0,False,False,True,False,False,,self,t3_1h5mwve
+webdev,When Analytics and Adsense are drastically different,"Yesterday, Analytics says that my main site had 23,006 pageviews from the US.
+
+Adsense says that the same site had 14,580 pageviews.
+
+A difference of 8,000 pageviews a day can make a significant difference in ad revenue at the end of the month!
+
+Should I take this to mean that:
+
+a) Analytics counted *bots* when Adsense didn't;
+
+b) Analytics counted users with *ad blockers* when Adsense didn't; or
+
+c) something totally different?
+
+I'm not too concerned about bots (I block bad bots via Cloudflare), but if I'm losing 37% of my ad revenue to ad blockers then that's a reason for concern.",csdude5,1h5gee9,https://reddit.com/r/webdev/comments/1h5gee9/when_analytics_and_adsense_are_drastically/,https://www.reddit.com/r/webdev/comments/1h5gee9/when_analytics_and_adsense_are_drastically/,2024-12-03 05:36:52,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h5gee9
+webdev,Web-browser games/gaming website,"Hello - I work in special education, and I see kids via telehealth on Zoom.  There are a couple of different websites I use for virtual activities, but I have my own idea for a very unique platform that I would like to develop over the next couple of years.  The site would be primarily simple games with and graphics drawn cutely, but poorly by me in Procreate.
+
+I have practically no experience in this arena so forgive if I ask a stupid question(s).
+
+I've learned so far I can make a lot with HTML and CSS, and I've played around with Scratch. I think I will be able to figure out the game-making.  However, a feature of this website would be for the user to be able to draw a card/picture/.gif in between turns of a game, or there to be a stop point before you can continue with a game.  My goal is to have potentially hundreds of decks/libraries available for a user to select as their question set prior to playing the game (for example - a deck with R sounds, a deck with action .gifs for expressive language tasks, a short video clip, etc)
+
+Would I be able to have a library within HTML/CSS, or should I look at using a different language?  Eventually, if it goes well, I would also want the option for people to create accounts and subscribe to the website, so I would need to be able to store that information too.  This is a years from now goal, but if I can get learning now it will only help me later.
+
+Thanks for any input.  I'm aware of many free coding classes online, but if there is a web developing simple video games specific one, please link me!",shylittlepot,1h55ll3,https://reddit.com/r/webdev/comments/1h55ll3/webbrowser_gamesgaming_website/,https://www.reddit.com/r/webdev/comments/1h55ll3/webbrowser_gamesgaming_website/,2024-12-02 20:58:48,2,1.0,2,0,9,0,0,False,False,True,False,False,Question,self,t3_1h55ll3
+webdev,Recommended Architecture for Small Business Site,"I’ve been tasked with making a site with a reservation system for my family’s business. All the costumers are within the state and reservations will only occur 2 months of the year. 
+
+Although a serverless architecture could be less expensive (probably free) I’m thinking of just getting a cheap vps instead. Idk tho. I was initially thinking about using next.js but the site needs very little reactivity. It’s basically just a form so using a frontend framework seems excessive. I could probably get away with using web components. 
+
+I need a form with up-to-date info for making reservations and a basic CRUD admin dashboard (and therefore auth)
+
+What are your thoughts on what technology and frameworks i should use? With so many products nowadays it seems impossible to decide. 
+
+My current thoughts are:
+Express + EJS + Web Components (when reactivity is needed) on a VPS and possibly SQLite on the VPS
+
+Or
+
+Next.js + Supabase + Edge function stuff I don’t really understand or Cloudflare worker/pages or whatever",Over-Distribution570,1h538ps,https://reddit.com/r/webdev/comments/1h538ps/recommended_architecture_for_small_business_site/,https://www.reddit.com/r/webdev/comments/1h538ps/recommended_architecture_for_small_business_site/,2024-12-02 19:22:36,2,1.0,2,0,3,0,0,False,False,True,False,False,Question,self,t3_1h538ps
+webdev,"I can not gain traction, short shory","Hi, 
+
+I just wanted to share my not-short but not-long journey. I have been doing freelancing on the side as a full-time developer for some time. I noticed that the competition is too high to get jobs on Upwork and make money. So, I slowly transitioned to indie hacker, solopreneur, entrepreneur, CEO, founder, or whatever you would like to call it because I wanted to scale. With the speed of AI, it is very easy to do small projects; with Vercel, it is very easy to deploy them. But that is it.
+
+Building does not mean anything. If I were to build a website/app that does quantum calculations. It will remain as a hidden gem. It will be useless. Marketing is hard. It is much harder than software development. If I don’t stay active on social media and don’t comment on everything literally, everything. All the graphs goes to zero immediately. 
+
+Like, I am not saying I built the quantum computer. That’s also the other thing. I am making these stupid projects. So that at some point  I would get the inspiration for the big thing, but that is also not happening. I don’t want to quit yet. But this is not just about just shipping it. It consumes more than a full-time job. It needs dedication, unfortunately, and most importantly, it needs luck. 
+
+A thread of luck, an algorithm picking it up, and you are done for. You don’t need to try anymore, and I am very sorry about it. Because luck never strikes me. ",goldenking55,1h52yse,https://reddit.com/r/webdev/comments/1h52yse/i_can_not_gain_traction_short_shory/,https://www.reddit.com/r/webdev/comments/1h52yse/i_can_not_gain_traction_short_shory/,2024-12-02 19:11:36,0,0.5,0,0,12,0,0,False,False,True,False,False,,self,t3_1h52yse
+webdev,Is Scrimba's AI Engineer Path course any good?,"I am considering taking Scrimba's AI Engineer Path course and wonder if how others like it? The about info doesn't tell me what the apps I'll make will be like. I want a better picture of what I will walk away being able to do. Does it use React?   
+  
+To clarify, I am interested in developing web applications that use AI, not become an AI researcher/engineer who builds AI models. If you have recommendations for similar courses for AI Engineering I welcome the suggestions.",CutMonster,1h4zcci,https://reddit.com/r/webdev/comments/1h4zcci/is_scrimbas_ai_engineer_path_course_any_good/,https://www.reddit.com/r/webdev/comments/1h4zcci/is_scrimbas_ai_engineer_path_course_any_good/,2024-12-02 16:45:14,3,0.67,3,0,2,0,0,False,False,True,False,False,Question,self,t3_1h4zcci
+webdev,Would you use this app for resizing iOS/Android images instantly?,"Hi, fellow developers!  
+I’m building a macOS app aimed at developers who need to generate images (like app icons or splash screens) in multiple sizes for iOS, Androud, Flutter etc.  
+The app lets you drag and drop a single image and instantly get resized images in all the required formats and dimensions without hitting the web.
+
+Features:
+
+* Drag-and-drop simplicity.
+* Automatic folder organization for iOS (`Assets.xcassets`) and Android (`drawable`).
+* Customizable sizes for additional use cases.
+
+Would you use this? What features would make this indispensable for your workflow?  
+Any feedback or suggestions would be greatly appreciated!
+
+Yes I know you can export with Figma, use a bunch of line tools etc. But i would like something really simple.
+
+Want to participate with testing? Let me know
+
+https://preview.redd.it/pcn5vfh4qg4e1.png?width=1500&amp;format=png&amp;auto=webp&amp;s=83a41967e96bb37e485941f18e14d77969d4418e
+
+  
+",tallithNO,1h4z1p4,https://reddit.com/r/webdev/comments/1h4z1p4/would_you_use_this_app_for_resizing_iosandroid/,https://www.reddit.com/r/webdev/comments/1h4z1p4/would_you_use_this_app_for_resizing_iosandroid/,2024-12-02 16:33:00,2,0.76,2,0,3,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/ECHb-LTHlh5ucGy3GiAb4tT8sufumSKV4LRTYIkiDXM.jpg,t3_1h4z1p4
+webdev,Cookieless advertising,"Anyone knows of an ad distribution service that does not use cookies to track the viewers?
+
+I read about Google Adsense's setting to disable personalization cookies, but that still uses anonymous cookies to prevent cheating the viewer numbers and thus requires the GDPR consent within the EU. (I think)",jbrms,1h5oofi,https://reddit.com/r/webdev/comments/1h5oofi/cookieless_advertising/,https://www.reddit.com/r/webdev/comments/1h5oofi/cookieless_advertising/,2024-12-03 14:30:53,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h5oofi
+webdev,Mock API Generator - Would you use it?,"A mock api generator that: 
+
+Drag and drop your api definition file to automatically  generate API endpoints  
+UI to manage, modify what each endpoint return  
+UI to manually add/delete apis and endpoints
+
+[View Poll](https://www.reddit.com/poll/1h5ka6p)",tallithNO,1h5ka6p,https://reddit.com/r/webdev/comments/1h5ka6p/mock_api_generator_would_you_use_it/,https://www.reddit.com/r/webdev/comments/1h5ka6p/mock_api_generator_would_you_use_it/,2024-12-03 10:15:32,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1h5ka6p
+webdev,DeployHQ Merges with DeployBot,,CommunicationTop7620,1h5k0vf,https://reddit.com/r/webdev/comments/1h5k0vf/deployhq_merges_with_deploybot/,https://www.deployhq.com/blog/exciting-news-deployhq-merges-with-deploybot,2024-12-03 09:56:43,1,0.67,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/P-QDh7j97z-WGPyxhUgsE3FmR6k3mOlezhy_9Lcx2gA.jpg,t3_1h5k0vf
+webdev,Advice on how to recreate a membership site.,"I am looking to create a travel membership site similar to [https://nomads.com/](https://nomads.com/) but much simpler. Probably have a few city guides to begin with.
+
+I have experience with web development in vanilla javascript, jquery, html and css. Should I try and build the site from scratch or is it recommended to use WordPress? (no experience with wordpress).",SentientBeans,1h5izc1,https://reddit.com/r/webdev/comments/1h5izc1/advice_on_how_to_recreate_a_membership_site/,https://www.reddit.com/r/webdev/comments/1h5izc1/advice_on_how_to_recreate_a_membership_site/,2024-12-03 08:36:16,1,0.67,1,0,4,0,0,False,False,True,False,False,,self,t3_1h5izc1
+webdev,Monorepo architecture and scopes,"Monorepo architecture
+
+Hi there! I’m using NX with Angular for a monorepo (but I don’t think this issue is specific to Angular nor NX) (4 projects, multiple libraries). As the repo is growing, the current library structure feels unsustainable, and responsibilities between modules are becoming unclear. Here's the current setup:
+
+# Current Library Structure
+
+1. `libs/features`
+   * Each ""screen"" (micro-frontend) gets its own library.
+   * **Problem:** Shared logic across screens creates overlapping responsibilities.
+2. `libs/services`
+   * Libraries aligned with backend microservices, split into subcategories:
+      * **UI:** Frontend-specific logic/components for an ""entity"" such as order-card.
+      * **Feature:** Core functionality (but sometimes imports across services, which feels wrong). Could be a smart search screen for orders, an oder dialog etc.
+      * **Data-access:** Backend-specific data handling logic. Like order-rest/websockets
+   * **Problem:** The ""feature"" sub-lib crosses boundaries and doesn’t align with service isolation. And it doesnt seem to make sense since its generally more defined by the wanted frontend functionality.
+3. `libs/shared`
+   * Shared functionality, including:
+      * Config
+      * Notifications handling
+      * Shared UI components not tied to entities
+
+# Questions
+
+1. **UI Libraries**
+   * Should all UI components be consolidated under `libs/shared/ui` and divided into sub-libraries/categories (e.g., `shared/ui/&lt;category&gt;`)?
+2. **Backend vs. Frontend Domains**
+   * Should backend-related libraries only include `data-access` and avoid mixing in UI or feature logic?
+   * Should the frontend code be reorganized into ""frontend domains,"" where each domain encapsulates:
+      * Shared business logic
+      * Specific screens (which could eventually become micro-frontends)?
+
+# Goals
+
+* **Clear separation of concerns**
+* **Sustainable structure as the repo grows**
+* **Logical boundaries between backend services and frontend domains**
+
+# How should I reorganize my libraries to achieve this?
+
+  
+Really grateful for any inputs or direction. Im feeling a bit lost at how to best structure this. I think the way to go is splitting things up more by front-end domains. But what sort of library types would be suitable, and which scopes and types should be limited from importing what? ",Wigglystoff,1h5ivj1,https://reddit.com/r/webdev/comments/1h5ivj1/monorepo_architecture_and_scopes/,https://www.reddit.com/r/webdev/comments/1h5ivj1/monorepo_architecture_and_scopes/,2024-12-03 08:27:59,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1h5ivj1
+webdev,Using Facebook Graph API to connect our Capstone App to a FB Messenger Group Chat,"Hello, I am a 3rd year IT student, and we are currently doing our capstone/thesis. Our capstone project have a target user of farmers (people of old age, and not adept on using tech. Also in SEA 3rd world country, where internet is scarce). They do know how to use FB Messenger, and are already using it for their work. Our capstone idea wants to utilize those information stuck in their Messenger Group Chat.  
+   
+
+
+Is it possible to use Facebook Graph API? Would it cost much?",Zhand-R,1h5iqld,https://reddit.com/r/webdev/comments/1h5iqld/using_facebook_graph_api_to_connect_our_capstone/,https://www.reddit.com/r/webdev/comments/1h5iqld/using_facebook_graph_api_to_connect_our_capstone/,2024-12-03 08:17:43,2,1.0,2,0,0,0,0,False,False,True,False,False,Question,self,t3_1h5iqld
+webdev,Web dev CV,"Apologies if this is the wrong forum. I've been a web dev at the same place for 10+ years and want to build a new CV, i.e. I haven't updated my CV in 10 years, what are good online resources?",www_the_internet,1h5il2u,https://reddit.com/r/webdev/comments/1h5il2u/web_dev_cv/,https://www.reddit.com/r/webdev/comments/1h5il2u/web_dev_cv/,2024-12-03 08:06:23,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1h5il2u
+webdev,"Is it possible to store HLS files in pocketbase and stream through it?
+","I don't need a highly scalable approach. I am working on a POC project, so spending money on S3 is not worth it (I am a college student). However, I found PocketHost, which provides some free storage. Is it possible to perform HLS streaming with PocketBase? Can you write a basic approach to build the architecture? Also, storing HLS files on the server's filesystem is not possible due to server hosting limitations on the free tier.",PositionSuperb9076,1h5e6xw,https://reddit.com/r/webdev/comments/1h5e6xw/is_it_possible_to_store_hls_files_in_pocketbase/,https://www.reddit.com/r/webdev/comments/1h5e6xw/is_it_possible_to_store_hls_files_in_pocketbase/,2024-12-03 03:32:05,1,0.67,1,0,3,0,0,False,False,True,False,False,,self,t3_1h5e6xw
+webdev,Best WYSIWYG website editor with full website control? (Leaving Squarespace),"I’m migrating my photography website away from Squarespace because it’s too limiting. I can’t manage my web pages and other media files directly (no FTP or local mounting), making it impossible for me to automate webpage creation amongst other things. 
+
+This makes managing the many photo galleries I have, and something as simple as linking full-res images to every photo a huge pain. The latter is not even possible on Squarespace—when you upload a 12 MP photo to a gallery, it gets downsampled to 1-2 MP and there's no way to view the original-resolution file. Nor can I link the original resolution file to that gallery preview. 
+
+I need a platform where I can control the entire website structure (individual HTML pages and media), ideally with local file system access via FTP or similar. My goal is to use Python scripts to automate tasks like generating new galleries/web pages, uploading images, and linking previews inside a gallery to full-resolution files (Squarespace forcibly downsamples images and the full-res versions are inaccessible to the end user).
+
+What platforms would you recommend for this level of customization? Note that I do prefer a WYSIWYG editor so that I'm not spending hours setting stuff up from scratch, but when I need to do more powerful things like change sections across all my photo galleries, I want the option for stuff like multi-file regex replacements across all my galleries' HTML files. 
+
+I’m considering WordPress with a hosting company but would love to hear your thoughts, since I'm fairly new to non-WYSIWYG web development tools. ",TestFlightBeta,1h5dd5p,https://reddit.com/r/webdev/comments/1h5dd5p/best_wysiwyg_website_editor_with_full_website/,https://www.reddit.com/r/webdev/comments/1h5dd5p/best_wysiwyg_website_editor_with_full_website/,2024-12-03 02:48:59,0,0.5,0,0,5,0,0,False,False,True,False,False,Question,self,t3_1h5dd5p
+webdev,HONO Fullstack Series: Build real world Apps Overview,"Hey everyone! 👋
+
+I’m super excited to share that I’m starting a **YouTube series** where I’ll be building real-world apps using **HONO** (a new and powerful web framework). The goal is to teach full-stack development by walking through backend APIs and frontend integrations – all using HONO as the core tool.
+
+I’ve just released the first video, where I introduce the series and explain what we’ll be building together. I’d love to get your thoughts and feedback, especially if you’re interested in learning about HONO or full-stack development in general. As I progress, I’ll be posting more videos, so feel free to subscribe and follow along!
+
+Here’s the link to the first video: [**HONO Fullstack Series: Build Real-World Apps Overview**](https://youtube.com/watch?v=wZpvqIvgwQw&amp;si=IaGrXfIB56OUdHpe) 🎥
+
+If you have any suggestions, questions, or just want to chat about HONO or full-stack development, I’m all ears! 😄
+
+Looking forward to hearing from you all!",RevolutionaryAd1557,1h5a651,https://reddit.com/r/webdev/comments/1h5a651/hono_fullstack_series_build_real_world_apps/,https://www.reddit.com/r/webdev/comments/1h5a651/hono_fullstack_series_build_real_world_apps/,2024-12-03 00:13:39,1,0.6,1,0,0,0,0,False,False,True,False,False,,self,t3_1h5a651
+webdev,I've created a sports competitions draw simulator,"Hey guys!
+
+I'd like to introduce you to **DICEDRAW**, a web project that I've been developing with great pleasure recently. It's a website dedicated to **simulating draws for sports competitions**, currently focused on soccer. It already has draws for the Champions League, Europa League and, more recently, the new Club World Cup. The latter deserves a special mention because we're only a few days away from the official draw, and we can see how things might end up lining up.
+
+The idea is that each draw respects the specific rules of each competition. In other words, nothing will be seen that goes against the rules of the entities. I've also included the new league stages of UEFA competitions, such as the Champions League, which has replaced the group stage.
+
+If you have any suggestions or even ideas for other competitions you'd like to see there, let me know! I'm also accepting contributions to the project's repository, in case you want to get your hands on the code. And if you find it useful, leave a star there, it always gives you a boost of motivation.
+
+I intend to continue evolving the project, and it would be great to have your feedback to make it even better!
+
+I invite you to try it out below:
+
+**Project link:** [https://dicedraw.vercel.app](https://dicedraw.vercel.app)
+
+**Repository link:** [https://github.com/MarioPonte/DICEDRAW](https://github.com/MarioPonte/DICEDRAW)
+
+I look forward to your feedback. All the best!",ZecaDiabo60,1h52x7t,https://reddit.com/r/webdev/comments/1h52x7t/ive_created_a_sports_competitions_draw_simulator/,https://www.reddit.com/r/webdev/comments/1h52x7t/ive_created_a_sports_competitions_draw_simulator/,2024-12-02 19:09:48,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h52x7t
+webdev,Are remix loaders and actions secure enough?,"Hey, I'm creating an app that fetches data from an API that requires the API key (what a shock). I was wondering, since loaders in remix run on the backend, if using env processes and remix loaders is enough to keep the API key secure. Or at least relatively secure, it's not a massive project, it's more of a project for my portfolio, but I still want to make sure I don't just put my API key out there.",LeeSSm4N,1h52jkh,https://reddit.com/r/webdev/comments/1h52jkh/are_remix_loaders_and_actions_secure_enough/,https://www.reddit.com/r/webdev/comments/1h52jkh/are_remix_loaders_and_actions_secure_enough/,2024-12-02 18:54:27,1,1.0,1,0,5,0,0,False,False,True,False,False,,self,t3_1h52jkh
+webdev,Seeking Guidance: Best Coding Language and Open APIs for E-Commerce Price History Tracker,"We’re in the process of developing a website that will provide users with **historical price data** for products across various e-commerce platforms like Amazon, Flipkart, etc..
+
+As a team with limited experience in building such web applications, we’re looking for **guidance** on a few key aspects:
+
+1. **Coding Language:** Which programming language or framework is best suited for developing a project of this scale and nature? We need something that’s efficient, scalable, and relatively beginner-friendly.
+2. **Open APIs:** Are there any standard **open APIs** available that provide product price data for this kind of use case? If not, what are the recommended legal and ethical approaches for sourcing such data?
+3. **Safe and Legal Methods:** We’re committed to building this project in a way that adheres to all legal and ethical standards. Any suggestions on how to proceed safely while ensuring we comply with terms of use and relevant regulations?
+
+Additionally, if you have recommendations for the **tech stack** or any personal experiences with similar projects, we’d greatly appreciate your input.
+
+Thanks in advance for helping us move forward with this project!",Ty_ler__,1h50v6t,https://reddit.com/r/webdev/comments/1h50v6t/seeking_guidance_best_coding_language_and_open/,https://www.reddit.com/r/webdev/comments/1h50v6t/seeking_guidance_best_coding_language_and_open/,2024-12-02 17:47:14,1,0.67,1,0,2,0,0,False,False,True,False,False,,self,t3_1h50v6t
+webdev,Personal dev blog/portfolio redesign with color-scheme and light-dark(),,floppydiskette,1h5041u,https://reddit.com/r/webdev/comments/1h5041u/personal_dev_blogportfolio_redesign_with/,https://www.taniarascia.com/redesign-version-7/,2024-12-02 17:16:43,1,1.0,1,0,0,0,0,False,False,False,False,False,Article,https://a.thumbs.redditmedia.com/wtognKXq-m0uxWWf4fgXbz_Y4skNwYSNp8CgVptv490.jpg,t3_1h5041u
+webdev,High School Sports API,"I'm looking for an API that reports high school sports scores in the US. IS there something out there like this?
+
+I've found some that report UK soccer scores but nothing that reports US HS sports.
+
+It doesn't have to be real-time score-by-score, just a report as soon as the game is finished.
+
+Also, if its just for one sport thats fine; i.e. basketball or football preferably.",wisdomforusall,1h4y0vr,https://reddit.com/r/webdev/comments/1h4y0vr/high_school_sports_api/,https://www.reddit.com/r/webdev/comments/1h4y0vr/high_school_sports_api/,2024-12-02 15:50:32,1,0.57,1,0,4,0,0,False,False,True,False,False,,self,t3_1h4y0vr
+webdev,Laravel VueJS GitHub repo run help,"Hello. I am new to laravel/vueJs stuff. And trying to run GitHub repo on my pc. But it has some versions issues. Could you help me to run it? How should I change composer.json? Or I need to lower my php version? Or how to update versions of the project to the newest one? 
+
+GitHub repo: https://github.com/lenard123/E-commerce-website-using-Laravel-and-VueJS/tree/master?tab=readme-ov-file",qassym,1h53mht,https://reddit.com/r/webdev/comments/1h53mht/laravel_vuejs_github_repo_run_help/,https://www.reddit.com/r/webdev/comments/1h53mht/laravel_vuejs_github_repo_run_help/,2024-12-02 19:38:07,0,0.5,0,0,0,0,0,False,False,True,False,False,Question,self,t3_1h53mht
+webdev,How can I deploy my web app (django+react)? ,"For the past few months, I’ve been working on a web app—a Reddit clone—using Django for the backend and React for the frontend. The app focuses on stock market tickers, allowing users to post and discuss specific securities, similar to how Reddit functions.
+
+This is my first time building something like this, and I don’t have a background in computer science. Now, I’m ready to take the next step and deploy my app, but I have no idea where to start.
+
+I’ve heard about AWS, Azure, and other hosting platforms, but I’m not sure which one would be best for a beginner like me. I’d really appreciate any guidance, resources, or tutorials (e.g., YouTube videos, step-by-step guides) that can help me with deployment.
+
+Thanks in advance for your help!
+
+https://preview.redd.it/79mm15wu4h4e1.png?width=3014&amp;format=png&amp;auto=webp&amp;s=e676281a8c0e8b23515a573c5bb25c1b9bed50cc
+
+https://preview.redd.it/mjqay3wu4h4e1.png?width=3018&amp;format=png&amp;auto=webp&amp;s=df0a450bd57ecfe705b28d6ec4f78ccd3aaf7a7a
+
+https://preview.redd.it/wx849twu4h4e1.png?width=3014&amp;format=png&amp;auto=webp&amp;s=d308b2f51c97e8d1755c6bd8ac4252b983274d39
+
+https://preview.redd.it/630pa4wu4h4e1.png?width=3022&amp;format=png&amp;auto=webp&amp;s=6725a184cba40323e957a0c06ff5f45c55fd9273
+
+https://preview.redd.it/ybuvi4wu4h4e1.png?width=3016&amp;format=png&amp;auto=webp&amp;s=3533b390dc533d67bd19599896c39bb47e5f184d
+
+",pussydestroyerSPY,1h513bc,https://reddit.com/r/webdev/comments/1h513bc/how_can_i_deploy_my_web_app_djangoreact/,https://www.reddit.com/r/webdev/comments/1h513bc/how_can_i_deploy_my_web_app_djangoreact/,2024-12-02 17:56:09,0,0.5,0,0,2,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/QADNtDOhDHRQDPHUJeU0h6NZWRLiYl99q4tdi9Gag_Y.jpg,t3_1h513bc
+webdev,"Trying to send file and data to a Django backend, and I'm just getting errors I shouldn't be getting","We've got a Django backend, and a VueJS + Ionic frontend. I need to send a document and a UUID (that'll link said document to an entity) to the backend, so I'm using MultiPartParser for this, and formData in the frontend.
+
+Here's what my code looks like frontend wise:
+
+      const sendFileAsSearchedJob = async (
+        file: PickedFile,
+        fileType: string,
+        searchedJob: string,
+        callback?: () =&gt; Promise&lt;void&gt;,
+      ) =&gt; {
+        const { openSuccessToast, openErrorToast } = useToast();
+    
+        const formData = new FormData();
+        const fileBlob = createBlob(file.data, fileType);
+        formData.append('file', fileBlob as Blob, file.name);
+        formData.append('searchedJob', searchedJob);
+    
+        try {
+          const response = await window.axios.post(
+            '/api/searched-job-document/',
+            formData,
+            {
+              headers: {
+                'Content-Type': 'multipart/form-data',
+              },
+            },
+          );
+          return response.data;
+        } catch (error) {
+          console.error('Error uploading file:', error);
+          throw error;
+        }
+      };
+
+So it's all pretty standard, I'm getting a file, creating Blob from it, and sending it to the api
+
+Now backend wise:
+
+    class SearchedJobDocumentSerializer(serializers.ModelSerializer):
+        searched_job = serializers.PrimaryKeyRelatedField(queryset=SearchedJob.objects.all())
+    
+        class Meta:
+            model = SearchedJobDocument
+            fields = (
+                'searched_job',
+                'name',
+                'file',
+            )
+    
+    
+
+    class SearchedJobDocumentViewSet(
+        mixins.CreateModelMixin,
+        mixins.DestroyModelMixin,
+        mixins.RetrieveModelMixin,
+        viewsets.GenericViewSet,
+    ):
+        queryset = SearchedJobDocument.objects.all()
+        permission_classes = [IsOwnedByCandidate]
+        serializer_class = SearchedJobDocumentSerializer
+        parser_classes = (MultiPartParser,)
+    
+        def get_serializer_class(self):
+            if self.request.user:
+                return SearchedJobDocumentSerializer
+    
+        def get_queryset(self):
+            user = self.request.user
+            return SearchedJobDocument.objects.filter(searched_job__candidate__pk=user.pk)
+    
+        def perform_create(self, serializer):
+            searched_job_uuid = self.request.data.get('searched_job')
+            searched_job = get_object_or_404(SearchedJob, uuid=searched_job_uuid, candidate=self.request.user.candidate)
+            serializer.save(searched_job=searched_job)
+
+  
+Again, nothing that reinvents the wheel. I've changed the code here and there so many times because I either got a 500, or a 400 with no error message, I tried printing the request in the perform\_create but it never worked. Anyway now I finally got a better error in Xcode:
+
+    {""data"":{""file"":[""No file submitted.""],""searchedJob"":[""This field is required""],""statusCode"":400},""headers"":{""vary"":""Cookie, origin"",""date"":""Mon, 02 Dec 2024 20:51:10 GMT"",""content-type"":""application\/json"",""x-frame-options"":""SAMEORIGIN"",""x-c
+
+I'm really confused because I'm pretty sure that my frontend should be creating a proper formData. And yet when I try to console.log() the formData or Object.entries(formData), it shows up as an empty object for some reason. I've been stuck on this for 24h.. 
+
+Could anyone help me understand what I'm doing wrong please ?
+
+Thanks",Sea_Reflection9737,1h5iygv,https://reddit.com/r/webdev/comments/1h5iygv/trying_to_send_file_and_data_to_a_django_backend/,https://www.reddit.com/r/webdev/comments/1h5iygv/trying_to_send_file_and_data_to_a_django_backend/,2024-12-03 08:34:17,0,0.33,0,0,5,0,0,False,False,True,False,False,Question,self,t3_1h5iygv
+webdev,Looking for Contributers : SOYO a local streaming website ,"Hey, Everyone,
+
+So I recently built this little project called Soyo (Stream Own Your Own), and I thought it might be fun to share it with you all. It's basically a self-hosted streaming service that lets you stream your personal media (anime, movies, etc.) over Wi-Fi. Imagine Plex but simpler, and everything stays on your local network.
+
+Right now, it's a Next.js project styled with Tailwind CSS. I've got the basic functionality up and running, but there's definitely room for improvement.
+
+If this sounds interesting, it’d be super cool if you could:
+
++ Drop your suggestions
++ Edit some stuff and drop a pr
++ Find out and raise any issues
+
+P.S. Anime fans, you'll love this for streaming your collections.
+
+[SOYO - STREAM ON YOUR OWN](https://github.com/fal3n-4ngel/SOYO)
+
+
+ 
+",hi_kki,1h5gfsh,https://reddit.com/r/webdev/comments/1h5gfsh/looking_for_contributers_soyo_a_local_streaming/,https://www.reddit.com/r/webdev/comments/1h5gfsh/looking_for_contributers_soyo_a_local_streaming/,2024-12-03 05:39:18,0,0.5,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h5gfsh
+webdev,Does it really matter if you use * (asterisk) selector for resets?,"I've been studying the basics for a few months and my teacher stresses that using \* ever is very bad for load times and has instead taught me to make a snippet for a meyer's import to use as an alternative, though its annoying that it also resets some things that i want to keep default more often than not, such as the &lt;code&gt; styling. 
+
+meanwhile i see websites, like [twitch.tv](http://twitch.tv) which do use the global selector for margin, padding, and boxsizing properties. 
+
+and while im making a post i might as well ask, why isnt borderbox the default? it's extremely rare that i ever want contentbox set on my elements, and seeing that other websites also use a universal selector for changing this, why hasnt it become a default browser styling?",Smexy_Zarow,1h53zw9,https://reddit.com/r/webdev/comments/1h53zw9/does_it_really_matter_if_you_use_asterisk/,https://www.reddit.com/r/webdev/comments/1h53zw9/does_it_really_matter_if_you_use_asterisk/,2024-12-02 19:53:26,0,0.38,0,0,18,0,0,False,False,True,False,False,Question,self,t3_1h53zw9
+webdev,Reviews regarding Algozenith Premium courses ,"How is the Algozenith Premium course? They will teach basic and advanced DSA, Competitive Programming,will also cover web development, CS fundamentals and System Design. How is the course?
+I am a 3rd Semester CSE(Cyber Security) undergrad . 4th semester will start from March.",Key-Plankton-7092,1h4yjed,https://reddit.com/r/webdev/comments/1h4yjed/reviews_regarding_algozenith_premium_courses/,https://www.reddit.com/r/webdev/comments/1h4yjed/reviews_regarding_algozenith_premium_courses/,2024-12-02 16:12:04,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1h4yjed
+webdev,5 JavaScript Libraries for Developers Working with PDFs,,9millionrainydays_91,1h4xvkb,https://reddit.com/r/webdev/comments/1h4xvkb/5_javascript_libraries_for_developers_working/,https://javascript.plainenglish.io/5-essential-javascript-libraries-every-developer-should-know-for-working-with-pdfs-1b942262dee7,2024-12-02 15:44:01,0,0.33,0,0,0,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/LHXZ35gR-yDSFQOvDzuic23Vwf68CuCTVYRWfzG1Ufc.jpg,t3_1h4xvkb
+webdev,Sanity check: kiwico checkout page doesn't load for any Firefox user?,"I'm in the middle of reporting an issue to KiwiCo's support team but they keep insisting my wifi is slow or I try incognito mode.
+
+The problem is their checkout page hangs while loading and Firefox users cannot enter data into any field or continue.
+
+I've tested across different ISPs, locations, and machines and am certain this is not an end user problem.
+
+Issue only affects the Firefox browser, chrome and edge are working.
+
+I'm unsure if the issue only affects Australian users, it's possible the AU store loads a different checkout than global store.
+
+Would r/webdev be kind enough to test if this behavior is observed universally?
+
+Steps to reproduce:
+
+(Firefox)
+1. Go to https://www.kiwico.com/
+2. Add any item to cart and go to checkout
+3. Enter a random email address to begin checkout
+4. Observe no input field can be clicked, Firefox may detect the page crashed
+
+I'd like to know for certain if other users are experiencing this issue so I can relay that to KiwiCo. If you want to go the extra mile and report the issue to them, maybe they'll finally start listening.",Iriskane,1h5foo6,https://reddit.com/r/webdev/comments/1h5foo6/sanity_check_kiwico_checkout_page_doesnt_load_for/,https://www.reddit.com/r/webdev/comments/1h5foo6/sanity_check_kiwico_checkout_page_doesnt_load_for/,2024-12-03 04:55:17,0,0.25,0,0,2,0,0,False,False,True,False,False,,self,t3_1h5foo6
+webdev,Is it possible to see changes made to a website page?,"I need to see what this page looked like on Nov. 25, 2024, 9:00 am EST: https://www.warrentonva.gov/230/Leaf-Collection
+
+I believe the disclaimer (""NOTE"") was added since last week but I need proof.",KleinsterGal,1h52mdy,https://reddit.com/r/webdev/comments/1h52mdy/is_it_possible_to_see_changes_made_to_a_website/,https://www.reddit.com/r/webdev/comments/1h52mdy/is_it_possible_to_see_changes_made_to_a_website/,2024-12-02 18:57:44,0,0.4,0,0,5,0,0,False,False,True,False,False,,self,t3_1h52mdy
+webdev,How/why is chatgpt free?,"Well, I know it has a paid tier which is far better than the free version, but to me it feels insane to make something such power intensive globally free. Shouldn't they be hemorrhaging money by making it free for everyone?
+
+Couple months ago I tried downloading a much inferior version of an LLM to run on my machine (don't remember the name atm) and my mid-tier PC took over 10 minutes to generate a single response, which was still far, far inferior compared to gpt.
+
+I remember the saying ""if something is free, you're the product"". I'm wondering if that's the case here.
+
+Same goes for Microsoft copilot as well, and that one can generate unlimited images while chatgpt has a limit on free tier. And it's much better at image generation from what I've experienced so far. Response -wise, free tier chatgpt can still kick copilots ass though.
+
+If it's for advertisement, aren't there much better and cheaper ways they could spend their ad budget on? Even so, how on earth does Microsoft need any more advertisement?",mekmookbro,1h5f7y1,https://reddit.com/r/webdev/comments/1h5f7y1/howwhy_is_chatgpt_free/,https://www.reddit.com/r/webdev/comments/1h5f7y1/howwhy_is_chatgpt_free/,2024-12-03 04:27:47,0,0.44,0,0,31,0,0,False,False,True,False,False,,self,t3_1h5f7y1
+webdev,Rate my first fullstack app,"Hello if you could please have a look at this project and give me any advice. Thanks
+
+https://github.com/ledbajrami/login-register
+
+",shangarepi,1h5avuv,https://reddit.com/r/webdev/comments/1h5avuv/rate_my_first_fullstack_app/,https://www.reddit.com/r/webdev/comments/1h5avuv/rate_my_first_fullstack_app/,2024-12-03 00:47:07,0,0.22,0,0,2,0,0,False,False,True,False,False,,self,t3_1h5avuv
+webdev,why indie developers tend to prefer game startup rather than web startup?,"or at least seem to be...
+
+I think there are still many problems that intermediate computer science undergraduate students can provide solutions to. The public still can't develop web services on their own even if the problems are very easy to solve. And top level engineers spend the same amount of time doing much more value-added activities. In other words, this efficiency keeps some solvable problems unsolved.
+
+Is it because these niches aren't being exploited because they lack marketability and viability?
+
+Web service-based businesses are not easy, of course. And games are no different!",Gloomy-Status-9258,1h4xsan,https://reddit.com/r/webdev/comments/1h4xsan/why_indie_developers_tend_to_prefer_game_startup/,https://www.reddit.com/r/webdev/comments/1h4xsan/why_indie_developers_tend_to_prefer_game_startup/,2024-12-02 15:40:11,0,0.22,0,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1h4xsan
+webdev,How do you guys track your web dev “literacy”?,"The same way people would track their fitness journey through a health dashboard to ensure holistic growth, for example:
+
+You would track
+1. Body fats 
+2. Lean mass (water, muscle mass, organ weight)
+3. Visceral fat
+
+… where these 4 things can help you to achieve great results in the above 3 factors:
+1. Cardio training 
+2. Strength training 
+3. Sleep
+4. Nutrition
+",Ok-Carob5798,1h5kp4n,https://reddit.com/r/webdev/comments/1h5kp4n/how_do_you_guys_track_your_web_dev_literacy/,https://www.reddit.com/r/webdev/comments/1h5kp4n/how_do_you_guys_track_your_web_dev_literacy/,2024-12-03 10:45:58,0,0.33,0,0,24,0,0,False,False,True,False,False,Question,self,t3_1h5kp4n
+webdev,Native apps are dead | Usecue web development,,tsoojr,1h5kfyc,https://reddit.com/r/webdev/comments/1h5kfyc/native_apps_are_dead_usecue_web_development/,https://www.usecue.com/blog/native-apps-are-dead/,2024-12-03 10:27:18,0,0.27,0,0,6,0,0,False,False,False,False,False,,default,t3_1h5kfyc
+webdev,A fun app I made to just recover from burnout is sort of blowing up. ,"Hey folks. I was recently checking out BlueSky Social and their atproto API docs seemed so cool to me. I had just the idea to use them for a fun little side project to combat dev burnout. Give [Bskypt](https://bskypt.vercel.app) a try and give me some feedback.
+
+I would love to know what y'all think of this and help me with some feedback.
+
+Made with next.js, tailwindcss and deployed on vercel.
+
+Huge thanks to the developers for keeping the API free and open for third party fun apps like these to be made",xyraxes,1h5lbd5,https://reddit.com/r/webdev/comments/1h5lbd5/a_fun_app_i_made_to_just_recover_from_burnout_is/,https://www.reddit.com/r/webdev/comments/1h5lbd5/a_fun_app_i_made_to_just_recover_from_burnout_is/,2024-12-03 11:28:13,0,0.35,0,0,3,0,0,False,False,True,False,False,,self,t3_1h5lbd5

@@ -1,0 +1,348 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,What's the cheapest way to host a python script?,"Hello, I have a Python script that I need to run every minute. I came across PythonAnywhere, which costs about $5 per month for the first Tier Account. 
+
+Are there any cheaper alternatives to keep my script running? Would it be more cost-effective to run the script continuously by leaving my computer on? I’m new to this, so any advice or suggestions would be greatly appreciated. Thank you!",Fickle-Sock720,1h5hikf,https://reddit.com/r/Python/comments/1h5hikf/whats_the_cheapest_way_to_host_a_python_script/,https://www.reddit.com/r/Python/comments/1h5hikf/whats_the_cheapest_way_to_host_a_python_script/,2024-12-03 06:49:11,70,0.92,70,0,45,0,0,False,False,True,False,False,Discussion,self,t3_1h5hikf
+Python,"PyBox: A Browser-Based Python IDE for Coding Anytime, Anywhere","**What My Project Does**  
+PyBox is a browser-based Python IDE designed for flexibility and accessibility. With it, you can:
+
+* Write, execute, and experiment with Python code directly in your browser—no installations required
+* Use an integrated Bash terminal for system-level scripting.
+* Manage files with drag-and-drop and a file manager
+* Install and run packages
+* Visualize data using libraries like Matplotlib within the browser
+
+**Target Audience**  
+PyBox can be useful for:
+
+* People experimenting with Python who want a simple, no-setup-required environment
+* Hobbyists or educators looking for a lightweight way to teach or experiment with Python code
+* Developers who occasionally need a quick and portable coding environment
+
+It’s not built for large-scale production projects but works well for learning, prototyping, and scripting
+
+**Comparison**  
+The browser-based nature of PyBox sets it apart from traditional IDEs in several ways:
+
+1. **Portability**: Since everything happens in the browser, PyBox works on any device—PCs, tablets, or even Chromebooks—without worrying about installations or configurations
+2. **Consistency**: Whether you switch from one computer to another or use a public device, the coding environment remains consistent
+3. **Lightweight and Accessible**: All you need is a browser. No downloading or installing tools, and no lengthy setup processes
+
+It basically combines the accessibility of Replit with the interactivity of Jupyter Notebooks, plus unique features like a fully integrated Bash terminal and drag-and-drop file management. It’s not trying to replace tools like Jupyter or Replit but acts as another option depending on the use case.
+
+**Why**  
+The vision behind PyBox is to:
+
+* Make Python coding accessible to everyone regardless of skill level or device
+* Eliminate the friction of local installations and configurations
+* Have a ready and lightweight, go-to, and accessible place to execute Python
+
+Would love your feedback or suggestions!   
+Check out the repo and try it out: [https://github.com/Oct4Pie/pybox](https://github.com/Oct4Pie/pybox)",Greedy_Letterhead155,1h5hjmg,https://reddit.com/r/Python/comments/1h5hjmg/pybox_a_browserbased_python_ide_for_coding/,https://www.reddit.com/r/Python/comments/1h5hjmg/pybox_a_browserbased_python_ide_for_coding/,2024-12-03 06:51:13,23,0.93,23,0,8,0,0,False,False,True,False,False,Showcase,self,t3_1h5hjmg
+Python,I had to touch Jython for a project I'm working on. ,"I honestly never even heard of it before this. For the project I'm doing it's necessary, and it's pretty doable. But man what is it horrible to work with. 
+
+So have you ever worked with it and why? I honestly can't figure out another use case than Ghidra scripting. Pretty interested to see what somebody does with it. ",TastyDepartureFrom,1h5igmd,https://reddit.com/r/Python/comments/1h5igmd/i_had_to_touch_jython_for_a_project_im_working_on/,https://www.reddit.com/r/Python/comments/1h5igmd/i_had_to_touch_jython_for_a_project_im_working_on/,2024-12-03 07:57:20,17,0.86,17,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1h5igmd
+Python,Created a tool to check circular imports,"Hey guys, could you please check this tool and share opinions.
+
+https://github.com/abdelrahman0w/ouro
+
+- **What My Project Does**
+ouro checks Python projects for circular imports using ASTs and BFS algorithm.
+
+- **Target Audience**
+Developers
+
+- **Comparison**
+Not sure if there is any existing solution rather than breaking the code. I personally faced an issue in a production environment in which the service went down due to a circular import.",the_well_unknown,1h5n3du,https://reddit.com/r/Python/comments/1h5n3du/created_a_tool_to_check_circular_imports/,https://www.reddit.com/r/Python/comments/1h5n3du/created_a_tool_to_check_circular_imports/,2024-12-03 13:13:21,4,0.76,4,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h5n3du
+Python,Building native Python desktop application with Pyloid and Gradio,"Let's build a desktop chat application that streams responses from an LLM. We'll use three key libraries that work beautifully together:
+
+- **[Pyloid](https://github.com/pyloid/pyloid)**: Creates native desktop applications -- like Electron but with Python
+- **[Gradio](https://gradio.app)**: Builds the chat interface
+- **[Promptic](https://github.com/knowsuchagency/promptic)**: Handles LLM interactions
+
+Source Code: https://github.com/knowsuchagency/pyloid-chat-demo
+
+## Prerequisites
+
+Before running the application, you'll need:
+- An OpenAI API key ([get one here](https://platform.openai.com/api-keys))
+- [uv](https://github.com/astral-sh/uv) for Python package management
+- [just](https://github.com/casey/just) command runner
+
+## The Chat Interface
+
+First, let's create the chat interface. This is where Gradio and Promptic work together:
+
+```python
+import gradio as gr
+from promptic import llm
+
+@llm(memory=True, stream=True)
+def assistant(message):
+    """"""{message}""""""
+
+def predict(message, history):
+    partial_message = """"
+    for chunk in assistant(message):
+        partial_message += str(chunk)
+        yield partial_message
+
+with gr.ChatInterface(
+    fn=predict,
+    title=""Chat Demo"",
+) as chat_interface:
+    chat_interface.chatbot.clear(assistant.clear)
+```
+
+The code above:
+- Uses Promptic's `@llm` decorator to handle LLM interactions
+- Implements streaming responses using a generator
+- Creates a chat interface with Gradio
+- By passing `memory=True`, Promptic will manage conversation history
+
+## Making It a Desktop App
+
+Now, let's wrap our chat interface in a native window using Pyloid:
+
+```python
+from pyloid import Pyloid
+import threading
+import time
+import socket
+from contextlib import contextmanager
+
+HOST = ""127.0.0.1""
+PORT = 7861
+
+def run_demo():
+    chat_interface.launch(
+        server_name=HOST,
+        server_port=PORT,
+        share=False,
+        show_api=False,
+    )
+
+# Run Gradio in a separate thread
+demo_thread = threading.Thread(target=run_demo, daemon=True)
+demo_thread.start()
+
+app = Pyloid(app_name=""Chat-App"", single_instance=True)
+win = app.create_window(""chat-window"")
+
+@contextmanager
+def wait_for_server(host=HOST, port=PORT, timeout=30):
+    start_time = time.time()
+    while True:
+        try:
+            with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+                if sock.connect_ex((host, port)) == 0:
+                    break
+        except:
+            pass
+
+        if time.time() - start_time &gt; timeout:
+            raise TimeoutError(f""Server at {host}:{port} did not start within {timeout} seconds"")
+        time.sleep(0.5)
+    yield
+
+with wait_for_server():
+    win.load_url(f""http://{HOST}:{PORT}"")
+    win.show_and_focus()
+
+app.run()
+```
+
+This code:
+- Runs the Gradio interface in a background thread
+- Creates a native window that loads the interface
+- Ensures the server is ready before loading the UI
+
+## Running the Application
+
+This project includes a [`justfile`](https://just.systems/man/en/) with commands for building and running the application. It also uses [`uv`](https://github.com/astral-sh/uv) for package management.
+
+```bash
+# clone the repo
+git clone https://github.com/knowsuchagency/pyloid-chat-demo
+cd pyloid-chat-demo
+
+# this builds the application and opens it
+# it will create a virtual environment and
+# install the dependencies automatically
+just build open
+```
+
+That's it! With just these few lines of code, you have a desktop chat application with streaming responses. The magic comes from combining these libraries:
+
+- Promptic handles the LLM interaction and streaming
+- Gradio provides the chat interface
+- Pyloid wraps everything in a native window
+
+You can now extend this foundation by adding features like API key configuration, custom themes, or system prompts.
+",knowsuchagency,1h5a26x,https://reddit.com/r/Python/comments/1h5a26x/building_native_python_desktop_application_with/,https://www.reddit.com/r/Python/comments/1h5a26x/building_native_python_desktop_application_with/,2024-12-03 00:08:37,12,0.72,12,0,0,0,0,False,False,True,False,False,Tutorial,self,t3_1h5a26x
+Python,Feedback for project creating conversational agents using a Finite State Machine (FSM) and LLMs,"Hi r/Python community!
+
+I've been working on a project combining Finite State Machines and Large Language Models.  
+  
+What My Project Does  
+This project provides a framework for building conversational agents using a Finite State Machine (FSM) powered by LLMs like OpenAI GPT. It aims to create structured tools like step-by-step teaching systems, customer support bots, and multi-step memory games while addressing issues like hallucinations, loss of context, and unpredictability. I have a few example usages in the repo.
+
+Target Audience  
+This is currently an experimental setup, and also part of a research project I am doing for university. For now it is meant for developers and experimenters mainly. Requires an OpenAI API key (currently tested on gpt-4o-mini).
+
+Comparison  
+Unlike typical LLM-based chatbots, this combines FSM with LLMs to enforce structured, predictable conversations, making it ideal for use cases requiring adherence to predefined paths.
+
+If anyone is interested I would love to hear your feedback and thoughts! The repo is here: [https://github.com/jsz-05/LLM-State-Machine](https://github.com/jsz-05/LLM-State-Machine)
+
+Cheers!",JeffZ117,1h594wc,https://reddit.com/r/Python/comments/1h594wc/feedback_for_project_creating_conversational/,https://www.reddit.com/r/Python/comments/1h594wc/feedback_for_project_creating_conversational/,2024-12-02 23:27:04,15,0.9,15,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h594wc
+Python,Melon Python library,"---
+**I made my Python library**
+
+[github\](https://github.com/karpuzkafa/Melon-Python-Library?tab=readme-ov-file)
+---
+a library for terminal games
+
+But there are only 6 functions right now
+
+Give me ideas for adding function please
+---",Antique-Bowl-6384,1h5n8xn,https://reddit.com/r/Python/comments/1h5n8xn/melon_python_library/,https://www.reddit.com/r/Python/comments/1h5n8xn/melon_python_library/,2024-12-03 13:21:07,0,0.33,0,0,0,0,0,False,False,True,False,False,News,self,t3_1h5n8xn
+Python,Tuesday Daily Thread: Advanced questions,"# Weekly Wednesday Thread: Advanced Questions 🐍
+
+Dive deep into Python with our Advanced Questions thread! This space is reserved for questions about more advanced Python topics, frameworks, and best practices.
+
+## How it Works:
+
+1. **Ask Away**: Post your advanced Python questions here.
+2. **Expert Insights**: Get answers from experienced developers.
+3. **Resource Pool**: Share or discover tutorials, articles, and tips.
+
+## Guidelines:
+
+* This thread is for **advanced questions only**. Beginner questions are welcome in our [Daily Beginner Thread](#daily-beginner-thread-link) every Thursday.
+* Questions that are not advanced may be removed and redirected to the appropriate thread.
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **How can you implement a custom memory allocator in Python?**
+2. **What are the best practices for optimizing Cython code for heavy numerical computations?**
+3. **How do you set up a multi-threaded architecture using Python's Global Interpreter Lock (GIL)?**
+4. **Can you explain the intricacies of metaclasses and how they influence object-oriented design in Python?**
+5. **How would you go about implementing a distributed task queue using Celery and RabbitMQ?**
+6. **What are some advanced use-cases for Python's decorators?**
+7. **How can you achieve real-time data streaming in Python with WebSockets?**
+8. **What are the performance implications of using native Python data structures vs NumPy arrays for large-scale data?**
+9. **Best practices for securing a Flask (or similar) REST API with OAuth 2.0?**
+10. **What are the best practices for using Python in a microservices architecture? (..and more generally, should I even use microservices?)**
+
+Let's deepen our Python knowledge together. Happy coding! 🌟",AutoModerator,1h59v6z,https://reddit.com/r/Python/comments/1h59v6z/tuesday_daily_thread_advanced_questions/,https://www.reddit.com/r/Python/comments/1h59v6z/tuesday_daily_thread_advanced_questions/,2024-12-03 00:00:09,4,0.84,4,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h59v6z
+Python,"Goodbye Make and Shell, Hello... Python?","I wrote an post documenting a [transition from typical build project tooling using Make and bash scripts, to a Python system](https://trstringer.com/python-build-tooling/). Lots of lessons learned, but it was a very enlightening exercise!",chillysurfer,1h4wvzy,https://reddit.com/r/Python/comments/1h4wvzy/goodbye_make_and_shell_hello_python/,https://www.reddit.com/r/Python/comments/1h4wvzy/goodbye_make_and_shell_hello_python/,2024-12-02 15:01:18,18,0.7,18,0,20,0,0,False,False,True,False,False,News,self,t3_1h4wvzy
+Python,"Iris Templates: A Modern Python Templating Engine Inspired by Laravel Blade
+","**What My Project Does**
+
+As a Python developer, I’ve always admired the elegance and power of Laravel’s **Blade templating engine**. Its intuitive syntax, flexible directives, and reusable components make crafting dynamic web pages seamless. Yet, when working on Python projects, I found myself longing for a templating system that offered the same simplicity and versatility. Existing solutions often felt clunky, overly complex, or just didn’t fit the bill for creating dynamic, reusable HTML structures.
+
+That’s when **Iris Templates** was born—a lightweight, modern Python template engine inspired by **Laravel Blade**, tailored for Python developers who want speed, flexibility, and an intuitive way to build dynamic HTML.
+
+# 🧐 Why I Developed Iris Templates (Comparison)
+
+When developing Python web applications, I noticed a gap in templating solutions:
+
+* **Jinja2** is great but can feel verbose for straightforward tasks.
+* **Django templates** are tied closely to the Django framework.
+* Many templating engines lack the modularity and extendability I needed for larger projects.
+
+Iris Templates was created to bridge this gap. It's:
+
+* **Framework-agnostic**: Use it with FastAPI, Flask, or even standalone scripts.
+* **Developer-friendly**: Intuitive syntax inspired by Blade for faster development.
+* **Lightweight but Powerful**: Built for efficiency without sacrificing flexibility.
+
+# 🌟 Key Features of Iris Templates
+
+1. **""extends""** and **""section""** for Layout Inheritance; Create a base layout and extend it effortlessly.
+2. **""include""** for Reusability.
+3. Customizable Directives. (if, else, endif, switch..)
+4. Safe Context Evaluation; Iris Templates includes a built-in safe evaluation mechanism to prevent malicious code execution in templates.
+5. Framework-Independent; Whether you’re using FastAPI, Flask, or a custom Python framework, Iris fits in seamlessly.
+
+# 🤔 What Makes Iris Templates Different?
+
+Unlike other Python templating engines:
+
+* **Inspired by Blade**: Iris takes the best ideas from Blade and adapts them to Python.
+* **No Boilerplate**: Write clean, readable templates without extra overhead.
+* **Focus on Modularity**: Emphasizes layout inheritance, reusable components, and maintainable structures.
+
+It’s designed to feel natural and intuitive, reducing the cognitive load of managing templates.
+
+# 🔗 Resources
+
+* **GitHub Repository**: [https://github.com/altxriainc/iris](https://github.com/altxriainc/iris)
+* **Install via pip**: `pip install iris-templates`
+
+**Target Audience**
+
+Iris Templates is my way of bringing the elegance of Blade into Python. I hope it makes your projects easier and more enjoyable to develop.
+
+Any advice and suggestions are welcome. There are also examples and unittests in the [repository](https://github.com/altxriainc/iris) to help you get started!",ImNotEdd,1h4zfnr,https://reddit.com/r/Python/comments/1h4zfnr/iris_templates_a_modern_python_templating_engine/,https://www.reddit.com/r/Python/comments/1h4zfnr/iris_templates_a_modern_python_templating_engine/,2024-12-02 16:49:03,11,0.71,11,0,20,0,0,False,False,True,False,False,Showcase,self,t3_1h4zfnr
+Python,ComputeLite - A true serverless tool,"What My Project Does:
+
+ComputeLite is a true serverless tool that leverages the power of WebAssembly (WASM) and SQLite OPFS to ensure that all data and code remain securely in the browser, with no server dependencies or external storage. Right now it supports Python (powered by Pyodide) and SQL( powered by SQLITE)
+
+So you can write all your python code and use Pyodide supported or pure python packages right away in browser without any need to install anything.
+
+Target Audience:
+
+Students, Developers, Could be used for scripting
+
+Comparison:
+
+It can be compared with PyScript but user can create different models which could include scripts with relative imports and packages listed in requirements.txt file
+
+Link: https://computelite.com/
+
+GitHub: https://github.com/computelite/computelite
+
+",airen977,1h4spi7,https://reddit.com/r/Python/comments/1h4spi7/computelite_a_true_serverless_tool/,https://www.reddit.com/r/Python/comments/1h4spi7/computelite_a_true_serverless_tool/,2024-12-02 11:17:20,20,0.77,20,0,6,0,0,False,False,True,False,False,Showcase,self,t3_1h4spi7
+Python,PerpetualBooster outperforms AutoGluon on AutoML benchmark,"* **What My Project Does**
+   * PerpetualBooster is a gradient boosting machine (GBM) algorithm which doesn't need hyperparameter optimization unlike other GBM algorithms. Similar to AutoML libraries, it has a `budget` parameter. Increasing the `budget` parameter increases the predictive power of the algorithm and gives better results on unseen data.
+* **Target Audience** (e.g., Is it meant for production, just a toy project, etc.)
+   * It is meant for production. 
+* **Comparison** (A brief comparison explaining how it differs from existing alternatives.)
+
+
+PerpetualBooster is a GBM but behaves like AutoML so it is benchmarked also against AutoGluon (v1.2, best quality preset), the current leader in [AutoML benchmark](https://automlbenchmark.streamlit.app/cd_diagram). Top 10 datasets with the most number of rows are selected from [OpenML datasets](https://www.openml.org/). The results are summarized in the following table for regression tasks:
+
+| OpenML Task                                  | Perpetual Training Duration | Perpetual Inference Duration                                      | Perpetual RMSE | AutoGluon Training Duration | AutoGluon Inference Duration                                      | AutoGluon RMSE |
+| -------------------------------------------- | --------------------------- | ----------------------------------------------------------------- | -------------- | --------------------------- | ----------------------------------------------------------------- | -------------- |
+| [Airlines_DepDelay_10M](openml.org/t/359929) | 518                         | 11.3                                                              | 29.0           | 520                         | 30.9 | 28.8   |
+| [bates_regr_100](openml.org/t/361940)        | 3421                        | 15.1 | 1.084  | OOM            | OOM                         | OOM                                                               |
+| [BNG(libras_move)](openml.org/t/7327)        | 1956                        | 4.2 | 2.51   | 1922           | 97.6                        | 2.53                                                              |
+| [BNG(satellite_image)](openml.org/t/7326)    | 334                         | 1.6                                                               | 0.731          | 337                         | 10.0 | 0.721  |
+| [COMET_MC](openml.org/t/14949)               | 44                          | 1.0 | 0.0615  | 47             | 5.0                         | 0.0662                                                            |
+| [friedman1](openml.org/t/361939)             | 275                         | 4.2 | 1.047   | 278            | 5.1                         | 1.487                                                             |
+| [poker](openml.org/t/10102)                  | 38                          | 0.6 | 0.256   | 41             | 1.2                         | 0.722                                                             |
+| [subset_higgs](openml.org/t/361955)          | 868                         | 10.6 | 0.420  | 870            | 24.5                        | 0.421                                                             |
+| [BNG(autoHorse)](openml.org/t/7319)          | 107                         | 1.1 | 19.0    | 107            | 3.2                         | 20.5                                                              |
+| [BNG(pbc)](openml.org/t/7318)                | 48                          | 0.6 | 836.5   | 51             | 0.2                         | 957.1                                                             |
+| average                                      | 465                         | 3.9                                                               | -              | 464                         | 19.7                                                              | -              |
+
+PerpetualBooster outperformed AutoGluon on 8 out of 10 datasets, training equally fast and inferring 5x faster. The results can be reproduced using the automlbenchmark fork [here](https://github.com/deadsoul44/automlbenchmark).
+
+Github: https://github.com/perpetual-ml/perpetual",mutlu_simsek,1h532c8,https://reddit.com/r/Python/comments/1h532c8/perpetualbooster_outperforms_autogluon_on_automl/,https://www.reddit.com/r/Python/comments/1h532c8/perpetualbooster_outperforms_autogluon_on_automl/,2024-12-02 19:15:32,3,0.56,3,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h532c8
+Python,Best PDF library for extracting text from structured templates,"Hello All, 
+
+I am currently working on a project where I have to extract data from around 8 different structured templates which together spans 12 Million + pages across 10K PDF Documents. 
+
+I am using a mix of Regular Expression and bounding box approach where by 4 of these templates are regular expression friendly and for the rest I am using bounding box to extract the data. On testing the extraction works very well. There are no images or tables, but simple labels and values.
+
+The library that I am currently using is PDF Plumber for data extraction and PyPDF for splitting the documents in small chunks for better memory utilization(PDF Plumber sometimes throws an error when the page count goes above 4000 pages, hence splitting them into smaller chunks temporarily). However this approach is taking 5 seconds per page which is a bit too much considering that I have to process 12M pages. 
+
+I did take a look at the different other libraries mentioned in the below link but I am not sure which one to choose as I would love to work with an open source library that is having a good maintenance history and better performance .   
+[https://github.com/py-pdf/benchmarks?tab=readme-ov-file](https://github.com/py-pdf/benchmarks?tab=readme-ov-file)
+
+Request your suggestions . Thanks in advance !",WarmAd3569,1h4pqqh,https://reddit.com/r/Python/comments/1h4pqqh/best_pdf_library_for_extracting_text_from/,https://www.reddit.com/r/Python/comments/1h4pqqh/best_pdf_library_for_extracting_text_from/,2024-12-02 07:36:35,36,0.91,36,0,33,0,0,False,False,True,False,False,Discussion,self,t3_1h4pqqh

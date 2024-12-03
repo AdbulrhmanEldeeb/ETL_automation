@@ -1,0 +1,153 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Jobs where Bayesian statistics is used a lot?,How much bayesian inference are data scientists generally doing in their day to day work? Are there roles in specific areas of data science where that knowledge is needed? Marketing comes to mind but I’m not sure where else. By knowledge of Bayesian inference I mean building hierarchical Bayesian models or more complex models in languages like Stan.,AdFew4357,1h5q5wj,https://reddit.com/r/datascience/comments/1h5q5wj/jobs_where_bayesian_statistics_is_used_a_lot/,https://www.reddit.com/r/datascience/comments/1h5q5wj/jobs_where_bayesian_statistics_is_used_a_lot/,2024-12-03 15:35:30,2,0.75,2,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h5q5wj
+datascience,Help! Little lost as a data science manager ,"I have been a data science manager for a little more than two years and absolutely hate it. I used to be in analytics and then technical product manager for ML solutions and took on this role to gain people management experience. Biggest mistake of my life. I have been trying to get back to being an individual contributor but feel rusty at the moment. 
+
+My relationship with my stakeholders are great. They love me and consequently I am not able to move back to my old role as it will leave a void in the current role. My skip level boss is the same and wouldn't allow it. 
+
+I have been interviewing outside but not clearing interview primarily because I do not have anything to talk about my individual performance that's groundbreaking. 
+
+I also feel like I need to get back to basics and start from scratch. Any advice on how to proceed?",TheEmotionalNerd,1h5po5i,https://reddit.com/r/datascience/comments/1h5po5i/help_little_lost_as_a_data_science_manager/,https://www.reddit.com/r/datascience/comments/1h5po5i/help_little_lost_as_a_data_science_manager/,2024-12-03 15:14:25,8,1.0,8,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h5po5i
+datascience,PowerBI is making me think about jumping ship,"As my work for the coming year is coming into focus, there is a heavy emphasis on building customer-facing ETL pipelines and dashboards. My team has chosen PowerBI as its dashboarding application of choice. Compared to building a web-app based dashboard with plotly dash or the like, making PowerBI dashboards is AGONIZING. I'm able to do most data transformations with SQL beforehand, but having to use powerquery or god forbid DAX for a viz-specific transformation feels like getting a root canal. I can't stand having to click around Microsoft's shitty UI to create plots that I could whip up in a few lines of code. 
+
+I'm strongly considering looking for a new opportunity and jumping ship solely to avoid having to work with PowerBI. I'm also genuinely concerned about my technical skills decaying while other folks on my team get to continue working on production models and genAI hotness.
+
+Anyone been in a similar situation? How did you handle it?
+
+TLDR: python-linux-sql data scientist being shoehorned into no-code/PowerBI, hates life   ",Smarterchild1337,1h57hqm,https://reddit.com/r/datascience/comments/1h57hqm/powerbi_is_making_me_think_about_jumping_ship/,https://www.reddit.com/r/datascience/comments/1h57hqm/powerbi_is_making_me_think_about_jumping_ship/,2024-12-02 22:16:17,276,0.96,276,0,75,0,0,False,False,True,False,False,Tools,self,t3_1h57hqm
+datascience,Free Data Analyst Learning Path - Feedback and Contributors Needed,"Hi everyone,
+
+I’m the creator of www.DataScienceHive.com, a platform dedicated to providing free and accessible learning paths for anyone interested in data analytics, data science, and related fields. The mission is simple: to help people break into these careers with high-quality, curated resources and a supportive community.
+
+We also have a growing Discord community with over 50 members where we discuss resources, projects, and career advice. You can join us here: https://discord.gg/FYeE6mbH.
+
+I’m excited to announce that I’ve just finished building the “Data Analyst Learning Path”. This is the first version, and I’ve spent a lot of time carefully selecting resources and creating homework for each section to ensure it’s both practical and impactful.
+
+Here’s the link to the learning path: https://www.datasciencehive.com/data_analyst_path
+
+Here’s how the content is organized:
+
+Module 1: Foundations of Data Analysis
+
+	•	Section 1.1: What Does a Data Analyst Do?
+	•	Section 1.2: Introduction to Statistics Foundations
+	•	Section 1.3: Excel Basics
+
+Module 2: Data Wrangling and Cleaning / Intro to R/Python
+
+	•	Section 2.1: Introduction to Data Wrangling and Cleaning
+	•	Section 2.2: Intro to Python &amp; Data Wrangling with Python
+	•	Section 2.3: Intro to R &amp; Data Wrangling with R
+
+Module 3: Intro to SQL for Data Analysts
+
+	•	Section 3.1: Introduction to SQL and Databases
+	•	Section 3.2: SQL Essentials for Data Analysis
+	•	Section 3.3: Aggregations and Joins
+	•	Section 3.4: Advanced SQL for Data Analysis
+	•	Section 3.5: Optimizing SQL Queries and Best Practices
+
+Module 4: Data Visualization Across Tools
+
+	•	Section 4.1: Foundations of Data Visualization
+	•	Section 4.2: Data Visualization in Excel
+	•	Section 4.3: Data Visualization in Python
+	•	Section 4.4: Data Visualization in R
+	•	Section 4.5: Data Visualization in Tableau
+	•	Section 4.6: Data Visualization in Power BI
+	•	Section 4.7: Comparative Visualization and Data Storytelling
+
+Module 5: Predictive Modeling and Inferential Statistics for Data Analysts
+
+	•	Section 5.1: Core Concepts of Inferential Statistics
+	•	Section 5.2: Chi-Square
+	•	Section 5.3: T-Tests
+	•	Section 5.4: ANOVA
+	•	Section 5.5: Linear Regression
+	•	Section 5.6: Classification
+
+Module 6: Capstone Project – End-to-End Data Analysis
+
+Each section includes homework to help apply what you learn, along with open-source resources like articles, YouTube videos, and textbook readings. All resources are completely free.
+
+Here’s the link to the learning path: https://www.datasciencehive.com/data_analyst_path
+
+Looking Ahead: Help Needed for Data Scientist and Data Engineer Paths
+
+As a Data Analyst by trade, I’m currently building the “Data Scientist” and “Data Engineer” learning paths. These are exciting but complex areas, and I could really use input from those with strong expertise in these fields. If you’d like to contribute or collaborate, please let me know—I’d greatly appreciate the help!
+
+I’d also love to hear your feedback on the Data Analyst Learning Path and any ideas you have for improvement. ",Ryan_3555,1h5gm18,https://reddit.com/r/datascience/comments/1h5gm18/free_data_analyst_learning_path_feedback_and/,https://www.reddit.com/r/datascience/comments/1h5gm18/free_data_analyst_learning_path_feedback_and/,2024-12-03 05:49:54,21,0.87,21,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h5gm18
+datascience,Reducing the amount of stream of consciousness info dumping from stakeholders.,"A huge part of this job is working with stakeholders to take their grand ideas and make them a reality. Naturally, there's gonna be trial and error, dead ends, talking through different approaches, and that's all fine. That's not what I'm complaining about. 
+
+The problem is that these stakeholders are higher up in the company and they're just strapped for time. They don't think about the things they ask me to do until I'm actually in a meeting with them, then it turns into a lot of ""yeah let's do it this way, no actually that won't work, wait no it will disregard that just do it the first way"".... I'm sitting here with a pen and paper or onenote open trying to catch everything and I just simply can't. I've tried to  summarize at the end of meetings what the next steps are that we've settled on, and it's intended to be a yes/no question but it just ends up turning into another stream of consciousness info dump that leaves me with more questions than answers.
+
+Often times I run into simple questions as I'm working through a project. They're yes/no or not much more involved than that, but whenever I try to email or chat with a stakeholder they ALWAYS want to just meet and then what should've been a 30 second call ends up going past the hour mark, and I'm left with more questions than I started with and now I have to burn more time trying to make sense of the notes I just took. That's not even considering that 50% of the time when they get me on the call there's a ""oh by the way since you're here can you do this project as well"". 
+
+This has the effect of disincentivizing me from seeking guidance. Furthermore, I never actually get projects over the finish line because every time I pass off my results there's millions of changes and updates that I'm asked to do. I used to be a very proactive person in school and in more junior jobs, I used to get things done ahead of time. But not anymore, If I finish a project ahead of time they'll just scope creep it to death, vs if I just sit on it and pass it off right before the deadline, they'll be forced to accept that it's good enough and just take it. I'm also being disincentivized to work efficiently. 
+
+The biggest part of my job is stenography. I'm not even exaggerating. 
+
+I know you guys are going to say it sounds like a culture problem, but it has been like this in the last 3 DS positions I've had at different companies. As I said, I think the root of the problem is that the stakeholders are strapped for time,  but in a world of ""streamlining headcount"", I don't really see that changing.
+
+If this thread is popular, know I'm gonna get a bunch of people hijacking it ask for advice for getting into the field. See my comment here: [https://www.reddit.com/r/datascience/comments/1e951vk/comment/lfcvrof/](https://www.reddit.com/r/datascience/comments/1e951vk/comment/lfcvrof/) Please don't ask me how to get into this field unless you've read this comment and have a question on something that I specifically didn't address in it.",son_of_tv_c,1h5nmj6,https://reddit.com/r/datascience/comments/1h5nmj6/reducing_the_amount_of_stream_of_consciousness/,https://www.reddit.com/r/datascience/comments/1h5nmj6/reducing_the_amount_of_stream_of_consciousness/,2024-12-03 13:40:52,5,0.78,5,0,7,0,0,False,False,True,False,False,Career | US,self,t3_1h5nmj6
+datascience,Need your perspective to land an entry level job,"Looking at the current market trends, what skills do you think one should focus on to land an entry level data analyst/data science job in 8-9 months? 
+
+Portfolio building, networking and preparing for interviews is already assumed but ...
+
+Our time is limited. We cannot learn and focus on everything. What skills might be best spend on to land a job within this timeframe.
+
+My educational background: 
+
+1. Bachelor of Computing in Information Systems 
+
+2. Currently persuing Msc Data Science and Computational Intelligence. (9 months left to graduate). All courses are finished, just the thesis left.
+
+My professional background:
+
+Have experience as a content writer, content editor, technical writer etc.
+
+Have done an 8 week Software Engineering internship (focused on fullstack JS/TS stack.)
+
+Have done 2 months Internship as a ""Data Science intern"" but it was focused on web scraping, cleaning data obtained through an API to generate market leads, building proof of concept LLM applications using Langchain and Google Gemini/OpenAI API keys.
+
+Note: 
+
+
+1. I'm from a 3rd world country. I cannot offer you any financial compensation for your detailed guided response even if I really want to (unless it is in Nrs). So, please ignore this post, it you are looking for monetary reward for you high quality response.
+
+2. Please don't ask me to look at job postings, ask ChatGPT, Google. I've done those things. Job descriptions are like wishlists. If I read a JD, I come up with an impression that I need to have 10 year internship experience with almost every technology imaginable just to land an entry level job.  Provide me with your personal perspective.
+  ",httpsdash,1h5e67f,https://reddit.com/r/datascience/comments/1h5e67f/need_your_perspective_to_land_an_entry_level_job/,https://www.reddit.com/r/datascience/comments/1h5e67f/need_your_perspective_to_land_an_entry_level_job/,2024-12-03 03:30:58,10,0.67,10,0,16,0,0,False,False,True,False,False,Career | US,self,t3_1h5e67f
+datascience,Is any of you doing actual ML work here?,"I'm really passionate and i love the mathematics of machine learning, especially the one in deep learning. I do have experience with training DL models, genetic algo hyperparameter tuning, distribution based models/clustering (KL div, EM), combining models or building them from scratch, implementing complex ones in C from zero, signal analysis, visualizations, and other things.
+
+I work in a FAANG, but most of the work is actually data engineering and statistics. At first I was given the chance to work on a bit of ML, but that was just for me to have the motivation to learn the already existing systems, because no one in the entire department does any ML, and now I'm only getting engineering/statistics projects.
+
+I had jobs in the past at startups where the CEO would tell me to hard code IFs instead of training a decision tree for different tasks.
+
+They all just want ""the simplest solution"", and I fully agree with the approach, except that the simplest possible approach is not an actual solution some of the time. We may need to add in some complexity to solve different tasks, but most managers/bosses I've encountered have been terrified by any actual ML/mathematics. I agree that explainable and low risk high reward are the best approaches, but not if your ""low risk"" solution is hardcoding hundred of if statements instead of a decision tree, man.
+
+Is it because I'm from Europe and not US? I've been told by HR that we're inferior and that ideas only come from the US and to keep my head down more instead of proposing projects before.
+
+I'm a very tryhard and hard working person, but I just can't perform in a job where the task is to put together two SQL software pieces built 10 years ago in a rush and with zero documentation...... And my bosses refuse to understand that. Sure, I can do some of it, the job does not need to be perfect. But not if that is 100% of the job.
+
+Are labs like OpenAI/Anthropic/Deepmind the only places on earth that do actual ML and not API calls + statistics/engineering + if statements?",SemperZero,1h4qr80,https://reddit.com/r/datascience/comments/1h4qr80/is_any_of_you_doing_actual_ml_work_here/,https://www.reddit.com/r/datascience/comments/1h4qr80/is_any_of_you_doing_actual_ml_work_here/,2024-12-02 08:53:13,128,0.88,128,0,69,0,0,False,False,True,False,False,Discussion,self,t3_1h4qr80
+datascience,Tencent Hunyuan-Video : Beats Gen3 &amp; Luma for text-video Generation.,,mehul_gupta1997,1h5kkde,https://reddit.com/r/datascience/comments/1h5kkde/tencent_hunyuanvideo_beats_gen3_luma_for/,/r/OpenAI/comments/1h5kir0/tencent_hunyuanvideo_beats_gen3_luma_for/,2024-12-03 10:36:14,0,0.5,0,0,1,0,0,False,False,False,False,False,AI,default,t3_1h5kkde
+datascience,React and FormData,,Dorshalsfta,1h5hzit,https://reddit.com/r/datascience/comments/1h5hzit/react_and_formdata/,https://www.robinwieruch.de/react-form-data/,2024-12-03 07:22:20,1,0.67,1,0,0,0,0,False,False,False,False,False,Projects,https://b.thumbs.redditmedia.com/veBubcc8XQFAtbcspNe20XjlJ_R7eM_bHsAJpT4IBLI.jpg,t3_1h5hzit
+datascience,PerpetualBooster outperforms AutoGluon on AutoML benchmark,"
+PerpetualBooster is a GBM but behaves like AutoML so it is benchmarked also against AutoGluon (v1.2, best quality preset), the current leader in [AutoML benchmark](https://automlbenchmark.streamlit.app/cd_diagram). Top 10 datasets with the most number of rows are selected from [OpenML datasets](https://www.openml.org/). The results are summarized in the following table for regression tasks:
+
+| OpenML Task                                  | Perpetual Training Duration | Perpetual Inference Duration                                      | Perpetual RMSE | AutoGluon Training Duration | AutoGluon Inference Duration                                      | AutoGluon RMSE |
+| -------------------------------------------- | --------------------------- | ----------------------------------------------------------------- | -------------- | --------------------------- | ----------------------------------------------------------------- | -------------- |
+| [Airlines_DepDelay_10M](openml.org/t/359929) | 518                         | 11.3                                                              | 29.0           | 520                         | 30.9 | 28.8   |
+| [bates_regr_100](openml.org/t/361940)        | 3421                        | 15.1 | 1.084  | OOM            | OOM                         | OOM                                                               |
+| [BNG(libras_move)](openml.org/t/7327)        | 1956                        | 4.2 | 2.51   | 1922           | 97.6                        | 2.53                                                              |
+| [BNG(satellite_image)](openml.org/t/7326)    | 334                         | 1.6                                                               | 0.731          | 337                         | 10.0 | 0.721  |
+| [COMET_MC](openml.org/t/14949)               | 44                          | 1.0 | 0.0615  | 47             | 5.0                         | 0.0662                                                            |
+| [friedman1](openml.org/t/361939)             | 275                         | 4.2 | 1.047   | 278            | 5.1                         | 1.487                                                             |
+| [poker](openml.org/t/10102)                  | 38                          | 0.6 | 0.256   | 41             | 1.2                         | 0.722                                                             |
+| [subset_higgs](openml.org/t/361955)          | 868                         | 10.6 | 0.420  | 870            | 24.5                        | 0.421                                                             |
+| [BNG(autoHorse)](openml.org/t/7319)          | 107                         | 1.1 | 19.0    | 107            | 3.2                         | 20.5                                                              |
+| [BNG(pbc)](openml.org/t/7318)                | 48                          | 0.6 | 836.5   | 51             | 0.2                         | 957.1                                                             |
+| average                                      | 465                         | 3.9                                                               | -              | 464                         | 19.7                                                              | -              |
+
+PerpetualBooster outperformed AutoGluon on 8 out of 10 datasets, training equally fast and inferring 5x faster. The results can be reproduced using the automlbenchmark fork [here](https://github.com/deadsoul44/automlbenchmark).
+
+Github: https://github.com/perpetual-ml/perpetual",mutlu_simsek,1h52xp5,https://reddit.com/r/datascience/comments/1h52xp5/perpetualbooster_outperforms_autogluon_on_automl/,https://www.reddit.com/r/datascience/comments/1h52xp5/perpetualbooster_outperforms_autogluon_on_automl/,2024-12-02 19:10:19,3,0.64,3,0,5,0,0,False,False,True,False,False,ML,self,t3_1h52xp5

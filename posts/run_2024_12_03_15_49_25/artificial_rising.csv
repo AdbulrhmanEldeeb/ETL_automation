@@ -1,0 +1,34 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,The current thing,,MetaKnowing,1h5pn2z,https://reddit.com/r/artificial/comments/1h5pn2z/the_current_thing/,https://i.redd.it/izinvdnrgn4e1.png,2024-12-03 15:13:07,4,0.56,4,0,7,0,0,False,False,False,False,False,Media,https://a.thumbs.redditmedia.com/0nVu6_MB3Xq_RxafVvCyu6WZ7CeEV4M9Ly-7B4_vWy4.jpg,t3_1h5pn2z
+artificial,One-Minute Daily AI News 12/2/2024,"1. **Bezos** Backs AI Chipmaker Vying With **Nvidia** at $2.6 Billion Value.\[1\]
+2. **ChatGPT** refuses to say one specific name – and people are worried.\[2\]
+3. Japanese firms begin adopting generative AI for information searches.\[3\]
+4. Most people are willing to share health data to develop artificial intelligence (AI) in the NHS.\[4\]
+
+Sources:
+
+\[1\] [https://techcrunch.com/2024/12/02/jeff-bezos-backs-ai-chipmaker-tenstorrent/](https://techcrunch.com/2024/12/02/jeff-bezos-backs-ai-chipmaker-tenstorrent/)
+
+\[2\] [https://www.independent.co.uk/tech/chatgpt-david-mayer-open-ai-name-glitch-b2657723.html](https://www.independent.co.uk/tech/chatgpt-david-mayer-open-ai-name-glitch-b2657723.html)
+
+\[3\] [https://www.japantimes.co.jp/business/2024/12/03/tech/japan-firms-ai/](https://www.japantimes.co.jp/business/2024/12/03/tech/japan-firms-ai/)
+
+\[4\] [https://guernseypress.com/news/uk-news/2024/12/03/most-people-happy-to-share-health-data-to-develop-artificial-intelligence--poll/](https://guernseypress.com/news/uk-news/2024/12/03/most-people-happy-to-share-health-data-to-develop-artificial-intelligence--poll/)",Excellent-Target-847,1h5fm13,https://reddit.com/r/artificial/comments/1h5fm13/oneminute_daily_ai_news_1222024/,https://www.reddit.com/r/artificial/comments/1h5fm13/oneminute_daily_ai_news_1222024/,2024-12-03 04:51:01,11,0.79,11,0,0,0,0,False,False,True,False,False,News,self,t3_1h5fm13
+artificial,AI has rapidly surpassed humans at most benchmarks and new tests are needed to find remaining human advantages,,MetaKnowing,1h4xir3,https://reddit.com/r/artificial/comments/1h4xir3/ai_has_rapidly_surpassed_humans_at_most/,https://i.redd.it/07qclcgleg4e1.png,2024-12-02 15:28:41,23,0.59,23,0,104,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/ias48Amxjp-Y9ZlPRnUyDSygrC8fDr5FcBZeoswlvyA.jpg,t3_1h4xir3
+artificial,This startup is using AI to ‘supercharge’ crop breeding. It could help protect farmers from the climate crisis ,,polimeema,1h50phw,https://reddit.com/r/artificial/comments/1h50phw/this_startup_is_using_ai_to_supercharge_crop/,https://edition.cnn.com/climate/ai-crop-breeding-farmers-spc/index.html,2024-12-02 17:40:45,4,0.66,4,0,1,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/6UwOAv94sbG8Dyeo43V_yiEwjxw8IXDZcO_1ZPd1a4c.jpg,t3_1h50phw
+artificial,AI godfather Yoshua Bengio says there are people who would be happy to see humanity replaced by machines and these concerns could become relevant in just a few years,,MetaKnowing,1h4ie7l,https://reddit.com/r/artificial/comments/1h4ie7l/ai_godfather_yoshua_bengio_says_there_are_people/,https://v.redd.it/y0qkf19k0c4e1,2024-12-02 00:42:40,48,0.75,48,0,28,0,0,True,False,False,False,False,Media,"https://external-preview.redd.it/eGJlc2p6OGswYzRlMfJM7a-eZ0rpJhzdzBWzVBh5cfACOqqU7RVskFBgVTgP.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=b9261e30e05814a336f643d3372874366e1a88d7",t3_1h4ie7l
+artificial,One-Minute Daily AI News 12/1/2024,"1. Elon Musk files injunction against **OpenAI** to stop its move to become a for-profit company.\[1\]
+2. **OpenAI’s** Altman confident Trump will keep US in AI lead.\[2\]
+3. **Meta** AI Releases Llama Guard 3-1B-INT4: A Compact and High-Performance AI Moderation Model for Human-AI Conversations.\[3\]
+4. Hybrid Recommendation System (HRS-IU-DL): Enhancing Accuracy and Personalization with Deep Learning Techniques.\[4\]
+
+Sources:
+
+\[1\] [https://www.businesstoday.in/technology/news/story/elon-musk-files-injunction-against-openai-to-stop-its-move-to-become-a-for-profit-company-455799-2024-12-02](https://www.businesstoday.in/technology/news/story/elon-musk-files-injunction-against-openai-to-stop-its-move-to-become-a-for-profit-company-455799-2024-12-02)
+
+\[2\] [https://www.msn.com/en-ph/news/other/openai-s-altman-confident-trump-will-keep-us-in-ai-lead/ar-AA1v5rlL?ocid=BingNewsVerp](https://www.msn.com/en-ph/news/other/openai-s-altman-confident-trump-will-keep-us-in-ai-lead/ar-AA1v5rlL?ocid=BingNewsVerp)
+
+\[3\] [https://www.marktechpost.com/2024/11/30/meta-ai-releases-llama-guard-3-1b-int4-a-compact-and-high-performance-ai-moderation-model-for-human-ai-conversations/](https://www.marktechpost.com/2024/11/30/meta-ai-releases-llama-guard-3-1b-int4-a-compact-and-high-performance-ai-moderation-model-for-human-ai-conversations/)
+
+\[4\] [https://www.marktechpost.com/2024/12/01/hybrid-recommendation-system-hrs-iu-dl-enhancing-accuracy-and-personalization-with-deep-learning-techniques/](https://www.marktechpost.com/2024/12/01/hybrid-recommendation-system-hrs-iu-dl-enhancing-accuracy-and-personalization-with-deep-learning-techniques/)",Excellent-Target-847,1h4n6wj,https://reddit.com/r/artificial/comments/1h4n6wj/oneminute_daily_ai_news_1212024/,https://www.reddit.com/r/artificial/comments/1h4n6wj/oneminute_daily_ai_news_1212024/,2024-12-02 04:52:29,12,0.87,12,0,1,0,0,False,False,True,False,False,News,self,t3_1h4n6wj
+artificial,Nobel laureate Geoffrey Hinton says open sourcing big models is like letting people buy nuclear weapons at Radio Shack,,MetaKnowing,1h43lis,https://reddit.com/r/artificial/comments/1h43lis/nobel_laureate_geoffrey_hinton_says_open_sourcing/,https://v.redd.it/185j3trcr84e1,2024-12-01 13:45:44,50,0.63,50,0,86,0,0,True,False,False,False,False,Discussion,"https://external-preview.redd.it/b3k0eWVzcmNyODRlMWLaXErbvqGuGQ6nkgqW-UkpsKhB_64OUElWH6_v7MTZ.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=53d98c8171c4b6d3a877ff5794f56301d619cd0d",t3_1h43lis

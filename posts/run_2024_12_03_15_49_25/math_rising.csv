@@ -1,0 +1,72 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Is there any intuition behind results in stochastic processes?,"I'm taking a class on probability theory and stochastic processes. So far I've been able to follow all the technical arguments but I've been uncomfortable because I can't build an intuition on any of the results.
+
+For example the Ito integral is an L2 limit of simple processes using a subsequence argument. Since this integral isn't defined pathwise this integral clearly isn't an area of any kind so I have no idea what the random variable that is the Ito integral even represents. 
+
+Another example is Ito's lemma. Again the quadratic variation means the ""stochastic chain rule"" has an extra term (the second derivative) compared to the ordinary chain rule but is there any intuition why it should be 1/2 the second derivative? You can make some sort of argument using Taylor series but we're able to motivate the ordinary chain rule without resorting to any expansions so this seems like a bit of a stretch. 
+
+Stochastic differential equations are another example. A non-random ODE or PDE clearly describes the rate of change of different functions. But an SDE isn't even a differential equation and always represents an integral equation. So what exactly are these SDEs modeling? ",If_and_only_if_math,1h5htbw,https://reddit.com/r/math/comments/1h5htbw/is_there_any_intuition_behind_results_in/,https://www.reddit.com/r/math/comments/1h5htbw/is_there_any_intuition_behind_results_in/,2024-12-03 07:09:51,25,1.0,25,0,7,0,0,False,False,True,False,False,,,t3_1h5htbw
+math,"Where to learn about groups, rings, fields, field extensions and Galois theory?","I recently read the following passage on an article online learning regarding the proof that only rational numbers (with the exception if sqrt(2)) can be created by straightedge-and-compass constructions:
+
+""In most textbooks, these impossibility proofs are presented only after extensive background in groups, rings, fields, field extensions and Galois theory. Needless to say, very few college-level students, even among those studying majors such as physics or engineering, ever take such coursework. This is typically accepted as an unpleasant but necessary aspect of mathematical pedagogy.""
+
+I have a bachelor's degree in Engineering and am quite comfortable with calculus up to differential equations, but as the quote says I'm completely unfamiliar with groups, rings, fields, field extensions and Galois theory. Is there a good resource for somebody with my background to learn these and become familiar with them?",moxieman19,1h5nzgm,https://reddit.com/r/math/comments/1h5nzgm/where_to_learn_about_groups_rings_fields_field/,https://www.reddit.com/r/math/comments/1h5nzgm/where_to_learn_about_groups_rings_fields_field/,2024-12-03 13:58:42,4,0.75,4,0,9,0,0,False,False,True,False,False,,,t3_1h5nzgm
+math,How monstrously long papers are made?,"Following the steps of a recent discussion in the community, I have read a Wiki page on the Feit–Thompson theorem. There I found the following:
+
+*The final paper is 255 pages long. &lt;...&gt;*
+
+*Perhaps the most revolutionary aspect of the proof was its length: before the Feit–Thompson paper, few arguments in group theory were more than a few pages long and most could be read in a day. Once group theorists realized that such long arguments could work, a series of papers that were several hundred pages long started to appear. Some of these dwarfed even the Feit–Thompson paper; the paper by Michael Aschbacher and Stephen D. Smith on quasithin groups was 1,221 pages long.*
+
+How do authors come up with such long proofs? I don't believe there are brilliant insights every few pages. If there were, these gigantic papers would be valued as high as FLT proof, but they are not. I imagine there should be some machinery that produces arguments more or less mechanically, but still,  these arguments are not so standard that they could be just omitted from the paper.
+
+But that's just my guess. If it is true, what does this machinery look like? If it is not, how are behemoth-long proofs actually made?
+
+",DrBiven,1h4v9yx,https://reddit.com/r/math/comments/1h4v9yx/how_monstrously_long_papers_are_made/,https://www.reddit.com/r/math/comments/1h4v9yx/how_monstrously_long_papers_are_made/,2024-12-02 13:45:03,264,0.95,264,0,58,0,0,False,False,True,False,False,,,t3_1h4v9yx
+math,What do you call homology elements?,"I know that they’re homology equivalence classes, but I was wondering if there’s something shorter? Can I call them cycles? I know that they’re only cycles in one dimension but is that cool and hip with the topologists to do it casually for all dimensions?",Lucky_Accountant_408,1h58gxk,https://reddit.com/r/math/comments/1h58gxk/what_do_you_call_homology_elements/,https://www.reddit.com/r/math/comments/1h58gxk/what_do_you_call_homology_elements/,2024-12-02 22:58:22,32,0.9,32,0,9,0,0,False,False,True,False,False,,,t3_1h58gxk
+math,Do advances in mathematical research allow better physics theories to emerge? Or does all the math in physics come from the need to explain new phenomena and is therefore invented/discovered?,"I'm asking this in [r/](https://www.reddit.com/r/math/)physics too so to get both perspectives.
+
+Do theoretical and mathematical physicists invent/discover new math in order to explain new emergent phenomena that arises in experimental physics and is therefore used to build theories? Or do physicists also pick up math already invented?  
+If it's the latter, then there comes another question: are advances in pure mathematics key for developing and understanding theoretical physics?
+
+I'm not talking about rigorous defined frameworks, but new ideas and structures that serve the purpose of explaining specific natural behaviours of matter and energy even though is not defined (at the moment) for general cases.",Ill_Ad2914,1h5cd8b,https://reddit.com/r/math/comments/1h5cd8b/do_advances_in_mathematical_research_allow_better/,https://www.reddit.com/r/math/comments/1h5cd8b/do_advances_in_mathematical_research_allow_better/,2024-12-03 01:59:00,15,0.83,15,0,10,0,0,False,False,True,False,False,,,t3_1h5cd8b
+math,How can I know my math problem/research is novel?,"I'm now doing math research on a probability theory question I came up with. Note that I'm an undergraduate, and the problem and my approaches aren't that deep.  
+First, I googled to see if somebody had already addressed it but found nothing. So I started thinking about it and made some progress. Now I wish to develop the results more and eventually write a paper, but I suddenly began to fear: *what if somebody has already written a paper on this?*
+
+So my question is, as in the title: how can we know if a certain math problem/research is novel?
+
+If the problem is very deep so that it lies on the frontier of mathematical knowledge, the researcher can easily confirm its novelty by checking recent papers or asking experts in the specific field. However, if the problem isn't that deep and isn't a significant puzzle in the landscape of mathematics, it becomes much harder to determine novelty. Experts in the field might not know about it due to its minority. Googling requires the correct terminology, and since possible terminologies are so broad mainly due to various notations, failing to find anything doesn't guarantee the problem is new. Posting the problem online and asking if anyone knows about it can be one approach (which I actually tried on Stack Exchange and got nothing but a few downvotes). But there’s still the possibility that some random guy in 1940s addressed it and published it in a minor journal.
+
+How can I know my problem and work are novel without having to search through millions of documents?",JKang9924,1h51q3q,https://reddit.com/r/math/comments/1h51q3q/how_can_i_know_my_math_problemresearch_is_novel/,https://www.reddit.com/r/math/comments/1h51q3q/how_can_i_know_my_math_problemresearch_is_novel/,2024-12-02 18:21:14,54,0.97,54,0,11,0,0,False,False,True,False,False,,,t3_1h51q3q
+math,Specific examples of mathematical models failing us with devastating consequences?,"Like the title says, im looking for some specific examples of where some mathematical models that humans have relied on have failed us with devastating results. Any help is greatly appreciated!",nathandaq_,1h5qkmy,https://reddit.com/r/math/comments/1h5qkmy/specific_examples_of_mathematical_models_failing/,https://www.reddit.com/r/math/comments/1h5qkmy/specific_examples_of_mathematical_models_failing/,2024-12-03 15:53:02,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h5qkmy
+math,Notion of a standardized curvature?,"It’s been a while since I studied this in undergrad so apologies for the lack of rigor and specificity.
+
+When I was in Calc 3, I remember learning about curvature, and I believe it was denoted with “k”. We were taught that a small circle was more curvy, than a larger circle with a larger radius.
+
+I understood at the time, why this was defined as such, **however** I felt like there should also be some notion of curvature that is standardized for the shape of the closed shape.
+
+So that all circles have the same shape regardless of size, but we could still compare the curvature of shapes, i.e. a circle is more curvy than a triangle.
+
+In the same way that Usain Bolt can run really fast for his size, but a Giant 50ft troll running at 30mph would be quite average, if not slow. 
+
+Then, I’m sure we could extend this in higher dimensions, where there would probably different ways to quantify curvature when standardized for the shape of the closed N-d shape.
+
+Has anyone come across this line of thinking? I’m sure it’s probably been explored before.",bernful,1h569h0,https://reddit.com/r/math/comments/1h569h0/notion_of_a_standardized_curvature/,https://www.reddit.com/r/math/comments/1h569h0/notion_of_a_standardized_curvature/,2024-12-02 21:25:41,20,0.85,20,0,41,0,0,False,False,True,False,False,,,t3_1h569h0
+math,Solution to the Moving Sofa Problem Claimed - Optimality of Gerver's Sofa,,areasofsimplex,1h4om4s,https://reddit.com/r/math/comments/1h4om4s/solution_to_the_moving_sofa_problem_claimed/,https://arxiv.org/abs/2411.19826,2024-12-02 06:19:39,230,0.99,230,0,30,0,0,False,False,False,False,False,,,t3_1h4om4s
+math,About the Fitting subgroup ,"Does anyone how to prove that F(K)≤F(G), where F denotes the Fitting subgroup and K is normal in G?. I think it is true but don't know how to prove it.
+
+Thanks :)",Extra-Budget4684,1h5iyfp,https://reddit.com/r/math/comments/1h5iyfp/about_the_fitting_subgroup/,https://www.reddit.com/r/math/comments/1h5iyfp/about_the_fitting_subgroup/,2024-12-03 08:34:13,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h5iyfp
+math,"i picked up this old calculus book, the previous owner seemed to cherish it and also left me with some wisdom.",,Konundrum_Is_God,1h4bpox,https://reddit.com/r/math/comments/1h4bpox/i_picked_up_this_old_calculus_book_the_previous/,https://www.reddit.com/gallery/1h4bpox,2024-12-01 19:48:27,715,0.98,715,0,42,0,0,False,False,False,False,False,Image Post,,t3_1h4bpox
+math,Does your mood crash in the days after an exam or assignment?,Been noticing this. I guess a lot of dopamine is rolling round in the build up and I just feel kind of lost the days after. Wonder if anyone has similar experiences and how you deal with it.,lipguy123,1h4qlro,https://reddit.com/r/math/comments/1h4qlro/does_your_mood_crash_in_the_days_after_an_exam_or/,https://www.reddit.com/r/math/comments/1h4qlro/does_your_mood_crash_in_the_days_after_an_exam_or/,2024-12-02 08:41:28,56,0.89,56,0,15,0,0,False,False,True,False,False,,,t3_1h4qlro
+math,How do the foundations and philosophy of mathematics relate to each other? ,"Are there any philosophical views that encourage certain foundations? Are there any foundations that encourage certain philosophical views? If we take a set theoretical foundation using sets as a primitve object would a platonist differentiate between the existence of sets and objects which are constructed from sets or would they be treated the same? Are there any good articles on this relation? 
+",2Tryhard4You,1h4x0pk,https://reddit.com/r/math/comments/1h4x0pk/how_do_the_foundations_and_philosophy_of/,https://www.reddit.com/r/math/comments/1h4x0pk/how_do_the_foundations_and_philosophy_of/,2024-12-02 15:06:48,10,0.72,10,0,25,0,0,False,False,True,False,False,,,t3_1h4x0pk
+math,"What Are You Working On? December 02, 2024","This recurring thread will be for general discussion on whatever math-related topics you have been or will be working on this week. This can be anything, including:
+
+* math-related arts and crafts,
+* what you've been learning in class,
+* books/papers you're reading,
+* preparing for a conference,
+* giving a talk.
+
+All types and levels of mathematics are welcomed!
+
+If you are asking for advice on choosing classes or career prospects, please go to the most recent [Career &amp; Education Questions thread](https://www.reddit.com/r/math/search?q=Career+and+Education+Questions+author%3Ainherentlyawesome+&amp;restrict_sr=on&amp;sort=new&amp;t=all).",inherentlyawesome,1h4zp65,https://reddit.com/r/math/comments/1h4zp65/what_are_you_working_on_december_02_2024/,https://www.reddit.com/r/math/comments/1h4zp65/what_are_you_working_on_december_02_2024/,2024-12-02 17:00:15,8,0.79,8,0,6,0,0,False,False,True,False,False,,,t3_1h4zp65
