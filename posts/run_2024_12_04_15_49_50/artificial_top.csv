@@ -1,0 +1,34 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,"China is treating AI safety as an increasingly urgent concern according to a growing number of research papers, public statements, and government documents",,katxwoods,1h5vr3b,https://reddit.com/r/artificial/comments/1h5vr3b/china_is_treating_ai_safety_as_an_increasingly/,https://carnegieendowment.org/research/2024/08/china-artificial-intelligence-ai-safety-regulation?lang=en,2024-12-03 19:28:18,56,0.78,56,0,12,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/6XoLcIvaVWBVnD95UNyHGZe26QKqdQ4ye4lBLCPZr5c.jpg,t3_1h5vr3b
+artificial,One-Minute Daily AI News 12/3/2024,"1. **Amazon** announces Nova, a new family of multimodal AI models.\[1\]
+2. **Google** Cloud launches Veo AI video generator model on Vertex.\[2\]
+3. Japan to use AI to tackle online manga and anime piracy.\[3\]
+4. Petbarn launches AI solution to help pet owners.\[4\]
+
+Sources:
+
+\[1\] [https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/](https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/)
+
+\[2\] [https://venturebeat.com/ai/google-cloud-launches-veo-ai-video-generator-model-on-vertex/](https://venturebeat.com/ai/google-cloud-launches-veo-ai-video-generator-model-on-vertex/)
+
+\[3\] [https://www.japantimes.co.jp/news/2024/12/04/japan/anime-piracy-ai-patrol/](https://www.japantimes.co.jp/news/2024/12/04/japan/anime-piracy-ai-patrol/)
+
+\[4\] [https://petnews.com.au/petbarn-launches-first-of-its-kind-ai-solution-to-help-pet-owners/](https://petnews.com.au/petbarn-launches-first-of-its-kind-ai-solution-to-help-pet-owners/)",Excellent-Target-847,1h68oqg,https://reddit.com/r/artificial/comments/1h68oqg/oneminute_daily_ai_news_1232024/,https://www.reddit.com/r/artificial/comments/1h68oqg/oneminute_daily_ai_news_1232024/,2024-12-04 05:23:13,5,0.99,5,0,0,0,0,False,False,True,False,False,News,self,t3_1h68oqg
+artificial,Google set to enhance Gemini on Android with groundbreaking feature: Audio Overviews,"This feature will transform documents into engaging audio narratives, complete with AI-generated voices hosting dynamic conversations. Ideal for those who prefer listening over reading, it aims to make learning and research more accessible, especially for complex topics. They have dabbled with this in NotebookLM project: https://notebooklm.google/ 
+
+While still in development, recent findings in the Google app beta suggest Audio Overviews may soon be available. Gemini currently offers text-based summaries, but this new feature will allow users to turn documents into audio format, making research more interactive and efficient.
+
+What sets Audio Overviews apart is its use of synthetic personalities to create lively, engaging conversations about your content. This feature is designed to make learning enjoyable, with AI hosts breaking down ideas and adding humor, making it perfect for multitasking.
+
+As this feature rolls out, it will be interesting to see how it handles both lighthearted and serious topics and whether we will be able to train our own voices to join in those AI conversations. Stay tuned for more updates on this innovative AI advancement.
+
+Read more on this: https://www.androidpolice.com/one-of-googles-best-ai-moonshots-to-date-could-soon-come-to-gemini/ 
+
+",cyberkite1,1h62wsq,https://reddit.com/r/artificial/comments/1h62wsq/google_set_to_enhance_gemini_on_android_with/,https://www.reddit.com/r/artificial/comments/1h62wsq/google_set_to_enhance_gemini_on_android_with/,2024-12-04 00:28:22,6,0.87,6,0,4,0,0,False,False,True,False,False,News,self,t3_1h62wsq
+artificial,Stability founder thinks it's a coin toss whether AI causes human extinction given the approach we are taking right now,,MetaKnowing,1h6fc25,https://reddit.com/r/artificial/comments/1h6fc25/stability_founder_thinks_its_a_coin_toss_whether/,https://www.reddit.com/gallery/1h6fc25,2024-12-04 12:56:41,2,0.53,2,0,34,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/YMydv2AFPrbA_l91WJNKaymPQpgyhIH7Y_WlFVGCRAM.jpg,t3_1h6fc25
+artificial,Do people hate prompting? Or do they just not know how to use AI?,"I am an avid user of AI and have found it to be extremely helpful in several areas of my life. I even decided to start a Saas business providing users access to tailored prompts for people to use to help them generate content, come up with ideas, analyze reports etc. However, I am noticing that a lot of the products people are raving about are products that obfuscate the prompt and/or use the API to do all of the prompting on the backend so the user just gets the output after filling out a few text fields.
+
+Is this you all's experience? Do you prefer having someone present a form rather than just plugging in a prompt into ChatGPT or is it that you think people just don't really know how to use LLMs or prompt? I'm genuinely curious what you all's take on this is.
+
+Thanks in advance",Alternative_End_5295,1h68wnv,https://reddit.com/r/artificial/comments/1h68wnv/do_people_hate_prompting_or_do_they_just_not_know/,https://www.reddit.com/r/artificial/comments/1h68wnv/do_people_hate_prompting_or_do_they_just_not_know/,2024-12-04 05:35:56,0,0.47,0,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1h68wnv
+artificial,Why isn’t google image search giving me any results for this image or at least a video??,,Longjumping_Tune6038,1h5rpsw,https://reddit.com/r/artificial/comments/1h5rpsw/why_isnt_google_image_search_giving_me_any/,https://i.redd.it/vgat2sdnwn4e1.jpeg,2024-12-03 16:42:01,0,0.06,0,0,6,0,0,False,False,False,False,False,Discussion,https://a.thumbs.redditmedia.com/_sBJx7P6wxlrN9GXToQ4LHRDQ1AGZz4051AoJ_mZ8b8.jpg,t3_1h5rpsw

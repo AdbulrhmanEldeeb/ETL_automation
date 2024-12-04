@@ -1,0 +1,110 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Why did YOU transition from software dev to devops?,"assuming that you did make this transition at some point.
+
+  
+Asking because I want to explain why I want to be an infrastructure engineer with my background in software dev and data science, other than the actual answer of ""this is the position that responded to my application'",unsafe_acct_69420,1h64tao,https://reddit.com/r/devops/comments/1h64tao/why_did_you_transition_from_software_dev_to_devops/,https://www.reddit.com/r/devops/comments/1h64tao/why_did_you_transition_from_software_dev_to_devops/,2024-12-04 01:58:48,56,0.88,56,0,47,0,0,False,False,True,False,False,,self,t3_1h64tao
+devops,The secret of longevity for this industry is to not care about technology but solving the problems,"[https://www.youtube.com/watch?v=ZJ09dPNJ8G8](https://www.youtube.com/watch?v=ZJ09dPNJ8G8)
+
+\_\_
+
+This video aligns with the opinions I shared in the post titled **'Another DevOps Rant.'**
+
+[https://www.reddit.com/r/devops/comments/1h5156p/just\_another\_devops\_rant/](https://www.reddit.com/r/devops/comments/1h5156p/just_another_devops_rant/)
+
+You're probably already familiar with this channel, but I recently discovered it.
+
+If anyone is interested in diving deeper into the reasons behind this thinking, I believe you'll enjoy watching it.
+
+Cheers!",nettrotten,1h6dn7m,https://reddit.com/r/devops/comments/1h6dn7m/the_secret_of_longevity_for_this_industry_is_to/,https://www.reddit.com/r/devops/comments/1h6dn7m/the_secret_of_longevity_for_this_industry_is_to/,2024-12-04 11:13:16,39,0.93,39,0,2,0,0,False,False,True,False,False,,self,t3_1h6dn7m
+devops,Google Cloud SLA promises 100% vailability of Authoritative Name Servers.,What other cloud services have 100% SLA?,moneyppt,1h5qhc9,https://reddit.com/r/devops/comments/1h5qhc9/google_cloud_sla_promises_100_vailability_of/,https://www.reddit.com/r/devops/comments/1h5qhc9/google_cloud_sla_promises_100_vailability_of/,2024-12-03 15:49:09,16,0.87,16,0,5,0,0,False,False,True,False,False,,self,t3_1h5qhc9
+devops,Is having a VPS for yourself good?,"I recently started as a junior developer with fewer experiences than my colleagues. Is it better to have your own VPS to play with and experiment with, or is it better to experiment with different services provided by the same cloud service provider? (I'm willing to do the latter, even though getting your own server is better.)
+
+",star-lord-98,1h69pmw,https://reddit.com/r/devops/comments/1h69pmw/is_having_a_vps_for_yourself_good/,https://www.reddit.com/r/devops/comments/1h69pmw/is_having_a_vps_for_yourself_good/,2024-12-04 06:26:01,11,0.87,11,0,19,0,0,False,False,True,False,False,,self,t3_1h69pmw
+devops,DevOps intern applying for 3 months,"I have been applying to devops intern and entry level positions for a while now (location: nepal and remote) and i am not even able to secure interviews except for 2 places, one was for a senior role and the other in india for a bare minimum pay. 
+
+What should i do to improve my chances?
+I have no professional experience but have done projects using jenkins to build cicd, aws infrastructure setups using terraform and deployment on kubernetes",TheChoosenPosition69,1h6f1j7,https://reddit.com/r/devops/comments/1h6f1j7/devops_intern_applying_for_3_months/,https://www.reddit.com/r/devops/comments/1h6f1j7/devops_intern_applying_for_3_months/,2024-12-04 12:40:28,5,0.65,5,0,9,0,0,False,False,True,False,False,,self,t3_1h6f1j7
+devops,"[Tutorial] AWS ECS, EC2, and Warm Pools: Advantages and Gotchas","Running containers with ECS? This article explores:  
+	•	Fargate vs. EC2 for capacity providers  
+	•	How to configure warm pools for faster scaling  
+	•	Common pitfalls (and how to avoid them)
+
+Read [here](https://imgproxy.net/blog/aws-ecs-ec2-warm-pool/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=ecs_tutorial)!",progapandist,1h6gprd,https://reddit.com/r/devops/comments/1h6gprd/tutorial_aws_ecs_ec2_and_warm_pools_advantages/,https://www.reddit.com/r/devops/comments/1h6gprd/tutorial_aws_ecs_ec2_and_warm_pools_advantages/,2024-12-04 14:02:40,5,0.86,5,0,0,0,0,False,False,True,False,False,,self,t3_1h6gprd
+devops,Analyzing GitHub Actions: The $20k/month CI Pipeline of React Native,"While developing BuildBudget (a GitHub Actions cost analyzer), I discovered React Native's test workflow costs $20k/month - 80x more than typical workflows. The analysis reveals interesting patterns about matrix builds, macOS runners, and minute-based billing. Thought you might find the deep dive interesting.
+
+[Link to the article](https://buildbudget.dev/blog/test_all_workflow/)",ejramire,1h6hqr6,https://reddit.com/r/devops/comments/1h6hqr6/analyzing_github_actions_the_20kmonth_ci_pipeline/,https://www.reddit.com/r/devops/comments/1h6hqr6/analyzing_github_actions_the_20kmonth_ci_pipeline/,2024-12-04 14:47:40,5,0.86,5,0,1,0,0,False,False,True,False,False,,self,t3_1h6hqr6
+devops,Multiple Postgres Databases vs one larger database?,"We have 4 primary postgres databases - each has a hot standby.
+
+Our applications allow customers to sign up to our service, and when they do, they will have a database created in one of these databases - which stores all their information and schemas they can interact with.  
+We have opted for multiple postgres databases because we believe this would ease the load of off just one point of failure.
+
+However, as our databases grow in size, we just scale horitzontally by adding another database ( and hot standby). This is all done on a vps - each instance on its own server - and can take some engineering time.
+
+We have considered instead to just have one very large Primary and one very large hot standby. Is there any benefit to keeping the multiple postgres instances instead?  
+I've tried to get a breakdown of cost, and I don't believe it would cost much less to go just go to one instance.
+
+Additionally, we can't do much with pooling because each customer goes to their respective database within their respective postgres cluster.  
+Whenever we join a new primary/stand by we point our new customers to this database, so this is where newest customers will be created.
+
+With previous customers their data can be stored on one of any four of the other postgres DBs, and we use application logic to findout their database instance before connecting them to it.",ReverendRou,1h6bu4m,https://reddit.com/r/devops/comments/1h6bu4m/multiple_postgres_databases_vs_one_larger_database/,https://www.reddit.com/r/devops/comments/1h6bu4m/multiple_postgres_databases_vs_one_larger_database/,2024-12-04 09:01:04,2,0.63,2,0,5,0,0,False,False,True,False,False,,self,t3_1h6bu4m
+devops,"rant Devops and SRE part 1
+","There’s an internal change management tool I’m required to use as a developer to track any code or infrastructure changes, whether in production or a testing environment. As an SRE, I frequently make small fixes across codebases, which means I need to create detailed records documenting every action taken to resolve issues.  
+The tool itself wouldn’t be so frustrating if it were intuitive and efficient, but mostly it's the opposite.  
+One major problem is the overly specific yet incomplete categorization system. While there are very granular options for some scenarios, they rarely apply to the situations I deal with, leaving me to default to vague categories like “Other” more often than I’d like.  
+Assigning changes to other teams is another headache. Instead of clear team names, the system relies on team codes, which don’t mean much unless you’re already familiar with them. To assign a record, I usually have to identify an individual team member and then backtrack to figure out their team name, a tedious and unnecessary step.  
+All of these issues make my experience worse than it was a few years ago when I wasn’t forced to rely on this tool. To make matters worse, the interface design is severely outdated. It looks like it belongs in the Windows 98 era, which doesn’t exactly help with usability or morale.  
+As an SRE in a GitOps world, do you still have to track your changes in parallel in another tracking system? Or do you use some magic git connector to Jira or other tools? Are there other people working with Kubernetes stuck in some tooling from the early 00's?",berops_com,1h6g37i,https://reddit.com/r/devops/comments/1h6g37i/rant_devops_and_sre_part_1/,https://www.reddit.com/r/devops/comments/1h6g37i/rant_devops_and_sre_part_1/,2024-12-04 13:33:24,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1h6g37i
+devops,Has Anyone dealt with DORA Metric tracking in disconnected systems?,"Currently, my leaders are asking about DORA metrics for better visualization of process improvement, but the system ultimately being deployed to is literally a remote, disconnected system. I can measure lead time to release, but not deploy because all development is required to be bundled to a pre-staging area, where once every quarter that bundle is final tested before being physically transported to a remote location for on-site testing and deployment.
+
+By definition this makes our deployment frequency every 3 months and completely throws off attempting to track change failure rate and TTR. The entire system of DORA is pretty much based around attaining a certain volume of deployability, and then working to improve that.
+
+My question is: Is there a way that DORA metrics are still usable in a situation like this, or are there a different set of industry recommended metrics I haven't heard about to offer instead? ",C3LM3R,1h5qpkh,https://reddit.com/r/devops/comments/1h5qpkh/has_anyone_dealt_with_dora_metric_tracking_in/,https://www.reddit.com/r/devops/comments/1h5qpkh/has_anyone_dealt_with_dora_metric_tracking_in/,2024-12-03 15:58:55,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h5qpkh
+devops,"Landed a role recently, Offering help to anyone looking that might need some advice or pointers?","As the title says, I've been in the industry about 14 years now. Left my last position unexpectedly due to some restructuring. Landed a new role as a Manager for a DevOps/Platform team initiative the company is expanding out.   
+  
+Here to offer questions or advice to anyone that might need it, or feels dissuaded from their search.  
+  
+To put into perspective. I'm 37, and have 0 experience as a manager, my last two roles were senior and lead roles. I've worked in multiple industries (healthcare, media, fintech, retail sales, msp). I'm not particularly ""amazing"" at anything, but have a pretty wide, skill set and learn things very quickly when self tasked.
+
+Got some questions? Need some pointers or advice? Ask away, ill see if i can help.
+
+",Xophishox,1h5qc5z,https://reddit.com/r/devops/comments/1h5qc5z/landed_a_role_recently_offering_help_to_anyone/,https://www.reddit.com/r/devops/comments/1h5qc5z/landed_a_role_recently_offering_help_to_anyone/,2024-12-03 15:42:56,2,0.58,2,0,19,0,0,False,False,True,False,False,,self,t3_1h5qc5z
+devops,Unable to get any calls. What's wrong with my resume?,I was looking for a job change for sometime but unable to get any calls. Please let me know if there's anything to be modified in my resume. [Link](https://ibb.co/JzWnSrS),D1mZ,1h5uwh6,https://reddit.com/r/devops/comments/1h5uwh6/unable_to_get_any_calls_whats_wrong_with_my_resume/,https://www.reddit.com/r/devops/comments/1h5uwh6/unable_to_get_any_calls_whats_wrong_with_my_resume/,2024-12-03 18:53:49,1,0.53,1,0,26,0,0,False,False,True,False,False,,self,t3_1h5uwh6
+devops,HOW TO MAKE SERVERLESS GPU,"I recently saw [https://modal.com/](https://modal.com/) which is a platform that provides A10G(24 GB) GPU for $1.16 /hour. I don't know how much AWS or Azure charges for the same GPU. I want to run an AI model with a similar infrastructure as it'll be idle for most of the time. But I am have a few questions on how to achieve this.
+
+1. Is it cheaper to use modal.com?  
+2. To build a serverless GPU myself in Azure, do I need to use ACI, Functions and a VM instance? Or is it using something else?",SnooObjections4815,1h607n4,https://reddit.com/r/devops/comments/1h607n4/how_to_make_serverless_gpu/,https://www.reddit.com/r/devops/comments/1h607n4/how_to_make_serverless_gpu/,2024-12-03 22:30:18,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1h607n4
+devops,Cloud vs physical servers for data solution services? ,"
+Hey, a startup gonna give data solutions as a vendor so which you recommend cloud or physical servers 
+
+** Note that we are the early beginning**
+
+The metric iam focusing on :  
+
+- cost  
+- maintenance 
+- electricity risk
+-  scalability based on number of customers 
+
+
+If a physical server which on you recommend ",Murky-Principle6255,1h5tob9,https://reddit.com/r/devops/comments/1h5tob9/cloud_vs_physical_servers_for_data_solution/,https://www.reddit.com/r/devops/comments/1h5tob9/cloud_vs_physical_servers_for_data_solution/,2024-12-03 18:02:59,0,0.45,0,0,12,0,0,False,False,True,False,False,,self,t3_1h5tob9
+devops, Help Us Understand Upskilling Challenges! 🌟,"Hello r/DevOps! 👋
+
+I’m working on a project to understand the challenges people face when trying to upskill for their careers and how they improve their qualifications. Whether you’re a working professional, a student, or someone exploring new skills, your input will be invaluable in shaping resources that can make learning and growth easier for everyone.
+
+If you’ve ever struggled with finding time, motivation, or the right learning platform, this quick survey is for you! It’ll only take **5 minutes** of your time, and your feedback will directly contribute to making upskilling more accessible and effective.
+
+[https://forms.gle/B1ej715JQYzcEDE88](https://forms.gle/B1ej715JQYzcEDE88)
+
+Your voice matters! Feel free to share this post with anyone in your circle who might be interested. Thank you in advance for helping out! 😊
+
+P.S. In case you are a teacher or instructor, I will love to have a quick chat with you. Please reach out in DMs",mohitkr05,1h5r8qt,https://reddit.com/r/devops/comments/1h5r8qt/help_us_understand_upskilling_challenges/,https://www.reddit.com/r/devops/comments/1h5r8qt/help_us_understand_upskilling_challenges/,2024-12-03 16:21:36,0,0.43,0,0,0,0,0,False,False,True,False,False,,self,t3_1h5r8qt
+devops,SWE vs MLOps,"Hi guys, I’m an Indian who is currently living in Ireland. I have been hunting for a job for sometime. Background: 1 year work ex in India as ML Engineer, recent masters in CS from UCD, graduated 2024. I only have experience in ML/AI in full time and internship roles.
+
+I’m currently interviewing for the role for MLOps engineer in India for a company which is reputable and I’m sure a lot of you must have heard. about it or used its product. I have also been approached by Microsoft and IBM for the role of SWE in Ireland.
+
+Here’s my dilemma: I’m sure that I will get a result for MLOps engineer much sooner than my interviews will progress at Microsoft and IBM, and I will definitely be asked to move back to India before I get a response from Microsoft/IBM. I think MLOps is a great role for someone like me and due to personal reasons I do not mind shifting back to India. At the same time, I’m not that confident about SWE interviews because my DSA is not that strong so I might just lose a great opportunity as well. However, I’m also worried that my career path could get stuck at MLOps and I back myself into a corner with limited career options down the line, which compared with SWE opens up several options for me. Had both these interview processes been running at the same time, I would have decided to go with Microsoft/IBM, but given my current circumstance I don’t want to risk turning down MLOps with just a chance of maybe getting selected in SWE. Any advice?",DaTrollFace,1h5zyo4,https://reddit.com/r/devops/comments/1h5zyo4/swe_vs_mlops/,https://www.reddit.com/r/devops/comments/1h5zyo4/swe_vs_mlops/,2024-12-03 22:19:58,0,0.29,0,0,2,0,0,False,False,True,False,False,,self,t3_1h5zyo4
+devops,"What’s your go-to database migration tool in Python, and why?","Reveal your favorites:[ Alembic](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc), Django Migrations, or entirely different? Hit out the pros, cons, and extra-ordinary gems in the comments!
+
+My favoutite is Alemic, [because is a lightweight database migration tool for Python](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc)
+
+[https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc)[](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc)",rasvi786,1h68p8i,https://reddit.com/r/devops/comments/1h68p8i/whats_your_goto_database_migration_tool_in_python/,https://www.reddit.com/r/devops/comments/1h68p8i/whats_your_goto_database_migration_tool_in_python/,2024-12-04 05:24:01,0,0.38,0,0,0,0,0,False,False,True,False,False,,self,t3_1h68p8i

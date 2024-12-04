@@ -1,0 +1,148 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Analyzing GitHub Actions: The $20k/month CI Pipeline of React Native,"While developing BuildBudget (a GitHub Actions cost analyzer), I discovered React Native's test workflow costs $20k/month - 80x more than typical workflows. The analysis reveals interesting patterns about matrix builds, macOS runners, and minute-based billing. Thought you might find the deep dive interesting.
+
+[Link to the article](https://buildbudget.dev/blog/test_all_workflow/)",ejramire,1h6hqr6,https://reddit.com/r/devops/comments/1h6hqr6/analyzing_github_actions_the_20kmonth_ci_pipeline/,https://www.reddit.com/r/devops/comments/1h6hqr6/analyzing_github_actions_the_20kmonth_ci_pipeline/,2024-12-04 14:47:40,5,0.86,5,0,1,0,0,False,False,True,False,False,,self,t3_1h6hqr6
+devops,Open to work for DevOps role for free to learn and upskill,Hi i am looking to work under devops engineer to improve my devops skills and to gain handson,Ambitious_Trip7918,1h6i6jf,https://reddit.com/r/devops/comments/1h6i6jf/open_to_work_for_devops_role_for_free_to_learn/,https://www.reddit.com/r/devops/comments/1h6i6jf/open_to_work_for_devops_role_for_free_to_learn/,2024-12-04 15:06:05,0,0.33,0,0,7,0,0,False,False,True,False,False,,self,t3_1h6i6jf
+devops,The secret of longevity for this industry is to not care about technology but solving the problems,"[https://www.youtube.com/watch?v=ZJ09dPNJ8G8](https://www.youtube.com/watch?v=ZJ09dPNJ8G8)
+
+\_\_
+
+This video aligns with the opinions I shared in the post titled **'Another DevOps Rant.'**
+
+[https://www.reddit.com/r/devops/comments/1h5156p/just\_another\_devops\_rant/](https://www.reddit.com/r/devops/comments/1h5156p/just_another_devops_rant/)
+
+You're probably already familiar with this channel, but I recently discovered it.
+
+If anyone is interested in diving deeper into the reasons behind this thinking, I believe you'll enjoy watching it.
+
+Cheers!",nettrotten,1h6dn7m,https://reddit.com/r/devops/comments/1h6dn7m/the_secret_of_longevity_for_this_industry_is_to/,https://www.reddit.com/r/devops/comments/1h6dn7m/the_secret_of_longevity_for_this_industry_is_to/,2024-12-04 11:13:16,40,0.93,40,0,2,0,0,False,False,True,False,False,,self,t3_1h6dn7m
+devops,Why did YOU transition from software dev to devops?,"assuming that you did make this transition at some point.
+
+  
+Asking because I want to explain why I want to be an infrastructure engineer with my background in software dev and data science, other than the actual answer of ""this is the position that responded to my application'",unsafe_acct_69420,1h64tao,https://reddit.com/r/devops/comments/1h64tao/why_did_you_transition_from_software_dev_to_devops/,https://www.reddit.com/r/devops/comments/1h64tao/why_did_you_transition_from_software_dev_to_devops/,2024-12-04 01:58:48,54,0.88,54,0,47,0,0,False,False,True,False,False,,self,t3_1h64tao
+devops,"[Tutorial] AWS ECS, EC2, and Warm Pools: Advantages and Gotchas","Running containers with ECS? This article explores:  
+	•	Fargate vs. EC2 for capacity providers  
+	•	How to configure warm pools for faster scaling  
+	•	Common pitfalls (and how to avoid them)
+
+Read [here](https://imgproxy.net/blog/aws-ecs-ec2-warm-pool/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=ecs_tutorial)!",progapandist,1h6gprd,https://reddit.com/r/devops/comments/1h6gprd/tutorial_aws_ecs_ec2_and_warm_pools_advantages/,https://www.reddit.com/r/devops/comments/1h6gprd/tutorial_aws_ecs_ec2_and_warm_pools_advantages/,2024-12-04 14:02:40,4,0.83,4,0,0,0,0,False,False,True,False,False,,self,t3_1h6gprd
+devops,DevOps intern applying for 3 months,"I have been applying to devops intern and entry level positions for a while now (location: nepal and remote) and i am not even able to secure interviews except for 2 places, one was for a senior role and the other in india for a bare minimum pay. 
+
+What should i do to improve my chances?
+I have no professional experience but have done projects using jenkins to build cicd, aws infrastructure setups using terraform and deployment on kubernetes",TheChoosenPosition69,1h6f1j7,https://reddit.com/r/devops/comments/1h6f1j7/devops_intern_applying_for_3_months/,https://www.reddit.com/r/devops/comments/1h6f1j7/devops_intern_applying_for_3_months/,2024-12-04 12:40:28,6,0.69,6,0,9,0,0,False,False,True,False,False,,self,t3_1h6f1j7
+devops,Is having a VPS for yourself good?,"I recently started as a junior developer with fewer experiences than my colleagues. Is it better to have your own VPS to play with and experiment with, or is it better to experiment with different services provided by the same cloud service provider? (I'm willing to do the latter, even though getting your own server is better.)
+
+",star-lord-98,1h69pmw,https://reddit.com/r/devops/comments/1h69pmw/is_having_a_vps_for_yourself_good/,https://www.reddit.com/r/devops/comments/1h69pmw/is_having_a_vps_for_yourself_good/,2024-12-04 06:26:01,11,0.87,11,0,19,0,0,False,False,True,False,False,,self,t3_1h69pmw
+devops,"how are you shipping your IIS/httperr logs to ElasticStack? e.g. filebeat, elasticAgent, other?","hi, how are you shipping your IIS logs (and httperr) to your ES? I've been using filebeat, but I'm wondering if I should switch to elasticAgent?
+
+thanks, ",queBurro,1h6j6ya,https://reddit.com/r/devops/comments/1h6j6ya/how_are_you_shipping_your_iishttperr_logs_to/,https://www.reddit.com/r/devops/comments/1h6j6ya/how_are_you_shipping_your_iishttperr_logs_to/,2024-12-04 15:47:40,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h6j6ya
+devops,Multiple Postgres Databases vs one larger database?,"We have 4 primary postgres databases - each has a hot standby.
+
+Our applications allow customers to sign up to our service, and when they do, they will have a database created in one of these databases - which stores all their information and schemas they can interact with.  
+We have opted for multiple postgres databases because we believe this would ease the load of off just one point of failure.
+
+However, as our databases grow in size, we just scale horitzontally by adding another database ( and hot standby). This is all done on a vps - each instance on its own server - and can take some engineering time.
+
+We have considered instead to just have one very large Primary and one very large hot standby. Is there any benefit to keeping the multiple postgres instances instead?  
+I've tried to get a breakdown of cost, and I don't believe it would cost much less to go just go to one instance.
+
+Additionally, we can't do much with pooling because each customer goes to their respective database within their respective postgres cluster.  
+Whenever we join a new primary/stand by we point our new customers to this database, so this is where newest customers will be created.
+
+With previous customers their data can be stored on one of any four of the other postgres DBs, and we use application logic to findout their database instance before connecting them to it.",ReverendRou,1h6bu4m,https://reddit.com/r/devops/comments/1h6bu4m/multiple_postgres_databases_vs_one_larger_database/,https://www.reddit.com/r/devops/comments/1h6bu4m/multiple_postgres_databases_vs_one_larger_database/,2024-12-04 09:01:04,2,0.67,2,0,5,0,0,False,False,True,False,False,,self,t3_1h6bu4m
+devops,"rant Devops and SRE part 1
+","There’s an internal change management tool I’m required to use as a developer to track any code or infrastructure changes, whether in production or a testing environment. As an SRE, I frequently make small fixes across codebases, which means I need to create detailed records documenting every action taken to resolve issues.  
+The tool itself wouldn’t be so frustrating if it were intuitive and efficient, but mostly it's the opposite.  
+One major problem is the overly specific yet incomplete categorization system. While there are very granular options for some scenarios, they rarely apply to the situations I deal with, leaving me to default to vague categories like “Other” more often than I’d like.  
+Assigning changes to other teams is another headache. Instead of clear team names, the system relies on team codes, which don’t mean much unless you’re already familiar with them. To assign a record, I usually have to identify an individual team member and then backtrack to figure out their team name, a tedious and unnecessary step.  
+All of these issues make my experience worse than it was a few years ago when I wasn’t forced to rely on this tool. To make matters worse, the interface design is severely outdated. It looks like it belongs in the Windows 98 era, which doesn’t exactly help with usability or morale.  
+As an SRE in a GitOps world, do you still have to track your changes in parallel in another tracking system? Or do you use some magic git connector to Jira or other tools? Are there other people working with Kubernetes stuck in some tooling from the early 00's?",berops_com,1h6g37i,https://reddit.com/r/devops/comments/1h6g37i/rant_devops_and_sre_part_1/,https://www.reddit.com/r/devops/comments/1h6g37i/rant_devops_and_sre_part_1/,2024-12-04 13:33:24,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1h6g37i
+devops,Just another DevOps Rant,"Hey r/devops,
+
+I wanted to share my recent experience as a DevOps professional navigating the job market, in hopes it resonates with some of you and maybe even sparks a conversation.
+
+Currently, I’m employed as a DevOps Engineer and have been working in the field for about 1.5 years. Due to recent circumstances, I decided to explore new opportunities and aim higher. I even cleared an interview for a role that required 3 years of experience—a milestone that felt validating for my skills and growth.
+
+I made it through multiple rounds of interviews for a promising role, only to get rejected at the final stage. What stings more is that I was honest about my unconventional background—pursuing a BSCS while already working in DevOps. My technical skills and experience were enough to pass every challenge they threw at me, but in the end, my degree (or lack thereof) became the deal-breaker.
+
+Here’s a bit of my background: Before transitioning into tech, I was pursuing Chartered Accountancy (CA). Life took unexpected turns, and I had to pivot. The skills I gained from that journey—discipline, analytical thinking, and resilience—have shaped who I am today.
+
+But for some companies, that time doesn’t count as ""relevant experience."" It’s frustrating because by the time I graduate, I’ll have around 3 years of solid hands-on DevOps experience, yet many organizations may still see me as a “fresher.”
+
+Despite the setback, I’m not giving up but tbh it stings. Rejections like these remind me why I chose this field in the first place—continuous learning, problem-solving, and the thrill of building scalable systems but sincerely, rejection hurts. I know my worth, and I sincerley hope there’s a company out there that values skills and grit over paperwork.
+
+To my fellow DevOps enthusiasts: Have any of you faced similar challenges? How do you navigate hiring processes when your path isn’t “traditional”? I’d love to hear your stories or any advice you have to share.
+
+Thanks for reading. Here’s to bouncing back stronger and finding the right fit!",xheavenx1,1h5m20r,https://reddit.com/r/devops/comments/1h5m20r/just_another_devops_rant/,https://www.reddit.com/r/devops/comments/1h5m20r/just_another_devops_rant/,2024-12-03 12:14:46,39,0.74,39,0,21,0,0,False,False,True,False,False,,self,t3_1h5m20r
+devops,Google Cloud SLA promises 100% vailability of Authoritative Name Servers.,What other cloud services have 100% SLA?,moneyppt,1h5qhc9,https://reddit.com/r/devops/comments/1h5qhc9/google_cloud_sla_promises_100_vailability_of/,https://www.reddit.com/r/devops/comments/1h5qhc9/google_cloud_sla_promises_100_vailability_of/,2024-12-03 15:49:09,18,0.91,18,0,5,0,0,False,False,True,False,False,,self,t3_1h5qhc9
+devops,Just another DevOps rant ,"I'm a DevOps engineer with 6 years of experience and +4 SysAdmin/Cloud background.
+
+During the final round of a four-stage job interview, one of the interviewers looked at my resume and said:
+
+***""Six years and this many technologies? It's impossible that you've been able to focus and specialize in anything.""***
+
+And I thought to myself: *""Don't you know what a DevOps engineer is? 4 rounds and then this?""*
+
+It doesn't matter what kind of technology or programming language you throw at me. If it's needed, I'll learn it, solve the problem you present, and maintain the solution.
+
+If that technology becomes irrelevant, I'll move on to learning the next one and migrate the whole thing.
+
+*That's what I love about this job, and I believe it's a key factor in our success as DevOps engineers.*
+
+What exactly are all these ""old CS dinosaurs"" expecting about us?
+
+For me, there's a gap between how the IT world was viewed in the past, how people are interviewed, and **what the actual job entails today.**
+
+What's the point of asking me the difference between a tuple and a list?
+
+What's the point of asking me the difference between a public and private method?
+
+You have my resume, my GitHub, my references. I've described to you how I would build a complete API for a blue/green deployment, A/B testing, or whatever else you need, we talked about core concepts related to CICD, hexagonal architechture, Kubernetes, AWS, IaC, whatever.
+
+Why do they feel the need to ask me dumb CS, leetcode and very specific yaml key questions like that?
+
+God! It's frustrating,
+
+**I build things; I’m not in college taking exams.**
+
+**Well, just another rant, tech interviews are really broken imo,** I'm not going to specialize in tools that will become obsolete in a few years.
+
+My answer was something like:
+
+*""My value lies in understanding the problems presented and figuring out how to tackle them. The technology I use depends more on the consensus regarding the architecture, as long as I’m not the one responsible for designing the solution. For me, the technology itself is not as relevant as being able to adapt to whatever requirements are necessary.""*
+
+I didn’t feel like he was very convinced.
+
+**It's like they are trying to assess if you know how to add when what you're actually doing is building airplanes. I don't add with my fingers; I use a calculator.**
+
+Edit:
+
+One of my main tasks is building deployment APIs, Traefik plugins, and developing in Go, Java, Python, or whatever is needed. It just doesn’t make sense to me—this wasn’t a junior position, and those questions don’t truly reflect what I’m capable of.
+
+To all those in the comments doubting my abilities simply because I’m not a walking textbook:
+
+ You’re exactly the kind of people this post is directed at—you don’t understand where the role is going, I wish you good luck in the generative, agents and self-fixing code era! I hope, for everyones sake, you never sit at the interviewer’s table.
+
+-----
+
+I’ll have the final answer next week; I’ll update the post.
+
+
+
+
+
+
+",nettrotten,1h5156p,https://reddit.com/r/devops/comments/1h5156p/just_another_devops_rant/,https://www.reddit.com/r/devops/comments/1h5156p/just_another_devops_rant/,2024-12-02 17:58:11,416,0.94,416,0,142,0,0,False,False,True,False,False,,self,t3_1h5156p
+devops,Where can I learn Puppet?,"It's just as the the title says, I'm looking for some resources to learn and gain some hands-on experience in puppet. Please suggest some good resources and roadmaps.
+
+Thank you!",Exact-Marionberry936,1h5mume,https://reddit.com/r/devops/comments/1h5mume/where_can_i_learn_puppet/,https://www.reddit.com/r/devops/comments/1h5mume/where_can_i_learn_puppet/,2024-12-03 13:00:32,8,0.66,8,0,27,0,0,False,False,True,False,False,,self,t3_1h5mume
+devops,HOW TO MAKE SERVERLESS GPU,"I recently saw [https://modal.com/](https://modal.com/) which is a platform that provides A10G(24 GB) GPU for $1.16 /hour. I don't know how much AWS or Azure charges for the same GPU. I want to run an AI model with a similar infrastructure as it'll be idle for most of the time. But I am have a few questions on how to achieve this.
+
+1. Is it cheaper to use modal.com?  
+2. To build a serverless GPU myself in Azure, do I need to use ACI, Functions and a VM instance? Or is it using something else?",SnooObjections4815,1h607n4,https://reddit.com/r/devops/comments/1h607n4/how_to_make_serverless_gpu/,https://www.reddit.com/r/devops/comments/1h607n4/how_to_make_serverless_gpu/,2024-12-03 22:30:18,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1h607n4
+devops,Where to learn networking?,I keep reading posts emphasizing the need for newbies to have good knowledgeable of networking so can u guys share any resources/guideline to learn ?thanks.,coobop332,1h5olw8,https://reddit.com/r/devops/comments/1h5olw8/where_to_learn_networking/,https://www.reddit.com/r/devops/comments/1h5olw8/where_to_learn_networking/,2024-12-03 14:27:39,3,0.64,3,0,12,0,0,False,False,True,False,False,,self,t3_1h5olw8
+devops,"What’s your go-to database migration tool in Python, and why?","Reveal your favorites:[ Alembic](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc), Django Migrations, or entirely different? Hit out the pros, cons, and extra-ordinary gems in the comments!
+
+My favoutite is Alemic, [because is a lightweight database migration tool for Python](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc)
+
+[https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc)[](https://medium.com/@rasvihostings/alembic-is-a-lightweight-database-migration-tool-for-python-d84220c0e0dc)",rasvi786,1h68p8i,https://reddit.com/r/devops/comments/1h68p8i/whats_your_goto_database_migration_tool_in_python/,https://www.reddit.com/r/devops/comments/1h68p8i/whats_your_goto_database_migration_tool_in_python/,2024-12-04 05:24:01,0,0.38,0,0,0,0,0,False,False,True,False,False,,self,t3_1h68p8i

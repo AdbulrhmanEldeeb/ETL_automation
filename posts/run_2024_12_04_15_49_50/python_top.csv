@@ -1,0 +1,267 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python, Fine-grained open source authorization solution (SDK for Python),"Hey, Python community! If anyone here is thinking about implementing authorization for RBAC / ABAC in your apps - feel free to check out our OSS solution: [https://github.com/cerbos/cerbos](https://github.com/cerbos/cerbos) 
+
+It’s useful if you’re dealing with complex access control scenarios and fast-growing apps, where requirements are constantly changing.
+
+  
+**What My Project Does:**   
+Cerbos PDP is an authorization solution that lets users define context-aware access control in simple, intuitive, and testable policies.  Some of Cerbos PDP’s key capabilities:
+
+* Infinitely scalable RBAC and ABAC
+* Plug-and-play &amp; language-agnostic 
+* Stateless design 
+* Self-hosted
+* Centralized audit logs of all authorization requests help compliance with ISO27001, SOC2, and HIPAA requirements  
+
+  
+**Target Audience:**  
+Software developers working on building authorization for apps, AI agents, and AI companions.  
+  
+  
+**Comparison**   
+The most common alternative to externalized authorization is the “build it yourself” approach, hard-coded authorization. Here is how our approach is different:
+
+* Our off-the-shelf solution allows you to avoid the technical debt and developer cost of hard-coded authorization.
+* Having the separation of the permissions from the code base just makes the code and the permissions more elegant (no spaghetti code).
+* Permissions are centralized, so they're not tied to specific endpoints. 
+* Cerbos makes fine-grained access control easy to implement and manage while saving time. It also improves security by making access control highly visible and making it easy to keep up with changing requirements.
+
+  
+And here’s our SDK &amp; installation guide for Python - [https://www.cerbos.dev/ecosystem/python](https://www.cerbos.dev/ecosystem/python) ",West-Chard-1474,1h5v7n7,https://reddit.com/r/Python/comments/1h5v7n7/finegrained_open_source_authorization_solution/,https://www.reddit.com/r/Python/comments/1h5v7n7/finegrained_open_source_authorization_solution/,2024-12-03 19:06:28,25,0.82,25,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h5v7n7
+Python,PyCon Austria 2025,"PyCon Austria will take place on April 6 and 7, 2025 in Eisenstadt, Austria. The Call for Papers is already open, so you can submit your proposals for talks and workshops. Although registration is recommended for visitors, attendance is free of charge. The conference will start with an opening party on April 5, 2025.
+
+Website with details, registration, and sponsor information: [https://at.pycon.org](https://at.pycon.org)
+
+Call for Papers: [https://www.papercall.io/pycon-austria](https://www.papercall.io/pycon-austria)",RisingFire,1h5ubiu,https://reddit.com/r/Python/comments/1h5ubiu/pycon_austria_2025/,https://www.reddit.com/r/Python/comments/1h5ubiu/pycon_austria_2025/,2024-12-03 18:29:45,27,0.9,27,0,4,0,0,False,False,True,False,False,News,self,t3_1h5ubiu
+Python,Dink: a command line notifier,"Hi there,
+
+I’m Pranav, a self-taught python developer. Just wanted to share a little script I made.
+
+What my project does:
+Dink is a command line notifier. It can notify you of the completion of a command, so you don’t have to keep checking the terminal.
+
+Target audience:
+All devs.
+
+Comparison:
+This, unlike maybe a few other tools, is extremely lightweight and does not require extensive setup. All you do is install it and just put the word dink before any command you want notified about and that's it.
+
+You can find this at https://github.com/Pranav435/dink.git
+
+This has, in the 6 months since I made it, saved me a bunch of hours, and I hope it is equally as useful to you.
+
+Would appreciate all feedback!
+
+Cheers.",phoenix_00916,1h5qv5d,https://reddit.com/r/Python/comments/1h5qv5d/dink_a_command_line_notifier/,https://www.reddit.com/r/Python/comments/1h5qv5d/dink_a_command_line_notifier/,2024-12-03 16:05:13,14,0.75,14,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1h5qv5d
+Python,In-memory processing using Python promises faster and more efficient computing by skipping the CPU,"https://www.techradar.com/pro/in-memory-processing-using-python-promises-faster-and-more-efficient-computing-by-skipping-the-cpu
+
+In-memory processing hardware exists, but software is lacking
+Researchers created PyPIM to enable in-memory computation
+Python commands translated into memory-executable instructions",gurugabrielpradipaka,1h5ze3s,https://reddit.com/r/Python/comments/1h5ze3s/inmemory_processing_using_python_promises_faster/,https://www.reddit.com/r/Python/comments/1h5ze3s/inmemory_processing_using_python_promises_faster/,2024-12-03 21:56:40,4,0.59,4,0,4,0,0,False,False,True,False,False,News,self,t3_1h5ze3s
+Python,ProgressPal (an alternative/iteration to tqdm),"**Get ProgressPal** here is full documentation available in the Github repo: [https://github.com/levi2234/Progresspal](https://github.com/levi2234/Progresspal)
+
+**What My Project Does** The code progress tracker called ProgressPal provides an easy to use environment for tracking python functions, iterables and logs. It tries to keep the known tqdm syntax while expanding the usability for simulataneous python runtimes such as Threads and parallel processes. ProgressPal provides an easy to access online environment which collects all progress in one place, visible from anywhere in the world. The main features included are:
+
+* **Progress Tracking**: Track the progress of Python iterables, functions, and log messages in real-time.
+* **Decentralized Monitoring**: Monitor multiple Python scripts from any device with an internet connection.
+* **Collaborative Projects**: Collaborate and monitor the real-time progress of various scripts running on different devices and processes.
+* **Distributed Systems**: Track progress across distributed systems for seamless monitoring and remote collaboration.
+* **Function Tracking**: Track the call-count, execution time distribution, execution history, time between calls, error count, function file origin, and function name.
+* **Iterable Tracking**: Track the progress of iterables and generators with a progress bar. Additionally, track the total number of iterations, current iteration, and percentage completion, time remaining, iteration execution time, and iteration rate.
+* **Log Server**: Start a log server to receive progress updates from Python scripts. The log server can be accessed from any device with an internet connection.
+* **Threading support**: Track the progress of multiple threads and processes simultaneously.
+* **Search Functionality**: Search for specific functions and iterables in the log server.
+
+**Target Audience** ProgressPal is made for people who are working with multiple python processes or want to remotely monitor their code. ProgressPal has collaboration in mind providing a 2 click monitoring server for everyone to use. Because of the 1 ms overhead (9ns of tqdm) of the code we recommend this for tracking longer execution times of loops and functions to minimize impact.
+
+**Comparison** During my work I grew increasingly annoyed with having to jump from terminal to terminal using tqdm. I had a use for a central logging environment. Scouring through my options I couldn't find a suitable option. So after 2 years of being annoyed I decided to make my own.
+
+**Comments** This project was my first experience with web developement (code quality does reflect this) Because this is my first webdev project security is not the first priority. Therefore this project is mainly developed for personal use and recommended not to run on critical systems. However, it is a great tool to use during developement which  I myself have used this in projects with multiple dozens of simultaneous processes without problems.
+
+",More-Tower9993,1h6hu9s,https://reddit.com/r/Python/comments/1h6hu9s/progresspal_an_alternativeiteration_to_tqdm/,https://www.reddit.com/r/Python/comments/1h6hu9s/progresspal_an_alternativeiteration_to_tqdm/,2024-12-04 14:51:57,4,0.7,4,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h6hu9s
+Python,Using Pyjokes in Other Programming Languages,"Hey everyone,
+
+Check out this guide on integrating Pyjokes into various languages like Java, C#, and JavaScript. If you enjoy adding humor to your code, this article is worth a read: [How to Use Pyjokes in Other Programming Languages](https://www.javonet.com/how-to-use-pyjokes-in-other-programming-languages/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=new_features_highlights&amp;utm_content=pyjokes-python)
+
+Have fun and let me know your thoughts!",javonet1,1h6f3j4,https://reddit.com/r/Python/comments/1h6f3j4/using_pyjokes_in_other_programming_languages/,https://www.reddit.com/r/Python/comments/1h6f3j4/using_pyjokes_in_other_programming_languages/,2024-12-04 12:43:36,5,0.65,5,0,1,0,0,False,False,True,False,False,Tutorial,self,t3_1h6f3j4
+Python,Wednesday Daily Thread: Beginner questions,"# Weekly Thread: Beginner Questions 🐍
+
+Welcome to our Beginner Questions thread! Whether you're new to Python or just looking to clarify some basics, this is the thread for you.
+
+## How it Works:
+
+1. **Ask Anything**: Feel free to ask any Python-related question. There are no bad questions here!
+2. **Community Support**: Get answers and advice from the community.
+3. **Resource Sharing**: Discover tutorials, articles, and beginner-friendly resources.
+
+## Guidelines:
+
+* This thread is specifically for **beginner questions**. For more advanced queries, check out our [Advanced Questions Thread](#advanced-questions-thread-link).
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **What is the difference between a list and a tuple?**
+2. **How do I read a CSV file in Python?**
+3. **What are Python decorators and how do I use them?**
+4. **How do I install a Python package using pip?**
+5. **What is a virtual environment and why should I use one?**
+
+Let's help each other learn Python! 🌟",AutoModerator,1h629va,https://reddit.com/r/Python/comments/1h629va/wednesday_daily_thread_beginner_questions/,https://www.reddit.com/r/Python/comments/1h629va/wednesday_daily_thread_beginner_questions/,2024-12-04 00:00:09,3,0.72,3,0,3,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h629va
+Python,Introducing Security Testing Skills in Our Open-Source Testing Agent,"**What My Project Does**  
+Our [open source testing agent ](https://github.com/test-zeus-ai/testzeus-hercules/tree/main)now includes **security testing skills**, enabling it to perform security scans across 15 different benchmarks. It's designed to make advanced security testing accessible and affordable, all within a fully open-source ecosystem.
+
+**Target Audience**  
+This project is ideal for developers, QA engineers, and teams looking for a **cost-effective, production-ready solution** for software testing and security scanning without the overhead of commercial tools.
+
+**Comparison**  
+Unlike traditional security testing tools that are often expensive and closed-source, our agent is **open source**, affordable (costing less than a cup of coffee), and seamlessly integrates with your existing testing workflows. It also combines functional and security testing in one agent, making it a unique offering in the testing ecosystem.
+
+Would love to hear your thoughts and feedback! 😊",Unhappy-Economics-43,1h5v877,https://reddit.com/r/Python/comments/1h5v877/introducing_security_testing_skills_in_our/,https://www.reddit.com/r/Python/comments/1h5v877/introducing_security_testing_skills_in_our/,2024-12-03 19:07:07,0,0.5,0,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h5v877
+Python,doc2exam - Full Self-Driving for exam prep and certs,"hello everyone! here's doc2exam
+
+a place to turn any material into live exams -- for students prepping or professors setting official certifications
+
+working on doc2exam proved to be really fun, I've learned svelte5, deepened my django skills, and rag/llm skills.
+
+I've found [llamaindex](https://github.com/run-llama/llama_index) is much easier to use than langchain, and the reddit dwarfs and yc hackers are right, at least in my case: langchain is over-engineered for most people
+
+but llamaindex also tries too hard in some places to replace manual prompt engineering, and I had to dodge many of its incomplete (and sometimes inconsistent or unintuitive) apis
+
+\# What My Project Does
+
+it turns any material into a fully-fledged live exam that you can send to your students who can take it online., and receive a perma-url certificate like on Coursera (which you can attach to your linkedin or whatever).  
+the idea is to have the examination part of a course completely automated, while the teaching itself is still driven by a human (as per the neoducation manifesto - google it).
+
+  
+\# Target Audience
+
+Schools, Professors or students prepping for exams
+
+  
+\# Comparison
+
+[https://jungleai.com/](https://jungleai.com/) \-- more of a flashcard generator, and it focuses on student prepping while doc2exam is primarily targeted towards professors (but students can use it just as easily for prep)
+
+[https://www.marquiz.io/](https://www.marquiz.io/) \-- the term ""quiz"" is too casual for doc2exam's intended scope: to become a de-facto platform for exam generation but also, equally important, live exam taking
+
+[https://pdfquiz.com/](https://pdfquiz.com/) \-- idem marquiz.io",lutian,1h6f71a,https://reddit.com/r/Python/comments/1h6f71a/doc2exam_full_selfdriving_for_exam_prep_and_certs/,https://www.reddit.com/r/Python/comments/1h6f71a/doc2exam_full_selfdriving_for_exam_prep_and_certs/,2024-12-04 12:49:03,0,0.5,0,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h6f71a
+Python,Sqrt Random faster than Max double Random?,"Any thoughts on **why** the sqrt version below is faster?
+
+Saw this video from 3blue1brown. His concept focused on the following having the same probability distributions. 
+
+`max(rand(), rand())`
+
+`sqrt(rand())`
+
+What was surprising to me was that the sqrt version actually ran faster. I guess this means the HW is likely more optimized for the sqrt operation than pulling a uniform random number. 
+
+Here's my code that tested the speed:
+
+    import math
+    import time
+    #&gt;1
+    import random#&lt;1
+    
+    def method1():
+        innerList = []
+    
+        #⮞ for 1000000 ⮜#@&gt;2
+        for i in range(1000000):#&lt;2
+            rand1 = random.random() #⮞ Random  ⮜#@4
+            rand2 = random.random() #⮞ Random ⮜#@5
+            innerList.append(max(rand1, rand2))
+    
+        return innerList
+    
+    def method2():
+        innerList = []
+    
+        #⮞ for 1000000 ⮜#@&gt;3
+        for i in range(1000000):#&lt;3
+            rand = random.random() #⮞ Random ⮜#@6
+            innerList.append(math.sqrt(rand))
+    
+        return innerList
+    
+    
+    start = time.time()
+    list1 = method1()
+    end = time.time()
+    print(end - start) # printed: 0.2354288101196289
+    
+    start = time.time()
+    list2 = method2()
+    end = time.time()
+    print(end - start) # printed: 0.17833805084228516
+    ",ArcticFoxMB,1h64pm0,https://reddit.com/r/Python/comments/1h64pm0/sqrt_random_faster_than_max_double_random/,https://www.reddit.com/r/Python/comments/1h64pm0/sqrt_random_faster_than_max_double_random/,2024-12-04 01:53:35,0,0.37,0,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1h64pm0
+Python,Algorithmic Portfolio Rebalancer Bot (4.5% USD interest) for DeFi,"For the pythonic fintech/finance peeps. You can get into finance &amp; Python without a Bank account, API key, or any of that.
+
+
+
+Let me know what you think! I have a video coming out with it soon too!
+
+
+
+\# What My Project Does
+
+
+
+We do the following all in Python:
+
+1. Set a target portoflio allocation of 30% USDC, 70% ETH/WETH
+
+2. Deposit all our funds into Aave to gain 4.5% interest on our USDC and 0.3% on our WETH (as of writing)
+
+3. Withdraw our funds if our target allocations have not been met
+
+4. Trade funds on Uniswap programatically to reach out target allocations
+
+5. Re-deposit into Aave to gain interest again
+
+
+
+\# Target Audience 
+
+
+
+\- Python learners
+
+\- Blockchain learners
+
+\- DeFi/FinTech Developers / Automators
+
+
+
+I have used this code in production myself!
+
+
+
+\# Comparison 
+
+This is similar to an algorithmic trading bot, but with a high-yield savings account as well. 
+
+
+
+\[https://github.com/Cyfrin/mox-algorithmic-trading-cu\](https://github.com/Cyfrin/mox-algorithmic-trading-cu)",patrickalphac,1h65lsy,https://reddit.com/r/Python/comments/1h65lsy/algorithmic_portfolio_rebalancer_bot_45_usd/,https://www.reddit.com/r/Python/comments/1h65lsy/algorithmic_portfolio_rebalancer_bot_45_usd/,2024-12-04 02:38:16,0,0.31,0,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h65lsy
+Python,Curly brackets in python!,"[https://github.com/DevBoiAgru/CurlyPy](https://github.com/DevBoiAgru/CurlyPy)
+
+  
+**What CurlyPy does:**
+
+CurlyPy enables you to write Python code using curly braces `{}` instead of relying on indentation to define code blocks (though indentation is still a part of the syntax). It essentially allows you to combine the best of both worlds — Python’s simplicity with the clarity and familiarity of curly braces for block delimitation.
+
+# It works as a pre processor which translates the code with brackets into code with proper indentation, and then runs it using python. Since it works as a preprocessor, there is a great potential for exciting features in the future like ""compile time"" evaluation of functions, type checking and much more in the future.
+
+**Target Audience:**
+
+People who want to try out how python would be if it supported braces, or people who complain about code blocks using whitespace.
+
+**Comparison:**
+
+The only other preprocessor I am aware of which does this is [Bython](https://github.com/mathialo/bython), but the last commit to its repo was 6 years ago, and it does not support dictionaries and sets. 
+
+Any suggestions on improving CurlyPy and ideas for future features are appreciated!",DevBoiAgru,1h5skiu,https://reddit.com/r/Python/comments/1h5skiu/curly_brackets_in_python/,https://www.reddit.com/r/Python/comments/1h5skiu/curly_brackets_in_python/,2024-12-03 17:17:37,0,0.33,0,0,14,0,0,False,False,True,False,False,Showcase,self,t3_1h5skiu

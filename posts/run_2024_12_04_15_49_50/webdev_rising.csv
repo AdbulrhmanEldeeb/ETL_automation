@@ -1,0 +1,131 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,How much do I need to be concerned about this?,,Produkt,1h6i89a,https://reddit.com/r/webdev/comments/1h6i89a/how_much_do_i_need_to_be_concerned_about_this/,https://i.redd.it/kqe6rgyrku4e1.png,2024-12-04 15:08:05,7,0.89,7,0,7,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/z-2yyUW2TboTdo1MLcL3SVQvsSf-fi6WvM9a7XS1rBA.jpg,t3_1h6i89a
+webdev,I was wrong about GraphQL,,Savram8,1h6hzr7,https://reddit.com/r/webdev/comments/1h6hzr7/i_was_wrong_about_graphql/,https://wundergraph.com/blog/six-year-graphql-recap,2024-12-04 14:58:35,0,0.33,0,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/MRLm2rccGBDOkW3O0eOcrc5cCQy-GMStzJqHFXpB5Ts.jpg,t3_1h6hzr7
+webdev,My chrome extension for TailwindCSS developers just reached 10000 users 🎉,[Extension link](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl),JHjertvik,1h6e6q6,https://reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/,https://www.reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/,2024-12-04 11:49:24,59,0.84,59,0,16,0,0,False,False,True,False,False,,self,t3_1h6e6q6
+webdev,"New Employer doesn't use any Source control, or Task Tracking Tools","I've been out of work for a whole year and barely getting by on freelance work. But hooray for me, I finally got a new job! Day 2 I learn that a team of 3 ""Seniors"" are working in the same projects without Git, and using staging for as a dev site \*pikachu face\*. One of them has already mentioned that his work has been overwritten by another developer. Next, I learn that the team coordinates their tasks via email and Gchat. I struggle to see how this team could be productive at all without these tools. I'm skeptical they want me to come in and fix all their bullshit. I need the money desperately and I can't quit. No clue what I'm gonna do, but this place appears to be career death.",Armitage1,1h6ggun,https://reddit.com/r/webdev/comments/1h6ggun/new_employer_doesnt_use_any_source_control_or/,https://www.reddit.com/r/webdev/comments/1h6ggun/new_employer_doesnt_use_any_source_control_or/,2024-12-04 13:51:31,24,0.81,24,0,35,0,0,False,False,True,False,False,,self,t3_1h6ggun
+webdev,How do you deal with Caching in development?,"Hi All,
+
+  
+I'm not a dev by any stretch but I do dabble. Lately I've been working on a project and I'm testing on a dev. server. When I make changes to JS files or CSS files, the browser always shows me the cached version of the file!
+
+This is so frustrating! How do you guys deal with this in development? I know it doesn't impact too much in production because the files won't change in production as often but this seems very frustrating to develop with.
+
+  
+Thank you,",roblu001,1h6fcra,https://reddit.com/r/webdev/comments/1h6fcra/how_do_you_deal_with_caching_in_development/,https://www.reddit.com/r/webdev/comments/1h6fcra/how_do_you_deal_with_caching_in_development/,2024-12-04 12:57:45,4,0.76,4,0,9,0,0,False,False,True,False,False,,self,t3_1h6fcra
+webdev,Made a directory of opensource boilerplates,,sadekships,1h5pmn9,https://reddit.com/r/webdev/comments/1h5pmn9/made_a_directory_of_opensource_boilerplates/,https://i.redd.it/yh1gnjiyfn4e1.png,2024-12-03 15:12:38,243,0.95,243,0,35,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/POe2nYbG9xUVNgwDGIHk5mxCjz5XAxDyHw-6f1CZaqE.jpg,t3_1h5pmn9
+webdev,How did you develop your eye for web design? (looking for ressources),"Hello everyone,
+
+While I'm comfortable translating designs (e.g. from Figma) into code, I'm struggling with the creative side of web design. Whenever I attempt to create designs from scratch, they end up looking flat, minimalistic (and not in the good way), or old school.
+
+I'd love to improve my design skills - nothing fancy, just aiming to create clean, professional-looking sites for now. **What resources helped you level up your design game?** I'm interested in everything:
+
+* Online courses
+* Web design focused YouTube channels
+* Websites/blogs
+* Design systems or case studies you find inspiring
+
+I figure other developers making the transition into design might find this valuable too. Would really appreciate any guidance from those who've made this journey!",Michel1846,1h6brod,https://reddit.com/r/webdev/comments/1h6brod/how_did_you_develop_your_eye_for_web_design/,https://www.reddit.com/r/webdev/comments/1h6brod/how_did_you_develop_your_eye_for_web_design/,2024-12-04 08:56:06,9,1.0,9,0,9,0,0,False,False,True,False,False,Resource,self,t3_1h6brod
+webdev,Looking for 8 developers who wanna expand their network,"Hey everyone,
+
+We built a network/platform where professionals meet with fellows via scheduled video calls. We as a community believe that this is a better way as an initial contact than follows and direct messages.  
+Our platform is **open for free, invite-only access**, currently.
+
+How to Join?
+
+Please share your LinkedIn or any other professional social media URL of yours via comment or pm (if you don't wanna reveal it publicly). I am going to drop an invitation code to you via dm.  
+Feel free to ask your questions publicly in a comment below.
+
+Whom is it best for?
+
+It's perfect for entrepreneurs, indie hackers, developers, designers, social media marketers, and more. The common point of our community is an **entrepreneurial mindset** and **business focus**.
+
+What would be the gain?
+
+A strong network is our need as a member of the community. We need an audience for our products, clients for our services, and professionals to hire them or make them hire us. First-time meeting people in need would work much less than asking people already in our network that we build via more than just following each other or direct messages. And this is the network where you meet people face-to-face without immediate requests/needs.",yigitagcam,1h6jbo6,https://reddit.com/r/webdev/comments/1h6jbo6/looking_for_8_developers_who_wanna_expand_their/,https://www.reddit.com/r/webdev/comments/1h6jbo6/looking_for_8_developers_who_wanna_expand_their/,2024-12-04 15:52:49,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1h6jbo6
+webdev,How can I possibly calculate how much Vercel will charge me?,"I am thinking about re-writing an app for one of my clients which I am hosting right now on a Cloudways server. In fact, my client pays for the server and I have access to it.
+
+The costs are right now $350 for 960GB, 48GB RAM and 12 Core CPU.
+
+I checked Vercel website but I have no clue how much I need and how much it will be. 
+
+The monthly bandwidth of the Cloudways server is 2.3TB. We have around 700 daily active users, 400GB of data in the database and filesystem and we add around 1GB per day in data. 
+
+Can I even calculate it somehow? What do I need to know from the current server in order to estimate the costs? I am afraid that the costs will go through the roof! 🤯",TelephoneCool5490,1h66q3x,https://reddit.com/r/webdev/comments/1h66q3x/how_can_i_possibly_calculate_how_much_vercel_will/,https://www.reddit.com/r/webdev/comments/1h66q3x/how_can_i_possibly_calculate_how_much_vercel_will/,2024-12-04 03:34:44,16,0.91,16,0,20,0,0,False,False,True,False,False,,self,t3_1h66q3x
+webdev,Which variables helped you succeed in cold-calling businesses for dev-related work?,"I'm looking into beginning some cold-calling (emailing, potentially sms and/or physical mail) marketing for some web-related work and am curious what area(s) helped you the most in finding success here.
+
+I'm curious about things like the following were taken into account and showed any effect in overall success in finding work:  
+  
+\- Business type (plumbing, banking, etc.)  
+\- Location (city, rural, international, etc.)  
+\- Focus of message (quick, witty, analytic, etc.)  
+\- Method of contacting (email, call, sms, mail, other)
+
+I'm tinkering with modern AI tools for data collection and web page critique as well as email/sms generation and sending. I'm close to the actual messaging part an am unsure of what to optimize for. My goal is to automate as much as possible.",Bonteq,1h68n1e,https://reddit.com/r/webdev/comments/1h68n1e/which_variables_helped_you_succeed_in_coldcalling/,https://www.reddit.com/r/webdev/comments/1h68n1e/which_variables_helped_you_succeed_in_coldcalling/,2024-12-04 05:20:26,11,0.79,11,0,8,0,0,False,False,True,False,False,,self,t3_1h68n1e
+webdev,This Website is Hosted on Bluesky,,warkollons0,1h6el09,https://reddit.com/r/webdev/comments/1h6el09/this_website_is_hosted_on_bluesky/,https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/,2024-12-04 12:14:03,3,0.64,3,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/F6ENu7iHCVp4QIsYb2NhM8bb_CsKg7uuO_j8gsx6tdA.jpg,t3_1h6el09
+webdev,"How do server-sent event ""streams"" work on a lower level?","Hi, and sorry for the lack of a tl;dr; - I'm not sure how to get away from providing the context. Basically I'm interested in connecting to a web server and consuming [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events) using a lower level HTTP API and am hoping somebody can explain how the push vs pull of these events might work at a lower level.
+
+I'm working on a hardware project (ESP32-S3 / espressif ESP-IDF based) where I'm writing C with a bit of higher level abstraction to support HTTP interactions. For example, the methods I might call are:
+
+* `esp_http_client_open()`: Open the HTTP connection with write_len parameter (content length that needs to be written to server), set write_len=0 for read-only connection.
+* `esp_http_client_fetch_headers()`: Read the HTTP Server response headers, after sending the request headers and server data (if any). 
+* `esp_http_client_read()`: Read the HTTP stream
+* `esp_http_client_close()`: Close the connection.
+
+([more examples / docs are here if you're currious](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/protocols/esp_http_client.html#http-stream))
+
+Now what I'm trying to figure out is what `esp_http_client_read()` actually is doing in terms of the server to client communication. When I connect to a server over HTTP, and assuming `keep-alive`, I can call `esp_http_client_read()` every millisecond, or I can wait 100 milliseconds and call it. Both ""work"" in that if there is no data being sent from the server, nothing will happen, and if there is data, I'll read it and be able to do something with it. _edit: for clarity because it may be non-obvious, my intention is to have my hardware device connect to a server and stay connected to it indefinitely, waiting for the server to send data using server-sent events - so picture a while(true) loop, but I'm responsible myself for checking when new data comes in_
+
+But I don't have a good sense of what it means to ""read data"" in an already open HTTP stream. As far as I'm aware, for this type of connection (which is similar as far as I understand to a chunked response), nothing is communicated to the server asking for more data for example, it's certainly not like an additional HTTP request is being made. I'm guessing ""read data"" just checks some sort of lower level buffer handled by the WiFi chip or some lower subsystem. I'm guessing if I chose to ""read data"" from an HTTP connection the server is none the wiser. 
+
+That said, I also might 100% wrong, and perhaps (like other forms of communication) part of the underlying protocol is a message to the server that you've read data. This might not be important to the server, but perhaps it acts as a sort of heartbeat. 
+
+My end goal here is to understand how often I should call ""read data"" in my code optimizing for quickly getting updates from the server but also not having any negative impact on the server or taking up needless CPU cycles by reading data every millisecond when once every 50ms would suffice for my needs. 
+
+I'm hoping somebody in the web dev community who perhaps has more experience or a better understanding of lower level HTTP ""stuff"" might be able to understand the spirit of what I'm asking and help me understand.
+
+Thanks a ton!",kevysaysbenice,1h67euz,https://reddit.com/r/webdev/comments/1h67euz/how_do_serversent_event_streams_work_on_a_lower/,https://www.reddit.com/r/webdev/comments/1h67euz/how_do_serversent_event_streams_work_on_a_lower/,2024-12-04 04:11:47,11,0.92,11,0,8,0,0,False,False,True,False,False,Question,self,t3_1h67euz
+webdev,Would you use this Prototype Tool,"Hi guys, I am building this online tool that is very similar to codepen and other like it, except I needed some features so I made my own clone.
+
+Added festures:
+- Built in AI chats with conversation history, branching, and support for local ollama integration 
+- straightforward Versioning system
+- dev and prod code deployment 
+- ability to host single file (js or css) or complete build
+- Notes sections to keep track of todos, write docs, or any other note tasks.
+- multiple projects
+- cdn management 
+- ability to preview work as you code in a separate tab
+
+I see a tool like this can be very useful, but I'm very biase since I made this baby.
+
+
+What are your thoughts?",DotElectrical155,1h6j6yu,https://reddit.com/r/webdev/comments/1h6j6yu/would_you_use_this_prototype_tool/,https://www.reddit.com/r/webdev/comments/1h6j6yu/would_you_use_this_prototype_tool/,2024-12-04 15:47:41,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h6j6yu
+webdev,New to the web platform in November,,feross,1h6j61l,https://reddit.com/r/webdev/comments/1h6j61l/new_to_the_web_platform_in_november/,https://web.dev/blog/web-platform-11-2024?hl=en,2024-12-04 15:46:36,1,1.0,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/BU89PJRzpdgyXTn8CgtT6L20kydGOCaV4aeIPBjjets.jpg,t3_1h6j61l
+webdev,Space in URL in ad causing website 502 error,Have a Meta ad that was pasted form excel sheet and had a space in it causing the link to be broken. The website had a 502 error few times. Colleague said the space caused it saying it triggered a bug in the webcode. Is this possible? The CMS is Drupal.,golden_greenery,1h6i7pv,https://reddit.com/r/webdev/comments/1h6i7pv/space_in_url_in_ad_causing_website_502_error/,https://www.reddit.com/r/webdev/comments/1h6i7pv/space_in_url_in_ad_causing_website_502_error/,2024-12-04 15:07:28,0,0.33,0,0,2,0,0,False,False,True,False,False,Question,self,t3_1h6i7pv
+webdev,Simple approach to setting up a monorepo for a Next.js app and Chrome extension with shared codebase?,"I'm currently working on a project that includes a Next.js web app and a Chrome extension, both written in TypeScript and React. I want to create a `/shared` folder that contains TypeScript and React components, which can be used by both the web app and the extension.
+
+I'm also using \`pnpm\` and ESLint with the \`@typescript-eslint/parser\`, so I need a setup that works well with these tools.
+
+What would be the simplest approach to set up a monorepo for this kind of project? Thanks in advance.",jerrygoyal,1h6denl,https://reddit.com/r/webdev/comments/1h6denl/simple_approach_to_setting_up_a_monorepo_for_a/,https://www.reddit.com/r/webdev/comments/1h6denl/simple_approach_to_setting_up_a_monorepo_for_a/,2024-12-04 10:57:29,2,0.75,2,0,2,0,0,False,False,True,False,False,Question,self,t3_1h6denl
+webdev,HTML email not displaying correctly on GMAIL,"Hi everyone,
+
+I am preparing a HTML email for a campaign, however when I sent it and open the email on the Gmail app for mobile it does not display correctly. The layout is completely broken.
+
+This does not happen on other app (Apple mail, Outlook, etc) where the email is perfect.
+
+I noticed that when I click the 3 dots next to the sender and ""Revert auto-sizing"" it displays correctly. I would like the email to open directly with the correct format without the recipient having to click this.
+
+Any ideas on how to fix this? Is there a specific code I can use?
+
+Any help would be truly appreciated.",username90856,1h6h0s6,https://reddit.com/r/webdev/comments/1h6h0s6/html_email_not_displaying_correctly_on_gmail/,https://www.reddit.com/r/webdev/comments/1h6h0s6/html_email_not_displaying_correctly_on_gmail/,2024-12-04 14:16:04,1,1.0,1,0,4,0,0,False,False,True,False,False,,self,t3_1h6h0s6
+webdev,The Rise of Retro Tech: Why We Love the 90s,"[Built with Tailwind CSS XDLMAO - https:\/\/play.tailwindcss.com\/ZtJibtMnfd](https://preview.redd.it/gc0q447u1s4e1.png?width=627&amp;format=png&amp;auto=webp&amp;s=38f471e7b22810fe77cfef2ab1df767c68a22f4a)
+
+",Whalefisherman,1h69y0k,https://reddit.com/r/webdev/comments/1h69y0k/the_rise_of_retro_tech_why_we_love_the_90s/,https://www.reddit.com/r/webdev/comments/1h69y0k/the_rise_of_retro_tech_why_we_love_the_90s/,2024-12-04 06:41:27,5,0.73,5,0,1,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/6kxIHxeVTwIh8ICZrXiOAnNpmtTKAU7Sq-3-sc5sw5I.jpg,t3_1h69y0k
+webdev,auto deploying docker via github actions but requirements.txt are having extra dependencies installed?!,"I am deploying to dockerhub using github actions. I write my web app API in python, and using requirements.txt for installing dependencies of my web app API. The thing is that I have 2 repositories for 2 different version of the API. Even when I am using another repo, my docker image created, is having dependencies being installed like (tensor, nvidia, networkx etc) which were mentioned in the requirements.txt of the first repository. Why is this happening? (I know these dependency libraries are NOT some interdependant dependencies of my existing library)
+
+[https://github.com/SaiFUllaH-KhaN1/main\_async](https://github.com/SaiFUllaH-KhaN1/main_async)
+
+Please find the dockerfile and the main.yml inside the .github/workflows folder. The req.txt file has the requirements of the dependencies installed.",aviation_expert,1h6gxqj,https://reddit.com/r/webdev/comments/1h6gxqj/auto_deploying_docker_via_github_actions_but/,https://www.reddit.com/r/webdev/comments/1h6gxqj/auto_deploying_docker_via_github_actions_but/,2024-12-04 14:12:23,1,0.67,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1h6gxqj
+webdev,What's the best way to handle video processing on a social site?,"I want to process videos with ABR using HLS, MPEG-DASH. I'm using NextJS and having trouble getting ffmpeg to work. Long story short, it's not setting up the ffmpeg-static path properly when I did an npm install.
+
+I want to process video that a user selects via file input, preferably on the client side, then take the processed video with all the quality variants and upload it to my S3 bucket. Everyone is recommending ffmpeg, but I spent 2 days trying to get it to work and couldn't. Since it's server side I think it would cause performance issues down the line. Honestly whatever works at this point I'm willing to do and worry about performance optimization later. ",clit_or_us,1h6b3ib,https://reddit.com/r/webdev/comments/1h6b3ib/whats_the_best_way_to_handle_video_processing_on/,https://www.reddit.com/r/webdev/comments/1h6b3ib/whats_the_best_way_to_handle_video_processing_on/,2024-12-04 08:03:46,3,1.0,3,0,3,0,0,False,False,True,False,False,Question,self,t3_1h6b3ib
