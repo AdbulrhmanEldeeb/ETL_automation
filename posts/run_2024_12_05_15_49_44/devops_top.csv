@@ -1,0 +1,114 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Octopus Deploy 7200% price increase? Is this real?,"We've been using Octopus deploy since day dot. Had a perpetual licence with 10 machines for a few years. Then had to downgrade this time last year to a similar licence for 5 machines. We made it work, it was $720 a year.
+
+Just got notified that the licence has expired today and now it's priced based on projects. We have 300 projects, which is $52,200!
+
+We don't need 50 nodes or 50 workers or 20 concurrent tasks. WTAF - is this for real?
+
+Any suggestions?
+
+",asdrunkasdrunkcanbe,1h774ap,https://reddit.com/r/devops/comments/1h774ap/octopus_deploy_7200_price_increase_is_this_real/,https://www.reddit.com/r/devops/comments/1h774ap/octopus_deploy_7200_price_increase_is_this_real/,2024-12-05 11:32:19,72,0.97,72,0,53,0,0,False,False,True,False,False,,self,t3_1h774ap
+devops,"Doubt ELK is still the ""cool"" open self hosted log aggregator?  What's your fav?",,TurlachMacD,1h6m5a6,https://reddit.com/r/devops/comments/1h6m5a6/doubt_elk_is_still_the_cool_open_self_hosted_log/,/r/u_TurlachMacD/comments/1h6hyp5/doubt_elk_is_still_the_cool_open_self_hosted_log/,2024-12-04 17:44:32,25,0.79,25,0,30,0,0,False,False,False,False,False,,default,t3_1h6m5a6
+devops,Best tool to schedule/monitor CRON jobs,"I am currently trying to get away from Windows Task Scheduler in favor of Linux/Docker, but I am wanting advice on what services to look at for monitoring and source controlling said scripts. I understand their are things like Chronicle, healthchecks, rundeck, Jenkins, etc. I'm really looking for the slightest weight solution for now assuming azure devops is my repo of choice (shouldn't matter I presume, but stating it anyways). Any help is much appreciated before I go down this path! Also, I'm not sure if it matters, but some of my docker containers will run as ""services"" within WHILE loops.
+
+Edit: I also left out portainer, which seems to be a pretty solid solution as well",Black_Magic100,1h769tm,https://reddit.com/r/devops/comments/1h769tm/best_tool_to_schedulemonitor_cron_jobs/,https://www.reddit.com/r/devops/comments/1h769tm/best_tool_to_schedulemonitor_cron_jobs/,2024-12-05 10:34:12,12,1.0,12,0,9,0,0,False,False,True,False,False,,self,t3_1h769tm
+devops,Pulumi with thousands of resources,"Hi all,   
+Just curious if anyone have experience with Pulumi paid tiers?  
+I have a free account and would like to upgrade, but I checked numbers and it cost per resource, which is weird, because I can be a huge enterprise and have 1 server, or a small SaaS with 10k resource and ""forced"" to pay few thousands a month.
+
+I'm willing to pay 500/month for the service, but I'm not sure they have such deals.
+
+Have anyone done this?",divebatter,1h7a279,https://reddit.com/r/devops/comments/1h7a279/pulumi_with_thousands_of_resources/,https://www.reddit.com/r/devops/comments/1h7a279/pulumi_with_thousands_of_resources/,2024-12-05 14:12:35,4,1.0,4,0,2,0,0,False,False,True,False,False,,self,t3_1h7a279
+devops,Implementation of tunnel to private network,"Hello, I am planning on how to create a tunnel from my local computer to a RDS in a private network. I am thinking about using haproxy, jumpbox or openvpn.
+
+What solution do you use?",xavicx,1h783p8,https://reddit.com/r/devops/comments/1h783p8/implementation_of_tunnel_to_private_network/,https://www.reddit.com/r/devops/comments/1h783p8/implementation_of_tunnel_to_private_network/,2024-12-05 12:31:08,1,0.57,1,0,9,0,0,False,False,True,False,False,,self,t3_1h783p8
+devops,What software composition analysis (SCA) tools do you use and what improvements do you want to see?,"How do you use SCA tools to manage vulnerabilities in dependencies? What are some issues you run into when using the tools and what improvements with SCA do you think would be helpful?
+
+SCA tools would be anything that identifies software components and vulnerabilities in them, ex: grype, sonatype, black duck, snyk, etc.
+
+We are security researchers interested in how you use SCA tools. If you are willing to share your experiences with us, we'd be happy to talk to you. We're conducting interviews (\~45min) to understand your experiences.
+
+Ultimately, we really want to understand:
+
+* How you integrate SCA into software pipelines and any challenges that come with that.
+* How you interpret the SCA reports and what actions are taken after.
+* Challenges you run into with SCA, your opinions, and how you would like to see them be improved
+
+More details about our research are here: [https://s3c2.org/studies/sca-usability](https://s3c2.org/studies/sca-usability)
+
+Feel free to discuss the challenges you run into or reach out if you are interested or have any questions.
+
+We'd be happy to share our study results back to the community if any of you share your experiences with us!",wutever0017,1h6rcyt,https://reddit.com/r/devops/comments/1h6rcyt/what_software_composition_analysis_sca_tools_do/,https://www.reddit.com/r/devops/comments/1h6rcyt/what_software_composition_analysis_sca_tools_do/,2024-12-04 21:13:07,1,0.57,1,0,2,0,0,False,False,True,False,False,,self,t3_1h6rcyt
+devops,Curious About DevOps and SRE as a Backend Developer – Where Do I Start?,"Hey Reddit!
+
+I transitioned from mobile development to backend development this year, where I shipped some relatively simple applications. Along the way, I discovered that what excites me most, aside from building the backend itself, is maintaining the infrastructure: spinning up VMs (with containerized apps) with Load Balancers using Terraform , monitoring the application to identify bottlenecks, ensuring infrastructure security, and so on. This is the project that I actually worked on recently: [https://github.com/diasmashikov/go-compressor](https://github.com/diasmashikov/go-compressor) You can even access it from the web (https://www.gofilecompress.com)
+
+Currently, I am using GCP and Terraform for infrastructure tasks, and I’ve been learning as I go. However, I feel like I lack a solid foundation in DevOps and GCP concepts. So, here’s my question:
+
+* Where can I learn the basics? Is there a single book that covers fundamental, applicable principles of DevOps or SRE? Or is learning tied to a particular cloud provider? Should I focus on certifications for a specific cloud provider like GCP or AWS, and would that help me learn more effectively? (Of course, I would supplement this with hands-on projects.)
+* Regarding platforms, I’m currently using GCP, but I’ve noticed that AWS seems to be more widely adopted globally. Would it make more sense to invest time in learning AWS instead?
+
+And overall, what resources or strategies would you recommend to help me become proficient in DevOps or SRE?",Investorator3000,1h6kow1,https://reddit.com/r/devops/comments/1h6kow1/curious_about_devops_and_sre_as_a_backend/,https://www.reddit.com/r/devops/comments/1h6kow1/curious_about_devops_and_sre_as_a_backend/,2024-12-04 16:47:29,1,0.67,1,0,2,0,0,False,False,True,False,False,,self,t3_1h6kow1
+devops,Im i in a bad position?,"How employable doest this sound?
+
+Hello all, as of the beginning of this year I have worked as a Junior Software Dev with Java in the financial sector.
+
+But in the company the management is creating a toxic environment - working long hours is encouraged, stress is through the roof sometimes.
+
+I was told the other day that i need time be faster, because i work on the most important thing (I don’t know why they gave it to me) for the sprint/release and they expect me to not make mistakes when things are so important.
+
+The company is under 100 employees and the team consists of 3 seniors a mid dev and me. 
+
+If you read me previous post you can see another struggle i had on the workplace. This drives me crazy because i really love the craft of programming and was very exited in the beginning, but as time passed this jobs seems to drain all the motivation and passion. And i REALLY HOPE not every job is like that. 
+
+Also for almost a year as a Junior i had 0 pair programming and almost none mentoring by seniors. Only code reviews with passive aggressive chats with my manager. Other team members seem to not care a lot about my state, like they see I’m struggling but it feels like they are okay with me struggling 
+😀
+
+My question here for the people that have been in a similar place - is every place like this?
+And also I’m i employable having the following knowledge.
+
+Java professional exp: 1year.(backend)
+
+Python self learning: 3-4 months doing projects/scripts.
+
+JS: can manipulate the DOM, write basic FE(no framework).
+
+Also i know how to work on terminal and love working on Linux kernel.",JustIDontKnowAnymore,1h6k15p,https://reddit.com/r/devops/comments/1h6k15p/im_i_in_a_bad_position/,https://www.reddit.com/r/devops/comments/1h6k15p/im_i_in_a_bad_position/,2024-12-04 16:21:11,0,0.44,0,0,8,0,0,False,False,True,False,False,,self,t3_1h6k15p
+devops,Career Advice ,"
+So guys I'm studying C's from mid-tier university...
+I'm good in programing.. As I know the basic of c++ (did ICS in hssc) and also familiar very much with html, css and J's...  I made tic-tac-toe, piggy game and other project like currency converter, simple mobile app calculator using html,css and J's but now when I see people from top uni like nust fast I feel like a looser... Also I'm only good in programing and mathematics other subject are average...  So, pls give me advice Is I'm on right place or I have to do more work??...
+
+Also I see people having a lot of knowledge about Linux, and other software/hardware but I don't know nothing because I was born in a family where no one goes uni so, I'm the first in my family....
+
+Only last question is how much time you guys sleep? Also advice me about this how much time I should daily give to study?...
+
+So, give me advice as your little brother I'll be thankful to you all guys... ",Capable_Stage_4412,1h7aj9g,https://reddit.com/r/devops/comments/1h7aj9g/career_advice/,https://www.reddit.com/r/devops/comments/1h7aj9g/career_advice/,2024-12-05 14:34:52,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1h7aj9g
+devops,Jenkins Workflow Question,"Hi, I am a solo software engineer for a microscopy company. I own a pretty significant number of services and applications, and so far have just been relying on Github Actions to run my unit tests, integration tests, and releases.
+
+I am identifying the need to finally have some kind of CI/CD pipeline. I am familiar with the concept after working at Amazon, but now I need to develop a pipeline myself.
+
+My question is about what kind of workflows are possible in Jenkins. For some context, I have the following:
+
+- A Django API
+- An auto-generated Python client  for the API
+- A package of Domain Models which are sent to/from the Django API
+- A repository package that abstracts the REST API client and makes it simpler to use
+
+These constitute a set of ""core"" services and packages, which all rely on each other to work. It is possible to change one of these packages/services without needing to modify the others, however, sometimes a feature change in one project will require all of the other projects to change.
+
+For example, if I add a ""Food"" table to the Django API, I also need to add a Food class to the domain models, and a FoodRepository, and there will need to be new tests added as well.
+
+Is there a way to design my workflows as a directed acyclic graph where each of my services/packages has a list of repositories that are downstream of it, and so all of those services are tested when a change is made? Many of these programs feed into each other as well, so there is a need for the output of one test to be used as the fixtures of the next test in some cases. For example, if the ""core"" services pass their tests, a script would populate a local database for use with all of the desktop applications that rely on the ""core"" services. Then if I see one of the desktop applications breaks, I know that this feature change requires the desktop app to be updated as well. Let me know if what I am asking for even makes sense.",ShagohodEnjoyer,1h6wpgg,https://reddit.com/r/devops/comments/1h6wpgg/jenkins_workflow_question/,https://www.reddit.com/r/devops/comments/1h6wpgg/jenkins_workflow_question/,2024-12-05 01:03:57,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h6wpgg
+devops,New to automation,"Hi maybe someone can help me here.
+
+So in short, where I work we have to set up all these Cisco devices, and we’re using gitlab to build the scripts (according to how the device is supposed to connect to others). It’s all in python and I’m wondering if maybe gitlab is being used maybe not to its full potential? I feel we should be using maybe ansible, but there is some logic being done of reaching out to a web server to get IP info then plug all that stuff in. I’m finishing my degree in software engineering and I’m wondering if there’s a better way to maybe use my knowledge or make the process more straight forward? Thank you for literally any feedback 🥺",BroMyBackhurts,1h6okh6,https://reddit.com/r/devops/comments/1h6okh6/new_to_automation/,https://www.reddit.com/r/devops/comments/1h6okh6/new_to_automation/,2024-12-04 19:19:56,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1h6okh6
+devops,"how are you shipping your IIS/httperr logs to ElasticStack? e.g. filebeat, elasticAgent, other?","hi, how are you shipping your IIS logs (and httperr) to your ES? I've been using filebeat, but I'm wondering if I should switch to elasticAgent?
+
+thanks, ",queBurro,1h6j6ya,https://reddit.com/r/devops/comments/1h6j6ya/how_are_you_shipping_your_iishttperr_logs_to/,https://www.reddit.com/r/devops/comments/1h6j6ya/how_are_you_shipping_your_iishttperr_logs_to/,2024-12-04 15:47:40,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1h6j6ya
+devops,"YAML Schemas in Emacs with Eglot - just renewed blog, feedback welcome too","Are you someone that enjoys Emacs and the amazing built-in package Eglot, which enables Emacs to provide intelligent completions and error reporting, linting, and more with language servers ?
+
+Are you ocasionally editing YAML files and would like to use JSON Schemas for YAML, get some feedback from Emacs, the right completions for a configuration file ?
+
+[https://jointhefreeworld.org/blog/articles/emacs/yaml-schemas-in-emacs-eglot/](https://jointhefreeworld.org/blog/articles/emacs/yaml-schemas-in-emacs-eglot/)",kosakgroove,1h6pt88,https://reddit.com/r/devops/comments/1h6pt88/yaml_schemas_in_emacs_with_eglot_just_renewed/,https://www.reddit.com/r/devops/comments/1h6pt88/yaml_schemas_in_emacs_with_eglot_just_renewed/,2024-12-04 20:10:12,0,0.4,0,0,0,0,0,False,False,True,False,False,,self,t3_1h6pt88
+devops,What happens to the systems engineers who don’t work for software companies? ,"What happens to the folks that work in IT operations who don't work for software companies? Are we at a point where IT only consists of software engineers and low level support? Since DevOps only consists of software engineers, what is actually left? Seems to me that there's very few actual DevOps jobs out there, since only a small fraction of businesses actually sell SaaS products, and the rest consume them. Do I have this right? ",Impressive_Alarm_712,1h700uk,https://reddit.com/r/devops/comments/1h700uk/what_happens_to_the_systems_engineers_who_dont/,https://www.reddit.com/r/devops/comments/1h700uk/what_happens_to_the_systems_engineers_who_dont/,2024-12-05 03:45:56,0,0.35,0,0,10,0,0,False,False,True,False,False,,self,t3_1h700uk
+devops,Open to work for DevOps role for free to learn and upskill,Hi i am looking to work under devops engineer to improve my devops skills and to gain handson,Ambitious_Trip7918,1h6i6jf,https://reddit.com/r/devops/comments/1h6i6jf/open_to_work_for_devops_role_for_free_to_learn/,https://www.reddit.com/r/devops/comments/1h6i6jf/open_to_work_for_devops_role_for_free_to_learn/,2024-12-04 15:06:05,0,0.23,0,0,8,0,0,False,False,True,False,False,,self,t3_1h6i6jf

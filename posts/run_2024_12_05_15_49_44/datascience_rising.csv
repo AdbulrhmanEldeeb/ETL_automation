@@ -1,0 +1,42 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,PydanticAI: AI Agent framework for using Pydantic with LLMs,,mehul_gupta1997,1h7ac4z,https://reddit.com/r/datascience/comments/1h7ac4z/pydanticai_ai_agent_framework_for_using_pydantic/,/r/OpenAI/comments/1h7aaxa/pydanticai_ai_agent_framework_for_using_pydantic/,2024-12-05 14:25:44,0,0.44,0,0,0,0,0,False,False,False,False,False,AI,default,t3_1h7ac4z
+datascience,Can anyone who is already working professionally as a data analyst give me links to real data analysis projects ?,"I am on a good level now and I want to practice what I have learned, but most of the projects online are far from practical and I want to do something close to reality
+
+so If anyone here works as a DA or BI , can you please direct me to projects online that you find close to what you work with ?
+
+",Emotional-Rhubarb725,1h72pax,https://reddit.com/r/datascience/comments/1h72pax/can_anyone_who_is_already_working_professionally/,https://www.reddit.com/r/datascience/comments/1h72pax/can_anyone_who_is_already_working_professionally/,2024-12-05 06:16:13,29,0.79,29,0,27,0,0,False,False,True,False,False,Projects,self,t3_1h72pax
+datascience,Data drift detection methods aside from changes in model performance metrics,"Hi all,
+
+As the title implies, I've been relying on (somewhat near) real-time monitoring of model performance metrics to see if data drift has happened in my use-case. 
+
+I'm wondering if you know other more sophisticated/advanced methods to detect data drift. Would love to hear any kind of methods, whether they target detection of covariate/feature drift, target/label drift or concept drift. 
+
+Even better if you can share any Python or R implementations to carry out the above data drift checks.
+
+Thanks in advance!",YsrYsl,1h6wmn2,https://reddit.com/r/datascience/comments/1h6wmn2/data_drift_detection_methods_aside_from_changes/,https://www.reddit.com/r/datascience/comments/1h6wmn2/data_drift_detection_methods_aside_from_changes/,2024-12-05 01:00:25,33,1.0,33,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1h6wmn2
+datascience,Should I leave out job experience?,I worked as a civil engineer for 5 years before getting a Hydroinformatics position (primarily data analysis with some elements of machine learning applied to wastewater) and and am looking to move into an official data science position. I haven’t gotten any hits while applying to various roles but I’ve been leaving out my engineering experience since I don’t want to work in anything related to engineering. Wondering if this is a bad idea and if I should just put the experience back on my resume? ,GoldenPandaCircus,1h70jyq,https://reddit.com/r/datascience/comments/1h70jyq/should_i_leave_out_job_experience/,https://www.reddit.com/r/datascience/comments/1h70jyq/should_i_leave_out_job_experience/,2024-12-05 04:13:31,9,0.76,9,0,10,0,0,False,False,True,False,False,Career | US,self,t3_1h70jyq
+datascience,Google DeepMind Genie 2 : Generate playable 3D video games using text prompt,,mehul_gupta1997,1h71yx9,https://reddit.com/r/datascience/comments/1h71yx9/google_deepmind_genie_2_generate_playable_3d/,/r/OpenAI/comments/1h71xxh/google_deepmind_genie_2_generate_playable_3d/,2024-12-05 05:31:23,7,0.82,7,0,0,0,0,False,False,False,False,False,AI,default,t3_1h71yx9
+datascience,Jane Street Interview Experience,"I'm a senior Data Scientist/Machine Learning Engineer with 7 years of experience and a Kaggle Grandmaster. I just finished the first round of interviews at Jane Street. I think I did okay—I managed to come up with a somewhat decent solution, although I got stuck a few times.
+
+I don’t really understand the rationale behind asking LeetCode-style questions for MLE positions. The interviewer was nice, but when I asked about the responsibilities of MLEs at Jane Street, he had no idea. I’m not sure how to feel about this process, but it doesn’t make much sense to me.",BurnerMcBurnersonne,1h69y9e,https://reddit.com/r/datascience/comments/1h69y9e/jane_street_interview_experience/,https://www.reddit.com/r/datascience/comments/1h69y9e/jane_street_interview_experience/,2024-12-04 06:41:58,202,0.94,202,0,46,0,0,False,False,True,False,False,Career | Europe,self,t3_1h69y9e
+datascience,Which of these two jobs should I take?,"I have the opportunity to take two jobs. One is for a senior BI analyst at a medium-sized sports betting company ($500M revenue) and the other is for a “reporting analyst” position with a large asset management firm (&gt;$1B revenue).
+
+Here is my dilemma: 
+- The BI analyst one involves a lot more data science  methodology and probably offers more direct advancement in this field
+
+- The reporting analyst one is mostly focused on outreach and data collection (calling member banks and whatnot) to report investment data to supervisors 
+
+- however, I would prefer to work in the financial industry long term as I enjoy economic data more and enjoy the idea of working within capital 
+Markets and economic planning. I’m worried that if I take the sports betting role, I wont be able to pivot into this field later on.
+
+I would appreciate any and all advice. 
+",OutrageousPressure6,1h6hwmq,https://reddit.com/r/datascience/comments/1h6hwmq/which_of_these_two_jobs_should_i_take/,https://www.reddit.com/r/datascience/comments/1h6hwmq/which_of_these_two_jobs_should_i_take/,2024-12-04 14:54:52,26,0.81,26,0,14,0,0,False,False,True,False,False,Career | US,self,t3_1h6hwmq
+datascience,Why hasn't forecasting evolved as far as LLMs have?,"Forecasting is still very clumsy and very painful. Even the models built by major companies -- Meta's Prophet and Google's Causal Impact come to mind -- don't really succeed as one-step, plug-and-play forecasting tools. They miss a lot of seasonality, overreact to outliers, and need a lot of tweaking to get right.
+
+It's an area of data science where the models that I build on my own tend to work better than the models I can find.
+
+LLMs, on the other hand, have reached incredible versatility and usability. ChatGPT and its clones aren't necessarily perfect yet, but they're definitely way beyond what I can do. Any time I have a language processing challenge, I know I'm going to get a better result leveraging somebody else's model than I will trying to build my own solution.
+
+Why is that? After all the time we as data scientists have put into forecasting, why haven't we created something that outperforms what an individual data scientist can create?
+
+Or -- if I'm wrong, and that does exist -- what tool does that?",takenorinvalid,1h5z7w7,https://reddit.com/r/datascience/comments/1h5z7w7/why_hasnt_forecasting_evolved_as_far_as_llms_have/,https://www.reddit.com/r/datascience/comments/1h5z7w7/why_hasnt_forecasting_evolved_as_far_as_llms_have/,2024-12-03 21:49:24,188,0.89,188,0,105,0,0,False,False,True,False,False,Discussion,self,t3_1h5z7w7

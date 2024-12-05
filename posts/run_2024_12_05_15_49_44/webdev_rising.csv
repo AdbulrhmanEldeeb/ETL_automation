@@ -1,0 +1,132 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,5s wait using apache on homebrew  ,"I'm working locally on apache/php/mariadb/a few other things installed via homebrew on a new Macbook Air; most of the times (not every time though) requests return in approximately five seconds (at a minimum of course)  
+  
+That is, the browser (or whatever is doing the request, cURL, Postman, etc) hangs for a while, and then the request returns with no apparent issues. The request duration is always like five point something seconds. 
+
+I used to have the same stack on a different mac, same problem. Looked around but found nothing conclusive and it's quite annoying. Other servers (like, working in node) don't cause the same issue. Has anyone experienced anything similar?",_qqg,1h7abcc,https://reddit.com/r/webdev/comments/1h7abcc/5s_wait_using_apache_on_homebrew/,https://www.reddit.com/r/webdev/comments/1h7abcc/5s_wait_using_apache_on_homebrew/,2024-12-05 14:24:43,1,0.67,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1h7abcc
+webdev,"What is this employer asking for? SSR? Or can I hit em with a ""Cannot GET /""",,SkierBeard,1h71d4m,https://reddit.com/r/webdev/comments/1h71d4m/what_is_this_employer_asking_for_ssr_or_can_i_hit/,https://i.redd.it/lb0vliz9oy4e1.png,2024-12-05 04:57:25,113,0.88,113,0,70,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/ar9EC1jBMQNMh8RhWbO-6r2Y-qKIv5FlSEOM1dcddp0.jpg,t3_1h71d4m
+webdev,"Who has a harder time getting a job, junior webdevs or nuclear engineers in germany",Curious,Financial_Extent888,1h6ysvv,https://reddit.com/r/webdev/comments/1h6ysvv/who_has_a_harder_time_getting_a_job_junior/,https://www.reddit.com/r/webdev/comments/1h6ysvv/who_has_a_harder_time_getting_a_job_junior/,2024-12-05 02:44:59,76,0.81,76,0,38,0,0,False,False,True,False,False,,self,t3_1h6ysvv
+webdev,What random website do you own?,Tell me about them all no matter how odd or goofy they may be,Permatheus,1h6zdi2,https://reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/,https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/,2024-12-05 03:12:52,30,0.76,30,0,68,0,0,False,False,True,False,False,Question,self,t3_1h6zdi2
+webdev,What is your level of Website Monitoring? Do you have any?,"For context, I have worked for a website monitoring company for 4 + years - We set up, fully manage and assist companies in their monitoring within a variety of industries from SME's to Enterprise customers. Our USP is monitoring that user journey from the homepage to checkout, detecting issues and Magecart / Data Breaches.
+
+I am interested in the current perception of website monitoring in general, the tools you use and the value you get from them!",sharkbot4000,1h77aqu,https://reddit.com/r/webdev/comments/1h77aqu/what_is_your_level_of_website_monitoring_do_you/,https://www.reddit.com/r/webdev/comments/1h77aqu/what_is_your_level_of_website_monitoring_do_you/,2024-12-05 11:43:22,7,0.89,7,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1h77aqu
+webdev,My chrome extension for TailwindCSS developers just reached 10000 users 🎉,[Extension link](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl),JHjertvik,1h6e6q6,https://reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/,https://www.reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/,2024-12-04 11:49:24,343,0.92,343,0,23,0,0,False,False,True,False,False,,self,t3_1h6e6q6
+webdev,Learndash and FluentCRM API related issue ,"Hi folks,
+
+I am running a WordPress site hosted on Rapyd Cloud and the site uses LearnDash as the LMS, FluentCRM for managing email engagement, and WP Fusion for advanced syncing. I also use Uncanny Automator and LearnDash Notifications for additional functionality.
+
+Here’s what I’m trying to achieve:
+
+When a student completes a topic in LearnDash, I want to log the completion date in a custom field within FluentCRM for that student.
+
+After 7 or 14 days, I want to check if the student has started the next topic in the course.
+
+If no progress is detected within those two weeks, FluentCRM should trigger an automated email encouraging them to continue.
+
+I’ve written a PHP function using LearnDash’s hooks and FluentCRM’s API to update the custom field, but it’s not working. The completion date isn’t being stored in FluentCRM, and I’m unsure if the issue is with the hook, the API call, or something else.
+
+I also reached out to Rapyd Cloud’s support to check if it might be a server-related issue, but they confirmed it’s more of an application-level concern and suggested I check with LearnDash or FluentCRM.
+
+Some questions I have:
+
+Is learndash\_topic\_completed the correct hook for this, or is there a better one to use?
+
+Is there a more reliable way to update FluentCRM custom fields programmatically?
+
+For the follow-up, should I consider using WP Fusion’s tagging features or a cron job for better reliability?
+
+Here are the relevant documentation links I’ve been looking through:
+
+LearnDash Developer Docs
+
+FluentCRM API Docs
+
+WP Fusion Documentation
+
+If anyone has set up something similar or can point out where I might be going wrong, I’d really appreciate your help! Let me know if you need more details.
+
+[https://developers.fluentcrm.com/global-functions/](https://developers.fluentcrm.com/global-functions/)
+
+[https://developers.learndash.com/](https://developers.learndash.com/)",OpheliaOoze,1h75ipk,https://reddit.com/r/webdev/comments/1h75ipk/learndash_and_fluentcrm_api_related_issue/,https://www.reddit.com/r/webdev/comments/1h75ipk/learndash_and_fluentcrm_api_related_issue/,2024-12-05 09:39:05,5,0.86,5,0,0,0,0,False,False,True,False,False,Question,self,t3_1h75ipk
+webdev,"New Employer doesn't use any Source control, or Task Tracking Tools","I've been out of work for a whole year and barely getting by on freelance work. But hooray for me, I finally got a new job! Day 2 I learn that a team of 3 ""Seniors"" are working in the same projects without Git, and using staging for as a dev site \*pikachu face\*. One of them has already mentioned that his work has been overwritten by another developer. Next, I learn that the team coordinates their tasks via email and Gchat. I struggle to see how this team could be productive at all without these tools. I'm skeptical they want me to come in and fix all their bullshit. I need the money desperately and I can't quit. No clue what I'm gonna do, but this place appears to be career death.",Armitage1,1h6ggun,https://reddit.com/r/webdev/comments/1h6ggun/new_employer_doesnt_use_any_source_control_or/,https://www.reddit.com/r/webdev/comments/1h6ggun/new_employer_doesnt_use_any_source_control_or/,2024-12-04 13:51:31,207,0.94,207,0,141,0,0,False,False,True,False,False,,self,t3_1h6ggun
+webdev,What do you use for launching your website? Vercel? Cloudflare?,"Hey,
+
+  
+I'm just asking what platforms are you using to launch your website? Cause I have been using both Vercel and Cloudflare Pages recently, and I think that Vercel gives more convenience while Cloudflare offers better features for the free tier.",Status_Condition1363,1h757nq,https://reddit.com/r/webdev/comments/1h757nq/what_do_you_use_for_launching_your_website_vercel/,https://www.reddit.com/r/webdev/comments/1h757nq/what_do_you_use_for_launching_your_website_vercel/,2024-12-05 09:15:53,6,0.88,6,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h757nq
+webdev,"Is Keycloak strictly for IdP, or can it be used for simpler applications?","Sorry for another auth question but I've narrowed down to 7 auth providers and I need some advice to move forward. Im building a b2b solution and need to incorporate SSO / SAML in addition to the standard OIDC, 2FA, and passwordless solutions out there:
+
+ &amp;nbsp;
+
+Clerk (the nextjs of auth. pricey)
+
+firebase (not as flashy but cheaper to run)
+
+authJS (seems basic, needs boxyhq for SAML)
+
+passport (old reliable, also lots of DIY which I might fuck up)
+
+ &amp;nbsp;
+
+Then there's these 3 idp providers:
+
+Authentik Zitadel Keycloak
+
+Of the 3 keycloak is the most trusted, but Im not sure whether this is overkill for someone that isn't running multiple apps. Ive seen them mentioned a bunch in r/selfhosted, but I don't need to be a Identity Provider. I just need to be a Service Provider that can tie in with SAML. I also need to incorporate multi-tenancy, but Im not sure whether this is something I should delegate to my auth provider, or code myself.
+
+Furthermore, I see both Zitadel and Authentik offer open source self-hosting, but ultimately they're investor backed, so should I just forget about them and stick with Keycloak?
+
+TIA
+
+ &amp;nbsp;
+
+EDIT: And please no ""im biased cause i work there but [insert company promotion] is a great tool you should try""",Agitated_Syllabub346,1h7bb0v,https://reddit.com/r/webdev/comments/1h7bb0v/is_keycloak_strictly_for_idp_or_can_it_be_used/,https://www.reddit.com/r/webdev/comments/1h7bb0v/is_keycloak_strictly_for_idp_or_can_it_be_used/,2024-12-05 15:09:55,1,1.0,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h7bb0v
+webdev,Thoughts on a Headless CMS with a WYSIWYG Editor like Notion,"I've developed a powerful editor using the Lexical Framework, featuring markdown shortcuts, rich text formatting, and a block-based, drag-and-drop interface. The available blocks include Columns, Tables, Tabs, Cards, Panels, Callouts, and more.
+
+This editor is already integrated into a free web app I created, and I've received a few requests to add JSON export functionality so users can integrate it into their own websites.
+
+Before I commit to building a headless CMS with this editor as the foundation for the UI, I’d like to know:
+
+Would you find value in a headless CMS paired with an editor like this?",aksuta,1h7b8nw,https://reddit.com/r/webdev/comments/1h7b8nw/thoughts_on_a_headless_cms_with_a_wysiwyg_editor/,https://www.reddit.com/r/webdev/comments/1h7b8nw/thoughts_on_a_headless_cms_with_a_wysiwyg_editor/,2024-12-05 15:07:03,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h7b8nw
+webdev,The Rise of AgentWeb,"This is something I have been thinking about recently. Basically the idea how the Web is going to evolve in the future with AI. You can read the whole thing at my post, but just to flag a few things here:
+
+""The web is splitting into two distinct futures: one driven by relentless AI agents, the other shaped by human hands. It fills me with both excitement and sadness - excited by the possibilities of AI-driven efficiency, yet nostalgic for the craftsmanship of a human touch. Let's dive into what this means for the future of web development and ownership.
+
+# The Rise of AgentWeb
+
+The AgentWeb represents the industrialisation of web development, where AI agents autonomously build, maintain, and optimise websites at scale. These digital properties will be born in vast WebFarms (remember Bitcoin farms?) where AI systems handle everything from design decisions to content optimisation and user experience refinement.
+
+For website owners, this means hands-off management with AI handling:
+
+* Complete brand identity creation and evolution
+* Content creation and SEO optimisation
+* Automated maintenance and security updates
+* Real-time performance monitoring and optimisation
+* User experience refinement through continuous testing
+* Integrated social media presence and content distribution
+
+# The Future Renaissance of ArtisanWeb
+
+On the flip side, we might be witnessing a renaissance of handcrafted websites. Like craft beer versus mass-produced lagers, ArtisanWeb represents the boutique approach to web development. I can imagine content on the web being labeled Handcrafted by a Human or No AI Was Used in Creating This Content.
+
+The interesting thing is that while handcrafted web will be proud to display these labels, web farms would not do the opposite: AI Generated Content. They are likely to try to fake that they are really hand-made content. In the same way [browsers once faked their identities to gain compatibility](https://webaim.org/blog/user-agent-string-history/?ref=mantcz.com), AI-generated websites might strive to mimic human craftsmanship to gain trust—a new battle for authenticity in the AI driven digital age.""
+
+I am curious to hear what people think.
+
+Link to the full post:  
+[https://www.mantcz.com/blog/the-coming-bifurcation-of-the-web-agentweb-vs-artisanweb](https://www.mantcz.com/blog/the-coming-bifurcation-of-the-web-agentweb-vs-artisanweb)",mantcz,1h7b5c3,https://reddit.com/r/webdev/comments/1h7b5c3/the_rise_of_agentweb/,https://www.reddit.com/r/webdev/comments/1h7b5c3/the_rise_of_agentweb/,2024-12-05 15:02:56,0,0.5,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h7b5c3
+webdev,How do I get rid of these three.js rendering artifacts? Only shows up on mobile,,scottshambaugh,1h71kdk,https://reddit.com/r/webdev/comments/1h71kdk/how_do_i_get_rid_of_these_threejs_rendering/,https://i.redd.it/a3tn6rviqy4e1.png,2024-12-05 05:08:13,6,0.8,6,0,5,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/nzKsaKzmWJgryVFqtbgx8KCHhM12rzNlQKo8O3eBNgI.jpg,t3_1h71kdk
+webdev,API: Contact us for pricing,genuinely don't understand this business model. is it usually to in good faith create a bespoke pricing agreement with each customer? why would you create so much friction on purpose when you have competitors. let me try your api. show me the fucking price. im not going to fill out a web form and wait 6 days to talk to a sales person. ,cryptoglyphics,1h6y5oi,https://reddit.com/r/webdev/comments/1h6y5oi/api_contact_us_for_pricing/,https://www.reddit.com/r/webdev/comments/1h6y5oi/api_contact_us_for_pricing/,2024-12-05 02:13:32,11,0.69,11,0,7,0,0,False,False,True,False,False,,self,t3_1h6y5oi
+webdev,Looking for a UX Designer to Collaborate on a School Timetable App,"Hi, I’m Luca, a 17-year-old computer science student passionate about web development (HTML/CSS/JavaScript). I’m rebuilding an app I created to manage school subjects and class schedules easily and want to make it more accessible, intuitive, and user-friendly for everyone.
+
+I’m looking for a teammate who knows:
+
+* UX design principles
+* App accessibility
+* Psychology of human-app interaction
+* Good UI design practices (Figma experience is a bonus!)
+
+This is a non-monetized, open-source project, so no one is getting paid, but your contributions will be fully credited in the app, making it a strong portfolio piece for us both.
+
+If you're interested, comment below, and we’ll connect to discuss the project further. Communication will be in English.
+
+Let’s build something great together!",Flying_Pizzaaa,1h78w53,https://reddit.com/r/webdev/comments/1h78w53/looking_for_a_ux_designer_to_collaborate_on_a/,https://www.reddit.com/r/webdev/comments/1h78w53/looking_for_a_ux_designer_to_collaborate_on_a/,2024-12-05 13:14:20,0,0.5,0,0,0,0,0,False,False,True,False,False,Question,self,t3_1h78w53

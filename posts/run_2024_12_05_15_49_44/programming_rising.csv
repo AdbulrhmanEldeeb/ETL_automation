@@ -1,0 +1,90 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+programming,Am I Stuck in Shiny Object Syndrome?,"I’ve been learning programming for a while and wanted some advice.
+
+I started with JavaScript and spent about 6 months learning it and building projects. Recently, I started learning C to understand low-level concepts like memory management and pointers. My goal is to reach an intermediate level, build some projects, and then eventually move on to learning Rust (though I’m still figuring out exactly why I want to learn it).
+
+At the same time, I plan to keep improving my JavaScript/TypeScript skills and continue building web projects.
+
+Does this sound like a solid learning path, or am I just jumping around too much? How do you balance learning new languages while deepening your skills in the ones you already know?",fizzy-piss42,1h7ao53,https://reddit.com/r/programming/comments/1h7ao53/am_i_stuck_in_shiny_object_syndrome/,https://en.m.wikipedia.org/wiki/Shiny_object_syndrome,2024-12-05 14:41:25,1,0.53,1,0,11,0,0,False,False,False,False,False,,,t3_1h7ao53
+programming,Google app-script help,"Hi, I want to take a piece of data from a google sheets cell and then post it to discord- this part I have working- its the moving down 1/2 rows each time the program is run(e.g when I click run it outputs data in cell a in row 1, program ends then click the run button again outputs cell a in row 2 etc etc - I tried coding a counter which didn’t work- I have no experience in JavaScript - got some experience in Python and Lua… please can someone help me with this probably simple task?
+
+
+I have posted the code below obviously removed the discord webhook- there are indented lines - probably not showing as this is a copy and paste on a phone…
+Thanks
+
+
+function postToDiscord(paradenightuniform) {
+
+  const url=""CLASSIFIED""
+
+
+
+  const formData = {
+
+      content: ""The uniform tonight is "" + paradenightuniform
+
+    }
+
+  
+
+
+  const options = {
+
+  'method' : 'post',
+
+  'payload' : formData
+
+  }
+
+
+  const res= UrlFetchApp.fetch(url,options)
+
+
+}
+
+
+function postfromspreadsheet() {
+
+
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+
+  var sheet = ss.getSheets()[1];
+
+  var cell = sheet.getRange(""D3"");
+
+  var paradenightuniform = cell.getValue()
+
+   console.log(paradenightuniform)
+
+  
+
+  postToDiscord(paradenightuniform)
+
+
+}
+
+
+Ive attached a screenshot of the code",Infiniteplanes,1h7ahe8,https://reddit.com/r/programming/comments/1h7ahe8/google_appscript_help/,https://drive.google.com/file/d/1hNs1rWh0efR_PRBxCoD4CsC_PpHCIP2C/view?usp=drivesdk,2024-12-05 14:32:24,0,0.4,0,0,0,0,0,False,False,False,False,False,,,t3_1h7ahe8
+programming,Interviews with over 20 teams revealed that the main issue is cognitive load,,RobinCrusoe25,1h7a0hl,https://reddit.com/r/programming/comments/1h7a0hl/interviews_with_over_20_teams_revealed_that_the/,https://github.com/zakirullin/cognitive-load,2024-12-05 14:10:15,25,0.91,25,0,9,0,0,False,False,False,False,False,,,t3_1h7a0hl
+programming,"Cerbos PDP – OSS scalable authorization (ABAC/RBAC, language-agnostic, stateless, self-hosted + many updates)",,West-Chard-1474,1h79e2p,https://reddit.com/r/programming/comments/1h79e2p/cerbos_pdp_oss_scalable_authorization_abacrbac/,https://github.com/cerbos/cerbos,2024-12-05 13:39:59,23,0.87,23,0,3,0,0,False,False,False,False,False,,,t3_1h79e2p
+programming,Tried Explaining ML Concepts using Animations... How's it,,python4geeks,1h73si9,https://reddit.com/r/programming/comments/1h73si9/tried_explaining_ml_concepts_using_animations/,https://youtu.be/-TA7orMJuJ4?si=2BS1Bs2GpYukM35P,2024-12-05 07:30:08,46,0.75,46,0,6,0,0,False,False,False,False,False,,,t3_1h73si9
+programming,Lessons learned from running Redis at scale,,qu33ksilver,1h791hk,https://reddit.com/r/programming/comments/1h791hk/lessons_learned_from_running_redis_at_scale/,https://mattermost.com/blog/lessons-learned-running-redis-at-scale/,2024-12-05 13:21:50,9,0.85,9,0,0,0,0,False,False,False,False,False,,,t3_1h791hk
+programming,Analyzing APT36’s ElizaRAT: Evolution of Espionage Techniques,,matbaylaw,1h762w2,https://reddit.com/r/programming/comments/1h762w2/analyzing_apt36s_elizarat_evolution_of_espionage/,https://www.reco.ai/blog/how-apt36-elizarat-redefines-cyber-espionage,2024-12-05 10:20:18,9,0.8,9,0,0,0,0,False,False,False,False,False,,,t3_1h762w2
+programming,The Cloud Container Iceberg - At least 105 ways to run a container in the cloud,,agbell,1h6i64w,https://reddit.com/r/programming/comments/1h6i64w/the_cloud_container_iceberg_at_least_105_ways_to/,https://www.pulumi.com/blog/cursed-container-iceberg/,2024-12-04 15:05:38,240,0.91,240,0,54,0,0,False,False,False,False,False,,,t3_1h6i64w
+programming,Zip archives creation in 219 loc of JavaScript (no dependencies),,paulcap,1h77mum,https://reddit.com/r/programming/comments/1h77mum/zip_archives_creation_in_219_loc_of_javascript_no/,https://github.com/PaulCapron/pwa2uwp/blob/master/src/zip.js,2024-12-05 12:03:39,4,0.67,4,0,0,0,0,False,False,False,False,False,,,t3_1h77mum
+programming,Minecraft server written in C++,,Large_Panic2306,1h6hmhi,https://reddit.com/r/programming/comments/1h6hmhi/minecraft_server_written_in_c/,https://github.com/Noeli14/MCppServer,2024-12-04 14:42:34,112,0.9,112,0,33,0,0,False,False,False,False,False,,,t3_1h6hmhi
+programming,"All 24 new JEPs for JDK 24: Quantum Cryptography, Garbage Collectors, and a lot of cleanups",,ArturSkowronski,1h7c36t,https://reddit.com/r/programming/comments/1h7c36t/all_24_new_jeps_for_jdk_24_quantum_cryptography/,https://www.jvm-weekly.com/p/all-24-new-jeps-for-jdk-24-quantum?utm_campaign=post&amp;utm_medium=web,2024-12-05 15:44:03,1,1.0,1,0,0,0,0,False,False,False,False,False,,,t3_1h7c36t
+programming,MercifulStalinSort: An experimental new sorting algorithm inspired by the notorious Stalin Sort.,,r-kataria,1h6kgxt,https://reddit.com/r/programming/comments/1h6kgxt/mercifulstalinsort_an_experimental_new_sorting/,https://github.com/r-kataria/MercifulStalinSort,2024-12-04 16:38:34,122,0.87,122,0,4,0,0,False,False,False,False,False,,,t3_1h6kgxt
+programming,The best metal song for programmers is finally out guys !!,,Ouraios,1h6ddqa,https://reddit.com/r/programming/comments/1h6ddqa/the_best_metal_song_for_programmers_is_finally/,https://www.youtube.com/watch?v=yup8gIXxWDU,2024-12-04 10:55:33,178,0.77,178,0,71,0,0,False,False,False,False,False,,,t3_1h6ddqa
+programming,Build a Quiz App with Django Rest Framework &amp; Streamlit | Beginner-Friendly Tutorial | Brokly Master,,Possible-Horror-4741,1h7au1x,https://reddit.com/r/programming/comments/1h7au1x/build_a_quiz_app_with_django_rest_framework/,https://youtu.be/JhquwDXRz9I,2024-12-05 14:49:05,0,0.33,0,0,0,0,0,False,False,False,False,False,,,t3_1h7au1x
+programming,"Custom C++ allocators to improve cache locality for lists, maps, …",,hmoein,1h79xuc,https://reddit.com/r/programming/comments/1h79xuc/custom_c_allocators_to_improve_cache_locality_for/,https://github.com/hosseinmoein/Cougar,2024-12-05 14:06:43,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h79xuc
+programming,The Future of Building in Open Source,,briandfoy,1h79r6s,https://reddit.com/r/programming/comments/1h79r6s/the_future_of_building_in_open_source/,https://www.youtube.com/watch?v=HHvk3auwz2g,2024-12-05 13:58:06,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h79r6s
+programming,Native dual-range input,,LinearArray,1h797v0,https://reddit.com/r/programming/comments/1h797v0/native_dualrange_input/,https://muffinman.io/blog/native-dual-range-input/,2024-12-05 13:30:57,1,1.0,1,0,0,0,0,False,False,False,False,False,,,t3_1h797v0
+programming,Certificate Authorities and the Fragility of Internet Safety,,ketralnis,1h6mv35,https://reddit.com/r/programming/comments/1h6mv35/certificate_authorities_and_the_fragility_of/,https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html,2024-12-04 18:12:24,31,0.85,31,0,1,0,0,False,False,False,False,False,,,t3_1h6mv35
+programming,CLI tool for collecting file contents and writing them to one file,,0xideas,1h77orp,https://reddit.com/r/programming/comments/1h77orp/cli_tool_for_collecting_file_contents_and_writing/,https://crates.io/crates/dirscribe,2024-12-05 12:06:55,0,0.33,0,0,1,0,0,False,False,False,False,False,,,t3_1h77orp
+programming,Hour Of Code 2024 Is About To Kick Off,,pmz,1h7brci,https://reddit.com/r/programming/comments/1h7brci/hour_of_code_2024_is_about_to_kick_off/,https://www.i-programmer.info/news/150-training-a-education/17664-hour-of-code-2024-is-about-to-kick-off.html,2024-12-05 15:29:54,0,0.25,0,0,0,0,0,False,False,False,False,False,,,t3_1h7brci
+programming,The State Of Vue.js 2025 survey is live! Vue developers–your moment has arrived!,,estatarde,1h76ryx,https://reddit.com/r/programming/comments/1h76ryx/the_state_of_vuejs_2025_survey_is_live_vue/,https://forms.gle/52j8BorbGyidJp4q9,2024-12-05 11:09:12,0,0.4,0,0,0,0,0,False,False,False,False,False,,,t3_1h76ryx
+programming,Top Trends Shaping the Future of Web and Mobile App Development Companies,,Disastrous_Toe6656,1h76bvx,https://reddit.com/r/programming/comments/1h76bvx/top_trends_shaping_the_future_of_web_and_mobile/,https://www.reddit.com/user/Disastrous_Toe6656/comments/1h76aoa/top_trends_shaping_the_future_of_web_and_mobile/?utm_source=post_insights&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button,2024-12-05 10:38:24,0,0.4,0,0,0,0,0,False,False,False,False,False,,,t3_1h76bvx
+programming,How Chrome doubled its Speedometer scores on Android,,feross,1h6jjou,https://reddit.com/r/programming/comments/1h6jjou/how_chrome_doubled_its_speedometer_scores_on/,https://blog.chromium.org/2024/12/doubling-speedometer-scores-android.html,2024-12-04 16:01:40,29,0.79,29,0,1,0,0,False,False,False,False,False,,,t3_1h6jjou
+programming,CheerpX 1.0: high performance x86 virtualization in the browser via WebAssembly,,alexp_lt,1h6h3bs,https://reddit.com/r/programming/comments/1h6h3bs/cheerpx_10_high_performance_x86_virtualization_in/,https://cheerpx.io/blog/cx-10,2024-12-04 14:19:17,31,0.85,31,0,14,0,0,False,False,False,False,False,,,t3_1h6h3bs
+programming,8 months of OCaml after 8 years of Haskell in production,,ketralnis,1h6mv9u,https://reddit.com/r/programming/comments/1h6mv9u/8_months_of_ocaml_after_8_years_of_haskell_in/,https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html,2024-12-04 18:12:38,17,0.81,17,0,3,0,0,False,False,False,False,False,,,t3_1h6mv9u

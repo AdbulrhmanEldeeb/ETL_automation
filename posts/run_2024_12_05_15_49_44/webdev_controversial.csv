@@ -1,0 +1,395 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,API: Contact us for pricing,genuinely don't understand this business model. is it usually to in good faith create a bespoke pricing agreement with each customer? why would you create so much friction on purpose when you have competitors. let me try your api. show me the fucking price. im not going to fill out a web form and wait 6 days to talk to a sales person. ,cryptoglyphics,1h6y5oi,https://reddit.com/r/webdev/comments/1h6y5oi/api_contact_us_for_pricing/,https://www.reddit.com/r/webdev/comments/1h6y5oi/api_contact_us_for_pricing/,2024-12-05 02:13:32,10,0.67,10,0,7,0,0,False,False,True,False,False,,self,t3_1h6y5oi
+webdev,How to load parts of a website at a different time? (like Reddit),"With reddit, when a page loads (on a post)
+
+* Left side loads in (menu items)
+* Then notifications will show (the notifications in red) 
+* Then the comments
+
+All at different times.
+
+Is this done with await/asyncs?
+
+So each section loads in when they have the data?
+
+How would a quick snippet look?
+
+Thanks",TheJesterOfHyrule,1h6wk20,https://reddit.com/r/webdev/comments/1h6wk20/how_to_load_parts_of_a_website_at_a_different/,https://www.reddit.com/r/webdev/comments/1h6wk20/how_to_load_parts_of_a_website_at_a_different/,2024-12-05 00:57:01,2,0.58,2,0,6,0,0,False,False,True,False,False,,self,t3_1h6wk20
+webdev,"Over 1,000 cards sent in less than two days on our Christmas event site !","Hey everyone!
+
+Just wanted to share some exciting news that has us over the moon: our website [christmas.riven.ch](https://christmas.riven.ch) has just surpassed 1,000 cards sent in less than 48 hours!
+
+This is the second edition of this project we’ve launched for the holiday season, and seeing it go viral and so engaging is an incredible experience for us being such a small agency. It's really heartwarming to see the diversity and sincerity of the messages: warm wishes, heartfelt thoughts, and even touching stories coming from all over the world.
+
+Last year, we wrapped up December with around 1,400 cards in total. This year, we’ve already hit a thousand in just two days! We’re excited to see how far it’ll go.
+
+We'll surely post some statistics about the cards if people are interested, let us know!
+
+A huge thank you to everyone who’s participated, shared, and helped spread this magical Christmas spirit online. If you’d like to send a card or just check out the project, feel free to visit the website.
+
+Don't hesitate to make any comment on the website or feedback if you feel it could be improved. :)
+
+Happy holidays, everyone! 🎅",sfrast,1h6pkf5,https://reddit.com/r/webdev/comments/1h6pkf5/over_1000_cards_sent_in_less_than_two_days_on_our/,https://www.reddit.com/r/webdev/comments/1h6pkf5/over_1000_cards_sent_in_less_than_two_days_on_our/,2024-12-04 20:00:28,0,0.4,0,0,6,0,0,False,False,True,False,False,,self,t3_1h6pkf5
+webdev,Would you consider using an API for image optimization? Looking for feedback,"We’ve had good success with our online image upscaler, so we decided to launch an API version ([https://ai.nero.com/ai-api](https://ai.nero.com/ai-api)) with features like upscaling, denoising, and compression. But so far, we’re not getting much interest.
+
+If you’re a developer or work with images, would you consider using an API like this? And if not, where do you think the right audience for this API is?
+
+Any feedback or thoughts would be really appreciated!",Safe_Mousse_5660,1h7380b,https://reddit.com/r/webdev/comments/1h7380b/would_you_consider_using_an_api_for_image/,https://www.reddit.com/r/webdev/comments/1h7380b/would_you_consider_using_an_api_for_image/,2024-12-05 06:50:31,1,0.6,1,0,7,0,0,False,False,True,False,False,,self,t3_1h7380b
+webdev,Would you use this Prototype Tool,"Hi guys, I am building this online tool that is very similar to codepen and other like it, except I needed some features so I made my own clone.
+
+Added festures:
+- Built in AI chats with conversation history, branching, and support for local ollama integration 
+- straightforward Versioning system
+- dev and prod code deployment 
+- ability to host single file (js or css) or complete build
+- Notes sections to keep track of todos, write docs, or any other note tasks.
+- multiple projects
+- cdn management 
+- ability to preview work as you code in a separate tab
+
+I see a tool like this can be very useful, but I'm very biase since I made this baby.
+
+
+What are your thoughts?",DotElectrical155,1h6j6yu,https://reddit.com/r/webdev/comments/1h6j6yu/would_you_use_this_prototype_tool/,https://www.reddit.com/r/webdev/comments/1h6j6yu/would_you_use_this_prototype_tool/,2024-12-04 15:47:41,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h6j6yu
+webdev,How to take Wix code and host it independently.,"I've got a website that I designed through Wix. The domain is registered through Hostinger and Wix connects it for me. Wix bills me 150€ yearly approx. I've done it this way for several years now.
+
+Can anyone point me to a tutorial on how to take the code of the website and just do it myself? I imagine it can't be insanely hard. I imagine it would involve taking the source code of the page, collecting the image resources, and changing their locations in the code. Maybe I'm way off and there would be a lot more to mess with. I'm not a programmer, per se, but I do have fundamental knowledge of things.
+
+If anyone can point me in the right direction, I'd appreciate it!
+
+EDIT: Thanks for the feedback. It is not doable for me and, in general, a bad idea.",teddade,1h74qtm,https://reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/,https://www.reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/,2024-12-05 08:40:27,0,0.33,0,0,13,0,0,False,False,True,False,False,,self,t3_1h74qtm
+webdev,I need a full stack developer curriculum,"I need at least a basic curriculum to become a full stack developer from scratch. (Actually, I have some frontend and backend experience before, but I haven't done anything related to them for about 1-2 years.
+
+As most of you know, there is a repository called 100 days of frontend on Github (https://github.com/nas5w/100-days-of-code-frontend), but I think it is not very up-to-date anymore, and also this resource is only focused on frontend. What do you think about this repository, is it up to date? Should I start with this or would you have a different recommendation for me?",Ced3j,1h72udv,https://reddit.com/r/webdev/comments/1h72udv/i_need_a_full_stack_developer_curriculum/,https://www.reddit.com/r/webdev/comments/1h72udv/i_need_a_full_stack_developer_curriculum/,2024-12-05 06:25:28,0,0.38,0,0,23,0,0,False,False,True,False,False,Question,self,t3_1h72udv
+webdev,software developer doesn't know where to start to fix existing wordpress page,"Hello, for context I am frontend developer and have never done anything with wordpress and it's a shame to admit, but I have never hosted any webpage (or maybe I did when I was studying, but can't remember).
+
+My friend told me that his wordpress webpage has issues and is showing some sort of errors when he tries to edit in cms (content management system) and asked me to fix those issues without ruining page SEO (so that google doesn't show it lower in results) and without losing any content that was added through cms, because my friend had previous experience when developer deleted all content that was added before.
+
+I'm not sure where to start... Right now I just asked him for credentials to access cms.
+
+Where should I start? What information do I need from my client (friend)? Is it possible and should I make some sort of backup of the page? Bonus question - can I adjust styling of that page and do some layout changes without ruining content added through cms or messing up current google result position?
+
+TLDR:
+
+Friend asked to fix existing wordpress page without ruining existing page or content that was added with CMS, but I don't know where to start.",CucumberNational,1h6k9s1,https://reddit.com/r/webdev/comments/1h6k9s1/software_developer_doesnt_know_where_to_start_to/,https://www.reddit.com/r/webdev/comments/1h6k9s1/software_developer_doesnt_know_where_to_start_to/,2024-12-04 16:30:35,25,0.71,25,0,53,0,0,False,False,True,False,False,,self,t3_1h6k9s1
+webdev,How are agencies doing nowadays?,"Hey everyone this was just something that came to mind, but with the rise of website builders and places like up work with people charging Pennie’s for website designs etc, how are agencies charging high prices for websites? Other than that what clients are they specifically looking for?",Zepp011,1h6nll7,https://reddit.com/r/webdev/comments/1h6nll7/how_are_agencies_doing_nowadays/,https://www.reddit.com/r/webdev/comments/1h6nll7/how_are_agencies_doing_nowadays/,2024-12-04 18:41:47,9,0.71,9,0,36,0,0,False,False,True,False,False,,self,t3_1h6nll7
+webdev,How to build a website for a fitness coach?,"I want to make a website for fun that is a fintess coach website that has a pay wall todee the videos and meal preps.  I've made a lot of static websires using html, css, JavaScript, barba.J's, jQuery etc. But haven't mess with any backend or anything. What would be the best way to build something like this? ",josephadam1,1h70brh,https://reddit.com/r/webdev/comments/1h70brh/how_to_build_a_website_for_a_fitness_coach/,https://www.reddit.com/r/webdev/comments/1h70brh/how_to_build_a_website_for_a_fitness_coach/,2024-12-05 04:01:25,0,0.38,0,0,6,0,0,False,False,True,False,False,Question,self,t3_1h70brh
+webdev,"Just got a work-provided laptop, what tools should I set up to make my work easier?","I already have installed and set up the following, and working on some other tools I use, but I also wanted to ask others in case I can find other tools I don't know about that would be helpful. Thank you!
+
+PS: I am using a 14"" Apple MBP M4 with 16GB RAM.
+
+\- NVM  
+\- eslint  
+\- iTerm2  
+\- OhMyZsh  
+\- zshrc configs  
+\- VSCode",papichulo916,1h6q5y0,https://reddit.com/r/webdev/comments/1h6q5y0/just_got_a_workprovided_laptop_what_tools_should/,https://www.reddit.com/r/webdev/comments/1h6q5y0/just_got_a_workprovided_laptop_what_tools_should/,2024-12-04 20:24:23,1,0.56,1,0,15,0,0,False,False,True,False,False,,self,t3_1h6q5y0
+webdev,Windows 95 Portfolio :),"https://preview.redd.it/mnb57x81rv4e1.png?width=1908&amp;format=png&amp;auto=webp&amp;s=76584f4bff7019422d277fa16f23b91c84a34032
+
+Just finished off with a portfolio based off windows 95 .. Not like any other , it has everything an OS can do .. Games browser , drag and drop , music player , paint , Office , email , Skills , Projects .. even CMD and Shutdown and Startup..
+
+Will focus on making it more better .. Adding the Folder System and other thing in other update..
+
+But what are your thoughts on it guys 👾
+
+  
+Github : [https://github.com/DWE-CLOUD/Win95-Ao](https://github.com/DWE-CLOUD/Win95-Ao)
+
+Live link : [https://win95-ao.vercel.app/](https://win95-ao.vercel.app/)",DWE-Hacker,1h6odiv,https://reddit.com/r/webdev/comments/1h6odiv/windows_95_portfolio/,https://www.reddit.com/r/webdev/comments/1h6odiv/windows_95_portfolio/,2024-12-04 19:12:13,4,0.67,4,0,14,0,0,False,False,True,False,False,Resource,https://b.thumbs.redditmedia.com/7349O4H0uxKqwXTobd_9u7VJhJkT443OqmAypDpwzBU.jpg,t3_1h6odiv
+webdev,"Who has a harder time getting a job, junior webdevs or nuclear engineers in germany",Curious,Financial_Extent888,1h6ysvv,https://reddit.com/r/webdev/comments/1h6ysvv/who_has_a_harder_time_getting_a_job_junior/,https://www.reddit.com/r/webdev/comments/1h6ysvv/who_has_a_harder_time_getting_a_job_junior/,2024-12-05 02:44:59,77,0.81,77,0,38,0,0,False,False,True,False,False,,self,t3_1h6ysvv
+webdev,What random website do you own?,Tell me about them all no matter how odd or goofy they may be,Permatheus,1h6zdi2,https://reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/,https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/,2024-12-05 03:12:52,35,0.78,35,0,68,0,0,False,False,True,False,False,Question,self,t3_1h6zdi2
+webdev,I want to start my journey on web dev and i want your opinion on this,"I asked chat gpt about skills i can learn , here's what he told me about web dev :
+
+
+
+# Web Development (Full Stack Development) Summary
+
+* **High Paying**: Entry-level salaries range from $50,000 to $70,000, with potential to earn $100,000+ as you gain experience.
+* **Self-Learning**: Accessible field with many free resources, tutorials, and courses to learn by yourself. You can start building projects quickly.
+* **Quick to Start**: After a few months of learning, you can begin working as a junior developer and land your first freelance job in 3–6 months.
+* **Flexible Work**: Offers many freelance and remote work opportunities, allowing you to work with international clients.
+* **Build a Portfolio Quickly**: Start with small projects like personal websites or landing pages, then expand as you gain more skills.Web Development (Full Stack Development) SummaryHigh Paying: Entry-level salaries range from $50,000 to $70,000, with potential to earn $100,000+ as you gain experience. Self-Learning: Accessible field with many free resources, tutorials, and courses to learn by yourself. You can start building projects quickly. Quick to Start: After a few months of learning, you can begin working as a junior developer and land your first freelance job in 3–6 months. Flexible Work: Offers many freelance and remote work opportunities, allowing you to work with international clients. Build a Portfolio Quickly: Start with small projects like personal websites or landing pages, then expand as you gain more skills.",tomatoaliens,1h6p459,https://reddit.com/r/webdev/comments/1h6p459/i_want_to_start_my_journey_on_web_dev_and_i_want/,https://www.reddit.com/r/webdev/comments/1h6p459/i_want_to_start_my_journey_on_web_dev_and_i_want/,2024-12-04 19:42:13,0,0.3,0,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1h6p459
+webdev,Political Lies Website,"I am thinking of creating a website that highlights the lies from my government, i want it to ideally be built on wordpress, as i can use an Ai tool to post the content automatically and allow it to grow with minimal interaction.  
+I don't want to host it on my normal web servers i use, i would like some way of having anonymity and lack of traceability etc.  
+
+
+It is not something have considered before, what would be your way of doing this? Should I host in a country that has no reciprocal arrangements with my country ?
+
+  
+I welcome any suggestions.",NoBig2197,1h76d1m,https://reddit.com/r/webdev/comments/1h76d1m/political_lies_website/,https://www.reddit.com/r/webdev/comments/1h76d1m/political_lies_website/,2024-12-05 10:40:47,0,0.25,0,0,9,0,0,False,False,True,False,False,,self,t3_1h76d1m
+webdev,Create website help ,"Hello I’m a young entrepreneur starting a general contracting company I want a website that looks like 
+
+https://www.wgyates.com
+
+If you can help me please hmu I’m willing to pay ",Pako_El_Loko,1h734us,https://reddit.com/r/webdev/comments/1h734us/create_website_help/,https://www.reddit.com/r/webdev/comments/1h734us/create_website_help/,2024-12-05 06:44:33,0,0.29,0,0,3,0,0,False,False,True,False,False,Question,self,t3_1h734us
+webdev,"Everyone Loves Policy as Code, No One Wants to Write Rego",,Permit_io,1h6kx6b,https://reddit.com/r/webdev/comments/1h6kx6b/everyone_loves_policy_as_code_no_one_wants_to/,https://www.permit.io/blog/no-one-wants-to-write-rego,2024-12-04 16:56:39,3,0.71,3,0,0,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/K0XMIAotb1OD7mEShZeKyGfSS2HFxfPPT2C-5LCMSes.jpg,t3_1h6kx6b
+webdev,5s wait using apache on homebrew  ,"I'm working locally on apache/php/mariadb/a few other things installed via homebrew on a new Macbook Air; most of the times (not every time though) requests return in approximately five seconds (at a minimum of course)  
+  
+That is, the browser (or whatever is doing the request, cURL, Postman, etc) hangs for a while, and then the request returns with no apparent issues. The request duration is always like five point something seconds. 
+
+I used to have the same stack on a different mac, same problem. Looked around but found nothing conclusive and it's quite annoying. Other servers (like, working in node) don't cause the same issue. Has anyone experienced anything similar?",_qqg,1h7abcc,https://reddit.com/r/webdev/comments/1h7abcc/5s_wait_using_apache_on_homebrew/,https://www.reddit.com/r/webdev/comments/1h7abcc/5s_wait_using_apache_on_homebrew/,2024-12-05 14:24:43,1,0.67,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1h7abcc
+webdev,Looking for a UX Designer to Collaborate on a School Timetable App,"Hi, I’m Luca, a 17-year-old computer science student passionate about web development (HTML/CSS/JavaScript). I’m rebuilding an app I created to manage school subjects and class schedules easily and want to make it more accessible, intuitive, and user-friendly for everyone.
+
+I’m looking for a teammate who knows:
+
+* UX design principles
+* App accessibility
+* Psychology of human-app interaction
+* Good UI design practices (Figma experience is a bonus!)
+
+This is a non-monetized, open-source project, so no one is getting paid, but your contributions will be fully credited in the app, making it a strong portfolio piece for us both.
+
+If you're interested, comment below, and we’ll connect to discuss the project further. Communication will be in English.
+
+Let’s build something great together!",Flying_Pizzaaa,1h78w53,https://reddit.com/r/webdev/comments/1h78w53/looking_for_a_ux_designer_to_collaborate_on_a/,https://www.reddit.com/r/webdev/comments/1h78w53/looking_for_a_ux_designer_to_collaborate_on_a/,2024-12-05 13:14:20,0,0.5,0,0,0,0,0,False,False,True,False,False,Question,self,t3_1h78w53
+webdev,Are there any good 3D scroll animation landing page templates,"So I am a freelancer. My client wants a landing page that is 40-50% of the way to the lumalabs dream machine website
+
+https://lumalabs.ai/dream-machine
+
+We would like to do something quickly and cheaper than me having to reinvent the wheel.
+
+He is flexible if we can find some template or open source example that would come 50% of the way to that website.
+
+I tried searching online pretty thoroughly but all I came up on were some lackluster github repos with janky animations
+
+I just want to know if any of you guys know any open source or even payed templates or examples like this in any language (can be react, vue or even plain js) that I can use as headstart for what my client needs.
+
+",Known_Contact8939,1h76i1y,https://reddit.com/r/webdev/comments/1h76i1y/are_there_any_good_3d_scroll_animation_landing/,https://www.reddit.com/r/webdev/comments/1h76i1y/are_there_any_good_3d_scroll_animation_landing/,2024-12-05 10:50:38,0,0.5,0,0,5,0,0,False,False,True,False,False,Question,self,t3_1h76i1y
+webdev,Release Notes for Safari Technology Preview 209,,feross,1h6tzvr,https://reddit.com/r/webdev/comments/1h6tzvr/release_notes_for_safari_technology_preview_209/,https://webkit.org/blog/16296/release-notes-for-safari-technology-preview-209/,2024-12-04 23:02:07,0,0.5,0,0,1,0,0,False,False,False,False,False,,default,t3_1h6tzvr
+webdev,Best way to create simple sites that you can host on your own server,"I don't use Figma and Don't use Webflow. When I program front ends pretty much doing it the the old way.  Lately I done some wordpress sites and I really like the new block themes.  Makes the front end pretty easy.
+
+That got me looking around and noticed a lot people are using Figma and Webflow for front end stuff.  I am looking to do a bunch of simple static pages and it got me thinking that these might be the perfect tools to use.
+
+Webflow looks like it works well. I also like the fact there are tons of templates.  Biggest issue is some of them look like there overpriced.  If I could find a decent collection of templetes that actually look good it might be just what I need.
+
+I have also noticed Figma.  Biggest issue is it doesn't generate everything into HTML without a plugin.  I would only be using this for simple static sites so I just need it create a static page.  I also want to be able to export my code to self host. 
+
+If these tools do not work what is everyone using for simple sites you need for quick turn around.",Proper-Store3239,1h6n03e,https://reddit.com/r/webdev/comments/1h6n03e/best_way_to_create_simple_sites_that_you_can_host/,https://www.reddit.com/r/webdev/comments/1h6n03e/best_way_to_create_simple_sites_that_you_can_host/,2024-12-04 18:17:55,0,0.5,0,0,5,0,0,False,False,True,False,False,,self,t3_1h6n03e
+webdev,How do I get rid of these three.js rendering artifacts? Only shows up on mobile,,scottshambaugh,1h71kdk,https://reddit.com/r/webdev/comments/1h71kdk/how_do_i_get_rid_of_these_threejs_rendering/,https://i.redd.it/a3tn6rviqy4e1.png,2024-12-05 05:08:13,5,0.73,5,0,5,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/nzKsaKzmWJgryVFqtbgx8KCHhM12rzNlQKo8O3eBNgI.jpg,t3_1h71kdk
+webdev,How much do I need to be concerned about this?,,Produkt,1h6i89a,https://reddit.com/r/webdev/comments/1h6i89a/how_much_do_i_need_to_be_concerned_about_this/,https://i.redd.it/kqe6rgyrku4e1.png,2024-12-04 15:08:05,34,0.83,34,0,9,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/z-2yyUW2TboTdo1MLcL3SVQvsSf-fi6WvM9a7XS1rBA.jpg,t3_1h6i89a
+webdev,How Chrome doubled its Speedometer scores on Android,,feross,1h6jk62,https://reddit.com/r/webdev/comments/1h6jk62/how_chrome_doubled_its_speedometer_scores_on/,https://blog.chromium.org/2024/12/doubling-speedometer-scores-android.html,2024-12-04 16:02:11,12,0.76,12,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/lGCR-PXzo49AT4oO3Rd5U9fDwMvvakRCrM5zso7wFlk.jpg,t3_1h6jk62
+webdev,My online app leaks refreshTokens?,"Hello! I developed an online application (front-end done in react and backend in Java/spring). Now, I've set my backend to only send refreshTokens as httponly cookies.  
+However when I go to my website and I catch the request going to my api I can see the refresh token and it's value clearly...   
+Did I misunderstand how the httponly cookies work? Or did I setup something wrong?",tiredofmissingyou,1h6p6bx,https://reddit.com/r/webdev/comments/1h6p6bx/my_online_app_leaks_refreshtokens/,https://www.reddit.com/r/webdev/comments/1h6p6bx/my_online_app_leaks_refreshtokens/,2024-12-04 19:44:44,7,0.82,7,0,4,0,0,False,False,True,False,False,Question,self,t3_1h6p6bx
+webdev,Newbies: VanillaJS boilerplates or framework?,"if you were to use a boilerplate for a project. Would you prefer it in plain Javascript, HTML &amp; CSS or built using a web framework like React or Vue? ",genkaobi,1h77wzm,https://reddit.com/r/webdev/comments/1h77wzm/newbies_vanillajs_boilerplates_or_framework/,https://www.reddit.com/r/webdev/comments/1h77wzm/newbies_vanillajs_boilerplates_or_framework/,2024-12-05 12:20:18,1,0.67,1,0,3,0,0,False,False,True,False,False,,self,t3_1h77wzm
+webdev,First Contentful Pain(t),"**Dear all,**
+
+This is my very first website, written entirely from scratch and optimized from the start. I have two questions:
+
+1. I don’t really understand what the First Contentful Paint (FCP) means, nor how I can improve it, considering the website is built purely with HTML and CSS, without fancy features or heavy images.
+2. Based on your experience, do these metrics actually affect crawling, indexing, or ranking of the website?
+
+Thank you in advance!
+
+https://preview.redd.it/xg4cybfu9x4e1.png?width=618&amp;format=png&amp;auto=webp&amp;s=645fbd0c061406268f550073573f9bf278071e10
+
+",pltcmod,1h6vo58,https://reddit.com/r/webdev/comments/1h6vo58/first_contentful_paint/,https://www.reddit.com/r/webdev/comments/1h6vo58/first_contentful_paint/,2024-12-05 00:16:18,1,0.67,1,0,7,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/xHVDzCZg0G7Txkdm2PXN9d7NbXk1mEgheVQ9-DX_dNg.jpg,t3_1h6vo58
+webdev,Maps APIs,"Hello, dear WebDev community,
+I’m looking for some insights into your experience with Maps APIs. My project involves using React, and the use case includes highlighting specific areas on the map, adding custom pins, and possibly displaying info boxes.
+
+Do you have any recommendations or advice based on your experience?
+
+Thanks in advance!
+
+",Specialist-Collar-72,1h6sy09,https://reddit.com/r/webdev/comments/1h6sy09/maps_apis/,https://www.reddit.com/r/webdev/comments/1h6sy09/maps_apis/,2024-12-04 22:18:06,1,0.67,1,0,2,0,0,False,False,True,False,False,,self,t3_1h6sy09
+webdev,React Native?,"I need guidance...
+
+I'm currently building an web app and as we live these wonderful times in 2024, everything needs also an mobile app now. So, I reckon, I need to build one.
+
+For web app im building, Im using PHP for backend which mainly handles db connection/querying and tokens, and I have React frontend using axios for requests. Now im thinking, how do I move forward if I need an mobile app too?
+
+Im already quite handy with React, so I was thinking that learning React Native sounds obvious solution, right?
+
+Any opinions?
+
+If you agree with RN, do u have good YT courses for basics?",FakeManiz,1h6rfj8,https://reddit.com/r/webdev/comments/1h6rfj8/react_native/,https://www.reddit.com/r/webdev/comments/1h6rfj8/react_native/,2024-12-04 21:16:04,0,0.25,0,0,14,0,0,False,False,True,False,False,,self,t3_1h6rfj8
+webdev,Introducing Uniffi for React Native: Rust-Powered Turbo Modules,,feross,1h6qcrm,https://reddit.com/r/webdev/comments/1h6qcrm/introducing_uniffi_for_react_native_rustpowered/,https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/,2024-12-04 20:32:13,1,0.67,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/LSZLcweVYEwTjSRwftP58wzr1haswAUXQ5zNFwAWoyI.jpg,t3_1h6qcrm
+webdev,Need ideas to spruce up my portfolio.,"Hey all. I'm redoing my portfolio page on my website and ive been looking at some other designers sites and a lot of them look half way decent but they're not standing out a lot to me.
+
+So my question is what are some design things I can add to my portfolio page to really make it pop and stand out and look better than half way decent?",plasmaSunflower,1h6q4xx,https://reddit.com/r/webdev/comments/1h6q4xx/need_ideas_to_spruce_up_my_portfolio/,https://www.reddit.com/r/webdev/comments/1h6q4xx/need_ideas_to_spruce_up_my_portfolio/,2024-12-04 20:23:09,1,0.67,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1h6q4xx
+webdev,What challenges do you face when deploying website to AWS or GCP?,"After days spent on getting my pet web projects online, I decided to turn my notes into a more accessible format saving lots of time for me and, hopefully, for others.  
+
+I also like keeping it all in one place: short comparison of  AWS and GCP free tiers, steps to rent machine, deploy your project, attach domain (and get one for good price if you don't have one) and more. Currently it's a GitHub repo with nicely formatted markdown.
+
+The process along with building a webpage took me a month instead of a week, but I’ve compiled my experience into text + images + code representation and plan to improve it. 
+
+I’d love feedback from anyone who’s faced challenges in deploying their own sites into cloud, to make my instruction more helpful. ",mari_zombie,1h6jsld,https://reddit.com/r/webdev/comments/1h6jsld/what_challenges_do_you_face_when_deploying/,https://www.reddit.com/r/webdev/comments/1h6jsld/what_challenges_do_you_face_when_deploying/,2024-12-04 16:11:50,0,0.33,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h6jsld
+webdev,Space in URL in ad causing website 502 error,Have a Meta ad that was pasted form excel sheet and had a space in it causing the link to be broken. The website had a 502 error few times. Colleague said the space caused it saying it triggered a bug in the webcode. Is this possible? The CMS is Drupal.,golden_greenery,1h6i7pv,https://reddit.com/r/webdev/comments/1h6i7pv/space_in_url_in_ad_causing_website_502_error/,https://www.reddit.com/r/webdev/comments/1h6i7pv/space_in_url_in_ad_causing_website_502_error/,2024-12-04 15:07:28,0,0.33,0,0,7,0,0,False,False,True,False,False,Question,self,t3_1h6i7pv
+webdev,"What is this employer asking for? SSR? Or can I hit em with a ""Cannot GET /""",,SkierBeard,1h71d4m,https://reddit.com/r/webdev/comments/1h71d4m/what_is_this_employer_asking_for_ssr_or_can_i_hit/,https://i.redd.it/lb0vliz9oy4e1.png,2024-12-05 04:57:25,112,0.88,112,0,70,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/ar9EC1jBMQNMh8RhWbO-6r2Y-qKIv5FlSEOM1dcddp0.jpg,t3_1h71d4m
+webdev,Facebook API - supposed to be this difficult?,"I'm not sure if the Facebook API is just extremely difficult or if I'm just looking in the wrong spot.
+
+I'm looking for a way to create posts on Facebook pages that I am the administrator of, without having to log into Facebook each and every time.  Nothing fancy.  Ideally I'd like to be able to do this with cURL so I can program an interface with whatever has cURL bindings available.
+
+But apparently, I have to create a Facebook app?  And get approval for that app?  Seems like a lot of obstacles to go through just to perform a simple task.
+
+My intention is not to distribute this app or for other users to use.  I simply want to be able to post to pages I administrate without having to log into Facebook each time.
+
+Other APIs I have used usually involve having an ID and a Secret to generate a token - which is then presented within a POST to the API's URL with fields for what content you want to post or do.  It doesn't seem that Facebook is that simple.  Unless I am missing something - which has been known to happen.",muttick,1h6kmm9,https://reddit.com/r/webdev/comments/1h6kmm9/facebook_api_supposed_to_be_this_difficult/,https://www.reddit.com/r/webdev/comments/1h6kmm9/facebook_api_supposed_to_be_this_difficult/,2024-12-04 16:44:59,16,0.8,16,0,24,0,0,False,False,True,False,False,,self,t3_1h6kmm9
+webdev,Is Go good for backend of a website?,"Otherwise, what would be a good alternative?",AstronautIll8684,1h6lp0s,https://reddit.com/r/webdev/comments/1h6lp0s/is_go_good_for_backend_of_a_website/,https://www.reddit.com/r/webdev/comments/1h6lp0s/is_go_good_for_backend_of_a_website/,2024-12-04 17:27:00,0,0.15,0,0,8,0,0,False,False,True,False,False,,self,t3_1h6lp0s
+webdev,I made a quizz app with AI and recieved a lot of s**t for it,"I recently made this app called Tietovisanen (translates roughly to ”quizzly”) which does one thing: generates Jeoparady-like quiz based on selected themes and audience. Its not a typical game where you answer the questions in app but the idea is to use it in a social way - with friends, family, colleagues etc.
+
+The app works just as I wanted to and I even managed to prompt it so that GPT-4o does pretty good job with Finnish language. 🇫🇮 There are free and premium tiers, free being more of an demo and premium really making it good.
+
+Anyway, I could not believe the amount of turd some friendly fellow redditors commented about the app when I posted about it in Finnish sub 😄 I don’t actually care about their loud opininos but time will tell whether those opinions were reflecting the general consensus or not.
+
+I’ve been thinking of publishing the app in English to reach larger audience and here’s where I’d appreciate your input:
+
+Does anyone really want to pay for an app that basically just generates a quiz and expects players to write their answers on a piece of paper for example? 
+
+It’s hard for me to put this idea into words but I want to think it as a pub quiz or such.
+
+What do you think?
+",schamppi,1h6kwtc,https://reddit.com/r/webdev/comments/1h6kwtc/i_made_a_quizz_app_with_ai_and_recieved_a_lot_of/,https://www.reddit.com/r/webdev/comments/1h6kwtc/i_made_a_quizz_app_with_ai_and_recieved_a_lot_of/,2024-12-04 16:56:15,0,0.14,0,0,16,0,0,False,False,True,False,False,Discussion,self,t3_1h6kwtc
+webdev,What is your level of Website Monitoring? Do you have any?,"For context, I have worked for a website monitoring company for 4 + years - We set up, fully manage and assist companies in their monitoring within a variety of industries from SME's to Enterprise customers. Our USP is monitoring that user journey from the homepage to checkout, detecting issues and Magecart / Data Breaches.
+
+I am interested in the current perception of website monitoring in general, the tools you use and the value you get from them!",sharkbot4000,1h77aqu,https://reddit.com/r/webdev/comments/1h77aqu/what_is_your_level_of_website_monitoring_do_you/,https://www.reddit.com/r/webdev/comments/1h77aqu/what_is_your_level_of_website_monitoring_do_you/,2024-12-05 11:43:22,6,0.8,6,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1h77aqu
+webdev,What is your go-to way to create a landing page? ,"You want to put an idea up and track interest. What is your go to way to do so, what are your must haves?",IAmRules,1h6qq3h,https://reddit.com/r/webdev/comments/1h6qq3h/what_is_your_goto_way_to_create_a_landing_page/,https://www.reddit.com/r/webdev/comments/1h6qq3h/what_is_your_goto_way_to_create_a_landing_page/,2024-12-04 20:47:30,17,0.85,17,0,31,0,0,False,False,True,False,False,,self,t3_1h6qq3h
+webdev,I need your help 🙂,"I created a social media platform called Thoughts Area. Where you can post your thoughts or questions. While others users can upvote, downvote, comment on your post and even follow your profile.  It's a place where you can anonymously get answers to your questions or other people's opinion about your most random thoughts ( just a simple version of reddit ). But the issue is that i do not have any users on that platform and it is almost empty. So i need your help, please go to my platform and create an account, post your thoughts and interact with other people's posts.",Icy_Watercress1584,1h79itc,https://reddit.com/r/webdev/comments/1h79itc/i_need_your_help/,https://thoughts-area.vercel.app,2024-12-05 13:46:40,0,0.13,0,0,10,0,0,False,False,False,False,False,Discussion,default,t3_1h79itc
+webdev,The Rise of AgentWeb,"This is something I have been thinking about recently. Basically the idea how the Web is going to evolve in the future with AI. You can read the whole thing at my post, but just to flag a few things here:
+
+""The web is splitting into two distinct futures: one driven by relentless AI agents, the other shaped by human hands. It fills me with both excitement and sadness - excited by the possibilities of AI-driven efficiency, yet nostalgic for the craftsmanship of a human touch. Let's dive into what this means for the future of web development and ownership.
+
+# The Rise of AgentWeb
+
+The AgentWeb represents the industrialisation of web development, where AI agents autonomously build, maintain, and optimise websites at scale. These digital properties will be born in vast WebFarms (remember Bitcoin farms?) where AI systems handle everything from design decisions to content optimisation and user experience refinement.
+
+For website owners, this means hands-off management with AI handling:
+
+* Complete brand identity creation and evolution
+* Content creation and SEO optimisation
+* Automated maintenance and security updates
+* Real-time performance monitoring and optimisation
+* User experience refinement through continuous testing
+* Integrated social media presence and content distribution
+
+# The Future Renaissance of ArtisanWeb
+
+On the flip side, we might be witnessing a renaissance of handcrafted websites. Like craft beer versus mass-produced lagers, ArtisanWeb represents the boutique approach to web development. I can imagine content on the web being labeled Handcrafted by a Human or No AI Was Used in Creating This Content.
+
+The interesting thing is that while handcrafted web will be proud to display these labels, web farms would not do the opposite: AI Generated Content. They are likely to try to fake that they are really hand-made content. In the same way [browsers once faked their identities to gain compatibility](https://webaim.org/blog/user-agent-string-history/?ref=mantcz.com), AI-generated websites might strive to mimic human craftsmanship to gain trust—a new battle for authenticity in the AI driven digital age.""
+
+I am curious to hear what people think.
+
+Link to the full post:  
+[https://www.mantcz.com/blog/the-coming-bifurcation-of-the-web-agentweb-vs-artisanweb](https://www.mantcz.com/blog/the-coming-bifurcation-of-the-web-agentweb-vs-artisanweb)",mantcz,1h7b5c3,https://reddit.com/r/webdev/comments/1h7b5c3/the_rise_of_agentweb/,https://www.reddit.com/r/webdev/comments/1h7b5c3/the_rise_of_agentweb/,2024-12-05 15:02:56,0,0.5,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h7b5c3
+webdev,Learndash and FluentCRM API related issue ,"Hi folks,
+
+I am running a WordPress site hosted on Rapyd Cloud and the site uses LearnDash as the LMS, FluentCRM for managing email engagement, and WP Fusion for advanced syncing. I also use Uncanny Automator and LearnDash Notifications for additional functionality.
+
+Here’s what I’m trying to achieve:
+
+When a student completes a topic in LearnDash, I want to log the completion date in a custom field within FluentCRM for that student.
+
+After 7 or 14 days, I want to check if the student has started the next topic in the course.
+
+If no progress is detected within those two weeks, FluentCRM should trigger an automated email encouraging them to continue.
+
+I’ve written a PHP function using LearnDash’s hooks and FluentCRM’s API to update the custom field, but it’s not working. The completion date isn’t being stored in FluentCRM, and I’m unsure if the issue is with the hook, the API call, or something else.
+
+I also reached out to Rapyd Cloud’s support to check if it might be a server-related issue, but they confirmed it’s more of an application-level concern and suggested I check with LearnDash or FluentCRM.
+
+Some questions I have:
+
+Is learndash\_topic\_completed the correct hook for this, or is there a better one to use?
+
+Is there a more reliable way to update FluentCRM custom fields programmatically?
+
+For the follow-up, should I consider using WP Fusion’s tagging features or a cron job for better reliability?
+
+Here are the relevant documentation links I’ve been looking through:
+
+LearnDash Developer Docs
+
+FluentCRM API Docs
+
+WP Fusion Documentation
+
+If anyone has set up something similar or can point out where I might be going wrong, I’d really appreciate your help! Let me know if you need more details.
+
+[https://developers.fluentcrm.com/global-functions/](https://developers.fluentcrm.com/global-functions/)
+
+[https://developers.learndash.com/](https://developers.learndash.com/)",OpheliaOoze,1h75ipk,https://reddit.com/r/webdev/comments/1h75ipk/learndash_and_fluentcrm_api_related_issue/,https://www.reddit.com/r/webdev/comments/1h75ipk/learndash_and_fluentcrm_api_related_issue/,2024-12-05 09:39:05,5,0.86,5,0,0,0,0,False,False,True,False,False,Question,self,t3_1h75ipk
+webdev,What do you use for launching your website? Vercel? Cloudflare?,"Hey,
+
+  
+I'm just asking what platforms are you using to launch your website? Cause I have been using both Vercel and Cloudflare Pages recently, and I think that Vercel gives more convenience while Cloudflare offers better features for the free tier.",Status_Condition1363,1h757nq,https://reddit.com/r/webdev/comments/1h757nq/what_do_you_use_for_launching_your_website_vercel/,https://www.reddit.com/r/webdev/comments/1h757nq/what_do_you_use_for_launching_your_website_vercel/,2024-12-05 09:15:53,5,1.0,5,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h757nq
+webdev,Next steps for semi-successful websites (and devs),"I have made a few websites over the years, but have substantially stepped up my skills over the last 12 months or so through uni study.
+
+I currently have a simple game website averaging about 400 users per day and 10,000 views per week. It’s a little puzzle game that resets every 24 hours.
+
+After a couple months of very little interaction it has built up to this point completely organically over a few months, but the growth is slowing.
+
+So what do now? Try and advertise the site? Put google ads on the site and hopefully get $20-30 per week hoping not to alienate the users?
+
+My full time work is currently in audio production and journalism so I am used to building creative things with technology. I think I could make more websites that attract users, but who knows? Making a living wage out of this feels pretty improbable. 
+
+The most complicated website I have made but not put on the internet is a e-commerce site with flask - besides that mostly little games. I consider myself a bit more of a creative than strictly a dev - I can do a lot with a little. Having said that I am studying comp sci post-grad.
+
+Apologies for the rambling - just looking for some help or direction. There might be an answer staring me in the face or a job that I’m not aware of? 
+
+Much appreciation (and apologies if this isn’t a level of users or views that is even worth discussing) :).",CallMeMaybeReddit,1h6z7l4,https://reddit.com/r/webdev/comments/1h6z7l4/next_steps_for_semisuccessful_websites_and_devs/,https://www.reddit.com/r/webdev/comments/1h6z7l4/next_steps_for_semisuccessful_websites_and_devs/,2024-12-05 03:04:47,2,0.76,2,0,6,0,0,False,False,True,False,False,Question,self,t3_1h6z7l4
+webdev,How to communicate better during meetings? ,"I’m a new developer and an issue I’m facing is being able to clearly communicate the challenges of a task during team meetings. Sometimes clients would make requests to add something new or modify something prebuilt that sounds easy to do in theory but poses a great technical challenge. It could either be something entirely impossible to do or beyond my skillset. I’ve found when I try to communicate the difficulties, I’m being seen as “not having a can do attitude” or “not wanting to do the hard work”. Boss would interrupt me and tell me I just have to figure something out. 
+
+I feel that my job as a developer is to clearly communicate the possibilities of what the client is asking for and/or provide possible solutions. But my boss just wants me to pretty much say yes to whatever and I think it’s because the more time I spend on the project the more he can charge the client. This may mean going away with a task then doing absolutely nothing and saying I’ve tried xyz and it didn’t work whereas this whole bullshit could’ve been avoided in the first place. I’m getting paid so not exactly complaining but this feels exploitative. 
+
+And the other developers although understand the scope of the task, they just agree with the boss and the client to stay on their good side because it’s gonna be me doing the work anyways and not them. Also during calls they would briefly look at my code and confirm with the client exactly what I’ve said which I find disrespectful because I’m the one who wrote the code yet the client is more trusting towards someone who’s not even part of the project. They’re also very quick to make suggestions even though they don’t know anything about the codebase which is annoying asf. 
+
+What are some things I can do? ",processing102,1h6vzet,https://reddit.com/r/webdev/comments/1h6vzet/how_to_communicate_better_during_meetings/,https://www.reddit.com/r/webdev/comments/1h6vzet/how_to_communicate_better_during_meetings/,2024-12-05 00:30:20,1,1.0,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h6vzet
+webdev,Trying to pull a list of metrics available via public APIs,"I'm sorry in advance if this is not the right sub to ask this question but I'm looking to pull a comprehensive list of all public metrics available via some social media APIs and was curious if anyone knows where I can get it or any other guidance.
+
+I've been able to figure out where to pull the data but I'm not a developer so trying to get a gauge of what's available first.
+
+Facebook | Page Public Content Access -  
+Looks like you can pull public metrics but as far as I can tell, the doc points you to the general insights doc that lists all metrics and without having an approved app, I'm not sure how to properly verify the metrics available.
+
+Instagram | Business Discovery -  
+I know I can get the media, followers count as well as total likes and comments, but is there more that is available?
+
+Linkedin -  
+Honestly, I'm not even sure where to look or which API...
+
+Appreciate you reading this and any help that I can get. Thanks!",djhurryupnbuy,1h6rmxw,https://reddit.com/r/webdev/comments/1h6rmxw/trying_to_pull_a_list_of_metrics_available_via/,https://www.reddit.com/r/webdev/comments/1h6rmxw/trying_to_pull_a_list_of_metrics_available_via/,2024-12-04 21:24:33,2,1.0,2,0,1,0,0,False,False,True,False,False,Question,self,t3_1h6rmxw
+webdev,Web Developer Age Test: MM_swapImgRestore(),"Happened to have to pull some stuff from a really old site I built more than 20 years ago and opened the ""common.js"" file in there for a trip down memory lane. We used to have to put these functions (or some equivalent) in every site built back then. Thank god standard compliance (at least mostly) finally became a thing.
+
+`MM_swapImgRestore()`  
+`MM_preloadImages()`  
+`MM_findObj(n, d)`  
+`MM_swapImage()`
+
+So if you recognize these, congrats on being old!
+
+\*\* Bonus points if you know why these start with ""MM\_"". Hint: JS namespaces just weren't a thing then.",zovered,1h6qyeo,https://reddit.com/r/webdev/comments/1h6qyeo/web_developer_age_test_mm_swapimgrestore/,https://www.reddit.com/r/webdev/comments/1h6qyeo/web_developer_age_test_mm_swapimgrestore/,2024-12-04 20:56:51,16,0.92,16,0,21,0,0,False,False,True,False,False,Discussion,self,t3_1h6qyeo
+webdev,Creating website for independent business ,"So - I met this 1-person local business (1.5k followers) providing services as a client and got talking about creating a website for their business (beauty services).
+
+I don't have any professional experiences and thought this would be a great starting point in web developing for businesses (freelance, I guess). I only have a few projects, including a portfolio website.
+
+I am planning to create a static website with some animations (possibly 5 pages, maybe less) using react. I am not going to make a scheduling component but rather link her scheduling interface (schedulista) to the website since it wouldn't be too much of a change for the business and their returning clients.
+
+Not sure how to go on about this for pricing since this would be my first real project for users. I initially thought that I would only charge for domain name and hosting per month, but I'm not sure if I should charge for the making of the website? Would you charge if you were in my shoes?
+
+I am unsure since they are giving me this opportunity to make a website for their business, and it doesn't feel right to charge them because I am unexperienced.",Trick-Stars,1h6onb2,https://reddit.com/r/webdev/comments/1h6onb2/creating_website_for_independent_business/,https://www.reddit.com/r/webdev/comments/1h6onb2/creating_website_for_independent_business/,2024-12-04 19:23:08,3,1.0,3,0,1,0,0,False,False,True,False,False,,self,t3_1h6onb2
+webdev,How to secure communication between my Android app and backend?,I have an Android app that communicates with my backend which is just a REST API. I will use Google's OAUTH to sign in the user on the app. How can I secure my backend so that I can verify that the request didn't come from a malicious third party?,Street-Film4148,1h6olk2,https://reddit.com/r/webdev/comments/1h6olk2/how_to_secure_communication_between_my_android/,https://www.reddit.com/r/webdev/comments/1h6olk2/how_to_secure_communication_between_my_android/,2024-12-04 19:21:07,1,0.67,1,0,4,0,0,False,False,True,False,False,Question,self,t3_1h6olk2
+webdev,Subitem second line issue,"Hi, hopefully this shows okay. 
+
+When a subitem is long like my Washington DC one, and it goes onto a second line, the second line does not begin in line with the first, instead it is by the left, ignoring the indent. 
+
+How do I get subsequent lines for long subitem names to be exactly underneath the first line? 
+
+This is driving me mad! 
+
+https://codepen.io/andyape/pen/MYgKWOp",Joyride0,1h6o98o,https://reddit.com/r/webdev/comments/1h6o98o/subitem_second_line_issue/,https://www.reddit.com/r/webdev/comments/1h6o98o/subitem_second_line_issue/,2024-12-04 19:07:34,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h6o98o
+webdev,Was interviewer being picky?,"I completed a relatively simple task for a Frontend Developer position. One part involved making a single word in a block of HTML bold.
+
+I chose to wrap the word in a &lt;span&gt; tag and assign it a class, applying font-weight via CSS. However, the interviewer pointed out that this wasn’t the best approach and recommended using the &lt;strong&gt; tag for semantic reasons.
+
+I understand their perspective, but aren’t both approaches valid? My reasoning was that if design requirements changed in a real-world scenario (e.g., the bold word needed a different color or style later), it would be easier to manage through CSS without touching the HTML structure.
+
+Was the interviewer being overly picky, or is there a stronger case for using &lt;strong&gt; in this context? I’m open to feedback and willing to admit if I was mistaken.
+
+Thanks!",Zealousideal_Day_636,1h6nlwh,https://reddit.com/r/webdev/comments/1h6nlwh/was_interviewer_being_picky/,https://www.reddit.com/r/webdev/comments/1h6nlwh/was_interviewer_being_picky/,2024-12-04 18:42:08,1,1.0,1,0,7,0,0,False,False,True,False,False,,self,t3_1h6nlwh
+webdev,Random Button Creation App,"I made this app [https://letsbutton.com](https://letsbutton.com/) where you can randomly make buttons of different css styles. 
+
+I posted this over on web\_design and got some good pointers for ways to make it more useful + improve the UI, so I figured y'all would as well.  
+
+Thanks for taking a look, feel free to let me know things you like/hate.",gith630,1h6lk39,https://reddit.com/r/webdev/comments/1h6lk39/random_button_creation_app/,https://www.reddit.com/r/webdev/comments/1h6lk39/random_button_creation_app/,2024-12-04 17:21:32,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h6lk39
+webdev,New to the web platform in November,,feross,1h6j61l,https://reddit.com/r/webdev/comments/1h6j61l/new_to_the_web_platform_in_november/,https://web.dev/blog/web-platform-11-2024?hl=en,2024-12-04 15:46:36,1,1.0,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/BU89PJRzpdgyXTn8CgtT6L20kydGOCaV4aeIPBjjets.jpg,t3_1h6j61l
