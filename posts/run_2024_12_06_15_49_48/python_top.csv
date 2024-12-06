@@ -1,0 +1,191 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,How we made Celery tasks bulletproof,"Hey folks, 
+
+I just published a deep dive into how we handle task resilience at GitGuardian, where our Celery tasks scan GitHub PRs for secrets. Wanted to share some key learnings that might help others dealing with similar challenges.
+
+
+**Key takeaways:**
+
+1. Don’t just blindly retry tasks. Each type of failure (transient, resource limits, race conditions, code bugs ) needs its own handling strategy.
+2. Crucial patterns we implemented:
+   - Ensure tasks are idempotent (may not be straightforward, 
+   - Used `autoretry_for` with specific exceptions + backoff
+   - Implemented `acks_late` for process interruption protection
+   - Created separate queues for resource-heavy tasks
+
+**Watch out for:**
+
+1. Never set task_retry_on_worker_lost=True (can cause infinite retries)
+2. With Redis, ensure tasks complete within visibility_timeout
+3. Different behavior between prefork vs thread/gevent models for OOM handling
+
+---
+
+For those interested in the technical details: https://blog.gitguardian.com/celery-tasks-retries-errors/
+
+
+What resilience patterns have you found effective in your Celery deployments? Any war stories about tasks going wrong in production?",protoplancton,1h7xr6s,https://reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/,https://www.reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/,2024-12-06 09:37:58,42,0.89,42,0,3,0,0,False,False,True,False,False,Tutorial,self,t3_1h7xr6s
+Python,"I made a generative ai project template (python, uv, pytest and more)","Hey everyone,
+
+I’ve been working on a template to get started with a generative AI project ! 
+
+I’ve created a **Generative AI Project Template** that’s loaded with tools and features to streamline your AI development. You can check it out [here on GitHub](https://github.com/AmineDjeghri/generative-ai-project-template).
+
+  
+**🛠️ Key Features**
+
+**Engineering tools:**
+
+• ✅ **Package management**: UV
+
+• ✅ **Code quality**: Pre-commit hooks with Ruff &amp; Detect-secrets
+
+• ✅ **Logging**: Colorful logs with Loguru
+
+• ✅ **Unit tests**: Pytest
+
+• ✅ **Dockerized**: Dockerfile &amp; docker-compose for your evaluation pipeline
+
+• ✅ **Make commands**: Simplify your workflow (install, run, test)
+
+
+
+**AI tools:**
+
+• ✅ **LLMs**: Run locally (Ollama, Ollamazure) or in the cloud (OpenAI, Azure OpenAI)
+
+• ✅ **Information extraction &amp; QA** from documents
+
+• ✅ **Chat interface** to test your system
+
+• ✅ **Async code** for efficient AI workflows
+
+• ✅ **AI Evaluation Frameworks**: Promptfoo, Ragas, and more
+
+
+
+**CI/CD &amp; Maintenance tools:**
+
+• ✅ **Pipelines**: GitHub Actions (.github/workflows) &amp; GitLab CI (.gitlab-ci.yml)
+
+• ✅ **Local CI/CD pipelines**: Run GitHub Actions with act and GitLab CI with gitlab-ci-local
+
+
+
+**Documentation tools:**
+
+• ✅ **Documentation website**: MkDocs + mkdocs-material
+
+• ✅ **GitHub Pages deployment**: Easy deployment with mkdocs gh-deploy
+
+Any feedback, issues, or PRs are welcome!
+
+",aminedjeghri,1h7ff4i,https://reddit.com/r/Python/comments/1h7ff4i/i_made_a_generative_ai_project_template_python_uv/,https://www.reddit.com/r/Python/comments/1h7ff4i/i_made_a_generative_ai_project_template_python_uv/,2024-12-05 18:02:47,16,0.7,16,0,11,0,0,False,False,True,False,False,Resource,self,t3_1h7ff4i
+Python,pytest-fixture-forms - A new plugin to simplify testing parameter variations,"Hey Python testing enthusiasts! I'm excited to share a pytest plugin I've been working on that makes testing different parameter variations much cleaner and more maintainable.
+
+# What my project does
+
+If you've ever found yourself writing lots of parametrized tests for different API inputs, credentials, or configuration combinations, you know it can get messy quickly. This plugin lets you organize these variations as fixture methods in a class, making your tests more structured and easier to maintain.
+
+Here's a quick example:
+
+    class UserCredentials(FixtureForms):
+        @pytest.fixture
+        def valid_user(self):
+            return {""username"": ""john_doe"", ""password"": ""secure123""}
+    
+        @pytest.fixture
+        def invalid_password(self):
+            return {""username"": ""john_doe"", ""password"": ""wrong""}
+    
+    def test_login(user_credentials):
+        response = login_service.authenticate(**user_credentials.value)
+        if user_credentials.form == ""valid_user"":
+            assert response.status_code == 200
+        else:
+            assert response.status_code == 401
+
+Key Features:
+
+* Auto-generates fixtures from class methods
+* Integrates with pytest's parametrization
+* Handles nested dependencies elegantly
+* Zero configuration needed
+
+# Target Audience
+
+anyone want to write and maintain tests for combinations of parameter. it should be stable but hey! its a new project so expect rough edges.
+
+# Comparison 
+
+there is no currently plugin in pytest that let you dynamically generate fixtures and test nodes in similar way to how pytest-fixture-forms does. this plugin is also being actively used inside a real product(actually this plugin was written as inside an internal tool testing code and later migrated by me to become a standalone pytest plugin).
+
+# Source
+
+Check it out on [GitHub](https://github.com/Eliav2/pytest-fixture-forms) or install with `pip install pytest-fixture-forms`.
+
+I'd love to hear your thoughts and feedback!",Eliav2,1h7ztqd,https://reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/,https://www.reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/,2024-12-06 12:02:26,5,0.79,5,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1h7ztqd
+Python,ML Trading Bot that uses Ranked Ensemble Learning,"I created a ML Trading Bot - trained it for a little over 3 years with 24 years of data and started it live on November 20, 2024. It's been going over a little more than 2 weeks, but it's been doing great so far - not indicative of how it will perform but it's had a great debut if you can say that.
+
+GitHub Repo: [https://github.com/yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin)
+
+Bot Website: [https://ampyfin-website.onrender.com/](https://ampyfin-website.onrender.com/)
+
+**What My Project Does**
+
+In essence, the trading bot ranks the strategies and gives them weights based on their overall performance while giving slight bias to recent performance (this is so it is reactive to current market trends and adjusts accordingly). These weights determine how much influence they have on the trading strategy. That's the oversimplified explanation of how the bot works. A more descriptive explanation is done on the website as well as README
+
+**Target Audience**
+
+Reason why I'm posting here is because I'm currently looking for contributors who have some expertise in Python (maybe want to contribute or just interested) on the trading strategies side. The more trading and diverse strategies there are, the better the bot will perform. This project is aimed towards developers interested in contributing or just anyone interested in the project. Currently there is 60 strategies, but the aim is to get much more: at least 100. If you have any questions on how it works or just interested in contributing, please don't hesitate to dm or comment.
+
+**Comparison**
+
+Most trading bots either use one strategy or multiple combination of strategies. The one's that use ML are too complex to understand or use libraries with jargons that are too coated. I specifically used ranked ensemble learning because it's something I've used in the past (for a facial feature measurement application for a medical company), but also because it's quite simple to understand and effective at the same time.",Inevitable-Air-1712,1h7qtzs,https://reddit.com/r/Python/comments/1h7qtzs/ml_trading_bot_that_uses_ranked_ensemble_learning/,https://www.reddit.com/r/Python/comments/1h7qtzs/ml_trading_bot_that_uses_ranked_ensemble_learning/,2024-12-06 02:26:49,4,0.56,4,0,13,0,0,False,False,True,False,False,Showcase,self,t3_1h7qtzs
+Python,Friday Daily Thread: r/Python Meta and Free-Talk Fridays,"# Weekly Thread: Meta Discussions and Free Talk Friday 🎙️
+
+Welcome to Free Talk Friday on /r/Python! This is the place to discuss the r/Python community (meta discussions), Python news, projects, or anything else Python-related!
+
+## How it Works:
+
+1. **Open Mic**: Share your thoughts, questions, or anything you'd like related to Python or the community.
+2. **Community Pulse**: Discuss what you feel is working well or what could be improved in the /r/python community.
+3. **News &amp; Updates**: Keep up-to-date with the latest in Python and share any news you find interesting.
+
+## Guidelines:
+
+* All topics should be related to Python or the /r/python community.
+* Be respectful and follow Reddit's [Code of Conduct](https://www.redditinc.com/policies/content-policy).
+
+## Example Topics:
+
+1. **New Python Release**: What do you think about the new features in Python 3.11?
+2. **Community Events**: Any Python meetups or webinars coming up?
+3. **Learning Resources**: Found a great Python tutorial? Share it here!
+4. **Job Market**: How has Python impacted your career?
+5. **Hot Takes**: Got a controversial Python opinion? Let's hear it!
+6. **Community Ideas**: Something you'd like to see us do? tell us.
+
+Let's keep the conversation going. Happy discussing! 🌟",AutoModerator,1h7nue4,https://reddit.com/r/Python/comments/1h7nue4/friday_daily_thread_rpython_meta_and_freetalk/,https://www.reddit.com/r/Python/comments/1h7nue4/friday_daily_thread_rpython_meta_and_freetalk/,2024-12-06 00:00:52,3,0.81,3,0,1,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h7nue4
+Python,Is a TypeScript-like language for Python possible and desirable?,"While tools like MyPy, Pyright, and Pylance have significantly improved static typing in Python, they don't offer the same level of rigor and performance as fully compiled languages.
+
+Imagine a language that compiles to Python bytecode, providing:  
+
+* **Strong static typing:** catching errors early and improving code reliability.
+* **Performance benefits:** through compilation and optimizations.
+* **Advanced language features:** such as algebraic data types, pattern matching, and better concurrency support.
+
+**But what are the trade-offs?** Would such a language be compatible with the vast Python ecosystem? Could a compiler achieve the same performance as the CPython interpreter? And would the added complexity outweigh the benefits for many Python developers?
+
+**I'm curious to hear your thoughts.** Have you ever experimented with statically typed Python dialects or considered the potential benefits and drawbacks of a more rigid type system?",Ok_Durian6656,1h7uyic,https://reddit.com/r/Python/comments/1h7uyic/is_a_typescriptlike_language_for_python_possible/,https://www.reddit.com/r/Python/comments/1h7uyic/is_a_typescriptlike_language_for_python_possible/,2024-12-06 06:15:48,0,0.33,0,0,15,0,0,False,False,True,False,False,Discussion,self,t3_1h7uyic
+Python,Is a TypeScript-like language for Python possible and desirable?,"While tools like MyPy, Pyright, and Pylance have significantly improved static typing in Python, they don't offer the same level of rigor and performance as fully compiled languages.
+
+Imagine a language that compiles to Python bytecode, providing:  
+
+* **Strong static typing:** catching errors early and improving code reliability.
+* **Performance benefits:** through compilation and optimizations.
+* **Advanced language features:** such as algebraic data types, pattern matching, and better concurrency support.
+
+**But what are the trade-offs?** Would such a language be compatible with the vast Python ecosystem? Could a compiler achieve the same performance as the CPython interpreter? And would the added complexity outweigh the benefits for many Python developers?
+
+**I'm curious to hear your thoughts.** Have you ever experimented with statically typed Python dialects or considered the potential benefits and drawbacks of a more rigid type system?",Ok_Durian6656,1h7uyiz,https://reddit.com/r/Python/comments/1h7uyiz/is_a_typescriptlike_language_for_python_possible/,https://www.reddit.com/r/Python/comments/1h7uyiz/is_a_typescriptlike_language_for_python_possible/,2024-12-06 06:15:51,0,0.22,0,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1h7uyiz

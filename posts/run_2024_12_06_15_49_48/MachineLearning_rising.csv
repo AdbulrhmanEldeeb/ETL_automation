@@ -1,0 +1,196 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] Any OCR recommendations for illegible handwriting?,"
+Has anyone had experience using an ML model to recognize handwriting like this? The notebook contains important information that could help me decode a puzzle I’m solving. I have a total of five notebooks, all from the same person, with consistent handwriting patterns. My goal is to use ML to recognize and extract the notes, then convert them into a digital format.
+
+I was considering Google API after knowing that Tesseract might not work well with illegible samples like this. However, I’m not sure if Google API will be able to read it either. I read somewhere that OCR+ CNN might work, so I’m here asking for suggestions. Thanks! Any advice/suggestions are welcomed! ",SpaceSheep23,1h7x5us,https://reddit.com/r/MachineLearning/comments/1h7x5us/d_any_ocr_recommendations_for_illegible/,https://www.reddit.com/gallery/1h7x5us,2024-12-06 08:53:03,69,0.87,69,0,82,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/LeDstkPiGT-yO7zkyvRRyx6sE33qB2W32UGe1t81Kkk.jpg,t3_1h7x5us
+MachineLearning,[D]Stuck in AI Hell: What to do in post LLM world,"
+Hey Reddit,
+
+I’ve been in an AI/ML role for a few years now, and I’m starting to feel disconnected from the work. When I started, deep learning models were getting good, and I quickly fell in love with designing architectures, training models, and fine-tuning them for specific use cases. Seeing a loss curve finally converge, experimenting with layers, and debugging training runs—it all felt like a craft, a blend of science and creativity. I enjoyed implementing research papers to see how things worked under the hood. Backprop, gradients, optimization—it was a mental workout I loved.
+
+But these days, it feels like everything has shifted. LLMs dominate the scene, and instead of building and training models, the focus is on using pre-trained APIs, crafting prompt chains, and setting up integrations. Sure, there’s engineering involved, but it feels less like creating and more like assembling. I miss the hands-on nature of experimenting with architectures and solving math-heavy problems.
+
+It’s not just the creativity I miss. The economics of this new era also feel strange to me. Back when I started, compute was a luxury. We had limited GPUs, and a lot of the work was about being resourceful—quantizing models, distilling them, removing layers, and squeezing every bit of performance out of constrained setups. Now, it feels like no one cares about cost. We’re paying by tokens. Tokens! Who would’ve thought we’d get to a point where we’re not designing efficient models but feeding pre-trained giants like they’re vending machines?
+
+I get it—abstraction has always been part of the field. TensorFlow and PyTorch abstracted tensor operations, Python abstracts C. But deep learning still left room for creation. We weren’t just abstracting away math; we were solving it. We could experiment, fail, and tweak. Working with LLMs doesn’t feel the same. It’s like fitting pieces into a pre-defined puzzle instead of building the puzzle itself.
+
+I understand that LLMs are here to stay. They’re incredible tools, and I respect their potential to revolutionize industries. Building real-world products with them is still challenging, requiring a deep understanding of engineering, prompt design, and integrating them effectively into workflows. By no means is it an “easy” task. But the work doesn’t give me the same thrill. It’s not about solving math or optimization problems—it’s about gluing together APIs, tweaking outputs, and wrestling with opaque systems. It’s like we’ve traded craftsmanship for convenience.
+
+Which brings me to my questions:
+
+1. Is there still room for those of us who enjoy the deep work of model design and training? Or is this the inevitable evolution of the field, where everything converges on pre-trained systems?
+
+
+2. What use cases still need traditional ML expertise? Are there industries or problems that will always require specialized models instead of general-purpose LLMs?
+
+
+3. Am I missing the bigger picture here? LLMs feel like the “kernel” of a new computing paradigm, and we don’t fully understand their second- and third-order effects. Could this shift lead to new, exciting opportunities I’m just not seeing yet?
+
+
+4. How do you stay inspired when the focus shifts? I still love AI, but I miss the feeling of building something from scratch. Is this just a matter of adapting my mindset, or should I seek out niches where traditional ML still thrives?
+
+
+
+I’m not asking this to rant (though clearly, I needed to get some of this off my chest). I want to figure out where to go next from here. If you’ve been in AI/ML long enough to see major shifts—like the move from feature engineering to deep learning—how did you navigate them? What advice would you give someone in my position?
+
+And yeah, before anyone roasts me for using an LLM to structure this post (guilty!), I just wanted to get my thoughts out in a coherent way. Guess that’s a sign of where we’re headed, huh?
+
+Thanks for reading, and I’d love to hear your thoughts!
+
+TL;DR: I entered AI during the deep learning boom, fell in love with designing and training models, and thrived on creativity, math, and optimization. Now it feels like the field is all about tweaking prompts and orchestrating APIs for pre-trained LLMs. I miss the thrill of crafting something unique. Is there still room for people who enjoy traditional ML, or is this just the inevitable evolution of the field? How do you stay inspired amidst such shifts?
+
+Update: Wow, this blew up. Thanks everyone for your comments and suggestions. I really like some of those. This thing was on my mind for a long time, glad that I put it here. Thanks again!",Educational_News_371,1h7jg87,https://reddit.com/r/MachineLearning/comments/1h7jg87/dstuck_in_ai_hell_what_to_do_in_post_llm_world/,https://www.reddit.com/r/MachineLearning/comments/1h7jg87/dstuck_in_ai_hell_what_to_do_in_post_llm_world/,2024-12-05 20:49:57,492,0.97,492,0,161,0,0,False,False,True,False,False,Discussion,self,t3_1h7jg87
+MachineLearning,[D] How does OpenAI’s O1 outperform others in math despite limitations noted in recent papers?,"Recent research has revealed that state-of-the-art LLMs often struggle with mathematical reasoning:
+
+1. The GSM-Symbolic benchmark highlights that LLMs frequently fail when numerical values or question wording change, suggesting reliance on memorization rather than true mathematical understanding ([source](https://arxiv.org/pdf/2410.05229.pdf)).
+2. Logical reasoning studies, like the AIW problem, show inconsistent performance even for basic reasoning tasks ([source](https://arxiv.org/pdf/2406.02061.pdf)).
+3. Furthermore, research indicates LLMs lack effective self-correction capabilities, with performance degrading after multiple iterations ([source](https://arxiv.org/pdf/2310.01798.pdf)).
+
+Despite these challenges, OpenAI’s new O1 model reportedly exceeds all other models in math benchmarks. How does it address these known issues in mathematical reasoning, such as:
+
+* Reliance on memorization instead of understanding?
+* Inconsistencies in reasoning across problem variations?
+* Inability to self-correct errors effectively?
+
+Would love to hear insights or hypotheses!",AImSamy,1h7vj5t,https://reddit.com/r/MachineLearning/comments/1h7vj5t/d_how_does_openais_o1_outperform_others_in_math/,https://www.reddit.com/r/MachineLearning/comments/1h7vj5t/d_how_does_openais_o1_outperform_others_in_math/,2024-12-06 06:53:09,32,0.86,32,0,16,0,0,False,False,True,False,False,Discussion,self,t3_1h7vj5t
+MachineLearning,[D] Encode over 100 million rows into embeddings ,"Hey everyone,
+
+I'm working on a pipeline to encode over **100 million rows** into embeddings using **SentenceTransformers**, **PySpark**, and **Pandas UDF** on **Dataproc Serverless**.
+
+Currently, it takes several hours to process everything. I only have one column containing sentences, each under 30 characters long. These are encoded into **64-dimensional vectors** using a custom model in a Docker image.
+
+At the moment, the job has been running for over **12 hours** with **57 executors** (each with **24GB of memory and 4 cores**). I’ve partitioned the data into **2000 partitions**, hoping to speed up the process, but it's still slow.
+
+Here’s the core part of my code:
+
+    F.pandas_udf(returnType=ArrayType(FloatType()))
+    def encode_pd(x: pd.Series) -&gt; pd.Series:
+        try:
+            model = load_model()
+            return pd.Series(model.encode(x, batch_size=512).tolist())
+        except Exception as e:
+            logger.error(f""Error in encode_pd function: {str(e)}"")
+            raise
+
+The `load_model` function is as follows:
+
+    def load_model() -&gt; SentenceTransformer:
+        model = SentenceTransformer(
+            ""custom_model"", 
+            device=""cpu"", 
+            cache_folder=os.environ['SENTENCE_TRANSFORMERS_HOME'], 
+            truncate_dim=64
+        )
+        return model
+
+I tried broadcasting the model, but I couldn't refer to it inside the Pandas UDF.
+
+Does anyone have suggestions to optimize this? Perhaps ways to load the model more efficiently, reduce execution time, or better utilize resources?",nidalap24,1h7xnce,https://reddit.com/r/MachineLearning/comments/1h7xnce/d_encode_over_100_million_rows_into_embeddings/,https://www.reddit.com/r/MachineLearning/comments/1h7xnce/d_encode_over_100_million_rows_into_embeddings/,2024-12-06 09:29:37,11,0.8,11,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h7xnce
+MachineLearning,[D] Have we officially figured out yet how O1 models differ from previous models?,"Edit: I have misworded the title as if OpenAI would confirm how O1 was implemented. I have changed the text to reflect what I meant say.
+
+
+
+I really want to deep dive into the technicals of how the O1 models perform better than previous models.
+
+Have researchers come to any definitive agreement as to what OpenAI could have possible done to achieve O1?
+
+From reading online I hear about MCTS, COT... etc, but are any of these methods in large agreement by researhers?
+",Daveboi7,1h7zfjg,https://reddit.com/r/MachineLearning/comments/1h7zfjg/d_have_we_officially_figured_out_yet_how_o1/,https://www.reddit.com/r/MachineLearning/comments/1h7zfjg/d_have_we_officially_figured_out_yet_how_o1/,2024-12-06 11:37:51,1,0.57,1,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1h7zfjg
+MachineLearning,[R] Towards Time Series Reasoning with LLMs,,HydrousIt,1h7sr3n,https://reddit.com/r/MachineLearning/comments/1h7sr3n/r_towards_time_series_reasoning_with_llms/,https://arxiv.org/abs/2409.11376,2024-12-06 04:06:32,12,1.0,12,0,1,0,0,False,False,False,False,False,Research,default,t3_1h7sr3n
+MachineLearning,[D] GPU Memory Architecture Deep Dive: Why HBM3 Changes Everything for ML Training,"TL;DR: Analyzed real training performance differences between HBM2e and HBM3 across common ML architectures. Key finding: HBM3's higher bandwidth provides 1.8-2.2x speedup for attention layers.
+
+# Memory Architecture Comparison
+
+# HBM2e (A100) vs HBM3 (H100)
+
+* Bandwidth: 2.4 TB/s vs 3.9 TB/s
+* Memory Stack: 8-Hi vs 12-Hi
+* Bus Width: 5120-bit vs 6144-bit
+
+# Impact on Large Model Training
+
+1. Attention Layer Performance
+
+* Self-attention computation: 2.1x faster
+* Cross-attention: 1.8x faster
+* Memory access patterns analysis included
+
+1. Transformer Architecture
+
+* Per-layer memory traffic reduced 35%
+* Reduced memory bank conflicts
+* Better parallel operation handling
+
+# Real-World Performance Analysis
+
+# Training Benchmarks
+
+1. Large Language Models
+
+* 7B parameter models: 1.6x speedup
+* 13B parameter models: 1.9x speedup
+* 70B parameter models: 2.2x speedup
+
+1. Computer Vision
+
+* ViT training: 1.4x speedup
+* Stable Diffusion: 1.7x faster
+
+# Cost-Performance Analysis
+
+* Break-even point: 16.2 hours (vs A100)
+* Optimal workload sizes included
+
+Will post memory traffic analysis graphs in comments.",Botinfoai,1h8482x,https://reddit.com/r/MachineLearning/comments/1h8482x/d_gpu_memory_architecture_deep_dive_why_hbm3/,https://www.reddit.com/r/MachineLearning/comments/1h8482x/d_gpu_memory_architecture_deep_dive_why_hbm3/,2024-12-06 15:43:35,2,1.0,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h8482x
+MachineLearning,[D] Exploring a New Approach for Decision Trees in Feature Space Using Linear Projections and Boosting,"Hello everyone,
+
+I've been working on a project for some time now and wanted to share a concept I'm exploring. As we know, decision tree-based models typically split the feature space using certain metrics like MSE, entropy, etc.
+
+I started thinking about an alternative approach: instead of splitting individual features, what if we could split the entire space directly? However, this seemed quite difficult, as determining boundaries and regions in the space is challenging.
+
+Then I had an idea—what if I project the data onto a line within the feature space, and then split that line, like how trees are typically built on individual features? In essence, I’m thinking of projecting points onto a line and then using tree-based methods to split them progressively.
+
+Here's a high-level view of the algorithm:
+
+1. Fit a linear regression model to the dataset (normalized values).
+2. Project the data onto the line defined by the regression.
+3. Apply a decision tree on this projection, effectively splitting one feature (the projection axis).
+4. Calculate the residuals and fit another linear model on the residuals, applying boosting in the process.
+
+Since the new linear regressions fitted on the residuals will define separate lines, I assume that through boosting, the model will gradually divide the data in the desired manner over time.
+
+You can read a more detailed description of the algorithm here: [Algorithm PDF](https://github.com/sametcopur/spacetree/blob/main/algo/algo.pdf).
+
+To visualize how the decision boundaries are formed in a 2D dataset:
+
+[SpaceBoostingRegressor](https://i.redd.it/1i10qp6dr85e1.gif)
+
+
+
+**Note:** If you want to see a visual example, uploading high-dimensional GIFs can sometimes be an issue. You can check out the example here: [Gif on GitHub](https://github.com/sametcopur/spacetree/blob/main/utils/tree_animation.gif).
+
+Also you can check the code in the repository: [Repository](https://github.com/sametcopur/spacetree/tree/main)
+
+This approach is simple because it assumes linearity, and it works in scenarios where there is a high linear correlation between the target and features while also allowing for some non-linear relationships. You can see an example in the repo,`example.ipynb` file. However, I’m not sure how well it would perform on real-world datasets, as the linear assumption may not always hold.
+
+I want to take this algorithm further, but speed is important for scaling. Techniques like PCA don't seem to help because I need the line to reflect the variance in both the target and feature space, rather than just feature variance. I tried using MLPs and extracting the embeddings from a hidden layer before the output layer, which works better since we're evaluating the target in a larger space, but this approach becomes too slow and isn’t feasible in practice.
+
+I think this project has great potential, and I’m looking for feedback, ideas, or anyone interested in collaborating. Any comments or suggestions are welcome!",zedeleyici3401,1h838y5,https://reddit.com/r/MachineLearning/comments/1h838y5/d_exploring_a_new_approach_for_decision_trees_in/,https://www.reddit.com/r/MachineLearning/comments/1h838y5/d_exploring_a_new_approach_for_decision_trees_in/,2024-12-06 15:00:41,0,0.5,0,0,0,0,0,False,False,True,False,False,Discussion,https://a.thumbs.redditmedia.com/e0DAeFrPHci5HsV6mlnNzXtgQVmldE3CJmgS7Ro-3b0.jpg,t3_1h838y5
+MachineLearning,"Guys I need a help regarding my project on TMDB Dataset from Kaggle ""[P]"", ""[Project]""","So we are working on a clge project on TMDB Dataset from kaggle
+
+[https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
+
+We are trying to do regression. But the problem is this data contains mostly 0's I mean 75% of columns have zero values in it.
+
+I need your help for performing this model either it is regression or classification. But we werent taught NLP yet so we will be working on ML (supervised and unsupervised - clustering).
+
+[datatypes](https://preview.redd.it/52uy9rpoo85e1.png?width=569&amp;format=png&amp;auto=webp&amp;s=8ebf1a97ebba1c81c927af1d2d4e2e20139b7deb)
+
+[columns](https://preview.redd.it/ebdm2mzqo85e1.png?width=818&amp;format=png&amp;auto=webp&amp;s=0b9fc7b1aa5baf60edd4f49feed48c28a72756af)
+
+[there are more than 75&amp;#37; records with zeros in revenue, budget, vote columns](https://preview.redd.it/6p44ilxuo85e1.png?width=968&amp;format=png&amp;auto=webp&amp;s=60e913dd8673ae786e3ad161048e851b3df19d82)
+
+So I need your help in performing this project. Or am I missing something I can fill them with Mean but it wont fit with the context of the data. I need your help. You can dm me as well
+
+Thanks",Bloodshot12_,1h82s34,https://reddit.com/r/MachineLearning/comments/1h82s34/guys_i_need_a_help_regarding_my_project_on_tmdb/,https://www.reddit.com/r/MachineLearning/comments/1h82s34/guys_i_need_a_help_regarding_my_project_on_tmdb/,2024-12-06 14:39:19,0,0.5,0,0,0,0,0,False,False,True,False,False,Project,https://a.thumbs.redditmedia.com/fnTizOkAUlYn8zUb1oL5ISKQws5-Rt2iqGm_N6bMSJ4.jpg,t3_1h82s34
+MachineLearning,[P] MRNet dataset,can any one help with build a model for this dataset ? i did the EDA but stuck as unbalanced labels.,LahmeriMohamed,1h823hx,https://reddit.com/r/MachineLearning/comments/1h823hx/p_mrnet_dataset/,https://www.reddit.com/r/MachineLearning/comments/1h823hx/p_mrnet_dataset/,2024-12-06 14:06:02,1,0.67,1,0,0,0,0,False,False,True,False,False,Project,self,t3_1h823hx

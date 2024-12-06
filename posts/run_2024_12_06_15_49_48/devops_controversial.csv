@@ -1,0 +1,173 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,How We Reduced Our Google Cloud Bill by 65%,"Learn how we reduced our Google Cloud costs by 65% using Kubernetes optimizations, workload consolidation, and smarter logging strategies. Perfect for startups aiming to extend their runway and save money.
+
+This is a technical article with a few code snippets and configuration screenshots where it was relevant.
+
+[https://brokee.io/blog/how-we-reduced-our-google-cloud-bill-by-65](https://brokee.io/blog/how-we-reduced-our-google-cloud-bill-by-65)  
+  
+",lumaks,1h7etcd,https://reddit.com/r/devops/comments/1h7etcd/how_we_reduced_our_google_cloud_bill_by_65/,https://www.reddit.com/r/devops/comments/1h7etcd/how_we_reduced_our_google_cloud_bill_by_65/,2024-12-05 17:38:15,4,0.55,4,0,2,0,0,False,False,True,False,False,,self,t3_1h7etcd
+devops,AWS vs GCP: which cloud provider to choose,"There are lots of cloud providers to choose from. Most of them provide attractive offers for new users and free tiers. We will focus on 2 of them today: [Amazon Web Services (AWS)](https://aws.amazon.com/) and [Google Cloud Platform (GCP)](http://console.cloud.google.com/)  
+They are quite different yet both posess all the necessary stuff we may need.
+
+|[AWS](https://aws.amazon.com/)|[GCP](http://console.cloud.google.com/)|
+|:-|:-|
+|[1 year free tier](https://aws.amazon.com/free/)|[3 months free tier](https://cloud.google.com/free) \+ 300$ for paid services|
+|zone doesn’t matter|only some zones can be chosen in free tier|
+|1 core machine on free tier (t2 micro or t3 micro)|0.25 core machine on free tier — shared core (e2-micro)|
+|up to 30 GB disk size on free tier|10 GB disk size on free tier|
+|5 GB storage|5 GB storage|
+|1 million requests on Lambda (works with code), free after trial|2 million requests on Cloud Run (works with containers)|
+|convenient user interface|can be hard to find what you want|
+|needs your bank card verification, starts taking money after 1 year trial or if excess free tier limits|only email to start, after 3 months turns your services off and asks for upgrade to paid version|
+|[Container registry — 500 MB / month in free tier](https://aws.amazon.com/ecr/pricing/)|[Pay for storage](https://cloud.google.com/container-registry/pricing), but can be covered by credits|
+|[Free tier description](https://aws.amazon.com/free/)|[Free tier description](https://cloud.google.com/free)|
+
+For me, these are the main differences that play a big role.
+
+Both of them allow to register several accounts to continue using free version longer. Both of them have nearly the same pricing after the free version stops: some services are slightly cheaper in one, some in another.
+
+# What would you add to the comparison table? What's your choice between those?",mari_zombie,1h7dhzh,https://reddit.com/r/devops/comments/1h7dhzh/aws_vs_gcp_which_cloud_provider_to_choose/,https://www.reddit.com/r/devops/comments/1h7dhzh/aws_vs_gcp_which_cloud_provider_to_choose/,2024-12-05 16:44:14,3,0.57,3,0,40,0,0,False,False,True,False,False,,self,t3_1h7dhzh
+devops,Anyone wanna learn and study Tg?,"Hello....I come from a full stack development background. Never really got a job, just did an internship, made cool projects and clones of already existing apps like discord and reddit and what not. However it's extremely boring and repetitive not to mention how overly saturated the field is.
+
+I've recently decided to make the switch to dev ops and the journey feels a bit lonely. I was wondering if there was anyone else also leaning dev ops so we could possible help each other out and increase our skills while making it fun. It doesn't really matter if you are already in advanced stages or even hired haha....always helps if there is someone who can lead you in the right direction.
+
+Thanks! Have a good day/night yaall",Mors_Vows,1h7t43a,https://reddit.com/r/devops/comments/1h7t43a/anyone_wanna_learn_and_study_tg/,https://www.reddit.com/r/devops/comments/1h7t43a/anyone_wanna_learn_and_study_tg/,2024-12-06 04:27:02,0,0.44,0,0,9,0,0,False,False,True,False,False,,self,t3_1h7t43a
+devops,Hiring a team vs 1 full stack,"Heyo 
+
+I’m working on a project as the client, and I’m trying to figure out whether it’s better to hire a full team (PM, front-end, back-end, QA) at an agency, or stick with a full-stack developer I’ve worked with before.
+
+Anyone have thoughts or experiences with this? Pros/cons ",Haunting-Visual-3001,1h7oc4i,https://reddit.com/r/devops/comments/1h7oc4i/hiring_a_team_vs_1_full_stack/,https://www.reddit.com/r/devops/comments/1h7oc4i/hiring_a_team_vs_1_full_stack/,2024-12-06 00:23:40,1,0.54,1,0,8,0,0,False,False,True,False,False,,self,t3_1h7oc4i
+devops,What is this subreddit's take on being able to create firewall rules in your organisation? Do you wish for more freedom or are happy the way things are?,"Background: my organisation currently doesn't allow devs to create and deploy their own firewall rules (not talking about AWS security groups) as they're concerned about the potential for broad rules being created.
+
+Does your org support IaC for firewalls? What are your thoughts on the subject? ",schemza,1h80p2l,https://reddit.com/r/devops/comments/1h80p2l/what_is_this_subreddits_take_on_being_able_to/,https://www.reddit.com/r/devops/comments/1h80p2l/what_is_this_subreddits_take_on_being_able_to/,2024-12-06 12:54:13,0,0.25,0,0,14,0,0,False,False,True,False,False,,self,t3_1h80p2l
+devops,Any Autocomplete Tools for long lengthy forms?,Are there any tools that can be used to autofill / autocomplete the forms for testing long lengthyforms?,AatmanirbharNobita,1h81v8n,https://reddit.com/r/devops/comments/1h81v8n/any_autocomplete_tools_for_long_lengthy_forms/,https://www.reddit.com/r/devops/comments/1h81v8n/any_autocomplete_tools_for_long_lengthy_forms/,2024-12-06 13:55:14,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h81v8n
+devops,Cursor (AI-enabled IDE) favorite use cases,"Devs, I find myself using Cursor for a lot of writing-based tasks, and I'm curious what you use it for outside of strictly coding.",juice_cane,1h7ebna,https://reddit.com/r/devops/comments/1h7ebna/cursor_aienabled_ide_favorite_use_cases/,https://www.reddit.com/r/devops/comments/1h7ebna/cursor_aienabled_ide_favorite_use_cases/,2024-12-05 17:18:03,0,0.3,0,0,1,0,0,False,False,True,False,False,,self,t3_1h7ebna
+devops,Atlassian Product Admin to Devops or Platform Engineer transition,"Hello everyone,
+
+Lately I have been attracted to Devops more and more and was wondering if you could give me some pointers as to how to transition to Devops or at least a Platform Engineer for starters.
+
+My background is a bit over 5 years working as an Atlassian Admin (Cloud only). I like to think that I am well skilled with REST API, Groovy scripting, AQL (I think not really relevant). I understand SQL but never really had the need to use it extensively.
+
+I was reading a bit on what is needed in order to transition to Devops and found out that Devops covers many different aspects and that some people recommended starting as a Platform Engineer for people with similar backgrounds as me.
+
+All in all, I would like to start developing the needed skills for Devops in 2025 and start making the transition slowly if possible. Maybe my 1st step would be to learn how Azure DevOps works as a tool as well and start slowly from there.
+
+  
+Thank you!",Cokleen,1h7dtaw,https://reddit.com/r/devops/comments/1h7dtaw/atlassian_product_admin_to_devops_or_platform/,https://www.reddit.com/r/devops/comments/1h7dtaw/atlassian_product_admin_to_devops_or_platform/,2024-12-05 16:57:16,0,0.5,0,0,1,0,0,False,False,True,False,False,,self,t3_1h7dtaw
+devops,How we handle Terraform downstream dependencies without additional frameworks,"Hi, founder of Anyshift here. We've build a solution for handling issues with Terraform downstream dependencies without additional frameworks (mono or multirepos), and wanted to explain how we've done it.
+
+**1.First of all, the key problems we wanted to tackle:**
+
+* Handling hardcoded values
+* Handling remote state dependencies
+* Handling intricate modules (public + private)
+* we knew that it was possible to do it without adding additional frameworks, by going through the Terraform State Files.
+
+**2.Key Assumptions:**
+
+* Your infra is a graph. To model the infrastructure accurately, we used Neo4j to capture relationships between resources, states, and modules.
+* All the information you need is within your cloud and code: By parsing both, we could recreate the chain of dependencies and insights without additional overhead.
+* Our goal was to build a digital twin of the infrastructure. Encompassing code, state, and cloud information to surface and prevent issues early.
+
+**3.Our solution:**
+
+To handle downstream dependencies we are :
+
+1. Creating a digital twin of the infra with all the dependencies between IaC code and cloud
+2. For each PR, querying this graph with Cypher (Neo4J query language) to retrieve those dependencies
+
+**-&gt; Build an up-to-date Cloud-to-Code graph**
+
+i - Understanding Terraform Stat Files
+
+Terraform state files are super rich in term of information, way more than the files. They hold the exact state of deployed resources, including:
+
+* Resource types
+* Unique identifiers
+* Relationships between modules and their resources
+
+By parsing these state files, we could unify insights across multiple repositories and environments. They acted as a bridge between code-defined intentions and cloud-deployed realities. By parsing these state files, we could unify insights across multiple repositories and environments. They acted as a bridge between code-defined intentions and cloud-deployed realities.
+
+ii- Building this graph using Neo4J
+
+Neo4j allowed us to model complex relationships natively. Unlike relational databases, graph databases are better suited for interconnected data like infrastructure resources.
+
+We modeled infrastructure as nodes (e.g., EC2 instances, VPCs) and relationships (e.g., ""CONNECTED\_TO,"" ""IN\_REGION""). For example:
+
+* Nodes: Represent resources like an EC2 instance or a Security Group.
+* Relationships: Define how resources interact, such as an EC2 instance being attached to a Security Group.
+
+iii- Extracting and Reconciling Data
+
+We developed services to parse state files from multiple repositories, extracting relevant data like resource definitions, unique IDs, and relationships. Once extracted, we reconciled:
+
+* Resources from code with resources in the cloud.
+* Dependencies across repositories, resolving naming conflicts and overlaps.
+
+We also labeled nodes to differentiate between sources (e.g., TF\_CODE, TF\_STATE) for a clear picture of infrastructure intent vs. reality.
+
+**-&gt; Query this graph to retrieve the dependencies before a change**
+
+Once the graph is built, we use Cypher, Neo4j's query language, to answer questions about the infrastructure downstream dependencies.
+
+Step 1 : Make a change
+
+We make a change on resource or a module. For instance expanding an IP range in a VPC CIDR.
+
+Step 2 : Cypher query
+
+We're going query the graph of dependencies through different cypher queries to see which downstream dependencies will be affected by this change, potentially in other IaC repositories. For instance this change can affect 2 ECS and 1 security group.
+
+Step 3 : Give back the info in the PR
+
+**4. Current limitations:**
+
+* To handle all the use cases, we are limited by the Cypher queries we define. We want to make it as generic as possible.
+* It only works with Terraform, and not other IaC frameworks (could work with Pulumi though)
+
+Happy to answer questions / hear some thoughts :))",New_Detective_1363,1h824t1,https://reddit.com/r/devops/comments/1h824t1/how_we_handle_terraform_downstream_dependencies/,https://www.reddit.com/r/devops/comments/1h824t1/how_we_handle_terraform_downstream_dependencies/,2024-12-06 14:07:52,0,0.2,0,0,1,0,0,False,False,True,False,False,,self,t3_1h824t1
+devops,Which AWS professional certification? ,My employer is offering training and free vouchers for professional level. I've to choose between Solutions Architect professional and Devops Engineer Professional. What do you suggest?,D1mZ,1h7bx7g,https://reddit.com/r/devops/comments/1h7bx7g/which_aws_professional_certification/,https://www.reddit.com/r/devops/comments/1h7bx7g/which_aws_professional_certification/,2024-12-05 15:36:56,10,0.86,10,0,2,0,0,False,False,True,False,False,,self,t3_1h7bx7g
+devops,hint ,i have a discount of 50% in the associate aws exams but i should choose the exam date before 31 December however i didn't even pass the practitioner which im preparing to  . is there a big gap between the associate solution architect and the practitioner or i can pass the associate just with the lvl of the practitioner????,Confident-Sound-9674,1h7c4x9,https://reddit.com/r/devops/comments/1h7c4x9/hint/,https://www.reddit.com/r/devops/comments/1h7c4x9/hint/,2024-12-05 15:46:11,0,0.17,0,0,1,0,0,False,False,True,False,False,,self,t3_1h7c4x9
+devops,Advice to give to a software engineering student ,"I am a 3rd year computer science student , my field is softwares and embedded systems.
+
+I am open to all kind of advice or resources to help me pass and improve ",unlucky-angel-558,1h7c3ck,https://reddit.com/r/devops/comments/1h7c3ck/advice_to_give_to_a_software_engineering_student/,https://www.reddit.com/r/devops/comments/1h7c3ck/advice_to_give_to_a_software_engineering_student/,2024-12-05 15:44:13,3,0.72,3,0,8,0,0,False,False,True,False,False,,self,t3_1h7c3ck
+devops,Is Kubernetes necessary on your current job? Why?,"In my current job, we manage two services using ECS Fargate and several event-driven services with AWS Lambda.
+
+I've been considering switching to Kubernetes as we grow, but I always wonder, *""When are we big enough to justify it?""* After reading the article ""[I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever](https://blog.stackademic.com/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0)"" it seems like Kubernetes might only be necessary for ""unicorn"" companies or closer.
+
+What do you think? Is using Kubernetes at your job overengineering? Why or why not?",best-regards-2-me,1h7h3ba,https://reddit.com/r/devops/comments/1h7h3ba/is_kubernetes_necessary_on_your_current_job_why/,https://www.reddit.com/r/devops/comments/1h7h3ba/is_kubernetes_necessary_on_your_current_job_why/,2024-12-05 19:11:15,100,0.93,100,0,130,0,0,False,False,True,False,False,,self,t3_1h7h3ba
+devops,What essential tools do you install on your laptop as a DevOps or SRE?,I just installed iTerm2 on my coworker's recommendation and I just love it. I wonder what other things are out there which I am missing? :D,ashofspades,1h807lg,https://reddit.com/r/devops/comments/1h807lg/what_essential_tools_do_you_install_on_your/,https://www.reddit.com/r/devops/comments/1h807lg/what_essential_tools_do_you_install_on_your/,2024-12-06 12:26:03,45,0.96,45,0,49,0,0,False,False,True,False,False,,self,t3_1h807lg
+devops,Need suggest/ideas to cut aws data transfer cost,"Our next.js app is communicating with the .Net backend via publicly exposed LB/domain via ingress controller. This communication is adding to the data cost of our cloud as the communication is public. 
+As per my knowledge, there is no way around for this as most of the things are rendered on the browser of users &amp; we can't omit a publically exposed API from the architecture.
+Can anyone suggest a concept or anything you have used in such scenarios, where requests from users are served via ingress &amp; internal calls from frontend microservice to backend microservice are served locally...?",h3xport,1h815ad,https://reddit.com/r/devops/comments/1h815ad/need_suggestideas_to_cut_aws_data_transfer_cost/,https://www.reddit.com/r/devops/comments/1h815ad/need_suggestideas_to_cut_aws_data_transfer_cost/,2024-12-06 13:18:02,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h815ad
+devops,Best Practice for deploying and accessing secure Jenkins in AWS,"I'm currently learning and working with Jenkins CI/CD pipeline in AWS and have a question.
+
+For security, Jenkins should not be open to public. So the ways of implementing secure Jenkins are
+
+1. Deploy Jenkins in private subnet ec2 instance and do something to access Jenkins GUI (I was able to successfully deploy Jenkins in private subnet ec2 instance but PrivateLink and Bastion allows only CLI connection, not GUI connection. I wonder if there is an option to open Jenkins GUI.)
+2. Deploy Jenkins in public subnet and set Security Group inbound rule to accept only from specific ip.
+3. Or something else?
+
+\*) And also, should I give Jenkins instance SSL to make it https, or http with restricted security group is okay?
+
+What is the option that you use? Any suggestion would be appreciated.
+
+\+) If you know websites that have information about these kind of best practice, could you let me know some of them please?",MapleLiberty,1h7jd7b,https://reddit.com/r/devops/comments/1h7jd7b/best_practice_for_deploying_and_accessing_secure/,https://www.reddit.com/r/devops/comments/1h7jd7b/best_practice_for_deploying_and_accessing_secure/,2024-12-05 20:46:25,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1h7jd7b
+devops,Any opinions about Azure managed Prometheus?,"Hi,
+We have a bunch of AKS Clusters running, each with a kube Prometheus stack. I have one grandsons instance with multiple data sources. 
+ I'm thinking about a nicer setup and a centralized tsdb.  Mimir with remote writes would be a nice solution but I need some kind of S3 storage. Azure managed Prometheus sounds like the easiest solution but I have always doubts about Microsoft products. Has anyone here running the managed prometheus and experiences with performance, long term storage and costs? I will only store metrics and need connectivity to an alert manager. ",schmiddim,1h7hivt,https://reddit.com/r/devops/comments/1h7hivt/any_opinions_about_azure_managed_prometheus/,https://www.reddit.com/r/devops/comments/1h7hivt/any_opinions_about_azure_managed_prometheus/,2024-12-05 19:29:40,1,1.0,1,0,6,0,0,False,False,True,False,False,,self,t3_1h7hivt
+devops,In quest for the optimal solution to handling long CI jobs,"Context
+
+Hi, I'm a senior software developper and with my team, like many others, we work with a pretty complex CI/CD, the scripts are clean and well maintained, we use Circle CI and Github and it does what we want. Recently one job that is atomic ruins circle CI timeouts policies pretty often. We literally cannot split this job.
+
+My guess is that if it cannot be run in a circle CI container, you have to run it elsewhere. It is what I do, shamefully I run that part of our CI/CD process locally when it happens. What do you do or what do you think would be the best thing to do?
+
+I have 3 things that come to mind:
+
+\- setting up a job runner for the company like a jenkins server and setting up(or cheating a pluggin(orb in the case of circle) in the CI to integrate it there
+
+\- setting up some IAC like EC2 + SNS and integrate that with our pipeline through apis and eventing which adds lots of complexity and is potentially extremly expensive
+
+\- having the step be blocking on the prs but totally devoid of the usual CI/CD pipeline, something that needs to be run localy and people handle those up to 7h builds themselves
+
+Ty very much for your input if you have some, if you feel the post is at the wrong place, feel free to give me pointers.",gagaluf,1h7h4gt,https://reddit.com/r/devops/comments/1h7h4gt/in_quest_for_the_optimal_solution_to_handling/,https://www.reddit.com/r/devops/comments/1h7h4gt/in_quest_for_the_optimal_solution_to_handling/,2024-12-05 19:12:35,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1h7h4gt

@@ -1,0 +1,58 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Non-Europ-centric math history,"I recently learned that the Chinese invented the printing press long before Gutenberg did and I had no idea. That led me to wonder about the history of math. 
+
+What are some mathematical discoveries, or facts about mathematical history, or math myths from the ancient world outside of Europe/Greece? 
+
+For example, we all know about the (probably false) story about how they drowned Hippasus for proving the square root of two was irrational. 
+
+And we all know the story about Archimedes getting killed while drawing circles on the beach. 
+
+And we all know about Newton and Leibniz discovering calculus. Etc etc. 
+
+I know very few such anecdotes from other parts of the world and would like to hear them. ",Different_Tip_7600,1h7ve8n,https://reddit.com/r/math/comments/1h7ve8n/noneuropcentric_math_history/,https://www.reddit.com/r/math/comments/1h7ve8n/noneuropcentric_math_history/,2024-12-06 06:44:16,8,0.56,8,0,49,0,0,False,False,True,False,False,,,t3_1h7ve8n
+math,I'd like to start with coding theory,"We build error correction algorithms for high speed data transmission and we have people dedicated to figure out the bit manipulation and all that, while we figure out how to make a physical device out of it.
+
+Unfortunately I lack the mathematical background to understand the coding/encoding parts and its frustrating. 
+
+Which book/material would you recommend starting with?
+
+FYI we use generalized Reed Solomon codes or turbo codes, but these names make no sense to me and I want to understand the fundamentals.
+
+Thanks a lot!",albasili,1h7zezy,https://reddit.com/r/math/comments/1h7zezy/id_like_to_start_with_coding_theory/,https://www.reddit.com/r/math/comments/1h7zezy/id_like_to_start_with_coding_theory/,2024-12-06 11:36:50,6,0.75,6,0,6,0,0,False,False,True,False,False,,,t3_1h7zezy
+math,"Career and Education Questions: December 05, 2024","This recurring thread will be for any questions or advice concerning careers and education in mathematics. Please feel free to post a comment below, and sort by new to see comments which may be unanswered.
+
+Please consider including a brief introduction about your background and the context of your question.
+
+Helpful subreddits include [/r/GradSchool](https://www.reddit.com/r/GradSchool), [/r/AskAcademia](https://www.reddit.com/r/AskAcademia), [/r/Jobs](https://www.reddit.com/r/Jobs), and [/r/CareerGuidance](https://www.reddit.com/r/CareerGuidance).
+
+If you wish to discuss the math you've been thinking about, you should post in the most recent [What Are You Working On?](https://www.reddit.com/r/math/search?q=what+are+you+working+on+author%3Ainherentlyawesome&amp;restrict_sr=on&amp;sort=new&amp;t=all) thread.",inherentlyawesome,1h7dw38,https://reddit.com/r/math/comments/1h7dw38/career_and_education_questions_december_05_2024/,https://www.reddit.com/r/math/comments/1h7dw38/career_and_education_questions_december_05_2024/,2024-12-05 17:00:30,3,0.67,3,0,2,0,0,False,False,True,False,False,,,t3_1h7dw38
+math,"""The mark of a good mathematician is their estimation skills""","In college my upper division geometry professor showed us a documentary of a little old Asian lady who had the world record for solving the most proofs, or publishing the most papers, or something of those sorts. In it, she said that the mark of a good mathematician is their estimation skills, which she attributes to math intuition in addition to practice and learning fundamentals. Do you agree? Is estimation one of the most important maths skill to develop? What to you is the most important math skill to develop?",MCU_historian,1h7fhe2,https://reddit.com/r/math/comments/1h7fhe2/the_mark_of_a_good_mathematician_is_their/,https://www.reddit.com/r/math/comments/1h7fhe2/the_mark_of_a_good_mathematician_is_their/,2024-12-05 18:05:17,223,0.88,223,0,59,0,0,False,False,True,False,False,,,t3_1h7fhe2
+math,Are there rational values greater than 1 that α = σ(n)/n cannot take?,"σ(n) being the sum of divisors function. Essentially will α take on all rational numbers greater than 1? If n is prime then for larger n α will be closer to 1, and if n has many divisors then α can get quite large. Does it take all values in between?",Winde1,1h7xz2j,https://reddit.com/r/math/comments/1h7xz2j/are_there_rational_values_greater_than_1_that_α/,https://www.reddit.com/r/math/comments/1h7xz2j/are_there_rational_values_greater_than_1_that_α/,2024-12-06 09:54:43,20,0.84,20,0,7,0,0,False,False,True,False,False,,,t3_1h7xz2j
+math,"Jason Padgett, is he legit?","I recently saw a Mind Field (a series from VSauce) [video](https://youtu.be/wcPzTr-BbAA?si=IURpyjY_luvwv679) that cited him as an acquired Savant with outstanding abilities in mathematics, he claims to have gained profound mathematical intuition following a head injury and to have consequently pursued mathematical education to talk to mathematicians in their language, he also claims on his [website](https://jason-padgett.pixels.com/) he's doing research on number theory and fractal geometry, yet he has published NOTHING (at least nothing I can find on Google scholar).
+
+I'm still in undergrad so I don't have much experience looking for academic publications, I would really appreciate it if someone more knowledgeable than me confirmed whether or not he ever published. His claims are very weird and sound like pseudoscience, which adds to my doubts about him.",TheRedditObserver0,1h822sd,https://reddit.com/r/math/comments/1h822sd/jason_padgett_is_he_legit/,https://www.reddit.com/r/math/comments/1h822sd/jason_padgett_is_he_legit/,2024-12-06 14:05:06,20,0.95,20,0,11,0,0,False,False,True,False,False,,,t3_1h822sd
+math,Seeking Guidance: Niche in Mathematical Optimization/Programming in Finance ,"Hi there,
+
+I am a master's student in Applied Mathematics specializing in Optimization, and I’m exploring research directions that combine mathematical programming with finance. Recently, while wandering through the library, I came across the book Optimization Methods in Finance by Gérard Cornuéjols and Reha Tütüncü. It captivated me with its focus on how different programming techniques (linear, integer, quadratic, etc.) can be applied to develop financial models.
+
+From my understanding, the book is aimed at audiences in Computational Finance, MBA programs, and master’s courses in Finance. However, I’m particularly interested in exploring the mathematical backbone of these techniques, with a focus on deterministic programming methods rather than stochastic analysis.
+
+To delve deeper, I checked the bibliography of the book and searched Google Scholar for related work. Surprisingly, I struggled to find a dedicated ""niche"" or group of researchers focusing exclusively on this intersection. It seems that relevant work is scattered across journals in Applied Mathematics, Finance, Optimization, and Operations Research.
+
+So, I have a few questions for anyone working in this area or adjacent fields:
+
+1. Why doesn’t mathematical programming in finance seem to have a dedicated niche or society, like stochastic analysis does?
+
+
+2. Are deterministic programming techniques less useful compared to stochastic methods in finance, or is this a relatively newer area that hasn’t yet gained a strong foothold?
+
+
+3. Can you recommend journals, conferences, or research groups that focus on applying mathematical programming (not stochastic methods) to financial problems?
+
+
+
+I’m keen on developing a research direction that revolves around the mathematics behind such models, and understanding their practical applications. Any guidance, insights, or resources would be greatly appreciated!
+
+Thanks in advance!
+
+",SuspiciousEmploy1742,1h7ypvf,https://reddit.com/r/math/comments/1h7ypvf/seeking_guidance_niche_in_mathematical/,https://www.reddit.com/r/math/comments/1h7ypvf/seeking_guidance_niche_in_mathematical/,2024-12-06 10:49:09,10,0.92,10,0,1,0,0,False,False,True,False,False,,,t3_1h7ypvf

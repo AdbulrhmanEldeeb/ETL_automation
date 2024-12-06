@@ -1,0 +1,75 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Deploying Niche R Bayesian Stats Packages into Production Software,"Hoping to see if I can find any recommendations or suggestions into deploying R alongside other code (probably JavaScript) for commercial software. 
+
+Hard to give away specifics as it is an extremely niche industry and I will dox myself immediately, but we need to use a Bayesian package that has primary been developed in R.   
+  
+Issue is, from my perspective, the package is poorly developed. No unit tests. poor/non-existent documentation, plus practically impossible to understand unless you have a PhD in Statistics along with a deep understanding of the niche industry I am in. Also, the values provided have to be ""correct""... lawyers await us if not...  
+  
+While I am okay with statistics / maths, I am not at the level of the people that created this package, nor do I know anyone that would be in my immediate circle. The tested JAGS and untested STAN models are freely provided along with their papers.
+
+It is either I refactor the R package myself to allow for easier documentation / unit testing / maintainability, or I recreate it in Python (I am more confident with Python), or just utilise the package as is and pray to Thomas Bays for (probable) luck.
+
+Any feedback would be appreciated. ",Sebyon,1h81878,https://reddit.com/r/datascience/comments/1h81878/deploying_niche_r_bayesian_stats_packages_into/,https://www.reddit.com/r/datascience/comments/1h81878/deploying_niche_r_bayesian_stats_packages_into/,2024-12-06 13:22:19,10,1.0,10,0,4,0,0,False,False,True,False,False,Projects,self,t3_1h81878
+datascience,"The ""method chaining"" is the best way to write Pandas code that is clear to design, read, maintain and debug: here is a CheatSheet from my practical experience after more than one year of using it for all my projects",,danieleoooo,1h7j7ry,https://reddit.com/r/datascience/comments/1h7j7ry/the_method_chaining_is_the_best_way_to_write/,https://github.com/danieleongari/pandas-chaining-ninja,2024-12-05 20:40:04,177,0.94,177,0,34,0,0,False,False,False,False,False,Education,https://b.thumbs.redditmedia.com/kDOeXHINUoW4_aTiFwuqHowXkUEWUfFmZ9W_QSd-iIo.jpg,t3_1h7j7ry
+datascience,Retail and Machine Learning,"Currently working in the retail industry that has quite a lot of transactional data. 
+
+Apart from the traditional product recommendation /propensity / basket analysis / classification models used in client targeting, what other types of models are commonly being built in the retail scene? 
+
+I’d love to hear about your use cases to get some new inspirations!
+
+",EstablishmentHead569,1h7cj7p,https://reddit.com/r/datascience/comments/1h7cj7p/retail_and_machine_learning/,https://www.reddit.com/r/datascience/comments/1h7cj7p/retail_and_machine_learning/,2024-12-05 16:03:16,54,0.92,54,0,33,0,0,False,False,True,False,False,Discussion,self,t3_1h7cj7p
+datascience,Resources to learn about modeling and working with telemetry data,"What are some of the contemporary ways in which Telemetry data is modeled?   
+My experience is from before the pandemic days where I used fact-tables (Kimball dimensional modeling practices) and relied on metadata and views.
+
+But I anticipate working with large volumes of real-time streaming data like logs and clickstream. What resources/docs can I refer to when it comes to wrangling, modeling and analyzing for insights and further development?",StuckInLocalMinima,1h7fcjc,https://reddit.com/r/datascience/comments/1h7fcjc/resources_to_learn_about_modeling_and_working/,https://www.reddit.com/r/datascience/comments/1h7fcjc/resources_to_learn_about_modeling_and_working/,2024-12-05 18:00:12,13,1.0,13,0,3,0,0,False,False,True,False,False,Projects,self,t3_1h7fcjc
+datascience,Can anyone who is already working professionally as a data analyst give me links to real data analysis projects ?,"I am on a good level now and I want to practice what I have learned, but most of the projects online are far from practical and I want to do something close to reality
+
+so If anyone here works as a DA or BI , can you please direct me to projects online that you find close to what you work with ?
+
+",Emotional-Rhubarb725,1h72pax,https://reddit.com/r/datascience/comments/1h72pax/can_anyone_who_is_already_working_professionally/,https://www.reddit.com/r/datascience/comments/1h72pax/can_anyone_who_is_already_working_professionally/,2024-12-05 06:16:13,89,0.85,89,0,43,0,0,False,False,True,False,False,Projects,self,t3_1h72pax
+datascience,"I need advice on what type of ""capstone project"" I can work on to demonstrate my self-taught knowledge","This is normally the kind of thing I'd go to GPT for since it has endless patience, however, it can often come up with wonderful ideas and no way to actually fulfill them (no available data).
+
+
+One thing I've considered is using my spotify listening history to find myself new songs.
+
+
+On the one hand, I would love to do a data vis project on my listening history as I'm the type who has music on constantly.
+
+
+On the other hand, when it comes to the actual data science aspect of the project, I would need information on songs that I haven't listened to, in order to classify them. Does anybody know how I could get my hands on a list of spotify URIs in order to fetch data from their API?
+
+
+----
+
+Moreover, does anybody know of any open source datasets that would lend themselves well to this kind of project?  Kaggle data often seems too perfect and can't be used for a real-time project / tool, which is the bar nowadays.
+
+
+Some ideas I've had include 
+
+1. Classifying crop diseases, but I'm not sure if there is open data, and labelled data on that?
+
+2. Predicting probability your roof is suitable for solar panel installation based on address and Google satellite API combined with an LLM and prompt engineering - I don't think I could use a logistics regression for this since there isn't labelled data I'm aware of
+
+Any other ideas that can use some element of machine learning? I'm comfortable with things like logistic regression and getting to grips with neural networks.
+
+
+Starting to ramble so I'll leave it there!
+
+
+",ColdStorage256,1h7h1qu,https://reddit.com/r/datascience/comments/1h7h1qu/i_need_advice_on_what_type_of_capstone_project_i/,https://www.reddit.com/r/datascience/comments/1h7h1qu/i_need_advice_on_what_type_of_capstone_project_i/,2024-12-05 19:09:29,5,0.67,5,0,6,0,0,False,False,True,False,False,Projects,self,t3_1h7h1qu
+datascience,is windows crucial for data analysis ? and which alternative tools for Linux are better ?,"I have just started using Linux and most of the tools I use aren't available as a desktop app, and some are available as a web app
+
+but after some search I figured that there are some tools available for Linux such Gravana and apache superset
+
+and database management systems
+
+so which is better that others from your experience",Emotional-Rhubarb725,1h7w3y6,https://reddit.com/r/datascience/comments/1h7w3y6/is_windows_crucial_for_data_analysis_and_which/,https://www.reddit.com/r/datascience/comments/1h7w3y6/is_windows_crucial_for_data_analysis_and_which/,2024-12-06 07:33:51,0,0.38,0,0,32,0,0,False,False,True,False,False,Tools,self,t3_1h7w3y6
+datascience,Data drift detection methods aside from changes in model performance metrics,"Hi all,
+
+As the title implies, I've been relying on (somewhat near) real-time monitoring of model performance metrics to see if data drift has happened in my use-case. 
+
+I'm wondering if you know other more sophisticated/advanced methods to detect data drift. Would love to hear any kind of methods, whether they target detection of covariate/feature drift, target/label drift or concept drift. 
+
+Even better if you can share any Python or R implementations to carry out the above data drift checks.
+
+Thanks in advance!",YsrYsl,1h6wmn2,https://reddit.com/r/datascience/comments/1h6wmn2/data_drift_detection_methods_aside_from_changes/,https://www.reddit.com/r/datascience/comments/1h6wmn2/data_drift_detection_methods_aside_from_changes/,2024-12-05 01:00:25,44,1.0,44,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1h6wmn2

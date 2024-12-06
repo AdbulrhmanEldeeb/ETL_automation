@@ -1,0 +1,144 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,What essential tools do you install on your laptop as a DevOps or SRE?,I just installed iTerm2 on my coworker's recommendation and I just love it. I wonder what other things are out there which I am missing? :D,ashofspades,1h807lg,https://reddit.com/r/devops/comments/1h807lg/what_essential_tools_do_you_install_on_your/,https://www.reddit.com/r/devops/comments/1h807lg/what_essential_tools_do_you_install_on_your/,2024-12-06 12:26:03,45,0.95,45,0,49,0,0,False,False,True,False,False,,self,t3_1h807lg
+devops,Is Kubernetes necessary on your current job? Why?,"In my current job, we manage two services using ECS Fargate and several event-driven services with AWS Lambda.
+
+I've been considering switching to Kubernetes as we grow, but I always wonder, *""When are we big enough to justify it?""* After reading the article ""[I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever](https://blog.stackademic.com/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0)"" it seems like Kubernetes might only be necessary for ""unicorn"" companies or closer.
+
+What do you think? Is using Kubernetes at your job overengineering? Why or why not?",best-regards-2-me,1h7h3ba,https://reddit.com/r/devops/comments/1h7h3ba/is_kubernetes_necessary_on_your_current_job_why/,https://www.reddit.com/r/devops/comments/1h7h3ba/is_kubernetes_necessary_on_your_current_job_why/,2024-12-05 19:11:15,99,0.93,99,0,130,0,0,False,False,True,False,False,,self,t3_1h7h3ba
+devops,Rant DevOps and SRE Part 2,"When my colleagues and I joined a multinational corp a few years ago, one of the first hurdles we faced was figuring out how to access their internal network to contribute to the codebase. Installing a VPN on our personal devices wasn’t an option, so we were given two choices: get corporate-issued laptops with a pre-installed VPN or use virtual machines inside their network that we could access remotely from our own devices.  
+Since the issued laptops all ran Windows and none of us were exactly fans of it, we opted for the VM option. Personally, I wanted to stick with Linux and avoid the nightmare of juggling two work laptops, especially since I already needed one for other customers.  
+Since the issued laptops all ran Windows and none of us were exactly fans of it, we opted for the VM option. Personally, I wanted to stick with Linux and avoid the nightmare of juggling two work laptops, especially since I already needed one for other customers.  
+The company set us up with Citrix Workspace to access the VMs, and honestly, it worked like a dream. The connection was stable, latency was low, and we had great quality-of-life features like multi-monitor support, a bilateral clipboard between the VM and host OS, and even seamless keyboard shortcuts inside the VM. For two years, it was smooth sailing.  
+The company set us up with Citrix Workspace to access the VMs, and honestly, it worked like a dream. The connection was stable, latency was low, and we had great quality-of-life features like multi-monitor support, a bilateral clipboard between the VM and host OS, and even seamless keyboard shortcuts inside the VM. For two years, it was smooth sailing.  
+Then came the bombshell: the company announced they were shutting down the Citrix infrastructure and moving to Microsoft Remote Desktop. At first, we thought it wouldn’t be a big deal. But then we realized that while RDP has native clients for Windows and Mac, it offers nothing official for Linux.  
+Then came the bombshell: the company announced they were shutting down the Citrix infrastructure and moving to RDP. At first, we thought it wouldn’t be a big deal. But then we learned that we actually had to use not just any RDP client (like the Ubuntu-native Remmina), but the Microsoft Remote Desktop app, which leverages the native RDP client on Windows and Mac that isn't present on Linux.  
+This is where things started to fall apart. My colleague on Mac was able to install the RDP client and connect without much trouble. I decided to dual-boot Windows so I could keep using multi-monitor setups, even though it added an annoying layer of inefficiency to my workflow. But our third teammate, who stayed on Linux, was stuck with the RDP web client. That thing is a nightmare—slow, clunky, and missing basic features like multi-monitor support.  
+This is where things started to fall apart. My colleague on Mac was able to install the RDP client and connect without much trouble. I decided to dual-boot Windows so I could keep using multi-monitor setups, even though it added an annoying layer of inefficiency to my workflow. But our third teammate, who stayed on Linux, was stuck with the Microsoft Remote Desktop web client. That thing is a nightmare—slow, clunky, and missing basic features like multi-monitor support.  
+The overall experience has been a huge downgrade. RDP connections aren’t as stable as Citrix, and most of the little conveniences we’d taken for granted are gone. Personally, I’m managing to limp along with my dual-boot setup, but I can’t imagine how much worse it must be for my Linux-only colleague.  
+The overall experience has been a huge downgrade. RDP connections aren’t as stable as Citrix, and most of the little conveniences we’d taken for granted are gone. Even the keyboard shortcuts and bilateral clipboard, which are supported by the app, have been forcibly disabled. Personally, I’m managing to limp along with my dual-boot setup, but I can’t imagine how much worse it must be for my Linux-only colleague.  
+For some of the developers on our team, there’s a workaround: they write code on their local machines, upload it to the VM, and commit from there. But as an SRE, I don’t have that luxury. My work revolves around managing CI/CD pipelines and deployments, which means I have to do everything inside the VM.  
+For some of the developers on our team, there’s a workaround: they write code on their local machines, upload it to the VM, and commit from there. But as an SRE, I don’t have that luxury. My work revolves around managing CI/CD pipelines and deployments, which means I have to do everything inside the VM.  
+This whole transition has been a frustrating reminder of how much platform diversity matters in a corporate environment. It feels like no one thought about the impact on Linux users when they made the switch. I’m curious if anyone else has gone through something similar—how are you handling RDP on Linux? Or is there some hidden magic workaround I’m missing?  
+This whole transition has been a frustrating reminder of how much platform diversity matters in a corporate environment. It feels like no one thought about the impact on Linux users when they made the switch. I’m curious if anyone else has gone through something similar—how are you handling RDP on Linux? Or is there some hidden magic workaround I’m missing?",berops_com,1h843ya,https://reddit.com/r/devops/comments/1h843ya/rant_devops_and_sre_part_2/,https://www.reddit.com/r/devops/comments/1h843ya/rant_devops_and_sre_part_2/,2024-12-06 15:38:38,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1h843ya
+devops,Anyone running devsecop pipelines with github actions?,"We started migrating our workloads from Jenkins to Github Actions but notice a huge flaw that kind of breaks our pipelines
+
+With the nature of Github actions running all jobs in parallel, when we try to integrate a security tool like iac scanning (via a workflow call). We notice that with actions - jobs after it will still continue even if the iac scan fails due to a policy violation. 
+
+I know one method is using a ""needs"" directive but this is easily manipulated by anyone so if they understand github directives then they can easily remove this.",ConsultorNot225,1h841n7,https://reddit.com/r/devops/comments/1h841n7/anyone_running_devsecop_pipelines_with_github/,https://www.reddit.com/r/devops/comments/1h841n7/anyone_running_devsecop_pipelines_with_github/,2024-12-06 15:35:40,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1h841n7
+devops,How many IPs am I using?,"Is there a quick and dirty way to estimate how many IPs my Kubernetes cluster is using? I'm running EKS using Fargate and a managed node group, which is probably relevant. Each pod is on my network, so that's an IP each there. The physical nodes will have a couple of each. Uh...",-lousyd,1h83xae,https://reddit.com/r/devops/comments/1h83xae/how_many_ips_am_i_using/,https://www.reddit.com/r/devops/comments/1h83xae/how_many_ips_am_i_using/,2024-12-06 15:30:24,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h83xae
+devops,Octopus Deploy 7200% price increase? Is this real?,"We've been using Octopus deploy since day dot. Had a perpetual licence with 10 machines for a few years. Then had to downgrade this time last year to a similar licence for 5 machines. We made it work, it was $720 a year.
+
+Just got notified that the licence has expired today and now it's priced based on projects. We have 300 projects, which is $52,200!
+
+We don't need 50 nodes or 50 workers or 20 concurrent tasks. WTAF - is this for real?
+
+Any suggestions?
+
+",asdrunkasdrunkcanbe,1h774ap,https://reddit.com/r/devops/comments/1h774ap/octopus_deploy_7200_price_increase_is_this_real/,https://www.reddit.com/r/devops/comments/1h774ap/octopus_deploy_7200_price_increase_is_this_real/,2024-12-05 11:32:19,156,0.98,156,0,115,0,0,False,False,True,False,False,,self,t3_1h774ap
+devops,Any Autocomplete Tools for long lengthy forms?,Are there any tools that can be used to autofill / autocomplete the forms for testing long lengthyforms?,AatmanirbharNobita,1h81v8n,https://reddit.com/r/devops/comments/1h81v8n/any_autocomplete_tools_for_long_lengthy_forms/,https://www.reddit.com/r/devops/comments/1h81v8n/any_autocomplete_tools_for_long_lengthy_forms/,2024-12-06 13:55:14,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h81v8n
+devops,Need suggest/ideas to cut aws data transfer cost,"Our next.js app is communicating with the .Net backend via publicly exposed LB/domain via ingress controller. This communication is adding to the data cost of our cloud as the communication is public. 
+As per my knowledge, there is no way around for this as most of the things are rendered on the browser of users &amp; we can't omit a publically exposed API from the architecture.
+Can anyone suggest a concept or anything you have used in such scenarios, where requests from users are served via ingress &amp; internal calls from frontend microservice to backend microservice are served locally...?",h3xport,1h815ad,https://reddit.com/r/devops/comments/1h815ad/need_suggestideas_to_cut_aws_data_transfer_cost/,https://www.reddit.com/r/devops/comments/1h815ad/need_suggestideas_to_cut_aws_data_transfer_cost/,2024-12-06 13:18:02,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h815ad
+devops,How we handle Terraform downstream dependencies without additional frameworks,"Hi, founder of Anyshift here. We've build a solution for handling issues with Terraform downstream dependencies without additional frameworks (mono or multirepos), and wanted to explain how we've done it.
+
+**1.First of all, the key problems we wanted to tackle:**
+
+* Handling hardcoded values
+* Handling remote state dependencies
+* Handling intricate modules (public + private)
+* we knew that it was possible to do it without adding additional frameworks, by going through the Terraform State Files.
+
+**2.Key Assumptions:**
+
+* Your infra is a graph. To model the infrastructure accurately, we used Neo4j to capture relationships between resources, states, and modules.
+* All the information you need is within your cloud and code: By parsing both, we could recreate the chain of dependencies and insights without additional overhead.
+* Our goal was to build a digital twin of the infrastructure. Encompassing code, state, and cloud information to surface and prevent issues early.
+
+**3.Our solution:**
+
+To handle downstream dependencies we are :
+
+1. Creating a digital twin of the infra with all the dependencies between IaC code and cloud
+2. For each PR, querying this graph with Cypher (Neo4J query language) to retrieve those dependencies
+
+**-&gt; Build an up-to-date Cloud-to-Code graph**
+
+i - Understanding Terraform Stat Files
+
+Terraform state files are super rich in term of information, way more than the files. They hold the exact state of deployed resources, including:
+
+* Resource types
+* Unique identifiers
+* Relationships between modules and their resources
+
+By parsing these state files, we could unify insights across multiple repositories and environments. They acted as a bridge between code-defined intentions and cloud-deployed realities. By parsing these state files, we could unify insights across multiple repositories and environments. They acted as a bridge between code-defined intentions and cloud-deployed realities.
+
+ii- Building this graph using Neo4J
+
+Neo4j allowed us to model complex relationships natively. Unlike relational databases, graph databases are better suited for interconnected data like infrastructure resources.
+
+We modeled infrastructure as nodes (e.g., EC2 instances, VPCs) and relationships (e.g., ""CONNECTED\_TO,"" ""IN\_REGION""). For example:
+
+* Nodes: Represent resources like an EC2 instance or a Security Group.
+* Relationships: Define how resources interact, such as an EC2 instance being attached to a Security Group.
+
+iii- Extracting and Reconciling Data
+
+We developed services to parse state files from multiple repositories, extracting relevant data like resource definitions, unique IDs, and relationships. Once extracted, we reconciled:
+
+* Resources from code with resources in the cloud.
+* Dependencies across repositories, resolving naming conflicts and overlaps.
+
+We also labeled nodes to differentiate between sources (e.g., TF\_CODE, TF\_STATE) for a clear picture of infrastructure intent vs. reality.
+
+**-&gt; Query this graph to retrieve the dependencies before a change**
+
+Once the graph is built, we use Cypher, Neo4j's query language, to answer questions about the infrastructure downstream dependencies.
+
+Step 1 : Make a change
+
+We make a change on resource or a module. For instance expanding an IP range in a VPC CIDR.
+
+Step 2 : Cypher query
+
+We're going query the graph of dependencies through different cypher queries to see which downstream dependencies will be affected by this change, potentially in other IaC repositories. For instance this change can affect 2 ECS and 1 security group.
+
+Step 3 : Give back the info in the PR
+
+**4. Current limitations:**
+
+* To handle all the use cases, we are limited by the Cypher queries we define. We want to make it as generic as possible.
+* It only works with Terraform, and not other IaC frameworks (could work with Pulumi though)
+
+Happy to answer questions / hear some thoughts :))",New_Detective_1363,1h824t1,https://reddit.com/r/devops/comments/1h824t1/how_we_handle_terraform_downstream_dependencies/,https://www.reddit.com/r/devops/comments/1h824t1/how_we_handle_terraform_downstream_dependencies/,2024-12-06 14:07:52,0,0.33,0,0,1,0,0,False,False,True,False,False,,self,t3_1h824t1
+devops,Anyone wanna learn and study Tg?,"Hello....I come from a full stack development background. Never really got a job, just did an internship, made cool projects and clones of already existing apps like discord and reddit and what not. However it's extremely boring and repetitive not to mention how overly saturated the field is.
+
+I've recently decided to make the switch to dev ops and the journey feels a bit lonely. I was wondering if there was anyone else also leaning dev ops so we could possible help each other out and increase our skills while making it fun. It doesn't really matter if you are already in advanced stages or even hired haha....always helps if there is someone who can lead you in the right direction.
+
+Thanks! Have a good day/night yaall",Mors_Vows,1h7t43a,https://reddit.com/r/devops/comments/1h7t43a/anyone_wanna_learn_and_study_tg/,https://www.reddit.com/r/devops/comments/1h7t43a/anyone_wanna_learn_and_study_tg/,2024-12-06 04:27:02,0,0.5,0,0,9,0,0,False,False,True,False,False,,self,t3_1h7t43a
+devops,What is this subreddit's take on being able to create firewall rules in your organisation? Do you wish for more freedom or are happy the way things are?,"Background: my organisation currently doesn't allow devs to create and deploy their own firewall rules (not talking about AWS security groups) as they're concerned about the potential for broad rules being created.
+
+Does your org support IaC for firewalls? What are your thoughts on the subject? ",schemza,1h80p2l,https://reddit.com/r/devops/comments/1h80p2l/what_is_this_subreddits_take_on_being_able_to/,https://www.reddit.com/r/devops/comments/1h80p2l/what_is_this_subreddits_take_on_being_able_to/,2024-12-06 12:54:13,0,0.33,0,0,14,0,0,False,False,True,False,False,,self,t3_1h80p2l
+devops,Which AWS professional certification? ,My employer is offering training and free vouchers for professional level. I've to choose between Solutions Architect professional and Devops Engineer Professional. What do you suggest?,D1mZ,1h7bx7g,https://reddit.com/r/devops/comments/1h7bx7g/which_aws_professional_certification/,https://www.reddit.com/r/devops/comments/1h7bx7g/which_aws_professional_certification/,2024-12-05 15:36:56,9,0.85,9,0,2,0,0,False,False,True,False,False,,self,t3_1h7bx7g
+devops,Best tool to schedule/monitor CRON jobs,"I am currently trying to get away from Windows Task Scheduler in favor of Linux/Docker, but I am wanting advice on what services to look at for monitoring and source controlling said scripts. I understand their are things like Chronicle, healthchecks, rundeck, Jenkins, etc. I'm really looking for the slightest weight solution for now assuming azure devops is my repo of choice (shouldn't matter I presume, but stating it anyways). Any help is much appreciated before I go down this path! Also, I'm not sure if it matters, but some of my docker containers will run as ""services"" within WHILE loops.
+
+Edit: I also left out portainer, which seems to be a pretty solid solution as well",Black_Magic100,1h769tm,https://reddit.com/r/devops/comments/1h769tm/best_tool_to_schedulemonitor_cron_jobs/,https://www.reddit.com/r/devops/comments/1h769tm/best_tool_to_schedulemonitor_cron_jobs/,2024-12-05 10:34:12,17,0.95,17,0,22,0,0,False,False,True,False,False,,self,t3_1h769tm
+devops,Hiring a team vs 1 full stack,"Heyo 
+
+I’m working on a project as the client, and I’m trying to figure out whether it’s better to hire a full team (PM, front-end, back-end, QA) at an agency, or stick with a full-stack developer I’ve worked with before.
+
+Anyone have thoughts or experiences with this? Pros/cons ",Haunting-Visual-3001,1h7oc4i,https://reddit.com/r/devops/comments/1h7oc4i/hiring_a_team_vs_1_full_stack/,https://www.reddit.com/r/devops/comments/1h7oc4i/hiring_a_team_vs_1_full_stack/,2024-12-06 00:23:40,1,0.53,1,0,8,0,0,False,False,True,False,False,,self,t3_1h7oc4i
+devops,Pulumi with thousands of resources,"Hi all,   
+Just curious if anyone have experience with Pulumi paid tiers?  
+I have a free account and would like to upgrade, but I checked numbers and it cost per resource, which is weird, because I can be a huge enterprise and have 1 server, or a small SaaS with 10k resource and ""forced"" to pay few thousands a month.
+
+I'm willing to pay 500/month for the service, but I'm not sure they have such deals.
+
+Have anyone done this?",divebatter,1h7a279,https://reddit.com/r/devops/comments/1h7a279/pulumi_with_thousands_of_resources/,https://www.reddit.com/r/devops/comments/1h7a279/pulumi_with_thousands_of_resources/,2024-12-05 14:12:35,6,0.88,6,0,22,0,0,False,False,True,False,False,,self,t3_1h7a279
+devops,How We Reduced Our Google Cloud Bill by 65%,"Learn how we reduced our Google Cloud costs by 65% using Kubernetes optimizations, workload consolidation, and smarter logging strategies. Perfect for startups aiming to extend their runway and save money.
+
+This is a technical article with a few code snippets and configuration screenshots where it was relevant.
+
+[https://brokee.io/blog/how-we-reduced-our-google-cloud-bill-by-65](https://brokee.io/blog/how-we-reduced-our-google-cloud-bill-by-65)  
+  
+",lumaks,1h7etcd,https://reddit.com/r/devops/comments/1h7etcd/how_we_reduced_our_google_cloud_bill_by_65/,https://www.reddit.com/r/devops/comments/1h7etcd/how_we_reduced_our_google_cloud_bill_by_65/,2024-12-05 17:38:15,3,0.54,3,0,2,0,0,False,False,True,False,False,,self,t3_1h7etcd

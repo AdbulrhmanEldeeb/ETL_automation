@@ -1,0 +1,66 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,"Recently, I have been trying out LLMs for coding and they are surprisingly bad for anything even a tiny bit complex?","Since LLMs (ChatGPT, Mistral, etc.) became popular, I have used them for basic things, but only sporadically for coding. Recently, I was entrusted a Vue 3 codebase, and since I didn't know Vue, I thought to myself: Why not get some help from AI? So, I started trying out different models and to my surprise, it's incredible how even basic things such as flexbox in component styling is just too much for them. Anything that has to do with styling, really, that goes beyond ""Set this component's border color to light gray"". If you use Vuetify and custom style classes, then the machine just doesn't WTH is going on anymore. Also, I tried it to make it tell me the difference between React's portals and Vue 3's teleport functionality, and it was disappointing to say the least. The fun became real, though, when I asked it how to teleport a Vue 3 component into a Cytoscape JS node; After 30 minutes or so of back and forth prompting, I gave up, and this is in general how my sessions end: With time wasted, frustration and back at the start of the task.
+
+Other behaviours I have noticed are:
+
+* In the same chat, repeating the same answer to different prompts (this is typical of Mistral), even though you try to nudge it in the right direction by telling it the answer wasn't satisfactory.
+* Making up random stuff, e.g., CSS directives or a function's options and then saying ""My bad, you're right. Function x doesn't have the option y"".
+* Mixing up versions (e.g., Vue 2 patterns in Vue 3)
+
+... and more.
+
+Honestly, the majority of the time it's useless. Also, for beginners, this is probably the worst one can do to learn programming, people should stay the hell away from it under they have some experience under the belt. Ultimately, I agree that it's just a fancy information retrieval algo and nothing more, and for basic, simple info, it's infinitely superior to e.g. Google.",skwyckl,1h7wmcg,https://reddit.com/r/webdev/comments/1h7wmcg/recently_i_have_been_trying_out_llms_for_coding/,https://www.reddit.com/r/webdev/comments/1h7wmcg/recently_i_have_been_trying_out_llms_for_coding/,2024-12-06 08:11:38,136,0.85,136,0,152,0,0,False,False,True,False,False,Discussion,self,t3_1h7wmcg
+webdev,Bad UI World Cup is absolutely hilarious!,"This is one of the latest entries. If you can do better, head to [https://toddle.dev/badui](https://toddle.dev/badui) and join the fun. First place gets $3,700.
+
+https://i.redd.it/fu5a7vd1e75e1.gif
+
+",nocodenomad,1h7y9c7,https://reddit.com/r/webdev/comments/1h7y9c7/bad_ui_world_cup_is_absolutely_hilarious/,https://www.reddit.com/r/webdev/comments/1h7y9c7/bad_ui_world_cup_is_absolutely_hilarious/,2024-12-06 10:15:35,78,0.93,78,0,8,0,0,False,False,True,False,False,News,https://b.thumbs.redditmedia.com/jrWo5tPBzJen3rIkVZnSkhz8kOWq3CmbR0pzaIEn6gQ.jpg,t3_1h7y9c7
+webdev,React 19 is officially out! ,what your thoughts about it,landlord01263,1h7z9v3,https://reddit.com/r/webdev/comments/1h7z9v3/react_19_is_officially_out/,https://www.reddit.com/r/webdev/comments/1h7z9v3/react_19_is_officially_out/,2024-12-06 11:27:05,40,0.81,40,0,46,0,0,False,False,True,False,False,Discussion,self,t3_1h7z9v3
+webdev,"What is the ""Meta"" in Web Development right now?","So basically, I'm unemployed. I quit my job due to an extremely toxic environment. I was a QA Engineer but Web Dev was always my passion and strength. During my bachelors degree I would constantly get top of the class in the Web Development courses only and they were the classes I enjoyed most.
+
+Now I'm thinking of Cold Emailing small businesses and offering to create a website for them during my unemployment period so that I have some money to live off of, but I've been out of the web dev loop for a few years that I don't know what the optimal web-dev tools are anymore, especially with the rise of AI.
+
+I'm best suited in PHP, HTML, CSS and JS. What other languages should I sharpen to improve the quality of my websites? Or is No-Code the way to go nowadays?
+
+And for those who started a similar venture, would you recommend hiring sub-contractors or doing the work yourself?
+
+I really appreciate the advice. I've been thinking about launching a business for months now and I can't imagine it being in a different field. Web Dev is truly the only thing I've ever felt exceptional at (at least for my age).",LordesTruth,1h7p9fi,https://reddit.com/r/webdev/comments/1h7p9fi/what_is_the_meta_in_web_development_right_now/,https://www.reddit.com/r/webdev/comments/1h7p9fi/what_is_the_meta_in_web_development_right_now/,2024-12-06 01:07:17,76,0.75,76,0,111,0,0,False,False,True,False,False,,self,t3_1h7p9fi
+webdev, Made this as a second year CLG student ,"[https://www.kroszborg.co/](https://www.kroszborg.co/)  
+hey guys I am back with my new portfolio website, created this using typescript and Next.js. Currently, in my second year of CLG. I have been doing frontend for past 2 years, thought of making a crazy portfolio with everything I have learned so far.",kroszborg11,1h7z67i,https://reddit.com/r/webdev/comments/1h7z67i/made_this_as_a_second_year_clg_student/,https://www.reddit.com/r/webdev/comments/1h7z67i/made_this_as_a_second_year_clg_student/,2024-12-06 11:19:53,10,0.86,10,0,9,0,0,False,False,True,False,False,,self,t3_1h7z67i
+webdev,What non-random absolutely serious website you own or just developed?,Might belong to a business you own or a company you work for,Altugsalt,1h7vowl,https://reddit.com/r/webdev/comments/1h7vowl/what_nonrandom_absolutely_serious_website_you_own/,https://www.reddit.com/r/webdev/comments/1h7vowl/what_nonrandom_absolutely_serious_website_you_own/,2024-12-06 07:03:59,16,0.84,16,0,22,0,0,False,False,True,False,False,Discussion,self,t3_1h7vowl
+webdev,"When I started as a developer, I thought I had to be good at everything","When I first started out, I felt this pressure that I had to be good at everything: coding, designing, choosing fonts, colors, layouts. It quickly became overwhelming.
+
+I thought being a ""developer"" meant mastering not just code but also design, UX, and sometimes even marketing. But over time, I've realized that it's okay to not excel at everything, whether it's right away or ever.
+
+Did you also feel this way when you started? How many hats were you able to wear?",yeahimjtt,1h7dwbn,https://reddit.com/r/webdev/comments/1h7dwbn/when_i_started_as_a_developer_i_thought_i_had_to/,https://www.reddit.com/r/webdev/comments/1h7dwbn/when_i_started_as_a_developer_i_thought_i_had_to/,2024-12-05 17:00:44,201,0.96,201,0,70,0,0,False,False,True,False,False,Discussion,self,t3_1h7dwbn
+webdev,Where Do You Even Get Started? ,"I have no background in web development. How do you even build something like this: https://www.getsapien.com/? Do you use WordPress or some other web development software? 
+
+  
+Looking for guidance. 
+
+  
+",No-Ad8750,1h7vzw7,https://reddit.com/r/webdev/comments/1h7vzw7/where_do_you_even_get_started/,https://www.reddit.com/r/webdev/comments/1h7vzw7/where_do_you_even_get_started/,2024-12-06 07:25:33,7,0.73,7,0,24,0,0,False,False,True,False,False,,self,t3_1h7vzw7
+webdev,Exploring a faster alternative to dom-accessibility-api: Your thoughts?,"Hi everyone !  
+
+
+After encountering performance issues with `jsdom` while trying to integrate the [dom-accessibility-api](https://github.com/eps1lon/dom-accessibility-api) library, I started working on a similar library that is potentially faster.
+
+[https://github.com/rMonell/accessibility-utils](https://github.com/rMonell/accessibility-utils)
+
+Having tested the library on some previously heavy tests that could even lead to timeouts, I noticed a performance improvement of about 50% when using my library when retrieving element accessible names. When combined with `happy-dom`, the improvement is even greater.  
+
+
+Would it be possible for some of you who have experienced similar performance issues to let me know if this library provides any improvements in that regard? Also, feel free to share any feedback on potential issues—it’s still a library in development :)  
+
+
+Thanks in advance!",ReplacementRecent895,1h83tdk,https://reddit.com/r/webdev/comments/1h83tdk/exploring_a_faster_alternative_to/,https://www.reddit.com/r/webdev/comments/1h83tdk/exploring_a_faster_alternative_to/,2024-12-06 15:25:38,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h83tdk
+webdev,How do I hire a designer for freelancing?,"Where would I find them?
+How does payment usually work, if I am invoicing my clients and then paying my design costs from that?
+Is this a viable way of working?",ajskates98,1h7x8gs,https://reddit.com/r/webdev/comments/1h7x8gs/how_do_i_hire_a_designer_for_freelancing/,https://www.reddit.com/r/webdev/comments/1h7x8gs/how_do_i_hire_a_designer_for_freelancing/,2024-12-06 08:58:45,3,0.71,3,0,2,0,0,False,False,True,False,False,,self,t3_1h7x8gs
+webdev,Spotify wrapped but for your Github activity?,"I'm curious if anyone would be interested in a Spotify wrapped experience using your GitHub activity. It could be really interesting to see stats on your contributions, favorite languages, commits, etc - all stylized like Spotify wrapped does it. ",lukefrog,1h833k4,https://reddit.com/r/webdev/comments/1h833k4/spotify_wrapped_but_for_your_github_activity/,https://www.reddit.com/r/webdev/comments/1h833k4/spotify_wrapped_but_for_your_github_activity/,2024-12-06 14:53:51,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h833k4
+webdev,Final round of interview - Hatchways take-home assessment - advice?,"Hi All,
+
+I'm in the final round of interviews for an intermediate SWE position, the technical portion is this take home assessment via Hatchways, i've never heard of this before and after some digging I kind of get the idea and its uses, but I haven't seen a case where it is a take home assessment as part of the interview process. 
+
+Anyone have any experience with it or what to expect? I have a 'Backends: API' assessment if that matters, the role is for a full-stack",PogiJG,1h82ll2,https://reddit.com/r/webdev/comments/1h82ll2/final_round_of_interview_hatchways_takehome/,https://www.reddit.com/r/webdev/comments/1h82ll2/final_round_of_interview_hatchways_takehome/,2024-12-06 14:30:34,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h82ll2
+webdev,Need help learning SQL,I need to learn SQL for my  job. I dont think I'll need to go too deep just to export reports to excel. What are some good resources to learn SQL I guess on a basic level? ,sfaticat,1h823ym,https://reddit.com/r/webdev/comments/1h823ym/need_help_learning_sql/,https://www.reddit.com/r/webdev/comments/1h823ym/need_help_learning_sql/,2024-12-06 14:06:40,0,0.5,0,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1h823ym

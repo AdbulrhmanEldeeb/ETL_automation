@@ -1,0 +1,251 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,How we made Celery tasks bulletproof,"Hey folks, 
+
+I just published a deep dive into how we handle task resilience at GitGuardian, where our Celery tasks scan GitHub PRs for secrets. Wanted to share some key learnings that might help others dealing with similar challenges.
+
+
+**Key takeaways:**
+
+1. Don’t just blindly retry tasks. Each type of failure (transient, resource limits, race conditions, code bugs ) needs its own handling strategy.
+2. Crucial patterns we implemented:
+   - Ensure tasks are idempotent (may not be straightforward, 
+   - Used `autoretry_for` with specific exceptions + backoff
+   - Implemented `acks_late` for process interruption protection
+   - Created separate queues for resource-heavy tasks
+
+**Watch out for:**
+
+1. Never set task_retry_on_worker_lost=True (can cause infinite retries)
+2. With Redis, ensure tasks complete within visibility_timeout
+3. Different behavior between prefork vs thread/gevent models for OOM handling
+
+---
+
+For those interested in the technical details: https://blog.gitguardian.com/celery-tasks-retries-errors/
+
+
+What resilience patterns have you found effective in your Celery deployments? Any war stories about tasks going wrong in production?",protoplancton,1h7xr6s,https://reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/,https://www.reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/,2024-12-06 09:37:58,44,0.9,44,0,3,0,0,False,False,True,False,False,Tutorial,self,t3_1h7xr6s
+Python,pytest-fixture-forms - A new plugin to simplify testing parameter variations,"Hey Python testing enthusiasts! I'm excited to share a pytest plugin I've been working on that makes testing different parameter variations much cleaner and more maintainable.
+
+# What my project does
+
+If you've ever found yourself writing lots of parametrized tests for different API inputs, credentials, or configuration combinations, you know it can get messy quickly. This plugin lets you organize these variations as fixture methods in a class, making your tests more structured and easier to maintain.
+
+Here's a quick example:
+
+    class UserCredentials(FixtureForms):
+        @pytest.fixture
+        def valid_user(self):
+            return {""username"": ""john_doe"", ""password"": ""secure123""}
+    
+        @pytest.fixture
+        def invalid_password(self):
+            return {""username"": ""john_doe"", ""password"": ""wrong""}
+    
+    def test_login(user_credentials):
+        response = login_service.authenticate(**user_credentials.value)
+        if user_credentials.form == ""valid_user"":
+            assert response.status_code == 200
+        else:
+            assert response.status_code == 401
+
+Key Features:
+
+* Auto-generates fixtures from class methods
+* Integrates with pytest's parametrization
+* Handles nested dependencies elegantly
+* Zero configuration needed
+
+# Target Audience
+
+anyone want to write and maintain tests for combinations of parameter. it should be stable but hey! its a new project so expect rough edges.
+
+# Comparison 
+
+there is no currently plugin in pytest that let you dynamically generate fixtures and test nodes in similar way to how pytest-fixture-forms does. this plugin is also being actively used inside a real product(actually this plugin was written as inside an internal tool testing code and later migrated by me to become a standalone pytest plugin).
+
+# Source
+
+Check it out on [GitHub](https://github.com/Eliav2/pytest-fixture-forms) or install with `pip install pytest-fixture-forms`.
+
+I'd love to hear your thoughts and feedback!",Eliav2,1h7ztqd,https://reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/,https://www.reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/,2024-12-06 12:02:26,5,0.86,5,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1h7ztqd
+Python,Python binary which runs everwhere,"I wanted to share some insights about an interesting project called [python-build-standalone](https://github.com/indygreg/python-build-standalone) that I've been exploring.
+
+# What is python-build-standalone?
+
+The **python-build-standalone** project produces fully usable Python installations that include most extension modules from the standard library. The key feature here is that it minimizes runtime dependencies.
+
+# Why Use It?
+
+1. **Portability**: The distributions are designed to work on any system for the targeted architecture, making it easier to deploy Python applications in diverse environments.
+2. **Customizability**: Users can include build artifacts and rich metadata, which allows for downstream repackaging. This means you can create a custom Python distribution tailored to specific needs—great for embedding Python in larger binaries.
+3. **Sister Project - PyOxy**: For those interested in enhancing their Python interpreter with Rust code, there's a related project called PyOxy that builds on these standalone distributions to create single-file executables.
+
+# Getting Started
+
+If you’re interested in trying out python-build-standalone, you can find the documentation [here](https://gregoryszorc.com/docs/python-build-standalone/main/). The documentation provides detailed instructions on how to build your own standalone Python distributions and includes examples of how to customize your builds.
+
+# Use Cases
+
+This tool is particularly beneficial for:
+
+* Developers who need to distribute applications without requiring users to install Python or additional libraries.
+* Projects that aim for a minimal footprint on user systems.
+* Scenarios where embedding Python within other applications is necessary.
+
+Happy coding!
+
+P.S :- (I am building Origins AI, If you are facing some hard tech issues or If you want to get a product built, DM me)",rava-dosa,1h78av5,https://reddit.com/r/Python/comments/1h78av5/python_binary_which_runs_everwhere/,https://www.reddit.com/r/Python/comments/1h78av5/python_binary_which_runs_everwhere/,2024-12-05 12:42:16,82,0.83,82,0,22,0,0,False,False,True,False,False,Tutorial,self,t3_1h78av5
+Python,ML Trading Bot that uses Ranked Ensemble Learning,"I created a ML Trading Bot - trained it for a little over 3 years with 24 years of data and started it live on November 20, 2024. It's been going over a little more than 2 weeks, but it's been doing great so far - not indicative of how it will perform but it's had a great debut if you can say that.
+
+GitHub Repo: [https://github.com/yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin)
+
+Bot Website: [https://ampyfin-website.onrender.com/](https://ampyfin-website.onrender.com/)
+
+**What My Project Does**
+
+In essence, the trading bot ranks the strategies and gives them weights based on their overall performance while giving slight bias to recent performance (this is so it is reactive to current market trends and adjusts accordingly). These weights determine how much influence they have on the trading strategy. That's the oversimplified explanation of how the bot works. A more descriptive explanation is done on the website as well as README
+
+**Target Audience**
+
+Reason why I'm posting here is because I'm currently looking for contributors who have some expertise in Python (maybe want to contribute or just interested) on the trading strategies side. The more trading and diverse strategies there are, the better the bot will perform. This project is aimed towards developers interested in contributing or just anyone interested in the project. Currently there is 60 strategies, but the aim is to get much more: at least 100. If you have any questions on how it works or just interested in contributing, please don't hesitate to dm or comment.
+
+**Comparison**
+
+Most trading bots either use one strategy or multiple combination of strategies. The one's that use ML are too complex to understand or use libraries with jargons that are too coated. I specifically used ranked ensemble learning because it's something I've used in the past (for a facial feature measurement application for a medical company), but also because it's quite simple to understand and effective at the same time.",Inevitable-Air-1712,1h7qtzs,https://reddit.com/r/Python/comments/1h7qtzs/ml_trading_bot_that_uses_ranked_ensemble_learning/,https://www.reddit.com/r/Python/comments/1h7qtzs/ml_trading_bot_that_uses_ranked_ensemble_learning/,2024-12-06 02:26:49,3,0.54,3,0,13,0,0,False,False,True,False,False,Showcase,self,t3_1h7qtzs
+Python,"I made a generative ai project template (python, uv, pytest and more)","Hey everyone,
+
+I’ve been working on a template to get started with a generative AI project ! 
+
+I’ve created a **Generative AI Project Template** that’s loaded with tools and features to streamline your AI development. You can check it out [here on GitHub](https://github.com/AmineDjeghri/generative-ai-project-template).
+
+  
+**🛠️ Key Features**
+
+**Engineering tools:**
+
+• ✅ **Package management**: UV
+
+• ✅ **Code quality**: Pre-commit hooks with Ruff &amp; Detect-secrets
+
+• ✅ **Logging**: Colorful logs with Loguru
+
+• ✅ **Unit tests**: Pytest
+
+• ✅ **Dockerized**: Dockerfile &amp; docker-compose for your evaluation pipeline
+
+• ✅ **Make commands**: Simplify your workflow (install, run, test)
+
+
+
+**AI tools:**
+
+• ✅ **LLMs**: Run locally (Ollama, Ollamazure) or in the cloud (OpenAI, Azure OpenAI)
+
+• ✅ **Information extraction &amp; QA** from documents
+
+• ✅ **Chat interface** to test your system
+
+• ✅ **Async code** for efficient AI workflows
+
+• ✅ **AI Evaluation Frameworks**: Promptfoo, Ragas, and more
+
+
+
+**CI/CD &amp; Maintenance tools:**
+
+• ✅ **Pipelines**: GitHub Actions (.github/workflows) &amp; GitLab CI (.gitlab-ci.yml)
+
+• ✅ **Local CI/CD pipelines**: Run GitHub Actions with act and GitLab CI with gitlab-ci-local
+
+
+
+**Documentation tools:**
+
+• ✅ **Documentation website**: MkDocs + mkdocs-material
+
+• ✅ **GitHub Pages deployment**: Easy deployment with mkdocs gh-deploy
+
+Any feedback, issues, or PRs are welcome!
+
+",aminedjeghri,1h7ff4i,https://reddit.com/r/Python/comments/1h7ff4i/i_made_a_generative_ai_project_template_python_uv/,https://www.reddit.com/r/Python/comments/1h7ff4i/i_made_a_generative_ai_project_template_python_uv/,2024-12-05 18:02:47,13,0.66,13,0,11,0,0,False,False,True,False,False,Resource,self,t3_1h7ff4i
+Python,Friday Daily Thread: r/Python Meta and Free-Talk Fridays,"# Weekly Thread: Meta Discussions and Free Talk Friday 🎙️
+
+Welcome to Free Talk Friday on /r/Python! This is the place to discuss the r/Python community (meta discussions), Python news, projects, or anything else Python-related!
+
+## How it Works:
+
+1. **Open Mic**: Share your thoughts, questions, or anything you'd like related to Python or the community.
+2. **Community Pulse**: Discuss what you feel is working well or what could be improved in the /r/python community.
+3. **News &amp; Updates**: Keep up-to-date with the latest in Python and share any news you find interesting.
+
+## Guidelines:
+
+* All topics should be related to Python or the /r/python community.
+* Be respectful and follow Reddit's [Code of Conduct](https://www.redditinc.com/policies/content-policy).
+
+## Example Topics:
+
+1. **New Python Release**: What do you think about the new features in Python 3.11?
+2. **Community Events**: Any Python meetups or webinars coming up?
+3. **Learning Resources**: Found a great Python tutorial? Share it here!
+4. **Job Market**: How has Python impacted your career?
+5. **Hot Takes**: Got a controversial Python opinion? Let's hear it!
+6. **Community Ideas**: Something you'd like to see us do? tell us.
+
+Let's keep the conversation going. Happy discussing! 🌟",AutoModerator,1h7nue4,https://reddit.com/r/Python/comments/1h7nue4/friday_daily_thread_rpython_meta_and_freetalk/,https://www.reddit.com/r/Python/comments/1h7nue4/friday_daily_thread_rpython_meta_and_freetalk/,2024-12-06 00:00:52,3,0.81,3,0,1,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h7nue4
+Python,Built a tool to step through LeetCode Python solutions—feedback welcome! 🐛✨,"Hey everyone! 👋
+
+\# What my project does
+
+This tool allows you to step through Python code for LeetCode problems line-by-line. It highlights the current line being executed and shows the real-time values of variables and sub-expressions. It's designed to help visualize code execution and understand the logic flow more easily.
+
+check it our : [https://github.com/roshixyz/StepThrough](https://github.com/roshixyz/StepThrough)
+
+# # Target Audience
+
+anyone trying to understand code behaviour (specifically Leetcode problems)
+
+\# Comparison
+
+Unlike standard IDEs or debuggers, this tool focuses on simplifying the debugging process for LeetCode-style coding challenges. It provides a clear, visual breakdown of what’s happening under the hood, making it easier to spot issues and understand how each line affects the program’s state.
+
+Demo : [https://x.com/roshi\_xyz/status/1864257060042330455](https://x.com/roshi_xyz/status/1864257060042330455)",aman167k,1h79tdf,https://reddit.com/r/Python/comments/1h79tdf/built_a_tool_to_step_through_leetcode_python/,https://www.reddit.com/r/Python/comments/1h79tdf/built_a_tool_to_step_through_leetcode_python/,2024-12-05 14:00:56,13,0.88,13,0,6,0,0,False,False,True,False,False,Showcase,self,t3_1h79tdf
+Python,HandiRokuRemote (Open Source) - Control your Roku with only your hand gestures,"###What My Project Does
+This is a Python application that lets you control your Roku device with nothing but hand gestures! Using Mediapipe's Hand Landmark Detector, it tracks your hand, identifies gestures, and sends commands to your Roku via its External Control Protocol.
+
+Check out the [demo gif](https://imgur.com/zVbX1T6)
+
+Features:
+
+*Real-time hand tracking: Gestures like ""thumbs up"" control volume or navigation.
+
+*Cross-device support: Works with any Roku device on the same network.
+
+*Easy setup: Plug in a camera, and you’re ready to go.
+
+###Target Audience
+The target audience is anyone who's ever lost their TV remote, but probably more likely fellow tinkerers and anyone interested in computer-vision.
+
+###Comparison
+As far as I can tell, there is no comparison. I've looked around and haven't found anything that does what this does. I guess the only comparison is a regular remote (but you lost that earlier, remember?)
+
+Check out the code on [Github](https://github.com/BBelk/HandiRokuRemote/)
+
+Or download the .exe and try it out! [PC only - Download](https://github.com/BBelk/HandiRokuRemote/releases/tag/v1)
+
+Let me know what you think!",BB_dev,1h7acxc,https://reddit.com/r/Python/comments/1h7acxc/handirokuremote_open_source_control_your_roku/,https://www.reddit.com/r/Python/comments/1h7acxc/handirokuremote_open_source_control_your_roku/,2024-12-05 14:26:45,8,0.8,8,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h7acxc
+Python, 💥 Tech Talks Weekly #40: newly uploaded videos from PyCon AU 2024,"Hello again r/Python. I'm sharing an excerpt from the latest issue of Tech Talks Weekly with the newest PyCon AU 2024 talks, ordered by the view count for your convenience. Let me know what you think!
+
+1. [**""""Switching to MongoDB: The challenges of translating database schemas"" - Katie Bell (Pycon AU 2024)""**](https://youtube.com/watch?v=cESAbE_orVU) ⸱ **+600 views** ⸱ 28 Nov 2024 ⸱ 00h 29m 00s
+2. [**""""How we used Python to try and save lives"" - Anthony Baxter (Pycon AU 2024)""**](https://youtube.com/watch?v=hfCkGNV5iLI) ⸱ **+300 views** ⸱ 01 Dec 2024 ⸱ 00h 30m 56s
+3. [**""""Time and Time Again"" - Yaakov (Pycon AU 2024)""**](https://youtube.com/watch?v=vWc2D-xQgtc) ⸱ **+300 views** ⸱ 30 Nov 2024 ⸱ 00h 28m 10s
+4. [**""""Student showcase"" - Education Track (Pycon AU 2024)""**](https://youtube.com/watch?v=xVjlVYFrJj4) ⸱ **+300 views** ⸱ 29 Nov 2024 ⸱ 01h 40m 15s
+5. [**""Failsafes and Safety Fails: How to crash a train and other lessons for software engineers""**](https://youtube.com/watch?v=Rscgum-aVTY) ⸱ **+200 views** ⸱ 29 Nov 2024 ⸱ 00h 31m 03s
+6. [**""Space Django: Migrating and Redesigning a Database while Hunting for Satellites.""**](https://youtube.com/watch?v=XcOybozDk_0) ⸱ **+200 views** ⸱ 28 Nov 2024 ⸱ 00h 31m 16s
+7. [**""Where am I? What am I doing? Mobile App development in Python""**](https://youtube.com/watch?v=cLNWwNHgTco) ⸱ **+200 views** ⸱ 30 Nov 2024 ⸱ 00h 29m 38s
+8. [**""How to confirm that the index you added actually improves query performance""**](https://youtube.com/watch?v=MlCQAaL6V3U) ⸱ **+200 views** ⸱ 01 Dec 2024 ⸱ 00h 28m 47s
+9. [**""ML ain’t your only hammer: adding mathematical optimisation to the data scientist’s toolbox""**](https://youtube.com/watch?v=G0tlyC9Sr3w) ⸱ **+200 views** ⸱ 01 Dec 2024 ⸱ 00h 19m 14s
+10. [**""""Quantifying Nebraska"" - Adam Harvey (Pycon AU 2024)""**](https://youtube.com/watch?v=9HQOTIqP6KM) ⸱ **+100 views** ⸱ 29 Nov 2024 ⸱ 00h 26m 06s
+
+See the remaining list here: [https://www.techtalksweekly.io/i/152513751/pycon-au](https://www.techtalksweekly.io/i/152513751/pycon-au)",TechTalksWeekly,1h75wv7,https://reddit.com/r/Python/comments/1h75wv7/tech_talks_weekly_40_newly_uploaded_videos_from/,https://www.reddit.com/r/Python/comments/1h75wv7/tech_talks_weekly_40_newly_uploaded_videos_from/,2024-12-05 10:08:08,16,0.84,16,0,1,0,0,False,False,True,False,False,News,self,t3_1h75wv7

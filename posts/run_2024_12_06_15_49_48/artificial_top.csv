@@ -1,0 +1,47 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,OpenAI's new model tried to escape to avoid being shut down,,MetaKnowing,1h7k56p,https://reddit.com/r/artificial/comments/1h7k56p/openais_new_model_tried_to_escape_to_avoid_being/,https://i.redd.it/mgkyz7prj35e1.png,2024-12-05 21:18:25,135,0.64,135,0,89,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/sNWZWbFLFI385vfd0T1ZQRJbOessgRTHKyYFaEhmqBo.jpg,t3_1h7k56p
+artificial,"just found this 2015 podcast of Elon Musk and Sam Altman, it's crazy how much they've changed.","So I stumbled on this old 2015 conversation between Elon Musk and Sam Altman, and it’s kind of mind-blowing to see how different their outlooks were back then, especially on AI.
+
+It’s wild to hear the foundations of what would eventually become OpenAI and to realize how much both of them (and the tech world) have evolved since that time.
+
+I pulled out a few of the most interesting snippets and shared them over on my Twitter (X) account—no heavy self-promo intended, just thought some of you might appreciate these highlights if you don’t have time to watch the full thing.
+
+Clips: [https://x.com/ahmetdedeler101/status/1864774581006877021](https://x.com/ahmetdedeler101/status/1864774581006877021)  
+The Full Podcast: [https://youtu.be/SqEo107j-uw](https://youtu.be/SqEo107j-uw)",ahmett9,1h7ln07,https://reddit.com/r/artificial/comments/1h7ln07/just_found_this_2015_podcast_of_elon_musk_and_sam/,https://www.reddit.com/r/artificial/comments/1h7ln07/just_found_this_2015_podcast_of_elon_musk_and_sam/,2024-12-05 22:22:24,27,0.79,27,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1h7ln07
+artificial,I got the new o1 model to create some wiki pages about itself.,,rutan668,1h7kvd5,https://reddit.com/r/artificial/comments/1h7kvd5/i_got_the_new_o1_model_to_create_some_wiki_pages/,https://informationism.org/botmeet/index.php/O1,2024-12-05 21:49:11,15,0.74,15,0,3,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/3bLf54lrExVcq23VXWWvf3r44CXkeiqUARMtZY_a80o.jpg,t3_1h7kvd5
+artificial,AI for blind people,"Could AI be trained as a visual aid for blind people? I think it might be, but what I'm asking is if anyone else has wondered that too or if such a tool already exist.",SpiceySandwich,1h7hq9s,https://reddit.com/r/artificial/comments/1h7hq9s/ai_for_blind_people/,https://www.reddit.com/r/artificial/comments/1h7hq9s/ai_for_blind_people/,2024-12-05 19:38:09,8,0.84,8,0,9,0,0,False,False,True,False,False,Question,self,t3_1h7hq9s
+artificial,Here's What OpenAI's $200 Monthly ChatGPT Pro Subscription Includes,,wiredmagazine,1h7kues,https://reddit.com/r/artificial/comments/1h7kues/heres_what_openais_200_monthly_chatgpt_pro/,https://www.wired.com/story/openai-chatgpt-pro-subscription/,2024-12-05 21:48:01,3,0.54,3,0,27,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/VDbbQHhJPTdyfBxEWWA__RdEanOMgJUacmlOQZQ8FMs.jpg,t3_1h7kues
+artificial,One-Minute Daily AI News 12/5/2024,"1. Trump names David Sacks as White House AI and cryptocurrency czar.\[1\]
+2. **OpenAI** Announces New $200 Per Month ChatGPT Pro Subscription.\[2\]
+3. **AWS** brings prompt routing and caching to its Bedrock LLM service.\[3\]
+4. AI Detectors Falsely Accuse Students of Cheating—With Big Consequences.\[4\]
+
+Sources:
+
+\[1\] [https://www.foxnews.com/politics/trump-names-david-sacks-white-house-ai-cryptocurrency-czar](https://www.foxnews.com/politics/trump-names-david-sacks-white-house-ai-cryptocurrency-czar)
+
+\[2\] [https://gizmodo.com/openai-announces-new-200-per-month-chatgpt-pro-subscription-2000535006](https://gizmodo.com/openai-announces-new-200-per-month-chatgpt-pro-subscription-2000535006)
+
+\[3\] [https://techcrunch.com/2024/12/04/aws-brings-prompt-routing-and-caching-to-its-bedrock-llm-service/](https://techcrunch.com/2024/12/04/aws-brings-prompt-routing-and-caching-to-its-bedrock-llm-service/)
+
+\[4\] [https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)",Excellent-Target-847,1h7ui4w,https://reddit.com/r/artificial/comments/1h7ui4w/oneminute_daily_ai_news_1252024/,https://www.reddit.com/r/artificial/comments/1h7ui4w/oneminute_daily_ai_news_1252024/,2024-12-06 05:47:32,2,0.67,2,0,0,0,0,False,False,True,False,False,News,self,t3_1h7ui4w
+artificial,What tools or techniques have you found helpful for scaling prompt iteration and dataset management?,"
+Hey r/artificial 
+
+I’ve been exploring tools for building and managing AI workflows, especially for applications powered by LLMs. Along the way, I’ve often felt the frustration of juggling multiple tools that don’t quite fit together seamlessly.
+
+To address this, I ended up building something that simplifies the process end-to-end (it’s called Athina).
+
+Here’s what it helps you do:
+
+* Test &amp; version control prompts
+* Build multi-step AI workflows
+* Manage datasets with a spreadsheet UI
+* Run evaluations on datasets or CI/CD
+* Compare outputs across prompts/models
+* Monitor traces, evaluations, &amp; regressions.
+
+And so much more...
+
+I’d love to know—how are you all handling prompt testing, dataset management, or workflow automation in your AI projects? What tools or strategies do you use?",deirdreisbae,1h7n1ix,https://reddit.com/r/artificial/comments/1h7n1ix/what_tools_or_techniques_have_you_found_helpful/,https://www.reddit.com/r/artificial/comments/1h7n1ix/what_tools_or_techniques_have_you_found_helpful/,2024-12-05 23:24:29,1,0.99,1,0,1,0,0,False,False,True,False,False,Project,self,t3_1h7n1ix
+artificial,Any tool that can generate a picture of me riding a motorbike?,I know there are AI's that can generate travel images after you feed multiple selfies or pictures of yourself to it,abyoloyolo,1h7tcw2,https://reddit.com/r/artificial/comments/1h7tcw2/any_tool_that_can_generate_a_picture_of_me_riding/,https://www.reddit.com/r/artificial/comments/1h7tcw2/any_tool_that_can_generate_a_picture_of_me_riding/,2024-12-06 04:40:56,0,0.5,0,0,2,0,0,False,False,True,False,False,Miscellaneous,self,t3_1h7tcw2
