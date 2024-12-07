@@ -1,0 +1,102 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Groups -- and Generators without Closure?,"I'm doing a project in music theory, and it has unexpectedly veered into Group Theory. I have been reading about it and I get the gist of it, but some of the definitions are unclear. I don't have a definitive textbook on the subject. Can you help?
+
+Take for example the set {0,1,2,3,4,5,6,7,8,9,10,11}, which describes all the tones in the 12-TET Chromatic scale. We also define the operator of ""addition modulo 12"". I know that it is a Group because it satisfies the criteria:
+
+* Closure
+* Associativity
+* Identity Element (it is 0)
+* Invertibility
+
+And this set definitely has a Generator. The generator could be 1, 5, 7, or 11 -- all the numbers that are coprime with the modulo. I've read that this is a ""generator set"", ie {1,5,7,11} is the set of all generators.
+
+A Group with a generator is called a ""cyclic group"". And I've also read the definition ""a cyclic group has a single generator element"". Well, my Group has multiple generators. I take this to mean that we're only using one generator at a time... we aren't finding members of the Group by applying 1 or 5 or 7 any way we wish. We pick one generator, use it to generate the set, then put it back when we're done.
+
+Furthermore, this is a ""finite cyclic set"" because of the modulo. It doesn't go on forever down the yellow brick number line.
+
+Another definition says ""a group is cyclic if there exists an 𝑎∈𝐺 such that every element of G is a power of a. By ""power of"" I assume that means a repeated application of the operator ""addition mod 12"". By this definition, the set {1,2,3,...,11} is cyclic.
+
+So far that all makes sense, and... if I've made any mistakes please let me know and correct me!
+
+OK Here's where things get a bit unclear for me, and where I think I might be wandering astray.
+
+The Major Scale is represented by a set {0,2,4,5,7,9,11}. We'll use the same operator ""addition mod 12"".
+
+This isn't a Group! It fails the Closure condition -- because we can add 4 + 2 = 6, and 6 is not in the set. It passes Associativity and Identity. But then it fails on ""Inverses"".
+
+And yet... in the Music Theory literature there is a lot of theorizing around Generators where the Major scale is used as an example. From any tone in the set {0,2,4,5,7,9,11}, you can add (or subtract) 5 or 7 enough times to find every other member of the set. Those of you who have studied music and the ""circle of fifths"" know what I'm talking about here.
+
+But wait, forget about subtracting. We can create a path for the generator 7 if we start on the 5 and end on 11. It just can't go any further than that. According to what I've read in Group Theory, generators can't be stopped like that, but in Music Theory, they can?
+
+Does the Major Scale fulfil the criteria ""there exists an 𝑎∈𝐺 such that every element of G is a power of a""? It almost does, but it's more like a + x\^n not a\^n 
+
+So what's the deal here? There are sets (with the addition mod 12 operator) that are not Groups, but they are cyclic, they have a Generator, Or at least, something that behaves like a Generator, but it can't be applied forever in both directions; there is a start and end to its generation pattern. Are there words for this that I haven't learned yet? Group-like things that have a Generator, but no Closure?
+
+I'm writing this for an advanced academic audience so it's very important that I get all the words correct, and that I'm not glossing over the mathematical details with some vague hand-waving. Much gratitude...",Mindless-Question-75,1h8ujcd,https://reddit.com/r/math/comments/1h8ujcd/groups_and_generators_without_closure/,https://www.reddit.com/r/math/comments/1h8ujcd/groups_and_generators_without_closure/,2024-12-07 15:14:47,4,0.83,4,0,0,0,0,False,False,True,False,False,,,t3_1h8ujcd
+math,"What’s bigger, Tree(g63) or g(Tree3)",im actually dying to know the answer to this,Competitive-Disk-758,1h8u7d8,https://reddit.com/r/math/comments/1h8u7d8/whats_bigger_treeg63_or_gtree3/,https://www.reddit.com/r/math/comments/1h8u7d8/whats_bigger_treeg63_or_gtree3/,2024-12-07 14:58:57,0,0.33,0,0,4,0,0,False,False,True,False,False,,,t3_1h8u7d8
+math,Math became my unexpected escape from life,"I’ve always been fascinated by math, even as a kid in elementary school. Back then, I thought I liked it simply because I was good at it. I never really considered math as something I’d study seriously in university or as a particularly “useful” pursuit—it was just there.
+
+Long story short, I ended up pursuing the path to medicine. But I often found myself struggling with mental blocks in life. Problems or worries would get stuck in my mind, and I couldn’t seem to shake them off.
+
+Then came linear algebra. I took it as an elective, and it was my first real exposure to proof-based math. Honestly, I struggled with the proofs a lot, but something unexpected happened. After the course ended, I realized how much happier I was during that semester. Math had completely occupied my mind—there wasn’t room for other worries to creep in. That struggle, that focus, made my brain feel calmer.
+
+Now, I’ve decided to make math my “side quest” alongside medicine, and I feel incredibly satisfied about it. These days, I carry an abstract math book with me almost everywhere. Whenever I feel down or overwhelmed, I’ll open it, read a few pages, and immerse myself in it. It’s like a reset button for my mind.
+
+Currently, I’m enjoying a book on Galois Theory, and it’s been amazing  so far. I just wanted to share this experience and see if anyone else can relate. Do you also find joy in math as a way to calm your mind and bring clarity to your life? I feel like no one around me really gets this.",Lost_Problem2876,1h8t9pt,https://reddit.com/r/math/comments/1h8t9pt/math_became_my_unexpected_escape_from_life/,https://www.reddit.com/r/math/comments/1h8t9pt/math_became_my_unexpected_escape_from_life/,2024-12-07 14:10:49,85,0.96,85,0,9,0,0,False,False,True,False,False,,,t3_1h8t9pt
+math,Good luck to everyone taking the Putnam today!,,Kmikaelgk,1h8r3se,https://reddit.com/r/math/comments/1h8r3se/good_luck_to_everyone_taking_the_putnam_today/,https://www.reddit.com/r/math/comments/1h8r3se/good_luck_to_everyone_taking_the_putnam_today/,2024-12-07 12:06:14,49,0.95,49,0,8,0,0,False,False,True,False,False,,,t3_1h8r3se
+math,"People who studied math past high school, what do you consider scary math?",Edit: Also what about math that's the opposite? Math that seems scary but is just misunderstood,petitlita,1h8gd3l,https://reddit.com/r/math/comments/1h8gd3l/people_who_studied_math_past_high_school_what_do/,https://www.reddit.com/r/math/comments/1h8gd3l/people_who_studied_math_past_high_school_what_do/,2024-12-07 00:41:15,256,0.93,256,0,357,0,0,False,False,True,False,False,,,t3_1h8gd3l
+math,"People who do research in math, did you occasionally feel like the results you discover are embarassingly trivial?","I hope the title manages to adress the question I am asking. So I am currently working on some stuff in low dimensional topology, more precisely I try to characterise a specific set of simple closed curves on surfaces by using homological considerations that are eventually needed for proving the main theorem of my work.  
+  
+Without getting too much into details, I am studying the behaviour of certain loops on  surfaces and I just recently finally managed to pin it down and give a full characterisation of these elements I was trying to understand for quite some time. First I witnessed some patterns by doing a bit of combinatorial considerations and once I understood what happens, I started proving what I had witnessed. The following day I noticed that everything I proved essentially comes down to basic linear algebra and now my proof is literally a few lines of nothing than very elementary linear algebra. 
+
+To be fair, it is not entirely obvious at first glance.  The result itself is still novel in the sense that it helps me eventually prove a much more significant statement but still, once I found the proof, it felt utterly trivial all of a sudden.
+
+I will of course discuss my results with my supervisor who can immediately tell whether or not my results are useful, but am still interested in hearing some of your experiences. Have you ever had a similar experience or feeling?
+
+",Autumnxoxo,1h85tqm,https://reddit.com/r/math/comments/1h85tqm/people_who_do_research_in_math_did_you/,https://www.reddit.com/r/math/comments/1h85tqm/people_who_do_research_in_math_did_you/,2024-12-06 16:52:08,307,0.98,307,0,73,0,0,False,False,True,False,False,,,t3_1h85tqm
+math,Video Lectures on Advanced Set Theory and Logic?,"I'm wondering if anybody knows of any video lectures on advanced set theoretic topics? Large Cardinal axioms, Martin's Axiom, Forcing, independence results, topics like those. I started Jechs book but I feel things would go quicker if only I had a video course to follow. Thanks all.",Son_Brohan,1h8nro3,https://reddit.com/r/math/comments/1h8nro3/video_lectures_on_advanced_set_theory_and_logic/,https://www.reddit.com/r/math/comments/1h8nro3/video_lectures_on_advanced_set_theory_and_logic/,2024-12-07 07:59:57,12,1.0,12,0,0,0,0,False,False,True,False,False,,,t3_1h8nro3
+math,Say you flip a fair coin 100 times and get heads 100 times. How many times do you have to flip said coin until you have statistically had more tails than heads atleast once? ,I would appreciate an explanation as to how you would solve such a problem and how to solve for the probability of this occuring after N flips would be. TIA. ,JokesUndThreats,1h8gio1,https://reddit.com/r/math/comments/1h8gio1/say_you_flip_a_fair_coin_100_times_and_get_heads/,https://www.reddit.com/r/math/comments/1h8gio1/say_you_flip_a_fair_coin_100_times_and_get_heads/,2024-12-07 00:48:54,37,0.83,37,0,16,0,0,False,False,True,False,False,,,t3_1h8gio1
+math,Converting Elliptic Curve real coordinates to finite coordinates.,"So basically I don't understand how my point specified here in the picture can be converted to a finite field.
+
+I understand that the more big the finite field modulus is and the more precise the ""quantization"" will be, so that point will probably never exist in the majority of finite fields, even the ones with very big modulus.
+
+Let's say I can accept an approximation, how would you convert this point's real coordinates to finite fields coordinates?
+
+https://preview.redd.it/4a2fxjbthf5e1.png?width=487&amp;format=png&amp;auto=webp&amp;s=e99ef473254c154017fb87d51adc9c12ba7d85ca",chri4_,1h8sjfq,https://reddit.com/r/math/comments/1h8sjfq/converting_elliptic_curve_real_coordinates_to/,https://www.reddit.com/r/math/comments/1h8sjfq/converting_elliptic_curve_real_coordinates_to/,2024-12-07 13:31:00,2,1.0,2,0,4,0,0,False,False,True,False,False,,,t3_1h8sjfq
+math,I don't like vector calculus but I like proofs,"I'm currently taking vector calculus and an intro to proofs class. I really don't like vector calc. I find it to be really boring and tedious. However, I find my proofs class a lot more interesting. Is this just because the level of proofs I'm doing are a lot lower than my calculus class? Has anyone else felt like this?",Clean-Cartoonist772,1h8m0gg,https://reddit.com/r/math/comments/1h8m0gg/i_dont_like_vector_calculus_but_i_like_proofs/,https://www.reddit.com/r/math/comments/1h8m0gg/i_dont_like_vector_calculus_but_i_like_proofs/,2024-12-07 05:56:54,5,0.78,5,0,11,0,0,False,False,True,False,False,,,t3_1h8m0gg
+math,"Jason Padgett, is he legit?","I recently saw a Mind Field (a series from VSauce) [video](https://youtu.be/wcPzTr-BbAA?si=IURpyjY_luvwv679) that cited him as an acquired Savant with outstanding abilities in mathematics, he claims to have gained profound mathematical intuition following a head injury and to have consequently pursued mathematical education to talk to mathematicians in their language, he also claims on his [website](https://jason-padgett.pixels.com/) he's doing research on number theory and fractal geometry, yet he has published NOTHING (at least nothing I can find on Google scholar).
+
+I'm still in undergrad so I don't have much experience looking for academic publications, I would really appreciate it if someone more knowledgeable than me confirmed whether or not he ever published. His claims are very weird and sound like pseudoscience, which adds to my doubts about him.",TheRedditObserver0,1h822sd,https://reddit.com/r/math/comments/1h822sd/jason_padgett_is_he_legit/,https://www.reddit.com/r/math/comments/1h822sd/jason_padgett_is_he_legit/,2024-12-06 14:05:06,69,0.86,69,0,30,0,0,False,False,True,False,False,,,t3_1h822sd
+math,"Justin Clarke-Doane | Mathematics, Reality, and Morality | The Cartesian Cafe with Timothy Nguyen","Justin Clarke-Doane is a professor of philosophy at Columbia University, whose interests span metaethics, epistemology, and the philosophy of logic &amp; mathematics.   
+  
+In this thought provoking-discussion, Justin and I go deep into topics that are typically neglected by most mathematicians and scientists, namely the philosophy of mathematics and morality. Justin has contributed to both these areas via his book Morality and Mathematics, which takes the view that the standard position of being both a mathematical realist and moral antirealist is incoherent. Perhaps the most novel aspect of Justin's work is the treatment of the philosophy of mathematics and morality side-by-side, showing how these two topics, which are usually thought of as being unrelated, in fact have strong analogies. Along the way, we discuss many other foundational topics in epistemology and ethics, with elements of set theory, metaphysics, and logic sprinkled in. 
+
+https://preview.redd.it/15155fxeh95e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=67ca10f9fdcd95c98ebf1c23cf4cc57d47f56bd4
+
+https://preview.redd.it/8qvkwbjzh95e1.png?width=3319&amp;format=png&amp;auto=webp&amp;s=d6a9bfa7724b31063914733bde43c46d7b20a515
+
+Youtube: [https://youtu.be/yt38xgAH1LM?si=j-E-gRULYkxxOIPo](https://youtu.be/yt38xgAH1LM?si=j-E-gRULYkxxOIPo)  
+  
+Apple Podcasts: [https://podcasts.apple.com/us/podcast/the-cartesian-cafe/id1637353704](https://podcasts.apple.com/us/podcast/the-cartesian-cafe/id1637353704)
+
+Spotify: [https://open.spotify.com/show/1X5asAByNhNr996ZsGGICG](https://open.spotify.com/show/1X5asAByNhNr996ZsGGICG)
+
+RSS: [https://feed.podbean.com/cartesiancafe/feed.xml](https://feed.podbean.com/cartesiancafe/feed.xml)",IamTimNguyen,1h86jig,https://reddit.com/r/math/comments/1h86jig/justin_clarkedoane_mathematics_reality_and/,https://www.reddit.com/r/math/comments/1h86jig/justin_clarkedoane_mathematics_reality_and/,2024-12-06 17:22:09,32,0.9,32,0,1,0,0,False,False,True,False,False,,,t3_1h86jig
+math,"In the central limit theorem, where does the a^-x^2 pattern come from?",Why does this specific type of function represent so much?,Teh_elderscroll,1h87jbd,https://reddit.com/r/math/comments/1h87jbd/in_the_central_limit_theorem_where_does_the_ax2/,https://www.reddit.com/r/math/comments/1h87jbd/in_the_central_limit_theorem_where_does_the_ax2/,2024-12-06 18:03:56,25,0.79,25,0,38,0,0,False,False,True,False,False,,,t3_1h87jbd
+math,Are there rational values greater than 1 that α = σ(n)/n cannot take?,"σ(n) being the sum of divisors function. Essentially will α take on all rational numbers greater than 1? If n is prime then for larger n α will be closer to 1, and if n has many divisors then α can get quite large. Does it take all values in between?",Winde1,1h7xz2j,https://reddit.com/r/math/comments/1h7xz2j/are_there_rational_values_greater_than_1_that_α/,https://www.reddit.com/r/math/comments/1h7xz2j/are_there_rational_values_greater_than_1_that_α/,2024-12-06 09:54:43,40,0.9,40,0,9,0,0,False,False,True,False,False,,,t3_1h7xz2j
+math,Group Theory for Physics,"Hey guys, I'm an undergraduate who has studied group theory for four semesters. I plan to revisit the subject from scratch, but this time with a focus on its applications in physics. I’d really appreciate it if you could suggest any online resources or books that would be helpful.
+
+Thank you!",og_mamashaq,1h8h9v3,https://reddit.com/r/math/comments/1h8h9v3/group_theory_for_physics/,https://www.reddit.com/r/math/comments/1h8h9v3/group_theory_for_physics/,2024-12-07 01:27:04,2,0.75,2,0,4,0,0,False,False,True,False,False,,,t3_1h8h9v3
+math,"This Week I Learned: December 06, 2024","This recurring thread is meant for users to share cool recently discovered facts, observations, proofs or concepts which that might not warrant their own threads. Please be encouraging and share as many details as possible as we would like this to be a good place for people to learn!",inherentlyawesome,1h860le,https://reddit.com/r/math/comments/1h860le/this_week_i_learned_december_06_2024/,https://www.reddit.com/r/math/comments/1h860le/this_week_i_learned_december_06_2024/,2024-12-06 17:00:10,7,1.0,7,0,5,0,0,False,False,True,False,False,,,t3_1h860le
+math,I'd like to start with coding theory,"We build error correction algorithms for high speed data transmission and we have people dedicated to figure out the bit manipulation and all that, while we figure out how to make a physical device out of it.
+
+Unfortunately I lack the mathematical background to understand the coding/encoding parts and its frustrating. 
+
+Which book/material would you recommend starting with?
+
+FYI we use generalized Reed Solomon codes or turbo codes, but these names make no sense to me and I want to understand the fundamentals.
+
+Thanks a lot!",albasili,1h7zezy,https://reddit.com/r/math/comments/1h7zezy/id_like_to_start_with_coding_theory/,https://www.reddit.com/r/math/comments/1h7zezy/id_like_to_start_with_coding_theory/,2024-12-06 11:36:50,16,0.81,16,0,7,0,0,False,False,True,False,False,,,t3_1h7zezy
+math,I love meth,"I love doing meth in school
+I love meth class
+I love when the teachers do meth",su_ssybaka,1h8v9es,https://reddit.com/r/math/comments/1h8v9es/i_love_meth/,https://www.reddit.com/r/math/comments/1h8v9es/i_love_meth/,2024-12-07 15:49:16,0,0.17,0,0,2,0,0,False,False,True,False,False,,,t3_1h8v9es

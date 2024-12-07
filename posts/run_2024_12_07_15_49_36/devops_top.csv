@@ -1,0 +1,131 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Most companies don't appreciate the intelligence of people,"All they need is their time. For Devops roles it's double the fact.
+
+If you are in a company that appreciate your intelligence, you are damn lucky.",moneyppt,1h8l26z,https://reddit.com/r/devops/comments/1h8l26z/most_companies_dont_appreciate_the_intelligence/,https://www.reddit.com/r/devops/comments/1h8l26z/most_companies_dont_appreciate_the_intelligence/,2024-12-07 04:57:12,55,0.78,55,0,19,0,0,False,False,True,False,False,,self,t3_1h8l26z
+devops,Which field has the highest demand in freelancing,"Hello friends,
+
+I am a Node.js backend developer with 2 years of experience. I want to start freelancing, but I have no idea how to begin. Based on a friend's suggestion, I created an account on Fiverr and made a simple gig.
+
+My question is: which field has the highest demand in freelancing? I mean fields like frontend, backend development, WordPress, DevOps, data pipelines, data engineering, etc. I want to learn as many skills as possible so that I can set up my own business and avoid working as an employee for a company.
+
+Over the past few months, I have met many people and attended several interviews, some of which were not even related to my field. For example, I gave a data engineering interview where I built an ETL data pipeline using Node.js, Python, Docker, Apache Kafka, and Postgres. I also interacted with companies that develop gambling websites, games, and even crack software to steal user data or bypass paid APIs for WhatsApp and Meta applications.
+
+After working for 2 years, I have realized that most IT companies have middlemen who take a significant cut of the revenue, leaving employees with very little. I want to do something of my own.
+
+I have a few friends who are frontend developers, full-stack developers, and UI/UX designers.
+
+If you have any advice, please share it with me. I’d like to know what strategies I should use, which platforms I should focus on, etc.
+
+I am not interested in frontend development, and I’m not good at designing UIs. I prefer backend development and want to explore more opportunities in server-side technologies. Should I explore fields like DevOps or data engineering?
+
+Thank you.
+
+",Leading_Painting,1h878ez,https://reddit.com/r/devops/comments/1h878ez/which_field_has_the_highest_demand_in_freelancing/,https://www.reddit.com/r/devops/comments/1h878ez/which_field_has_the_highest_demand_in_freelancing/,2024-12-06 17:51:46,12,0.67,12,0,12,0,0,False,False,True,False,False,,self,t3_1h878ez
+devops,CloudFormation is cool. But somehow terraform feels neat with aws...,curious to know your thoughts.,moneyppt,1h8n0lr,https://reddit.com/r/devops/comments/1h8n0lr/cloudformation_is_cool_but_somehow_terraform/,https://www.reddit.com/r/devops/comments/1h8n0lr/cloudformation_is_cool_but_somehow_terraform/,2024-12-07 07:04:09,10,0.63,10,0,31,0,0,False,False,True,False,False,,self,t3_1h8n0lr
+devops,How are you doing serverless development?,"This is turning into a bigger issue. Trying to keep this short and concise but I want to describe the problem as completely as I can.
+
+We're in AWS. Most of our app is serverless. While it is possible to run some stuff locally against deployed microservices we are starting to run into more scenarios where we need to deploy code and infrastructure to a serverless setting to be able to develop (test) anything.
+
+We have the following setup:
+1) 3 environments - production, staging, development
+2) Theoretically development is _supposed_ to happen in the development environment. But of course to save time and money it doesn't happen that way. There are whole feaures unavilable in that environment so a lot of times we are developing in the staging environment.
+3) PRs are required to get into staging and production but not for development. The idea of the develop environment/branch was that it was a shared feature branch since we also lack the ability to deploy feature branches to a serverless envirment. This is tough because we all have to share the environments.
+
+The above setup ultimately leads to the following problems:
+1) Rapid fire commits. Broken builds and failed deployments aren't as big of an issue here. We're having to push out small change after small change because we don't have the ability to test a lot of our work locally. (we lack local instances of dynamo, queues, topics, lambdas, etc). On some level locally we can run against deployed services. This only gets us so far.
+2) I am constatly waiting around for PR approvals into staging when working on features that aren't available in production. Like completely wasting my time waiting. Actually I wrote this post up while waiting for a PR. This is one of those scenarios where we think we saved time by not setting up the proper infrastructure in the lower environment but now everyone is waiting half a day for their 2 line null reference PR approved to deploy to staging.
+3) With the rapid fire commits we have single stories spread out of probably 20 commits on avergae. So it is literally impossible to have a 1-1 mapping of story -&gt; commit. This makes something like hotfixing much more difficult.
+4) whole features aren't being reviewed like they should. With spreading the commits out because of the development experience whenever someone is presented with a PR they are only looking at a small piece of the story.
+
+Using a current project as an example: we're building several state machines in AWS. These are super useful and they work well. But its impossible to work on these without having to push code to get it tested. The infrastructure is closely tied to the code too, so its not like I can build something to fake the invocation that is going to be sufficient.
+
+I've heard about localstack and I would imagine that's the perfect solution but of course our management wont' consider it because of cost.
+
+Any other ideas? Branching strategies? Am I missing something obvious? This has got to be a common problem with all of the serverless architecture these days.",UnC0mfortablyNum,1h85ju1,https://reddit.com/r/devops/comments/1h85ju1/how_are_you_doing_serverless_development/,https://www.reddit.com/r/devops/comments/1h85ju1/how_are_you_doing_serverless_development/,2024-12-06 16:40:25,11,0.77,11,0,31,0,0,False,False,True,False,False,,self,t3_1h85ju1
+devops,The state of industry certs,"I’m curious of this sub’s opinion on industry certs. I used to be a big advocate of cloud certification, largely because they were a nice forcing factor to learn new things, test my knowledge, and have something tangible to add to my resume. At one point I held nine between AWS and Linux Foundation. 
+
+Recently life has been busy and I allowed my AWS SA Pro cert to expire. My DevOps Pro is expiring in February, which I’m a little more concerned about because that’s more in line with what I do on a day-to-day. That said, I see people posting on Linkedin all the time about getting certified, and it seems it’s really becoming less of a hot commodity these days.
+
+As someone with 10 years of experience at this point, I’m questioning the continued importance of certification in my career. I have always told people I’ve mentored that certification is one of the best ways to accelerate your career, but does it get to a point of diminishing returns? I could use some advice from people in a similar position or more senior than myself. 
+
+Thanks in advance!",ominouspotato,1h8qpma,https://reddit.com/r/devops/comments/1h8qpma/the_state_of_industry_certs/,https://www.reddit.com/r/devops/comments/1h8qpma/the_state_of_industry_certs/,2024-12-07 11:39:38,13,0.93,13,0,20,0,0,False,False,True,False,False,,self,t3_1h8qpma
+devops,About to start a Senior SRE/DevOps role. Feeling anxious,"So I got interviewed and was accepted into an Senior SRE/Devops role and I am anxious af. My main job would be to manage/automate mainly deployments for kubernetes clusters. I also an SRE for almost 2 years in my current org and is learning a lot.
+
+I will be working with a team of 7, being 2 of us SRE and the rest are developers. I honestly didn't think I would be accepted because I am not a software engineer prior, although I do some scripting/automation with python/bash, I am nowhere near those people who are really seasoned veterans to be called ""senior"".
+
+The hiring manager asked me I have some experiences in Kubernetes/CICD. And I told them the honest truth that I do not have any direct real professional experience w/ Kubernetes or CICD but has self learned docker/kubernets/gitlab CICD and implemented it in some of my projects. And I think that honesty was what he needed to hire me.
+
+Given that, I am anxious on my new role. What if I cannot deliver a certain automation/pipeline needed by my dev? What if I cannot code a everything they ask of me? Damn, it feels scary. ",tigidig5x,1h8setn,https://reddit.com/r/devops/comments/1h8setn/about_to_start_a_senior_sredevops_role_feeling/,https://www.reddit.com/r/devops/comments/1h8setn/about_to_start_a_senior_sredevops_role_feeling/,2024-12-07 13:24:02,3,0.72,3,0,3,0,0,False,False,True,False,False,,self,t3_1h8setn
+devops,Interviewing for a job that requires azure devops experience,"I am terrible at interviewing people for jobs. What types of questions or scenarios should I ask this individual to see if they really know their stuff?
+
+We are primarily a Microsoft shop and this person will also need to support our m365 services too on top of interfacing with and assisting our swe teams",PlaneTry4277,1h8bog5,https://reddit.com/r/devops/comments/1h8bog5/interviewing_for_a_job_that_requires_azure_devops/,https://www.reddit.com/r/devops/comments/1h8bog5/interviewing_for_a_job_that_requires_azure_devops/,2024-12-06 21:03:09,2,0.57,2,0,4,0,0,False,False,True,False,False,,self,t3_1h8bog5
+devops,Terragrunt and Karpenter - can't provision nodes,"Guys, I'm tailoring a terragrunt project to deploy an EKS cluster with a single managed nodepool and 2 different Karpenter nodepools and I'm stuck.
+
+I could get the whole EKS done, I can get the Helm chart installed (I'm doing 1.31 cluster and 1.1.0 karpenter), I can get the karpenter-crd installed too. Everything seems fine and the pods for Karpenter get running.
+
+I tried applying the sample 2048 game from AWS documentation and I get these in the events:  
+0/2 nodes are available: 2 node(s) had untolerated taint {CriticalAddonsOnly: true}. preemption: 0/2 nodes are avai ││ lable: 2 Preemption is not helpful for scheduling. 
+
+It seems my Karpenter can't provision nodes. I tried asking ChatGPT what's the issue and it tells me I have no provisioner, but when I try to create one it fails with the message ""error: resource mapping not found for name: ""default"" namespace: """" from ""provisioner.yaml"": no matches for kind ""Provisioner"" in version ""karpenter.sh/v1""
+
+ensure CRDs are installed first""
+
+  
+I'm not sure what to do.
+
+Can someone help me out?",sock_templar,1h85106,https://reddit.com/r/devops/comments/1h85106/terragrunt_and_karpenter_cant_provision_nodes/,https://www.reddit.com/r/devops/comments/1h85106/terragrunt_and_karpenter_cant_provision_nodes/,2024-12-06 16:18:00,3,0.81,3,0,15,0,0,False,False,True,False,False,,self,t3_1h85106
+devops,Two Months After Layoff: Still No Callbacks,"I was working at a startup and got laid off two months ago. I have 2 years of experience, but ever since the layoff, I’ve been applying everywhere and not getting any callbacks. My financial situation is really bad right now, and I just need something to get by.I know some of you have your own startup or knows someone who might need help, I’m willing to work for as little as $5/hour or even less. I just don’t want this gap in my career to grow bigger.I’d be grateful for any help or advice. Thanks for reading.",Witty-Inspection-403,1h8prs1,https://reddit.com/r/devops/comments/1h8prs1/two_months_after_layoff_still_no_callbacks/,https://www.reddit.com/r/devops/comments/1h8prs1/two_months_after_layoff_still_no_callbacks/,2024-12-07 10:30:31,2,0.55,2,0,10,0,0,False,False,True,False,False,,self,t3_1h8prs1
+devops,scraping/pulling pricing info from restaurant sites?,I'm a backend/sysops/infra cloud architect but not much experience just in devops. What is the easiest/beginner way just to pull or scrape info like pricing for a few food items from local restaurants periodically or on a schedule? Just trying to work on projects to build skills and build my resume but not sure if beautiful soup was the easiest/good place to start or somewhere else. ,breakingd4d,1h8gz5w,https://reddit.com/r/devops/comments/1h8gz5w/scrapingpulling_pricing_info_from_restaurant_sites/,https://www.reddit.com/r/devops/comments/1h8gz5w/scrapingpulling_pricing_info_from_restaurant_sites/,2024-12-07 01:11:55,4,0.75,4,0,3,0,0,False,False,True,False,False,,self,t3_1h8gz5w
+devops,Kubernetes Operator for Tunnels: frp Operator 🚀,,niekberenschot,1h8dpxf,https://reddit.com/r/devops/comments/1h8dpxf/kubernetes_operator_for_tunnels_frp_operator/,/r/kubernetes/comments/1h8do7q/kubernetes_operator_for_tunnels_frp_operator/,2024-12-06 22:34:06,1,0.56,1,0,0,0,0,False,False,False,False,False,,default,t3_1h8dpxf
+devops, Need help configuring Prometheus and Grafana to scrape metrics from MSSQL server,"Hey everyone,
+
+I'm working on a task where I need to configure **Prometheus** and **Grafana** to scrape metrics from my **MSSQL server**, but I'm completely new to these tools and have no idea how to go about it.
+
+I've set up Prometheus and Grafana, but I'm stuck on how to get them to scrape and visualize metrics from the MSSQL server. Could someone guide me on the steps I need to follow or point me toward any helpful resources?
+
+Any help or advice would be greatly appreciated!
+
+Thanks in advance!",Prof_CottonPicker,1h8n6sk,https://reddit.com/r/devops/comments/1h8n6sk/need_help_configuring_prometheus_and_grafana_to/,https://www.reddit.com/r/devops/comments/1h8n6sk/need_help_configuring_prometheus_and_grafana_to/,2024-12-07 07:16:25,0,0.5,0,0,8,0,0,False,False,True,False,False,,self,t3_1h8n6sk
+devops,Crafting Pull Requests: A Step-by-Step Guide,The [guide](https://www.codium.ai/blog/crafting-exceptional-pull-requests-a-step-by-step-guide/) provides an overview of the process and best practices of creating effective pull requests (PRs) as well as some tips to help you improve your pull requests.,thumbsdrivesmecrazy,1h8s2zz,https://reddit.com/r/devops/comments/1h8s2zz/crafting_pull_requests_a_stepbystep_guide/,https://www.reddit.com/r/devops/comments/1h8s2zz/crafting_pull_requests_a_stepbystep_guide/,2024-12-07 13:05:35,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1h8s2zz
+devops,Anyone running devsecop pipelines with github actions?,"We started migrating our workloads from Jenkins to Github Actions but notice a huge flaw that kind of breaks our pipelines
+
+With the nature of Github actions running all jobs in parallel, when we try to integrate a security tool like iac scanning (via a workflow call). We notice that with actions - jobs after it will still continue even if the iac scan fails due to a policy violation. 
+
+I know one method is using a ""needs"" directive but this is easily manipulated by anyone so if they understand github directives then they can easily remove this.",ConsultorNot225,1h841n7,https://reddit.com/r/devops/comments/1h841n7/anyone_running_devsecop_pipelines_with_github/,https://www.reddit.com/r/devops/comments/1h841n7/anyone_running_devsecop_pipelines_with_github/,2024-12-06 15:35:40,0,0.5,0,0,15,0,0,False,False,True,False,False,,self,t3_1h841n7
+devops,How many IPs am I using?,"Is there a quick and dirty way to estimate how many IPs my Kubernetes cluster is using? I'm running EKS using Fargate and a managed node group, which is probably relevant. Each pod is on my network, so that's an IP each there. The physical nodes will have a couple of each. Uh...",-lousyd,1h83xae,https://reddit.com/r/devops/comments/1h83xae/how_many_ips_am_i_using/,https://www.reddit.com/r/devops/comments/1h83xae/how_many_ips_am_i_using/,2024-12-06 15:30:24,0,0.33,0,0,6,0,0,False,False,True,False,False,,self,t3_1h83xae
+devops,Google NotebookLM: Boosting Productivity,"[A Game-Changer AI Tool for Boosting Productivity and Insights](https://medium.com/@rasvihostings/google-notebooklm-boosting-productivity-a68557521a20)
+
+The world of artificial intelligence is always changing, and Google is the one new tool with the big innovations. One of them is Google NotebookLM, an AI-supported tool that makes the information that the user interacts with fundamental. NotebookLM is the product, which is really a smart assistant helping you to summarize, analyze and get the ideas of different areas. Thus, it is an essential tool for professionals, students, and creatives alike.
+
+# Use Cases
+
+1. **Job Interview Preparation**
+2. **Research Simplification**
+3. **Personal Skill Assessment**
+4. **Project Management**
+5. **Content Creation and Editing**
+
+[https://medium.com/@rasvihostings/google-notebooklm-boosting-productivity-a68557521a20](https://medium.com/@rasvihostings/google-notebooklm-boosting-productivity-a68557521a20)",rasvi786,1h8khm0,https://reddit.com/r/devops/comments/1h8khm0/google_notebooklm_boosting_productivity/,https://www.reddit.com/r/devops/comments/1h8khm0/google_notebooklm_boosting_productivity/,2024-12-07 04:22:43,0,0.2,0,0,2,0,0,False,False,True,False,False,,self,t3_1h8khm0
+devops,Rant DevOps and SRE Part 2,"When my colleagues and I joined a multinational corp a few years ago, one of the first hurdles we faced was figuring out how to access their internal network to contribute to the codebase. Installing a VPN on our personal devices wasn’t an option, so we were given two choices: get corporate-issued laptops with a pre-installed VPN or use virtual machines inside their network that we could access remotely from our own devices.  
+Since the issued laptops all ran Windows and none of us were exactly fans of it, we opted for the VM option. Personally, I wanted to stick with Linux and avoid the nightmare of juggling two work laptops, especially since I already needed one for other customers.  
+Since the issued laptops all ran Windows and none of us were exactly fans of it, we opted for the VM option. Personally, I wanted to stick with Linux and avoid the nightmare of juggling two work laptops, especially since I already needed one for other customers.  
+The company set us up with Citrix Workspace to access the VMs, and honestly, it worked like a dream. The connection was stable, latency was low, and we had great quality-of-life features like multi-monitor support, a bilateral clipboard between the VM and host OS, and even seamless keyboard shortcuts inside the VM. For two years, it was smooth sailing.  
+The company set us up with Citrix Workspace to access the VMs, and honestly, it worked like a dream. The connection was stable, latency was low, and we had great quality-of-life features like multi-monitor support, a bilateral clipboard between the VM and host OS, and even seamless keyboard shortcuts inside the VM. For two years, it was smooth sailing.  
+Then came the bombshell: the company announced they were shutting down the Citrix infrastructure and moving to Microsoft Remote Desktop. At first, we thought it wouldn’t be a big deal. But then we realized that while RDP has native clients for Windows and Mac, it offers nothing official for Linux.  
+Then came the bombshell: the company announced they were shutting down the Citrix infrastructure and moving to RDP. At first, we thought it wouldn’t be a big deal. But then we learned that we actually had to use not just any RDP client (like the Ubuntu-native Remmina), but the Microsoft Remote Desktop app, which leverages the native RDP client on Windows and Mac that isn't present on Linux.  
+This is where things started to fall apart. My colleague on Mac was able to install the RDP client and connect without much trouble. I decided to dual-boot Windows so I could keep using multi-monitor setups, even though it added an annoying layer of inefficiency to my workflow. But our third teammate, who stayed on Linux, was stuck with the RDP web client. That thing is a nightmare—slow, clunky, and missing basic features like multi-monitor support.  
+This is where things started to fall apart. My colleague on Mac was able to install the RDP client and connect without much trouble. I decided to dual-boot Windows so I could keep using multi-monitor setups, even though it added an annoying layer of inefficiency to my workflow. But our third teammate, who stayed on Linux, was stuck with the Microsoft Remote Desktop web client. That thing is a nightmare—slow, clunky, and missing basic features like multi-monitor support.  
+The overall experience has been a huge downgrade. RDP connections aren’t as stable as Citrix, and most of the little conveniences we’d taken for granted are gone. Personally, I’m managing to limp along with my dual-boot setup, but I can’t imagine how much worse it must be for my Linux-only colleague.  
+The overall experience has been a huge downgrade. RDP connections aren’t as stable as Citrix, and most of the little conveniences we’d taken for granted are gone. Even the keyboard shortcuts and bilateral clipboard, which are supported by the app, have been forcibly disabled. Personally, I’m managing to limp along with my dual-boot setup, but I can’t imagine how much worse it must be for my Linux-only colleague.  
+For some of the developers on our team, there’s a workaround: they write code on their local machines, upload it to the VM, and commit from there. But as an SRE, I don’t have that luxury. My work revolves around managing CI/CD pipelines and deployments, which means I have to do everything inside the VM.  
+For some of the developers on our team, there’s a workaround: they write code on their local machines, upload it to the VM, and commit from there. But as an SRE, I don’t have that luxury. My work revolves around managing CI/CD pipelines and deployments, which means I have to do everything inside the VM.  
+This whole transition has been a frustrating reminder of how much platform diversity matters in a corporate environment. It feels like no one thought about the impact on Linux users when they made the switch. I’m curious if anyone else has gone through something similar—how are you handling RDP on Linux? Or is there some hidden magic workaround I’m missing?  
+This whole transition has been a frustrating reminder of how much platform diversity matters in a corporate environment. It feels like no one thought about the impact on Linux users when they made the switch. I’m curious if anyone else has gone through something similar—how are you handling RDP on Linux? Or is there some hidden magic workaround I’m missing?",berops_com,1h843ya,https://reddit.com/r/devops/comments/1h843ya/rant_devops_and_sre_part_2/,https://www.reddit.com/r/devops/comments/1h843ya/rant_devops_and_sre_part_2/,2024-12-06 15:38:38,0,0.31,0,0,6,0,0,False,False,True,False,False,,self,t3_1h843ya
+devops,The coming of AI in software development: Are software engineers going to be commodities ?,"[The fast-paced evolution of Artificial Intelligence (AI)](https://mohamedrasvi.substack.com/p/are-software-engineers-going-to-be) tools in the software development arena has given rise to a contentious debate: are software engineers on the path to becoming mere commodities? AI-powered tools like GitHub Copilot, ChatGPT, and CodeWhisperer are becoming more and more composed; they are changing the way developers work. If we step back and look at it through the lens of a lot of engineers across FAANG (Facebook, Amazon, Apple, Netflix, Google) companies and beyond, many have a nagging feeling that these changes in the industry potentially altering the role of the traditional software engineer
+
+# The Data Behind the Shift
+
+According to a 2023 McKinsey report, 45% of software development tasks can now be automated using existing technologies. Tasks like debugging, testing, and basic coding have become prime candidates for AI automation. Additionally, productivity studies reveal that teams using AI tools reduce development timelines by up to 30%
+
+[https://mohamedrasvi.substack.com/p/are-software-engineers-going-to-be](https://mohamedrasvi.substack.com/p/are-software-engineers-going-to-be)",rasvi786,1h85dc2,https://reddit.com/r/devops/comments/1h85dc2/the_coming_of_ai_in_software_development_are/,https://www.reddit.com/r/devops/comments/1h85dc2/the_coming_of_ai_in_software_development_are/,2024-12-06 16:32:38,0,0.15,0,0,20,0,0,False,False,True,False,False,,self,t3_1h85dc2
+devops,Will Chatgpt replace Programmers?,"Judging by the development of  modern AI tools , will it replace programmers?",BloatedBelly1982,1h8sb93,https://reddit.com/r/devops/comments/1h8sb93/will_chatgpt_replace_programmers/,https://www.reddit.com/r/devops/comments/1h8sb93/will_chatgpt_replace_programmers/,2024-12-07 13:18:31,0,0.12,0,0,11,0,0,False,False,True,False,False,,self,t3_1h8sb93

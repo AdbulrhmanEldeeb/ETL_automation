@@ -1,0 +1,123 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Figuring out full stack coding?,"So I’ve been researching about web development, let me just get this right, so there’s three parts 
+
+- Desginer (Figma)
+- Front end dev (html,CSS,JavaScript)
+- back end dev (PHP, JavaScript)
+
+Let me know if I got this right, the designer just makes a glorified Canva template, the figma file doesn’t actually do anything but become a blueprint (headache) for the front end dev which will guide him on where to put containers and such, the front end dev then creates the physical webpages, places the forms, buttons, containers, etc. however these can link to each other but the they don’t actually perform any function.
+
+The back end developer has to take the website from the front end dev and pretty much connect the dots? Get data collected from forms, tell it where to place that data, establish security measures, pretty much make the website function from page to page.
+
+That’s my understanding of everything so far but now I’m learning with code.ai you can just turn images and screenshots into figma designs using ai, and with visual copilot you can now covert figma designs into front end code in React? So if these actually work all that is needed is backend and decent knowledge of front end. Idk if I’m missing something and maybe the ai tools aren’t all that great yet but I still feel as if front end feels like a lot of work and bit excessive and I also feel as if most people could replace designers by making there own design on figma or just screenshooting a design they like and editing from there. Lmk if my research is correct or not. Thanks ",South-Raisin3194,1h8p2ev,https://reddit.com/r/learnprogramming/comments/1h8p2ev/figuring_out_full_stack_coding/,https://www.reddit.com/r/learnprogramming/comments/1h8p2ev/figuring_out_full_stack_coding/,2024-12-07 09:36:59,18,0.78,18,0,26,0,0,False,False,True,False,False,Topic,,t3_1h8p2ev
+learnprogramming,"What have you been working on recently? [December 07, 2024]","What have you been working on recently? Feel free to share updates on projects you're working on, brag about any major milestones you've hit, grouse about a challenge you've ran into recently... Any sort of ""progress report"" is fair game!
+
+A few requests:
+
+1. If possible, include a link to your source code when sharing a project update. That way, others can learn from your work!
+
+2. If you've shared something, try commenting on at least one other update -- ask a question, give feedback, compliment something cool... We encourage discussion!
+
+3. If you don't consider yourself to be a beginner, include about how many years of experience you have.
+
+This thread will remained stickied over the weekend. [Link to past threads here](https://www.reddit.com/r/learnprogramming/search?q=%22What+have+you+been+working+on+recently%3F%22&amp;sort=new&amp;restrict_sr=on).",AutoModerator,1h8l3xe,https://reddit.com/r/learnprogramming/comments/1h8l3xe/what_have_you_been_working_on_recently_december/,https://www.reddit.com/r/learnprogramming/comments/1h8l3xe/what_have_you_been_working_on_recently_december/,2024-12-07 05:00:10,16,0.88,16,0,13,0,0,False,False,True,False,False,,,t3_1h8l3xe
+learnprogramming,what did you learn about coding in steps?,"my first post got removed, idk why, im not asking for materials or how to get started but just seeing how certain people personally did it and by which order. Btw by this post i mean
+
+\-first i learned x
+
+\-second i learned y
+
+\-third i learned z
+
+ect ect
+
+and btw if you could restart, what would be your steps?",strawjelloberry,1h8qqyq,https://reddit.com/r/learnprogramming/comments/1h8qqyq/what_did_you_learn_about_coding_in_steps/,https://www.reddit.com/r/learnprogramming/comments/1h8qqyq/what_did_you_learn_about_coding_in_steps/,2024-12-07 11:42:19,5,0.73,5,0,7,0,0,False,False,True,False,False,,,t3_1h8qqyq
+learnprogramming,Final Year Project Guidance ,"I am studying BS-IT and currently in my final year , And I had to build a project: in my mind the idea is that ""the web app that restores historical documents like if their is any historical document and it's faded or their is some text that is removed on the document , the webbapp restore that  text "", I had some more feature about this app , but I don't understand how to start , how to define my problem statement , how to define the scope of my project , how to document things , what I have to learn , how much time it take and a lot of things , if anyone is senior software eng. and reading this post kindly help. it's really mean a lot for me. ",Suspicious_Dingo3985,1h8sw0x,https://reddit.com/r/learnprogramming/comments/1h8sw0x/final_year_project_guidance/,https://www.reddit.com/r/learnprogramming/comments/1h8sw0x/final_year_project_guidance/,2024-12-07 13:50:22,3,0.8,3,0,1,0,0,False,False,True,False,False,,,t3_1h8sw0x
+learnprogramming,Best way to collaborative code without Git?,"I'm taking a beginner programming class (using KhanAcademy's JS) and my final is to make a small game project. Me and my friend teamed up and we want to collab code, but we cant think of any good ideas on how. 
+
+I'm used to using Git, but obviously can't use that at school. My current solution is setting up a google doc, to avoid conflicts and issues as much as possible. ",Busy_Platform_6791,1h8lriw,https://reddit.com/r/learnprogramming/comments/1h8lriw/best_way_to_collaborative_code_without_git/,https://www.reddit.com/r/learnprogramming/comments/1h8lriw/best_way_to_collaborative_code_without_git/,2024-12-07 05:40:36,10,0.71,10,0,31,0,0,False,False,True,False,False,,,t3_1h8lriw
+learnprogramming,"Java, Python or Go","I am trying to up my knowledge and skills in programming, but I am having a hard time choosing my where to delve to. I have been working on software development as a QA so I have been using Java for Serenity with REST for automation testing, so I have some things nailed down in Java but just basic stuff related to testing.
+
+I have written code in python mainly in a initiative at work but just to create data visualizations. Worked with matplotlib, numpy, and some other libraries. 
+
+Go I have never worked but since I would like to eventually do a move into backend development or cloud development I thought I’d include it here since it seems to be the ‘go to’ language nowadays.
+
+Can I ask for opinions on these options? What you think? I was thinking about Java since I have been working with but also think python could be a good choice ",Particular_Ad_7663,1h8dgcc,https://reddit.com/r/learnprogramming/comments/1h8dgcc/java_python_or_go/,https://www.reddit.com/r/learnprogramming/comments/1h8dgcc/java_python_or_go/,2024-12-06 22:21:43,28,0.8,28,0,34,0,0,False,False,True,False,False,,,t3_1h8dgcc
+learnprogramming,HELP! Help me understand E-R diagram of these entities,"Hello everyone, I've been trying for more than a week to create the E-R diagram for these relationships that I'll explain below, but I still don't have a clear understanding. I don't know if it's because of a lack of foundation, or if the situation might be ambiguous. The thing is, I’ve created my first task management application, and it’s working, but the issue of cardinalities in the E-R diagram is still unclear to me.
+
+Let me explain: there are 3 tables: **USERS**, **TASK**, and **TASK\_USERS**.
+
+* **USERS** has Id(PK), Name, Email, and password.
+* **TASK** has Id(PK), Title, date, and createdBy(userId FK).
+* **TASK\_USERS** relates the user Id and task Id, and has userId(FK) and taskId(FK).
+* **USERS** can create 1 or many **TASK**.
+* A **TASK** can only be created by 1 **USERS**.
+* **USERS** can assign 1 or many **USERS** to a**TASK**.
+* Many **USERS** can be assigned to many **TASK**.
+
+This is the schema I created: [https://imgur.com/a/gwRA1LT](https://imgur.com/a/gwRA1LT), but I think it’s wrong because I believe the relationships between **USERS-TASK\_USERS** and **TASK-TASK\_USERS**, depending on how you look at it, should both be N:M, right?
+
+Honestly, I’m confused, so if anyone could help, I’d appreciate it.",asdfrofl1,1h8qy0x,https://reddit.com/r/learnprogramming/comments/1h8qy0x/help_help_me_understand_er_diagram_of_these/,https://www.reddit.com/r/learnprogramming/comments/1h8qy0x/help_help_me_understand_er_diagram_of_these/,2024-12-07 11:56:07,2,1.0,2,0,3,0,0,False,False,True,False,False,,,t3_1h8qy0x
+learnprogramming,Projects in C++ or Java (OOP),"Hellooo, I am looking for ideas to do in relation  the object-oriented programming, my goal is to learn pattern designs, however, I do not have some much ideas or projects to do in C++ or Java, any recommendations or any book where can i have many projects to practice?",Qhhehw99,1h8ntqn,https://reddit.com/r/learnprogramming/comments/1h8ntqn/projects_in_c_or_java_oop/,https://www.reddit.com/r/learnprogramming/comments/1h8ntqn/projects_in_c_or_java_oop/,2024-12-07 08:03:20,3,0.81,3,0,1,0,0,False,False,True,False,False,Resource,,t3_1h8ntqn
+learnprogramming,Be Honest,"So I’m gonna be honest, I’m not very tech savvy and only tried out programming briefly in middle school. I was interested in it then and not too bad but I didn’t really continue to learn. Now I’m in a career I hate with no college. Lately I’ve been thinking about programming because it pays good and seems pretty interesting. But please be honest, would it even be feasible for me to learn this if I’m not a tech genius (or anything close to a genius lol) and don’t want to take the risk of putting a ton of money into it. I also would only want to learn outside of working a full time job. I just want some opinions before I decide to start considering this lmao… hope this makes sense. Thanks in advance!!",No-Relation-5754,1h86lvb,https://reddit.com/r/learnprogramming/comments/1h86lvb/be_honest/,https://www.reddit.com/r/learnprogramming/comments/1h86lvb/be_honest/,2024-12-06 17:24:58,46,0.82,46,0,36,0,0,False,False,True,False,False,,,t3_1h86lvb
+learnprogramming,Why is my .lst file larger after saving it as a .txt?,"I have a text file and I wanted to ensure that there were no duplicate lines and that it was sorted properly.  I used another program to sort it, and after that operation, it had a file size of:  
+147 MB (154,265,834 bytes)  Size on disk: 147 MB (154,267,648 bytes)
+
+No problem.  
+Then I used this command in PowerShell to remove any duplicate lines:
+
+    gc 2.lst | get-unique &gt; 3.txt
+
+When I did that, the resulting file size grew by exactly double.  New file size is:  
+294 MB (308,531,670 bytes)  Size on disk: 294 MB (308,535,296 bytes)
+
+When I open them both in Notepad++, they appear to be identical.  Here are screenshots of the info from the statusbar of notepad++: [https://imgur.com/a/4gLG6GF](https://imgur.com/a/4gLG6GF)
+
+They both have the same number of lines, and almost the same file length.  Why is the new .txt file so much larger than the original .lst file?",VitaKaninen,1h8pbgz,https://reddit.com/r/learnprogramming/comments/1h8pbgz/why_is_my_lst_file_larger_after_saving_it_as_a_txt/,https://www.reddit.com/r/learnprogramming/comments/1h8pbgz/why_is_my_lst_file_larger_after_saving_it_as_a_txt/,2024-12-07 09:56:35,2,1.0,2,0,5,0,0,False,False,True,False,False,,,t3_1h8pbgz
+learnprogramming,Is there an issue with using LLM only for debugging?,"i.e. If I spent 15mins and cannot find a clue, will using things like ChatGPT just to debug stunt my growth in the long run?
+
+And how about using it for debugging library usage? For example, I often encounter issues when using FFmpeg (where I have little knowledge of how video codecs and the FFmpeg library work).
+
+thanks!
+
+",LilBluey,1h8m2tf,https://reddit.com/r/learnprogramming/comments/1h8m2tf/is_there_an_issue_with_using_llm_only_for/,https://www.reddit.com/r/learnprogramming/comments/1h8m2tf/is_there_an_issue_with_using_llm_only_for/,2024-12-07 06:01:06,3,0.72,3,0,4,0,0,False,False,True,False,False,,,t3_1h8m2tf
+learnprogramming,How to separate output numbers in Java,"Just want to say I am very new to programming (literally started intro to CS this semester). I'm doing a ""simple"" (hard for me lol) A1Z26 cipher encrypter. I finally got it working except I realized that the numbers are not separated in the output i.e. hello becomes 85121215 and theres no way to tell that 12 and 15 are single integers. How do I make it so that they can be separated by dashes or commas like 8-5-12-12-15? ",homo_simpsion,1h8hw50,https://reddit.com/r/learnprogramming/comments/1h8hw50/how_to_separate_output_numbers_in_java/,https://www.reddit.com/r/learnprogramming/comments/1h8hw50/how_to_separate_output_numbers_in_java/,2024-12-07 01:59:22,9,0.77,9,0,23,0,0,False,False,True,False,False,,,t3_1h8hw50
+learnprogramming,How is this part of a website created? ,"I've been searching a really long time on how to add my website name for my website. I really don't know what it's called and I tried to ask AI and it said it was called a wordmark, logotype or brandname. If it's that how can I add it to my website? ",Magnus_014,1h8ry00,https://reddit.com/r/learnprogramming/comments/1h8ry00/how_is_this_part_of_a_website_created/,https://www.reddit.com/r/learnprogramming/comments/1h8ry00/how_is_this_part_of_a_website_created/,2024-12-07 12:57:53,0,0.4,0,0,3,0,0,False,False,True,False,False,,,t3_1h8ry00
+learnprogramming,Am I just not getting this?,"Hey guys!  
+
+
+I have been learning C++ independently now for almost a month! Needless to say, I am working on a Rock, Paper, Scissors game right now and I was having an issue where I am using cin to gather a char for my  loops and functions, but I was testing it to see what kind of problems would arise if... say someone entered something greater than a single char. Problem happened obviously, and then I tried to fix the problem on my own, nothing I did would work. I then checked out a couple of stackoverflow questions and even posted one myself! (Which I'm not super happy about). The StackOverflow question I asked got me pushing in the right direction, introducing me to cin.ignore(). Plugged that into my code, still had the issue! Couldn't find the solution online anywhere... so I resorted to asking CoPilot (AI). Because of that I was able to figure out the missing parameter I needed in the cin.ignore() function. My question is... I feel like I cheated in a way because I had to ask around for help and even resorted to asking AI as well. My goal is to become a professional Software Engineer, and me having to google around and ask help from others including AI kind of gives me second thoughts as to if I can actually do something like this. Is it common for professionals to seek questions and help in this way?
+
+   Thank you all again for taking the time to read! I'd give you guys a KitKat if I could!",ByteMan100110,1h8kgp6,https://reddit.com/r/learnprogramming/comments/1h8kgp6/am_i_just_not_getting_this/,https://www.reddit.com/r/learnprogramming/comments/1h8kgp6/am_i_just_not_getting_this/,2024-12-07 04:21:14,4,0.83,4,0,3,0,0,False,False,True,False,False,Question:snoo_scream:,,t3_1h8kgp6
+learnprogramming,Computer Science Study Sessions - Meet on Discord 6am CST ,"Hey, everyone!  Starting tomorrow, we’ll be holding daily 1-hour study sessions on CS topics.
+
+We’ll spend the first 10 minutes before the session discussing what we’re working on or hoping to achieve. After the hour, we’ll review our progress and talk about any challenges or pain points.
+
+Please DM me for a link to the Discord server, and share a little about your background and interests when you do.
+
+I’m primarily a Python developer currently reviewing computer architecture, but all subjects are welcome—CS-related or not!
+
+Sessions will start **before 6 AM CST** (please check your time zone).",cogSciAlt,1h8kc92,https://reddit.com/r/learnprogramming/comments/1h8kc92/computer_science_study_sessions_meet_on_discord/,https://www.reddit.com/r/learnprogramming/comments/1h8kc92/computer_science_study_sessions_meet_on_discord/,2024-12-07 04:14:16,4,0.71,4,0,3,0,0,False,False,True,False,False,,,t3_1h8kc92
+learnprogramming,What are some books to help further my education as I prepare for a masters degree in 2025?,"Hello all,
+
+So I have a degree in information technology from a very small school (OSUIT). The teachers taught very outdated technologies and I was underwhelmed by the whole course. I lost interest in tech and thought about going back to school but for physics. That wouldn't be too smart though because I know I love computers, I just need to learn them the right way. Can you guys recommend some books I should read that will go over everything correctly so I can self study in a year. I want a full refresh on everything because I am quite undertaught from this Oklahoma schooling (I also admit to not paying a lot of attention, I got good grades, but didn't absorb information). Also should I learn Calc, algebra, and discrete math? I know I can learn everything the self taught route, but I want a good foundation. I want to fully understand everything and have professors to discuss my gaps with to further my education.",Infinite-Egg6240,1h8hu49,https://reddit.com/r/learnprogramming/comments/1h8hu49/what_are_some_books_to_help_further_my_education/,https://www.reddit.com/r/learnprogramming/comments/1h8hu49/what_are_some_books_to_help_further_my_education/,2024-12-07 01:56:32,5,0.74,5,0,8,0,0,False,False,True,False,False,,,t3_1h8hu49
+learnprogramming,Is it really worth it pursuing CS/SWE,"As the title says, I’m wondering if it’s really worth still pursuing a CS/SWE degree at this point. It’s almost 2025 and a lot of people have been saying that CS is the new art degree or that’s it’s nearly impossible to even get a job as a junior engineer (since many listings say you need like 2-5 YOE). 
+
+The main thing is I’m currently a year and a half away (around summer to fall 2026) from graduating with a degree in software development. The school I’m going to doesn’t really go over much coding but more into the technical aspects of how code works instead. So, I’ve been trying to learn on my own outside of school on things such as Java and Spring Boot. But after seeing all the posts and people saying how hard it is to get a job, employers not replying back or sending rejecting letters, and applying to 100+ jobs, I’ve lost motivation to keep pursuing becoming an SWE. 
+
+So, should I find the motivation to keep going and pursue SWE or try to find something else?",nyar000,1h8qchu,https://reddit.com/r/learnprogramming/comments/1h8qchu/is_it_really_worth_it_pursuing_csswe/,https://www.reddit.com/r/learnprogramming/comments/1h8qchu/is_it_really_worth_it_pursuing_csswe/,2024-12-07 11:13:10,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1h8qchu
+learnprogramming,Should i study data science or computer science/ml?,"Guys i dont know which one to choose. The point is that i like the field of ai, but on one hand if i study data science maybe i wont deal much with ml or neural networks, but if i study cs (with ml focus) i will have to take computer architecture courses and i hate them (also i dont know if i want to be a developer).
+
+What do you think?
+
+Btw if i want to do neural network projects, is data science enough or do i have to study cs?",Filippo295,1h8q0u7,https://reddit.com/r/learnprogramming/comments/1h8q0u7/should_i_study_data_science_or_computer_scienceml/,https://www.reddit.com/r/learnprogramming/comments/1h8q0u7/should_i_study_data_science_or_computer_scienceml/,2024-12-07 10:49:36,0,0.5,0,0,4,0,0,False,False,True,False,False,,,t3_1h8q0u7
+learnprogramming,What field should I choose?,"Hi everyone, I have a CS degree, but I have worked in a different field (not related to IT)  for the past 8 years. I want to go back to the IT world and take some courses online to refresh my knowledge.   
+I was thinking about choosing full-stack software development as my main focus. But not sure if this is actually relevant. I was wondering if you guys could recommend full-stack dev or choose some other field.  
+  
+Thanks in advance.",jtolibov,1h8fzvl,https://reddit.com/r/learnprogramming/comments/1h8fzvl/what_field_should_i_choose/,https://www.reddit.com/r/learnprogramming/comments/1h8fzvl/what_field_should_i_choose/,2024-12-07 00:23:15,6,0.8,6,0,8,0,0,False,False,True,False,False,,,t3_1h8fzvl
+learnprogramming,Android Newbie, I am interested in learning android system and want to root android phones. But I am a total newbie. Could you please tell me which book I can read to get started?,StayQuick5128,1h8ozcz,https://reddit.com/r/learnprogramming/comments/1h8ozcz/android_newbie/,https://www.reddit.com/r/learnprogramming/comments/1h8ozcz/android_newbie/,2024-12-07 09:30:24,1,0.67,1,0,4,0,0,False,False,True,False,False,,,t3_1h8ozcz
+learnprogramming,What method of converting python files to apk files really works,"I have been trying methods like using github actions or google colab but nothing seems to work,only bugs.
+
+Anyone, converted python to apk recently?
+Help with the procedure taken",Unlucky-Method6754,1h8oxd0,https://reddit.com/r/learnprogramming/comments/1h8oxd0/what_method_of_converting_python_files_to_apk/,https://www.reddit.com/r/learnprogramming/comments/1h8oxd0/what_method_of_converting_python_files_to_apk/,2024-12-07 09:26:10,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1h8oxd0
+learnprogramming,I want to understand how to approach a programming question without having to take help of Ai or other resources.,"I am in My 1st year of Computer Science degree. In College we are being thought C Programming. Programming itself is new to me because I was planning of doing something else but that didn't happen so I with my parents suggestion and my own liking chose CS. Im new to it, but I have learned somethings like how to set up loops, and arrays, structure, string, etc. in C. I want to ask the pro programmers here what steps should I follow while solving any kind of programming question. I understand that each code is unique in it's own way but I need some guidance on how to apply logic. ",Fotilago_25,1h8ojtw,https://reddit.com/r/learnprogramming/comments/1h8ojtw/i_want_to_understand_how_to_approach_a/,https://www.reddit.com/r/learnprogramming/comments/1h8ojtw/i_want_to_understand_how_to_approach_a/,2024-12-07 08:57:59,1,1.0,1,0,1,0,0,False,False,True,False,False,Tutorial,,t3_1h8ojtw

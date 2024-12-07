@@ -1,0 +1,416 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Will Authentication always suck?,"The entire web dev scene is  coming to a point where authentication is annoying than ever. Something so simple in concept but the way it is being implemented has frustrated me to a point that I'm writing this because i want to know if it is only me who can't implement proper auth. 
+
+I've used many authentication services across many architectures but in my 3 years of experience I've still not figured out a way or even guidelines that i can follow for implementing authentication across all my applications! Which completely sucks. Authentication is probably the one thing that is keeping me from developing any of my projects which is pretty stupid but if not implemented correctly it poses huge security risks.
+
+  
+So I'm writing this to well, maybe discuss what is your approach to authentication. 
+
+  
+For context, I'm a full-stack developer (MERN stack) and the problem i encounter is implementing cross-oirigin authentication, many MERN auth videos i see online they either only do it on the frontend or if they are adding auth to both the client and server, that approach is usually not practical or has security risks. I mostly succeed in adding auth to the frontend side, it is securing the backend where i usually screw up.
+
+  
+Also when i check the documentation of auth libraries (ex. clerk or next-auth) they lack documentation for client-server architecture and how to secure routes in both frontend and backend. I usually come up with my own route protection system when using any of these but again all types of questions are in my mind. 
+
+**Is this conventional? Is this secure? Is this a good approach?**
+
+  
+Again it's not like I've not implemented authentication in a client-server architecture but it's these questions that make me doubt my way of doing things. Anyways would like to know your opinions on this!
+
+",Clean_Mention2022,1h887ow,https://reddit.com/r/webdev/comments/1h887ow/will_authentication_always_suck/,https://www.reddit.com/r/webdev/comments/1h887ow/will_authentication_always_suck/,2024-12-06 18:32:27,2,0.52,2,0,69,0,0,False,False,True,False,False,Discussion,self,t3_1h887ow
+webdev,Can I Use Another Website’s API?,"I found an API for a website by inspecting the network tab in my browser. Can I legally create a website that uses this API? If it’s illegal, would creating a browser extension instead make it permissible? Finally, does it make a difference if I earn money from the website or extension?",Mr_Kafir,1h8pi9p,https://reddit.com/r/webdev/comments/1h8pi9p/can_i_use_another_websites_api/,https://www.reddit.com/r/webdev/comments/1h8pi9p/can_i_use_another_websites_api/,2024-12-07 10:10:13,4,0.57,4,0,30,0,0,False,False,True,False,False,,self,t3_1h8pi9p
+webdev,How to Mobile Card Game Hand,"Hey there,
+
+not really sure how to describe this problem. I'd like to make a mobile first card game, that functions like this: [https://youtu.be/UVhKwZpt3Ug?si=2cM\_pXrEfNoYXas2&amp;t=925](https://youtu.be/UVhKwZpt3Ug?si=2cM_pXrEfNoYXas2&amp;t=925) at 15:25 (where he 'scrolls' through the cards, and then drags it out).
+
+My question would be, what is the best way to approach this? Any libraries or something like that, that could help? I can imagine the pain to do this in plain html/css/js
+
+Thanks in advance",Sallcrafter,1h8pbbr,https://reddit.com/r/webdev/comments/1h8pbbr/how_to_mobile_card_game_hand/,https://www.reddit.com/r/webdev/comments/1h8pbbr/how_to_mobile_card_game_hand/,2024-12-07 09:56:18,0,0.5,0,0,0,0,0,False,False,True,False,False,Question,self,t3_1h8pbbr
+webdev,"Hey guys, I would love to have some help on this, do you have any idea how to recreate this bending effect in the corners of the screen? With elements distortion too. Any tip is appreciated &lt;3&lt;3&lt;3&lt;3",,Sweet-Hurry-5782,1h86eei,https://reddit.com/r/webdev/comments/1h86eei/hey_guys_i_would_love_to_have_some_help_on_this/,https://i.redd.it/vx3tin8fh95e1.png,2024-12-06 17:16:02,0,0.36,0,0,7,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/g4Fimduh77YrRqMr8E_vOYn-337IvgEQ3Z9OKkW6vfc.jpg,t3_1h86eei
+webdev,"Web template with login, payments, etc","Hi all,   
+I'm looking for websites templates for a basic websites that supports login/sign up/ payments, profile managament, etc.
+
+  
+Obviously these are quite some features, so I don't expect this template to be free. I come from the Data Science world and have some business idea, but I don't even know where to start.",StormFinancial5299,1h88iir,https://reddit.com/r/webdev/comments/1h88iir/web_template_with_login_payments_etc/,https://www.reddit.com/r/webdev/comments/1h88iir/web_template_with_login_payments_etc/,2024-12-06 18:45:16,2,0.62,2,0,13,0,0,False,False,True,False,False,Resource,self,t3_1h88iir
+webdev,[Showoff Saturday] Just launched a digital agency website,"[https://mosaicdigitalagency.com/en](https://mosaicdigitalagency.com/en)  
+  
+Hey guys, I have been wanting to start freelancing for a while and created a website to promote myself and showcase my ability to create websites. This was the result.
+
+I found some of the animations from youtube, and they were easier to implement than I thought.
+
+Let me know what you think!
+
+https://preview.redd.it/f5mjs7pjsd5e1.png?width=1849&amp;format=png&amp;auto=webp&amp;s=a04d3f54365f18eae5b840f2be403746e0645c4a
+
+",CengaverOfTroy,1h8nm41,https://reddit.com/r/webdev/comments/1h8nm41/showoff_saturday_just_launched_a_digital_agency/,https://www.reddit.com/r/webdev/comments/1h8nm41/showoff_saturday_just_launched_a_digital_agency/,2024-12-07 07:48:18,0,0.5,0,0,8,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/GOFG8-IlUXhiRzIIwLQVpmTuslTXg_1hWQ3ePTOVLPg.jpg,t3_1h8nm41
+webdev,My first useful project as a web dev 🎉,,Nols05,1h8ttef,https://reddit.com/r/webdev/comments/1h8ttef/my_first_useful_project_as_a_web_dev/,https://i.redd.it/al1vk7kduf5e1.png,2024-12-07 14:39:18,119,0.78,119,0,35,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/uEmlUe8Pu4I85Pp5hAJnQDVpYSu15u_KZTAqw5p0KaA.jpg,t3_1h8ttef
+webdev,ChatGPT uses Electron.js,"When majority of the programming community criticize Electron.js, ChatGPT chooses Electron to create its desktop software, why? I mean there are a lot better alternatives for creating web apps. Are they biased or something?
+
+https://preview.redd.it/cxgynbso695e1.png?width=725&amp;format=png&amp;auto=webp&amp;s=35ffd6bc46c191454f1a6bada949b28d81813b57
+
+",nitin_is_me,1h84ulm,https://reddit.com/r/webdev/comments/1h84ulm/chatgpt_uses_electronjs/,https://www.reddit.com/r/webdev/comments/1h84ulm/chatgpt_uses_electronjs/,2024-12-06 16:10:32,0,0.27,0,0,27,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/-L294MQNi86a1l3gcaspT2tEhcyQL59orYjYliu2NPs.jpg,t3_1h84ulm
+webdev,Temp-Mail.my - Free disposable temporary email service,"Built a temp email site with two standout features:
+
+* Receive email attachments
+* Recover past temporary emails
+
+Completely free, no signup needed. Generates instant email addresses with easy attachment handling and recovery.
+
+URL is in the title (temp-mail dot my), can't directly post the url or my post might get deleted and I don't know why since this a fresh domain. 
+
+Anyways hope you guys make it there and find it useful. 
+
+Would love to hear your thoughts!",Banksareaproblem,1h8q49j,https://reddit.com/r/webdev/comments/1h8q49j/tempmailmy_free_disposable_temporary_email_service/,https://www.reddit.com/r/webdev/comments/1h8q49j/tempmailmy_free_disposable_temporary_email_service/,2024-12-07 10:56:51,14,0.77,14,0,1,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8q49j
+webdev,"[Showoff Saturday] Made my own QR code generator (with optional image), after all of the ones I've tried either had a paywall, or signup wall",,rm-rf-npr,1h8q3vg,https://reddit.com/r/webdev/comments/1h8q3vg/showoff_saturday_made_my_own_qr_code_generator/,https://freeqrcodegenner.com,2024-12-07 10:56:03,6,0.69,6,0,4,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/poHiOBzkwgym0oQcip19eMTGLIbnEFPXRBagoLQ9yFc.jpg,t3_1h8q3vg
+webdev,[Showoff Saturday] A site that let's you pay money for no reason at all,,xbrrx,1h8hdwl,https://reddit.com/r/webdev/comments/1h8hdwl/showoff_saturday_a_site_that_lets_you_pay_money/,https://payfornoreason.com/,2024-12-07 01:32:46,0,0.27,0,0,4,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h8hdwl
+webdev,Why and how I made a 3D terrain renderer with React + the DOM,,samanpwbb,1h8h4y6,https://reddit.com/r/webdev/comments/1h8h4y6/why_and_how_i_made_a_3d_terrain_renderer_with/,https://trashmoon.com/blog/2024/terrain-renderer-with-react-and-dom/,2024-12-07 01:20:06,19,0.77,19,0,3,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/sMtQSeNPLXt441Mh9DCx29Dae72r5kHe_C0x0ynbJ0Y.jpg,t3_1h8h4y6
+webdev,How do I implement a Payment system in my app?,What are some good services?,Mrreddituser111312,1h8n74e,https://reddit.com/r/webdev/comments/1h8n74e/how_do_i_implement_a_payment_system_in_my_app/,https://www.reddit.com/r/webdev/comments/1h8n74e/how_do_i_implement_a_payment_system_in_my_app/,2024-12-07 07:17:05,7,0.71,7,0,12,0,0,False,False,True,False,False,Discussion,self,t3_1h8n74e
+webdev,Can you please give me feedback for my landing page?,"Curious for any comments for my new onboarding page.  
+How can I make it better or what do you like about it?
+
+[Check it out](https://www.gentube.app/feed/live-creations?highlight=createBox&amp;_cid=ja,r.try3) \- **See anything you imagine in seconds**
+
+Short Description; It's a just for fun AI Art community platform that values building images together and insanely fast - it is almost as if you are playing a video game and its not subscription based or plan to be a tool like other gens out there. ",GenTube0,1h8bxj0,https://reddit.com/r/webdev/comments/1h8bxj0/can_you_please_give_me_feedback_for_my_landing/,https://www.reddit.com/r/webdev/comments/1h8bxj0/can_you_please_give_me_feedback_for_my_landing/,2024-12-06 21:14:24,4,0.75,4,0,4,0,0,False,False,True,False,False,,self,t3_1h8bxj0
+webdev,Which field has the highest demand in freelancing,"Hello friends,
+
+I am a Node.js backend developer with 2 years of experience. I want to start freelancing, but I have no idea how to begin. Based on a friend's suggestion, I created an account on Fiverr and made a simple gig.
+
+My question is: which field has the highest demand in freelancing? I mean fields like frontend, backend development, WordPress, DevOps, data pipelines, data engineering, etc. I want to learn as many skills as possible so that I can set up my own business and avoid working as an employee for a company.
+
+Over the past few months, I have met many people and attended several interviews, some of which were not even related to my field. For example, I gave a data engineering interview where I built an ETL data pipeline using Node.js, Python, Docker, Apache Kafka, and Postgres. I also interacted with companies that develop gambling websites, games, and even crack software to steal user data or bypass paid APIs for WhatsApp and Meta applications.
+
+After working for 2 years, I have realized that most IT companies have middlemen who take a significant cut of the revenue, leaving employees with very little. I want to do something of my own.
+
+I have a few friends who are frontend developers, full-stack developers, and UI/UX designers.
+
+If you have any advice, please share it with me. I’d like to know what strategies I should use, which platforms I should focus on, etc.
+
+I am not interested in frontend development, and I’m not good at designing UIs. I prefer backend development and want to explore more opportunities in server-side technologies. Should I explore fields like DevOps or data engineering?
+
+Thank you.
+
+",Leading_Painting,1h8739t,https://reddit.com/r/webdev/comments/1h8739t/which_field_has_the_highest_demand_in_freelancing/,https://www.reddit.com/r/webdev/comments/1h8739t/which_field_has_the_highest_demand_in_freelancing/,2024-12-06 17:45:48,17,0.81,17,0,12,0,0,False,False,True,False,False,Question,self,t3_1h8739t
+webdev,Simple feedback: One nice thing and one terrible thing.,,Any_Perspective_291,1h8ohf0,https://reddit.com/r/webdev/comments/1h8ohf0/simple_feedback_one_nice_thing_and_one_terrible/,https://twocents.site/,2024-12-07 08:52:47,0,0.5,0,0,0,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/KMMF530qc2tWGg2iTcniApJ4Ck4VGLzcoNDVWhrXQR0.jpg,t3_1h8ohf0
+webdev,Opinions on Build Responsive Real-World Websites with HTML and CSS,"The course Build Responsive Real-World Websites with HTML and CSS is on sale right now.
+Is it worth it for someone who is just started webdev",Arceus_17,1h855dj,https://reddit.com/r/webdev/comments/1h855dj/opinions_on_build_responsive_realworld_websites/,https://www.reddit.com/r/webdev/comments/1h855dj/opinions_on_build_responsive_realworld_websites/,2024-12-06 16:23:14,0,0.5,0,0,4,0,0,False,False,True,False,False,,self,t3_1h855dj
+webdev,DON'T BUY DOMAINS FROM GODADDY!!!! SCAM!!!!!,"I recently had a terrible experience with GoDaddy, and I feel compelled to warn others about their unethical and exploitative practices. 
+
+Here's the list what they do (according to what i observed so far)  :-
+
+1. **Deceptive Domain Availability**: When I searched for a domain, it was initially shown as cheap and available. However, shortly afterward, it was claimed as unavailable, marked as a ""premium domain,"" and priced ridiculously high.
+2. **GoDaddy Monopolizes Domains**: I noticed that every domain I searched for was suddenly ""claimed"" by GoDaddy. Visiting these domains leads to their landing page, where they sell the domain at inflated prices or suggest hiring a broker—essentially forcing users to overpay for domains they initially showed as affordable.
+3. **WHOIS Confirms Suspicious Practices**: When I checked WHOIS information for one of the domains, here’s what I found:
+
+https://preview.redd.it/meuivvga995e1.png?width=782&amp;format=png&amp;auto=webp&amp;s=51bcfc6eddabc92886686167d641e4309cbcea13
+
+4. It’s clear that GoDaddy is holding these domains through their proxy service, making them unavailable to regular users unless they pay a premium
+
+5. **Unfair Market Manipulation**: GoDaddy is deliberately creating scarcity by claiming domains people search for and reselling them at inflated prices. This is not just unethical; it’s exploitative and undermines trust in domain registration services.
+
+💡 **What You Can Do**:
+
+* Avoid GoDaddy at all costs! Use alternative domain registrars like Namecheap, Hostinger, Cloudflare or Porkbun.
+* Be cautious when searching for domains, as GoDaddy seems to track interest and manipulate availability to force you to pay more.
+
+⚠️ **Conclusion**:  
+GoDaddy’s practices are a blatant scam, designed to exploit users searching for domains. They manipulate the market to extort money and provide no transparency in the process. Stay away from GoDaddy and use trustworthy alternatives instead!
+
+this happen for all the domain i checked specially (.com) all the one also don't say .com are popular in demand then why it available and now its register then why now and why after i checked and why all and why all the domain are directing to godaddy not once to their registered owners website
+
+here the live proof:
+
+[in hostinger it says](https://preview.redd.it/0exjn3cra95e1.png?width=494&amp;format=png&amp;auto=webp&amp;s=a1bc97f19c449d2e9bea8ec4709d6d4a7c63f223)
+
+[in godaddy it says](https://preview.redd.it/fkd9h3cra95e1.png?width=948&amp;format=png&amp;auto=webp&amp;s=d9afed2c6bb2e252eb3d2660741d74cc8d208c3d)
+
+[this image is specifically a domain that i wanted its not said premium but it register after i lookup and add to cart in a one day no owner but godaddy only \(it's been like this for 3-4 months\)](https://preview.redd.it/72tdix5za95e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=2d0004a055e4d2dd4d1456d00bc49959f86f4b24)
+
+of course:) i know u say what premium in godaddy visit page look like
+
+https://preview.redd.it/dib8gcqnb95e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=99eb7ee338e58af82f21676effb181c3222ab9a5
+
+see they are telling to buy at high price it's okay this premium one i don't want but why do they claim anonymously the domain after i looked or searched on their website in one day even after 3 months the domain does not have a website only godaddy promotion this is for all domains i looked into",Invincible-Bug,1h85tfm,https://reddit.com/r/webdev/comments/1h85tfm/dont_buy_domains_from_godaddy_scam/,https://www.reddit.com/r/webdev/comments/1h85tfm/dont_buy_domains_from_godaddy_scam/,2024-12-06 16:51:46,834,0.91,834,0,472,0,0,False,False,True,False,False,,self,t3_1h85tfm
+webdev,Built an web worker for my portfolio ,"Hey all, Hope you all are doing well. To give you a little background, I use sanity as a cms, and my portfolio website directly fetches details from sanity. Now, I have changed the architecture a bit. I added a new middleware web worker that fetches details from sanity according to a customized crontab rule. Currently it fetched details from sanity every day at 12 AM. And these values are exposed through an API, created using express. Now my front end requests this server instead of the sanity server. Let me know what you guys think of this approach.
+
+Here is the GitHub link: [https://github.com/melsonic/sanityFetchWorker](https://github.com/melsonic/sanityFetchWorker)  
+I have also documented the developer pain points through this video: [https://www.youtube.com/watch?v=dJ82CtXCDac](https://www.youtube.com/watch?v=dJ82CtXCDac)
+
+Thank you",No_Sleep_2042,1h8rxyi,https://reddit.com/r/webdev/comments/1h8rxyi/built_an_web_worker_for_my_portfolio/,https://www.reddit.com/r/webdev/comments/1h8rxyi/built_an_web_worker_for_my_portfolio/,2024-12-07 12:57:49,0,0.33,0,0,2,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8rxyi
+webdev,I made a free website for interesting Insights on your Bluesky 🦋 profile,"I just launched https://bskyinsights.com. 
+It's a free website that gathers public data from your Bluesky profile to compute interesting metrics from it.
+
+Tech stack: React (vite, CSR), tailwind, shadcn, supabase
+
+Feedback is appreciated! Also let me know if there's an interesting metric you would like to see",TheGreaT1803,1h8gfok,https://reddit.com/r/webdev/comments/1h8gfok/i_made_a_free_website_for_interesting_insights_on/,https://www.reddit.com/gallery/1h8gfok,2024-12-07 00:44:47,8,0.83,8,0,0,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/CJVOj9iAs1S7OxMsGFP5I1drJCXp8qZBjnSDmyvmce0.jpg,t3_1h8gfok
+webdev,"Developers who have done work on fiverr, what's it like?","I've heard plenty of the horror stories and I know it's really competitive, but for those who have actually gotten work, I'd like a better idea of what the actual work is like.  What kind of work did you typically end up doing? How long did contracts typically last? I know experiences can vary wildly based on your location, so I'd like to hear the perspectives of devs in developed countries, as well as those in developing countries.",chocolate_shart,1h85xuf,https://reddit.com/r/webdev/comments/1h85xuf/developers_who_have_done_work_on_fiverr_whats_it/,https://www.reddit.com/r/webdev/comments/1h85xuf/developers_who_have_done_work_on_fiverr_whats_it/,2024-12-06 16:56:53,64,0.88,64,0,7,0,0,False,False,True,False,False,Question,self,t3_1h85xuf
+webdev,Is OPFS api slower on iOS Browser?,"Hey everyone, I’m working on a mobile PWA music player for iOS and Android. Having an issue on iOS when the app has over 1000 mp3s. It takes about 3 seconds for the song to start. This is on a iPhone 14 Pro Max. Same has been tested on a mid range Motorola android device with no delay. Is OPFS slower on iOS as it grows?",Born2Die007,1h8ki7t,https://reddit.com/r/webdev/comments/1h8ki7t/is_opfs_api_slower_on_ios_browser/,https://www.reddit.com/r/webdev/comments/1h8ki7t/is_opfs_api_slower_on_ios_browser/,2024-12-07 04:23:42,2,0.75,2,0,1,0,0,False,False,True,False,False,Question,self,t3_1h8ki7t
+webdev,Help me choose a stack for my freelance portfolio,"Hi folks,
+
+I'm a freelance dev currently revamping my old portfolio - which doesn't really showcase my skills - and I have trouble choosing a stack for it.
+
+Let me explain:  
+I'm a front-end developer with a specialty with CSS / integrations but also a WordPress developer, so I do lots of PHP too. I'm really not used to JS Framework, either front or back end, so I could use this occasion to learn one !  
+Since the goal of this website is to present both my front-end and my WordPress services, I'm not sure which way I can go.  
+Basically, I've narrowed it down to these four choices :
+
+* **A WordPress with a homemade ACF/Gunterberg theme :** Seems logical since I do lots of WP sites anyway.
+* **Just a from scratch HTML/CSS/Vanilla JS website :** Simple enough, I can add a tad of PHP for a contact form. Not even a back-office to add projects, I could to it manually, old-school style.
+* **Another CMS like ProcessWire :** An occasion for me to learn some more CMS and not to bother creating a back-office of some sort.
+* **Use a JS Framework like Vue.js or React :** I feel way behind modern webdev and I could use a bit of experience. But it might be overkill for a simple portfolio. I could use a boilerplate to have a backoffice/admin and such
+
+Soooo, if I promote among others services, Wordpress dev, it is better to go this way ? Or should I just learn something modern and new ?
+
+Many thanks for in advance for your advices !",GaretSD,1h867zd,https://reddit.com/r/webdev/comments/1h867zd/help_me_choose_a_stack_for_my_freelance_portfolio/,https://www.reddit.com/r/webdev/comments/1h867zd/help_me_choose_a_stack_for_my_freelance_portfolio/,2024-12-06 17:08:26,0,0.25,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1h867zd
+webdev,"PyBox: A Browser-Based Python IDE for Coding Anytime, Anywhere","**What My Project Does**  
+PyBox is a browser-based Python IDE designed for flexibility and accessibility. With it, you can:
+
+* Write, execute, and experiment with Python code directly in your browser—no installations required
+* Use an integrated Bash terminal for system-level scripting.
+* Manage files with drag-and-drop and a file manager
+* Install and run packages
+* Visualize data using libraries like Matplotlib within the browser
+
+**Target Audience**  
+PyBox can be useful for:
+
+* People experimenting with Python who want a simple, no-setup-required environment
+* Hobbyists or educators looking for a lightweight way to teach or experiment with Python code
+* Developers who occasionally need a quick and portable coding environment
+
+It’s not built for large-scale production projects but works well for learning, prototyping, and scripting
+
+**Comparison**  
+The browser-based nature of PyBox sets it apart from traditional IDEs in several ways:
+
+1. **Portability**: Since everything happens in the browser, PyBox works on any device—PCs, tablets, or even Chromebooks—without worrying about installations or configurations
+2. **Consistency**: Whether you switch from one computer to another or use a public device, the coding environment remains consistent
+3. **Lightweight and Accessible**: All you need is a browser. No downloading or installing tools, and no lengthy setup processes
+
+It basically combines the accessibility of Replit with the interactivity of Jupyter Notebooks, plus unique features like a fully integrated Bash terminal and drag-and-drop file management. It’s not trying to replace tools like Jupyter or Replit but acts as another option depending on the use case.
+
+**Why**  
+The vision behind PyBox is to:
+
+* Make Python coding accessible to everyone regardless of skill level or device
+* Eliminate the friction of local installations and configurations
+* Have a ready and lightweight, go-to, and accessible place to execute Python
+
+Would love your feedback or suggestions!  
+Check out the repo and try it out: [https://github.com/Oct4Pie/pybox](https://github.com/Oct4Pie/pybox)",Amazing_Nothing_753,1h8o212,https://reddit.com/r/webdev/comments/1h8o212/pybox_a_browserbased_python_ide_for_coding/,https://www.reddit.com/r/webdev/comments/1h8o212/pybox_a_browserbased_python_ide_for_coding/,2024-12-07 08:20:04,3,0.8,3,0,1,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8o212
+webdev,How can I verify my React app API is secured?,"I'm a beginner React developer working on a personal project to learn and eventually become a professional. My web app uses a backend server to handle the API communications (with my API key in an .env file) and the frontend sends user data to the backend. Because I'm new, I want to know how to verify that no one can find the API key in the code. I'm guessing I would open up my browser dev tools, go to a tab and look at a specific file of my built React app and try to find the API key? Anyone have specific steps I can follow please?
+
+EDIT: clarified how i'm using the frontend and backend",CutMonster,1h8791w,https://reddit.com/r/webdev/comments/1h8791w/how_can_i_verify_my_react_app_api_is_secured/,https://www.reddit.com/r/webdev/comments/1h8791w/how_can_i_verify_my_react_app_api_is_secured/,2024-12-06 17:52:32,2,0.67,2,0,9,0,0,False,False,True,False,False,,self,t3_1h8791w
+webdev,The Frustration of Front-End Work,"Lately, I've got into front-end again, and during my first project I’ve been feeling completely burned out because of all the planning mistakes that keep coming up. It’s not even about the coding itself; it’s those moments when you realize you forgot to plan for something important.
+
+Planning layouts is always like this—you can’t predict every possible scenario for every element. There’s just too much to think about, and no one’s brain can handle that much detail at once. Trying to manage all those little things in a scale from 320px to 2880px is exhausting and eats up way too much time and energy.
+
+What’s worse is that no matter how experienced I am (and I’ve been doing this for about 10 years), no matter what methods or tricks I use, I don’t feel like I’m improving at handling this chaos.
+
+And then there’s the issue with designers. If the designer doesn’t understand how development works, everything falls apart. The project turns into a mess of quick, hacky fixes just to make things work, and after spending hours fixing things, it’s hard to tolerate the work at all.
+
+Does anyone else feel like this? How do you deal with the burnout and frustration about the nature of this work? How do you deal with bad designs?",CyberneticVoodoo,1h8d7zi,https://reddit.com/r/webdev/comments/1h8d7zi/the_frustration_of_frontend_work/,https://www.reddit.com/r/webdev/comments/1h8d7zi/the_frustration_of_frontend_work/,2024-12-06 22:11:14,15,0.89,15,0,4,0,0,False,False,True,False,False,,self,t3_1h8d7zi
+webdev,[Showoff Saturday] Multiplayer Lite Brite Web App!  litebritepro.unserver23.net,[litebritepro.unserver23.net](http://litebritepro.unserver23.net),thefreymaster,1h8u3p6,https://reddit.com/r/webdev/comments/1h8u3p6/showoff_saturday_multiplayer_lite_brite_web_app/,https://www.reddit.com/r/webdev/comments/1h8u3p6/showoff_saturday_multiplayer_lite_brite_web_app/,2024-12-07 14:53:48,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1h8u3p6
+webdev,"What are these icons called, and where can i find more?","https://preview.redd.it/iuazayz8vf5e1.png?width=856&amp;format=png&amp;auto=webp&amp;s=8fe0aef5f8a9d9ec91b765a71686c112b5ae8097
+
+I found these icons in the Phpmyadmin files, and I wanted to know if theres more icons or icon packs like these. Thank you :)",apertia,1h8tz78,https://reddit.com/r/webdev/comments/1h8tz78/what_are_these_icons_called_and_where_can_i_find/,https://www.reddit.com/r/webdev/comments/1h8tz78/what_are_these_icons_called_and_where_can_i_find/,2024-12-07 14:47:32,3,0.67,3,0,9,0,0,False,False,True,False,False,,self,t3_1h8tz78
+webdev,"[Showoff Saturday] I built a random discovery app! Explore random websites, books, movies, images, and more","The idea came from those moments when you’re bored and want to find something new without knowing exactly what you’re looking for. You can find random websites, news articles, books/movies/tv shows, and random images using mangle.ca. 
+
+The site is built in php and uses API calls to various sites to retrieve information. I originally learned to code with php back in the web 2.0 days, but I’d like to use a more modern language, maybe switching to React with a Node.js or Go backend for better efficiency. The design is also stuck in web 2.0 but I don't know how to fix that ;)
+
+Would love to hear your feedback on:
+-Features: What could make it more fun or useful?
+-Tech stack: Is it worth switching to a more modern stack?
+-Design: How can I improve the dated appearance?
+",MangledAI,1h8t9td,https://reddit.com/r/webdev/comments/1h8t9td/showoff_saturday_i_built_a_random_discovery_app/,http://www.mangle.ca,2024-12-07 14:10:57,1,1.0,1,0,0,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h8t9td
+webdev,Node or Springboot,"Hi Guys,
+
+I'm thinking of adding a backend for my portfolio website (this is HTML and CSS only). My goal is to have a blog in my portfolio site.
+
+Others said that use the tech stack that you already know. Well I know Angular 17 and Spring Boot for creating side projects.
+
+Then others also said that it is overkill if I use a framework or library (React or Angular) for a simple website with backend (portfolio)
+
+And also, I want to become a Java developer so I searched that most of job postings for Java position need to have knowledge on (HTML, CSS, JS/TS) or (React or Angular).
+
+So what would you recommend?
+
+1. Create the portfolio with vanilla js and node then all the side projects will be React/Angular and Spring boot.
+2. Create all side projects with the tech stack Angular/React with Spring boot.
+
+
+My purpose is to demonstrate or show to interviewer that I am knowledegeable on fundamentals of HTML CSS and JS when I show to them my portfolio. 
+",Crafty-Waltz-2029,1h8t0zm,https://reddit.com/r/webdev/comments/1h8t0zm/node_or_springboot/,https://www.reddit.com/r/webdev/comments/1h8t0zm/node_or_springboot/,2024-12-07 13:57:58,2,1.0,2,0,5,0,0,False,False,True,False,False,,self,t3_1h8t0zm
+webdev,[Showoff Saturday] Buildpad - Build products that people actually want,,davidheikka,1h8sz0c,https://reddit.com/r/webdev/comments/1h8sz0c/showoff_saturday_buildpad_build_products_that/,https://buildpad.io,2024-12-07 13:54:53,1,1.0,1,0,1,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h8sz0c
+webdev,Advice for building an app with Cloud Sync?,"Hey everyone,
+
+I'm eyeing a project with Cloud Sync functionality as my next side project. I believe I have the skillset for most of the things the project needs except Cloud Sync, which I have never done before. I have done some googling and collected some articles covering different approaches but I would also like to ask what your recommendations would be for implementing this? 
+
+Here is the project outline:
+
+* Basically, the project will allow users to have an account and store a bunch of data the user enters in their client. This data is synced to all their devices, i e mobile apps and web clients where they have logged into their account.
+
+* You cannot edit data from multiple clients at the same time in real time, but rather work from one client at a time. 
+
+* Users don't have to be able to collaborate on editing the same data, rather each user has their own private data. A future addition might enable other users to see your data, but it's not required for now, and changes don't have to become visible to other users in real time.
+
+* A central server and database keeps track of the data, enables login/auth etc. Probably gonna write this in PHP (Laravel) and postgres unless you tell me this is a bad idea.
+* Data is viewed in a mobile app client and stored in a local SQLite database as well for scenarios when they don't have internet. If the user edits data offline, it will be synced the next time they come online. In the future, a web client will be added as well. Will write this in React / React Native because my strongest skillset is in Typescript / React.
+
+* If the user opens another client than the one they're currently on, the current one will disable data entry in favor of the new one (user will be asked if they want to switch) so that they can't try to change the same data from multiple clients at the same time. The only way I have pushed events from a server to clients (in this case, user has opened another client so disable this one) has been with WebSockets but I assume this could be done another way too?
+
+I would assume Cloud Sync can be implemented by adding time stamps to each row of data telling when that row was last edited, and then updating rows that have been edited after the last sync date on that device. Or would it better to pick up a ready made solution for this, and perhaps switch server technology accordingly? For example, if there is a good, readymade solution for Cloud Sync available via NPM I could write the server with express, feathers or what have you instead.
+
+Thanks!",legable,1h8sbo1,https://reddit.com/r/webdev/comments/1h8sbo1/advice_for_building_an_app_with_cloud_sync/,https://www.reddit.com/r/webdev/comments/1h8sbo1/advice_for_building_an_app_with_cloud_sync/,2024-12-07 13:19:13,2,1.0,2,0,0,0,0,False,False,True,False,False,Question,self,t3_1h8sbo1
+webdev,"Your first project, from a business owner's perspective","I recently decided to start my own online bakery. Because I have a background in programming, I also decided to make the website myself. After completing most of it, I realized that what I had learned would be valuable to people starting off. Often it is the case that new web developers aren't sure where to start. They aren't sure what kind of a project would look good to show potential employers. The following is a list of things I ended up needing for my site, each of which would be excellent things to code.
+
+Order submit form.  
+• Layout: I started out using a column design. It looked great on my PC, but once I switched to my phone, it was a garbled mess. First lesson: make sure your design works for everyone.  
+• Updating totals: Whenever the user changes the number of ordered items from 1 to 2, update the subtotal. Take into consideration shipping and tax as well. Know what event to trigger this on. There is onchange and oninput, for example. Users are often able to bypass these triggers when they copy and paste data in. Know how to deal with that.  
+• Restrict input: Should it only be numbers? Only letters? Only a certain length? Restrict it. Learn how to use regex also. It's scary at first, but it is powerful.  
+• Autocomplete, required, and read-only attributes: Sometimes autocomplete ends up making your site look tacky; it makes a dropdown field appear and that can be confusing for some users. Other times, it's handy to use. Know when to use it and when not to. Fields like subtotal, shipping, taxes, and total should be read-only.  
+• Pricing: Have a single, small file that contains pricing information if you have a small site, and source this into your order page. Price figures will be used in too many places to have you going through and updating the numbers everywhere manually - they are displayed next to the products and used in the equations to calculate pricing. Having them in a small file greatly simplifies things. Obviously if it's for a large site, use a database.  
+• The backend: Don't trust user input. There are various ways to screen it to avoid SQL injections depending on the language you are using. Everything you did on the front end you need to do again on the backend, and more, concerning checking that number inputs are numbers, that inputs aren't too long, that email addresses are in fact email addresses (there is a regex for this), etc.  
+• Database: Insert the order into a database to save it. You will learn about the different kinds of fields like int, tiny int, date, and datetime. You will learn what specific format is acceptable for something like datetime as well.  
+• Invoice: Once complete, you should show an invoice to the customer, detailing everything that was selected. Showing invoices is actually part of the Visa guidelines, which business owners will care about if they are accepting credit card transactions. Taking this a step further, you can also figure out how to automatically email the invoice to them without too much trouble.
+
+Payment  
+• Composer: Know how to use this, as many payment gateways will have you install their payment SDK this way. Know that there can be issues with trying to install it through shell access from an ftp client. It's more ideal through the terminal on your server.  
+• Payment Gateways: Look at the developer guides for various payment gateways like Stripe, [Authorize.net](http://Authorize.net), and Elavon. It's also a good idea to explore their customer service, as some of them are absolute garbage. Some of them have code for Ruby, PHP, C#, etc, but others will not have one or the other. Some will have SDK's that are so out of date that they expect developers to edit the code themselves. Read the comments on the github pages to see what people are saying about it.  
+• PCI Compliance: Understand the different levels of PCI Compliance, specifically SAQ A, SAQ A-EP, and SAQ D. Try to spot if the payment gateway specifically states what level of PCI Compliance you can achieve using one of their methods. If I had any advice to give here, it would be this: SAQ D is a significant step up and requires a lot of time, money, and effort to achieve. Stick to the easier ones. Lastly, do NOT have any CC data hit your server. The payment gateway should give you a nonce to use instead or take you to an entirely different payment page on their servers.  
+• CC guidelines: Look at the Visa, Mastercard, and American Express guidelines. They want you to display their logos on CC forms, have specific image files for them, want specific spacing around the logo's, and specific coloration, even for the background in some cases (where their logo would be not as visible). They are even specific about capitalizing the V in Visa, and not having it as all caps: VISA. Some of these guidelines don't absolutely have to be followed, but you may be required to follow some by the agreement you signed with your acquirer, for example. For you, the new student just getting your feet wet, you don't need to go so far as to read the terms and conditions to get all this, but you still can familiarize yourself with the guidelines and attempt to adhere to them. It also offers you the chance to elaborate on what you know about this subject in interviews.  
+• CC spacing: Another thing that comes from the guidelines is the spacing of the numbers in a CC for an input field. 6589756425691215 is difficult to read, but 6589 7564 2569 1215 is much easier to read. Coming up with the code to make this work is a bit tricky as well. With some solutions, using Replace() can alter the caret position, which can be jarring to the user. Copy/pasting can also bypass the event you are trying to wait for. AE cards can have 15 digits instead of 16. Some fancy CC forms also update a logo to the right of the CC number to reflect the kind of card the user is attempting to use. What first seems like a simple form can turn into a completed amount of code.  
+• CC expiration dates: They should be separate - one field for the month, one for the year; limited to numbers only; limited to two digits.  
+• Security field: I believe most are 3 digits long, but AE's is 4.  
+• Luhn algorithm: You can use this to verify if a CC number is typed correctly.  
+• Hide CC: The most ideal way to do this is to have each number of the CC that is typed be briefly visible, then switch it to an asterisk ( \* ). Simply putting the input field type as hidden will not accomplish this. I believe this is also a consideration the CC issuers want you to take, but it's not absolutely required. Always nice if you can achieve it though.
+
+Coupons  
+As a coder, you might not think this is that big of a deal, but on the business side of things, you realize this is huge when it comes to Direct Mail. Businesses will want to send out fliers through the mail. Postage is expensive, so you begin to learn about programs like EDDM through the United States Postal Service. This allows businesses to send out many fliers at significantly lower cost. You also learn about paper weights and dimensions for what is acceptable. All of this costs money. It's about $200 to hit 650 residents just for the usps side of things. The actual mailers cost around 20 cents each. As a business owner, you do not want to be blowing all this money to end up with zero new customers. This is where coupons come in. Fliers are the perfect place to put coupons, and so your website then needs to be able to process them as well. Coupons will lessen the chance that your fliers are immediately trashed.  
+• Just like with pricing, have a centralized location where coupon codes can be sourced from to validate them.  
+• You need to display to the user that the coupon code applied. The pricing equation needs to know what to do to account for the reduced price.  
+• Consider how many coupons a user can use in a single transaction.  
+• Consider if that coupon code should be used up or if it's fine to use it with infinite transactions so long as its not expired.  
+• Calculate it on the backend side as well. Have a spot in the database for it so the total price makes sense if you have to investigate a customer order for some reason.  
+• Have a way to remove the coupon discount if they decide they don't want to use it yet.
+
+Security  
+Fraudsters will buy millions of card numbers off the dark web, find a website with bad security, then will try to run as many of them through with a $1 charge to see which cards are still good. If you allow users to run millions of cards through, you can not only be subject to thousands of dollars worth of fines, but the credit card issuers will also then view you as a problem. Every incidence of fraud creates a problem for them, so if you are the reason, they can and will bar you from making any future online credit card transactions. Just like that, your business will have gone straight down the toilet.  
+• Log IP's: Every time someone tries to run a transaction through, even if it is unsuccessful, their IP address needs to be logged in a specific table.  
+• Suspension: Once an IP address has exceeded the maximum attempts allowed, that IP address should be suspended for 24 hours from making any transactions at all.  
+• Absolute limits: To prevent IP spoofing, there should also be a limit to how many transactions can be attempted overall for a given time period.  
+• Be careful of setting the field that counts transaction attempts as something like a tiny int. An attacker could continue to attempt transactions, running the number up to 256 where it may roll back over to 1, thereby making the system think that IP address has not exceeded the maximum transaction attempts any more. Then they of course would try to run more credit cards through. Ideally, the transaction counter for a specific IP address should stop counting once that IP address has been suspended to prevent this from happening.  
+• Log IPs first; do the transaction second. Imagine this: an attacker edits a field so that it submits a bad value, causing your page to crash; however, because you have written your code in such a way as to complete the transaction first, they are still able to run millions of cards through to check them, all while avoiding the IP logging part of your code. By logging the IP addresses first however, you lessen the possibility of this occurring.
+
+Customer Retention  
+• Allow users to sign up for your website. Have a profile, settings, and order history for their account.  
+• Store passwords in an appropriate way, using cryptographic algorithms and a salt.  
+• Have sign-ups for monthly promotional emails and also a way to easily unsubscribe from them.
+
+When you lay all of these things out, it really does amount to a tremendous amount of code. An employer would love to see this kind of work in an interview. I hope this helps.",e-2c9z3_x7t5i,1h8s5qz,https://reddit.com/r/webdev/comments/1h8s5qz/your_first_project_from_a_business_owners/,https://www.reddit.com/r/webdev/comments/1h8s5qz/your_first_project_from_a_business_owners/,2024-12-07 13:09:57,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1h8s5qz
+webdev,Recommended tech stack / approach for simple hobby project?,"Hello all, programming beginner here!
+
+I basically want to build a simple web app that runs **locally on my computer on** **windows** with minimal dependencies. I have created the app on linux with a cms before but i wanted to simplify it and make it more portable (ideally just copying the folder, not installing anything).
+
+It queries the wikipedia api and lets the user add things to a list and then edit, filter and sort them smoothly. I also want to be able to add items manually to the list with file uploads and have persistent data storage.
+
+I want to install as little as possible and make it easy to backup and transport but still maintain some good practices and learn about relevant technologies.
+
+**What i have so far is html, css and js files and a barebones node server** that can store the data on my system in a json file. I can already add items to my list, save it and load it initially.
+
+Do i need to use a js framework for ""stress free"" editing in the frontend or are there approaches to do dom manipulation ""better"" in vanilla nowadays?
+
+Or would i just be better off to just do this in python? (i have no experience with it though)
+
+Im thankful for any input and apologize for my ignorance beforehand lol",Vegetable-Market-389,1h8qth1,https://reddit.com/r/webdev/comments/1h8qth1/recommended_tech_stack_approach_for_simple_hobby/,https://www.reddit.com/r/webdev/comments/1h8qth1/recommended_tech_stack_approach_for_simple_hobby/,2024-12-07 11:47:15,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h8qth1
+webdev,[Showoff Saturday] I built a straightforward PDF generator.,"# PDFLabs - Simple HTML &amp; URL to PDF Converter
+
+Hey everyone! I wanted to share a simple tool I've been working on: [PDFLabs](https://pdflabs.net), a straightforward web service for converting web pages and HTML to PDF documents.
+
+## What it does
+- Converts URLs directly to PDF files
+- Handles HTML-to-PDF conversion
+- Provides an API for developers who want to integrate PDF conversion into their applications
+
+## Why I built it
+I noticed there was a need for a clean, simple conversion tool without all the bloat and ads you typically see on free PDF converters. 
+
+## Tech Stack
+[Could you share what technologies you used to build it? This would be interesting to the community]
+
+## Try it out
+You can check it out at [pdflabs.net](https://pdflabs.net) - I'd love to hear your feedback and suggestions for improvements!
+
+This is still a work in progress, and I'm actively developing new features. Let me know if there are any particular features you'd like to see added!",benthewooolf,1h8q86w,https://reddit.com/r/webdev/comments/1h8q86w/showoff_saturday_i_built_a_straightforward_pdf/,https://www.reddit.com/r/webdev/comments/1h8q86w/showoff_saturday_i_built_a_straightforward_pdf/,2024-12-07 11:04:34,2,1.0,2,0,0,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8q86w
+webdev,"[Showoff Saturday] Space themed portfolio, been struggling with getting visits ","I created a portfolio, fortunately I did get a client through the site form but I get less than 5 visits every day, I followed every SEO advice, even tracking keywords so wanted to share ",stvndocean,1h8py4t,https://reddit.com/r/webdev/comments/1h8py4t/showoff_saturday_space_themed_portfolio_been/,https://kigo.studio,2024-12-07 10:43:58,8,1.0,8,0,2,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h8py4t
+webdev,First bit of freelance,"Hey guys
+
+I currently work full time as an engineer at a SAAS company, but my dream has always been to work for myself and freelance websites - just wondering if I can get some feedback on my first paid bit of work? The client is happy with it so far, but their previous experience wasn’t great so I feel the bar is very low!
+
+You can see it in its current state at https://clare-nine.vercel.app/
+
+Thank you!",BombayBadBoi2,1h8pogk,https://reddit.com/r/webdev/comments/1h8pogk/first_bit_of_freelance/,https://www.reddit.com/r/webdev/comments/1h8pogk/first_bit_of_freelance/,2024-12-07 10:23:40,5,1.0,5,0,10,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8pogk
+webdev,Wants to try AWS or GCP,I wants to try out aws or gcp cloud services for a full stack application. Is it possible to use it for hosting my application on these cloud servers for free without credit card. I just want to use it for learning purpose and the app is a personal project. Please help!,programmerByChance,1h8mf5v,https://reddit.com/r/webdev/comments/1h8mf5v/wants_to_try_aws_or_gcp/,https://www.reddit.com/r/webdev/comments/1h8mf5v/wants_to_try_aws_or_gcp/,2024-12-07 06:23:24,2,1.0,2,0,1,0,0,False,False,True,False,False,Question,self,t3_1h8mf5v
+webdev,Free Search Term management tool for your PPC needs,"Hi everyone,
+
+I made a search term management tool that helps you go through the search terms for a campaign so you can find new entries for the negative keywords list.
+
+This is an internal tool that I've build for my own use, and I'm offering it for free, so if it feels unpolished, it's because it is. Should there be interest in it, I'll gladly keep improving it and adding new features.
+
+Although it works just fine without it, it is AI-aided, so if you follow the instructions and the tips on the page, it should give you decent suggestions for negative keywords, which should speed things up quite a bit. It's not perfect, but it made me realize I didn't have a clear delineation in intent for my campaigns. Your mileage may vary.
+
+[https://searchdump.com](https://searchdump.com)
+
+I have a few other internal tools that I consider publishing as part of SearchDump (also free and PPC related).
+
+Cheers!",svvnguy,1h8lnq0,https://reddit.com/r/webdev/comments/1h8lnq0/free_search_term_management_tool_for_your_ppc/,https://www.reddit.com/r/webdev/comments/1h8lnq0/free_search_term_management_tool_for_your_ppc/,2024-12-07 05:33:58,1,1.0,1,0,0,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8lnq0
+webdev,"[Showoff Saturday] This was a fun challenge. Only html, css and javascript. (Swedish text)",,wilwester,1h8ji1q,https://reddit.com/r/webdev/comments/1h8ji1q/showoff_saturday_this_was_a_fun_challenge_only/,https://williamwestergard.github.io/solaris/,2024-12-07 03:26:36,8,0.91,8,0,2,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h8ji1q
+webdev,Steam Web API inventory access,"Hey all, can someone direct me to the section of the steam web API or some external documentation that states how to read user inventories? I'm trying to work on a website where you can log in and it will read your inventory data for Counter Strike but I can't figure out how to read the inventory data as the old methods are deprecated and there doesn't seem to be an update for it in the API docs that I can find. Thanks",AdmiralAtomicDL,1h8e0e5,https://reddit.com/r/webdev/comments/1h8e0e5/steam_web_api_inventory_access/,https://www.reddit.com/r/webdev/comments/1h8e0e5/steam_web_api_inventory_access/,2024-12-06 22:47:40,2,1.0,2,0,0,0,0,False,False,True,False,False,Question,self,t3_1h8e0e5
+webdev,What are the best ways to stay on the same page with designers and clients?,I am looking for betters ways to collaborate with designers and clients. Are there any tools or workflows that help bridge the gap between UI designs and codebases or to allow clients to mock their content within a design system? As a mostly solo developer I am conscious of becoming a bottleneck and I want to make sure my development time has the highest impact by implementing something very close to what other parties are expecting. ,tle4f,1h89ufz,https://reddit.com/r/webdev/comments/1h89ufz/what_are_the_best_ways_to_stay_on_the_same_page/,https://www.reddit.com/r/webdev/comments/1h89ufz/what_are_the_best_ways_to_stay_on_the_same_page/,2024-12-06 19:42:22,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h89ufz
+webdev,Dealing with Safari ITP.. 'applying cross-site tracking restrictions' always occuring?,"I just dove into Safari ITP issues yesterday, because I noticed some cookies weren't being saved. I've now enabled ITP debug mode, and when I got to my site (whether its my production live site or my dev site running locally), I see ""applying cross-site tracking restrictions:"" followed by a ton of domains. These domains include domains from plugins i have in safari, to my own domains, even 'localhost'.
+
+As a test, I detect utm\_campaign as a query string, and save it using javascript to a local cookie. On any other browser, this occurs first time i hit my page. On safari, the cookie does NOT show up on first page load with the query string. It only appears after a refresh of the same url + query string.
+
+Why? I actually just tried clearing my browser history entirely and the 'cross site tracking restrictions' warning has no domains now, \*BUT\*, the cookie still doesn't show up.",maxiedaniels,1h88fjy,https://reddit.com/r/webdev/comments/1h88fjy/dealing_with_safari_itp_applying_crosssite/,https://www.reddit.com/r/webdev/comments/1h88fjy/dealing_with_safari_itp_applying_crosssite/,2024-12-06 18:41:45,2,1.0,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h88fjy
+webdev,Do you see any value in bot analytics and controls for your website?,"Hey everyone, 
+
+With bot traffic now more than half of internet traffic, do you see any value in better understanding it or applying controls to it? 
+
+Like for example, seeing how much of your traffic is bots, what kind of bots, what routes/pages they're visiting, when they arrive, etc? 
+
+Then setting rules to manage how your server / site / app responds to bots, for example, rate limiting, ignoring or erroring invalid/unwanted/undesirable reqs, censoring or modifying content on the fly, dynamically serving modified pages based on the bot, bot type, route/page, etc? 
+
+Is this a problem any of your sites/apps are having? 
+
+Is anyone interested in better analytics or controls for bots?",Tim-Sylvester,1h87fan,https://reddit.com/r/webdev/comments/1h87fan/do_you_see_any_value_in_bot_analytics_and/,https://www.reddit.com/r/webdev/comments/1h87fan/do_you_see_any_value_in_bot_analytics_and/,2024-12-06 17:59:35,2,1.0,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h87fan
+webdev,working with users location,"tldr: ive got an app that asks the user for location and stores in a localstorage but its giving me issues. I'm looking for a write-up or some tips on how to handle users location within a react/next app. 
+
+full story-
+
+i plan on using location throughout the app, so I was planning on using a context. one issue is whether I should ask for location on load, which means any page that gets loaded would ask for users location, even on pages its not needed. for this I could add a second function in my context like fetchLocation and on pages location is needed, if !location fetchLocation. so now I need to check for this every page location is needed?
+
+also, some people don't like to share location. In a way I don't want to bother with them, but I should try to handle this and at least handle it gracefully rather than have the page error. i was considering using an API call to try to get some location from an IP address, or maybe just let people pick a city they'd want to use
+
+the main page for this is an events page that uses location and also can move a map and get lat/lng so there's some logic to change the event location. somewhere in there I'm getting things mixed up and on initial load the maps trying to load without either and erroring. maybe if the first two were worked out I wouldn't fall into this. but I'm clearly doing something out of order. for example when testing in incognito, the page fails as the request to use location is still on the screen. ",mrdanmarks,1h86m3z,https://reddit.com/r/webdev/comments/1h86m3z/working_with_users_location/,https://www.reddit.com/r/webdev/comments/1h86m3z/working_with_users_location/,2024-12-06 17:25:14,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h86m3z
+webdev,Drafting a contract agreement between freelancer and client,"I’m new to freelancing and learning a lot of new things as I go. I’m currently working with a client who wants a custom software made for his business. The client would like to have a signed agreement that stipulates a few conditions, one of which is whether or not he has ownership of the source code should he decide to go with a different developer. My questions are:
+
+1. Is it the client’s right to get access to the source code, or is the physical website all he’s entitled to?
+
+2. Are there templates out there that I can reference for drafting a contract agreement between a client and a freelance developer. 
+
+3. What do developers typically stipulate in their contracts when working with various clients. 
+
+I’m new to all of these and would appreciate any guidance or feedback from anyone. ",Appropriate_Carry866,1h85e6e,https://reddit.com/r/webdev/comments/1h85e6e/drafting_a_contract_agreement_between_freelancer/,https://www.reddit.com/r/webdev/comments/1h85e6e/drafting_a_contract_agreement_between_freelancer/,2024-12-06 16:33:38,1,1.0,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1h85e6e
+webdev,Exploring a faster alternative to dom-accessibility-api: Your thoughts?,"Hi everyone !  
+
+
+After encountering performance issues with `jsdom` while trying to integrate the [dom-accessibility-api](https://github.com/eps1lon/dom-accessibility-api) library, I started working on a similar library that is potentially faster.
+
+[https://github.com/rMonell/accessibility-utils](https://github.com/rMonell/accessibility-utils)
+
+Having tested the library on some previously heavy tests that could even lead to timeouts, I noticed a performance improvement of about 50% when using my library when retrieving element accessible names. When combined with `happy-dom`, the improvement is even greater.  
+
+
+Would it be possible for some of you who have experienced similar performance issues to let me know if this library provides any improvements in that regard? Also, feel free to share any feedback on potential issues—it’s still a library in development :)  
+
+
+Thanks in advance!",ReplacementRecent895,1h83tdk,https://reddit.com/r/webdev/comments/1h83tdk/exploring_a_faster_alternative_to/,https://www.reddit.com/r/webdev/comments/1h83tdk/exploring_a_faster_alternative_to/,2024-12-06 15:25:38,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1h83tdk

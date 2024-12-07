@@ -1,0 +1,84 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,"[N] Sama, an AI sweatshop, pays workers in Kenya $2 an hour to filter and label porn, beastiality, suicide, child abuse, for hours on end!!",,BotherBubbly5096,1h8nhbh,https://reddit.com/r/MachineLearning/comments/1h8nhbh/n_sama_an_ai_sweatshop_pays_workers_in_kenya_2_an/,https://youtu.be/qZS50KXjAX0,2024-12-07 07:38:08,98,0.77,98,0,52,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/6xyP-Tq6WRzMpjniGg5h_3Z_bhf29lyA0LV_LQ19-1s.jpg,t3_1h8nhbh
+MachineLearning,[R] For a change of topic: some nonLLM focused work of mine: Bias-Free Sentiment Analysis through Semantic Blinding and Graph Neural Networks,"In my academic field (social sciences) I deal with the problem of bias in SA models. My previous work showed that deep learning SA systems inherit bias (e.g. nonrepresentative of the population political bias) from annotators: 
+
+https://arxiv.org/abs/2407.13891
+
+Now I devised a solution that used a technique I call semantic blinding to provide only the bare necessary information for the model to predict emotions in text, leaving no signal for the model to overfit and produce bias from:
+
+https://arxiv.org/abs/2411.12493
+
+Interested to hear your thoughts before I publish the SProp Gnn.
+
+Do you think it could be useful beyond the academia?
+
+
+
+",Hub_Pli,1h8meas,https://reddit.com/r/MachineLearning/comments/1h8meas/r_for_a_change_of_topic_some_nonllm_focused_work/,https://i.redd.it/vh80i11ndd5e1.jpeg,2024-12-07 06:21:47,18,0.85,18,0,7,0,0,False,False,False,False,False,Research,https://b.thumbs.redditmedia.com/sSwXTBHlRlELGHTRvPNAxo6LSQVRdxL5HTNiMSYTfTs.jpg,t3_1h8meas
+MachineLearning,[R] Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis,"New paper and code for the scale-wise transformer for fast text-to-image generation from our team at Yandex Research
+
+Switti outperforms existing T2I AR models and competes with state-of-the-art T2I diffusion models while being faster than distilled diffusion models.
+
+Code with checkpoints: [https://github.com/yandex-research/switti](https://github.com/yandex-research/switti)
+
+[Generation examples](https://preview.redd.it/7jy3jfxhi95e1.png?width=3094&amp;format=png&amp;auto=webp&amp;s=e80ed27c0b746ec782026581500582a5dd03555d)
+
+",_puhsu,1h85z2c,https://reddit.com/r/MachineLearning/comments/1h85z2c/r_switti_designing_scalewise_transformers_for/,https://www.reddit.com/r/MachineLearning/comments/1h85z2c/r_switti_designing_scalewise_transformers_for/,2024-12-06 16:58:21,11,0.83,11,0,0,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/Io25PLG5YopCFj4DOTGJ-MxIEcQdXRQbpwevn2M-Kts.jpg,t3_1h85z2c
+MachineLearning,[R] JAX vs TensorFlow-XLA ,"
+Few months ago, I migrated from TF 2.0 to Jax. I found that jax is significantly faster than Tf. I noticed in the official documentation that it relies on XLA default that uses JIT compilation which makes execution faster. I also noticed that TF graphs also have option to enable JIT compilation with XLA. But still jax dominates TF with XLA. I just want to know why.",Odd-Detective289,1h8j2e5,https://reddit.com/r/MachineLearning/comments/1h8j2e5/r_jax_vs_tensorflowxla/,https://www.reddit.com/r/MachineLearning/comments/1h8j2e5/r_jax_vs_tensorflowxla/,2024-12-07 03:02:19,11,0.92,11,0,6,0,0,False,False,True,False,False,Research,self,t3_1h8j2e5
+MachineLearning,[R] Agentic Retrieval Augmented Generation with Memory,"Imagine a customer support chatbot for an e-commerce platform that retrieves relevant product details from its knowledge base and performs web searches for additional information. Furthermore, it remembers past conversations to deliver a seamless and personalized experience for returning users.   
+  
+Here is how it works:  
+  
+\- Store your own data in the knowledge base—in our case, a Website URL.  
+\- Convert the data into embeddings and save it in the Qdrant Vector Database.  
+\- Use phidata Agentic Workflow to combine Tools, LLM, Memory, and the Knowledge Base.
+
+Code Implementation Video: [https://www.youtube.com/watch?v=CDC3GOuJyZ0](https://www.youtube.com/watch?v=CDC3GOuJyZ0)",External_Ad_11,1h8945d,https://reddit.com/r/MachineLearning/comments/1h8945d/r_agentic_retrieval_augmented_generation_with/,https://www.reddit.com/r/MachineLearning/comments/1h8945d/r_agentic_retrieval_augmented_generation_with/,2024-12-06 19:10:50,6,0.72,6,0,1,0,0,False,False,True,False,False,Research,self,t3_1h8945d
+MachineLearning,[D] AAAI 2025 Phase 2 Decision,"When would the phase 2 decision come out?  
+I know the date is December 9th, but would there be chances for the result to come out earlier than the announced date?  
+or did it open the result at exact time in previous years? (i.e., 2024, 2023, 2022 ....)
+
+Kinda make me sick to keep waiting.",No-Style-7975,1h8kkjv,https://reddit.com/r/MachineLearning/comments/1h8kkjv/d_aaai_2025_phase_2_decision/,https://www.reddit.com/r/MachineLearning/comments/1h8kkjv/d_aaai_2025_phase_2_decision/,2024-12-07 04:27:30,4,0.84,4,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h8kkjv
+MachineLearning,[D] selective transfer learning ,"Hello everyone,
+
+I am looking for methods that can automatically categorize and select layers from  for transfer learning. If you know any such methods or research please let me know or share. 
+
+Thanks ",reshail_raza,1h8cawc,https://reddit.com/r/MachineLearning/comments/1h8cawc/d_selective_transfer_learning/,https://www.reddit.com/r/MachineLearning/comments/1h8cawc/d_selective_transfer_learning/,2024-12-06 21:30:44,2,1.0,2,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1h8cawc
+MachineLearning,How to solve the STT Cutoff Problem [D],"Hello folks, 
+
+I've been working on an agentic solution where you can have an autonomous agent taking live calls. We're using a pipeline of Speech to Text, LLM for generating responses and then Text to Speech. In this pipeline, Speech to text is causing some issues because it's difficult to determine when exactly a sentence is over since the user can take pauses. Moreover, when multiple inputs go into LLM, multiple responses are generated and they queue up for Text to speech. How would you solve this problem? How would you also handle cases where the user interrupts the agent?",Leo2000Immortal,1h8r32q,https://reddit.com/r/MachineLearning/comments/1h8r32q/how_to_solve_the_stt_cutoff_problem_d/,https://www.reddit.com/r/MachineLearning/comments/1h8r32q/how_to_solve_the_stt_cutoff_problem_d/,2024-12-07 12:04:55,0,0.5,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h8r32q
+MachineLearning,[P] I built a website to compare every AI model as a 17 y/o in high school: Countless.dev (live on Product Hunt!),"I built a website to compare EVERY AI Model, from LLMs to image models etc.
+
+Basically, it’s a free tool that lets you compare different AI models—LLMs, vision models, and so on—in one spot.
+
+Why did I make it? Because sorting through all the token limits, pricing, and features across multiple docs and websites can drive you nuts. I was tired of jumping between a million tabs just to figure out which model fit my needs.
+
+With [Countless.dev](http://Countless.dev), you can:
+
+* Compare models based on price, token limits, and special features (like vision support).
+* Use a built-in cost calculator to estimate what you’d spend with different models.
+* Do side-by-side comparisons to narrow down your choices fast.
+
+I originally built this while testing out AI code editors. After I shared an early version on Twitter and got some positive feedback, I decided to open it up for everyone. It’s free, open-source, and (I hope) pretty straightforward to use.
+
+If this sounds useful, feel free to give it a try. I’m all ears for feedback—good, bad, or otherwise. If something’s off, I’d love to hear it so I can make it better. Cheers!
+
+Live on Product Hunt rn (if you like the website please help me get #1!): [https://www.producthunt.com/posts/countless-dev](https://www.producthunt.com/posts/countless-dev)",ahmett9,1h8pnbh,https://reddit.com/r/MachineLearning/comments/1h8pnbh/p_i_built_a_website_to_compare_every_ai_model_as/,https://www.reddit.com/r/MachineLearning/comments/1h8pnbh/p_i_built_a_website_to_compare_every_ai_model_as/,2024-12-07 10:21:15,0,0.4,0,0,7,0,0,False,False,True,False,False,Project,self,t3_1h8pnbh
+MachineLearning,[R] Zero shot Meme-interpretability of LLMs,"Head to head of meme-interpretability with the same image and text prompt!
+
+Anecdotal but interesting responses. 
+
+Also clear winner!
+
+",No_Cartoonist8629,1h8nc78,https://reddit.com/r/MachineLearning/comments/1h8nc78/r_zero_shot_memeinterpretability_of_llms/,https://www.reddit.com/r/MachineLearning/comments/1h8nc78/r_zero_shot_memeinterpretability_of_llms/,2024-12-07 07:27:43,0,0.31,0,0,0,0,0,False,False,True,False,False,Research,self,t3_1h8nc78
+MachineLearning,[D] How to actually prevent overfitting in practice in ScikitLearn ?,"We all saw in class the trade off between bias and variance, that we don't want our train loss to keep going down and our test loss go up. 
+
+But in practice I feel like doing hyperparameter tuning for classic ML models with GridSearchCV / BayesSearchCV is not enough. Even though I do cross validation, the search.best\_model obtained at the end is almost always overfitting. 
+
+How can you actually perform a search that will give you a robust generalized model with higher chances ? ",desslyie,1h8paqz,https://reddit.com/r/MachineLearning/comments/1h8paqz/d_how_to_actually_prevent_overfitting_in_practice/,https://www.reddit.com/r/MachineLearning/comments/1h8paqz/d_how_to_actually_prevent_overfitting_in_practice/,2024-12-07 09:55:06,0,0.18,0,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1h8paqz
+MachineLearning,[D] Multimodal AI,"Multimodal AI is changing the game by combining text, images, and even video into a single, cohesive system. It’s being talked about as a major leap in AI capabilities.
+
+What industries do you think will benefit the most from this tech? And are there any challenges you see in integrating these models into everyday use?
+
+Would love to hear everyone's thoughts!",Frosty_Programmer672,1h8enzy,https://reddit.com/r/MachineLearning/comments/1h8enzy/d_multimodal_ai/,https://www.reddit.com/r/MachineLearning/comments/1h8enzy/d_multimodal_ai/,2024-12-06 23:17:54,0,0.09,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h8enzy

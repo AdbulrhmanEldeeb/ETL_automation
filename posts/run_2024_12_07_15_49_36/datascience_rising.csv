@@ -1,0 +1,26 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Classification threshold cost optimisation,"Say you’ve selected the best classifier for a particular problem, using threshold invariant metrics such as AUROC, Brier score, or log loss. 
+
+It’s now time to choose the classification threshold. This will clearly depend on the use case and the cost/ benefits associated with true positives, false positives, etc. 
+
+Often I see people advising to choose a threshold by looking at metrics such precision and recall. 
+
+What I don’t see very often is people explicitly defining relative (or absolute, if possible) costs/ benefits of each cell in the confusion matrix (or more precisely the action that will be taken as a result). For example a true positive is worth $1000, a false positive -$500 and the other cells $0. 
+
+You then optimise the threshold based on maximum benefit using a cost-threshold curve. The precision and recall can also be reported, but they are secondary to the benefit optimisation and not used directly in the choice. I find this much more intuitive and is my go-to.
+
+Does anyone else regularly use this approach? In what situations might this approach not make sense?",hazzaphill,1h8dlz9,https://reddit.com/r/datascience/comments/1h8dlz9/classification_threshold_cost_optimisation/,https://www.reddit.com/r/datascience/comments/1h8dlz9/classification_threshold_cost_optimisation/,2024-12-06 22:29:01,25,0.89,25,0,21,0,0,False,False,True,False,False,Discussion,self,t3_1h8dlz9
+datascience,Meta released Llama3.3,,mehul_gupta1997,1h87a9m,https://reddit.com/r/datascience/comments/1h87a9m/meta_released_llama33/,/r/ArtificialInteligence/comments/1h876s3/meta_released_llama33/,2024-12-06 17:53:51,22,0.86,22,0,0,0,0,False,False,False,False,False,AI,default,t3_1h87a9m
+datascience,Llama3.3 free API,,mehul_gupta1997,1h8j6tq,https://reddit.com/r/datascience/comments/1h8j6tq/llama33_free_api/,/r/OpenAI/comments/1h8j4wa/llama33_free_api/,2024-12-07 03:09:01,4,0.61,4,0,0,0,0,False,False,False,False,False,AI,default,t3_1h8j6tq
+datascience,Deploying Niche R Bayesian Stats Packages into Production Software,"Hoping to see if I can find any recommendations or suggestions into deploying R alongside other code (probably JavaScript) for commercial software. 
+
+Hard to give away specifics as it is an extremely niche industry and I will dox myself immediately, but we need to use a Bayesian package that has primary been developed in R.   
+  
+Issue is, from my perspective, the package is poorly developed. No unit tests. poor/non-existent documentation, plus practically impossible to understand unless you have a PhD in Statistics along with a deep understanding of the niche industry I am in. Also, the values provided have to be ""correct""... lawyers await us if not...  
+  
+While I am okay with statistics / maths, I am not at the level of the people that created this package, nor do I know anyone that would be in my immediate circle. The tested JAGS and untested STAN models are freely provided along with their papers.
+
+It is either I refactor the R package myself to allow for easier documentation / unit testing / maintainability, or I recreate it in Python (I am more confident with Python), or just utilise the package as is and pray to Thomas Bays for (probable) luck.
+
+Any feedback would be appreciated. ",Sebyon,1h81878,https://reddit.com/r/datascience/comments/1h81878/deploying_niche_r_bayesian_stats_packages_into/,https://www.reddit.com/r/datascience/comments/1h81878/deploying_niche_r_bayesian_stats_packages_into/,2024-12-06 13:22:19,34,0.89,34,0,17,0,0,False,False,True,False,False,Projects,self,t3_1h81878
+datascience,"The ""method chaining"" is the best way to write Pandas code that is clear to design, read, maintain and debug: here is a CheatSheet from my practical experience after more than one year of using it for all my projects",,danieleoooo,1h7j7ry,https://reddit.com/r/datascience/comments/1h7j7ry/the_method_chaining_is_the_best_way_to_write/,https://github.com/danieleongari/pandas-chaining-ninja,2024-12-05 20:40:04,235,0.94,235,0,44,0,0,False,False,False,False,False,Education,https://b.thumbs.redditmedia.com/kDOeXHINUoW4_aTiFwuqHowXkUEWUfFmZ9W_QSd-iIo.jpg,t3_1h7j7ry
