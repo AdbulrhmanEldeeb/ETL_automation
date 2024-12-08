@@ -1,0 +1,106 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,How can I improve my PHP/Web development workflow as a solo hobbyist?,"I'm developing a PHP/MySQL application, for frontend assets I'm using NPM (node-sass) to compile/minimise SCSS and Javascript.
+
+**My current setup:**
+
+OS: Windows 10
+
+Dev environment (Laragon):
+
+PHP 8.2.5
+
+MySQL 8.0.30
+
+Editor: VS Code
+
+Command line tools:
+
+Git
+
+Composer
+
+NPM
+
+FTP: WinSCP
+
+Host: Cloudways
+
+**Development workflow:**
+
+I've created a sub-folder in my Laragon www folder which I've initialised with Git. I've also initialised some assets folders with SCSS and javascript to compile with node-sass so I run the command npm run css:watch which compiles the css on every save to my SCSS.
+
+To get in the flow I have to -
+
+1 - Start up my PC (I turn it off every night)
+
+2 - Open windows terminal from my toolbar
+
+3 - CD into my main folder which would be in laragon, e.g. C:\\laragon\\www\\test-app
+
+4 - Type ""code ."" to open the project in vs code
+
+5 - Make changes to my code then open WinSCP and then manually FTP the file to my staging site to test.
+
+**Issues:**
+
+The biggest slowdown is DB schema changes as I add features. I have to make the exact same DB changes to my staging and then live applications. Transferring files across is kind of easy but it would be much easier to be developing on my local machine with exactly the same environment as my live host and then be able to just push all changes to my live host without affecting the live data.
+
+How can I improve my workflow? I'd love to have it so that as soon as I save a file it reloads my browser to reflect the changes instantly and then quickly deploy any changes to my database or files to my staging site and then to my live site after testing.",AberrantNarwal,1h9l6sm,https://reddit.com/r/webdev/comments/1h9l6sm/how_can_i_improve_my_phpweb_development_workflow/,https://www.reddit.com/r/webdev/comments/1h9l6sm/how_can_i_improve_my_phpweb_development_workflow/,2024-12-08 15:27:46,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h9l6sm
+webdev,Do you know where i can find a solid Full Stack Pre-built Chat App? (next.js &amp; shadcn),"Hey everyone!
+I’m working on a chat app built with Next.js/Supabase/Shadcn (Tailwind + Radix), and currently, the UI is built from scratch, using Supabase (with their websocket). 
+It works, but I’m looking for something more solid in terms of both backend and frontend (logic and UI)
+
+—FRONTEND—
+I’m searching for a library or package that:
+- Provides a ready-to-use and robust UI for a chat app (paid options are totally fine).
+- Handles common behaviors efficiently, like:
+1. Fetching older messages while keeping the scroll position intact
+2. Auto-scroll to the bottom when a new message arrives
+3. Maybe even built-in gestures or animations to improve the UX.
+- It's highly customizable, similar to shadcn: I want to copy/paste components into my project and have the freedom to tweak them directly, rather than being tied to a rigid external library.
+
+—BACKEND—
+If it's already related to the package/library it would be great, otherwise if you have any valid alternative to the Supabase architecture with their websocket please let me know
+
+Do you have any recommendations or experience with something like this?  Thanks in advance!",Ale9xs,1h9jwe5,https://reddit.com/r/webdev/comments/1h9jwe5/do_you_know_where_i_can_find_a_solid_full_stack/,https://www.reddit.com/r/webdev/comments/1h9jwe5/do_you_know_where_i_can_find_a_solid_full_stack/,2024-12-08 14:24:32,0,0.5,0,0,0,0,0,False,False,True,False,False,Question,self,t3_1h9jwe5
+webdev,I constantly dig a hole for myself by trying to improve code ,"Whenever I'm working on a task, a lot of times, I see room for improvement in the surrounding code and I struggle with just leaving it alone. This usually ends up with me taking longer to complete tasks and having bigger commits to review which doesn't always look good. Does anyone else find themselves in similar situations? If so, how have you dealt with it and what has come of it, if anything? I haven't received any complaints on my performance so far, but it's still something I think about.",hentionalt,1h9khtt,https://reddit.com/r/webdev/comments/1h9khtt/i_constantly_dig_a_hole_for_myself_by_trying_to/,https://www.reddit.com/r/webdev/comments/1h9khtt/i_constantly_dig_a_hole_for_myself_by_trying_to/,2024-12-08 14:54:35,6,0.88,6,0,14,0,0,False,False,True,False,False,,self,t3_1h9khtt
+webdev,My first useful project as a web dev 🎉,,Nols05,1h8ttef,https://reddit.com/r/webdev/comments/1h8ttef/my_first_useful_project_as_a_web_dev/,https://i.redd.it/al1vk7kduf5e1.png,2024-12-07 14:39:18,1130,0.86,1130,0,183,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/uEmlUe8Pu4I85Pp5hAJnQDVpYSu15u_KZTAqw5p0KaA.jpg,t3_1h8ttef
+webdev,how to actually become good?,"Let's say I've been doing projects for a long time, but how do I become better? Should I pass my code on to some discord or what? Should I analyse it? If so, how? I don't know how to move forward, I seem to know the basics of javascript,react,html,css but my projects have been really bad for half a year.
+
+I would like to become better but I cannot :( ",Ok_Goat_4312,1h9isu3,https://reddit.com/r/webdev/comments/1h9isu3/how_to_actually_become_good/,https://www.reddit.com/r/webdev/comments/1h9isu3/how_to_actually_become_good/,2024-12-08 13:25:38,9,0.85,9,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1h9isu3
+webdev,What techniques did Google use to create the interactive elements in their 2024 US election graphics?,,djmalibiran,1h8upfj,https://reddit.com/r/webdev/comments/1h8upfj/what_techniques_did_google_use_to_create_the/,https://i.redd.it/olb99wxy1g5e1.png,2024-12-07 15:22:54,408,0.9,408,0,46,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/Y2gcf5StQ9wxc8d9B-hKIrQgV3Lrsj_r8IdnoR1PG9M.jpg,t3_1h8upfj
+webdev,I feel like I am losing my mind on this project,"This is a rant, but if anyone has any advice... please.  
+  
+I feel like I am losing my damn mind on this project. Im working off of some older, bloated code that has had so much scope creep it's turned into this monstrous ball of mud. I worked on a lot of the project, but the devs before me left some really weird design patterns and its garbage to work with. Not to mention, I'm integrating with some really old and crappy .net APIs that pretend to be REST but arent.
+
+Every time I open my code editor to work on this project I feel like I suddenly get so sleepy and feel 0 motivation. If I try force myself to work on it and sift through the mess of code and functions I start to feel like Im going insane and want to have a full blown panic attack at what a mess everything is.
+
+I feel like Im trying to untangle 500m of tangled earphone cords. ",ThrowAway22030202,1h9hzma,https://reddit.com/r/webdev/comments/1h9hzma/i_feel_like_i_am_losing_my_mind_on_this_project/,https://www.reddit.com/r/webdev/comments/1h9hzma/i_feel_like_i_am_losing_my_mind_on_this_project/,2024-12-08 12:38:32,7,0.89,7,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1h9hzma
+webdev,Made a free price comparisons website for SaaS dev tools ,,skorpioo,1h8vs4m,https://reddit.com/r/webdev/comments/1h8vs4m/made_a_free_price_comparisons_website_for_saas/,https://i.redd.it/6xto7ma3bg5e1.png,2024-12-07 16:13:08,202,0.97,202,0,26,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/gbyBrm6E1h4J1joNIY6UKkDu7AqJIU7dIerDgM3YiXY.jpg,t3_1h8vs4m
+webdev,Bluesky's live tweets visualized in a Matrix-style rain animation,,syxa,1h8y019,https://reddit.com/r/webdev/comments/1h8y019/blueskys_live_tweets_visualized_in_a_matrixstyle/,https://simone.computer/bluerain/,2024-12-07 17:54:11,121,0.88,121,0,10,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/6Jagim5BIhd3RovXBEL0UlhozWKZrDlyL1E8mBL0tpo.jpg,t3_1h8y019
+webdev,Best resources to understand authentication concepts.,"I have a very fragmented understanding of authentication that I've picked up from YouTube videos and blog posts.  
+Need suggestion for resources (books/courses) that give an in-depth and holistic understanding of authentication concepts.",void5253,1h9cq44,https://reddit.com/r/webdev/comments/1h9cq44/best_resources_to_understand_authentication/,https://www.reddit.com/r/webdev/comments/1h9cq44/best_resources_to_understand_authentication/,2024-12-08 06:26:13,12,0.93,12,0,10,0,0,False,False,True,False,False,,self,t3_1h9cq44
+webdev,I made an adaptive typing trainer that learns your weaknesses and generates exercises just for you,,maxverse,1h8vq3m,https://reddit.com/r/webdev/comments/1h8vq3m/i_made_an_adaptive_typing_trainer_that_learns/,https://i.redd.it/0zho0byiag5e1.gif,2024-12-07 16:10:37,129,0.97,129,0,30,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/236WmYX1sM2uB28gtZcSAzWoVh87Tx0Z0EHGgmwllXc.jpg,t3_1h8vq3m
+webdev,What is the best open source alternative to Tailwind UI?,"I'm \*\*really\*\* bad at UI/design, but if I have examples, I can pretty much create anything. I'm starting a new project and I need a good UI to use. There is anything open source as good as Tailwind UI? I'm not using javascript frameworks. I just need the HTML and CSS.",fenugurod,1h9lnwe,https://reddit.com/r/webdev/comments/1h9lnwe/what_is_the_best_open_source_alternative_to/,https://www.reddit.com/r/webdev/comments/1h9lnwe/what_is_the_best_open_source_alternative_to/,2024-12-08 15:50:08,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1h9lnwe
+webdev,how do you debug tailwind in dev tools?,"im new to tailwind, and when we'd use CSS in our project I could edit, enable/disable CSS rules in dev-tools, immediately see their effect and then decide how to code in the ide.  
+but with tailwind if an element has a .flex-1, and I disable it in the inspector, all of the elements with that class are affected, even though I've done so just in the element...  
+so how do you handle this?",xemns4,1h9juqu,https://reddit.com/r/webdev/comments/1h9juqu/how_do_you_debug_tailwind_in_dev_tools/,https://www.reddit.com/r/webdev/comments/1h9juqu/how_do_you_debug_tailwind_in_dev_tools/,2024-12-08 14:22:05,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1h9juqu
+webdev,Is .de as a TLD going to cause me issues instead of a .com as a TLD for a portfolio website.,"Long story short: i am an international student studying in Germany and i have made myself a portfolio website. I would love to use firstnameLastname.com but it is already taken.
+
+The question is should i use a .de instead which is readily available or something else?
+
+I predominantly speak english only as i am still learning german, hence my portfolio is also in english. 
+
+My field of engineering is Robotics if that helps with anything ",Jackhammer_YOUTUBE,1h9fsjh,https://reddit.com/r/webdev/comments/1h9fsjh/is_de_as_a_tld_going_to_cause_me_issues_instead/,https://www.reddit.com/r/webdev/comments/1h9fsjh/is_de_as_a_tld_going_to_cause_me_issues_instead/,2024-12-08 10:07:52,1,0.56,1,0,12,0,0,False,False,True,False,False,Question,self,t3_1h9fsjh
+webdev,I am null,https://preview.redd.it/aqisaphbfg5e1.png?width=966&amp;format=png&amp;auto=webp&amp;s=9424f6a5acaf0b82e70a7cd50ad74d06de7597db,Adventurous_Ad_3895,1h8wamq,https://reddit.com/r/webdev/comments/1h8wamq/i_am_null/,https://www.reddit.com/r/webdev/comments/1h8wamq/i_am_null/,2024-12-07 16:36:43,47,0.81,47,0,35,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/jhz36JmRnXSUszoSqIpD3NDNJmLW6CQUgF_VYVbeCxg.jpg,t3_1h8wamq
+webdev,Frontend + Graphic design ,"So i’m currently studying towards being a front end developer, but i also really enjoy graphic design. I’m thinking of having frontend development as a 9-5 career but also being a freelance graphic designer.
+
+Does anyone here by any chance also enjoy both areas? And if so, are you in someway working with both or did you just stick with one?
+For those working with both, how’s that going?",777Twix,1h9i68q,https://reddit.com/r/webdev/comments/1h9i68q/frontend_graphic_design/,https://www.reddit.com/r/webdev/comments/1h9i68q/frontend_graphic_design/,2024-12-08 12:49:39,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h9i68q
+webdev,"I have developed a starter template for a table that includes features like sorting, searching, filtering, and pagination.",,Major_Dot_7030,1h95kuv,https://reddit.com/r/webdev/comments/1h95kuv/i_have_developed_a_starter_template_for_a_table/,https://github.com/jpeevi/Simple-Table-with-Sort-Search-Pagination,2024-12-07 23:45:39,12,0.8,12,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/rQ8WluGe-UTvAdN4l84P4p4YcvXL_MtuxIfH2lGe6xw.jpg,t3_1h95kuv
+webdev,Frontend + Graphic design ,"So i’m currently studying towards being a front end developer, but i also really enjoy graphic design.
+I’m thinking of having frontend development as a 9-5 career but also being a freelance graphic designer.
+
+Does anyone here by any chance also enjoy both areas? And if so, are you in someway working with both or did you just stick with one?  
+For those working with both, how’s that going? 
+",777Twix,1h9hyan,https://reddit.com/r/webdev/comments/1h9hyan/frontend_graphic_design/,https://www.reddit.com/r/webdev/comments/1h9hyan/frontend_graphic_design/,2024-12-08 12:36:12,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h9hyan

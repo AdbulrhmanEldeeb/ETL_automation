@@ -1,0 +1,122 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[P] 🥂 FineWeb2 dataset: A sparkling update with 1000s of languages,,PhilipsNostrum,1h9ep0e,https://reddit.com/r/MachineLearning/comments/1h9ep0e/p_fineweb2_dataset_a_sparkling_update_with_1000s/,https://huggingface.co/datasets/HuggingFaceFW/fineweb-2,2024-12-08 08:47:55,35,0.95,35,0,2,0,0,False,False,False,False,False,Project,https://b.thumbs.redditmedia.com/wJFr_ML_3llzyRU5cjBT-wmv2Y189rHFs1r363OriqY.jpg,t3_1h9ep0e
+MachineLearning,"[P] I cannot find this open-source transformer on GitHub, released recently, for the life of me.
+","There was a paper released along with a GitHub repository of an extremely well-made transformer designed for testing out new components. But I can't find it! It's not one of the ones that has existed like HuggingFace ones. Any clue?
+
+",Breck_Emert,1h8zlz3,https://reddit.com/r/MachineLearning/comments/1h8zlz3/p_i_cannot_find_this_opensource_transformer_on/,https://www.reddit.com/r/MachineLearning/comments/1h8zlz3/p_i_cannot_find_this_opensource_transformer_on/,2024-12-07 19:05:21,10,0.63,10,0,9,0,0,False,False,True,False,False,Project,self,t3_1h8zlz3
+MachineLearning,[D] A collection of various LLM Sampling methods,"In the last couple months, I read about various algorithms to perform LLM sampling. I decided to build my own inference stack and implement those algorithms. 
+
+Here is the Github repo - [https://github.com/shreyansh26/LLM-Sampling](https://github.com/shreyansh26/LLM-Sampling)
+
+The repo includes implementations for Top-k, Top-p (nucleus), Min-p, Typical, Epsilon, Eta, Beam search, Chain-of-Thought (CoT) decoding, Constrained JSON decoding and Speculative decoding.
+
+Personally, I found this to be a good learning experience. Sharing here in case it helps someone!",shreyansh26,1h9fe8q,https://reddit.com/r/MachineLearning/comments/1h9fe8q/d_a_collection_of_various_llm_sampling_methods/,https://www.reddit.com/r/MachineLearning/comments/1h9fe8q/d_a_collection_of_various_llm_sampling_methods/,2024-12-08 09:39:17,7,0.82,7,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h9fe8q
+MachineLearning,"How do you manage resources or optimize cost when training models in cloud services like aws sagemaker, or gcp vertex ai? [D]","Hey all, I've been using sagemaker quite a bit lately for training ML models and doing deployments. I know enough about aws and instance types to create training nodes that have enough capacity to train my models, but many times I am underutilizing RAM, GPU memory, or CPUs, so it feels like this leads to a lot of waste (and extra cost).  
+How do you guys figure out what type of instance or resources would best fit your needs without being too wasteful?  
+Is there any way to adjust resources automatically, or any library that could handle that for you?",InformationEmpty1440,1h93rlt,https://reddit.com/r/MachineLearning/comments/1h93rlt/how_do_you_manage_resources_or_optimize_cost_when/,https://www.reddit.com/r/MachineLearning/comments/1h93rlt/how_do_you_manage_resources_or_optimize_cost_when/,2024-12-07 22:17:25,5,0.86,5,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h93rlt
+MachineLearning,"[D] Last Week in Medical AI: Top LLM Research Papers/Models (December 2 - December 7, 2024)","[\[D\] Last Week in Medical AI: Top LLM Research Papers\/Models \(December 2 - December 7, 2024\)](https://preview.redd.it/exeie0jxdm5e1.jpg?width=1386&amp;format=pjpg&amp;auto=webp&amp;s=d1fad8f6511ebc4dd9e8c73cc98ca9f6d45f750d)
+
+  
+**Medical LLM &amp; Models**
+
+* Block MedCare: Blockchain AI &amp; IoT
+   * This research proposes a novel Ethereum-based system for secure and efficient Electronic Health Record (EHR) management, empowering patients with data control.
+* LLMs4Life: Biomedical Ontology Learning
+   * This paper extends the NeOn-GPT pipeline for ontology learning using LLMs with advanced prompt engineering and ontology reuse to improve generated ontologies' domain-specific reasoning and structural depth in complex domains like life sciences.
+* LLaMA II for Multimodal Diagnosis
+   * This paper explores multimodal fusion methods for medical data using a transformer-based model with a LLaMA II backbone, focusing on disease classification with chest X-rays and clinical reports from the OpenI dataset.
+* Compact LLM for EHR Privacy
+   * This paper introduces a compact LLM framework for local deployment in healthcare settings with strict privacy requirements and limited resources.  It uses a novel preprocessing technique with information extraction methods like regular expressions to enhance smaller LLM performance on EHR data.
+
+**Frameworks &amp; Methods**
+
+\- RARE: Retrieval-Augmented Reasoning  
+\- STORM: Strategies for Rare Events  
+\- TransFair: Fair Disease Classification  
+\- PePR: Performance Per Resource  
+\- Medical LLM Best Practices
+
+**LLM Applications**
+
+\- Medchain: LLMs in Clinical Practice  
+\- Query Nursing Note Summarization  
+\- CLINICSUM: Patient Conversation Summaries  
+\- Text Embeddings for Classifiers
+
+**LLM Benchmarks**
+
+\- Polish Medical Exams Transfer  
+\- Single-Cell Omics Annotation  
+\- LLMs in Precision Medicine  
+\- Low-Resource Healthcare Challenges
+
+**Other Models**
+
+\- LLM Chatbot Hallucinations  
+\- Multi-stage Chest X-ray Diagnosis  
+\- EchoONE: Echocardiography AI  
+\- Radiology Report Grounding
+
+**Ethics &amp; Fairness**
+
+\- Privacy in Medical Imaging  
+\- Demographic Fairness in AI
+
+**Datasets**
+
+\- LLM Scientific Knowledge Extraction  
+\- Biomedical Knowledge Review
+
+Full thread in detail: [https://x.com/OpenlifesciAI/status/1865584829057929303](https://x.com/OpenlifesciAI/status/1865584829057929303)",aadityaura,1h9hytj,https://reddit.com/r/MachineLearning/comments/1h9hytj/d_last_week_in_medical_ai_top_llm_research/,https://www.reddit.com/r/MachineLearning/comments/1h9hytj/d_last_week_in_medical_ai_top_llm_research/,2024-12-08 12:37:06,1,0.67,1,0,0,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/ui7fRqyxPWPs0C2SeEyfrrVgHu2f6NKgstvq8_5XvWs.jpg,t3_1h9hytj
+MachineLearning,[R] Should I Use ML Experiment Tracking Tools Like MLflow or DVC for my Academic Paper?,"Hi everyone!
+
+I'm a Computer Science graduate currently working on machine learning experiments for a research paper. I have a dataset and plan to compare error metrics across several deep learning models.
+
+The conference where I intent to submit my paper requires that I provide the code and dataset and I also strongly believe that reproducibility is crucial in academic research. To this end, I'm using Docker and pip-compile to make the environment as reproducible as possible.
+
+That said, I know there are tools like MLFlow and DVC for tracking ML experiments. However, I've never seen these tools mentioned in the code accompanying academic papers.
+
+My questions are:
+
+1. Are there any academic papers that use ML experiment tracking tools like MLFlow or DVC?
+2. Should I use these tools for my research, even it means additional work?
+
+I'm also experimenting with DVC because it stores experiments outputs in Git. However, my project involves running many distinct experiments in a single repository (comparing multiple ML algorithms). Would DVC or another tool be the best choice for this kind of workflow? Or is using such tools overkill for academic papers?
+
+",mrlucasrib,1h9ig1e,https://reddit.com/r/MachineLearning/comments/1h9ig1e/r_should_i_use_ml_experiment_tracking_tools_like/,https://www.reddit.com/r/MachineLearning/comments/1h9ig1e/r_should_i_use_ml_experiment_tracking_tools_like/,2024-12-08 13:05:06,1,0.67,1,0,2,0,0,False,False,True,False,False,Research,self,t3_1h9ig1e
+MachineLearning,[R]  GraphMaker: Can Diffusion Models Generate Large Attributed Graphs?,"Hi everyone,
+
+I’m currently working through the recent paper “GraphMaker: Can Diffusion Models Generate Large Attributed Graphs?”, but I’ve run into some issues and was hoping someone here might have insights.
+
+* Posterior Distribution: In the implementation, a posterior distribution is used, but I couldn’t find the formula or explanation in the paper. Does anyone know where this comes from or how it’s derived?
+* Asynchronous Model: The paper and its implementation don’t seem entirely consistent when it comes to the asynchronous model. Specifically:
+   * Is the generation process done step-by-step asynchronously?
+   * Or does it first denoise the attribute vectors entirely before moving on to edge denoising?
+
+I’ve tried searching online, but since this is a new paper, there isn’t much discussion or documentation yet. Any help, advice, or pointers would be greatly appreciated!",Noname_emanon_,1h8z44t,https://reddit.com/r/MachineLearning/comments/1h8z44t/r_graphmaker_can_diffusion_models_generate_large/,https://www.reddit.com/r/MachineLearning/comments/1h8z44t/r_graphmaker_can_diffusion_models_generate_large/,2024-12-07 18:43:09,1,1.0,1,0,0,0,0,False,False,True,False,False,Research,self,t3_1h8z44t
+MachineLearning,[D] Self-Promotion Thread,"Please post your personal projects, startups, product placements, collaboration needs, blogs etc.
+
+Please mention the payment and pricing requirements for products and services.
+
+Please do not post link shorteners, link aggregator websites , or auto-subscribe links.
+
+--
+
+Any abuse of trust will lead to bans.
+
+Encourage others who create new posts for questions to post here instead!
+
+Thread will stay alive until next one so keep posting after the date in the title.
+
+--
+
+Meta: This is an experiment. If the community doesnt like this, we will cancel it. This is to encourage those in the community to promote their work by not spamming the main threads.",AutoModerator,1h99kae,https://reddit.com/r/MachineLearning/comments/1h99kae/d_selfpromotion_thread/,https://www.reddit.com/r/MachineLearning/comments/1h99kae/d_selfpromotion_thread/,2024-12-08 03:15:09,1,0.56,1,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h99kae
+MachineLearning,[P] Extract Transcripts with Positive Emotions in batch,"Check out this example project on how to find transcripts of audio recordings with positive emotions. A good example of a project demonstrating of extract actionable insights from audio!
+
+It takes **common voice** dataset of audio files from hagging face, applies emotion recognition model and **whisper-tiny** model for the transcripts. All is organized in a nice looking batch pipeline. 
+
+An interesting detail - No need to extract archives! This pipeline analyzes audio files directly from tar archives, saving you extra steps.
+
+Video: [https://www.youtube.com/watch?v=OCm5W0L5BTU](https://www.youtube.com/watch?v=OCm5W0L5BTU)  
+Colab notebook: [https://colab.research.google.com/github/iterative/datachain-examples/blob/main/audio/hf\_common\_voice.ipynb](https://colab.research.google.com/github/iterative/datachain-examples/blob/main/audio/hf_common_voice.ipynb)  
+Jupyter Notebook: [https://github.com/iterative/datachain-examples/blob/main/audio/hf\_common\_voice.ipynb](https://github.com/iterative/datachain-examples/blob/main/audio/hf_common_voice.ipynb)",dmpetrov,1h92b70,https://reddit.com/r/MachineLearning/comments/1h92b70/p_extract_transcripts_with_positive_emotions_in/,https://www.reddit.com/r/MachineLearning/comments/1h92b70/p_extract_transcripts_with_positive_emotions_in/,2024-12-07 21:08:30,0,0.5,0,0,1,0,0,False,False,True,False,False,Project,self,t3_1h92b70

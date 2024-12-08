@@ -1,0 +1,46 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python, RedSage is a terminal-based pair programming assistant that integrates with LLMs. Opensource. ,"Need a junior developer that can program with you? I built one in Python.
+
+What my project does?
+
+After installing the program, you can start RedSage right from your terminal. It’s an AI-powered pair programming assistant that connects to LLMs like OpenAI and Claude to help you write code, explain concepts, and even review your changes in real-time. 
+
+Comparisons:
+
+Unlike complex IDE plugins, RedSage is lightweight and works directly from the command line, giving you intelligent code suggestions, context-aware explanations, and seamless Git integration without the overhead. Think of it as having a junior developer by your side, but with no setup hassles and a super-fast workflow. Perfect for anyone looking for a simple, yet powerful coding companion.
+
+LINK: [https://github.com/chisasaw/redsage](https://github.com/chisasaw/redsage)
+
+  
+Conclusion: 
+
+I'd like your feedback and project direction. It's entirely built in Python and available on Github. The link i above. 
+
+",hack_knight,1h9jd21,https://reddit.com/r/Python/comments/1h9jd21/redsage_is_a_terminalbased_pair_programming/,https://www.reddit.com/r/Python/comments/1h9jd21/redsage_is_a_terminalbased_pair_programming/,2024-12-08 13:56:59,1,0.53,1,0,3,0,0,False,False,True,False,False,Showcase,self,t3_1h9jd21
+Python,Python Quiz for Beginners and Experts,"Curated a 40 questions quiz on Python coding. Test your knowledge with this quiz. Would love to know your score and feedback!!
+
+I will keep updatig this quiz to make it more comprehensive. 
+
+Try this [Python quiz](https://www.codeitbro.in/quiz/python/) here. ",CodeItBro,1h9fg6x,https://reddit.com/r/Python/comments/1h9fg6x/python_quiz_for_beginners_and_experts/,https://www.reddit.com/r/Python/comments/1h9fg6x/python_quiz_for_beginners_and_experts/,2024-12-08 09:43:13,0,0.27,0,0,2,0,0,False,False,True,False,False,Resource,self,t3_1h9fg6x
+Python,Sunday Daily Thread: What's everyone working on this week?,"# Weekly Thread: What's Everyone Working On This Week? 🛠️
+
+Hello /r/Python! It's time to share what you've been working on! Whether it's a work-in-progress, a completed masterpiece, or just a rough idea, let us know what you're up to!
+
+## How it Works:
+
+1. **Show &amp; Tell**: Share your current projects, completed works, or future ideas.
+2. **Discuss**: Get feedback, find collaborators, or just chat about your project.
+3. **Inspire**: Your project might inspire someone else, just as you might get inspired here.
+
+## Guidelines:
+
+* Feel free to include as many details as you'd like. Code snippets, screenshots, and links are all welcome.
+* Whether it's your job, your hobby, or your passion project, all Python-related work is welcome here.
+
+## Example Shares:
+
+1. **Machine Learning Model**: Working on a ML model to predict stock prices. Just cracked a 90% accuracy rate!
+2. **Web Scraping**: Built a script to scrape and analyze news articles. It's helped me understand media bias better.
+3. **Automation**: Automated my home lighting with Python and Raspberry Pi. My life has never been easier!
+
+Let's build and grow together! Share your journey and learn from others. Happy coding! 🌟",AutoModerator,1h95vc3,https://reddit.com/r/Python/comments/1h95vc3/sunday_daily_thread_whats_everyone_working_on/,https://www.reddit.com/r/Python/comments/1h95vc3/sunday_daily_thread_whats_everyone_working_on/,2024-12-08 00:00:10,12,0.94,12,0,4,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h95vc3
