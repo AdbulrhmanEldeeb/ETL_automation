@@ -1,0 +1,339 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Itch.io has been taken down by Funko,,Infinite-Addendum-52,1ha63vv,https://reddit.com/r/webdev/comments/1ha63vv/itchio_has_been_taken_down_by_funko/,https://bsky.app/profile/itch.io/post/3lcu6h465bs2n,2024-12-09 09:33:34,139,0.92,139,0,15,0,0,False,False,False,False,False,News,default,t3_1ha63vv
+webdev,"is it a must to know Docker, k8s today? ",As title says,ballbeamboy2,1h9lwb3,https://reddit.com/r/webdev/comments/1h9lwb3/is_it_a_must_to_know_docker_k8s_today/,https://www.reddit.com/r/webdev/comments/1h9lwb3/is_it_a_must_to_know_docker_k8s_today/,2024-12-08 16:00:33,99,0.88,99,0,78,0,0,False,False,True,False,False,Discussion,self,t3_1h9lwb3
+webdev,Underrated Front-End Skills Employers Are Looking For in 2024?,"At this point I figure everyone is already proficient in Typescript, React, etc. What other skills are desirable that aren't back-end focused?
+
+Here are some I'm considering learning while I look for work
+
+D3.js  
+GraphQL  
+Svelte  
+Three.js
+
+",digitalWizzzard,1h9wgaq,https://reddit.com/r/webdev/comments/1h9wgaq/underrated_frontend_skills_employers_are_looking/,https://www.reddit.com/r/webdev/comments/1h9wgaq/underrated_frontend_skills_employers_are_looking/,2024-12-08 23:53:51,79,0.88,79,0,88,0,0,False,False,True,False,False,Discussion,self,t3_1h9wgaq
+webdev,What is Facebook on Android?,,bunzelburner,1ha0qus,https://reddit.com/r/webdev/comments/1ha0qus/what_is_facebook_on_android/,https://i.redd.it/gbz8ogeytq5e1.png,2024-12-09 03:36:44,60,0.79,60,0,12,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/hG4OgO65X-n1Clw00wlVDjqh8wJZmap28ZpO-R7znoE.jpg,t3_1ha0qus
+webdev,Strategies for Finding Freelancing Clients?,"I'm thinking about transitioning to freelancing, but finding clients has been a challenge, especially on platforms like Upwork and Fiverr. I’m confident in my web development skills and believe I have a lot to offer. For those who freelance, how do you typically find clients? Do you focus on creating standard websites or take on more complex projects? Also, is it better to specialize in a specific niche or stay versatile?",Salahkai,1h9mjpp,https://reddit.com/r/webdev/comments/1h9mjpp/strategies_for_finding_freelancing_clients/,https://www.reddit.com/r/webdev/comments/1h9mjpp/strategies_for_finding_freelancing_clients/,2024-12-08 16:29:26,36,0.91,36,0,14,0,0,False,False,True,False,False,,self,t3_1h9mjpp
+webdev,update on my open-source social media scheduler,"Hi everyone, I built a little bit more into my open-source free scheduler :)
+
+Postiz is an open-source social media scheduling tool that offers scheduling on the following:
+
+Instagram, YouTube, Dribbble, LinkedIn, Reddit, TikTok, Facebook, Pinterest, Threads, X, Slack, Discord, Mastodon and BlueSky.
+
+[https://github.com/gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
+There are some cool new features:
+
+* Option to add stories to Instagram and tag people for collaboration.
+* Customer separation - you can group accounts per customer, and when you schedule, you can filter by customer.
+* Option to tag companies on LinkedIn (I wanted to tag people also, but it was not possible)
+* Fixes for different social media posts failing.
+* **Introducing Plugs!** This is a concept you can find in other tools that can boost your engagement for your current posts. Here are some examples:
+   * Once your post reaches X amount of likes, repost it (to regain visibility to it)
+   * Once your post reaches X amount of likes, add another message to it (all your existing commenters will get a notification)
+
+**What's next:**
+
+* Public API - I have been too lazy to make it, I have to push more :)
+* One Inbox - so you can reply to all your messages from one place.
+* Google My Business provider
+* AI Agents - I am still trying to figure out what to do with it, but it looks interesting.
+
+Special thanks to this community that supports me with every post ❤️",sleepysiding22,1ha8wod,https://reddit.com/r/webdev/comments/1ha8wod/update_on_my_opensource_social_media_scheduler/,https://www.reddit.com/r/webdev/comments/1ha8wod/update_on_my_opensource_social_media_scheduler/,2024-12-09 12:45:22,37,0.95,37,0,10,0,0,False,False,True,False,False,,self,t3_1ha8wod
+webdev,Cloud based server??? ,"
+
+WTF am I doing guys so the team developing my app is using a cloud based server and I honestly have no idea what they’re doing but the one they’re using seems like they’re up selling me and I’ve been trying to find a good server that meets my needs without paying too much (like an annual subscription)
+
+Description: small app, no more than 40 users at once. Basic functions like financial transactions, account creation and editing profile, post listings with pictures and descriptions (very simple version of an e-commerce website, probably won’t have many users at all) 
+
+
+‘Build 4’ is what they currently want me to pay for. 
+
+Does anyone have suggestions for alternatives? ",oreo_lester,1h9mm8i,https://reddit.com/r/webdev/comments/1h9mm8i/cloud_based_server/,https://i.redd.it/6pwl06aijn5e1.jpeg,2024-12-08 16:32:33,25,0.68,25,0,58,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/fKhCZcvQpiNAbjYHuzXdeToQMCcR-D2OxHQ5KiCydqg.jpg,t3_1h9mm8i
+webdev,How many $(document).ready() should I have in my code?,"How many $(document).ready() should I have in my code? Currently I have way too many, around 10+. Should I combine everything into one $(document).ready()? What are some cases where I should have more than one?",Cyb3rPhantom,1h9xvjt,https://reddit.com/r/webdev/comments/1h9xvjt/how_many_documentready_should_i_have_in_my_code/,https://www.reddit.com/r/webdev/comments/1h9xvjt/how_many_documentready_should_i_have_in_my_code/,2024-12-09 01:04:19,22,0.64,22,0,108,0,0,False,False,True,False,False,,self,t3_1h9xvjt
+webdev,Web App but fully local,"UPDATE: thank you guys for your guidance!!
+
+I've decided to go all out on my project.
+
+I'll make the application twice!
+
+ I'm going to follow user29302's advice for local app.
+
+I haven't used EF Core before. my company uses old school Stored procedures etc in SSMS. I'm looking forward to it!
+
+  
+then I'm going to build another one and follow 
+
+TheLinuxMaster's advice and host a web server as well.
+
+
+
+I've only been a software developer in the professional field for about 3 years now.  
+My fiance' wants a cookbook application that will also need a simple SQL database.  
+I know how to create it, but we're wanting more of a local App without the need of internet connections.
+
+so using visual studio, is there a way i can create a web app using [ASP.Net](http://ASP.Net) Core and use some local database inside the app? I know i can simply write data to XML files, but I'd rather sort of use SQL.
+
+I am wanting to get better at my job so I figured creating my own app will be good practice to become a better developer. Thanks in advance! I suppose if it's not possible I can learn how to run my own web server. never done it before",DreamScape1609,1h9os4w,https://reddit.com/r/webdev/comments/1h9os4w/web_app_but_fully_local/,https://www.reddit.com/r/webdev/comments/1h9os4w/web_app_but_fully_local/,2024-12-08 18:08:24,16,0.87,16,0,21,0,0,False,False,True,False,False,,self,t3_1h9os4w
+webdev,What causes 'bad days' for developers?,,mmaksimovic,1ha90yk,https://reddit.com/r/webdev/comments/1ha90yk/what_causes_bad_days_for_developers/,https://newsletter.getdx.com/p/factors-contributing-to-bad-developer-days,2024-12-09 12:52:01,15,0.78,15,0,37,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/_rBXtT_4My9iNcm_b9cCgDz6MW00DrCDYGZroXjsiBg.jpg,t3_1ha90yk
+webdev,I created this all-in-one JSON Toolkit,"This post might come across as a bit self-promotional, but I created this tool for personal use, and some of my colleagues have found it helpful. It's mainly for developers and testers, so I think r/webdev is a good place to share it, and I hope it will be useful to others too.
+
+This tool addresses some pain points I face when developing, debugging, or testing features that involve JSON data.
+
+* I often need to search for each key whenever I get the data, so I built a way to query multiple keys at once.
+* It's difficult to remember deep paths to locate my data, so I built a JSON viewer that lets me extract any path by simply clicking on the key.
+
+Some might argue that I should use Postman test scripts or Postgres' `json_extract_path`. But I find these solutions better suited for stable APIs or data. When I’m developing a new feature or debugging an issue, the target field can pop into my mind at any moment. So I prefer to quickly access the field and the data directly, rather than having to write a Postman script or SQL query.
+
+If you're interested in the tool, here it is: [https://www.devtoolkits.tech/](https://www.devtoolkits.tech/)
+
+I’d love to hear your feedback to help improve it!",Lac-TranAn,1ha9e90,https://reddit.com/r/webdev/comments/1ha9e90/i_created_this_allinone_json_toolkit/,https://www.reddit.com/r/webdev/comments/1ha9e90/i_created_this_allinone_json_toolkit/,2024-12-09 13:11:49,7,0.89,7,0,8,0,0,False,False,True,False,False,,self,t3_1ha9e90
+webdev,Any easy to use white label scheduling API?,"I have a startup where clients can register and book appointments on my web app. I’m looking for the best scheduling API that scales and allows me to have multiple accounts. 
+
+Any ideas?
+
+I don’t mind the price, as long as it is easy to use and works well. 
+
+Thanks Reddit ",edoar17,1h9qulc,https://reddit.com/r/webdev/comments/1h9qulc/any_easy_to_use_white_label_scheduling_api/,https://www.reddit.com/r/webdev/comments/1h9qulc/any_easy_to_use_white_label_scheduling_api/,2024-12-08 19:38:26,5,0.73,5,0,7,0,0,False,False,True,False,False,Question,self,t3_1h9qulc
+webdev,Random Color Generator tool for the web!,"Hi, couple of months ago I created a [random color generator](https://www.innateblogger.com/p/random-color-generator.html) tool for fun and made a post [here](https://www.reddit.com/r/webdev/comments/1fmc93p/i_created_a_random_color_generator/).
+
+Got some good feedback and ideas about it. Today, I updated the tool again and tried to implement most of the feedback. Please share your thoughts on it now.
+
+Thank you.",Dimention_less,1h9qqn3,https://reddit.com/r/webdev/comments/1h9qqn3/random_color_generator_tool_for_the_web/,https://www.reddit.com/r/webdev/comments/1h9qqn3/random_color_generator_tool_for_the_web/,2024-12-08 19:33:25,3,0.64,3,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1h9qqn3
+webdev,"Open, curated database of well-funded early-stage startups.","I created this database because sifting through Crunchbase and TechCrunch is too noisy these days. No gatekeeping, no waitlisting, just all open.
+
+[www.startups.gallery](http://www.startups.gallery/)
+
+Let me know what you think I should add further. Don't want to create Crunchbase 2.0 and want to keep it fairly curated and niche for only early-stage startups (pre-seed to Series D-ish).
+
+Also, if you know any other resources that are similar, please share. Wellfound still calls GitLab, Plaid, Doordash ""startups"" so looking to keep it more earlier-stage too.",trusted-apiarist,1ha9zlp,https://reddit.com/r/webdev/comments/1ha9zlp/open_curated_database_of_wellfunded_earlystage/,https://www.reddit.com/r/webdev/comments/1ha9zlp/open_curated_database_of_wellfunded_earlystage/,2024-12-09 13:43:07,5,1.0,5,0,2,0,0,False,False,True,False,False,,self,t3_1ha9zlp
+webdev,How often do you push code to GitHub?,"Wondering if I'm in the majority: I push my code everyday, but only once with all of my commits.",yeahimjtt,1ha0wrc,https://reddit.com/r/webdev/comments/1ha0wrc/how_often_do_you_push_code_to_github/,https://www.reddit.com/r/webdev/comments/1ha0wrc/how_often_do_you_push_code_to_github/,2024-12-09 03:45:47,5,0.56,5,0,58,0,0,False,False,True,False,False,Question,self,t3_1ha0wrc
+webdev,WIP: Angular-inspired Bun Web Framework,"https://preview.redd.it/vbmwn0r2cq5e1.png?width=806&amp;format=png&amp;auto=webp&amp;s=106bc2901856af85e7c6474b511b1525281a8c15
+
+I have been working on a side project - a web framework built on top of Bun that is supposed to feel like Angular, as that's the framework I'm most comfortable with. I have components that update on property changes &amp; I'm building the components out using Google's incremental-dom. I am currently a little stuck on SPA routing and am wondering if anyone has ideas for what libraries might work well for inspiration, or if anyone has tips on how to put together a minimalistic router. I have taken a peek at the Angular repo &amp; routing is insanely complicated - I'm trying to start out small. TIA  
+",tbosk,1h9yvmd,https://reddit.com/r/webdev/comments/1h9yvmd/wip_angularinspired_bun_web_framework/,https://www.reddit.com/r/webdev/comments/1h9yvmd/wip_angularinspired_bun_web_framework/,2024-12-09 01:56:38,4,0.75,4,0,0,0,0,False,False,True,False,False,Discussion,https://a.thumbs.redditmedia.com/H2ZY6OTAP2qytefMXFOvl0XQwxeK3ZS5DbqchWPoOb0.jpg,t3_1h9yvmd
+webdev,How to upload multiple files through browser?,"I want to have website for uploading images and videos from my phone to PC   
+I tried simple input field with multiple selection and multer on the backend for storing it on the PC (PC is hosting both frontend and backend) but I could not get it to upload more than 10 images, it refreshes to quickly and there's no way to disable the refresh or wait for all files to be uploaded.
+
+So is there another way how to do it?  
+Thanks on responses!",Igol4,1h9t3dj,https://reddit.com/r/webdev/comments/1h9t3dj/how_to_upload_multiple_files_through_browser/,https://www.reddit.com/r/webdev/comments/1h9t3dj/how_to_upload_multiple_files_through_browser/,2024-12-08 21:17:41,4,0.84,4,0,14,0,0,False,False,True,False,False,Question,self,t3_1h9t3dj
+webdev,Full-stack dev looking to go solo - advice needed,"Hey fellow developers! 👋
+
+I'm a technical lead with 5 years of experience building financial software and enterprise applications. I love turning complex business problems into elegant solutions, and I'm looking to branch out on my own.
+
+My stack:
+
+* Backend: Symfony/Laravel (built multiple enterprise apps)
+* Frontend: NextJS/React (created dynamic form systems)
+* Plus the usual suspects: Docker, AWS, Git, etc.
+
+I'm particularly good at:
+
+* Building smart form systems that adapt based on user input
+* Integrating with external APIs and services
+* Modernizing legacy systems
+* Making complex processes simple and user-friendly
+
+Instead of just looking for regular contract work, I'm interested in:
+
+1. Finding companies whose problems I can solve (and potentially turn solutions into products)
+2. Building relationships with businesses that need ongoing development support
+3. Creating systems that can be repurposed for similar companies
+
+I've already built a solid Symfony/NextJS starter template to hit the ground running. What I need now is to find the right companies to work with.
+
+For those who've gone solo: How did you find your first real clients? Any specific industries or approaches you'd recommend?
+
+Based in Netherlands if that matters!",MeesterPlus,1hab6sl,https://reddit.com/r/webdev/comments/1hab6sl/fullstack_dev_looking_to_go_solo_advice_needed/,https://www.reddit.com/r/webdev/comments/1hab6sl/fullstack_dev_looking_to_go_solo_advice_needed/,2024-12-09 14:40:57,3,0.8,3,0,3,0,0,False,False,True,False,False,,self,t3_1hab6sl
+webdev,How to get a .org website for a political initiative,"Hi. I want to set up a very simple home page for a website for a political initiative. I don't intend to make money off it, gather data, or host an active forum. I just want a page with basic information and contact details and so forth, really just a holding page for the moment so that I have a website I can add to an email sig.
+
+I tried to buy a domain and make a website through Wix, found it to be a difficult process. If buying a domain and building something myself through Wix is the only route I'll just crack on at it but I was wondering if there's some other way I'm not aware of. I just want something that;
+
+Contains basic information, hyperlinks to relevant resources, contact details etc  
+Involves no economic activity, is a .org  
+Looks reasonably professional  
+Doesn't require that I sign up for anything for more than a year  
+Costs $10 a month or less  
+Requires the minimum possible amount of time and expertise from me in website design and building
+
+Thanks for your help",Minute_Try_7194,1ha7ftw,https://reddit.com/r/webdev/comments/1ha7ftw/how_to_get_a_org_website_for_a_political/,https://www.reddit.com/r/webdev/comments/1ha7ftw/how_to_get_a_org_website_for_a_political/,2024-12-09 11:13:38,3,0.8,3,0,4,0,0,False,False,True,False,False,,self,t3_1ha7ftw
+webdev,Alternative Advertising Networks,"My [site ](http://grademelon.org)has developed steady monthly traffic of about 100k page views a month, however, my site is not a blog, news site, etc. I do not publish content or post articles; my site exists as a service. As such, I am not eligible for programs like Google's AdSense, and I am having trouble finding an alternative that *is* setup to advertise on this kind of site.
+
+  
+If anyone knows of a means for monetizing this traffic, I would be greatly appreciative. ",Derpymon789,1h9uzuk,https://reddit.com/r/webdev/comments/1h9uzuk/alternative_advertising_networks/,https://www.reddit.com/r/webdev/comments/1h9uzuk/alternative_advertising_networks/,2024-12-08 22:43:47,3,1.0,3,0,5,0,0,False,False,True,False,False,Question,self,t3_1h9uzuk
+webdev,Learning testing,"Does anyone have any comprehensive video tutorials for unit/ integration and E2E testing in react?
+
+  
+Thanks!",Lostpollen,1h9pqra,https://reddit.com/r/webdev/comments/1h9pqra/learning_testing/,https://www.reddit.com/r/webdev/comments/1h9pqra/learning_testing/,2024-12-08 18:49:54,3,0.81,3,0,0,0,0,False,False,True,False,False,,self,t3_1h9pqra
+webdev,How can I improve my PHP/Web development workflow as a solo hobbyist?,"I'm developing a PHP/MySQL application, for frontend assets I'm using NPM (node-sass) to compile/minimise SCSS and Javascript.
+
+**My current setup:**
+
+OS: Windows 10
+
+Dev environment (Laragon):
+
+PHP 8.2.5
+
+MySQL 8.0.30
+
+Editor: VS Code
+
+Command line tools:
+
+Git
+
+Composer
+
+NPM
+
+FTP: WinSCP
+
+Host: Cloudways
+
+**Development workflow:**
+
+I've created a sub-folder in my Laragon www folder which I've initialised with Git. I've also initialised some assets folders with SCSS and javascript to compile with node-sass so I run the command npm run css:watch which compiles the css on every save to my SCSS.
+
+To get in the flow I have to -
+
+1 - Start up my PC (I turn it off every night)
+
+2 - Open windows terminal from my toolbar
+
+3 - CD into my main folder which would be in laragon, e.g. C:\\laragon\\www\\test-app
+
+4 - Type ""code ."" to open the project in vs code
+
+5 - Make changes to my code then open WinSCP and then manually FTP the file to my staging site to test.
+
+**Issues:**
+
+The biggest slowdown is DB schema changes as I add features. I have to make the exact same DB changes to my staging and then live applications. Transferring files across is kind of easy but it would be much easier to be developing on my local machine with exactly the same environment as my live host and then be able to just push all changes to my live host without affecting the live data.
+
+How can I improve my workflow? I'd love to have it so that as soon as I save a file it reloads my browser to reflect the changes instantly and then quickly deploy any changes to my database or files to my staging site and then to my live site after testing.",AberrantNarwal,1h9l6sm,https://reddit.com/r/webdev/comments/1h9l6sm/how_can_i_improve_my_phpweb_development_workflow/,https://www.reddit.com/r/webdev/comments/1h9l6sm/how_can_i_improve_my_phpweb_development_workflow/,2024-12-08 15:27:46,3,1.0,3,0,9,0,0,False,False,True,False,False,,self,t3_1h9l6sm
+webdev,I tested 45 configurations for the GraphQL stack in the JS/TS landscape! It's quite interesting how they can differ when it comes to performance,,tomekdev,1ha60fh,https://reddit.com/r/webdev/comments/1ha60fh/i_tested_45_configurations_for_the_graphql_stack/,https://tomekdev.com/posts/benchmarking-graphql-solutions-in-the-js-ts-landscape,2024-12-09 09:26:15,2,0.67,2,0,3,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/YXX2si2q7IQRltexrOBmQWgf18N8f46B_T16ykuypI0.jpg,t3_1ha60fh
+webdev,Render's 750 hours instance clarification?,"I dont get it, it has 750 hours of free compute every month, that means that if your server is up for 31 \* 24 hours it will always be less then 750 hours. 
+
+Basicaly even if with the free-plan that the server is active 24/7 and there's lots of traffic, you will never run out of render hours? what's the catch?",badboyzpwns,1ha45sz,https://reddit.com/r/webdev/comments/1ha45sz/renders_750_hours_instance_clarification/,https://www.reddit.com/r/webdev/comments/1ha45sz/renders_750_hours_instance_clarification/,2024-12-09 07:05:51,2,0.63,2,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1ha45sz
+webdev,"I'm at a loss as to what to do here, all my performance indicators are good, the small dings are due to 3rd party scripts not caching properly",,okawei,1haal5q,https://reddit.com/r/webdev/comments/1haal5q/im_at_a_loss_as_to_what_to_do_here_all_my/,https://i.redd.it/yp6ezdjazt5e1.png,2024-12-09 14:12:26,1,1.0,1,0,8,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/1LEYhS1Klr4yLvnSst-LwYigo6n3V0tUfUbrIax2LWA.jpg,t3_1haal5q
+webdev,Help me deploy my Portfolio App Backend,"I've been working on my web dev skills for over a year. My stack includes React (Vite) - Express - MySQL/PostgreSQL. I'm also using GIT &amp; GitHub.
+
+I know how to deploy static sites on GitHub Pages or Netlify which are free.
+
+Now I have some questions regarding my backend hosting:
+1. Which hosting services are suitable for an app primarily accessed by recruiters on an occasional basis? So far I’ve only experimented with Render’s free tier.
+
+2. What is the minimum monthly budget I should plan for hosting such an app?
+
+3. When deploying, is it better to set up three separate projects for the frontend, API, &amp; database, or combine them in some way?
+
+4. Where is the best place to store images for a setup where my database only stores image file names, such as ""product_img"": ""product_155_blue.jpg""?
+
+Your inputs are appreciated!
+",Ok_Pea_7649,1ha8l3y,https://reddit.com/r/webdev/comments/1ha8l3y/help_me_deploy_my_portfolio_app_backend/,https://www.reddit.com/r/webdev/comments/1ha8l3y/help_me_deploy_my_portfolio_app_backend/,2024-12-09 12:27:24,1,1.0,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1ha8l3y
+webdev,Upwork for UI design,"At the risk of being spammed by work requests... 
+
+We recently engaged someone to look at my webapp to provide a basic new design, via upwork. Chose a woman who's profile and work looked good. Asked them to sign up so we could give them access, and they signed up under different name. Googling them showed a different person, a man this time.  They said it was a ""test email"". 
+
+How bad is this, would you pull the plug? If they did the work I wouldn't care, but it doesn't look good. I don't think there's any inherit risks giving them access... But we don't know what we don't know. ",leapinWeasel,1ha7dth,https://reddit.com/r/webdev/comments/1ha7dth/upwork_for_ui_design/,https://www.reddit.com/r/webdev/comments/1ha7dth/upwork_for_ui_design/,2024-12-09 11:09:40,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1ha7dth
+webdev,What advice would you give to someone with 10 years of experience in IT (non dev) wanting to transition to a Java Backend role.,"Looking for some suggestions on where to start, what version to learn, expections, career growth etc.",t7Saitama,1ha6q2p,https://reddit.com/r/webdev/comments/1ha6q2p/what_advice_would_you_give_to_someone_with_10/,https://www.reddit.com/r/webdev/comments/1ha6q2p/what_advice_would_you_give_to_someone_with_10/,2024-12-09 10:22:13,2,0.62,2,0,12,0,0,False,False,True,False,False,Question,self,t3_1ha6q2p
+webdev,What are the most useful features you've discovered in your IDE?,"In my case, I found out WebStorm has a built-in database client and a basic HTTP client, the latter being my go-to tool for drafting network requests. These allowed me to replace external apps, and made it very convenient without the need to switch between external apps.
+
+PS: I'm exploring developer productivity for my thesis. If you'd like to share your experiences, here's a quick survey 📝: [https://forms.gle/4B9GAtXD1nahwvn48](https://forms.gle/4B9GAtXD1nahwvn48)",Kartm,1ha3t33,https://reddit.com/r/webdev/comments/1ha3t33/what_are_the_most_useful_features_youve/,https://www.reddit.com/r/webdev/comments/1ha3t33/what_are_the_most_useful_features_youve/,2024-12-09 06:42:04,2,0.6,2,0,1,0,0,False,False,True,False,False,,self,t3_1ha3t33
+webdev,How to find how site was built?,Is there a way to see how someone build their site? Whether it was with a no code builder or they wrote the code themselves? How would I find out if there’s a way?,buff_mac466,1ha3hgf,https://reddit.com/r/webdev/comments/1ha3hgf/how_to_find_how_site_was_built/,https://www.reddit.com/r/webdev/comments/1ha3hgf/how_to_find_how_site_was_built/,2024-12-09 06:19:56,0,0.5,0,0,8,0,0,False,False,True,False,False,Question,self,t3_1ha3hgf
+webdev,Webview app vs. iOS native?,"As a personal development, I made an iOS app and published in the app store. However, I found out that the app store review is one of the largest hurdles for timely deployment and project iterations. Therefore, I am now thinking of making another one with a webview app.
+
+In general, how do you think about having a webview app to be deployed in the app store?",ProfessionalOwn5490,1ha1m8r,https://reddit.com/r/webdev/comments/1ha1m8r/webview_app_vs_ios_native/,https://www.reddit.com/r/webdev/comments/1ha1m8r/webview_app_vs_ios_native/,2024-12-09 04:26:17,1,1.0,1,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1ha1m8r
+webdev,Suggested infraOps for a global backend?,"Recently, I made a mobile app with a backend deployed in AWS ECS. However, I found out that it is quite inefficient to have a CDN for global backend since only GET requests are supported. Any infrastructure or architecture design suggested for a global backend service to achieve the lowest latency without compromising the UX? My app is currently available in all the countries in all the regions.",ProfessionalOwn5490,1ha1k1t,https://reddit.com/r/webdev/comments/1ha1k1t/suggested_infraops_for_a_global_backend/,https://www.reddit.com/r/webdev/comments/1ha1k1t/suggested_infraops_for_a_global_backend/,2024-12-09 04:22:49,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1ha1k1t
+webdev,Help needed - Embassy Appointment ,"Need help
+
+Hello,
+I have been trying to get a germany study visa appointment for the last six months. All the appointments get taken in a few seconds. I have tried everything. I had to defer my semester and now the deadline is going to pass again. 
+The problem is that there is a server side limit of 3 seconds before which you can't submit the captcha and appointment form. Considering this limit, the earliest you can submit the form after the appointments are open is 4 seconds (one second to click the appointment slot, open the form and fill it; and 3 seconds wait before the submission). I have many a times clicked the submit button at exactly the 4 second mark, but still no luck . 
+I was told that there are some people who have somehow bypassed this limit and they can submit the form and captcha from the client side before the 3 second limit. They book all the appointments. 
+I don't know if this is true. But if someone can confirm this or help me, i would be eternally grateful.
+Here is the link to the appointment website:
+https://service2.diplo.de/rktermin/extern/choose_realmList.do?locationCode=kara&amp;request_locale=en",msani321,1h9w5ef,https://reddit.com/r/webdev/comments/1h9w5ef/help_needed_embassy_appointment/,https://www.reddit.com/r/webdev/comments/1h9w5ef/help_needed_embassy_appointment/,2024-12-08 23:39:02,1,0.6,1,0,0,0,0,False,False,True,False,False,,self,t3_1h9w5ef
+webdev,Trouble keeping footer on the bottom of the page,"I have trouble keeping my footer on the bottom of the page.
+I'm using dynamic bootstrap elements, and in some cases the footer is in the background and not on the bottom.
+
+For example: https://imgur.com/a/YOdXIyZ
+
+My code: https://imgur.com/a/WmCvlQG
+
+Css: https://imgur.com/a/PyrxDBd
+
+What can I do to keep the footer under everything?
+ I think the problem might actually be the bootstrap classes section or some cols.
+What can I do to keep them inside the body keeping some space for the footer? Thank you🙏🏼",ale_zampie,1h9v3q1,https://reddit.com/r/webdev/comments/1h9v3q1/trouble_keeping_footer_on_the_bottom_of_the_page/,https://www.reddit.com/r/webdev/comments/1h9v3q1/trouble_keeping_footer_on_the_bottom_of_the_page/,2024-12-08 22:48:54,1,0.6,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1h9v3q1
+webdev,Intergategration of Vue apps in old knockout stack,I joined a company and they run an old knockout stack. Recently they started using vue. Vue is only used to build entirely new pages from scratch. For example a dashboard was added and developed in vue. However the configuration needed to be on the admin page. Therefore the required parts where created in knockout. Is there any reasonable way to develop just parts of a page with vue and then add them to the knockout page? What would be the required steps? And what would be the drawbacks? ,Round_University_775,1h9ubi4,https://reddit.com/r/webdev/comments/1h9ubi4/intergategration_of_vue_apps_in_old_knockout_stack/,https://www.reddit.com/r/webdev/comments/1h9ubi4/intergategration_of_vue_apps_in_old_knockout_stack/,2024-12-08 22:13:18,1,1.0,1,0,4,0,0,False,False,True,False,False,Question,self,t3_1h9ubi4
+webdev,How to create Reddit Post Thumbnail,"Hi all, I'm trying to get the same previews as Telegram and WhatsApp are getting when fetching the posts, but I can't manage to get it, how can I do that?
+
+Example:
+
+https://preview.redd.it/id9wzce95p5e1.jpg?width=1120&amp;format=pjpg&amp;auto=webp&amp;s=be85931bf27c4169fc5e855d8e4eb9e32ed61ff1
+
+  
+",itballer,1h9ty06,https://reddit.com/r/webdev/comments/1h9ty06/how_to_create_reddit_post_thumbnail/,https://www.reddit.com/r/webdev/comments/1h9ty06/how_to_create_reddit_post_thumbnail/,2024-12-08 21:56:24,1,0.67,1,0,2,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/asHQjqTQgYQnhJ8hQLdZvWiU1YuwS7Vgw9q5agoeXzU.jpg,t3_1h9ty06
+webdev,"How I built a product visual search using react-native, Google Cloud Vision API , Algolia and Remix.js",,IliasHad,1h9st8n,https://reddit.com/r/webdev/comments/1h9st8n/how_i_built_a_product_visual_search_using/,https://iliashaddad.com/blog/how-i-built-a-product-visual-search-using-react-native-google-cloud-vision-api-algolia-and-remixjs/,2024-12-08 21:05:19,1,0.67,1,0,0,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/wAIEOmsY6Cf0ZeINU6Tbsv5YuppOoOUAdN4f63pbWmU.jpg,t3_1h9st8n
+webdev,Mentoring resources for web devs? Struggling on volunteer projects...,"Some background:
+
+I volunteer on non-profits as a UX researcher and some design work. I am an experienced full-stack app dev manager, having previously managed a team with engineers, analysts, and designers. I'm currently working on creating my own business, and in the meantime I'm keeping my skills fresh by volunteering on non-profit projects. It's mutually beneficial and feels like I'm making a difference! 
+
+What I've come across:
+
+Many of the devs on these projects are obviously jr. trying to get real world experience under their belt. The problem is, most of these non-profit folks can't see how over their head these devs are. They lack problem solving skills, systems thinking abilities, and professionalism. Often deadlines are missed, they're late or no-show meetings, and they have basic technical problems they struggle to resolve. I try my best to help where I can, but I just don't have the desire to overstep beyond my commitment. 
+
+  
+My question:
+
+Are there any resources, forums, or even mentoring sites you all would recommend I keep handy to share with these devs as they struggle to build and manage projects?",fauxfan,1h9p7og,https://reddit.com/r/webdev/comments/1h9p7og/mentoring_resources_for_web_devs_struggling_on/,https://www.reddit.com/r/webdev/comments/1h9p7og/mentoring_resources_for_web_devs_struggling_on/,2024-12-08 18:26:54,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1h9p7og
+webdev,Fluid Size - Calculate css clamp() values,,morete,1h9oomj,https://reddit.com/r/webdev/comments/1h9oomj/fluid_size_calculate_css_clamp_values/,https://fluidsize.com/,2024-12-08 18:04:10,1,1.0,1,0,1,0,0,False,False,False,False,False,,default,t3_1h9oomj
+webdev,Privacy-protecting Web hosts?,"What's the latest on Web hosts that protect owners' privacy? I want to be clear, this is for a legal purpose and I have zero interest in evading law enforcement. This would be for a Web forum, and some topics get contentious so there have been issues in the past with owners getting doxxed. I'm more concerned about protection against that than anything. I'm asking here because this seems to be one of those things that there are a million fake ""review"" sites on promoting every single hosting option out there, so I was hoping some of y'all might have some real-world experiences.
+
+I think I'd be looking for a dedicated host, something modest in horsepower but generous in bandwidth (forum users love their pic attachments). CDNs like Cloudflare are valuable, but you can't host something like XenForo in their ""Workers"" or ""Pages"" containers. I'm EXTREMELY familiar with AWS and DigitalOcean but other sites have had bad experiences there. I was initially thinking OVH, but I feel like their servers have gone up a lot in price lately - their inventory lists a lot of ""game"" servers but I'm really more in the $10-$40/mo ""commodity"" category....",CodeAndBiscuits,1h9zq38,https://reddit.com/r/webdev/comments/1h9zq38/privacyprotecting_web_hosts/,https://www.reddit.com/r/webdev/comments/1h9zq38/privacyprotecting_web_hosts/,2024-12-09 02:41:41,1,0.67,1,0,1,0,0,False,False,True,False,False,,self,t3_1h9zq38
+webdev,great and terrible crutches,,HoraneRave,1ha0smr,https://reddit.com/r/webdev/comments/1ha0smr/great_and_terrible_crutches/,https://i.redd.it/l77tub1cuq5e1.png,2024-12-09 03:39:30,0,0.4,0,0,1,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/rmCdnf6KZesJPwSKvEQBvezGaB5CZxTj0B2QjlcKPDs.jpg,t3_1ha0smr
+webdev,Offering financing to clients,"Own a digital agency and IT consultancy. 
+
+Something I've thought about for a while is offering finance options to clients. For example, if an ecommerce site costs £30,000, they could put down a deposit and spread the cost, say £1000 a month for 36 months (subject to credit check). Clients wouldn't gain ownership of anything until it is paid off entirely.
+
+Another alternative is potentially leasing whereby we include maintenance and hosting but the monthly is indefinite. They'd commit to a minimum time period and keep paying after this to keep the site active or start again and rebuild. 
+
+Changes outside of the agreement would be billed at ""x"" amount extra for the remaining agreement months. 
+
+Could offer this by partnering with a bank/broker potentially. Contracts would have to be watertight. 
+
+Drawback - debts die with the company if it folds unless we enforce a personal guarantee. 
+
+Thoughts? 
+",dillonlawrence0101,1h9wsfj,https://reddit.com/r/webdev/comments/1h9wsfj/offering_financing_to_clients/,https://www.reddit.com/r/webdev/comments/1h9wsfj/offering_financing_to_clients/,2024-12-09 00:10:01,0,0.4,0,0,5,0,0,False,False,True,False,False,,self,t3_1h9wsfj
+webdev,Profitability of solo website development by order?,Is it profitable to be a solo or small team web developer and take orders from small and medium businesses to make websites for them?,Zaza_Zazadze,1ha7sc3,https://reddit.com/r/webdev/comments/1ha7sc3/profitability_of_solo_website_development_by_order/,https://www.reddit.com/r/webdev/comments/1ha7sc3/profitability_of_solo_website_development_by_order/,2024-12-09 11:37:19,0,0.33,0,0,2,0,0,False,False,True,False,False,,self,t3_1ha7sc3
+webdev,How do I get this floating type icons that interact on mouse hover on a website?,,mallickaniket,1ha7oju,https://reddit.com/r/webdev/comments/1ha7oju/how_do_i_get_this_floating_type_icons_that/,https://www.redgifs.com/watch/grandrelievedneondwarfgourami,2024-12-09 11:30:20,0,0.29,0,0,12,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/nHXX3sC3m7oBBpRp1iC1bqu3swYv38-3_k2E4EoSPkY.jpg,t3_1ha7oju
+webdev,AI Code Reviews - For Development teams?,"Hi folks,
+
+  
+I run an agency with around 10 web devs and wondered if there is any good tooling out there for code reviews? Essentialy I'm a technical PM and want to improve my dev team work flow and I was thinking of introducing AI Code Reviews to point out best practices etc, accessiblity, optimisation, refactoring ideas.  
+Would love to hear workflows of people in a similar situation
+
+  
+Let me know what you guys are doing! Thanks",badgerbaws,1ha4kuf,https://reddit.com/r/webdev/comments/1ha4kuf/ai_code_reviews_for_development_teams/,https://www.reddit.com/r/webdev/comments/1ha4kuf/ai_code_reviews_for_development_teams/,2024-12-09 07:35:53,0,0.3,0,0,6,0,0,False,False,True,False,False,,self,t3_1ha4kuf
+webdev,How to get clients ?,"I'm Zade, I'm a web designer and developer. I have worked for like 4-5 clients till now, I've tried fivver but it sucks and can't find enough opportunities on reddit I'm a student so can't even look for a full time job. So want some suggestions from people who have already done it.",scoop_creator,1ha01rs,https://reddit.com/r/webdev/comments/1ha01rs/how_to_get_clients/,https://www.reddit.com/r/webdev/comments/1ha01rs/how_to_get_clients/,2024-12-09 02:59:21,0,0.5,0,0,17,0,0,False,False,True,False,False,Question,self,t3_1ha01rs
+webdev,[Meta] Does offering payment for a solution violate the no commercial promotions rule?,I’m working on recreating my photography website but am not super experienced about the type of webdev tools out there (despite watching many videos about this topic). I have a bunch of needs and was creating a writeup about what I need and what I've tried but it got really large. I was thinking of offering $10 as a token of appreciation to anyone who provides a viable solution. Would this be considered a violation of the rule against commercial promotions or solicitations?,TestFlightBeta,1h9m2fk,https://reddit.com/r/webdev/comments/1h9m2fk/meta_does_offering_payment_for_a_solution_violate/,https://www.reddit.com/r/webdev/comments/1h9m2fk/meta_does_offering_payment_for_a_solution_violate/,2024-12-08 16:08:07,0,0.33,0,0,1,0,0,False,False,True,False,False,,self,t3_1h9m2fk
+webdev,It turns out I'm still excited about the web,,fagnerbrack,1ha2boe,https://reddit.com/r/webdev/comments/1ha2boe/it_turns_out_im_still_excited_about_the_web/,https://werd.io/view/6707fe1b68490c909b0770a2,2024-12-09 05:06:31,0,0.27,0,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/xBr-2zAToW6w403Q8vlrFXImrqd6s_fD4TUeimBRuic.jpg,t3_1ha2boe
+webdev,Just a Reminder: GoDaddy 👎👎👎 (And How I Deployed My SvelteKit App Without the Headache),"Hey everyone! 👋
+
+I just published a guide on Medium about deploying a SvelteKit app to GitHub Pages with a custom domain. If you’ve ever struggled with DNS settings, SSL certificates, or figuring out how to go live with your app, this is for you. Just a reminder that GoDaddy 👎👎👎.
+
+In the article, I share:
+
+* A step-by-step walkthrough for deploying a SvelteKit app.
+* Why GoDaddy was a nightmare for me (and how Porkbun saved the day).
+* Tips for setting up DNS and GitHub Pages without losing your mind.
+
+Whether you’re a beginner figuring this out for the first time or a seasoned dev looking for a quick guide, I’d love for you to check it out. Let me know if you have questions or if there’s something I missed!
+
+👉 [Read it here](https://medium.com/@zuma3434/deploying-your-sveltekit-app-to-github-pages-with-a-custom-domain-ditch-godaddy-for-porkbun-f331259181fe?source=friends_link&amp;sk=fb21e8e3920502ece54e74e5b70e997d)
+
+Would love to hear your thoughts, and if you’ve got other deployment tips or domain provider recommendations, share them in the comments!",cuco3434,1h9r32n,https://reddit.com/r/webdev/comments/1h9r32n/just_a_reminder_godaddy_and_how_i_deployed_my/,https://www.reddit.com/r/webdev/comments/1h9r32n/just_a_reminder_godaddy_and_how_i_deployed_my/,2024-12-08 19:49:06,0,0.18,0,0,1,0,0,False,False,True,False,False,,self,t3_1h9r32n
+webdev,What happened to the `sitemap` NPM package? It's no longer on NPM...,,SkydiverTyler,1h9p3n1,https://reddit.com/r/webdev/comments/1h9p3n1/what_happened_to_the_sitemap_npm_package_its_no/,https://www.npmjs.com/package/sitemap,2024-12-08 18:22:05,0,0.27,0,0,6,0,0,False,False,False,False,False,Question,default,t3_1h9p3n1
+webdev,What is the best open source alternative to Tailwind UI?,"I'm \*\*really\*\* bad at UI/design, but if I have examples, I can pretty much create anything. I'm starting a new project and I need a good UI to use. There is anything open source as good as Tailwind UI? I'm not using javascript frameworks. I just need the HTML and CSS.",fenugurod,1h9lnwe,https://reddit.com/r/webdev/comments/1h9lnwe/what_is_the_best_open_source_alternative_to/,https://www.reddit.com/r/webdev/comments/1h9lnwe/what_is_the_best_open_source_alternative_to/,2024-12-08 15:50:08,0,0.35,0,0,24,0,0,False,False,True,False,False,Question,self,t3_1h9lnwe

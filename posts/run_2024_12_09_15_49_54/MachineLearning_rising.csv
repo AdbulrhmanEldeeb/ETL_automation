@@ -1,0 +1,55 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] Has anyone managed to train an LLM with model parallelism?,"Hello,
+
+I am working on fine-tuning Llama-3.1 for my master’s thesis research. Unfortunately, my current situation forbids access to high-memory GPUs such as A100s. Instead, I have access to setups with multiple lower-memory GPUs, such as 4×3090 or 8×V100.
+
+Therefore I need to implement model parallelism to train my model as it doesn’t fit into a single GPU. However, I’ve noticed that most frameworks primarily focus on data parallelism, which doesn’t address my needs.
+
+Has anyone successfully trained a model by splitting it across multiple GPUs? If so, could you recommend frameworks or approaches I should explore? I am specifically looking for full training, although I am interested in hearing if someone managed this using LoRA.
+
+Also, if there’s a more suitable subreddit for this type of question, please direct me to there.
+
+Thank you!",anilozlu,1habr8l,https://reddit.com/r/MachineLearning/comments/1habr8l/d_has_anyone_managed_to_train_an_llm_with_model/,https://www.reddit.com/r/MachineLearning/comments/1habr8l/d_has_anyone_managed_to_train_an_llm_with_model/,2024-12-09 15:06:32,4,0.83,4,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1habr8l
+MachineLearning,"[R] Diffusion Models, Image Super-Resolution, and Everything: A Survey","We are thrilled to share with you guys our latest survey paper on diffusion models applied to image super-resolution. You are welcome to take a look. It is also open access and published in IEEE TNNLS :) 
+
+
+
+arXiv: [https://arxiv.org/abs/2401.00736](https://arxiv.org/abs/2401.00736)",Maleficent_Stay_7737,1h9wrv6,https://reddit.com/r/MachineLearning/comments/1h9wrv6/r_diffusion_models_image_superresolution_and/,https://www.reddit.com/r/MachineLearning/comments/1h9wrv6/r_diffusion_models_image_superresolution_and/,2024-12-09 00:09:15,89,0.96,89,0,0,0,0,False,False,True,False,False,Research,self,t3_1h9wrv6
+MachineLearning,[P] Text-to-Video leaderboard: Compare State-Of-The-Art Text-To-Video Models,"Unlike text generation, text-to-video generation involves balancing realism, alignment, and artistic expression. But which one is the most important in terms of output quality?
+
+We don’t know, that’s why we created a voting-based Text-to-Video Model Leaderboard inspired by the LLM Leaderboard lmarena.ai.
+
+Currently, the leaderboard features five open-source models: HunyuanVideo, Mochi1, CogVideoX-5b, Open-Sora 1.2 and PyramidFlow, but we’re aiming to also include notable proprietary models from Kling AI, LumaLabs.ai and Pika.art.
+
+Here’s a link to the leaderboard: [link](https://t2vleaderboard.lambdalabs.com/leaderboard/).  
+We’d love to hear your thoughts, feedback, or suggestions. How do you think video generation models should be evaluated?",lambda-research,1ha54m0,https://reddit.com/r/MachineLearning/comments/1ha54m0/p_texttovideo_leaderboard_compare_stateoftheart/,https://www.reddit.com/r/MachineLearning/comments/1ha54m0/p_texttovideo_leaderboard_compare_stateoftheart/,2024-12-09 08:17:05,12,0.88,12,0,1,0,0,False,False,True,False,False,Project,self,t3_1ha54m0
+MachineLearning,[R] Monet: Mixture of Monosemantic Experts for Transformers,"**Paper**: [https://arxiv.org/abs/2412.04139](https://arxiv.org/abs/2412.04139)  
+**GitHub**: [https://github.com/dmis-lab/Monet](https://github.com/dmis-lab/Monet)
+
+**Monet** presents a novel approach to enhancing mechanistic interpretability in large language models (LLMs) through an innovative Sparse Mixture-of-Experts (SMoE) architecture. By directly incorporating sparse dictionary learning into end-to-end pretraining, **Monet** addresses the fundamental challenge of polysemanticity - where individual neurons respond to multiple unrelated concepts - while maintaining model performance.
+
+**Key Highlights:**
+
+* **Scalable Expert Architecture**: **Monet** introduces parameter-efficient expert decomposition methods that enable scaling to 262,144 experts per layer while ensuring total parameters scale proportionally to the square root of expert count.
+* **Monosemantic Experts**: Through fine-grained expert specialization, **Monet** achieves monosemantic experts that demonstrate mutual exclusivity of knowledge, allowing transparent observation of model behavior and parametric knowledge.
+* **Robust Knowledge Control**: The architecture enables precise manipulation of domain-specific knowledge, language capabilities, and toxicity mitigation without compromising general performance.
+
+**Why Monet?**
+
+Unlike traditional approaches using post-hoc reconstruction (like Sparse Autoencoders), **Monet** integrates interpretability directly into its architecture. This enables both transparent understanding of model internals and fundamental behavior control. By scaling monosemantic experts, Monet paves the way for more transparent and controllable language models.
+
+We’d love to hear your feedback, questions, or any other inquiries you may have!",affjljoo3581,1ha4inl,https://reddit.com/r/MachineLearning/comments/1ha4inl/r_monet_mixture_of_monosemantic_experts_for/,https://www.reddit.com/r/MachineLearning/comments/1ha4inl/r_monet_mixture_of_monosemantic_experts_for/,2024-12-09 07:31:34,5,0.7,5,0,0,0,0,False,False,True,False,False,Research,self,t3_1ha4inl
+MachineLearning,[D] Context-aware entity recognition using LLMs,"Can anybody suggest some good models that can perform entity recognition but using LLM-level context? Such models are generally LLMs fine-tuned for Entity Recognition.
+Usually, using traditional NER/ER pipelines, such as SpaCy's NER model, can only tag words that it has been trained on. Using LLMs fine-tuned for Entity Recognition (models such as GLiNER) can tag obscure entities, and not just basic entities such as Name, Place, Org, etc.",Ashwiihii,1h9stfq,https://reddit.com/r/MachineLearning/comments/1h9stfq/d_contextaware_entity_recognition_using_llms/,https://www.reddit.com/r/MachineLearning/comments/1h9stfq/d_contextaware_entity_recognition_using_llms/,2024-12-08 21:05:35,12,0.83,12,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1h9stfq
+MachineLearning,"[D] Is there such a thing as ""integrable programming""?","I come from a pure math background and have been getting up to speed at a new job in scientific AI/ML where I've been working a lot with JAX. JAX is great, love it, but I see a super common pattern where researchers will have a fully differentiable simulation and a couple of neural net architectures or something, but then there will be a bunch of relatively imprecise numerical estimations of integral values. Obviously I'm reading up on numerical methods and doing my best to restructure problems to solve more algebraically, but for my own curiosity, is there an equivalent of ""differentiable"" programming where you're handling ""integrable"" entities instead?
+
+Obviously, this would be a much harder class of problems since you can integrate...well, everything. And that's how you end up solving PDEs on compact supports with weird ugly Holder bounds. But are there computational approaches (or hell, differentiable programming strategies I should be aware of) that move in this direction? Are there nice natural algebraic properties to be leveraged? Can you use a computational graph the same sort of way? How about, like, valid ways to extend to ""weakly-differentiable"" functional programming?
+
+Hope this is relevant enough since it's learning JAX inspired...",redwingviking,1h9ty31,https://reddit.com/r/MachineLearning/comments/1h9ty31/d_is_there_such_a_thing_as_integrable_programming/,https://www.reddit.com/r/MachineLearning/comments/1h9ty31/d_is_there_such_a_thing_as_integrable_programming/,2024-12-08 21:56:30,8,1.0,8,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1h9ty31
+MachineLearning,[P] Looking for daily keyword search database (any platform),"Hey there,
+
+  
+After exhaustively searching Google and trying to find APIs that would allow me to generate keyword search or post or comment frequency on any platform on a *daily* basis, I have been unable to find any providers of this type of data. Considering that this is kind of a niche request, I am dropping this inquiry here for the ML Gods of Reddit to assist.
+
+Basically, I'm trying to create an ML model that can predict future increases/decreases in keyword usage (whether that be on Google Search or X posts; dosen't matter) on a daily basis. I've found plenty of monthly average keyword search providers but I cannot find any way to access more granulated, daily search totals for any platform. If you know of any sources for this kind of data, please drop them here... Or just tell me to give up if this is an impossible feat.",Appropriate-Touch515,1ha465g,https://reddit.com/r/MachineLearning/comments/1ha465g/p_looking_for_daily_keyword_search_database_any/,https://www.reddit.com/r/MachineLearning/comments/1ha465g/p_looking_for_daily_keyword_search_database_any/,2024-12-09 07:06:32,0,0.5,0,0,0,0,0,False,False,True,False,False,Project,self,t3_1ha465g
+MachineLearning,[P] 🥂 FineWeb2 dataset: A sparkling update with 1000s of languages,,PhilipsNostrum,1h9ep0e,https://reddit.com/r/MachineLearning/comments/1h9ep0e/p_fineweb2_dataset_a_sparkling_update_with_1000s/,https://huggingface.co/datasets/HuggingFaceFW/fineweb-2,2024-12-08 08:47:55,51,1.0,51,0,2,0,0,False,False,False,False,False,Project,https://b.thumbs.redditmedia.com/wJFr_ML_3llzyRU5cjBT-wmv2Y189rHFs1r363OriqY.jpg,t3_1h9ep0e

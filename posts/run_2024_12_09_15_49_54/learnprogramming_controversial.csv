@@ -1,0 +1,407 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,can security being enforced at code framework level instead of leaving it to programmers?,"Programmers often have significant freedom in how they write code, which can sometimes lead to security vulnerabilities. But is such flexibility truly necessary for productivity? Frameworks like Django already guide developers to follow specific patterns, such as the MTV architecture. Could frameworks evolve further to enforce security restrictions and prevent insecure coding practices by design, without compromising efficiency? How might we reimagine coding frameworks to balance productivity and security more effectively?",thothostory,1h9vt84,https://reddit.com/r/learnprogramming/comments/1h9vt84/can_security_being_enforced_at_code_framework/,https://www.reddit.com/r/learnprogramming/comments/1h9vt84/can_security_being_enforced_at_code_framework/,2024-12-08 23:22:38,0,0.41,0,0,9,0,0,False,False,True,False,False,,,t3_1h9vt84
+learnprogramming,How to know if I need rest api or something else?,"Hi guys, I would like to get some advices about api.
+
+How to know if I need rest api or an alternative?",Joy_Boy_12,1ha5lgv,https://reddit.com/r/learnprogramming/comments/1ha5lgv/how_to_know_if_i_need_rest_api_or_something_else/,https://www.reddit.com/r/learnprogramming/comments/1ha5lgv/how_to_know_if_i_need_rest_api_or_something_else/,2024-12-09 08:53:26,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1ha5lgv
+learnprogramming,Data Analyst &gt; SWE feasible?,"I'm a Senior Data Analyst and have been accepted onto a Conversion MSC in CS at Uni of Liverpool (part-time study whilst I work my analytics job).
+
+Is it worthwhile spending 2.5yrs doing this? It would be 20hrs pw on top of my full-time role.
+
+I earn £45k now at 28 years old, and would be 30 when I finish this masters. l've done python courses etc in the past and enjoyed it at the time.",12fitness,1h9ulcz,https://reddit.com/r/learnprogramming/comments/1h9ulcz/data_analyst_swe_feasible/,https://www.reddit.com/r/learnprogramming/comments/1h9ulcz/data_analyst_swe_feasible/,2024-12-08 22:25:26,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1h9ulcz
+learnprogramming,I need advice on what to do.,"Hi guys! I need some advice for what sould i do in the next few months. I learn fullstack web since 6 months. I use HTML, CSS (scss), Jquery, mySQL and basically native PHP. I coded a full unique webshop admin, and one unique coded webshop with one product in category. So my question is, what sould i learn to be relevant in the IT? I thinking between at swift and c++ and java. What is the good option in the future? Can i stay in a php just in OOP, maybe Laravel if i want a job in 2025?  
+I would also like to learn app development and software, so i'm really open for that :D",AmBendeer,1h9qqzn,https://reddit.com/r/learnprogramming/comments/1h9qqzn/i_need_advice_on_what_to_do/,https://www.reddit.com/r/learnprogramming/comments/1h9qqzn/i_need_advice_on_what_to_do/,2024-12-08 19:33:51,0,0.4,0,0,3,0,0,False,False,True,False,False,,,t3_1h9qqzn
+learnprogramming,"How to make an app to a tool for an app? For example, that apps that get statistics and give tips to some games, how is that possible what i need to learn first?","I was looking to make an league of legends tool, but how to get the data",lexesm,1h9n62t,https://reddit.com/r/learnprogramming/comments/1h9n62t/how_to_make_an_app_to_a_tool_for_an_app_for/,https://www.reddit.com/r/learnprogramming/comments/1h9n62t/how_to_make_an_app_to_a_tool_for_an_app_for/,2024-12-08 16:57:32,0,0.4,0,0,1,0,0,False,False,True,False,False,Tutorial,,t3_1h9n62t
+learnprogramming,Mandatory limit on lines of code in a function?,"I'm not new to programming but I have to take this course for my BSc, and apparently they decided to put a limit of 16 lines of code per function, including main. is this unreasonable? I feel like there comes a point where trying to tidy up code like that becomes even more uncomfortable than not. Obviously familiar with the ""don't repeat yourself"" mindset but I just wanted to hear opinions on this.",Spicy_burritos,1h9mvly,https://reddit.com/r/learnprogramming/comments/1h9mvly/mandatory_limit_on_lines_of_code_in_a_function/,https://www.reddit.com/r/learnprogramming/comments/1h9mvly/mandatory_limit_on_lines_of_code_in_a_function/,2024-12-08 16:44:24,28,0.77,28,0,93,0,0,False,False,True,False,False,,,t3_1h9mvly
+learnprogramming,Help me!!!,Why do I feel stuck/suffocated when it comes to coding? I have been great in school. I am blessed with a great brain. I can excel in any subject I choose but do I get this feeling when it comes to coding? what is the right strategy?,codingQueen19,1h9w1gr,https://reddit.com/r/learnprogramming/comments/1h9w1gr/help_me/,https://www.reddit.com/r/learnprogramming/comments/1h9w1gr/help_me/,2024-12-08 23:33:39,0,0.36,0,0,9,0,0,False,False,True,False,False,,,t3_1h9w1gr
+learnprogramming,recommend me an app that creates GUI for C/C++,"right now iam doing an Embedded C project on Texas Tiva C for My Embedded Programming Course, 
+
+one of the requirements is to make a GUI to control specific things in the Tiva using UART protocol, all of this is new to me btw
+
+in my previous projects i was tasked with something liek this before but failed, i Used Wxwidgets and Qt Designer
+
+After i done the whole Projects with Wxwidgets, i have lots and lots of compatibility issues, so scrapped it, and QT designer was a bit better but the way i got it is that a m8 sent me a file (not the setup file, the preextracted one), which was obvusily missing things, and wasnt working on my device correctly, and he said works on my machine, cuz duh u set it up with an installer
+
+So yeah bad experience with qt designer 
+
+i want one that isnt too heavy and not liek 10GBs in size just to make a Simple GUI, i really Liked WxWidgets but yeah the compatibility issues
+
+",Bebo991_Gaming,1haajjn,https://reddit.com/r/learnprogramming/comments/1haajjn/recommend_me_an_app_that_creates_gui_for_cc/,https://www.reddit.com/r/learnprogramming/comments/1haajjn/recommend_me_an_app_that_creates_gui_for_cc/,2024-12-09 14:10:10,3,0.71,3,0,4,0,0,False,False,True,False,False,Tutorial,,t3_1haajjn
+learnprogramming,Should I go back to school for programming or do a bootcamp?,I’ve been a WordPress developer for the last decade building basic marketing sites. Over the past 2 years I’ve been trying to learn Next.js and capable of building really nice relatively simple sites. I want to shift my career to that direction but feel a bit intimidated by most job post. Should I go back to school to learn React/Next or is it recommended to do a bootcamp?,No-Praline8782,1ha9eck,https://reddit.com/r/learnprogramming/comments/1ha9eck/should_i_go_back_to_school_for_programming_or_do/,https://www.reddit.com/r/learnprogramming/comments/1ha9eck/should_i_go_back_to_school_for_programming_or_do/,2024-12-09 13:11:59,4,0.75,4,0,8,0,0,False,False,True,False,False,,,t3_1ha9eck
+learnprogramming,CS50 Final Project Ideas,"For anyone who has done CS50, I'm trying to think of some projects. I've thought of a few I want to attempt but I'm not sure there will be enough knowledge to implement them since I'm only on week 5 of the class.
+
+First is either a text based of ASCII based RPG. I'd assume a text based one wouldn't be too hard. I could have a few classes and stats, but I don't know how I'd code the enemies and make it challenging enough to be able to fail. This however would probably be a project that would help me gain a ton of experience. I'm not sure if I'd be able to do this though with the level of experience gained in CS50. It may be worth doing in a language other than C.
+
+The second idea, which is also probably complex is a minecraft skin maker. Basically a simple pixel based editor. A lot of people say to learn it, to solve a problem. However I don't have anything I can think of that needs solving. I am extremely interested in CS, but I'm not experienced enough in programming to recognize things I do on the daily.
+
+The only other thing I could think of, that may be hard at this point in time, is to find a way to program a calendar that would be able to take the appointments and things my wife have to do from IOS and Android and consolidate it into one calendar. 
+
+Any suggestions or ideas? Thanks.",ThrowawayGuidance24,1ha8aee,https://reddit.com/r/learnprogramming/comments/1ha8aee/cs50_final_project_ideas/,https://www.reddit.com/r/learnprogramming/comments/1ha8aee/cs50_final_project_ideas/,2024-12-09 12:09:16,0,0.5,0,0,0,0,0,False,False,True,False,False,Topic,,t3_1ha8aee
+learnprogramming,Please Guide me a bit ,"Hey there, So I am someone who is new to industry , I know basic Data structures and Algorithms, DBMS and OS concepts ( the usual go to for knowledge for freshers). I got a job but wanted to upskill myself. I know decent react js (frontend now kinda pointless due to Chatgpt?). 
+
+I wanted to ask you guys how you would approach learning skills which would help me get a better job ( I enjoy learning so that part isn't an issue) like there is so much one can go to - Node js, Next js, Ruby , Go, Docker etc. I am more into conventional Software developer role and wanted to ask for some guidance.
+
+And yeah I know a bit about the jobs or career paths available like AI/ML, Software developer, Devops etc.
+
+According to what I have been told Devops is kind of a plateued role? And AI/ML for sure seems to be booming but I do not have much idea on how to go on further about these ( Not more than Google XD). So please tell me what could be the future scopes in these jobs and what I should learn to approach them professionally.
+
+Thanks in advanced!",Heheboix69,1ha7k7r,https://reddit.com/r/learnprogramming/comments/1ha7k7r/please_guide_me_a_bit/,https://www.reddit.com/r/learnprogramming/comments/1ha7k7r/please_guide_me_a_bit/,2024-12-09 11:22:03,0,0.5,0,0,5,0,0,False,False,True,False,False,Resource,,t3_1ha7k7r
+learnprogramming,Web Programming project help,"Is this a good place to ask for help with web programming? I am in desperate need of assistance. I have a project due where I need to create a Blackjack game with the following functionality:
+
+
+
+a) ""Splitting"" capability: What is splitting? If you hold two cards with the same value, like two eights or two sixes, you can split them into separate hands and play each hand individually. For this project, once the two cards are split, they should be treated as two separate hands, each with its own ""hit,"" ""stay,"" and ""split"" (if the two cards are the same) buttons. To achieve this, I need to add a button that appears only when the player holds two identical cards, and otherwise stays hidden. Once the button is clicked, the two cards should be split into two hands.
+
+
+
+b) ""Reset"" capability: Currently, the game can only be reset by refreshing the page. I need to create a button that resets the game environment and starts a new game by clearing the scores and cards, without refreshing the page.
+
+
+
+c) Disable ""hit"" button: When the player's total exceeds 21, the ""hit"" button should be disabled and grayed out to prevent further action, until the game is reset or a new game begins.
+
+
+
+I’ve managed to get b) and c) working, but no matter what I try, I haven’t been able to get splitting to work. Additionally, I need to add a backlog feature that tracks matches, pauses, and records the player's progress, so users can return to their previous place in the game.
+
+
+
+I’ve tried everything and I'm at my wit's end. I’ve talked to my professor, but he can only help during office hours and doesn’t respond to emails frequently. I’ve asked a friend, but they don’t know much about web programming. I’ve also talked to a cousin, and since my class doesn’t have a TA, I can’t ask them. I’ve searched YouTube and asked ChatGPT for help, but nothing has worked so far, and I’m running out of time. I need to finish this by Wednesday. I’m not sure what else to do.  here is what I have so far:",kk_slider346,1ha4io1,https://reddit.com/r/learnprogramming/comments/1ha4io1/web_programming_project_help/,https://www.reddit.com/r/learnprogramming/comments/1ha4io1/web_programming_project_help/,2024-12-09 07:31:35,0,0.5,0,0,10,0,0,False,False,True,False,False,Debugging,,t3_1ha4io1
+learnprogramming,Seeking Advice for Implementation,"
+
+Hi r/learnprogramming ! 👋
+
+I'm a Salesforce developer with a bit of experience in web development and Java from about 10 years ago. A couple of friends need a tool to help them with the logistics of serving cocktails for events which should include features for adding, editing, and deleting cocktails from a database and calculating ingredient quantities based on the number of participants.
+
+# Project Overview:
+
+* **Functionality**:
+   * Manage a database of cocktails (name, ingredients, quantity).
+   * Calculate ingredient quantities based on selected cocktails and number of participants.
+   * Nice-to-have in the feature: being able to export a file with the list of ingredient, calculate the number of glasses required ect
+
+# My Goals:
+
+1. **Ease of Use**: The tool needs to be easy to use for someone who isn’t a developer. Ideally, it should work on someone’s personal computer without requiring any special setup.
+2. **Portability**: I want to ensure that anyone can use this tool without needing to install additional software or perform complex configurations.
+3. **Long-Term Maintainability**: Considering my last serious web project was nearly a decade ago, I’m seeking advice on modern best practices to ensure the project remains maintainable and can be easily improved or expanded in the future.
+
+# Questions:
+
+1. **Which Tech Stacks would you recommand me to base my project on?** I've thinking of maybe an local website using HTML/JS but I dont know how to easily handle the database 
+2. **How can I make this project easily portable and usable on someone else's computer?** What setup steps would be needed from an end-user perspective?
+3. **What are the best practices for managing a simple local database in this context?** Are there any tools or framework that I can use?
+
+Additional Information:
+
+1. As a Salesforce dev, I am comfortable with object programming logic (the Salesforce language is close to Java), I do JS/HTML5/CSS and SOQL
+
+Thank you in advance for your insights and suggestions!",Miopau,1ha3tks,https://reddit.com/r/learnprogramming/comments/1ha3tks/seeking_advice_for_implementation/,https://www.reddit.com/r/learnprogramming/comments/1ha3tks/seeking_advice_for_implementation/,2024-12-09 06:42:59,0,0.5,0,0,3,0,0,False,False,True,False,False,Resource,,t3_1ha3tks
+learnprogramming,Which approach to take?,"Should I complete a course after course for learning html,css,javascript and stack like mern.....or start with a concept of a project and learn whatever is necessary along the way to build it.Which approach is good.And how to succeed in this path",GullibleTree1243,1h9skgt,https://reddit.com/r/learnprogramming/comments/1h9skgt/which_approach_to_take/,https://www.reddit.com/r/learnprogramming/comments/1h9skgt/which_approach_to_take/,2024-12-08 20:54:31,0,0.5,0,0,10,0,0,False,False,True,False,False,,,t3_1h9skgt
+learnprogramming,Need help with git hub,for some reason when I open my site on github it just shows a blank whit page was wondering if anyone could help me. [https://github.com/ethanwilson902/portfolio-website-ethan-wilson](https://github.com/ethanwilson902/portfolio-website-ethan-wilson),Substantial_Put5540,1h9o8id,https://reddit.com/r/learnprogramming/comments/1h9o8id/need_help_with_git_hub/,https://www.reddit.com/r/learnprogramming/comments/1h9o8id/need_help_with_git_hub/,2024-12-08 17:44:24,0,0.5,0,0,7,0,0,False,False,True,False,False,,,t3_1h9o8id
+learnprogramming,How can I improve my PHP/Web development workflow as a solo hobbyist?,"I'm developing a PHP/MySQL application, for frontend assets I'm using NPM (node-sass) to compile/minimise SCSS and Javascript.
+
+**My current setup:**
+
+OS: Windows 10
+
+Dev environment (Laragon):
+
+PHP 8.2.5
+
+MySQL 8.0.30
+
+Editor: VS Code
+
+Command line tools:
+
+Git
+
+Composer
+
+NPM
+
+FTP: WinSCP
+
+Host: Cloudways
+
+**Development workflow:**
+
+I've created a sub-folder in my Laragon www folder which I've initialised with Git. I've also initialised some assets folders with SCSS and javascript to compile with node-sass so I run the command npm run css:watch which compiles the css on every save to my SCSS.
+
+To get in the flow I have to -
+
+1 - Start up my PC (I turn it off every night)
+
+2 - Open windows terminal from my toolbar
+
+3 - CD into my main folder which would be in laragon, e.g. C:\\laragon\\www\\test-app
+
+4 - Type ""code ."" to open the project in vs code
+
+5 - Make changes to my code then open WinSCP and then manually FTP the file to my staging site to test.
+
+**Issues:**
+
+The biggest slowdown is DB schema changes as I add features. I have to make the exact same DB changes to my staging and then live applications. Transferring files across is kind of easy but it would be much easier to be developing on my local machine with exactly the same environment as my live host and then be able to just push all changes to my live host without affecting the live data.
+
+How can I improve my workflow? I'd love to have it so that as soon as I save a file it reloads my browser to reflect the changes instantly and then quickly deploy any changes to my database or files to my staging site and then to my live site after testing.",AberrantNarwal,1h9l6vx,https://reddit.com/r/learnprogramming/comments/1h9l6vx/how_can_i_improve_my_phpweb_development_workflow/,https://www.reddit.com/r/learnprogramming/comments/1h9l6vx/how_can_i_improve_my_phpweb_development_workflow/,2024-12-08 15:27:54,0,0.33,0,0,0,0,0,False,False,True,False,False,,,t3_1h9l6vx
+learnprogramming,How a website like this is made?,"Hello, I hope you're doing well. Today I have a question related to how a website like this is made:
+
+[https://www.photopea.com/](https://www.photopea.com/)
+
+As you can see, it's a Photoshop clone, but running on the browser is impressive to me! I don't know how it is built. Is this web assembly?",TerryFitzgerald,1ha7al5,https://reddit.com/r/learnprogramming/comments/1ha7al5/how_a_website_like_this_is_made/,https://www.reddit.com/r/learnprogramming/comments/1ha7al5/how_a_website_like_this_is_made/,2024-12-09 11:03:14,10,0.76,10,0,6,0,0,False,False,True,False,False,,,t3_1ha7al5
+learnprogramming, How to Simulate Realistic Bus Movement on a Map for a Hackathon Demo?,"I'm building a real-time bus tracking application for a hackathon, and it's almost complete. However, I'm stuck on simulating bus movement on the map for the demo.
+
+Currently, if I change the latitude and longitude of a bus through Postman, the bus jumps instantly to that location on the frontend. While this works technically, it doesn’t feel realistic.
+
+For the hackathon demo, I want to show the bus moving smoothly on the map to make it look more natural. We’re simulating the bus position using the driver’s phone location (no GPS device involved).
+
+How can I simulate this movement to look continuous and realistic? Any ideas or tips for making the demo more impressive would be greatly appreciated! Thanks in advance! 😊",Ok-Childhood-5005,1ha3jtb,https://reddit.com/r/learnprogramming/comments/1ha3jtb/how_to_simulate_realistic_bus_movement_on_a_map/,https://www.reddit.com/r/learnprogramming/comments/1ha3jtb/how_to_simulate_realistic_bus_movement_on_a_map/,2024-12-09 06:24:30,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1ha3jtb
+learnprogramming,Something isn't working. I need advice.,"I'm a first-year undergrad studying Business. For the past year, I have been working full-stack, using React and React Native as the frontends. I loved it. I started with React, but soon realized that I should be more focused on mobile development to align myself with my goals, so I naturally went to React Native. 
+
+I used RN for 7-8 months, and while I enjoyed coding with RN, I kept hitting limitations. Complex animations are near-impossible with RN, and theres just so many small little features, such as 'blur', that are just one line of code when programming natively for Android or iOS, but give so much headache in RN. So, I started learning Swift and SwiftUI, and have been using it exclusively for the last 2 months.
+
+Unlike when I started with React and RN, I decided to really get myself to understand the ins and outs of Swift and follow a more established path to learning it. I read many comprehensive books and followed many tutorials on it, and I, now, have a very solid foundation, and can comfortably navigate myself through it. But I've come to realize: I hate Swift. I hate Apple.
+
+I've always used Windows. I've always viewed MacOS negatively. Though, to program natively for iOS, you need to use a MacOS. Now, over the past 2 months, I've gotten used to using a mac, but I simply just prefer windows for everything. If I'm programming, I'll have my windows and my mac open, and I would do any research on my windows, and code on mac. If I'm designing a UI, I would do everything on my windows, but use my mac to occasionally paste svg icons from SF Symbols (which aren't available to windows, thanks Apple). I have an Iphone, I have an Apple watch, I have airpods, but I just hate macs.
+
+But the worst part is XCode. I genuinely hate XCode with a passion. It's a good IDE, don't get me wrong, but I despise Apple's dedication to giving its developers the least amount of customization possible. With VSCode, you are able to download any extension, and customize it in basically any way you can imagine. I love the open-source community.
+
+Alright, lets move onto Swift and SwiftUI. It feels... weird? I've had experience with JavaScript, Python, and even a little bit of C#, but Swift just feels really weird to me. It has a lot of features right out of the box, such as app storage and environmental variables, whereas with RN, I had to manually spend hours configuring Redux Toolkit and storage persistence. But, I'm realizing now that I much enjoyed writing all that boilerplate code for the external libraries to make applications using RN. I miss the feeling of taking so many open-source contributions, reading documentation on them, and then implementing them into my project. Some had really good docs, which felt amazing to see, some were more frustrating with hard-to-follow docs. I miss the feeling of having this variety. Every NPM package was a different package and you knew what each one did. In Swift, ofcourse there are packages, ofcourse there is the Swift package manager, but working with Swift just feels like you're working with one project, and everything is just supplied to you, barely any variant.
+
+And all of this just destroys my motivation to code every time I sit down. There were, unavoidably, headaches and hardships with React and React Native, but atleast I enjoyed it. Now I just feel like I'm being forced to work with software I hate and at the same time supporting a company I hate. But I need to use Swift. I need to develop for iOS, and there is nothing that comes near to the power of Swift for iOS development.
+
+TDLR; I hate Swift. I hate Xcode. I hate Apple. I hate Macs. How can I make myself more motivated to work with Swift.",RareDestroyer8,1ha38pa,https://reddit.com/r/learnprogramming/comments/1ha38pa/something_isnt_working_i_need_advice/,https://www.reddit.com/r/learnprogramming/comments/1ha38pa/something_isnt_working_i_need_advice/,2024-12-09 06:03:38,1,0.67,1,0,6,0,0,False,False,True,False,False,,,t3_1ha38pa
+learnprogramming,Looking for an English online platform to learn Programming in Germany,"Hello , i am looking for any free online classes to learn programming. I am a beginner and My English isn’t that good but i believe i can communicate. Could you please suggest me any best fast online learning platform to build my career where i can interreact with other learners and learn quickly. Thank you so much . ",EssayEnvironmental50,1h9sj8e,https://reddit.com/r/learnprogramming/comments/1h9sj8e/looking_for_an_english_online_platform_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h9sj8e/looking_for_an_english_online_platform_to_learn/,2024-12-08 20:53:03,0,0.33,0,0,3,0,0,False,False,True,False,False,,,t3_1h9sj8e
+learnprogramming,Books that are always on your desk help you during programming,"As i mentioned, what are the books that are always on your desk and help you during programming?
+
+ And if you have a good book that helps with programming and understanding computers in general,  I would really appreciate it if you could mention it to me.",amadeus_004_SG,1h9l6bx,https://reddit.com/r/learnprogramming/comments/1h9l6bx/books_that_are_always_on_your_desk_help_you/,https://www.reddit.com/r/learnprogramming/comments/1h9l6bx/books_that_are_always_on_your_desk_help_you/,2024-12-08 15:27:07,64,0.9,64,0,39,0,0,False,False,True,False,False,,,t3_1h9l6bx
+learnprogramming,"After opening exe file for minGW, it shows ""Getting Repository Description File"" and then nothing happens, is there something wrong with my laptop?","After downloading minGW from the internet, I click on the .exe file to install it, it shows the first screen where I click ""NEXT"" and then another window pops up saying ""Creating repository description file..."" and then nothing comes up.   
+Side note: I have WSL and Ubuntu in my Windows PC, I was wondering if that is stopping minGW from installing? Please advice, I am trying to learn C programming and I feel like compiling in minGW is far better than WSL and Ubuntu. Thanks!",Plenty_Yam_672,1haafeh,https://reddit.com/r/learnprogramming/comments/1haafeh/after_opening_exe_file_for_mingw_it_shows_getting/,https://www.reddit.com/r/learnprogramming/comments/1haafeh/after_opening_exe_file_for_mingw_it_shows_getting/,2024-12-09 14:04:34,2,0.67,2,0,0,0,0,False,False,True,False,False,,,t3_1haafeh
+learnprogramming,Programming for young learners ,"I have a son who is 6.  We currently don’t allow much screen time or iPad time.  However, I wanted to start him down the journey of learning programming, so an exception will be made. I know the future is difficult to predict but what do you think would be useful? Are there any products/apps that will help build a baseline as far as thinking and problem solving that would be useful?
+
+Any advice would be welcomed.  Thank you in advance.  ",Adamesquire,1ha8vr7,https://reddit.com/r/learnprogramming/comments/1ha8vr7/programming_for_young_learners/,https://www.reddit.com/r/learnprogramming/comments/1ha8vr7/programming_for_young_learners/,2024-12-09 12:43:58,0,0.25,0,0,8,0,0,False,False,True,False,False,,,t3_1ha8vr7
+learnprogramming,where should i start (mobile app development)?,"i took algorithms and data structures (C++), discrete math and computers architecture, thats all my CS knowledge. 
+
+I was looking to learn app development on my own now that i have a ton of free time, i am looking for a course to take and hopefully learn app development (android).
+
+which course do you suggest? ",Disastrous-Bat1277,1h9ptj0,https://reddit.com/r/learnprogramming/comments/1h9ptj0/where_should_i_start_mobile_app_development/,https://www.reddit.com/r/learnprogramming/comments/1h9ptj0/where_should_i_start_mobile_app_development/,2024-12-08 18:53:21,2,0.75,2,0,5,0,0,False,False,True,False,False,,,t3_1h9ptj0
+learnprogramming,Solving Wordle With Regex,"Hi there r/learnprogramming,
+
+I wanted to post an article I've been working on about solving Wordle using regex (specifically using grep). This has helped me become more proficient with regex and is a lot of fun to do. A simple CLI tool I developed with Python called [wordgradient](https://github.com/ctosullivan/WordGradient) is also mentioned in the article. Hopefully this can be helpful for someone else out there!
+
+[https://cosullivan.dev/2024/12/08/Solving-Wordle-With-Grep.html](https://cosullivan.dev/2024/12/08/Solving-Wordle-With-Grep.html)",ctosullivan,1h9s53v,https://reddit.com/r/learnprogramming/comments/1h9s53v/solving_wordle_with_regex/,https://www.reddit.com/r/learnprogramming/comments/1h9s53v/solving_wordle_with_regex/,2024-12-08 20:35:41,13,0.85,13,0,1,0,0,False,False,True,False,False,,,t3_1h9s53v
+learnprogramming,am i taking the right decision? ,"im an information systems engineer student (it has some similarities with CS), second year. 
+
+  
+in 3 months summer break ends and i will face a very feared class which involves coding an operating system and i thought that it would be a good idea to learn more about programming. 
+
+currently i feel interested to learn how to develop an android mobile app (as i have an android) so i found an android course which uses kotlin as the language and im a bit skeptical of this as kotlin is mostly used in android mobile app dev (really specific niche, my degree focuses on more of an understanding of the entire process of the development of the product) so im a bit scared that learning kotlin which might never be useful to me. Maybe learning java would be better but i cant find any recommended course and i dont want to hop on a random course either. (Dont get me wrong, if you tell me that kotlin could be a useful language to learn aside from android development im staying with the course i found which was recommended to me).
+
+what would you do? 
+
+CS classes i took: algorithms and data structures (C++), discrete math and computers architecture
+
+",Disastrous-Bat1277,1ha2aml,https://reddit.com/r/learnprogramming/comments/1ha2aml/am_i_taking_the_right_decision/,https://www.reddit.com/r/learnprogramming/comments/1ha2aml/am_i_taking_the_right_decision/,2024-12-09 05:04:50,3,0.8,3,0,6,0,0,False,False,True,False,False,,,t3_1ha2aml
+learnprogramming,My Python Code is calculating cube roots wrong for some reason.,"UPDATE: I fixed the problem  
+The code is as follows:
+
+    import math
+    import cmath
+    def cubic(a,b,c,d):
+      constant_1 = ((b*b*b)*-1) / (27*(a**3)) + ((b*c) / (6*a*a)) - d/(2*a)
+      constant_2 = (c/(3*a) - b**2 / (9*a*a))**3
+      result_1 =  ((constant_1 + cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) + ((constant_1 - cmath.sqrt(constant_2 + constant_1 ** 2)))** (1/3) - b/(3*a)
+      result_2 = (-0.5 + (cmath.sqrt(-1)*cmath.sqrt(3))/2) * ((constant_1 + cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) + (-0.5 - cmath.sqrt(-1)*cmath.sqrt(3)/2) * ((constant_1 - cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) - b/(3*a)
+      result_3 = (-0.5 - (cmath.sqrt(-1)*cmath.sqrt(3))/2) * ((constant_1 + cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) + (-0.5 + cmath.sqrt(-1)*cmath.sqrt(3)/2) * ((constant_1 - cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) - b/(3*a)
+      return result_1, result_2,result_3
+    #test case
+    print(cubic(-1,1,1,-1))
+
+For reference, this code is using the cubic formula to calculate roots of a cubic.  
+Now, I want to direct your attention to the part where I raise the part of the results to the third power (the ""(constant\_1 + cmath.sqrt(constant\_2 + constant\_1 \*\* 2))\*\*(1/3)""  part). This should be equal to the cube root of the number, however I have found this part of the code is creating problems for some reason. More specifically, when the number being raised is negative, things tend to go very wrong. Is there a reason why this is occuring? What's a possible fix for this?",ElegantPoet3386,1ha3mny,https://reddit.com/r/learnprogramming/comments/1ha3mny/my_python_code_is_calculating_cube_roots_wrong/,https://www.reddit.com/r/learnprogramming/comments/1ha3mny/my_python_code_is_calculating_cube_roots_wrong/,2024-12-09 06:29:49,7,0.89,7,0,8,0,0,False,False,True,False,False,Solved,,t3_1ha3mny
+learnprogramming,"Is anyone else glad they learned coding before chatgpt, some of the new programmers I know are seriously handicapped because its all they've used.",I feel like people that learned to code with chatgpt don't actually understand how most of the code works they just know how to keep prompting chatgpt until broken code is fixed.,Swimming-Control-872,1h9s16v,https://reddit.com/r/learnprogramming/comments/1h9s16v/is_anyone_else_glad_they_learned_coding_before/,https://www.reddit.com/r/learnprogramming/comments/1h9s16v/is_anyone_else_glad_they_learned_coding_before/,2024-12-08 20:30:50,801,0.96,801,0,173,0,0,False,False,True,False,False,,,t3_1h9s16v
+learnprogramming,Should I Learn More Sorting Algorithms or Move to Recursion and Trees?,"Hi everyone,  
+I’m a self-taught developer currently learning DSA. So far, I’ve covered:
+
+* Searching: Linear Search, Binary Search
+* Sorting: Bubble Sort, Insertion Sort, Selection Sort
+
+As a beginner, do I need to learn more sorting algorithms like Merge Sort, Quick Sort, etc., or should I move on to other topics like recursion, trees, or linked lists?
+
+I’m trying to balance learning DSA while improving my problem-solving skills, so I’d love some advice from experienced learners and developers.
+
+Thanks for your guidance!",sahilnegii,1ha3bb1,https://reddit.com/r/learnprogramming/comments/1ha3bb1/should_i_learn_more_sorting_algorithms_or_move_to/,https://www.reddit.com/r/learnprogramming/comments/1ha3bb1/should_i_learn_more_sorting_algorithms_or_move_to/,2024-12-09 06:08:32,9,0.91,9,0,11,0,0,False,False,True,False,False,,,t3_1ha3bb1
+learnprogramming,I dont know anything :( i want to learn but couldnt even start :(,"hi guys! i started to study computer science this year but i dont know anything LIKE NOTHING AT ALL about coding. we have to learn c, we started with c i dont know why. Someone said first I should learn data s. and algorithms. so i started to watch youtube videos but the guy(bro code) showing them on java.And i am confused right now because i saw another video named data structures using c/c++ (freecodecamp) i thought its all common basics in every [language.Is](http://language.Is) programming language makes difference on this topic or can i watch any videos about data s. and algorithms? Can someone help me plsss?",Lost_eliff7,1h9ufe7,https://reddit.com/r/learnprogramming/comments/1h9ufe7/i_dont_know_anything_i_want_to_learn_but_couldnt/,https://www.reddit.com/r/learnprogramming/comments/1h9ufe7/i_dont_know_anything_i_want_to_learn_but_couldnt/,2024-12-08 22:18:10,7,0.75,7,0,12,0,0,False,False,True,False,False,,,t3_1h9ufe7
+learnprogramming,Past 6 month reddit posts and comments,"Hello everyone,
+I am doing a NLP project which requires me to scrape reddit data ( only around 7 subreddit data) for last 6 months ( or maybe less but need at least 2 month data).
+
+I have tried PRAW but 1000 posts is the limit and is insufficient.
+Tried to use pushshift but it is only for reddit moderators.
+
+Now I am not sure on how to proceed forward. Can someone suggest me something ?
+
+Note: I am pretty new to this and only know intermediate python.",Commercial-Fly-6296,1habbe2,https://reddit.com/r/learnprogramming/comments/1habbe2/past_6_month_reddit_posts_and_comments/,https://www.reddit.com/r/learnprogramming/comments/1habbe2/past_6_month_reddit_posts_and_comments/,2024-12-09 14:46:58,1,1.0,1,0,2,0,0,False,False,True,False,False,Topic,,t3_1habbe2
+learnprogramming,Rabbit Hole? OR Treasure Hunt?,"How would i approach my problem of deep diving/going into rabbit holes ...Today i encountered a C program  with dirent.h library. I literally spent 2 hours in getting to know what DIR structure is and where it is defined? Is it worth the time i spent or should i just change myself?   
+Is this a rabbit hole or is there any treasure (benefit) of this hunt?",Weird_Ego_2005,1haartt,https://reddit.com/r/learnprogramming/comments/1haartt/rabbit_hole_or_treasure_hunt/,https://www.reddit.com/r/learnprogramming/comments/1haartt/rabbit_hole_or_treasure_hunt/,2024-12-09 14:21:19,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1haartt
+learnprogramming,"Why isn't minGW working? After I run the downloaded exe file, it shows only one window of ""getting repository description file"" and then closes, nothing happens.","After downloading minGW from the internet, I click on the .exe file to install it, it shows the first screen where I click ""NEXT"" and then another window pops up saying ""Creating repository description file..."" and then nothing comes up.
+
+Side note: I have WSL and Ubuntu in my Windows PC, I was wondering if that is stopping minGW from installing? Please advice, I am trying to learn C programming and I feel like compiling in minGW is far better than WSL and Ubuntu. Thanks!",Plenty_Yam_672,1haaqnp,https://reddit.com/r/learnprogramming/comments/1haaqnp/why_isnt_mingw_working_after_i_run_the_downloaded/,https://www.reddit.com/r/learnprogramming/comments/1haaqnp/why_isnt_mingw_working_after_i_run_the_downloaded/,2024-12-09 14:19:44,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1haaqnp
+learnprogramming,What's the Most Effective Strategy for Beginners to Improve on LeetCode?,"I’ve seen so many different approaches and strategies, and I’m not sure which one is best for a beginner like me. Every time I try to learn LeetCode, I just forget the approach after a while, and most of the time I cannot solve it on my own and I end up referring to the solutions.
+
+What’s the best way to learn and improve effectively on LeetCode?",Ill-Acanthaceae-9621,1haach3,https://reddit.com/r/learnprogramming/comments/1haach3/whats_the_most_effective_strategy_for_beginners/,https://www.reddit.com/r/learnprogramming/comments/1haach3/whats_the_most_effective_strategy_for_beginners/,2024-12-09 14:00:54,6,0.81,6,0,9,0,0,False,False,True,False,False,,,t3_1haach3
+learnprogramming,Beginner on a tablet,"I only have access to a tablet and can not be on internet 24/7. It is a rooted device and just want to learn some things instead of just wasting my time. I'm locked up and want to know what is a good thing to learn so I can get some google certs, I've heard their good. If anyone could give me some tips on what to do that would be much appreciate it. Consider me a novice. I really would like to get into hacking, I browse dn often with tor just to research things.Also, on limited room with the device so keep in mind of that. Really any thing that might be beneficial Im business oriented.",Mercfulx,1ha2alp,https://reddit.com/r/learnprogramming/comments/1ha2alp/beginner_on_a_tablet/,https://www.reddit.com/r/learnprogramming/comments/1ha2alp/beginner_on_a_tablet/,2024-12-09 05:04:47,1,0.99,1,0,1,0,0,False,False,True,False,False,,,t3_1ha2alp
+learnprogramming,"""Failed to load texture. Error: Parameter 'renderer' is invalid"" with SDL2","Hi I'm a beginner in c++ and SDL2 and I'm following [a tutorial](https://youtu.be/Freo9BiSLbE?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS), this is the exact same code he put in. The program runs, but I get the error ""Failed to load texture. Error: Parameter 'renderer' is invalid"". I'm sorry if this is a stupid question, I'm just getting started with c++ and SDL2. I have no idea how to fix this...
+
+I have 3 files,
+
+This is renderwindow.cpp
+    
+    #include ""SDL.h""
+    #include ""SDL_image.h""
+    
+    #include ""RenderWindow.hpp""
+    #include &lt;iostream&gt;
+    
+    RenderWindow::RenderWindow(const char* p_title, int p_w, int p_h)
+    	:window(NULL), renderer(NULL)
+    {
+    	if (SDL_CreateWindow(p_title, SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, p_w, p_h, SDL_WINDOW_SHOWN))
+    
+    		if (window == NULL)
+    		{
+    			std::cout &lt;&lt; ""Window failed to init. Error: "" &lt;&lt; SDL_GetError() &lt;&lt; std::endl;
+    		}
+    	renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
+    }
+    
+    SDL_Texture* RenderWindow::loadTexture(const char* p_filePath)
+    {
+    	SDL_Texture* texture = NULL;
+    	texture = IMG_LoadTexture(renderer, p_filePath);
+    
+    	if (texture == NULL)
+    		std::cout &lt;&lt; ""Failed to load texture. Error: "" &lt;&lt; SDL_GetError() &lt;&lt; std::endl;
+    
+    	return texture;
+    }
+    void RenderWindow::cleanUp()
+    {
+    	SDL_DestroyWindow(window);
+    }
+    
+    void RenderWindow::clear()
+    {
+    	SDL_RenderClear(renderer);
+    }
+    
+    void RenderWindow::render(SDL_Texture* p_tex)
+    {
+    	SDL_RenderCopy(renderer, p_tex, NULL, NULL);
+    }
+    
+    void RenderWindow::display()
+    {
+    	SDL_RenderPresent(renderer);
+    }        
+
+This is renderwindow.hpp:
+
+    #pragma once
+    #include ""SDL.h""
+    #include ""SDL_image.h""
+    
+    class RenderWindow
+    {
+    public:
+        RenderWindow(const char* p_title, int p_w, int p_h);
+        SDL_Texture* loadTexture(const char* p_filePath);
+        void cleanUp();
+        void clear();
+        void render(SDL_Texture* p_tex);
+        void display();
+    private:
+        SDL_Window* window;
+        SDL_Renderer* renderer;
+    };
+
+and this is my main.cpp
+
+    #include &lt;iostream&gt;
+    #include ""SDL.h""
+    #include ""SDL_image.h""
+    
+    #include ""RenderWindow.hpp""
+    int main(int argc, char* args[])
+    {
+        if (SDL_Init(SDL_INIT_VIDEO) &gt; 0)
+        {
+            std::cout &lt;&lt; ""HEY... SDL_Init has failed. SDL_ERROR: "" &lt;&lt; SDL_GetError() &lt;&lt; std::endl;
+        }
+    
+        if (!(IMG_Init(IMG_INIT_PNG)))
+            std::cout &lt;&lt; ""IMG_init has failed. Error: "" &lt;&lt; SDL_GetError() &lt;&lt; std::endl;
+    
+        RenderWindow window(""GAME v1.0"", 1280, 720);
+    
+        SDL_Texture* grassTexture = window.loadTexture(""gfx/ground_grass_1.png"");
+    
+        bool gameRunning = true;
+    
+        SDL_Event event;
+    
+        while (gameRunning)
+        {
+            while (SDL_PollEvent(&amp;event))
+            {
+                if (event.type == SDL_QUIT)
+                    gameRunning = false;
+            }
+            window.clear();
+            window.render(grassTexture);
+            window.display();
+        }
+    
+        window.cleanUp();
+        SDL_Quit;
+    
+        return 0;
+    }",just-wanna-sleep,1ha0p4l,https://reddit.com/r/learnprogramming/comments/1ha0p4l/failed_to_load_texture_error_parameter_renderer/,https://www.reddit.com/r/learnprogramming/comments/1ha0p4l/failed_to_load_texture_error_parameter_renderer/,2024-12-09 03:34:12,1,1.0,1,0,7,0,0,False,False,True,False,False,,,t3_1ha0p4l
+learnprogramming,Coding with full time non-tech job,"I work 5 10's / 6 10's in a welding shop right now. I have maybe 30 minutes at home to code, but I am far too tired to even open anything. A get a few hours on Sundays and that's about it.
+
+I am wondering how you stay ""fresh"" with a full-time job?
+
+I thought about editing projects on my phone during lunch?  Or writing little simple little scripts in a new language like advent of code? Or bring a programming book? Podcasts / yt videos?
+
+I have not had any luck in the tech job market and can't keep hoping my luck will change so I went back to the trades. However I can feel my skills slowly start to fade...",loblawslawcah,1ha07s9,https://reddit.com/r/learnprogramming/comments/1ha07s9/coding_with_full_time_nontech_job/,https://www.reddit.com/r/learnprogramming/comments/1ha07s9/coding_with_full_time_nontech_job/,2024-12-09 03:08:13,11,0.88,11,0,11,0,0,False,False,True,False,False,Topic,,t3_1ha07s9
+learnprogramming,"Deployed to Github Pages, getting [SyntaxError: Unexpected token '&lt;'] in index.js","Hi, I've been trying to figure this out for the whole day :( I made a small React app and deployed it to Github using Github Actions, and the URL works, but it doesn't display anything. I think it's unable to process the HTML snippet returned by the App function in the index.js file. The image is from dev mode. Is this an issue with my build/deployment setup? Thanks in advance! [https://imgur.com/a/pl2TF3B](https://imgur.com/a/pl2TF3B)",lanternriver,1h9yihf,https://reddit.com/r/learnprogramming/comments/1h9yihf/deployed_to_github_pages_getting_syntaxerror/,https://www.reddit.com/r/learnprogramming/comments/1h9yihf/deployed_to_github_pages_getting_syntaxerror/,2024-12-09 01:37:23,3,0.81,3,0,10,0,0,False,False,True,False,False,Debugging,,t3_1h9yihf
+learnprogramming,Angular template variable vs ngModel,I'm not exactly sure when for forms or in general when I should use ngModel or template variables. Can anyone tell me?,legend67521,1h9x17v,https://reddit.com/r/learnprogramming/comments/1h9x17v/angular_template_variable_vs_ngmodel/,https://www.reddit.com/r/learnprogramming/comments/1h9x17v/angular_template_variable_vs_ngmodel/,2024-12-09 00:22:03,2,0.76,2,0,1,0,0,False,False,True,False,False,,,t3_1h9x17v
+learnprogramming,Can someone help explain what is Vercel used for? Is it the same as any other hosting company? Do I really need it?,"Hi guys, I don't have much technical knowledge. I teamed up with a developer last year to build SaaS. I bought him out and I now hold the app and trying to understand what is the role of Vercel?
+
+My previous co-founder placed the app on github and vercel. I am familiar with github, but my question is, if someone can help me understand, do I really need Vercel?
+
+Is that purely a hosting site? If so, does it serve the same purpose as hosting the app on hostgator, GoDaddy, or other hosting sites? I have experience building websites so I'm familiar with these service providers moreso than Vercel, AWS.
+
+I would appreciate any clarification.
+
+Thanks",rulerofgalaxy,1h9wygn,https://reddit.com/r/learnprogramming/comments/1h9wygn/can_someone_help_explain_what_is_vercel_used_for/,https://www.reddit.com/r/learnprogramming/comments/1h9wygn/can_someone_help_explain_what_is_vercel_used_for/,2024-12-09 00:18:22,3,0.72,3,0,4,0,0,False,False,True,False,False,Help,,t3_1h9wygn
+learnprogramming,Recommendations on C tutor?,"I just starting learning C, and got stuck setting up the IDE. The Udemy courses are outdated, and neither VS code, nor Xcode are working as described in the course.
+
+I’d like to find someone who is proficient in C, who could help me set up the IDE. 
+
+What’s the best approach? Should I find someone in person (Los Angeles), or try online private tutoring?",Calm_Lavishness_3551,1h9uymt,https://reddit.com/r/learnprogramming/comments/1h9uymt/recommendations_on_c_tutor/,https://www.reddit.com/r/learnprogramming/comments/1h9uymt/recommendations_on_c_tutor/,2024-12-08 22:42:16,2,0.76,2,0,6,0,0,False,False,True,False,False,,,t3_1h9uymt
+learnprogramming,"I want to get into programming with one of my hobbies as the main ingredient, now is there any recommended website or program that i could start with ?","I want to help myself with a half assed novel I've been writing on with many different elements but no fixed main characters. i want to get into programming that way with games like zombie exodus (example image from steam broswer shop) [steam://openurl/https://shared.fastly.steamstatic.com/store\_item\_assets/steam/apps/411570/ss\_8d3734cd3955ac6b13ee6b22ea060cc3683fb0ab.1920x1080.jpg?t=1728061349](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/411570/ss_8d3734cd3955ac6b13ee6b22ea060cc3683fb0ab.1920x1080.jpg?t=1728061349)
+
+and i require the knowledge of basic text programming minimalistic imagery, so implemented images and like in other applications that certain choices would lead to different panels based on calculations of a certain path.  
+Is there anyone knowledgeable enough to help me out with what i specifically need to learn?  
+thanks in advance",Byno_later,1h9u853,https://reddit.com/r/learnprogramming/comments/1h9u853/i_want_to_get_into_programming_with_one_of_my/,https://www.reddit.com/r/learnprogramming/comments/1h9u853/i_want_to_get_into_programming_with_one_of_my/,2024-12-08 22:08:59,3,0.72,3,0,3,0,0,False,False,True,False,False,,,t3_1h9u853
+learnprogramming,C++ Frameworks,"Alright, so awhile ago I made a c++ project that was basically a bunch of apis connecting to each other. Its purpose was to have collection of items you can search for, add, or delete. anyways i wanted to add a frontend to this project but wanted to use some sort of a framework to do it. Is there like an asp.net core or spring boot equivalent to c++ that would work? Thanks!",Guc_bl,1h9lcz4,https://reddit.com/r/learnprogramming/comments/1h9lcz4/c_frameworks/,https://www.reddit.com/r/learnprogramming/comments/1h9lcz4/c_frameworks/,2024-12-08 15:35:58,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h9lcz4
+learnprogramming,How to program renderer for a volumetric display?,"I'm working on a volumetric display using a 64x64 LED panel rotating at 900rpm to create a persistence of vision effect. I need help writing the software to render images for it as I'm unsure how to go about it.
+
+My current plan is to render a 3d model like an obj file, and take individuals slices/planes at 6 degrees intervals as a plane rotates through it. These could then be stitched together with ffmpeg into a 900fps video and played on the rotating display. 60 frames per rotation, 15 rotations per second, 246k pixels.
+
+The display should support this refresh rate as it updates the pixels 2 rows at a time at 1920hz.
+
+My question is what's the best way to go about this, what should I program it in and how? I'm looking into python and trimesh at the moment as that has a voxelise feature which could help, and a slice feature built in. Is there already existing software that could do this for me?
+
+I also need a way to test these videos/emulate the display, and at the moment I'm thinking I'd just put them on a spinning surface in blender and render that, but I'm open to better suggestions.",rabbitrampage198,1h9l0tm,https://reddit.com/r/learnprogramming/comments/1h9l0tm/how_to_program_renderer_for_a_volumetric_display/,https://www.reddit.com/r/learnprogramming/comments/1h9l0tm/how_to_program_renderer_for_a_volumetric_display/,2024-12-08 15:19:58,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h9l0tm
