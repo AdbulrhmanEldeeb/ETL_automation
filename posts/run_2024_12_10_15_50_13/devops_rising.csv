@@ -1,0 +1,277 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,"New job offer but it’s more Azure focused,","Got a new job offer for a dev ops/ cloud role, the salary and benefits are pretty good, the only reservation I have is … the business is azure focused, and role means I will be working with azure instead of aws. My cloud experience lies with AWS (8-10 years) and I don’t know why but working with azure is making me a little anxious about the role. Keen to get the community thoughts on working with azure instead of aws. ",k3nz00,1hazcqa,https://reddit.com/r/devops/comments/1hazcqa/new_job_offer_but_its_more_azure_focused/,https://www.reddit.com/r/devops/comments/1hazcqa/new_job_offer_but_its_more_azure_focused/,2024-12-10 11:04:59,24,0.94,24,0,23,0,0,False,False,True,False,False,,self,t3_1hazcqa
+devops,Freelance jobs,"I am a Devops/shared platform/SRE( whatever the kids are calling it now) with 12 years experience in the field who is based in EU. recently i started doing some freelance jobs for US companies, and it is fun. but the gigs are not constant and i am looking for new opportunities.  
+  
+how would i go about looking for some free lance project based work? 
+
+",Far-Tea3435,1hayqx7,https://reddit.com/r/devops/comments/1hayqx7/freelance_jobs/,https://www.reddit.com/r/devops/comments/1hayqx7/freelance_jobs/,2024-12-10 10:22:05,12,0.93,12,0,5,0,0,False,False,True,False,False,,self,t3_1hayqx7
+devops,Datadog costing,"Hey guys we are looking for an alternative solution and we have settled on DD as our solution, but for APM host we have to pay charge for infra agent too , even though we don't have infra monitoring enabled , which makes costing too much ... Is same for anyone who is using it or we are getting things mixed up here ? Is per host cost =infra cost + APM cost ?",Ranaji97,1hb0fys,https://reddit.com/r/devops/comments/1hb0fys/datadog_costing/,https://www.reddit.com/r/devops/comments/1hb0fys/datadog_costing/,2024-12-10 12:16:19,8,0.91,8,0,8,0,0,False,False,True,False,False,,self,t3_1hb0fys
+devops,Junior status updates,"To keep this short, I am a junior , working on a migration of our services. About 90% the way there but this project has dragged on months, literal months. We have a partner(external) team we work with who host it for us. We have limited permissions in their environments. 
+
+We were able to get TEST up and running but working on PROD has dragged. From production freezes to, TF Debugging , to folks being out. Project has dragged. 
+
+I’m not an expert but I’m trying and trying to avoid reaching out to my leader as he’s kind of just let me do my own thing on this, and hasn’t really checked in either. I know others like our tech lead, who I report to on stand ups provides updates but not sure how often. 
+
+I am a bit frustrated with how some of this is being handled by our partner team. 
+
+Does it make sense to check in and let my leader know where we stand, we don’t necessarily communicate on the day to day but they do oversee my progress and I do check in with them for technical questions or discussions once a month or so. If I do check in and provide an update, my fear is seemingly like I am pushing the blame on others - when I am no expert myself. 
+
+How do you guys go about this ? ",Grand-Ambassador2937,1hatmim,https://reddit.com/r/devops/comments/1hatmim/junior_status_updates/,https://www.reddit.com/r/devops/comments/1hatmim/junior_status_updates/,2024-12-10 04:28:23,15,0.82,15,0,7,0,0,False,False,True,False,False,,self,t3_1hatmim
+devops,Trying to create an interactive video - is it possible?,"So i have a to create an art installation for display in any desired format. I decided to create an interactive video like a mini game. The idea is that there is a video projected in a room. In a video there is a person in a room with various items he can interact with. For ex: play guitar, sit on chair, try open the door (very simplistic actions). The vision is that a person comes, starts the ""game"", with controller does several actions and the game ends. (Inspired by Bo Burnhams ""inside"")
+My question is - is this possible? Can i somehow programme each action to a button on a controller and have a beggining and an end to this game? If it's not a video what kind of format file would it be? Can i use any controller for this? What programs? Extremely grateful for any info!
+",CloudburstAme,1hb4jn0,https://reddit.com/r/devops/comments/1hb4jn0/trying_to_create_an_interactive_video_is_it/,https://www.reddit.com/r/devops/comments/1hb4jn0/trying_to_create_an_interactive_video_is_it/,2024-12-10 15:39:35,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1hb4jn0
+devops,JSON/YAML Diagramming Tool,"I built this tool to easily modify JSON, YAML, CSV and XML. It is converting them into interactive diagrams, you can also export as images and use at your documentations.
+
+Check it out and let me know what you think!
+
+[https://todiagram.com](https://todiagram.com)",iamCut,1hai43b,https://reddit.com/r/devops/comments/1hai43b/jsonyaml_diagramming_tool/,https://www.reddit.com/r/devops/comments/1hai43b/jsonyaml_diagramming_tool/,2024-12-09 19:31:18,39,0.83,39,0,10,0,0,False,False,True,False,False,,self,t3_1hai43b
+devops,How to use OpenTelemetry with Prometheus Stack,"Hi,
+
+  
+I have setup the prometheus stack with helmfile using the official chart on the ""monitoring"" namespace. And now I have used the same approach and installed the OpenTelemetry collector on ""otel"" namespace.
+
+I have a sample microservice and it's Dockerfile is instrumented with the otel java agent. 
+
+  
+And in the otelconfig.yaml, I have the following configurations.
+
+
+
+`exporters:`
+
+`debug: {}`
+
+`extensions:`
+
+`health_check:`
+
+`endpoint: ${env:MY_POD_IP}:13133`
+
+`processors:`
+
+`batch: {}`
+
+`k8sattributes:`
+
+`. . .` 
+
+`memory_limiter:`
+
+`check_interval: 5s`
+
+`limit_percentage: 80`
+
+`spike_limit_percentage: 25`
+
+`receivers:`
+
+`filelog:`
+
+`. . .`
+
+`hostmetrics:`
+
+`. . .`
+
+`otlp:`
+
+`protocols:`
+
+`grpc:`
+
+`endpoint: ${env:MY_POD_IP}:4317`
+
+`http:`
+
+`endpoint: ${env:MY_POD_IP}:4318`
+
+`prometheus:`
+
+`config:`
+
+`scrape_configs:`
+
+`- job_name: opentelemetry-collector`
+
+`scrape_interval: 10s`
+
+`static_configs:`
+
+`- targets:`
+
+`- ${env:MY_POD_IP}:8888`
+
+`service:`
+
+`extensions:`
+
+`- health_check`
+
+`pipelines:`
+
+`logs:`
+
+`exporters:`
+
+`- debug`
+
+`processors:`
+
+`- k8sattributes`
+
+`- memory_limiter`
+
+`- batch`
+
+`receivers:`
+
+`- otlp`
+
+`- filelog`
+
+`metrics:`
+
+`exporters:`
+
+`- debug`
+
+`processors:`
+
+`- k8sattributes`
+
+`- memory_limiter`
+
+`- batch`
+
+`receivers:`
+
+`- otlp`
+
+`- prometheus`
+
+`- hostmetrics`
+
+`traces:`
+
+`exporters:`
+
+`- debug`
+
+`processors:`
+
+`- k8sattributes`
+
+`- memory_limiter`
+
+`- batch`
+
+`receivers:`
+
+`- otlp`
+
+`telemetry:`
+
+`metrics:`
+
+`address: ${env:MY_POD_IP}:8888`
+
+  
+What I want now is:
+
+  
+1. How to tell the OTEL agent running in my sample microservice to send the metrics data to this OTEL collector.  
+  
+2. And how to then send this data to Prometheus? - how to add this to otel config and which endpoint should I use? What else should I configure etc.
+
+
+
+I am always confused with this approach of OTEL (as it has multiple receivers and exporters where one can use prometheus in both receivers and exporters). 
+
+
+
+I appreciate your guidance or any documentation (not the official documentation as it is a bit confusing) where I can learn this?
+
+Thank You!",Swimming-Drawer-9527,1hb0wbw,https://reddit.com/r/devops/comments/1hb0wbw/how_to_use_opentelemetry_with_prometheus_stack/,https://www.reddit.com/r/devops/comments/1hb0wbw/how_to_use_opentelemetry_with_prometheus_stack/,2024-12-10 12:43:05,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hb0wbw
+devops,Looking for Remote DevOps/DevSecOps Opportunity,"
+hello everyone, just another Devops engineer looking for new remote opportunities, 
+- 5 years working experience 
+- 3 years as DevOps, 2 years Remote 
+- 1 year as Technical engineering lead
+- 1 year as DevSecOps remote
+- sectors: Fintech, E-commerce , Consulting 
+- open to working night shifts.
+
+hobby: diving deeper into Go Lang and platform engineering (kubernetes)
+
+Looking for new remote opportunities where I could learn and grow, available to work even on night shifts ...
+
+please any recommendations?",ExplorerIll3697,1hb0t1h,https://reddit.com/r/devops/comments/1hb0t1h/looking_for_remote_devopsdevsecops_opportunity/,https://www.reddit.com/r/devops/comments/1hb0t1h/looking_for_remote_devopsdevsecops_opportunity/,2024-12-10 12:37:44,1,0.67,1,0,0,0,0,False,False,True,False,False,,self,t3_1hb0t1h
+devops,Leaving a role within 2 months of starting - moved from Junior to Senior?,"I'm from the UK.  
+I worked on support desk for 3 years before landing a Junior DevOps role. I've spent a lot of my time studying, and really making progress in my career. I've reached a point where I feel very confident in my abilities, and have always been very successful in my projects.
+
+I was a Junior DevOps Engineer until 2 months ago - I was Junior for 1 year 4 months - when I got offered and then started a new position as a Senior DevOps Engineer.  
+I was thrilled and over the moon. I've worked really hard for this, and it's finally paying off. I've gotten the pay rise from a Junior Role, and I've landed the title of Senior.
+
+However, it's been an absolutely nightmare. I've joined the company and there is my manager and one other engineer. From day one I was being given customer tickets. There is absolutely 0 documentation. Any notes I can find which reference procedures are years out of date.  
+I've asked for handover or shadowing sessions so I can get an understanding of things, and my manager says he's busy, but I should learn from doing the JIRA tickets which come in.  
+The other engineer is completely non-responsive.
+
+I've been here now 2-months and it's been agonising. The lack of support from my team is one thing, but my manager has now started to turn a tad nasty towards me. He makes constant degrading comments, but plays them off as playful.  
+He keeps @ me in group chats to get work done. Even though I'm incredibly overwhelmed.
+
+I'm on the verge of just handing in my notice, but then I feel like it's a disaster for my career.  
+I won't be able to include this Senior Role on my CV as I've only been here 2 months - and looks crap to any future employeers.  
+It basically puts me in a position where I look like an unemployed Junior Engineer.
+
+Can anyone advise? Part of me says to suck it up for 6 months - that'll give me enough experience to express on my CV and just say it was a poor fit.",ReverendRou,1hafys1,https://reddit.com/r/devops/comments/1hafys1/leaving_a_role_within_2_months_of_starting_moved/,https://www.reddit.com/r/devops/comments/1hafys1/leaving_a_role_within_2_months_of_starting_moved/,2024-12-09 18:03:28,29,0.8,29,0,29,0,0,False,False,True,False,False,,self,t3_1hafys1
+devops,"I have .net8 application and it runs some python scripts, can it run on openshift?","hello Im running a .net8 application and I have to learn if it can run on openshift, I have no knowledge of kubernetes and openshift I searched for a while but concepts are too high level, but nevertheless question comes from outside and I have to learn the answer.
+
+Could you give me some tips where can I learn this or maybe a general answer like ""openshift is a platform it can run anything
+
+\-It's a .net 8 app with python scripts that contains a lot of ML libraries and I install them with pip install. Runs great on windows but im sure it can run on linux too",CryPlastic348,1hb0eze,https://reddit.com/r/devops/comments/1hb0eze/i_have_net8_application_and_it_runs_some_python/,https://www.reddit.com/r/devops/comments/1hb0eze/i_have_net8_application_and_it_runs_some_python/,2024-12-10 12:14:43,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1hb0eze
+devops,Master thesis ideas,"I’m currently working on my master’s thesis and would greatly appreciate your insights and guidance. I want to explore serverless architectures with a focus on data processing in my research, but I’m struggling to formulate a compelling thesis statement or topic.",mandalalooza,1haz5hg,https://reddit.com/r/devops/comments/1haz5hg/master_thesis_ideas/,https://www.reddit.com/r/devops/comments/1haz5hg/master_thesis_ideas/,2024-12-10 10:51:29,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1haz5hg
+devops,Are there any observability-as-a-service product? Like how vercel provides frontend-as-a-service.,"Wondering if there are any products where I can just  engineer the metrics and logs and traces ( Let's say I used a  library here to define and emit them) and just do a git push to see them on a dashboard.
+
+I have been looking into setting up some observability for a startup product . I looked into different options and I see some common solutions in the space would be knitting together the following
+
+1. Prometheus - grafana for metrics
+2. ELK - kibana/grafana for logs
+3. OTEl and Dynatrace/prometheus- grafna?
+
+(Any better/easier options thatn above)
+
+I am confused with all these choices and different options to use them. What are your go to solutions which are easily deployable and maintanable?",SnooSquirrels6702,1hayrmp,https://reddit.com/r/devops/comments/1hayrmp/are_there_any_observabilityasaservice_product/,https://www.reddit.com/r/devops/comments/1hayrmp/are_there_any_observabilityasaservice_product/,2024-12-10 10:23:38,1,0.67,1,0,7,0,0,False,False,True,False,False,,self,t3_1hayrmp
+devops,Help - New opportunity - Worth it?,"I’m from UK.
+
+I’m a DevOps engineer on 60k, but I get Fridays half day, 1.2k Learning and dev allowance yearly and I am remote, with many other benefits. However, no bonus.
+
+Today, I got accepted for a new DevOps role in FinTech, 65-68k base with a 10% bonus. But, the role is hybrid (3 in 2 home). The main worry for me is the loss of benefits and losing remote working full time.
+
+I need some advice - What would you recommend here? Of course it is different for everyone but I have never been in a hybrid role and I am very apprehensive about it, because the cost of travel and if it would truly be worth it.
+
+What are the general opinions, suggestions or tips? ",rhysmcn,1haie3b,https://reddit.com/r/devops/comments/1haie3b/help_new_opportunity_worth_it/,https://www.reddit.com/r/devops/comments/1haie3b/help_new_opportunity_worth_it/,2024-12-09 19:42:46,7,0.89,7,0,12,0,0,False,False,True,False,False,,self,t3_1haie3b
+devops,Can Backstage just deploy one-offs without creating a repository?,"I'm on day 2 right now of testing Backstage, enjoying it so far, but all of the examples and demos I can find are focused around templating boilerplate to create a new repository.  I need, for the purposes of demonstrating the concept of self-service to get momentum going, just the most basic example of like ""Standard S3 Bucket,"" so that when I click Create in Backstage, it just kicks off a terraform apply in the CI/CD, and skips the whole publishing to repo bit.  For the purposes of this demo, I don't even care about the TF state, this can just discard it.
+
+The best hint I could find is the scaffolder node plugin to run an arbitrary script and then just patch together a janky terraform apply script or something along those lines, but is that the way?  Any other approaches?",CptSupermrkt,1ha9ckq,https://reddit.com/r/devops/comments/1ha9ckq/can_backstage_just_deploy_oneoffs_without/,https://www.reddit.com/r/devops/comments/1ha9ckq/can_backstage_just_deploy_oneoffs_without/,2024-12-09 13:09:17,19,0.89,19,0,13,0,0,False,False,True,False,False,,self,t3_1ha9ckq
+devops,What security tools do you like to use in your CICD pipelines?,Trying to expand my mind,IamOkei,1ha2mgb,https://reddit.com/r/devops/comments/1ha2mgb/what_security_tools_do_you_like_to_use_in_your/,https://www.reddit.com/r/devops/comments/1ha2mgb/what_security_tools_do_you_like_to_use_in_your/,2024-12-09 05:24:29,82,0.95,82,0,38,0,0,False,False,True,False,False,,self,t3_1ha2mgb
+devops,Company blocks all downloads; how the fuck am I supposed to do my job?,"I recently started working at a big law firm as part of a four-person DevOps team, and I'm honestly losing my mind. Everything is locked down. I mean, I literally can't download anything. Want zsh? Nope. WSL for a Linux-y environment? Not happening. Need Python scripts or any files from any github repos? Also nope. Need kubens, or any other kubectl plugins? No chance. Want to be an administrator on your own computer? Not gonna happen. ChatGPT to speed up basic scripting tasks? Hah, forget it. Even Chrome extensions are off-limits.
+
+This is all because of the strict security guidelines implemented by the security and networking team. And every single time I want to do something like use some github repo to automate my work I need to open a request to the security team who are physically in a different building and it takes *days* for them to respond. And the answer is usually no!
+
+The pay is great, but I'm stuck doing a bunch of manual work that I know I could finish in a fraction of the time if I had the right tools. Is this normal at big companies—or am I just in some kind of corporate IT nightmare?
+
+I’m genuinely curious about what the DevOps experience in this regard has been like for other folks here. How do people who once had total freedom in one-man-show type positions adjust to working in such a restricting environment? and are FAANG companies like google or meta just as locked down, or do they handle security in a more flexible way?",mrmosebyes,1h9jent,https://reddit.com/r/devops/comments/1h9jent/company_blocks_all_downloads_how_the_fuck_am_i/,https://www.reddit.com/r/devops/comments/1h9jent/company_blocks_all_downloads_how_the_fuck_am_i/,2024-12-08 13:59:23,523,0.9,523,0,338,0,0,False,False,True,False,False,,self,t3_1h9jent
+devops,cloud certs,"I recently got AWS SAA and AZ-900. I was thinking of going for GCP digital cloud leader or GPC ACE.
+
+I work as Devops/Cloud engineer.
+
+Wanted to get and idea if I should even consider the digital cloud leader or just go for ACE.
+
+How much harder is GCP ACE compared to AWS SAA?
+
+Others I am considering are AWS sysops associate and AWS developer associate.
+
+Any other ones you folks recommend?",No_Witness_4000,1haau11,https://reddit.com/r/devops/comments/1haau11/cloud_certs/,https://www.reddit.com/r/devops/comments/1haau11/cloud_certs/,2024-12-09 14:24:20,5,0.86,5,0,2,0,0,False,False,True,False,False,,self,t3_1haau11
+devops,Deployment models vs Deployment targets,"I often find it confusing to see the terminology around deployment models/methods (how you deploy software) and deployment targets (where you deploy software) used interchangeably. Is this just me or have you also by the lack or consistency around terms like, on-prem, self-service, self-managed, byoc, self-hosted?   
+  
+I've written a [blog post](https://glasskube.dev/blog/on-premises-vs-cloud-vs-byoc/) in which I explain the differences as I see them as well as going into a bit of detail on how they compare to each other. I'd be interested to know if I've missed anything and if it's any clearer now. Cheers!",jakepage91,1ha7l86,https://reddit.com/r/devops/comments/1ha7l86/deployment_models_vs_deployment_targets/,https://www.reddit.com/r/devops/comments/1ha7l86/deployment_models_vs_deployment_targets/,2024-12-09 11:24:03,6,0.88,6,0,0,0,0,False,False,True,False,False,,self,t3_1ha7l86

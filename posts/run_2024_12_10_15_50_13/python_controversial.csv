@@ -1,0 +1,128 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,My first decent Python project: Tic Tac Toe using Turtle,"hello, i recently wanted to start learning pythone when i stumbled across Turtle, and ive seen a tic tac toe in the python terminal before and i thougt, it would look so much better by drawing it. so i did, its 340 lines of code that could be improved so please correct me since this is my first time and i am trying to learn, and maybe tell me what you think of it, thx.
+
+What my project does: this is a toy project
+
+Target audience: made for people who want to play tic tac toe in python
+
+Comparison: its different from other project because they type the field in their terminals, but this paints it in a seperate window.
+
+side note: (the giant circle it makes at the end is so the turtle windows doesnt close)
+
+heres the link: [https://github.com/codefish-py/Python-Turtle-Tic-Tac-Toe/blob/main/Tic%20Tac%20Toe.py](https://github.com/codefish-py/Python-Turtle-Tic-Tac-Toe/blob/main/Tic%20Tac%20Toe.py)",Gullible_Spirit1450,1hajhin,https://reddit.com/r/Python/comments/1hajhin/my_first_decent_python_project_tic_tac_toe_using/,https://www.reddit.com/r/Python/comments/1hajhin/my_first_decent_python_project_tic_tac_toe_using/,2024-12-09 20:27:57,2,0.54,2,0,7,0,0,False,False,True,False,False,Showcase,self,t3_1hajhin
+Python,New android app project called AndroidFetch,"Target Audience: People who like messing with their devices, people who want to know about their phones
+
+Comparison: Not any python based that I'm aware of, but in general the closest match is ""Device info HW"". in comparison my application is: open-source, gives some information which device info doesn't, is easier to read and has a better ui (in my opinion as I don't like the other's look)
+
+information on the app: It is a .py file that will eventually become an apk and is fully based on Python, including the ui that is made in kivy. It is currently on v0.7 and has support for most samsung devices (support for other vendors needs testers from other Android manufacturers if your interested). To get its information it uses the subprocess module.
+
+thanks for reading this! here's the github: https://github.com/FastCocobo/AndroidFetch
+
+Thanks for everyone's input! I have imported the github page and have taken the advice to watch some tutorials on git",QueasyWrangler4171,1hahglk,https://reddit.com/r/Python/comments/1hahglk/new_android_app_project_called_androidfetch/,https://www.reddit.com/r/Python/comments/1hahglk/new_android_app_project_called_androidfetch/,2024-12-09 19:04:15,2,0.55,2,0,8,0,0,False,False,True,False,False,Showcase,self,t3_1hahglk
+Python,Looking to Transition from Web Development to Python – Seeking Tips and Insights,"I’ve been working as a JS web developer for over 8 years now, but I’ve found myself losing interest in it. I’m really looking to make a switch to something new, and I’ve been getting advice to get into Python and move into that field. However, I’m not entirely sure what the career opportunities in Python are like, or how I can best break into it.
+
+Has anyone else made a similar transition? I’d love to hear about your experiences and any advice you have on how to make this switch successfully. Specifically, I’m curious about:
+
+The job market for Python developers
+The skills and projects I should focus on to get noticed. How much time would it take.
+Any roadmaps or resources you’d recommend.
+
+Thank you in advance!",Western-Lack8015,1hagupi,https://reddit.com/r/Python/comments/1hagupi/looking_to_transition_from_web_development_to/,https://www.reddit.com/r/Python/comments/1hagupi/looking_to_transition_from_web_development_to/,2024-12-09 18:39:47,9,0.69,9,0,12,0,0,False,False,True,False,False,Discussion,self,t3_1hagupi
+Python,tui-network: another TUI for the wifi on Linux,"**What My Project Does**
+
+[tui-network](https://github.com/Zatfer17/tui-network) is a Python based TUI for the wifi on Linux built with [Textual](https://github.com/Textualize/textual). And you can read [classic fortune quotes](https://wiki.debian.org/fortune) on the side, while waiting for the list of networks to refresh.  
+  
+**Target Audience**
+
+Linux users without DEs (typically tiling wm users with no gnome/xfce settings manager)  
+  
+**Comparison**
+
+Prettier than nmtui, similar to [impala](https://github.com/pythops/impala) but Python based",zatfer,1haxvtn,https://reddit.com/r/Python/comments/1haxvtn/tuinetwork_another_tui_for_the_wifi_on_linux/,https://www.reddit.com/r/Python/comments/1haxvtn/tuinetwork_another_tui_for_the_wifi_on_linux/,2024-12-10 09:15:36,0,0.4,0,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1haxvtn
+Python,Pype - Python Desktop App Framework,"I created a python framework that easily enables users to create reactive desktop applications with Python backend and HTML frontend.
+
+**What My Project Does**
+
+Easily enables the user to create desktop applications with a Python backend and a HTML frontend. Using the frameworks functions listed in the documentation reactive variables, state-management and dynamic UI-s can be created with ease.
+
+Feel free to use it if you see fit. Also im very much open to discussion as this is my first public project that i published, errors have a very high chance of appering.
+
+[PyPI pype-framework](https://pypi.org/project/pype-framework/)
+
+[Pype Github](https://github.com/kokasmark/Pype)
+
+  
+edit: I used a post template so i can post here and forgot the delete the post templates text...",kaakaaskaa,1hb0jr4,https://reddit.com/r/Python/comments/1hb0jr4/pype_python_desktop_app_framework/,https://www.reddit.com/r/Python/comments/1hb0jr4/pype_python_desktop_app_framework/,2024-12-10 12:22:45,2,0.6,2,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1hb0jr4
+Python,I build PdfDing with Python,"Hi r/Python,
+
+over the last six months I have build PdfDing. You can find it on [GitHub](https://github.com/mrmn2/PdfDing).
+
+**What My Project Does**
+
+PdfDing is a selfhosted PDF manager and viewer offering a seamless user experience on multiple devices. Some of its features include:
+
+* Remembers current position - continue where you stopped reading on any device
+* Share PDFs with an external audience via a link or a QR Code. Shared PDFs can be access controlled
+* Dark Mode, colored themes and custom theme colors
+* Inverted color mode for reading PDFs
+* SSO support via OIDC
+
+ I have used the following tech stack:
+
+* the web app is build using Python (Django)
+* The frondend is build using Alpine.js, htmx, jQuery and Tailwind CSS
+* Mozilla's PDF.js is used for viewing PDF files in the browser
+
+**Target Audience**
+
+Homelabs or businesses who want a self-hosted solution for their PDFs.
+
+**Comparison**
+
+There are solutions like self-hosted ebook readers. However, they are using the inbuilt PDF viewer of the browser. This works fine on desktops and laptops but on smartphones it will simply download the PDF file and not display it in the browser (at least it is like this on my mobile devices). This solution also does not allow you to continue reading where you stopped on another device.
+
+Most solutions also do not allow users to upload files, as there is an admin curating the content. Furthermore, I wanted a minimal and resource-friendly solution that allows me to share PDFs with an external audience.
+
+**Final remarks**
+
+If you like PdfDing I would be really happy over a star on [GitHub](https://github.com/mrmn2/PdfDing). As the project is open source, if anyone wants to contribute you are welcome to do so!",Mindless-View-3071,1haxeb7,https://reddit.com/r/Python/comments/1haxeb7/i_build_pdfding_with_python/,https://www.reddit.com/r/Python/comments/1haxeb7/i_build_pdfding_with_python/,2024-12-10 08:37:42,27,0.83,27,0,3,0,0,False,False,True,False,False,Showcase,self,t3_1haxeb7
+Python,DNS server written in Python,"Hi All 
+
+I am researching the DNS protocol in depth (security research) and have written a DNS server in Python that relies on responses from a upstream service (Quad9,for now). Hope you all like it. Do recommend improvements.
+
+Link: [https://xer0x.in/dns-server-in-python/](https://xer0x.in/dns-server-in-python/)
+
+PS: I am aware of the Blocklist parsing inconsistency bug.",Bulky_Pomegranate_53,1hagkql,https://reddit.com/r/Python/comments/1hagkql/dns_server_written_in_python/,https://www.reddit.com/r/Python/comments/1hagkql/dns_server_written_in_python/,2024-12-09 18:28:39,96,0.97,96,0,14,0,0,False,False,True,False,False,Tutorial,self,t3_1hagkql
+Python,Tuesday Daily Thread: Advanced questions,"# Weekly Wednesday Thread: Advanced Questions 🐍
+
+Dive deep into Python with our Advanced Questions thread! This space is reserved for questions about more advanced Python topics, frameworks, and best practices.
+
+## How it Works:
+
+1. **Ask Away**: Post your advanced Python questions here.
+2. **Expert Insights**: Get answers from experienced developers.
+3. **Resource Pool**: Share or discover tutorials, articles, and tips.
+
+## Guidelines:
+
+* This thread is for **advanced questions only**. Beginner questions are welcome in our [Daily Beginner Thread](#daily-beginner-thread-link) every Thursday.
+* Questions that are not advanced may be removed and redirected to the appropriate thread.
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **How can you implement a custom memory allocator in Python?**
+2. **What are the best practices for optimizing Cython code for heavy numerical computations?**
+3. **How do you set up a multi-threaded architecture using Python's Global Interpreter Lock (GIL)?**
+4. **Can you explain the intricacies of metaclasses and how they influence object-oriented design in Python?**
+5. **How would you go about implementing a distributed task queue using Celery and RabbitMQ?**
+6. **What are some advanced use-cases for Python's decorators?**
+7. **How can you achieve real-time data streaming in Python with WebSockets?**
+8. **What are the performance implications of using native Python data structures vs NumPy arrays for large-scale data?**
+9. **Best practices for securing a Flask (or similar) REST API with OAuth 2.0?**
+10. **What are the best practices for using Python in a microservices architecture? (..and more generally, should I even use microservices?)**
+
+Let's deepen our Python knowledge together. Happy coding! 🌟",AutoModerator,1haod3g,https://reddit.com/r/Python/comments/1haod3g/tuesday_daily_thread_advanced_questions/,https://www.reddit.com/r/Python/comments/1haod3g/tuesday_daily_thread_advanced_questions/,2024-12-10 00:00:08,2,1.0,2,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1haod3g

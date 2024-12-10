@@ -1,0 +1,146 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,"LLMs saturate another hacking benchmark: ""Frontier LLMs are better at cybersecurity than previously thought ... advanced LLMs could hack real-world systems at speeds far exceeding human capabilities.""",,MetaKnowing,1hadz0m,https://reddit.com/r/artificial/comments/1hadz0m/llms_saturate_another_hacking_benchmark_frontier/,https://x.com/PalisadeAI/status/1866116594968973444,2024-12-09 16:42:47,61,0.77,61,0,6,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/GhpZOFiuGiMTEzd9q0jjWuic6J9YYJRymrPCQjteVSc.jpg,t3_1hadz0m
+artificial,Liquid AI's new STAR model architecture outshines Transformers,,vegax87,1hagogv,https://reddit.com/r/artificial/comments/1hagogv/liquid_ais_new_star_model_architecture_outshines/,https://venturebeat.com/business/liquid-ais-new-star-model-architecture-outshines-transformer-efficiency/,2024-12-09 18:32:38,14,0.77,14,0,4,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/tlWjZPqBnJoq3vS8TUG0DZnmuCf4ki_GRnZqEy7ExeM.jpg,t3_1hagogv
+artificial,Claude can now rewrite code in the file... on my personal computer. Dis is cwazy. (Shots from Claude Desktop),,hereditydrift,1haidnx,https://reddit.com/r/artificial/comments/1haidnx/claude_can_now_rewrite_code_in_the_file_on_my/,https://imgur.com/a/qzN4Nvy,2024-12-09 19:42:19,27,0.8,27,0,4,0,0,False,False,False,False,False,Discussion,https://a.thumbs.redditmedia.com/sl0uXGpb1QPcH6xEHEJCw0UPjWtZaohKNxFyDaHybZ4.jpg,t3_1haidnx
+artificial,Could quantum computers finding global minima fundamentally change neural network capabilities? Discussion about optimization's role in AI capability,"In light of Google's recent Willow quantum chip announcement, I've been thinking about some potentially profound implications for AI development. Would love to hear thoughts on this theoretical direction.
+
+### The Core Idea: Global Minima and AI Capability
+
+Current neural networks achieve impressive results while likely operating at local minima due to classical computing limitations. But what if quantum computers could reliably find global minima?
+
+1. Our human brains are neural networks optimized by basic biochemical processes and evolution
+2. Current AI systems already outperform humans in many domains while potentially being stuck in local minima
+3. Quantum computers might be able to find truly optimal configurations that neither biological nor classical systems can reach
+
+Think about it this way: If human intelligence emerges from neural networks optimized by basic biochemical processes, then neural networks optimized by quantum computing should be capable of something far beyond human intelligence. 
+
+Humans don't have quantum annealing to solve our neural networks in our brains?
+
+### The Loss Function Question
+
+This leads to an even more interesting possibility: Could we use quantum computing to search for optimal loss functions themselves?
+
+Current loss functions are likely simplified for computational tractability, and we use various hacks and tricks to compensate for this simplification. But quantum computers could potentially:
+
+- Explore loss function space exponentially faster
+- Find counterintuitive formulations that classical computers miss
+- Handle many more variables and interactions
+- Define optimality in ways we haven't considered
+
+Imagine using quantum systems themselves to define what ""optimal"" means, similar to how quantum systems in nature find their minimal energy states.
+
+### Questions This Raises
+
+1. How much better could a truly globally optimal neural network perform?
+2. Could this represent a fundamental leap in capability rather than just an incremental improvement?
+3. Are we underestimating the importance of optimization quality versus just scaling up models?
+4. Could quantum-derived loss functions reveal fundamental principles about intelligence and optimization?
+
+Would love to hear others' thoughts on this. Am I missing something obvious, or could this be a meaningful direction for future AI development?
+
+Edit: This is meant as a theoretical discussion. I understand current quantum computers have significant limitations and practical challenges.",Nalmyth,1hb3gnd,https://reddit.com/r/artificial/comments/1hb3gnd/could_quantum_computers_finding_global_minima/,https://www.reddit.com/r/artificial/comments/1hb3gnd/could_quantum_computers_finding_global_minima/,2024-12-10 14:51:25,2,0.75,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hb3gnd
+artificial,Looking for ways to use claude ai,I am casual ai user and I can't use claude ai because of my location. Is there any way to use it like a website or app with multiple ai including claude and exclude poe. Tia,Emad_341,1haerkf,https://reddit.com/r/artificial/comments/1haerkf/looking_for_ways_to_use_claude_ai/,https://www.reddit.com/r/artificial/comments/1haerkf/looking_for_ways_to_use_claude_ai/,2024-12-09 17:15:12,35,0.9,35,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1haerkf
+artificial,o1 LiveBench coding results,"Note: Note: o1 was evaluated manually using ChatGPT. So far, it has only been scored on coding tasks.
+
+https://livebench.ai/#/",user0069420,1haxgkf,https://reddit.com/r/artificial/comments/1haxgkf/o1_livebench_coding_results/,https://www.reddit.com/gallery/1haxgkf,2024-12-10 08:42:54,16,0.82,16,0,8,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/NCJcPKaK1zmuI2er-jnKGB1bWpo249adJ5EbIomDDwQ.jpg,t3_1haxgkf
+artificial,"Which tool to generate real, structured tabular data?","Hi, I need to get structured data (csv,,…) for tourist attractions in a specific locations. What ai tool to use that will give me output as a file to download?",agilek,1hb3h4s,https://reddit.com/r/artificial/comments/1hb3h4s/which_tool_to_generate_real_structured_tabular/,https://www.reddit.com/r/artificial/comments/1hb3h4s/which_tool_to_generate_real_structured_tabular/,2024-12-10 14:52:02,2,1.0,2,0,0,0,0,False,False,True,False,False,Question,self,t3_1hb3h4s
+artificial,One-Minute Daily AI News 12/9/2024,"1. **Sora** is here. **OpenAI** releases Sora, its buzzy AI video-generation tool.\[1\]
+2. **Amazon** forms a new AI agent-focused lab led by Adept co-founder.\[2\]
+3. **Meta** AI Introduces SPDL (Scalable and Performant Data Loading): A Step Forward in AI Model Training with Thread-based Data Loading.\[3\]
+4. Japanese company builds AI-powered ‘human washing machine’.\[4\]
+
+Sources:
+
+\[1\] [https://openai.com/index/sora-is-here/](https://openai.com/index/sora-is-here/)
+
+\[2\] [https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/](https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/)
+
+\[3\] [https://www.marktechpost.com/2024/12/09/meta-ai-introduces-spdl-scalable-and-performant-data-loading-a-step-forward-in-ai-model-training-with-thread-based-data-loading/](https://www.marktechpost.com/2024/12/09/meta-ai-introduces-spdl-scalable-and-performant-data-loading-a-step-forward-in-ai-model-training-with-thread-based-data-loading/)
+
+\[4\] [https://www.financialexpress.com/life/technology-japanese-company-builds-ai-powered-human-washing-machine-know-details-3688136/](https://www.financialexpress.com/life/technology-japanese-company-builds-ai-powered-human-washing-machine-know-details-3688136/)",Excellent-Target-847,1hataxd,https://reddit.com/r/artificial/comments/1hataxd/oneminute_daily_ai_news_1292024/,https://www.reddit.com/r/artificial/comments/1hataxd/oneminute_daily_ai_news_1292024/,2024-12-10 04:11:04,4,0.84,4,0,1,0,0,False,False,True,False,False,News,self,t3_1hataxd
+artificial,Is it possible for a AI to identify the origin of its training data?,"I saw this and thought this answers my question:  
+[https://www.reddit.com/r/artificial/comments/r3l5xj/apple\_researchers\_propose\_a\_method\_for/](https://www.reddit.com/r/artificial/comments/r3l5xj/apple_researchers_propose_a_method_for/)
+
+but it might be more nuanced than this, basically I was wondering, that, without reconstructing the original training data entirely, if it is possible for a AI to find the origin of its training data, I want to experiment with this with Tensorflow to see if I can feed it training data and text, and it can tell me from what text or source it derived its awnsers from **and more importantly, how much a given piece of training data contributed to the final result**. Is such data irretrievable or how do you do it?",SpiderUnderUrBed,1haoqio,https://reddit.com/r/artificial/comments/1haoqio/is_it_possible_for_a_ai_to_identify_the_origin_of/,https://www.reddit.com/r/artificial/comments/1haoqio/is_it_possible_for_a_ai_to_identify_the_origin_of/,2024-12-10 00:17:37,3,0.8,3,0,5,0,0,False,False,True,False,False,Question,self,t3_1haoqio
+artificial,Is there any platform available with multiple ai model,"I am looking for web interface, app, platfrom that has multiple ai models and gives access to every  model but maybe pro models with less limit. And limit resets everyday. I am casual user and I use ai twice a week so looking for free daily reset or weekly reset ai platform, ai web interface, ai app.
+
+I tried several like Nova doesn't let me see my history, chatbot. Com is one time limit and please don't include poe.
+
+
+Tia",Emad_341,1hahfsb,https://reddit.com/r/artificial/comments/1hahfsb/is_there_any_platform_available_with_multiple_ai/,https://www.reddit.com/r/artificial/comments/1hahfsb/is_there_any_platform_available_with_multiple_ai/,2024-12-09 19:03:20,2,0.67,2,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hahfsb
+artificial,How Combinatorics Can Improve Logic Problem Solving in AI Models Like GPT-4,"Hello everyone,
+
+I wanted to share an observation that might bridge the gap between classical mathematics and AI reasoning. During my experiments with models like GPT-4 and Claude 3.5, I stumbled upon something intriguing: **combinatorics**—the branch of mathematics dealing with combinations, permutations, and state spaces—can significantly enhance a language model’s ability to solve logic problems.
+
+Let me explain how I arrived at this.
+
+---
+
+### **The Problem**
+I’ve been testing large language models with classic puzzles, such as the **Wolf, Goat, and Cabbage** problem:
+&gt; A farmer must transport a wolf, goat, and cabbage across a river using a small boat. The boat can carry only one item at a time. If left alone, the wolf eats the goat, or the goat eats the cabbage. How does the farmer transport all items safely?
+
+While seemingly simple, this problem poses significant challenges for many language models:
+
+- They often fail to track the **state** of the items (e.g., which bank each is on).
+
+- They struggle to reason through **backtracking moves** (e.g., taking the goat back to the starting bank).
+
+---
+
+### **The Breakthrough**
+To address this, I modified the way I described the problem. Instead of leaving it in plain English, I explicitly framed it as a **combinatorial state space problem**:
+
+1. Defined each state as a tuple (Farmer, Wolf, Goat, Cabbage), where each value is either `Left` or `Right`.
+
+2. Highlighted valid state transitions, considering the constraints (e.g., wolf and goat cannot be left alone).
+
+3. Clarified that the farmer could **return to a prior state** if needed.
+
+When I presented the problem this way, other models (Claude Sonnet, O1-mini) solved it correctly. Structuring the problem with combinatorics made the steps explicit, eliminating ambiguity.
+
+---
+
+### **Why Combinatorics Works**
+
+Logic puzzles like this involve navigating **state spaces**, which is essentially a combinatorial problem:
+
+- There are \( 2^4 = 16 \) possible states (Farmer + 3 items, each on one of two banks).
+- Only a subset of these states is valid, due to constraints.
+- The problem boils down to finding a path through this state space.
+
+By explicitly defining states and transitions, models can reason systematically rather than relying on inferred logic from plain English descriptions. This approach seems to **align more naturally with how AI processes structured data**.
+
+---
+
+### **Implications**
+
+While combinatorics is a well-known mathematical tool, I suspect its **explicit integration into language model problem-solving** has been underexplored. Here are a few takeaways:
+
+1. **Structured Prompts Matter**: Framing problems mathematically enables even less advanced models to perform complex reasoning.
+
+2. **AI + Classical Math**: Bridging natural language understanding with combinatorics (or similar tools) could significantly enhance AI’s logical capabilities.
+
+3. **Potential Applications**:
+   - Teaching AI to reason through multi-step problems systematically.
+   - Solving combinatorial optimization problems in logistics, planning, or game AI.
+
+---
+
+### **Questions for the Community**
+1. Has anyone else experimented with combining combinatorics or formal mathematics with AI reasoning? If so, what were your results?
+2. Could this approach be extended to other challenging logic problems, like the Missionaries and Cannibals puzzle or Sudoku solving?
+3. How could tools like combinatorics be formally integrated into AI training or prompt engineering to improve reasoning?
+
+I’m curious to hear your thoughts and any related experiments you’ve conducted!
+
+---
+
+### **Closing Thoughts**
+This discovery felt accidental—I wasn’t even familiar with the term ""combinatorics"" until GPT-4 mentioned it. But it has opened my eyes to how structured thinking can unlock AI’s potential. I hope sharing this here sparks new ideas and discussions.
+
+Looking forward to your insights!
+
+---
+
+In order to do this, I have been collaborating with a custom GPT I made called [Hexel](https://chatgpt.com/g/g-3jBQ1Tz6P-hexel), which has a custom prompt and RAG knowledge source that includes various pieces of information relating to the FORTH programming language and mathematics, among other things.  I want to provide this information to someone who is both formally trained, and generally better at this than I am, so that they can carry it forward.",petrus4,1haesh2,https://reddit.com/r/artificial/comments/1haesh2/how_combinatorics_can_improve_logic_problem/,https://www.reddit.com/r/artificial/comments/1haesh2/how_combinatorics_can_improve_logic_problem/,2024-12-09 17:16:11,11,0.87,11,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1haesh2

@@ -1,0 +1,71 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Please give AdonisJS a shot,"As someone who was fatigued by the influx of JS frameworks, I did the smart thing and... learned another JS framework...
+
+But no no trust me, this one's different. It breaks all of the JavaScript rules and allows you to write a Rails-like app using TypeScript.
+
+Ive always wanted to try RoR and Laravel, but couldn't get past having to learn another language. Adonis was the perfect solution for that.
+
+It's an incredible framework, one that I really hope will gain some steam. Please give it a shot, its worth your time.",Practical_Race_3282,1haxnkj,https://reddit.com/r/webdev/comments/1haxnkj/please_give_adonisjs_a_shot/,https://www.reddit.com/r/webdev/comments/1haxnkj/please_give_adonisjs_a_shot/,2024-12-10 08:58:22,45,0.64,45,0,87,0,0,False,False,True,False,False,Discussion,self,t3_1haxnkj
+webdev,The slow death of the hands-on engineering manager,,mmaksimovic,1haxzvi,https://reddit.com/r/webdev/comments/1haxzvi/the_slow_death_of_the_handson_engineering_manager/,https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering,2024-12-10 09:24:56,28,0.94,28,0,2,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/IxIUCTTaum_kh5CwRdzEwfsOlYqf58Xp_PPPI1k7bl4.jpg,t3_1haxzvi
+webdev,"Warning, Smartrmail app contains 'bad' automatic permissions in the terms &amp; conditions, and will plant your business's email in everyones' spam.","I recently made a giant mistake by downloading this one Shopify add-on app... right from that wholesome official Shopify app store.
+
+I recently decided to try out this marketing app, Smartrmail (bad idea). I have to say... the experience was so negative, that I felt the need to protect fellow store owners.
+
+Once you download the app, you'll notice the option to create a password for your account (recommended by the app for ""security purposes"" lol). Once you create a password, you'll never be able to delete your account or change the email attached. Not kidding.
+
+The option to delete your account isn't available. You cannot remove your important business-email from this account profile. The option isn't available. You will be stuck.
+
+Next, they'll start sending shitty emails from a shitty template from your email address, because you agreed to 'let' them by checking the box that says ""I agree to these terms and conditions."" They will send emails to every single one of your customers, and the emails look TERRIBLE.
+
+This is so heinous, I had to dig deeper. The company was active about three years ago in late 2020, and then closed it's doors. The application business, Smartrmail, was acquired in 2023 by new owners. At the bottom of the page, the app claims to be owned by Intercom (Google showed it as an AI chat bot business for retail), however, there isn't any proof anywhere else on the web that shady ass Smartrmail is ACTUALLY owned by Intercom. The Shopify app store says it's owned by a company called Relay. So, who is who? We just don't know yet.
+
+Worse, this app has received 500+ 5 star reviews... yet their official youtube channel has less than 100 views total for the three half-ass AI videos they have up. All of them use AI voices. Why on earth wouldn't anybody want their actual name/face or voice affiliated with Smartrmail. Is there something wrong with it? I'm still seriously considering calling the US &amp; Australian FBI, this app is sooooo effing shady. It blows my mind the Shopify app store approved it... yikes
+
+I care about this community, so that's why I'm recommending you stay away from this super-scam Smartrmail app on Shopify. You deserve better. We all do. I love Shopify as much as the rest of us. I can't believe Shopify is letting this app continue... so embarrassing for them.
+
+Don't believe me? Log-out, and open a separate, free 30-day Shopify trial using a dummy email address, and see for yourself. You'll see what I'm talking about. This app is designed to hurt sellers. I'm honestly not sure what can be done about this.",AutumnLeaves420,1hau8mv,https://reddit.com/r/webdev/comments/1hau8mv/warning_smartrmail_app_contains_bad_automatic/,https://www.reddit.com/r/webdev/comments/1hau8mv/warning_smartrmail_app_contains_bad_automatic/,2024-12-10 05:02:56,21,0.84,21,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hau8mv
+webdev,I made a new programming language to simplify web development - would love your feedback!,"Hey everyone! 👋
+
+I wanted to share a project I'm really excited about - a new programming language called BuckshotPlusPlus that aims to make web development more intuitive.  
+Here's how a simple component looks:
+
+    view button {
+        type = ""button""
+        content = ""Click me!""
+        background-color = ""#007bff""
+        color = ""white""
+        padding = ""10px 20px""
+    }
+
+  
+The language includes built-in session handling, data caching, and component management. I'm working on video tutorials on [youtube ](https://www.youtube.com/watch?v=j0k22uoR9Bc&amp;list=PLttkrjVo_pZoPMCZgw_ByK6Y9Yb_r--oA&amp;index=3)to help people get started , and I'd love your input on what topics to cover!  
+The project is open source: [https://github.com/BuckshotPlusPlus/BuckshotPlusPlus](https://github.com/BuckshotPlusPlus/BuckshotPlusPlus)
+
+  
+I'm actively working on improving it and would love to hear your thoughts on what would make this truly useful for your web development needs. Feel free to share your ideas or ask any questions!
+
+",JhonnyVerse,1half2r,https://reddit.com/r/webdev/comments/1half2r/i_made_a_new_programming_language_to_simplify_web/,https://www.reddit.com/r/webdev/comments/1half2r/i_made_a_new_programming_language_to_simplify_web/,2024-12-09 21:48:49,64,0.67,64,0,77,0,0,False,False,True,False,False,,self,t3_1half2r
+webdev,Good niche for freelance dev?,"Hi, 
+
+I’m thinking about diving into freelancing in software/web development. I’m looking for a niche that’s in demand but not too crowded, and something that’s not too complex to get started with. Any ideas or suggestions? 
+
+TIA!",h00biedoo,1hb4ure,https://reddit.com/r/webdev/comments/1hb4ure/good_niche_for_freelance_dev/,https://www.reddit.com/r/webdev/comments/1hb4ure/good_niche_for_freelance_dev/,2024-12-10 15:52:55,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1hb4ure
+webdev,Itch.io has been taken down by Funko,,Infinite-Addendum-52,1ha63vv,https://reddit.com/r/webdev/comments/1ha63vv/itchio_has_been_taken_down_by_funko/,https://bsky.app/profile/itch.io/post/3lcu6h465bs2n,2024-12-09 09:33:34,288,0.92,288,0,48,0,0,False,False,False,False,False,News,default,t3_1ha63vv
+webdev,Preferred method for creating 3rd party embeddable widgets?,"What is the preferred method for creating widgets that other sites can embed into their websites? I have seen examples of iframes and others using div/script elements (e.g. embedding Disqus). From a styling perspective, does one have an advantage over the other? What about from a browser performance/loading/interoperability  perspective?
+
+My use-case would be a widget that is full browser width and with a variable length of content, fairly interactive (e.g. 'like' and comment functionality) instead of a simple display.
+
+Other than Disqus, what would be some other examples of embedded widgets worth learning from?",sesamesesayou,1hb0kw6,https://reddit.com/r/webdev/comments/1hb0kw6/preferred_method_for_creating_3rd_party/,https://www.reddit.com/r/webdev/comments/1hb0kw6/preferred_method_for_creating_3rd_party/,2024-12-10 12:24:46,2,1.0,2,0,9,0,0,False,False,True,False,False,,self,t3_1hb0kw6
+webdev,How can I host a one page website for free/minimal cost?,"Hi there. I’m new to web dev.
+
+I‘m an artist who posts my artwork and I‘m going to create a one page mini “website” to link all of my socials, etsy, recent videos, etc.. entirely out of html/css &amp; JavaScript. (Think linktree or carrd).
+
+How can I host this so I can share the link to my socials and have people view it? Thanks!
+
+edit: spelling",Ok-Sector-4695,1hb4vfa,https://reddit.com/r/webdev/comments/1hb4vfa/how_can_i_host_a_one_page_website_for_freeminimal/,https://www.reddit.com/r/webdev/comments/1hb4vfa/how_can_i_host_a_one_page_website_for_freeminimal/,2024-12-10 15:53:45,1,1.0,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1hb4vfa
+webdev,Handshake for internships?,"Hi everyone, just curious if anybody landed web dev internships through handshake platform. Or if you know good platform to search/apply for internships. Handshake accepts only college students and this just makes me think, if there are more chances to get into the job through this platform (I know it’s pretty tough in current market anyway)
+
+Thank you in advance!",FluffyKL,1hawi6d,https://reddit.com/r/webdev/comments/1hawi6d/handshake_for_internships/,https://www.reddit.com/r/webdev/comments/1hawi6d/handshake_for_internships/,2024-12-10 07:29:50,4,1.0,4,0,2,0,0,False,False,True,False,False,Question,self,t3_1hawi6d
+webdev,Partially finished sveltekit site,"Good morning! Hoping I’m in the right space- I am in no way a developer myself, just a business owner. I’ve hired a developer for a website who seems to be experiencing some personal challenges that are preventing getting the site launched. Life happens and there are things in the world more important than my website, but I am starting to think I may need to find someone else to get this across the finish line. I know that the code has been done on sveltekit. My questions, if the group may be so kind to guide me: How should I ask for the work product that’s been completed so far to be provided to me such that I can pass it along to another developer? Is this something where someone can even reasonably step in, or am I looking at starting over? What would be a fair resolution financially here- I have no ability to look at code and see how close to the completed product it is as far as how much of the total payment has been earned at this point between the initial and final payments. Any input would be welcome! ",gracetw22,1hb1yne,https://reddit.com/r/webdev/comments/1hb1yne/partially_finished_sveltekit_site/,https://www.reddit.com/r/webdev/comments/1hb1yne/partially_finished_sveltekit_site/,2024-12-10 13:40:06,1,1.0,1,0,4,0,0,False,False,True,False,False,Question,self,t3_1hb1yne
+webdev,What causes 'bad days' for developers?,,mmaksimovic,1ha90yk,https://reddit.com/r/webdev/comments/1ha90yk/what_causes_bad_days_for_developers/,https://newsletter.getdx.com/p/factors-contributing-to-bad-developer-days,2024-12-09 12:52:01,97,0.88,97,0,81,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/_rBXtT_4My9iNcm_b9cCgDz6MW00DrCDYGZroXjsiBg.jpg,t3_1ha90yk
+webdev,First time website creator,"I have worked really hard to get my website up and performing well. I am a bit confused with the difference in my websites performance score on lighthouse and page speed insights. I’m focusing on mobile performance as my desktop performance is consistent. Currently I have a 90 for performance on lighthouse, yet my performance rating on Page speed insights is 64. Which is a more accurate representation of what users in the US will experience? I’m located in the southeast US, and my service area is limited to the northern half of one state. Any insight would be greatly appreciated as I continue to learn about website development.",Legal_Personality617,1hb1nte,https://reddit.com/r/webdev/comments/1hb1nte/first_time_website_creator/,https://www.reddit.com/r/webdev/comments/1hb1nte/first_time_website_creator/,2024-12-10 13:24:41,0,0.5,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hb1nte
