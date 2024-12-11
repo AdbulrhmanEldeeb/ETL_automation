@@ -1,0 +1,46 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,"I'm burnt out from constantly being on call where everything is on fire. Are there any good ""research"" or ""data collection"" or ""data interpretation"" roles that offer a more relaxed environment?","As a quick summary, I work as a Site Reliability Engineer and get paid pretty well (especially since I live in rural South Carolina and entirely remote). I juggle tasks like automating deployments, managing Kubernetes clusters in AWS, and scripting in Python and Bash, manage and analyze SQL databases, working with APIs, etc.  
+  
+**What I like**  
+- I get paid well  &amp; have skillsets that makes it more difficult for companies to replace you  
+- I need to learn and stay up to date on a variety of technologies (I consider this a plus since you're never really 'out of date' on your role)     
+- I enjoy makes graphs and gathering statistics/data to help our team  
+- I enjoy interpreting that data to determine the root cause of an issue  
+- In terms of scripting, I like making quick and dirty scripts that help my team automate something for us (this doesn't including writing large complicated scripts for other teams)   
+
+    
+
+**Why I hate it and want to leave**  
+- The job, by its very nature, means everything is always urgent  
+- On call, so a consistent 9-5 is not possible. You're often staying past your shift  
+- Have to constantly work with devs and other parties to ensure their services or code gets fixed  
+- Rarely any slow days, you're either automating a new large project or jumping on an urgent issue   
+ 
+ 
+So based on the above, I'm curious if transitioning to a Data Science type role would offer a more laid-back environment, the question is I don't know what. Anyone made this switch or have insights? If not, can you recommend some jobs that I can look into? Preferably jobs that can utilize at least some of what I know.",grep212,1hb7lcw,https://reddit.com/r/datascience/comments/1hb7lcw/im_burnt_out_from_constantly_being_on_call_where/,https://www.reddit.com/r/datascience/comments/1hb7lcw/im_burnt_out_from_constantly_being_on_call_where/,2024-12-10 17:49:15,139,0.95,139,0,49,0,0,False,False,True,False,False,Discussion,self,t3_1hb7lcw
+datascience,The Solitude of Data Science: Looking for a Kindred Spirits,"Hello!
+
+
+
+I’ll try to keep this short because I’m terrible at being concise.
+
+
+
+I came from a different world—operations and sales. It didn’t take long for me to realize that I wanted to move away from... well, salespeople. I applied for a dev job at my company and got rejected, but they saw potential in my knowledge and experience with machine learning, deep learning, and some other rogue projects I had been working on.
+
+
+
+They asked if I could develop a proof of concept (POC) to present to our board of directors. The company had previously attempted to work with three external teams, but none of those efforts were successful. I presented the POC, and it went exceptionally well. We secured funding and created a junior data science position specifically for me. Previously, the company had no such role or anything similar. While the IT team is very strong, they haven’t had the capacity to handle initiatives like this.
+
+
+
+Since then, I’ve been obsessed—reading everything I can and taking stats classes for a certificate program at MIT (with plans to continue my education). I’m pretty sure I’ve been driving my wife and friends crazy because I love talking about this stuff. I’m genuinely passionate about it!
+
+
+
+That said, I still have so much to learn and need to overcome my imposter syndrome. On top of this fast-moving environment, I’ve never worked in IT before, never used Jira, or been involved in their overall processes, so I’m navigating that learning curve too. I’d love to connect with others here, hear your stories, and get more involved in this r/datascience community!         ",Mad_Obscurist,1hbtwbn,https://reddit.com/r/datascience/comments/1hbtwbn/the_solitude_of_data_science_looking_for_a/,https://www.reddit.com/r/datascience/comments/1hbtwbn/the_solitude_of_data_science_looking_for_a/,2024-12-11 13:51:08,29,0.95,29,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1hbtwbn
+datascience,Best cross-validation for imbalanced data?,"I'm working on a predictive model in the healthcare field for a relatively rare medical condition, about 5,000 cases in a dataset of 750,000 records, with 660 predictive features.
+
+Given how imbalanced the outcome is, and the large number of variables, I was planning on doing a simple 50/50 train/test data split instead of 5 or 10-fold CV in order to compare the performance of different machine learning models.
+
+Is that the best plan or are there better approaches? Thanks",RobertWF_47,1hba8s2,https://reddit.com/r/datascience/comments/1hba8s2/best_crossvalidation_for_imbalanced_data/,https://www.reddit.com/r/datascience/comments/1hba8s2/best_crossvalidation_for_imbalanced_data/,2024-12-10 19:39:43,41,1.0,41,0,39,0,0,False,False,True,False,False,ML,self,t3_1hba8s2

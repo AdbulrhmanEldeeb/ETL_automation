@@ -1,0 +1,114 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,does any famous mathematician also known as philosopher nowadays?,like rene descates or Leibniz from the 17th century,No_Mulberry9015,1hb7h3u,https://reddit.com/r/math/comments/1hb7h3u/does_any_famous_mathematician_also_known_as/,https://www.reddit.com/r/math/comments/1hb7h3u/does_any_famous_mathematician_also_known_as/,2024-12-10 17:44:26,137,0.85,137,0,103,0,0,False,False,True,False,False,,,t3_1hb7h3u
+math,"Professionally, what is the best way to notate multiplication?","It’s just a mess. Back in basic arithmetic, I was taught to use an x as the multiplication symbol. 3x4=12, and all was good. Then I started algebra, and I learned that x was an extremely common variable. This made the old choice seem bad and confusing. What do you do from there? A floating dot for 3•4=12 might get confused with a decimal point at a glance by those who aren’t paying attention. An asterisk for 3*4=12 is a mess to write, needing a whopping 3 strokes crossing at uncomfortable angles (not everyone can slice a pizza into perfect sixths). I typically use parentheses for 3(4)=12, but really, what’s the best way? At least the plus sign never gives me these problems, just a good old reliable 3+4=7.",lookiecookie0505,1hbccy4,https://reddit.com/r/math/comments/1hbccy4/professionally_what_is_the_best_way_to_notate/,https://www.reddit.com/r/math/comments/1hbccy4/professionally_what_is_the_best_way_to_notate/,2024-12-10 21:08:33,55,0.78,55,0,91,0,0,False,False,True,False,False,,,t3_1hbccy4
+math,Do prime numbers correspond to irreducible polynomials?,"Question at MathOverflow:
+
+Define f\_2(x):=x ,f\_1(x):=1 and f\_p(x):=1+product\_{q|p-1} f\_q(x)\^v\_q(p-1) for primes p&gt;2.
+
+Is f\_p(x) always irreducible for each prime p? (Any help is appreciated!)
+
+I have used this method to visualize pairs of primes p,q as described in the MathOverflow post:
+
+https://preview.redd.it/biqns61p636e1.png?width=4699&amp;format=png&amp;auto=webp&amp;s=72577f72b03ce5cc34c4d3ff2868da4a6d009624
+
+https://preview.redd.it/jnjk561p636e1.png?width=4699&amp;format=png&amp;auto=webp&amp;s=aa21d4286d2c4682d40f3f15ee1a589f0849e2dd
+
+https://preview.redd.it/f5lpe61p636e1.png?width=4699&amp;format=png&amp;auto=webp&amp;s=eb23f5005ba483c001efcfc7798968e5b4d05590
+
+https://preview.redd.it/k5a0s51p636e1.png?width=4699&amp;format=png&amp;auto=webp&amp;s=110becfb7bef7d16d4c1e6522c9e429beba6cd02
+
+https://preview.redd.it/ezytxg2p636e1.png?width=4699&amp;format=png&amp;auto=webp&amp;s=5a1635c9ef93a3158c50ecc63746d41f6e712524
+
+[https://mathoverflow.net/questions/483571/polynomials-for-natural-numbers-and-irreducible-polynomials-for-prime-numbers](https://mathoverflow.net/questions/483571/polynomials-for-natural-numbers-and-irreducible-polynomials-for-prime-numbers)",musescore1983,1hbce9k,https://reddit.com/r/math/comments/1hbce9k/do_prime_numbers_correspond_to_irreducible/,https://www.reddit.com/r/math/comments/1hbce9k/do_prime_numbers_correspond_to_irreducible/,2024-12-10 21:10:05,56,0.92,56,0,16,0,0,False,False,True,False,False,,,t3_1hbce9k
+math,I find math fascinating but school made me hate it,"
+Math has always been my weakest of skills in school, I hated how school portrayed it, the exercices, the stress associated with it, and how no one really understood it including those who got the highest marks (I knew someone who always got full marks by memorising typical old exam questions lol)
+
+This is just a rant, I just wish sometimes that I could be great at math. Do you guys recommend a way to love learning it and actually understand its notions even later in life?
+
+",_Balkis,1hb6bwr,https://reddit.com/r/math/comments/1hb6bwr/i_find_math_fascinating_but_school_made_me_hate_it/,https://www.reddit.com/r/math/comments/1hb6bwr/i_find_math_fascinating_but_school_made_me_hate_it/,2024-12-10 16:56:28,42,0.82,42,0,20,0,0,False,False,True,False,False,,,t3_1hb6bwr
+math,"A nice little generalization of the homomophism theorem I ""found""","Of course I didn't really ""find"" it, as I am certain that someone else thought about it centuries ago, but nonetheless, I'd like to present this neat little generalization of the homomophism theorem for groups.
+
+We start with a generalization of group homs. Given two groups `X` and `Y`, we say a **group relation** `R` is a subgroup of the product `X \times Y`. By the closed graph theorem of groups, a map `f: X\rightarrow Y` is a homomorphism iff the graph `\Gamma_f=\{(x,f(x))\}` is a subgroup of `X \times Y`. Thus, group relations can be regarded as a generalization of homomorphisms. You even can compose relations in a natural way such they are mimicking homomorphisms.
+
+Note that this notion is symetrical and more flexible than homs, e.g. it might happen that the elements of `X` are ""related"" to more than one element of `Y` or that only the neutral elements are related to each other.
+
+Either way, for each group relation `R`, we have group homs `p_X` or `p_Y` maping from `R` to `X` or `Y` respectively. Note that since the surjective image of a normal subgroup is still normal, `p_X(ker p_Y)` is normal in `p_X(R)`.
+
+Now to the generalization of the homomorphism theorem. In its classical form it states: ""If we, on the left side, treat elements as equals if they get mapped to the same thing and on the right side only consider the image, then we have the same object left and right"", or for short: ""`X/\ker f \isom f(X)`"".
+
+This theorem - and this is what I ""found"" - can be generalized to the following:
+
+""If we, on the left side, only consider the image of a relation and treat elements as equals if they are related to the same elements and do the same thing on the right, then we have the same object left and right"", or for short:
+
+`p_X(R)/p_X(ker p_Y) \isom p_Y(R)/p_Y(ker p_X)`
+
+If our relation is the graph of a homomorphism, this formula gives us pricisely the classical hmomorphism theorem, but is, as group relations are, more general than this. Which is quite nice.
+
+The proof of this theorem is of course an exercise for the reader ;-) But in all seriousness, it is very much like the proof of the classical version, give it a try if you like.
+
+If any of you have a source where this generalization is stated and there is more to read about the things I called group relations, I'd be more than happy if you'd inform us about that. Thanks!",BigFox1956,1hbp4yy,https://reddit.com/r/math/comments/1hbp4yy/a_nice_little_generalization_of_the_homomophism/,https://www.reddit.com/r/math/comments/1hbp4yy/a_nice_little_generalization_of_the_homomophism/,2024-12-11 08:37:15,40,0.92,40,0,25,0,0,False,False,True,False,False,,,t3_1hbp4yy
+math,When did your obsession with mathematics begin and how do you indulge in it now?,,petrastales,1hb43gs,https://reddit.com/r/math/comments/1hb43gs/when_did_your_obsession_with_mathematics_begin/,https://www.reddit.com/r/math/comments/1hb43gs/when_did_your_obsession_with_mathematics_begin/,2024-12-10 15:19:28,35,0.89,35,0,10,0,0,False,False,True,False,False,,,t3_1hb43gs
+math,What's so exciting about homology/cohomology?,"People seem really excited about this stuff can someone explain to me why?
+
+I don't really understand what it is/what it's for, I tried to read the Wikipedia articles but didn't understand much. (I have an undergrad degree in math.)
+
+Does it have satisfying results? Are there applications to physics? Does it explain anything about the natural world?
+
+thanks",SpaceGarbage6605,1hbs6tb,https://reddit.com/r/math/comments/1hbs6tb/whats_so_exciting_about_homologycohomology/,https://www.reddit.com/r/math/comments/1hbs6tb/whats_so_exciting_about_homologycohomology/,2024-12-11 12:17:54,40,0.95,40,0,16,0,0,False,False,True,False,False,,,t3_1hbs6tb
+math,Dialectics as adjunctions?,"I've read Lambek's essay *The influence of Heraclitus on modern mathematics* and at one point he raises an example of adjunction, which should be interpreted as ""opposing forces"" of dialectics. The example shows opposing forces in propositional logic (example 4 in the essay).
+
+But one of them is an adjoint pair F, G where F(a) = p &amp; a, G(b) = p-&gt;b. Where are opposing forces here? What is in opposition with what? Their compositions are GF(a) = p-&gt;(p &amp; a) and FG(b) = p &amp; (p-&gt;b). I just don't see it.
+
+I know some basics of Hegelian and Marxian dialectics, but this does not seem like it. I just do not see the opposition of these two.
+
+Is this essay appropriate to start considering dialectics mathematically? As a professional mathematician with interest in Marxism, this is something I'd like to read about.",fdpth,1hb8qnd,https://reddit.com/r/math/comments/1hb8qnd/dialectics_as_adjunctions/,https://www.reddit.com/r/math/comments/1hb8qnd/dialectics_as_adjunctions/,2024-12-10 18:37:05,29,0.91,29,0,6,0,0,False,False,True,False,False,,,t3_1hb8qnd
+math,Where to go after calculus ,"I know there is a bunch of branches that you can dive into, and i had already done a bit of it into differential equations. So my question is whats the most useful thing to learn after calculus from an engineering perspective is, i would also appreciate any guidance to some resources that arent as tough as a 1000 page book",LilEmilia,1hbhfjf,https://reddit.com/r/math/comments/1hbhfjf/where_to_go_after_calculus/,https://www.reddit.com/r/math/comments/1hbhfjf/where_to_go_after_calculus/,2024-12-11 00:58:17,13,0.81,13,0,22,0,0,False,False,True,False,False,,,t3_1hbhfjf
+math,"Why did many kinds of notations develop for Long Multiplication and Long Division around the world, while Long Addition and Long Subtraction are the same everywhere?","Long Addition and Long Subtraction are written and done the same way everywhere as far as I know, but for Long Multiplication and Division there is a different way to write the problem and slight differences in the algorithm of solving it in the USA, France, Italy, Hungary, Romania etc.",Pe45nira3,1hbr0lo,https://reddit.com/r/math/comments/1hbr0lo/why_did_many_kinds_of_notations_develop_for_long/,https://www.reddit.com/r/math/comments/1hbr0lo/why_did_many_kinds_of_notations_develop_for_long/,2024-12-11 11:01:05,10,0.86,10,0,4,0,0,False,False,True,False,False,,,t3_1hbr0lo
+math,Grad School,"hi! Struggling math undergrad here. It’s hard getting math help in advising. After this semester I’d only have next academic year left so c/o 2026 here. I’ve always loved the subject but I do struggle in my courses and I’m not an A student. I believe I currently have a 2.7 GPA. I do want to pursue higher education but what are my options? I do plan on giving my final courses my all so hopefully I can bump to a 3.0 or higher, but is it possible to get in any school in math with that GPA? If so what programs? Or what are some other options ",dezthebestt,1hbm3dl,https://reddit.com/r/math/comments/1hbm3dl/grad_school/,https://www.reddit.com/r/math/comments/1hbm3dl/grad_school/,2024-12-11 05:04:32,8,0.89,8,0,9,0,0,False,False,True,False,False,,,t3_1hbm3dl
+math,Why is there no proof of the Church-Turing thesis?,"I heard there is no proof of it, even though it seems obviously. There are proofs of Turing mahines being equivalent to various systems, but according to some people, there is no formal definition for an effective method.
+
+I am assuming that this topic is actually important, and that someone would actually benefit from the Churing-Turing thesis being proven. If that is the case, then whoever would benefit from it must have a formal definition of what an effective method is, since they would need a formal definition just for their brain to be able to think about it. In that case, I don't see why it wouldn't be very hard.
+
+If it's worth anything to you, I came up with an idea for a proof. Wikepedia says that ""\[A finite method\] consists of a finite number of exact, finite instructions."", so I'm assuming that means we have some f:A -&gt; B, where A and B are both finite. Turing machines work with a finite alphabet on a tape, and the alphabet can be mapped to the natrual numbers, so A and B would both be sequences of natural numbers. Since A and B are finite, even if their inner sequences are infinite, we can map them to finite sequences. Therefore, we can replace f with a function that only takes in finite sequences of numbers.
+
+A finite sequence of numbers can be equivalently mapped to a vector. A mapping of any set of vectors to another set of vectors can be represented by a matrix, as long as we pick a mapping with vectors that have the same sizes.
+
+My proof is therefore this:
+
+* Turing machines are equivalent to matrices, if we only look at a specific finite slice of the tape before or after the machine halts.
+* Matrices are equivalent to functions that are effectively computable.
+* Therefore, turing machines can be mapped to effectively computable functions with the same inputs and outputs.",Simanalix,1hbumro,https://reddit.com/r/math/comments/1hbumro/why_is_there_no_proof_of_the_churchturing_thesis/,https://www.reddit.com/r/math/comments/1hbumro/why_is_there_no_proof_of_the_churchturing_thesis/,2024-12-11 14:26:34,10,0.69,10,0,12,0,0,False,False,True,False,False,,,t3_1hbumro
+math,Suggestions for a Beginner’s study on Malliavin Calculus?,"I’ll be devoting part of my winter break to have a little introduction into Malliavin Calculus, and I was wondering if anyone has some resource suggestions for an introductory treatise of the topic.
+
+Background:
+Completed courses in real analysis, odes, discrete state stochastic processes, and measure theoretic probability. Self studied some functional analysis and measure theory, and SDEs (although the latter is more finance-centric). 
+
+I’ve attempted reading the text by Malliavin himself, but I found it to be quite a bit above my current level of understanding. Any resources suggestions would be of indispensable help! :)",Sea_Resolve9583,1hbo7hh,https://reddit.com/r/math/comments/1hbo7hh/suggestions_for_a_beginners_study_on_malliavin/,https://www.reddit.com/r/math/comments/1hbo7hh/suggestions_for_a_beginners_study_on_malliavin/,2024-12-11 07:25:46,5,0.78,5,0,1,0,0,False,False,True,False,False,,,t3_1hbo7hh
+math,Fast and exact probability distributions calculation for TTRPGs - Part 2,"Part two: [https://bitsandtheorems.com/the-advantage-of-advantage/](https://bitsandtheorems.com/the-advantage-of-advantage/)
+
+Part one: [https://www.reddit.com/r/math/comments/1gxwwc3/fast\_and\_exact\_probability\_distributions/](https://www.reddit.com/r/math/comments/1gxwwc3/fast_and_exact_probability_distributions/)
+
+Previously, I developed a tool to exactly determine the damage distribution of attacks in games like Dungeons and Dragons and Pathfinder. This time, we're extending it with a new game mechanic, and give a definitive answer to the ongoing debate within the TTRPG community: just how good is re-rolling your attack? Existing methodologies have solely looked at the expected value of the attack roll, and at the miss chance as a function of armor class, but not the full damage distribution. The difference is subtle, but turns out to be really impactful!",Knaapje,1hbr8tv,https://reddit.com/r/math/comments/1hbr8tv/fast_and_exact_probability_distributions/,https://www.reddit.com/r/math/comments/1hbr8tv/fast_and_exact_probability_distributions/,2024-12-11 11:16:42,4,0.84,4,0,3,0,0,False,False,True,False,False,,,t3_1hbr8tv
+math,Can there exist a non-linear smooth curve in R^2 whose image has no intersection with Q^2?,"*Can there exist a non-linear smooth curve in R\^2 whose image has no intersection with Q\^2?*
+
+In other words, is it possible to find a differentiable function f: I -&gt; R\^2 such that:
+
+1. f(t) is never a rational point for any ~~real~~ rational number t in the interval I.
+2. f is not a linear function.
+
+Long story short, I arrived at this question from considering the problem of arranging *n* points in the Euclidean plane such that the distance between any two points is a natural number, and then delving into primitive Pythagorean triples.
+
+I've been thinking about this, and while it seems intuitively unlikely, I'm not sure how to rigorously prove or disprove it. Any insights or approaches would be greatly appreciated!",NotEvenWrong--,1hb7fdo,https://reddit.com/r/math/comments/1hb7fdo/can_there_exist_a_nonlinear_smooth_curve_in_r2/,https://www.reddit.com/r/math/comments/1hb7fdo/can_there_exist_a_nonlinear_smooth_curve_in_r2/,2024-12-10 17:42:21,4,0.61,4,0,12,0,0,False,False,True,False,False,,,t3_1hb7fdo
+math,What are the flaws and criticism of Gallian's Contemporary Abstract Algebra?,"So I was looking on online forums and past threads looking for the review about the book, it seems a lot of people don't like the way book presented topics like introducing Sylow's theorem and Group actions at the Special Topics, and having only a single chapter on Galois Theory and introducing isomorphisms before homomorphism and how the book has so many editions like usual calculus books have.
+
+I want to know more about the things the book does some things wrong and how the book does some things right or better.",Kewhira_,1hbolq6,https://reddit.com/r/math/comments/1hbolq6/what_are_the_flaws_and_criticism_of_gallians/,https://www.reddit.com/r/math/comments/1hbolq6/what_are_the_flaws_and_criticism_of_gallians/,2024-12-11 07:56:14,6,0.87,6,0,2,0,0,False,False,True,False,False,,,t3_1hbolq6
+math,Robert B. Ash is an excellent author,"I feel that a lot of textbooks by the late Robert B. Ash are less well known, but to me, the way in which he writes is not only very clear, but is just enough for you to kind of draw the pictures you should be drawing, and he presents some slick proofs. I’m currently reading “A Primer in Abstract Mathematics”, but I also have his “Probability and Measure Theory” book which I am intending to read for the purposes of getting a rigorous understanding of probability, to then get a rigorous understanding of measure theory. I’ve also been enjoying his book “Real Variables and Basic Metric Space Topology” which I think fits well with Mendelson’s Topology book.",topologyforanalysis,1hba7ij,https://reddit.com/r/math/comments/1hba7ij/robert_b_ash_is_an_excellent_author/,https://www.reddit.com/r/math/comments/1hba7ij/robert_b_ash_is_an_excellent_author/,2024-12-10 19:38:12,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hba7ij
+math,"Are these correct? I noticed what seem to be some neat patterns, and I want to know if they're related to any known formulas so I might be able to learn more about them.","I'm not super involved in math, but I was thinking about numbers a few months ago, and I noticed what I thought were some interesting patterns. If any of these seem to be incorrect, please let me know:
+
+* if x is even and a larger number Y is even, x*Y= the sum of the first x number of odd numbers counting down from (x+Y).
+
+* if x is odd and a larger number Y is even, x*Y= the sum of the first x number of even numbers counting down from (x+Y).
+
+* If x is odd and a larger number Y is odd, x*Y= the sum of the first x number of odd numbers counting down from the sum of (x+Y).
+
+* If x is even and a larger number Y is odd, x*Y= the sum of the first x even numbers greater than the (Y-x).",workswithmacs,1hbrsbl,https://reddit.com/r/math/comments/1hbrsbl/are_these_correct_i_noticed_what_seem_to_be_some/,https://www.reddit.com/r/math/comments/1hbrsbl/are_these_correct_i_noticed_what_seem_to_be_some/,2024-12-11 11:52:56,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hbrsbl

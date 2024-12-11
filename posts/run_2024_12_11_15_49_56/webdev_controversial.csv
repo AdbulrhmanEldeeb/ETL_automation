@@ -1,0 +1,292 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Any adult friendly payment gateway out there?,Payment gateways that are ok with adult content handmade store websites. ,tnybrunette,1hbhb48,https://reddit.com/r/webdev/comments/1hbhb48/any_adult_friendly_payment_gateway_out_there/,https://www.reddit.com/r/webdev/comments/1hbhb48/any_adult_friendly_payment_gateway_out_there/,2024-12-11 00:52:11,0,0.42,0,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hbhb48
+webdev,I wrote 7 javascript based AI games in 7 days and learnt a lot about whats possible,,cokeandcode,1hbt1mc,https://reddit.com/r/webdev/comments/1hbt1mc/i_wrote_7_javascript_based_ai_games_in_7_days_and/,https://developers.rune.ai/blog/7-ai-games-in-7-days,2024-12-11 13:06:45,29,0.65,29,0,9,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/CUc1MI_O0e_djBV0kcq-_DaDCwc1F6BLhGNIGiRjf0Q.jpg,t3_1hbt1mc
+webdev,Is there ever a reason for adding a feature to a legacy app written in framework X by writing it in framework Y?,"Let's say your client uses a legacy app like AngularJS or some crappy SAPUI5 and the codebase is a spaghetti hellhole with a lot of technical debt. He asks for a greenfield feature like a calculator or an AI chat bubble.
+
+Is there ever a reason to build it in a more lightweight way using Vue or a web component, and make the legacy app just render it or route to it?",BigBootyBear,1hbn3kg,https://reddit.com/r/webdev/comments/1hbn3kg/is_there_ever_a_reason_for_adding_a_feature_to_a/,https://www.reddit.com/r/webdev/comments/1hbn3kg/is_there_ever_a_reason_for_adding_a_feature_to_a/,2024-12-11 06:07:52,0,0.4,0,0,15,0,0,False,False,True,False,False,Question,self,t3_1hbn3kg
+webdev,A 5-min Guide to Fusor for React Devs,"Check out this library I'm developing. It's like React but operates at a lower level of abstraction.
+
+Repository - [https://github.com/fusorjs/dom](https://github.com/fusorjs/dom)
+
+https://preview.redd.it/ayhkyvn8x56e1.png?width=686&amp;format=png&amp;auto=webp&amp;s=042a5433af6af8e823df0f8d814660e90825a7a1
+
+",isumix_,1hbnaz1,https://reddit.com/r/webdev/comments/1hbnaz1/a_5min_guide_to_fusor_for_react_devs/,https://www.reddit.com/r/webdev/comments/1hbnaz1/a_5min_guide_to_fusor_for_react_devs/,2024-12-11 06:21:51,0,0.5,0,0,0,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/26etVZOkWc3Cbr0kbPsy39evgER8TnrXRVGlO1vj9Jo.jpg,t3_1hbnaz1
+webdev,How do i make a desktop website more compatible with mobile?,"I made a website for desktop where i have news, contact us and about the game the website is about. But now i have to make it for mobile aswell? How do i do that?",Quinxcuzwhynot,1hbpbcl,https://reddit.com/r/webdev/comments/1hbpbcl/how_do_i_make_a_desktop_website_more_compatible/,https://www.reddit.com/r/webdev/comments/1hbpbcl/how_do_i_make_a_desktop_website_more_compatible/,2024-12-11 08:51:38,0,0.29,0,0,33,0,0,False,False,True,False,False,Question,self,t3_1hbpbcl
+webdev,Anyone noticing the title sizes being off?,Seems like someone screwed up the CSS but I wonder how it got through to Prod. Do you think Reddit has e2e/unit tests for this sort of stuff?,TScottFitzgerald,1hbr95b,https://reddit.com/r/webdev/comments/1hbr95b/anyone_noticing_the_title_sizes_being_off/,https://www.reddit.com/r/webdev/comments/1hbr95b/anyone_noticing_the_title_sizes_being_off/,2024-12-11 11:17:17,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1hbr95b
+webdev,Next.js 15.1,,feross,1hbcjwp,https://reddit.com/r/webdev/comments/1hbcjwp/nextjs_151/,https://nextjs.org/blog/next-15-1,2024-12-10 21:16:47,4,0.7,4,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/lnVq-J3gstf8yD8D8W4XiGG1xFcxrmL1P64QP0U58OE.jpg,t3_1hbcjwp
+webdev,How do I save the code in the correct folders?,"I'm following along with this video and I don't know where to save the code.  I want to save it locally on my laptop.  The code is in the YouTube description, can anyone please help?
+https://youtu.be/HY6nPFsADDo?si=QjPk13UM1Xw56b5o",AdamShed,1hbit64,https://reddit.com/r/webdev/comments/1hbit64/how_do_i_save_the_code_in_the_correct_folders/,https://www.reddit.com/r/webdev/comments/1hbit64/how_do_i_save_the_code_in_the_correct_folders/,2024-12-11 02:07:32,1,0.6,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1hbit64
+webdev,"I want to create a website that's essentially a mix of debateart, kialo and lichess","I'm well aware this may not be realistically viable. But just in case it is, I'm asking here.
+
+I want to create a website that's essentially a mix of these three sites: https://www.debateart.com/ https://www.kialo.com/ https://lichess.org/
+A site where you can create or join timed matches (much like in lichess, with different time controls and ratings) to debate virtually any subject you like.
+
+But during the debates, instead of each person having day(s) to come up with a big block of text like in Debateart, the debates will generally be much faster and structured like they are in Kialo, making it very systematic.
+
+Voters, instead of having to read the whole debate to have any input, can vote on individual arguments in the kialo-esque chart according to their relevance, validity, soundness and impact on the parent claim. They can vote on as many or as few arguments as they want, perhaps restricted by whether or not they've voted on the child arguments.
+
+I have some other ideas for it as well if it's possible, but what I've described so far is the main part.
+
+I looked into Odoo, Yola and Webflow but it seems like they won't work. How can I make a complex site with almost no experience? And I would prefer to do it for free or on a low budget.
+
+I'm willing to put in roughly 500-1k hours working on it, if it's possible.",Educational-Ant-7485,1hbba5y,https://reddit.com/r/webdev/comments/1hbba5y/i_want_to_create_a_website_thats_essentially_a/,https://www.reddit.com/r/webdev/comments/1hbba5y/i_want_to_create_a_website_thats_essentially_a/,2024-12-10 20:23:41,0,0.4,0,0,7,0,0,False,False,True,False,False,,self,t3_1hbba5y
+webdev,What do you guys use for free website templates?,"Figma in particular, but adobe XD, or even html templates would work. I found some figma stuff online but nothing that really seemed worth building a design around. ",IAmRules,1hbb0mn,https://reddit.com/r/webdev/comments/1hbb0mn/what_do_you_guys_use_for_free_website_templates/,https://www.reddit.com/r/webdev/comments/1hbb0mn/what_do_you_guys_use_for_free_website_templates/,2024-12-10 20:12:09,0,0.4,0,0,8,0,0,False,False,True,False,False,,self,t3_1hbb0mn
+webdev,Do I need to let users opt in or out of cookies in order to use Google Tags?,"Hi all,
+
+I was tasked with adding Google Tags/Google Analytics to my company's various websites, and did so without any hiccups. My company is based in NYC and only handles work in the city.
+
+However I mentioned it to a friend who said that I need to let the users opt out of cookies in order to comply with some privacy laws.
+
+Another developer friend however works for some government agency for New Jersey and says her company doesn't have users accept cookies for their Google Tags etc.
+
+Can anybody advise? I know there are some laws like the CCPA/GDPR, but I'm unsure if it applies here.",mzkpenguin,1hb5ore,https://reddit.com/r/webdev/comments/1hb5ore/do_i_need_to_let_users_opt_in_or_out_of_cookies/,https://www.reddit.com/r/webdev/comments/1hb5ore/do_i_need_to_let_users_opt_in_or_out_of_cookies/,2024-12-10 16:28:54,0,0.4,0,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1hb5ore
+webdev,HTML for People,,fagnerbrack,1hb6k3s,https://reddit.com/r/webdev/comments/1hb6k3s/html_for_people/,https://htmlforpeople.com/,2024-12-10 17:05:44,0,0.27,0,0,1,0,0,False,False,False,False,False,,default,t3_1hb6k3s
+webdev,Good niche for freelance dev?,"Hi, 
+
+I’m thinking about diving into freelancing in software/web development. I’m looking for a niche that’s in demand but not too crowded, and something that’s not too complex to get started with. Any ideas or suggestions? 
+
+TIA!",h00biedoo,1hb4ure,https://reddit.com/r/webdev/comments/1hb4ure/good_niche_for_freelance_dev/,https://www.reddit.com/r/webdev/comments/1hb4ure/good_niche_for_freelance_dev/,2024-12-10 15:52:55,0,0.33,0,0,35,0,0,False,False,True,False,False,,self,t3_1hb4ure
+webdev,The website I'm developing takes a bit to load,"ISSUE FIXED, it was a Wishlist plugin that takes a while to make the petition.  
+  
+I'm developing a website in Wordpress, everything is going nice and I'm able to work on it without any problem. But one day, I visited the website to check how it was looking on a different browser and it took 1 full second to load the fonts and the element's placement. I'm using Elementor with a bunch of addons, so that may be the issue, I also configured the cache. Any ideas besides Elementor and its addons?",ellennyy,1hb8lx0,https://reddit.com/r/webdev/comments/1hb8lx0/the_website_im_developing_takes_a_bit_to_load/,https://www.reddit.com/r/webdev/comments/1hb8lx0/the_website_im_developing_takes_a_bit_to_load/,2024-12-10 18:31:30,2,0.67,2,0,17,0,0,False,False,True,False,False,Question,self,t3_1hb8lx0
+webdev,"Got approached to develop a webscraping and contacting system, need guidance","Someone approached me on LinkedIn, he wants me to develop a system to search info about companies on the web and people of interest in those companies, their phones and emails, via APIs and webscraping
+
+He has a CSV info a bit of info on those companies, his idea is to scrape LinkedIn to find the people of interest in those companies and get their contact info
+
+My main concern is defining how much time I need to deliver that. I never did any webscraping. I know his stuff is possible because a project of mine is similar, hence why he contacted me, but I didn't start implementing those features for contacting yet, and mine didn't even need webscraping
+
+Any way, someone can help me figuring what else I need to know to measure how long this thing will take? Im a mid-level fullstack developer, my background is C# Dotnet React, I never did a serious project in Python (I can code on it tho), but this freelance I would be on my own pretty much. We will have a meeting in a day or two to define details and I'll have to estimate a time to deliver the project
+
+Edit: doesn't HAVE to be LinkedIn, I can scrape or use the api of someone else. As long as I get the info, it's great. And I wonder if I can deliver it and how long",Blender-Fan,1hbhku9,https://reddit.com/r/webdev/comments/1hbhku9/got_approached_to_develop_a_webscraping_and/,https://www.reddit.com/r/webdev/comments/1hbhku9/got_approached_to_develop_a_webscraping_and/,2024-12-11 01:05:10,0,0.38,0,0,12,0,0,False,False,True,False,False,,self,t3_1hbhku9
+webdev,What is the point of using jwt(http-only cookie) and csrf token(not http-only cookie)?,"As far as I understood, I need protection against csrf attacks when I use jwt by storing them in http-only cookies.
+
+So that when a user visits a malicious site and a request to my server is made from there with jwt cookies automatically enabled, I can protect the user from unwanted actions.
+
+And for this, you need to use a csrf token.
+
+But it is also stored in cookies, and there is a chance that an attacker will try to get it through an xss attack. Or if it's also http-only, it will be automatically sent by the browser just like jwt cookies.
+
+So, what's the point of using a csrf token? Is it add just another level of security? Please help me understand, thanks!",mikhailo_k,1hbeyys,https://reddit.com/r/webdev/comments/1hbeyys/what_is_the_point_of_using_jwthttponly_cookie_and/,https://www.reddit.com/r/webdev/comments/1hbeyys/what_is_the_point_of_using_jwthttponly_cookie_and/,2024-12-10 23:02:46,3,0.71,3,0,11,0,0,False,False,True,False,False,Question,self,t3_1hbeyys
+webdev,How to Ask My Boss to Let Me Handle the Website?,"Hi, I’m new to web development and have only hosted demo sites on GitHub, but my company is redesigning its website, and I want to pitch myself to manage and program it.
+
+How can I convince my boss to give me a chance, despite my lack of real-world experience? Any tips on how to approach this or quickly improve my skills would be helpful.
+
+
+
+The website is for a mid-sized company and needs to showcase products/services, have an about page, contact form, blog, and be user-friendly with good SEO.
+
+Thanks!",AncientArugula3939,1hbab0i,https://reddit.com/r/webdev/comments/1hbab0i/how_to_ask_my_boss_to_let_me_handle_the_website/,https://www.reddit.com/r/webdev/comments/1hbab0i/how_to_ask_my_boss_to_let_me_handle_the_website/,2024-12-10 19:42:18,0,0.29,0,0,42,0,0,False,False,True,False,False,,self,t3_1hbab0i
+webdev,What is best way to limit what users can see/do?  Via cookies?  Recording IP address?  Something else?,"For example, when a news site like The Athletic lets you see, say, 5 articles for free and then tells you you've run out and it's time to pay.  
+
+I imagine they don't do it by cookies since you could delete the cookies or use incognito browser to get around it.
+
+So do they record the IP address you came from and restrict using that?  
+
+Or is there another method I'm not aware of?",gabbysal,1hbioo5,https://reddit.com/r/webdev/comments/1hbioo5/what_is_best_way_to_limit_what_users_can_seedo/,https://www.reddit.com/r/webdev/comments/1hbioo5/what_is_best_way_to_limit_what_users_can_seedo/,2024-12-11 02:01:08,28,0.81,28,0,28,0,0,False,False,True,False,False,,self,t3_1hbioo5
+webdev,How to achieve new test environemtn for every feature?,"Hi, I'd like to ask for help with how I can achieve different test environments for every feature. For example, if I have feature-1 and it is ready to be tested, I would like to have [feature-1.site.com](http://feature-1.site.com) as test environment, and so forth for every feature that is ready for testing.",LongjumpingLaugh8766,1hbtjmg,https://reddit.com/r/webdev/comments/1hbtjmg/how_to_achieve_new_test_environemtn_for_every/,https://www.reddit.com/r/webdev/comments/1hbtjmg/how_to_achieve_new_test_environemtn_for_every/,2024-12-11 13:33:07,0,0.5,0,0,5,0,0,False,False,True,False,False,,self,t3_1hbtjmg
+webdev,Domains,"A local small company that I know want me to build a website for them
+
+Their old website is hosted by another small local business, and we want to keep the old domain name..
+
+How would I go about retrieving the old domain name, so that I can use it to display the website that I build
+
+Thanks in advance! 
+
+Edit: I currently haven’t paid for a hosting domain, I assume it’s ok to build the website first, then buy one? (Thinking of Ionos)",Mnixon779,1hbsnb7,https://reddit.com/r/webdev/comments/1hbsnb7/domains/,https://www.reddit.com/r/webdev/comments/1hbsnb7/domains/,2024-12-11 12:45:05,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1hbsnb7
+webdev,Easy Automated Image Gen on the Web,"I have written some python code that generates a few .png using matplotlib with some data I get from an API. I want to regenerate these images daily, and share them with one or more people. Currently this involves me sending an email every day. I'd rather have it hosted on the web where it's easily accessible.   
+  
+Two questions: 1.) Is there a photo hosting site that has an API I can automatically upload them to? If so, I assume you can program a computer to automatically run some python code at a set time each day, what would I search to learn more about this?  
+  
+2.) Some of the parameters are customizable, so I'd rather have a little website that allows the other person be able to adjust some parameters and generate the images on the fly. Is Django the best way to get this done? If so, should I host it on a VPS or is there a simpler place to run this web app? Theoretically, these plots/data have monetary value, so I'd eventually want to lock it behind a login as well. I know this seems like I might be biting off more than my amateur self can chew. But I am happy to learn along the way of this process. I don't care if it takes me a few weeks to make all of this work.
+
+  
+If there is a better sub for these questions, please point me that way. I know question 1 isn't really webdev related. Thanks in advance.",Far_Kangaroo2550,1hbibip,https://reddit.com/r/webdev/comments/1hbibip/easy_automated_image_gen_on_the_web/,https://www.reddit.com/r/webdev/comments/1hbibip/easy_automated_image_gen_on_the_web/,2024-12-11 01:42:45,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hbibip
+webdev,What UI framework would you pick for your next web project?,"Hey web devs!
+
+I'm currently working on a Next.js project and can't decide which UI framework is best for me. 
+
+I started playing with Tailwind and Tailwind UI, then found out about other frameworks like shadcn/ui and NextUI.  It all was based on TailwindCSS, and I kinda was okay with that. Until today, when I discovered Chakra UI, and in terms of DX it looks much more promising! I am no expert in web frameworks, but have a lot of experience building for Apple platforms. I am curious what would experienced web dev pick and why? 
+
+(I have tried to find answer to my questions elsewhere, but my curiosity has not been fulfilled yet).
+
+Many thanks!",Endore8,1hb9n8i,https://reddit.com/r/webdev/comments/1hb9n8i/what_ui_framework_would_you_pick_for_your_next/,https://www.reddit.com/r/webdev/comments/1hb9n8i/what_ui_framework_would_you_pick_for_your_next/,2024-12-10 19:14:39,3,0.67,3,0,24,0,0,False,False,True,False,False,,self,t3_1hb9n8i
+webdev,Is anyone using Processwire with Laravel for authentication?,"Hey All,
+
+I've recently gotten into Laravel, and I love it. It was very easy setting up a previous project using it as a backend to a nextjs frontend. The documentation was great on this front.
+
+I have a pet project now where I really want to use Processwire as a CMS in conjunction with Laravel for authentication only. ***I'm just curious how many here have done this, and if there are any pointers that can be offered? How well is it also working out for you?***
+
+I know how to implement the appropriate table migrations for the Laravel part within the existing MySQL database that Processwire uses - as these will the be same kinds of tables I want to use as I did on my previous project. However, I want to bypass any and all authentication and user management that processwire does. 
+
+Appreciate any advice.
+
+",-Rexa-,1hb589a,https://reddit.com/r/webdev/comments/1hb589a/is_anyone_using_processwire_with_laravel_for/,https://www.reddit.com/r/webdev/comments/1hb589a/is_anyone_using_processwire_with_laravel_for/,2024-12-10 16:08:57,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1hb589a
+webdev,What are these things?,https://preview.redd.it/wkkqhlkoe26e1.png?width=1514&amp;format=png&amp;auto=webp&amp;s=5d56893cd6541056089e006761c1b9038e99ac54,AstronautIll8684,1hb8mzs,https://reddit.com/r/webdev/comments/1hb8mzs/what_are_these_things/,https://www.reddit.com/r/webdev/comments/1hb8mzs/what_are_these_things/,2024-12-10 18:32:46,0,0.22,0,0,5,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/WR7rLPz3K3-Sz617tXUx-5NcYN4SOmgF6_jpA87qI4c.jpg,t3_1hb8mzs
+webdev,Custom domain name super weird bugs,"Hi,
+
+I've setup custom domain today (fly.io hosting &amp; namecheap for domain).
+
+And I see very strange behavior now:
+
+\- Safari and Chrome on mobile work fine and connect to backend
+
+\- Safari works fine on my latop
+
+\- Chrome on my laptop does not load the site at all (ERR\_CONNECTION\_REFUSED).
+
+\- Chrome on someone else's laptop loads the site, but the site cannot connect to backend due to CORS policy.
+
+  
+I have no idea what's going on, I have another website with exactly same configuration and it works smooth. ChatGPT is useless.
+
+What's going on?
+
+Thank you.",velinovae,1hbs0f3,https://reddit.com/r/webdev/comments/1hbs0f3/custom_domain_name_super_weird_bugs/,https://www.reddit.com/r/webdev/comments/1hbs0f3/custom_domain_name_super_weird_bugs/,2024-12-11 12:06:52,1,0.67,1,0,5,0,0,False,False,True,False,False,Question,self,t3_1hbs0f3
+webdev,CMS for a non-profit?,"Consider the case. Imagine you have to pick a CMS to deploy and customise for a non-profit that publishes something semi-daily, including reports, press releases, and articles. It would be self-hosted. It would be great if it were built in Python on the backend. But it also has to be rather popular so that it's easy to find someone to help with upkeep, customisations and further development.
+
+WordPress is out of the question, as customising is a pain and requires juggling loads of non-interoperable plugins.
+
+What would you suggest?",jarekko,1hbql4x,https://reddit.com/r/webdev/comments/1hbql4x/cms_for_a_nonprofit/,https://www.reddit.com/r/webdev/comments/1hbql4x/cms_for_a_nonprofit/,2024-12-11 10:29:38,1,0.67,1,0,6,0,0,False,False,True,False,False,,self,t3_1hbql4x
+webdev,How to fix this weird selection are thing in safari?,"Hey, I am building a chat UI, and I absolutely hate how I can double-click on text to select it, and Safari shows a really weird selection area! Is there any chance there is a quick fix?
+
+
+
+https://preview.redd.it/644b97u9166e1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=7184a50bd4814b13a774ca1c1612563b9cb7f782
+
+",Robert-treboR,1hbnn8l,https://reddit.com/r/webdev/comments/1hbnn8l/how_to_fix_this_weird_selection_are_thing_in/,https://www.reddit.com/r/webdev/comments/1hbnn8l/how_to_fix_this_weird_selection_are_thing_in/,2024-12-11 06:45:28,1,0.67,1,0,4,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/_cXK6Uw2qeTYZU1TEdK2xlpJLe_lyPLK5OvPYcMH7aQ.jpg,t3_1hbnn8l
+webdev,My website button / dropdown menu are being squished on mobile devices?,"Hi im new to making websites and Ive been making one to store my college work on (Right now its just a fake download button that sends you to a rickroll lol). It looks pretty nice on a desktop but when I load it on my phone the download button gets all squished. My download button fills up with liquid when hovered over and I do this by moving a water image background upwards when I hover over the button. On a mobile device though its in the wrong position and already showing a bit at the bottom of the button.
+
+Also my navbar has a dropdown menu that opens when hovered over. I figured out each link in my dropdown menu is 46px tall. Theres 2 items in the dropdown menu so I set it to open to 92px with a transition effect. I cant set the max height in css to be 100% because my dropdown menu isnt a set height and the height depends on the items within it so the browser cant calculate 100%. But while it works on a pc just manually setting the height to 92px on a mobile device it doesnt fully open?
+
+Ive attached an image of it using my pixel 7 and my pcs browser so you can see what I mean. Any help is appreciated thanks.
+
+[On my PC](https://preview.redd.it/0uj3hx70756e1.png?width=672&amp;format=png&amp;auto=webp&amp;s=81c08b455350778cb1e73445e76b704dde981418)
+
+[On my pixel 7](https://preview.redd.it/4q69cu8w756e1.png?width=689&amp;format=png&amp;auto=webp&amp;s=e664e55e06e04adbf98501bdac63fd7cb3f2c7c0)
+
+[On my PC](https://preview.redd.it/6hsm9d4z756e1.png?width=437&amp;format=png&amp;auto=webp&amp;s=c4738dc0442f0f0d333f05b18d43693338616798)
+
+[On my pixel 7](https://preview.redd.it/c83f2sz0856e1.png?width=402&amp;format=png&amp;auto=webp&amp;s=cb064e4a2419be1a9eef3c953404bd4c9433ee67)",No-Drawing-1508,1hbkyfq,https://reddit.com/r/webdev/comments/1hbkyfq/my_website_button_dropdown_menu_are_being/,https://www.reddit.com/r/webdev/comments/1hbkyfq/my_website_button_dropdown_menu_are_being/,2024-12-11 04:00:22,1,0.67,1,0,3,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/DkUbrlDRa44RwmrvtfRcRp2iPV-lApvniCI-Ic-euUI.jpg,t3_1hbkyfq
+webdev,Passport.js with VHosts,,d0liver,1hbgngx,https://reddit.com/r/webdev/comments/1hbgngx/passportjs_with_vhosts/,https://www.doliver.org/articles/passport-with-vhost,2024-12-11 00:20:11,1,0.67,1,0,0,0,0,False,False,False,False,False,,default,t3_1hbgngx
+webdev,Baseline 2024: more tools to help web developers,,feross,1hb7ibm,https://reddit.com/r/webdev/comments/1hb7ibm/baseline_2024_more_tools_to_help_web_developers/,https://web.dev/blog/baseline-project-2024?hl=en,2024-12-10 17:45:48,1,0.67,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/j61DZg9_gZt7M-gMq6gsOdEaWHkqSCMkt5xTGCij8sU.jpg,t3_1hb7ibm
+webdev,What is the best place to buy a Domain?,"I'm guessing GoDaddy is out of the question, soo what would be the best place to register one? (good pricing, support, trusted, etc.)",mingoslingo92,1hbd8x8,https://reddit.com/r/webdev/comments/1hbd8x8/what_is_the_best_place_to_buy_a_domain/,https://www.reddit.com/r/webdev/comments/1hbd8x8/what_is_the_best_place_to_buy_a_domain/,2024-12-10 21:46:41,99,0.91,99,0,174,0,0,False,False,True,False,False,,self,t3_1hbd8x8
+webdev,Audio not playing in safari below ios 17,I am trying to play audio using the following function. But it is not working for safari mobile. Please help ,LancersGaeBulge,1hbuzzy,https://reddit.com/r/webdev/comments/1hbuzzy/audio_not_playing_in_safari_below_ios_17/,https://i.redd.it/f3i7uzkxe86e1.jpeg,2024-12-11 14:44:16,1,0.6,1,0,8,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/xmH1E9ktPs4smzIb_g0RtHIaDjVNe_EX_nSCIS3pN_M.jpg,t3_1hbuzzy
+webdev,How can I host a simple python game ,"I'm building a Shopify site for a client and they've created a python game that they want me to embed or link on the site somehow. They've sent me the code for it, it's just a simple question and answer game. Do I need to set up a cpanel host? ",bbbbbert86uk,1hb9oz0,https://reddit.com/r/webdev/comments/1hb9oz0/how_can_i_host_a_simple_python_game/,https://www.reddit.com/r/webdev/comments/1hb9oz0/how_can_i_host_a_simple_python_game/,2024-12-10 19:16:33,0,0.25,0,0,1,0,0,False,False,True,False,False,Question,self,t3_1hb9oz0
+webdev,Where would you host a web app expecting only about ~100 visitors per month?,"Where would you suggest a relatively new dev host a django app expecting about \~100 users per month, with a postgres database containing about 100-200 entries? I have experience with Heroku and pythonanywhere but Heroku is a bit too expensive for now($5 hosting + $9 postgres). I've also used DO spaces but never hosted there and don't want to deal with DevOps right now. I've also seen Namecheap suggestions but not a lot of reviews.",Uranusistormy,1hb8meb,https://reddit.com/r/webdev/comments/1hb8meb/where_would_you_host_a_web_app_expecting_only/,https://www.reddit.com/r/webdev/comments/1hb8meb/where_would_you_host_a_web_app_expecting_only/,2024-12-10 18:32:05,76,0.91,76,0,73,0,0,False,False,True,False,False,Question,self,t3_1hb8meb
+webdev,API for Games,"Can't find a PlayStation website api, that gives what game I'm playing, for how much, etc. but I don't want the website need to login into my account, I need this (if you can found) free,
+Do y'all also have a Roblox, Xbox, and other APIs?
+
+Please let me know",fiokoLy,1hbqvza,https://reddit.com/r/webdev/comments/1hbqvza/api_for_games/,https://www.reddit.com/r/webdev/comments/1hbqvza/api_for_games/,2024-12-11 10:51:48,0,0.29,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hbqvza
+webdev,Postman | What data is ACTUALLY stored in their cloud?,"Postmans verbiage on this seems intentionally convoluted so curious if anyone can clear the air lol. What do they ACTUALLY store in the cloud? Secrets/API Tokens? Or is it Secrets/tokens, response data, bodys etc. or just literally everything. So If I pull sensitive data out of a DB, they store it?",Pidz_,1hbbk6q,https://reddit.com/r/webdev/comments/1hbbk6q/postman_what_data_is_actually_stored_in_their/,https://www.reddit.com/r/webdev/comments/1hbbk6q/postman_what_data_is_actually_stored_in_their/,2024-12-10 20:35:18,33,0.9,33,0,20,0,0,False,False,True,False,False,,self,t3_1hbbk6q
+webdev,How can I host a one page website for free/minimal cost?,"Hi there. I’m new to web dev.
+
+I‘m an artist who posts my artwork and I‘m going to create a one page mini “website” to link all of my socials, etsy, recent videos, etc.. entirely out of html/css &amp; JavaScript. (Think linktree or carrd).
+
+How can I host this so I can share the link to my socials and have people view it? Thanks!
+
+edit: spelling",Ok-Sector-4695,1hb4vfa,https://reddit.com/r/webdev/comments/1hb4vfa/how_can_i_host_a_one_page_website_for_freeminimal/,https://www.reddit.com/r/webdev/comments/1hb4vfa/how_can_i_host_a_one_page_website_for_freeminimal/,2024-12-10 15:53:45,78,0.93,78,0,89,0,0,False,False,True,False,False,Question,self,t3_1hb4vfa
+webdev,"Pricing of ""premium"" domain names","Does anyone have any insight into how pricing of ""premium"" domain names works? I was looking for a fun domain name to use for my blog and dev projects, I've been using a domain with my name in it. I saw the .ing tld and thought something like [struggl.ing](http://struggl.ing) or [ambl.ing](http://ambl.ing) or [attempt.ing](http://attempt.ing) would be fun, but it turns out that anything I tried that is a short-ish single word verb is either already registered or is being marketed as a ""premium"" domain. Namecheap wants \~$4k for [attempt.ing](http://attempt.ing) for example. A whois lookup shows that domain is not registered. I checked a few other registrars and the price for the same domain varied by about $1k from the cheapest to the most expensive. 
+
+I'm curious about who is setting those prices, and who is getting paid the premium price? Is it the .ing tld itself charging the registrars a premium? Or do the registrars mark up the good domain names? 
+
+One of the registrars I checked had a message that said something along the lines of, ""This domain was priced by our partner as a premium domain"", which makes me think the tld itself sets the prices. It's a frustrating exercise trying to find a memorable domain name just for non-commercial use.",Headband6458,1hb8gst,https://reddit.com/r/webdev/comments/1hb8gst/pricing_of_premium_domain_names/,https://www.reddit.com/r/webdev/comments/1hb8gst/pricing_of_premium_domain_names/,2024-12-10 18:25:43,4,0.76,4,0,4,0,0,False,False,True,False,False,,self,t3_1hb8gst
+webdev,"Are you guys also suddenly getting positions ""filled"" email?","Companies that I applied to months ago all of the sudden are sending me ""sorry, position has been filled"" emails. Strangely all at once. Anybody know whats up?",IAmRules,1hbb9co,https://reddit.com/r/webdev/comments/1hbb9co/are_you_guys_also_suddenly_getting_positions/,https://www.reddit.com/r/webdev/comments/1hbb9co/are_you_guys_also_suddenly_getting_positions/,2024-12-10 20:22:42,9,0.91,9,0,4,0,0,False,False,True,False,False,,self,t3_1hbb9co
+webdev,Cognitive Load is what matters,,fagnerbrack,1hbm4f4,https://reddit.com/r/webdev/comments/1hbm4f4/cognitive_load_is_what_matters/,https://github.com/zakirullin/cognitive-load,2024-12-11 05:06:07,35,0.95,35,0,4,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/rNf3WcxHGMQeb9avziBSU4Rc5nv2HaOs20Hw3bDPt4s.jpg,t3_1hbm4f4
+webdev,Finally will no longer get charged if you go over your usage on netlify. ,,josephadam1,1hbq2gj,https://reddit.com/r/webdev/comments/1hbq2gj/finally_will_no_longer_get_charged_if_you_go_over/,https://www.netlify.com/blog/introducing-netlify-free-plan/?utm_medium=email&amp;_hsenc=p2ANqtz-8Uld1uCkVaoSg8h507NxrTFAWHuHMhORvZ6uuJfYFbf4L0HbnvFvkv5dFsq3EwQ8L7oLrJgR-UkXdcUdqa0VpoKnW7CCdNOLjidCpCb4n_kHmB1aA&amp;_hsmi=337928257&amp;utm_content=337928257&amp;utm_source=hs_email,2024-12-11 09:51:02,12,0.82,12,0,3,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/7va2OC01n-9cBICqaS5wtZ1emBeeu5RWOWUrmsGXfzY.jpg,t3_1hbq2gj
+webdev,Heading tag space,"While adding CSS of margin to let 2 div elements touch at the vertices, it was only possible to do so using h1 tag. Tried to use h2 but there is some kind of ghost space with h2. 
+
+Can any one tell me is that the case?
+
+[with h1](https://preview.redd.it/qcdxopsq286e1.png?width=1223&amp;format=png&amp;auto=webp&amp;s=5511fb7449534fc3f32486bc0430686bfa7cd776)
+
+[with h2](https://preview.redd.it/k226irsq286e1.png?width=1097&amp;format=png&amp;auto=webp&amp;s=e81c14e28d63049be12133b5130673173039f7c5)
+
+",mallickaniket,1hbtltf,https://reddit.com/r/webdev/comments/1hbtltf/heading_tag_space/,https://www.reddit.com/r/webdev/comments/1hbtltf/heading_tag_space/,2024-12-11 13:36:19,3,0.81,3,0,2,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/FQVk_CJ2n-ShDOTklrQa6jEamj3XIYjoAvmNofUFk4k.jpg,t3_1hbtltf
+webdev,Hosted email options,"Can anyone recommend a hosted email platform to use with a custom domain?
+
+I’m currently using iCloud forwarding, which works, but I often find it frustrating having to use app-specific passwords etc.
+
+The domain is hosted by Cloudflare which supports routing but I’d rather keep it separate from my personal email.
+
+I don’t generally use Gmail to allow for Cloudflare routing",ConduciveMammal,1hbssyg,https://reddit.com/r/webdev/comments/1hbssyg/hosted_email_options/,https://www.reddit.com/r/webdev/comments/1hbssyg/hosted_email_options/,2024-12-11 12:54:09,1,1.0,1,0,5,0,0,False,False,True,False,False,Question,self,t3_1hbssyg
+webdev,Credit check API for B2B Shopify store,"Im creating a B2B store on Shopify and part of the sign up process, we're gonna perform a credit check on the company. Does anyone know of a good API that can perform soft credit checks? Or perhaps if anyone has a different suggestion? - Thanks",alexiky,1hbs8nl,https://reddit.com/r/webdev/comments/1hbs8nl/credit_check_api_for_b2b_shopify_store/,https://www.reddit.com/r/webdev/comments/1hbs8nl/credit_check_api_for_b2b_shopify_store/,2024-12-11 12:21:03,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hbs8nl
+webdev,"Storing data per ""session""(?) on WordPress","Hi, working on a plugin that's meant to store the previous URL that a user was on. Headers didn't work for me as it would not persist if you say navigated straight to the login page rather than going to the home page -&gt; (optional) any other page -&gt; login.
+
+Here is the part of the plugin: [https://gist.github.com/cyrus01337/3fb366f421a6fffad166879b057a14b1](https://gist.github.com/cyrus01337/3fb366f421a6fffad166879b057a14b1)
+
+I've left my attempts at using cookies as comments, is there anything I could be missing?",TheWordBallsIsFunny,1hbpy4h,https://reddit.com/r/webdev/comments/1hbpy4h/storing_data_per_session_on_wordpress/,https://www.reddit.com/r/webdev/comments/1hbpy4h/storing_data_per_session_on_wordpress/,2024-12-11 09:41:49,2,1.0,2,0,5,0,0,False,False,True,False,False,Question,self,t3_1hbpy4h
+webdev,Water animation,"I'm pretty new into the Three.js world and I'm curious as to what would be a good starting point in building this water animation from Gentlerain's Homepage.
+
+URL: [https://www.gentlerain.ai/](https://www.gentlerain.ai/)
+
+Any recommendations are highly appreciated!",Seoulites,1hbor2x,https://reddit.com/r/webdev/comments/1hbor2x/water_animation/,https://www.reddit.com/r/webdev/comments/1hbor2x/water_animation/,2024-12-11 08:06:56,6,1.0,6,0,8,0,0,False,False,True,False,False,,self,t3_1hbor2x
+webdev,Looking for an api of batch translation in open ai,"There is an api for image to image translation in open ai but I couldn't find api for batch translation of image to image translation, if there is, please help me find it 🙏🙏",scott9830,1hbo8ph,https://reddit.com/r/webdev/comments/1hbo8ph/looking_for_an_api_of_batch_translation_in_open_ai/,https://www.reddit.com/r/webdev/comments/1hbo8ph/looking_for_an_api_of_batch_translation_in_open_ai/,2024-12-11 07:28:20,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hbo8ph
+webdev,Suggestions for moving our forum from SimpleMachines?,"Hello everyone!
+
+We've been running our community forum on SMF for almost twenty years (currently on 2.1.4). Unfortunately, although I have a soft spot for SMF, it's been falling behind times for a long time now... And god knows when v3 is going to be released.
+
+Could someone suggest a modern forum platform to move to? The only (but biggest) caveat is there has to be a working importer from SMF, and this is what has stumbled me as I haven't found any decent forum software with a current importer.
+
+Anyone has anything to suggest?
+
+Thanks!",Themistocles_gr,1hbnx1h,https://reddit.com/r/webdev/comments/1hbnx1h/suggestions_for_moving_our_forum_from/,https://www.reddit.com/r/webdev/comments/1hbnx1h/suggestions_for_moving_our_forum_from/,2024-12-11 07:04:08,2,1.0,2,0,9,0,0,False,False,True,False,False,,self,t3_1hbnx1h
+webdev,m3u8 link work on VLC but not in online media players,"I have a .m3u8 link that plays in VLC player but it wont play in HLS player website like [HLS Player - Free M3U8,DASH Player - Livepush](https://livepush.io/hlsplayer/index.html). Whereas when I tried to play the link in HLS player it just shows black screen.
+
+Why is this?
+
+.m3u8 link: [https://streetcatpull.hellobike.com/live/4403564823711369745\_0.m3u8](https://streetcatpull.hellobike.com/live/4403564823711369745_0.m3u8)",Hexalogy,1hbnm61,https://reddit.com/r/webdev/comments/1hbnm61/m3u8_link_work_on_vlc_but_not_in_online_media/,https://www.reddit.com/r/webdev/comments/1hbnm61/m3u8_link_work_on_vlc_but_not_in_online_media/,2024-12-11 06:43:30,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1hbnm61
+webdev,"Episode 1 of My HONO Series Is Live! Let's Decode This Modern Web Framework Together 🚀
+","Hey everyone! 🙌
+
+I’m back with the **first episode** of my HONO YouTube series, and I’m so excited to share it with you all! 🎉 In this episode, titled **""Hono Decoded: Unveiling the Powerhouse of Modern Web Frameworks""**, I dive into what makes HONO such a powerful yet lightweight choice for building web applications.
+
+We’ll break it all down:
+
+* What HONO is and why it's worth learning.
+* Its core features and how it compares to other popular frameworks.
+* Why its loved by Developers
+
+If you’re curious about HONO or want to learn a modern approach to backend and full-stack development, I think you’ll really enjoy this one!
+
+Here’s the link: [**Episode 1 - Hono Decoded**](https://www.youtube.com/watch?v=lGLxrvDxsF8) 🎥
+
+As always, I’d love your feedback, thoughts, or even questions about the framework or what’s coming next in the series. Your support and ideas mean so much as I work on this project!
+
+Let’s keep building and learning together",RevolutionaryAd1557,1hbg2xq,https://reddit.com/r/webdev/comments/1hbg2xq/episode_1_of_my_hono_series_is_live_lets_decode/,https://www.reddit.com/r/webdev/comments/1hbg2xq/episode_1_of_my_hono_series_is_live_lets_decode/,2024-12-10 23:54:06,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hbg2xq
+webdev,Resume Roast,"Is my Resume ready to apply for jobs? or not?
+
+And feel free to give honest feedback about my Resume.
+
+
+
+https://preview.redd.it/472vx9e7f36e1.png?width=652&amp;format=png&amp;auto=webp&amp;s=1a203e6edf744999f8aca5bca271cf846e742430
+
+",TheFapGoesCloud,1hbdlxn,https://reddit.com/r/webdev/comments/1hbdlxn/resume_roast/,https://www.reddit.com/r/webdev/comments/1hbdlxn/resume_roast/,2024-12-10 22:02:13,1,1.0,1,0,10,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/PpdhfLi0PEk_OE5fHyIynJN45A7ioI6ZcT1jqROR0Vw.jpg,t3_1hbdlxn
+webdev,Live or onSubmit form-validation,"Hey there. Currently working on my own implementation of form-validation in my app. I was just wondering what of those two options the people generally prefer more:
+
+\- Input errors (red text under the input) after the user (tries to) submit the form  
+\- Input errors as soon as you type something in thats invalid (even when you clear the text-input because you want to write something new)
+
+thx :)",harvaze,1hbdc6y,https://reddit.com/r/webdev/comments/1hbdc6y/live_or_onsubmit_formvalidation/,https://www.reddit.com/r/webdev/comments/1hbdc6y/live_or_onsubmit_formvalidation/,2024-12-10 21:50:37,2,1.0,2,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hbdc6y
+webdev,Headless CMS hosted in the main app or separate server?,"I'm about to implement a headless CMS and was wondering if it's better to have it a part of my main app or run it separately? It would only store data about certain parts of my application, namely the e-commerce portion so it wouldn't be accessed as frequently as other parts of the page, but I need speed and reliability without affecting the rest of the app.
+
+Considering using payload since I'm creating a nextjs app.",clit_or_us,1hbb80q,https://reddit.com/r/webdev/comments/1hbb80q/headless_cms_hosted_in_the_main_app_or_separate/,https://www.reddit.com/r/webdev/comments/1hbb80q/headless_cms_hosted_in_the_main_app_or_separate/,2024-12-10 20:21:01,2,0.67,2,0,3,0,0,False,False,True,False,False,Question,self,t3_1hbb80q
+webdev,Multi-level Radial Menu,"https://preview.redd.it/v90e0692s26e1.png?width=774&amp;format=png&amp;auto=webp&amp;s=77073d988768216c413319d85cee36fa3b9b27b2
+
+How would you go about creating a radial menu like this, that has multiple concentric menus.  
+
+
+What I am looking for:  
+\- having the ability to rotate each radial menu as a form of selecting something (selection at the top of the concentric circle)  
+\- the child elements need to look like they are buttons.  
+\- 6 elements per menu/concentric circle  
+\- each element need to be spaced out and have a custom width and still look exactly as in the example above.  
+\- the larger the concentric circle, the move space each element need to have in between.
+
+I have managed to create the circle, and  managed to rotate the.
+
+The issue is when I try to add the child elements that represent different options. It just doesn't click with me.
+
+From my understanding, I need to bring each element at the border of the circle...
+
+Any guidance would be helpful",Embarrassed_Feed_594,1hbako9,https://reddit.com/r/webdev/comments/1hbako9/multilevel_radial_menu/,https://www.reddit.com/r/webdev/comments/1hbako9/multilevel_radial_menu/,2024-12-10 19:53:50,1,1.0,1,0,1,0,0,False,False,True,False,False,,https://a.thumbs.redditmedia.com/vjqJPD8mh4M9dQDfEsdTCYlGF-56XYh0PQ88z1ImlB0.jpg,t3_1hbako9
