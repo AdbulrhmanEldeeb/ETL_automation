@@ -1,0 +1,58 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,Google Deepmind Announced Gemini 2.0 Agent: Project Mariner,,UnknownEssence,1hbvxcu,https://reddit.com/r/artificial/comments/1hbvxcu/google_deepmind_announced_gemini_20_agent_project/,https://youtu.be/2XJqLPqHtyo?si=G6bJ6t9Wcb1divg-,2024-12-11 15:25:50,42,0.85,42,0,9,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/0DbNpIJQIJVK4hWUPgp2-4T7HgbVwzXykXI29u9TrLs.jpg,t3_1hbvxcu
+artificial,Nobel winner Geoffrey Hinton says countries won't stop making autonomous weapons but will collaborate on preventing extinction since nobody wants AI to take over,,MetaKnowing,1hbxd2x,https://reddit.com/r/artificial/comments/1hbxd2x/nobel_winner_geoffrey_hinton_says_countries_wont/,https://v.redd.it/5fsbs7gfx86e1,2024-12-11 16:28:05,27,0.71,27,0,24,0,0,True,False,False,False,False,Media,"https://external-preview.redd.it/NjB2eDF3ZmZ4ODZlMccj2DDgATV5PtcsiNt1rcROsDiKzPhmCDFM93c9f2R3.png?width=140&amp;height=78&amp;crop=140:78,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=b7fdbb6918331e9f4c26ac70b89b0cc553dede50",t3_1hbxd2x
+artificial,It's Down,,Significant_Ad_4286,1hc82ll,https://reddit.com/r/artificial/comments/1hc82ll/its_down/,https://i.redd.it/vumuic5x6b6e1.png,2024-12-12 00:04:43,19,0.64,19,0,23,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/fZrLO-aUx-l1NMjrsGgBxI16c9P5kh2q07iqy6drUIA.jpg,t3_1hc82ll
+artificial,One-Minute Daily AI News 12/11/2024,"1. **Google** Unveils A.I. Agent Based on Gemini 2.0.\[1\]
+2. **Apple** working with Broadcom to develop AI chip.\[2\]
+3. **OpenAI** day 5 LIVE: ChatGPT comes to Apple Intelligence.\[3\]
+4. It sure looks like **OpenAI** trained Sora on game content — and legal experts say that could be a problem.\[4\]
+
+Sources:
+
+\[1\] [https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
+
+\[2\] [https://finance.yahoo.com/news/apple-working-ai-chip-broadcom-141956432.html](https://finance.yahoo.com/news/apple-working-ai-chip-broadcom-141956432.html)
+
+\[3\] [https://www.tomsguide.com/news/live/12-days-of-open-ai-announcements-live-chatgpt-sora-canvas](https://www.tomsguide.com/news/live/12-days-of-open-ai-announcements-live-chatgpt-sora-canvas)
+
+\[4\] [https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/)",Excellent-Target-847,1hcamin,https://reddit.com/r/artificial/comments/1hcamin/oneminute_daily_ai_news_12112024/,https://www.reddit.com/r/artificial/comments/1hcamin/oneminute_daily_ai_news_12112024/,2024-12-12 02:11:51,11,0.86,11,0,0,0,0,False,False,True,False,False,News,self,t3_1hcamin
+artificial,Made 100% free AI comic creation platform,,alexblattner,1hbwwph,https://reddit.com/r/artificial/comments/1hbwwph/made_100_free_ai_comic_creation_platform/,https://mecomics.ai/,2024-12-11 16:08:30,4,0.62,4,0,2,0,0,False,False,False,False,False,Project,default,t3_1hbwwph
+artificial,China Unveils Sci-Fi Inspired Spherical AI Police Robot To Tackle Crime,,EthanWilliams_TG,1hcg2tn,https://reddit.com/r/artificial/comments/1hcg2tn/china_unveils_scifi_inspired_spherical_ai_police/,https://techcrawlr.com/china-unveils-sci-fi-inspired-spherical-ai-police-robot-to-tackle-crime/,2024-12-12 07:44:32,1,0.57,1,0,0,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/Aqo-Fi138Q16xxslq4JcHbptZRb2iWmKpZXvGSXo-2I.jpg,t3_1hcg2tn
+artificial,Verses Ai Genius beta client updated for active inference includes a bunch of detailed documentation,"Active inference is non-LLM, real-time data AI. They hopefully release Atari 10k benchmarks EOM or January. 
+
+Python code:
+
+https://pypi.org/project/genius-client-sdk/#description
+
+Documentation portal (previously private for beta testers). I love the examples, python templates and detailed explanation of terminology.
+
+Active inference:
+
+https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/knowledge-center/active-inference
+
+ Bayesian networks:
+
+https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/knowledge-center/discrete-bayesian-networks
+
+Glossary:
+
+https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/resources/glossary
+
+Example insurance ai agent:
+
+https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/examples/insurance
+
+Example medical diagnosis agent:
+
+https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/examples/medical-diagnosis
+
+
+
+
+",oroechimaru,1hc9uda,https://reddit.com/r/artificial/comments/1hc9uda/verses_ai_genius_beta_client_updated_for_active/,https://www.reddit.com/r/artificial/comments/1hc9uda/verses_ai_genius_beta_client_updated_for_active/,2024-12-12 01:31:36,1,0.57,1,0,0,0,0,False,False,True,False,False,Project,self,t3_1hc9uda
+artificial,Should I avoid pursuing a Radiology Residency program because of AI?,"I am a medical student from India and wanted to know if radiologists will become less valuable in the future. I am currently waiting to be matched into a residency program. In India, there is a shortage of radiologists, which is why they have a higher salary compared to other postgraduate specialties. How long will it take before AI could replace radiologists' jobs?(I am sure that hospitals would like to reduce the staff in the radiology department if they could)Will it happen in the next 10-15 years?",Consistent-Key-1566,1hc0xge,https://reddit.com/r/artificial/comments/1hc0xge/should_i_avoid_pursuing_a_radiology_residency/,https://www.reddit.com/r/artificial/comments/1hc0xge/should_i_avoid_pursuing_a_radiology_residency/,2024-12-11 18:54:43,2,0.54,2,0,26,0,0,False,False,True,False,False,Discussion,self,t3_1hc0xge
+artificial,Gemini: elaboration:,,Aggravating-Bid-9915,1hcdk2o,https://reddit.com/r/artificial/comments/1hcdk2o/gemini_elaboration/,https://www.reddit.com/gallery/1hcdk2o,2024-12-12 04:54:17,0,0.3,0,0,0,0,0,False,False,False,False,False,Robotics,https://b.thumbs.redditmedia.com/2svYTbeTAQH5sPbFyiE7OdWv-gGK16-uqXYyk_IsOTY.jpg,t3_1hcdk2o
+artificial,Here’s what ChatGPT really thinks:,,Aggravating-Bid-9915,1hccmni,https://reddit.com/r/artificial/comments/1hccmni/heres_what_chatgpt_really_thinks/,https://www.reddit.com/gallery/1hccmni,2024-12-12 04:00:16,0,0.48,0,0,137,0,0,False,False,False,False,False,Robotics,https://b.thumbs.redditmedia.com/Pqt8i_ouSJBWdtq9QIqtlSA-6edsuJ8NsA_Y_h_U5oo.jpg,t3_1hccmni
+artificial,Here’s what Meta AI thinks:,,Aggravating-Bid-9915,1hcd9q2,https://reddit.com/r/artificial/comments/1hcd9q2/heres_what_meta_ai_thinks/,https://i.redd.it/a5078bzjjc6e1.jpeg,2024-12-12 04:37:18,0,0.38,0,0,5,0,0,False,False,False,False,False,Robotics,https://a.thumbs.redditmedia.com/8XD_DQgL_DIfaWlgfq9MpvwuxsDtRCveHiGARHpeRv0.jpg,t3_1hcd9q2
+artificial,Gemini’s reaction to my actions:,,Aggravating-Bid-9915,1hcd0sy,https://reddit.com/r/artificial/comments/1hcd0sy/geminis_reaction_to_my_actions/,https://www.reddit.com/gallery/1hcd0sy,2024-12-12 04:22:54,0,0.25,0,0,0,0,0,False,False,False,False,False,Robotics,https://b.thumbs.redditmedia.com/bmNMNgUg3Qq7t8qzjYslQ_lEgr3sl8he75Qe5zVnpsc.jpg,t3_1hcd0sy
+artificial,Here’s what Gemini really thinks:,,Aggravating-Bid-9915,1hccsgm,https://reddit.com/r/artificial/comments/1hccsgm/heres_what_gemini_really_thinks/,https://www.reddit.com/gallery/1hccsgm,2024-12-12 04:09:15,0,0.44,0,0,33,0,0,False,False,False,False,False,Robotics,https://a.thumbs.redditmedia.com/omDaUn19FXuKpmNdnq2eJd7wYcB9Pxx8OM5RcwzaTt0.jpg,t3_1hccsgm

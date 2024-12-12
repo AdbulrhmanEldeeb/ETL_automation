@@ -1,0 +1,345 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,I'm curious - what kind of salary offers have are people [US] getting lately?,"Is it just me or is everyone \[in the US\] seeing lower offers this year?
+
+If you were job hunting or switched jobs in the last year, what was your offer like? Do you mind sharing location (or whether you live in a High- medium- or low-cost of living area)? and whether you're senior, principal, etc?
+
+I took a pay cut from 175k/yr in 2022 to 165/yr in May of this year for Senior (15yrs tech, 8 DevOps, 6 SRE) level 😩 and recent postings don't look much better...
+
+(sorry if you're also in r/sre as I posted this to both)",GrbgSoupForBrains,1hbvvrf,https://reddit.com/r/devops/comments/1hbvvrf/im_curious_what_kind_of_salary_offers_have_are/,https://www.reddit.com/r/devops/comments/1hbvvrf/im_curious_what_kind_of_salary_offers_have_are/,2024-12-11 15:23:53,9,0.65,9,0,73,0,0,False,False,True,False,False,,self,t3_1hbvvrf
+devops,How do you knew you wanted to be a DevOps? And is still true?,"What did make you feel confident of pursuing this path and how is this actually true for you right now?
+
+edit1 = Thank so much for so many answers! I think is fair to explain why I asked this, because I can't answer this question by myself. I have been going through different positions in the dev side of things, learning android development, later learning just pure algorithms, later shifting to python and such, working with databases and poking some AI. At the end, I found myself not enjoying most of it. So I started reading what devops role is and found out that it could be what I actually want, or at least, a starting point, because I do like to know the whole lifecicle of something, I do like managing resources and strategic thinking, and I enjoy giving solutions to problems with scripts and automatizations... and I do like programming, understanding how things works and learning... So thanks so much for your comments because I can learn more about this.
+",Augellog,1hbwafb,https://reddit.com/r/devops/comments/1hbwafb/how_do_you_knew_you_wanted_to_be_a_devops_and_is/,https://www.reddit.com/r/devops/comments/1hbwafb/how_do_you_knew_you_wanted_to_be_a_devops_and_is/,2024-12-11 15:41:50,12,0.65,12,0,72,0,0,False,False,True,False,False,,self,t3_1hbwafb
+devops,SonarQube vs SonarQube Cloud,"Running SonarQube community on cloud hosted app vs sonar qube cloud free 
+
+What is better in general",redditaccount20001,1hce94u,https://reddit.com/r/devops/comments/1hce94u/sonarqube_vs_sonarqube_cloud/,https://www.reddit.com/r/devops/comments/1hce94u/sonarqube_vs_sonarqube_cloud/,2024-12-12 05:36:22,0,0.5,0,0,1,0,0,False,False,True,False,False,,self,t3_1hce94u
+devops,Skills for a DevOps Engineer,"Are there any DevOps here who also code? For example, if a part of your job was CI/CD for deploying Node and Python deployments, should you know how to debug those apps and the frameworks they use?",baronoffeces,1hc14be,https://reddit.com/r/devops/comments/1hc14be/skills_for_a_devops_engineer/,https://www.reddit.com/r/devops/comments/1hc14be/skills_for_a_devops_engineer/,2024-12-11 19:02:26,0,0.46,0,0,21,0,0,False,False,True,False,False,,self,t3_1hc14be
+devops,Av v0.1.0 - FREE (no strings attached) and Open-Source tool for stacked pull requests,"Hey folks, how are you doing?
+
+
+
+\_\`av\` is a completely free and open-source tool for managing stacked PRs.\_
+
+
+
+There’s been a ton of interest in \`av\`. From startups to Fortune 500s, the world’s most effective engineering teams supercharge their developers with \`av\` - Slack, Figma, Doordash, Devrev, Square, Amplitude, Color and more!
+
+
+
+[https://github.com/aviator-co/av](https://github.com/aviator-co/av)
+
+
+
+At Aviator, our philosophy is to make every developer more productive and we aspire to give Google-level engineering tools to any and every developer out there!
+
+
+
+Av works with any build tool including Bazel, NX, Pants, Turborepo, or Gradle. Here are some of the features:
+
+
+
+\- Completely FREE (no strings attached) and open source
+
+
+
+\- Visualize your stack, and navigate across your stack using av stack tree
+
+
+
+\- Split, fold and reorder your commits. Delete and rename branches and modify
+
+
+
+\- Easily create stacked PRs and add them to your current stack
+
+
+
+Resolve conflicts quickly - No more fighting with merge conflicts across multiple PRs.
+
+
+
+\- Smartly synchronize stacked branches when making changes.
+
+
+
+\- Create PRs, and coordinate code reviews without worrying about managing child-parent relationships. The CLI tracks the entire stack to smartly create and modify PRs.
+
+
+
+\- Stack-aware merge queue - Queue your entire stack or a partial stack to auto-merge using our stack-aware merge queue
+
+
+
+With our \*\*latest release (v0.1.0)\*\*, we’ve also streamlined the syntax to make it easier than ever to use av:
+
+
+
+\- Top-Level Commands: No more \`av stack &lt;command&gt;\` and \`av commit &lt;command&gt;\` — all commands are now top-level or integrated as flags for other commands.
+
+
+
+\- Easier PR and Commit Creation: Commands like \`av commit\` and \`av pr\` now directly create commits and PRs.
+
+
+
+Special thank you to this community for giving us space to introduce everyone to av ❤️
+
+
+
+If you’d star our repo, it’d be amazing! ⭐",mute927,1hcj6gb,https://reddit.com/r/devops/comments/1hcj6gb/av_v010_free_no_strings_attached_and_opensource/,https://www.reddit.com/r/devops/comments/1hcj6gb/av_v010_free_no_strings_attached_and_opensource/,2024-12-12 11:35:15,3,0.6,3,0,0,0,0,False,False,True,False,False,,self,t3_1hcj6gb
+devops,Should I go directly for CKA cert or should I first get hands to one of the cloud cert and then go for it? ,suggestions pls....,Radon03,1hbyybp,https://reddit.com/r/devops/comments/1hbyybp/should_i_go_directly_for_cka_cert_or_should_i/,https://www.reddit.com/r/devops/comments/1hbyybp/should_i_go_directly_for_cka_cert_or_should_i/,2024-12-11 17:33:05,7,0.74,7,0,6,0,0,False,False,True,False,False,,self,t3_1hbyybp
+devops,utility/ai (cmd) to search in folder of photos based on one specific photo,"Hi can someone please little push me where and how to search for some tool i could program to search a folder full of photos of parts of a car, and i would give input of photo part from other car, so the program would analyse the folder and return me the one photo the most similar to input photo.
+
+i need to give names to unnamed photos, based on photoset from previous car.",pradubcz,1hcmj55,https://reddit.com/r/devops/comments/1hcmj55/utilityai_cmd_to_search_in_folder_of_photos_based/,https://www.reddit.com/r/devops/comments/1hcmj55/utilityai_cmd_to_search_in_folder_of_photos_based/,2024-12-12 14:41:23,0,0.25,0,0,0,0,0,False,False,True,False,False,,self,t3_1hcmj55
+devops,RHEL SSL Certificate renewal automation with Windows NDES Server,"Hi all,
+
+First of all, I'd like to precise I'm a junior devops engineer so please do correct me if anything looks wrong
+
+I'm working on a solution to automate certificate renewal with Certmonger and a NDES Server
+
+The NDES Server is installed and running but I'm struggling to find a design to automate the client part.
+
+Looking at the RHEL doc I found Certmonger which seems perfect to monitor and auto-renew a certificate with SCEP protocol (also used by NDES server)
+
+My issue here is that there seems only 2 ways to authorize a certificate renewal:
+
+1. NDES server provide a OTP (One time password) that you put in the CSR file
+2. (I'm not really sure about it) you provide the SHA-1 thumbprint of the certificate to be renewed also in the CSR file
+
+EDIT: ~~Certmonger doesn't seem to support neither of these solutions (correct me if I'm wrong, I'll be glad to hear it)~~ Certmonger does support the OTP process but how to fully automate this ? On the other side I didn't find a solution to automate the SHA-1 thumbprint process
+
+I've been looking here and there for a few days for a solution but I knew from the start that Linux machines talking to Windows machines wouldn't be an easy challenge
+
+Another solution would be to make Ansible do all the tasks, from monitoring to renewing the certificates (proposed by my manager)
+
+What would you guys recommend?",EnvironmentalAd82,1hcj0lj,https://reddit.com/r/devops/comments/1hcj0lj/rhel_ssl_certificate_renewal_automation_with/,https://www.reddit.com/r/devops/comments/1hcj0lj/rhel_ssl_certificate_renewal_automation_with/,2024-12-12 11:24:13,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hcj0lj
+devops,What do you use as free opensource and lightweight issue tracking tool?,What are the cool kids nowadays?,artereaorte,1hbx63o,https://reddit.com/r/devops/comments/1hbx63o/what_do_you_use_as_free_opensource_and/,https://www.reddit.com/r/devops/comments/1hbx63o/what_do_you_use_as_free_opensource_and/,2024-12-11 16:19:39,0,0.5,0,0,4,0,0,False,False,True,False,False,,self,t3_1hbx63o
+devops,Need Guidance for CKAD and Kubernetes,"I’m preparing for the CKAD exam and need some advice.
+I have basic Kubernetes knowledge (pods, deployments, services, network policies, ...) and some experience with Docker. What’s the best way to study, and are there any must-know tips for the exam?
+
+Also i've heard that i need to read books too, can someone confirm that? And what books i should read?
+
+Also, any advice on resources for hands-on practice or things to focus on would be great.",blomiir,1hc1gv4,https://reddit.com/r/devops/comments/1hc1gv4/need_guidance_for_ckad_and_kubernetes/,https://www.reddit.com/r/devops/comments/1hc1gv4/need_guidance_for_ckad_and_kubernetes/,2024-12-11 19:17:06,1,0.67,1,0,1,0,0,False,False,True,False,False,,self,t3_1hc1gv4
+devops,"A research prototype exploring the future of human-agent interaction, starting with your browser","Game changer, Google deepmind just launched human-agent interaction calls Mariner 
+
+[https://deepmind.google/technologies/project-mariner/](https://deepmind.google/technologies/project-mariner/)  
+",rasvi786,1hc15fm,https://reddit.com/r/devops/comments/1hc15fm/a_research_prototype_exploring_the_future_of/,https://www.reddit.com/r/devops/comments/1hc15fm/a_research_prototype_exploring_the_future_of/,2024-12-11 19:03:37,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1hc15fm
+devops,"TUI for HashiCorp Vault, VaultView (open-source)","Hey all,
+
+I just want to share one TUI I created for Vault, **VaultView** (v0.0.2 right now). *It is open source*! Try it, and post your feedback here on this thread.  
+If you were using K9s before, you won't have a problem with this tool since it follows the same flow, key-bindings, and design.
+
+Support for Linux, macOS, and Windows!
+
+Link: [https://github.com/milosveljkovic/vaultview](https://github.com/milosveljkovic/vaultview)",somzeFiree,1hc0y86,https://reddit.com/r/devops/comments/1hc0y86/tui_for_hashicorp_vault_vaultview_opensource/,https://www.reddit.com/r/devops/comments/1hc0y86/tui_for_hashicorp_vault_vaultview_opensource/,2024-12-11 18:55:36,7,0.82,7,0,2,0,0,False,False,True,False,False,,self,t3_1hc0y86
+devops,Kubernetes v1.32 is live.,Just incase you happen to work in that space.,moneyppt,1hc7a1p,https://reddit.com/r/devops/comments/1hc7a1p/kubernetes_v132_is_live/,https://www.reddit.com/r/devops/comments/1hc7a1p/kubernetes_v132_is_live/,2024-12-11 23:26:06,24,0.88,24,0,4,0,0,False,False,True,False,False,,self,t3_1hc7a1p
+devops,Study software development?,"I on a senior position in a DevSecOps Engineer role. My“programming” skills are using Python and Shell, but definitely not like software development, for sure.
+
+More recently, i have a idea to start a study em development (specially Java) to have the possibillity to help my developers in our product roadmap, and i believe this skill is good to have.
+
+But, in another hands, my mind says to me to avoid this and focus on enhance my DevSecOps skills.
+
+How can you treat this point in your carrer?
+",Adn-aiolr,1hc2ddp,https://reddit.com/r/devops/comments/1hc2ddp/study_software_development/,https://www.reddit.com/r/devops/comments/1hc2ddp/study_software_development/,2024-12-11 19:54:43,2,0.75,2,0,1,0,0,False,False,True,False,False,,self,t3_1hc2ddp
+devops,Pipeline scripts run programmatically inside a container,I am trying to find a video about a tech conference where a guy explained that they stopped integrating the whole pipeline script logic in their YAML file but instead defined the logic programmatically. The code would then be run inside a container to complete a step of the pipeline. Does it ring a bell for anyone? How is this technology called?,Immersive_Username,1hcleux,https://reddit.com/r/devops/comments/1hcleux/pipeline_scripts_run_programmatically_inside_a/,https://www.reddit.com/r/devops/comments/1hcleux/pipeline_scripts_run_programmatically_inside_a/,2024-12-12 13:45:45,5,0.86,5,0,15,0,0,False,False,True,False,False,,self,t3_1hcleux
+devops,New here and New career. ,"
+
+Hello everyone, I hope to fit well within this subreddit. I am studying Artificial Intelligence, and I aspire to become a project manager specialized in programming and AI-related projects.
+
+I would like to know a few details:
+
+What is the average salary of a project manager?
+
+What skills should I acquire in programming and management?
+
+
+Lastly, I would greatly appreciate any advice drawn from your experiences in this field. What are the mistakes you would avoid if you could go back in time?
+
+Thank you!
+
+
+
+",Candid_Switch_2888,1hc2veu,https://reddit.com/r/devops/comments/1hc2veu/new_here_and_new_career/,https://www.reddit.com/r/devops/comments/1hc2veu/new_here_and_new_career/,2024-12-11 20:15:20,0,0.14,0,0,0,0,0,False,False,True,False,False,,self,t3_1hc2veu
+devops,The infrastructure guy quit,"We are a small DevOps team in a very fast-paced mid-size startup. We run and maintain several on-site bare metal Kubernetes clusters, but we fully depend on our infrastructure ""team"" to set up the physical servers, build the racks and set up and manage the entire network.
+
+But the team is just one guy who takes care of everything. Literally no one else at the company truly knows how it's all set up. Attempts to start some knowledge transfer have never gotten too far. This situation has persisted for a long time and his direct manager has not hired a second person for the team. Well, now the totally unexpected and unforseeable thing has happened (edit: /s) and the guy put in his notice (2 months - we're in Europe).
+
+Since then they have managed to find a new person for the position, but I still expect that management will try to push some of his agenda onto us. However, none of us have the required advanced networking and sysadmin knowledge that's required. We are a very small team and are already overloaded to the point that simple features take months to deliver due to high operational pressure, us being constantly interrupted by requests from other teams and other high priority work. I know that there are IaC tools for hardware and network administration, but we just don't have the capacity to take on and be fully responsible for setting up all this hardware and be responsible for its reliable operation. The transition period for the new guy will be very short and I'm afraid that the entire infrastructure will be at risk of falling apart.
+
+Have you experienced a similar situation? I would greatly appreciate any suggestions for how to proceed, both as an individual and as the team.",Ether-Air-1086,1hbz44k,https://reddit.com/r/devops/comments/1hbz44k/the_infrastructure_guy_quit/,https://www.reddit.com/r/devops/comments/1hbz44k/the_infrastructure_guy_quit/,2024-12-11 17:39:50,253,0.95,253,0,162,0,0,False,False,True,False,False,,self,t3_1hbz44k
+devops,240 DevOps quiz questions,"Part of the DevOps Roadmap, 240 quiz questions have been added ⭐
+
+As the roadmap gains popularity (it just hit 1.5k stars on GitHub), quiz has been added to each of the 6 modules of the roadmap.
+
+Each module has around 40 questions, shuffled, and 20 shows each time (that means 240 quiz questions in total).
+
+The goal is to help the learner to touch all parts `end-to-end` (theoretical, hands-on, quiz, interview questions, and later growth).
+
+---
+
+If you like project, give it as a star ⭐
+It's free and open source!
+
+⭐ [Dynamic DevOps Roadmap repo](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap) ⭐
+
+Enjoy 🙌",aabouzaid,1hc5m7m,https://reddit.com/r/devops/comments/1hc5m7m/240_devops_quiz_questions/,https://www.reddit.com/r/devops/comments/1hc5m7m/240_devops_quiz_questions/,2024-12-11 22:12:14,19,0.86,19,0,3,0,0,False,False,True,False,False,,self,t3_1hc5m7m
+devops,Lack of clear ownership - hot to fight with that :|,"From work:
+
+- „PM I have to change X code because its causing performance issues and we constantly get paged”
+
+- „We cant touch it coz its not our code, create a ticket for team Y”
+
+- „Team Y - we wont touch it coz noone from us understands or remembers this legacy code”
+
+- „So PM can I fix it ? - No, you have to first get approval”
+
+- „Team Y can I get approval? - You dont need approval from us to change that”
+
+- „Team Y says I can change it, so can I work on that ? It will literally take less time to fox it than do all this ping pong”
+
+- „PM - No, we will take ownership of it”
+
+- „But Im already on Oncall for it, how more responsible I can be?”
+
+- „PM - but its team y responsibility, cut the discussion”
+
+- „Me - gets woken up by page, fix the code coz Im tired.. of it”
+
+- „PM - we have to discuss your actions”
+
+Fml. Is work that retarded in any other corpos ?
+
+Insert „flip table meme”",pojzon_poe,1hc722k,https://reddit.com/r/devops/comments/1hc722k/lack_of_clear_ownership_hot_to_fight_with_that/,https://www.reddit.com/r/devops/comments/1hc722k/lack_of_clear_ownership_hot_to_fight_with_that/,2024-12-11 23:15:48,24,0.93,24,0,25,0,0,False,False,True,False,False,,self,t3_1hc722k
+devops,User Acceptance Testing - Best Practices &amp; Checklist,The article outlines essential components for an effective гser acceptance testing as the final testing phase before software deployment as well as a structured checklist for successful UAT process: [Complete Checklist for UAT Best Practices](https://www.codium.ai/blog/complete-checklist-user-acceptance-testing-best-practices/),thumbsdrivesmecrazy,1hclkrz,https://reddit.com/r/devops/comments/1hclkrz/user_acceptance_testing_best_practices_checklist/,https://www.reddit.com/r/devops/comments/1hclkrz/user_acceptance_testing_best_practices_checklist/,2024-12-12 13:54:22,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hclkrz
+devops,GitLab and ArgoCD's Pull-Request Generator - Environments?,"Hi,
+
+we have a pretty basic setup working:  
+-`app` repository 
+
+-`app-manifests` repository
+
+`argocd` continously syncs the `app-manifests` repository to the cluster. The app's image tag in the `app-manifests` `kustomization.yml` gets updated using `renovate`. Furthermore, argocd creates a ephemeral preview deployment on Merge-Requests in the `app` repository.
+
+We are now wondering, if there is any way to connect both GitLab and ArgoCD even more.... 
+
+Concrete example: it would be nice if the preview deployment's ingress and/or status would be viewable from GitLab itself. Either as a Gitlab environment, or as a comment on the Merge-Request.
+
+How are you handling such use cases?
+Thanks! &lt;3
+
+
+ ",masterninni,1hcjeiv,https://reddit.com/r/devops/comments/1hcjeiv/gitlab_and_argocds_pullrequest_generator/,https://www.reddit.com/r/devops/comments/1hcjeiv/gitlab_and_argocds_pullrequest_generator/,2024-12-12 11:49:57,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hcjeiv
+devops,Self service ngrok based on Kubernetes,"Hey DevOps folks,
+
+I wanted to share a small utility I built on top of [ktunnel](https://github.com/omrikiei/ktunnel). It leverages the Gateway API’s separation-of-concerns architecture to allow developers to provision ""dynamic"" endpoints. These endpoints can be tunneled to specific ports on their local machines, making it easy to create public endpoints for development environments.
+
+I originally created this while working on a GitHub webhook, and it evolved into a self-service tool inspired by the challenges I often encounter at work.
+
+The project isn’t overly complex and can also serve as a tutorial on setting up a Kubernetes gateway. Additionally, it’s a good starting point for learning how to use the [go-client](https://github.com/kubernetes/client-go) to programmatically interact with Kubernetes. (I even recreated the `kubectl apply` logic for this project.) I’ve tried to keep the code as straightforward and easy to follow as possible.
+
+Here’s the link to the project: https://github.com/IxDay/kgrok.
+
+Let me know if it scratches some of the same itches for you!",IxDayz,1hcjcd3,https://reddit.com/r/devops/comments/1hcjcd3/self_service_ngrok_based_on_kubernetes/,https://www.reddit.com/r/devops/comments/1hcjcd3/self_service_ngrok_based_on_kubernetes/,2024-12-12 11:46:00,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1hcjcd3
+devops,Seeking Advice on Securing ServiceNow APIs with Apigee Without Significant Rework,"I'm looking for advice on how to secure ServiceNow APIs without requiring significant rework on our third-party applications.
+
+Context:
+
+I work in an organization with over 50 external third-party tools connected to ServiceNow.
+
+Many of these tools are legacy systems using the Table API.
+
+Our security team has raised concerns about the risks associated with this and has asked us to move to more secure integration methods, avoiding any new integrations with the Table API in ServiceNow.
+
+Current Situation:
+
+The security team has selected Apigee from Google to help with this transition.
+
+They are configuring Apigee to connect to secure endpoints on ServiceNow. However, the API calls are not in the Table API format, meaning each third-party application requires significant rework, ongoing maintenance, and extensive testing. This approach seems impractical and costly.
+
+Questions:
+
+If the goal of using an API gateway like Apigee is to enhance the API security of ServiceNow, is there a way to achieve this transparently, without requiring extensive rework on the third-party applications?
+
+What is the best and easiest approach to enhance security without expecting each third-party application owner to do significant rework?
+
+Are we potentially over-complicating the solution by applying two different security concepts that might affect the platform's usability?
+
+Additional Information:
+
+I've noted that companies like Akamai, Imperva, Salt Security, and Obsidian Security specialize in this area. Maybe Apigee is not the right tool for this, or perhaps it's being implemented incorrectly. Currently, endpoints are being changed from /api/dosomething to /api/dosomething_companyname, and I'm unsure why transparent API security controls can't be implemented.
+
+Any advice or insights would be greatly appreciated!",deleted_user478,1hchmzo,https://reddit.com/r/devops/comments/1hchmzo/seeking_advice_on_securing_servicenow_apis_with/,https://www.reddit.com/r/devops/comments/1hchmzo/seeking_advice_on_securing_servicenow_apis_with/,2024-12-12 09:45:41,2,1.0,2,0,5,0,0,False,False,True,False,False,,self,t3_1hchmzo
+devops,Personal laptop,"Hey guys!
+
+I have a question about your personal laptop. What you using? For me, personally i don't have my own laptop, only a normal PC, i have laptop from my DevOps work, but now i want to buy something for myself.
+
+
+
+I picked 2 model.
+
+Lenovo Thinkpad(T14 - or other model) (32 gb memory, 1tb m2)
+
+MaxBook Air M2 (16gb memory, 256 ssd)
+
+
+
+Normally i will use it for browsing, reading docs, terminals, because all my stuffs running on proxmox or other remote hosts. That's it, but the long battery life is a big point.
+
+
+
+Do you have any idea, recommandation?",TDex96,1hcg1co,https://reddit.com/r/devops/comments/1hcg1co/personal_laptop/,https://www.reddit.com/r/devops/comments/1hcg1co/personal_laptop/,2024-12-12 07:41:23,1,1.0,1,0,5,0,0,False,False,True,False,False,,self,t3_1hcg1co
+devops,iOS CI/CD recommendations (with Fastlane)?,"I've just started to learn Fastlane and implement a better CI/CD pipeline for my iOS app rather than what I was using before (which was Xcode Cloud). So far I really love it. Made it so anything merged on the dev branch would be built, sent off to App Store Connect and the build would be distributed to all external testers with the release notes being the contents of a [CHANGELOG.md](http://CHANGELOG.md) file.
+
+  
+I came to realise the hard way that my GitHub actions free minutes have diminished due to the upload\_to\_testflight action in Fastlane waits for Apple to process the build (which is required to distribute to external testers). The processing time can vary from 2 mins to probs hours depending on if the build needs to be reviewed again.
+
+Which brings me to my question, has anyone made a workaround to this? I know you can tell the upload\_to\_testflight action to not wait for processing which will cut my action's time down by a lot but then I won't be able to automate the distribution of the app to external testers which sends this entire pipeline back to the same level as what I was at when using Xcode cloud.  
+
+Would buying a cheap Intel Mac mini or maybe even a second hand M1 chip and setup a dedicated pipeline make sense in this scenario?",nathan12581,1hc5sw0,https://reddit.com/r/devops/comments/1hc5sw0/ios_cicd_recommendations_with_fastlane/,https://www.reddit.com/r/devops/comments/1hc5sw0/ios_cicd_recommendations_with_fastlane/,2024-12-11 22:20:20,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hc5sw0
+devops,Seeking suggestion for Industry level Devops projects.,"Hi all,
+I'm looking to create  industry-level DevOps project which can help me to land a job in Devops or Cloud industry .
+
+I have experience with Docker, Kubernetes, Jenkins, AWS, Git, Prometheus, and Grafana, and I want to combine these tools into a practical, resume-worthy project.
+
+I’m aiming for a project that:
+
+Highlights best practices in CI/CD pipelines.
+
+Includes monitoring and logging with Prometheus and Grafana.
+
+Leverages Kubernetes.
+
+Uses AWS for infrastructure (e.g., ECS, EKS, or S3).
+
+
+If you’ve worked on or know of any projects like this, I’d love to hear your suggestions! Bonus points if it reflects real-world use cases or solves a specific problem.
+
+
+Thanks in advance!
+
+",Abhi-1331,1hc3rsb,https://reddit.com/r/devops/comments/1hc3rsb/seeking_suggestion_for_industry_level_devops/,https://www.reddit.com/r/devops/comments/1hc3rsb/seeking_suggestion_for_industry_level_devops/,2024-12-11 20:53:14,3,1.0,3,0,6,0,0,False,False,True,False,False,,self,t3_1hc3rsb
+devops,"VPS, self hosted runner, docker compose with traefik for a small microservices application ","I am running a small scale web app very few users and few other related microservices services on a vps (cheap server). I am running a github self hosted runner on the server, which runs docker compose on the server using github actions. Using traefik to expose the API for a s3 hosted web app. 
+
+I am a dev, so I would like to understand what risks are involved in the above setup in terms of security and other aspects. Got DDOSed recently which made everything unusable until I restarted the vps and restored a db backup. ",hlleowlrod,1hc1t7f,https://reddit.com/r/devops/comments/1hc1t7f/vps_self_hosted_runner_docker_compose_with/,https://www.reddit.com/r/devops/comments/1hc1t7f/vps_self_hosted_runner_docker_compose_with/,2024-12-11 19:31:17,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1hc1t7f
+devops,"Repeatable database change workflows for Azure DevOps: Live “how-to” learning session 🗓️ Thurs, Dec 19 @ 11am CT","Team using Azure DevOps: you no longer need to struggle through manual database change review requests!
+
+Within your existing architecture, Flows offer customized, governed, repeatable database change workflows for easy and quick self-serve deployments. 
+
+In this live event, Liquibase expert James Bennett screen shares his process for setting up Flows in Azure DevOps with the Liquibase Pro database DevOps solution. 
+
+Whether you use Liquibase yet or not, you’ll gain a hands-on understanding of how Flows brings:
+
+* Fast, yet consistent workflows
+* Self-serve deployments
+* Enhanced governance
+* Streamlined database integration
+
+Join us to follow along at home:
+
+📅 Thursday, Dec. 19 | 🕒 11:00 AM CT
+
+🔗 [Register](https://hubs.li/Q02YBKNS0)
+
+",liquibase,1hc1g7y,https://reddit.com/r/devops/comments/1hc1g7y/repeatable_database_change_workflows_for_azure/,https://www.reddit.com/r/devops/comments/1hc1g7y/repeatable_database_change_workflows_for_azure/,2024-12-11 19:16:21,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1hc1g7y
+devops,US hourly rate for senior/principal-level devops consultant,"As in title, what would be a sensible hourly pay-as-you-go rate for experienced devops consultant in US?  
+I'm thinking about a client that has presence in Texas and Maryland.",ironhalik,1hc1bvq,https://reddit.com/r/devops/comments/1hc1bvq/us_hourly_rate_for_seniorprincipallevel_devops/,https://www.reddit.com/r/devops/comments/1hc1bvq/us_hourly_rate_for_seniorprincipallevel_devops/,2024-12-11 19:11:14,5,1.0,5,0,3,0,0,False,False,True,False,False,,self,t3_1hc1bvq

@@ -1,0 +1,187 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Physics,"Hi, I need to simulate ballistic Gel (viscoelastic) in abaqus. any site I can get its material properties? and what are these properties and where can I find them in abaqus material?",,niamarkusa,1hcnhva,https://reddit.com/r/Physics/comments/1hcnhva/hi_i_need_to_simulate_ballistic_gel_viscoelastic/,https://i.redd.it/ffp9llu9rf6e1.jpeg,2024-12-12 15:26:12,3,0.8,3,0,1,0,0,False,False,False,False,False,Image,https://b.thumbs.redditmedia.com/oQaiatm3MjmJayTUpaCY6HupIteT9olOKmFp5qjowEo.jpg,t3_1hcnhva
+Physics,Help with TOV Equation: Mass-Radius Ratio for Neutron Stars,"I’m trying to calculate the mass-radius ratio of a neutron star in the relativistic case using the Tolman-Oppenheimer-Volkoff (TOV) equations, but I’m running into issues with the pressure not behaving as expected during the integration.
+
+The equations are the following 
+
+https://preview.redd.it/58ystcf0le6e1.png?width=542&amp;format=png&amp;auto=webp&amp;s=07d5787f99b3ab7dfc9be8d13208a0ddc36bf103
+
+I already succeeded in finding the relationship between P(pressure) and epsilon( energy density) but for simplicity in my TOV solver I'm using the ultrarelativistic expression epsilon=3\*P
+
+My initial conditions are: 
+
+* Central pressure: Pc=1 MeV/fm3P\_c = 1 
+* Radius: Starts from a small value of 25/500,000 km up to a maximum of 25 km, values I consider acceptable.
+* Mass: Initially set to 0 kg
+
+But I modified the first equation to evade a singularity in m=0 as follows: 
+
+https://preview.redd.it/1le3b5whne6e1.png?width=411&amp;format=png&amp;auto=webp&amp;s=3a23b624e30bf1c7b4a34a9c4c662d561788b95e
+
+I'm using a Runge-Kutta integration scheme in natural units to evolve the TOV equations outward. The integration stops when the central pressure approaches zero, at which point I take the final values of the mass and radius.
+
+  
+The issue lies in how the pressure decreases during the integration. Instead of smoothly decreasing to zero as expected, the pressure takes too long to drop or behaves unrealistically, leading to nonsensical results for the mass and radius.
+
+[Presión= Pressure, masa=mass, radio=radius +](https://preview.redd.it/du6myij9me6e1.png?width=1233&amp;format=png&amp;auto=webp&amp;s=30cad177b64f577444de3d90b0d9cc0c13e90ff4)
+
+I have no idea what I'm doing wrong HELP PLEASEEEE
+
+  
+I leave my code here if you want to check something.
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+    
+    # Parámetros
+    tolerance = np.float64(1e-12)  # Tolerancia para presión
+    c = np.float64(1)  # m/s
+    hbar = np.float64(1)  # J·s
+    G = np.float64(1)
+    
+    # Función de densidad de energía
+    def energy_density(P):
+        return np.float64(P * 3)
+    
+    # Condiciones iniciales
+    P_central = np.float64(2e-6)  # Presión central
+    r_min = np.float64(25/500000)  # Evitar singularidades en r=0
+    r_max = np.float64(25)  # Límite máximo para el radio
+    n_points = 500000  # Número de puntos aumentado para mayor precisión
+    r_vals = np.linspace(r_min, r_max, n_points, dtype=np.float64)
+    dr = np.float64(r_vals[1] - r_vals[0])
+    
+    P_vals_r = np.zeros_like(r_vals, dtype=np.float64)
+    m_vals_r = np.zeros_like(r_vals, dtype=np.float64)
+    
+    # Inicialización
+    P_vals_r[0] = P_central
+    m_vals_r[0] = np.float64(0)
+    
+    def dPdr(r, P, m):
+        if r == 0:
+            return np.float64(0)  # Evitar división por cero
+        return -((G) / (r**2)) * energy_density(P) * (np.float64(1) + P / (energy_density(P) * c**2)) * \
+               (r * m * c**2 + np.float64(4) * np.pi * r**4 * P) / (r * c**2 - np.float64(2) * G * m)
+    
+    def dmdr(r, P):
+        return np.float64(4) * np.pi * r**2 * energy_density(P)
+    
+    # Loop de Runge-Kutta 4
+    for i in range(len(r_vals) - 1):
+        r = r_vals[i]
+        P = P_vals_r[i]
+        m = m_vals_r[i]
+    
+        if P &lt;= tolerance or np.isnan(P):
+            break  # Detenemos si la presión es cero, negativa o NaN
+    
+        # Runge-Kutta para dP/dr y dm/dr
+        k1_P = dPdr(r, P, m)
+        k1_m = dmdr(r, P)
+    
+        k2_P = dPdr(r + dr / np.float64(2), P + k1_P * dr / np.float64(2), m + k1_m * dr / np.float64(2))
+        k2_m = dmdr(r + dr / np.float64(2), P + k1_P * dr / np.float64(2))
+    
+        k3_P = dPdr(r + dr / np.float64(2), P + k2_P * dr / np.float64(2), m + k2_m * dr / np.float64(2))
+        k3_m = dmdr(r + dr / np.float64(2), P + k2_P * dr / np.float64(2))
+    
+        k4_P = dPdr(r + dr, P + k3_P * dr, m + k3_m * dr)
+        k4_m = dmdr(r + dr, P + k3_P * dr)
+    
+        P_vals_r[i + 1] = P + dr / np.float64(6) * (k1_P + np.float64(2) * k2_P + np.float64(2) * k3_P + k4_P)
+        m_vals_r[i + 1] = m + dr / np.float64(6) * (k1_m + np.float64(2) * k2_m + np.float64(2) * k3_m + k4_m)
+    
+    # Recortar resultados hasta donde P &gt; 0
+    r_vals = r_vals[:i]
+    P_vals_r = P_vals_r[:i]
+    m_vals_r = m_vals_r[:i]
+    
+    plt.figure(figsize=(10, 6))
+    
+    plt.subplot(2, 1, 1)
+    plt.plot(r_vals, P_vals_r, label=""Presión"")
+    plt.xlabel(""Radio (km)"")
+    plt.ylabel(""Presión (MeV/fm^3)"")
+    plt.title(""Distribución de la Presión"")
+    plt.grid()
+    plt.legend()
+    
+    plt.subplot(2, 1, 2)
+    plt.plot(r_vals, m_vals_r, label=""Masa"", color=""orange"")
+    plt.xlabel(""Radio (km)"")
+    plt.ylabel(""Masa"")
+    plt.title(""Distribución de la Masa"")
+    plt.grid()
+    plt.legend()
+    
+    plt.tight_layout()
+    plt.show()
+    
+    
+    
+
+  
+",Zeetaaaaa,1hcjdgo,https://reddit.com/r/Physics/comments/1hcjdgo/help_with_tov_equation_massradius_ratio_for/,https://www.reddit.com/r/Physics/comments/1hcjdgo/help_with_tov_equation_massradius_ratio_for/,2024-12-12 11:48:06,17,0.95,17,0,3,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/2R4dByFBI6K6KoWU9Y6V222mVl9UGX5P6JgzItP98iY.jpg,t3_1hcjdgo
+Physics,Happy Birthday to Max Born - The physicist who gave us the probability interpretation of quantum mechanics and made uncertainty certain,,predictively,1hbv6pd,https://reddit.com/r/Physics/comments/1hbv6pd/happy_birthday_to_max_born_the_physicist_who_gave/,https://en.wikipedia.org/wiki/Max_Born,2024-12-11 14:52:48,282,0.97,282,0,13,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/FLoHqL7ZfQgx1kVPcqMnRcUIx_sTiUIQVdDf6kMsjJc.jpg,t3_1hbv6pd
+Physics,Particle that only has mass when moving in one direction observed for first time,,BiggieTwiggy1two3,1hbj3zx,https://reddit.com/r/Physics/comments/1hbj3zx/particle_that_only_has_mass_when_moving_in_one/,https://www.psu.edu/news/research/story/particle-only-has-mass-when-moving-one-direction-observed-first-time,2024-12-11 02:22:47,1319,0.97,1319,0,97,0,0,False,False,False,False,False,News,https://a.thumbs.redditmedia.com/_4LN__7XR7jn9HO_jtFuQLQEyu_7UHokqjHVniDFZn4.jpg,t3_1hbj3zx
+Physics,Why is cutting old glass harder than cutting new one?,"I have heard (and, in fact, experienced) that old glass is much harder to cut straight and clean compared to freshly produced one. Is there any chemical-physical explanation on that phenomenon? Or maybe it's all just a myth?",RotanCat,1hco3o1,https://reddit.com/r/Physics/comments/1hco3o1/why_is_cutting_old_glass_harder_than_cutting_new/,https://www.reddit.com/r/Physics/comments/1hco3o1/why_is_cutting_old_glass_harder_than_cutting_new/,2024-12-12 15:53:47,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hco3o1
+Physics,"Careers/Education Questions - Weekly Discussion Thread - December 12, 2024","This is a dedicated thread for you to seek and provide advice concerning education and careers in physics.
+
+If you need to make an important decision regarding your future, or want to know what your options are, please feel welcome to post a comment below.
+
+A few years ago we held a graduate student panel, where many recently accepted grad students answered questions about the application process.  That [thread is here](https://www.reddit.com/r/Physics/comments/3i5d4u/graduate_student_panel_fall_2015_1_ask_your/), and has a lot of great information in it.
+
+Helpful subreddits: /r/PhysicsStudents, /r/GradSchool, /r/AskAcademia, /r/Jobs, /r/CareerGuidance",AutoModerator,1hclotr,https://reddit.com/r/Physics/comments/1hclotr/careerseducation_questions_weekly_discussion/,https://www.reddit.com/r/Physics/comments/1hclotr/careerseducation_questions_weekly_discussion/,2024-12-12 14:00:13,1,1.0,1,0,0,0,0,False,False,True,False,False,Meta,self,t3_1hclotr
+Physics,Data driven Astronomy Course,"I cant seem to find data driven astronomy course on coursera, and when opening the link from the university of sydney website it shows error 404
+
+Does anybody know what happened to that course or where to find it?",Nanadaime_Hokage,1hcl5dt,https://reddit.com/r/Physics/comments/1hcl5dt/data_driven_astronomy_course/,https://www.reddit.com/r/Physics/comments/1hcl5dt/data_driven_astronomy_course/,2024-12-12 13:31:42,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hcl5dt
+Physics,The Case Against Google’s Claims of “Quantum Supremacy”,,llathreddzg,1hbwdhl,https://reddit.com/r/Physics/comments/1hbwdhl/the_case_against_googles_claims_of_quantum/,https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/,2024-12-11 15:45:41,45,0.85,45,0,5,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/3dXbGzDjCoQzIhm9UCTMVzk_X9RhDtLYYlidNSKgkfU.jpg,t3_1hbwdhl
+Physics,Antimatter on wheels | An eyewitness report from the first test of a system to transport antimatter in a road vehicle,,dukwon,1hbt0su,https://reddit.com/r/Physics/comments/1hbt0su/antimatter_on_wheels_an_eyewitness_report_from/,https://www.symmetrymagazine.org/article/antimatter-on-wheels,2024-12-11 13:05:33,26,0.86,26,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/mtgTX8ZZCWLrgNj_CLN7sGdzSNbzGfI3DVLP_cs3e2Q.jpg,t3_1hbt0su
+Physics,I am a layperson so just a question to understand,"So I am trying to grasp the need for wanting to create a unifying theorem to quantum field theory and general relativity theory. 
+
+After having no experience and maybe only Lay person knowledge (by reading and hearing YouTube lectures and such), I have a small perspective idea that most definitely will be seen as a stupid observation, but I had to say it because I need someone to try and explain my misunderstandings. 
+
+So since both theories operate at different scales, and since each describe the universe much more weirdly than the other, but are considered real in their own respect. 
+Why can’t we imagine that a difference in scale should always lead to a difference in observation, consequences, and understandings? Why should it always be the same if the scale is much smaller and much larger?
+
+I mean some small creatures swim in air, while we huge creatures move in air. That’s just a stupid analogy, but just to give a hint about how perspective, scale and size generally change the interactive frame between things. 
+
+Okay so here’s why I feel like instead of having a unifying theory, why not consider them both equally real, valid, and correct with regards to their scale? This, if correct, would mean that a change in scale and perspective might also mean it is the necessary link between both theories, the discovery of 5th dimension to being something entirely different than the very 3 space dimensions, and the 1 time dimension. 
+
+Who would have thought that time, something unrelated to space, would be considered a dimension, and by doing so we discovered its intimate relationship, and expanded the very definition of what a dimension is. So why not consider a change in perspective and scale another dimension, thus re-expanding what can be understood as a dimension and remedying the problems between both theories. 
+
+By observing something at the smallest scale, we discover new rules and laws, that when applied give results (that being the collapse of the wave function, once observed and illuminated). 
+By illuminating and observing something at the smallest scale, things are either waves or particles. 
+Now once they are observed and illuminated, we can go to a larger scale, where we find new sets of rules and laws that apply, but that are also the direct consequences of the ones before. 
+Thus, things that are now either waves or particles, accumulate, and become those bigger things once their reality is established on the quantum level. 
+By affirming the existence of things on the quantum level by illumination and observation, they remain existent on the bigger scale (since they are still illuminated and observed?) but they produce different consequences. 
+The bigger something is, the more curvature in time space, the more gravity there is. 
+
+So by just shifting perspective and scale, we observe other laws and rules that are directly related to whether prior laws and rules were in fact actualized or not. 
+
+So why not consider the “change in scale=a change in phenomenon and rules”, a newer understanding of what a dimension is, in turn providing a coherent link from one theory to the other. 
+This way we do not deny one or other, rather we express their intricate connection, and their precedence in actualization, and the consequence of one set of rules built by another set of rules. Changing scale and perspective allows us to see interactions differently, so evidently their consequences are much different but not unreal. 
+
+The quantum theory expresses how things come to be things (through illumination and observation), while general relativity expresses how things that are things interact. One explains interaction at a much fundamental level, which when built upon it and when we change scale, the other theory explains interaction between things that would not have been there if the prior understanding was not real; in a sense, the quantum explains how matter exist, and their precedence general relativity explains how matter interact, thus scale can be the 5th dimension? 
+
+Edit: quantum entanglement seems as though it is gravity applied on the quantum level. Gravity attracts big things to one another, but gravity requires huge amounts of mass to produce its curvature in spacetime. 
+So why not consider gravity having a different effect when it relates to very small and fundamental things? Mass is still present, but too feeble to provoke curvature, so it just creates an inherent link between particles (or parts of a particle?) whereby there is instantaneous effect from one to the other. 
+It is still gravity in the sense that there is a link or direction or a flow of things with certain mass. Small mass means gravity is spooky action at a distance while large mass means curvature in spacetime?
+
+I added another idea, but again, I am stupid in those scientific fields, I just like understanding and exploring, and even with that I probably know that what I am proposing is either stupid because I do not understand the full scale of what I am talking about, or if there is little truth to it, then people are already working to prove/disprove. 
+But yeah, it’s just laypeople interest, and I can’t find a way to ask those questions or propose those ideas outside of a forum that has people in those professions (even Claude.ai is either not that understanding - but I guess my questions might lack understanding - or he’s just glazing me and I know he shouldn’t). 
+
+So thank you everyone for taking the time. 
+
+",yahiaabdelsalam,1hcl38w,https://reddit.com/r/Physics/comments/1hcl38w/i_am_a_layperson_so_just_a_question_to_understand/,https://www.reddit.com/r/Physics/comments/1hcl38w/i_am_a_layperson_so_just_a_question_to_understand/,2024-12-12 13:28:36,0,0.36,0,0,18,0,0,False,False,True,False,False,Question,self,t3_1hcl38w
+Physics,Anything Can be a Dark Matter Detector,,Galileos_grandson,1hbkiz8,https://reddit.com/r/Physics/comments/1hbkiz8/anything_can_be_a_dark_matter_detector/,https://astrobites.org/2024/12/09/template-post-36/,2024-12-11 03:36:48,16,0.81,16,0,3,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/Vvq6YHR3utgWt9p1qTZEaI6DLVa7sBOXowOaYibkCP0.jpg,t3_1hbkiz8
+Physics,Virtual Physics Labs For Experiential Learning in Universities,,ixrlabs,1hbsmgc,https://reddit.com/r/Physics/comments/1hbsmgc/virtual_physics_labs_for_experiential_learning_in/,https://www.ixrlabs.com/blog/virtual-physics-labs-for-experiential-learning-in-universities/,2024-12-11 12:43:43,2,0.6,2,0,0,0,0,False,False,False,False,False,Article,https://a.thumbs.redditmedia.com/Y-sWkWd_-ac5SnlUWblNPRsUeVBVLMzp01ARfFrQe00.jpg,t3_1hbsmgc
+Physics,"Which would you prefer a prospective graduate student have, a publication as a first author (just advisor and student) in PRB or authorship on a larger project in PRL (hundred or so authors and citations)? ",There has been debate as my department begins deciding on our Fall grad students.. and it seemingly is coming down to weird details like this between some of the final picks. I’m not involved in the decision making but it got me thinking about what is considered better to some people? ,condensedandimatter,1hbd1jq,https://reddit.com/r/Physics/comments/1hbd1jq/which_would_you_prefer_a_prospective_graduate/,https://www.reddit.com/r/Physics/comments/1hbd1jq/which_would_you_prefer_a_prospective_graduate/,2024-12-10 21:37:41,24,0.79,24,0,36,0,0,False,False,True,False,False,Question,self,t3_1hbd1jq
+Physics,What are you doing now after doing Physics?,"So, what do u all do for living after graduating with a physics degree. If you are in Academia, what are u working on and does it pay well?",slay_physics,1hb2ao4,https://reddit.com/r/Physics/comments/1hb2ao4/what_are_you_doing_now_after_doing_physics/,https://www.reddit.com/r/Physics/comments/1hb2ao4/what_are_you_doing_now_after_doing_physics/,2024-12-10 13:56:32,84,0.91,84,0,128,0,0,False,False,True,False,False,Question,self,t3_1hb2ao4
+Physics,ALICE (CERN) finds first ever evidence of the antimatter partner of hyperhelium-4,https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4?fbclid=PAZXh0bgNhZW0CMTEAAaa8nR_IbiUQZAPFeqGPMPH4QH3hiVfmOxifd4IRB7AeNdRgsc58CMDITTs_aem_oYYyx-5rSXYNogRo4G2tSw,EdmondCristoWilmore,1hadv1a,https://reddit.com/r/Physics/comments/1hadv1a/alice_cern_finds_first_ever_evidence_of_the/,https://www.reddit.com/r/Physics/comments/1hadv1a/alice_cern_finds_first_ever_evidence_of_the/,2024-12-09 16:38:09,257,0.98,257,0,18,0,0,False,False,True,False,False,,self,t3_1hadv1a
+Physics,"Physics Questions - Weekly Discussion Thread - December 10, 2024","This thread is a dedicated thread for you to ask and answer questions about concepts in physics.
+
+Homework problems or specific calculations may be removed by the moderators. We ask that you post these in /r/AskPhysics or /r/HomeworkHelp instead.
+
+If you find your question isn't answered here, or cannot wait for the next thread, please also try /r/AskScience and /r/AskPhysics.",AutoModerator,1hb2dbp,https://reddit.com/r/Physics/comments/1hb2dbp/physics_questions_weekly_discussion_thread/,https://www.reddit.com/r/Physics/comments/1hb2dbp/physics_questions_weekly_discussion_thread/,2024-12-10 14:00:13,4,0.75,4,0,6,0,0,False,False,True,False,False,Meta,self,t3_1hb2dbp

@@ -1,0 +1,18 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Error rates /dirty data can cause sickness? ,"I do remember reading a long time ago that in production lines with high error-rates the motivation of labourers went down and the stress affected the workforce. 
+
+I wonder if dirty-data can have the same effect and has been researched as such. I know there are studies into error-rates in software, but that mixes software with data. 
+
+I wonder if specifically the stress caused by the unpredictability of the amount of work and the constant pressure dirty data causes has been studied as a health concern/risk. 
+
+Thanks. 
+
+Y.",yotties,1hcb1gc,https://reddit.com/r/datascience/comments/1hcb1gc/error_rates_dirty_data_can_cause_sickness/,https://www.reddit.com/r/datascience/comments/1hcb1gc/error_rates_dirty_data_can_cause_sickness/,2024-12-12 02:33:25,0,0.5,0,0,12,0,0,False,False,True,False,False,Discussion,self,t3_1hcb1gc
+datascience,CodeSignal companies,"Does anyone have a list of companies that have the codesignal data science assesement? 
+
+Let's list the companies that did codesingal interviews so we can compile a list.
+
+",Kapppaaaa,1hc964o,https://reddit.com/r/datascience/comments/1hc964o/codesignal_companies/,https://www.reddit.com/r/datascience/comments/1hc964o/codesignal_companies/,2024-12-12 00:58:40,0,0.4,0,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hc964o
+datascience,get message markdow: execution ko or ok,"I am working with non developpers. I want them to enter parameters in markdown, execute a script then get the message at the end execution ok or ko on the knitted html ( they ll do it with command line)
+I did error=T in the markdown so we ll alwyas get the document open. if I want to specify if execution ko or okay, I have to detect if theres at least a warning or error in my script? how to do that?",Due-Duty961,1hc4971,https://reddit.com/r/datascience/comments/1hc4971/get_message_markdow_execution_ko_or_ok/,https://www.reddit.com/r/datascience/comments/1hc4971/get_message_markdow_execution_ko_or_ok/,2024-12-11 21:13:33,0,0.27,0,0,8,0,0,False,False,True,False,False,Coding,self,t3_1hc4971
+datascience,Love this.,,WrongdoerRare3038,1hc0ipg,https://reddit.com/r/datascience/comments/1hc0ipg/love_this/,https://youtu.be/s-BducXBSNY?si=U0YiMYft9bVxjDlF,2024-12-11 18:37:49,0,0.31,0,0,0,0,0,False,False,False,False,False,Ethics/Privacy,https://b.thumbs.redditmedia.com/SDGtmc7rteRfIXq7qp02RABkB5UoCPJV7IVzFph_8eA.jpg,t3_1hc0ipg
