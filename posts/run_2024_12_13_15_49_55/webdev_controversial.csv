@@ -1,0 +1,948 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,"To my beginner friends, a warning: transitioning your career out of JS is hard","I've worked (in Italy as my first dev role) as a Full Stack dev around the MERN stack for a little less than 4 years. At the time, it wasn't a difficult position to get, and it allowed me to finance my degree in Germany.
+
+Now that I have my degree in Comp Ling, I'm again interviewing for positions more around what I'm interested in, which is BE only and, possibly, other ecosystems like .NET (there are many open positions for this environment in my area now, which there weren't a few years ago).
+
+Unfortunately, it seems it's really quite hard to transition out of both the front end and javascript in general. I had a company turn me down due to not having professional experience with Kubernetes and relational DBs, while there was good overlap with the rest of the stack. This is of course completely fair on their part, but I think I could've become a competent user in relatively little time thanks to experimenting with these things in my personal interests and projects. Regardless, it seems I have room to grow in selling what I'm capable of.
+
+Overall, this process of trying to transition out of front-end work and (specifically) MongoDB has been a bit more depressing than I anticipated. I hope you'll have better luck out there, but if you're getting into development on the front-end or full-stack in a JS-centric stack, you might want to look a bit further if your long-term goal is devops or back-end.
+
+With that, happy holidays!",RandomGoodGuy2,1hd8uxk,https://reddit.com/r/webdev/comments/1hd8uxk/to_my_beginner_friends_a_warning_transitioning/,https://www.reddit.com/r/webdev/comments/1hd8uxk/to_my_beginner_friends_a_warning_transitioning/,2024-12-13 09:46:57,0,0.45,0,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1hd8uxk
+webdev,"How to deal with ""bad"" decisions of designers?","So I'm doing some frontend for an web app in our company and our main ui/ux designer is doing our designs. I also like ui and do some stuff for us too and it's mostly recognized.
+
+The app I'm working on is green field and way more modern than the other apps we have. But our designers priority is consistency, so I can't really go for better (looking) solutions since our app should match the others.
+
+This really bugs me, since I hate having to implement a worse version just so it's similar to others. I want to do it better!
+
+Does anyone else experience something like this in their company and how do you handle it? Accept or try to convince?",Ashman_ssb,1hcz2gv,https://reddit.com/r/webdev/comments/1hcz2gv/how_to_deal_with_bad_decisions_of_designers/,https://www.reddit.com/r/webdev/comments/1hcz2gv/how_to_deal_with_bad_decisions_of_designers/,2024-12-12 23:53:53,6,0.61,6,0,24,0,0,False,False,True,False,False,,self,t3_1hcz2gv
+webdev,API design of X (Twitter) home timeline,,trekhleb,1hcu1xk,https://reddit.com/r/webdev/comments/1hcu1xk/api_design_of_x_twitter_home_timeline/,https://trekhleb.dev/blog/2024/api-design-x-home-timeline/,2024-12-12 20:09:09,0,0.5,0,0,0,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/aNndot1WSYgiS9YoFT2Gkc0I7utB_Cf-IUIDOeSLFxQ.jpg,t3_1hcu1xk
+webdev,Would you go with react or svelte if you could start over and why?,What makes the most sense for startup web apps? I want to turn my ideas in to code and build my portfolio up.,WynActTroph,1hd40up,https://reddit.com/r/webdev/comments/1hd40up/would_you_go_with_react_or_svelte_if_you_could/,https://www.reddit.com/r/webdev/comments/1hd40up/would_you_go_with_react_or_svelte_if_you_could/,2024-12-13 04:09:36,3,0.57,3,0,39,0,0,False,False,True,False,False,Question,self,t3_1hd40up
+webdev,"Built an actual working AI meeting copilot - and I am building it in open source, and making it self hostable","I got tired of relying on clunky SaaS tools for meeting transcriptions that didn’t respect my privacy or workflow. Every one I tried had issues:
+
+* Bots awkwardly joining meetings and announcing themselves.
+* Poor transcription quality.
+* No flexibility to tweak things to fit *my* setup.
+
+So I built **Amurex**, a self-hosted solution that actually works:
+
+* Records meetings quietly, with no bots interrupting. 
+* Delivers clean, accurate diarised transcripts right after the meeting.
+* Automatically drafts follow-up that I can email.
+* Keeps a memory of past meetings for easy context retrieval.
+
+But most importantly, it has it is the only chrome extension in the world that can give
+
+* Real-time suggestions to stay engaged in boring meetings.
+
+It’s completely open source and designed for self-hosting, so you control your data and your workflow. No subscriptions, no vendor lock-in.I would love to know what you all think of it.  
+  
+ It only works on Google Meet for now but I will be scaling it to all the famous meeting providers.  
+  
+Github - [https://github.com/thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex)  
+Website - [https://www.amurex.ai/](https://www.amurex.ai/)  
+",stealthanthrax,1hcn8k1,https://reddit.com/r/webdev/comments/1hcn8k1/built_an_actual_working_ai_meeting_copilot_and_i/,https://www.reddit.com/r/webdev/comments/1hcn8k1/built_an_actual_working_ai_meeting_copilot_and_i/,2024-12-12 15:14:28,0,0.41,0,0,14,0,0,False,False,True,False,False,,self,t3_1hcn8k1
+webdev,Is this secure enough to launch on Vercel?,"Making a web app in Vite and these are the steps I have taken to secure my google API keys
+
+1. Added API keys in .env as a variable.
+2. Called the api variable in .js file through process.env.
+3. Added .env to gitignore
+4. Regenerated the API keys so they are different in the .js file history on github
+5. Made github repo private
+
+Only place I will add keys would be in Vercel's dashboard. Confirmed that no code file has any API key except .env",orangeflyingmonkey_,1hcrfio,https://reddit.com/r/webdev/comments/1hcrfio/is_this_secure_enough_to_launch_on_vercel/,https://www.reddit.com/r/webdev/comments/1hcrfio/is_this_secure_enough_to_launch_on_vercel/,2024-12-12 18:16:29,2,0.57,2,0,8,0,0,False,False,True,False,False,,self,t3_1hcrfio
+webdev,What’s your go-to daily driver browser?,"Looking to cut Chrome the RAM destroyer out of my life other than as a x-browser compatibility tool
+
+I’m learning web dev stacks that aren’t Python based so one would imagine that I’ve got a metric shit-ton of tabs open (and I do, much more so than when I’m deving stuff that’s in my wheelhouse).
+
+HTOP has become a horror show. 
+
+What are you all using? I’m looking for opinions from mostly, but not limited to, folks who migrated away from Chrome. 
+
+Can I get some thoughts on your migration experience as well wrt passwords, bookmarks, etc? Any features you miss from Chrome? Anything else?",husky_whisperer,1hcrprv,https://reddit.com/r/webdev/comments/1hcrprv/whats_your_goto_daily_driver_browser/,https://www.reddit.com/r/webdev/comments/1hcrprv/whats_your_goto_daily_driver_browser/,2024-12-12 18:28:44,53,0.71,53,0,232,0,0,False,False,True,False,False,Question,self,t3_1hcrprv
+webdev,If you had to build a SPA for streaming data/news from scratch ... what would you do?,"I'm looking to build a Single Page Application and need advice on the best approach. While I've created a basic prototype (with extensive help of AI), I realize bringing it to production quality would take too much of my time. I'm considering hiring an agency or freelancer to build it based on some detailed specifications. My idea is that if I can set un stone the structure of the front/back end communication (e.g., api/http post requests)... then I can keep focusing on the backend, as they help me build the website .
+
+The website works predominantly as a **information analysis feed** (with the possibility of digging deeper and visualizing the analyzed pdf/html document)**,** and there will be a **chatgpt-like chat.** The key requirements are that:
+
+* When new data is sent to it (e.g., through the HTTP post request), it should pop up in the page without need of refreshing 
+* Some data fields will update via webhooks or similar (e.g., stock prices) 
+* There will be a chatgpt-like chat feature -- communicating with my separate server (probably the same that sends the HTTP post requests) 
+* I may need to embed a htm viewer and a pdf viewer
+
+Is there an obvious choice in terms of frameworks? Is there any industry standard player (e.g., agency) that can help me with this or would you hire individual freelancers? 
+
+Also what do you expect the timeline &amp; budget to be for a project like this?",Mc1st,1hcrl5m,https://reddit.com/r/webdev/comments/1hcrl5m/if_you_had_to_build_a_spa_for_streaming_datanews/,https://www.reddit.com/r/webdev/comments/1hcrl5m/if_you_had_to_build_a_spa_for_streaming_datanews/,2024-12-12 18:23:12,2,0.56,2,0,19,0,0,False,False,True,False,False,,self,t3_1hcrl5m
+webdev,Free resources/tips for learning UI design as a developer as fast as possible?,"I'm a frontend developer, and I want to be able to design my own websites (landing pages mainly).
+
+I also need to improve my ds-algo and backend skills so I can't give too much time to learn UI design. I can work my way with UX, but I need some tips for improving the **design** part.
+
+Specifically, color scheme, spacing, typography, and some hacks for making a creative design. Basically how to make a website look good. I have already learned basics of Figma.
+
+I know about the Refactoring UI book, but it's paid, and I can't spend money at the moment. Searching online didn't help much, except this [comment](https://www.reddit.com/r/reactnative/s/8ygTOuW6YB)
+
+Edit: I know I could just watch YouTube videos, but I want recommendations, I don't want to be stuck in tutorial hell",retardedGeek,1hd56uj,https://reddit.com/r/webdev/comments/1hd56uj/free_resourcestips_for_learning_ui_design_as_a/,https://www.reddit.com/r/webdev/comments/1hd56uj/free_resourcestips_for_learning_ui_design_as_a/,2024-12-13 05:17:18,0,0.5,0,0,8,0,0,False,False,True,False,False,Resource,self,t3_1hd56uj
+webdev,Thoughts on this fun website I made to explore bootstrap?,https://mkscode92.github.io/funny/,MkStorm9,1hd5d4x,https://reddit.com/r/webdev/comments/1hd5d4x/thoughts_on_this_fun_website_i_made_to_explore/,https://i.redd.it/3i74ad2ixj6e1.jpeg,2024-12-13 05:27:56,0,0.4,0,0,6,0,0,False,False,False,False,False,Discussion,https://a.thumbs.redditmedia.com/of8zJMNuyQx275KNDwDWLL9znbcEOQOISz5mvjl7lq0.jpg,t3_1hd5d4x
+webdev,Need some advice on starting Web Dev,"I am starting my 4th semester as a comp science major soon; all I know is DSA in C/C++, mid-level Java, and Python. I have completed around 200 questions on leetcode but I've realized the importance of projects so I would like to get started on that. I am considering starting Web Dev this semester and working on some projects before the end of this sem, but I'm also considering starting some ML and GenAI for projects. I am not sure if that is the right move considering I'm in a pretty competitive college that loves giving a lot of workloads but I do want to build my resume with at least 2-3 good projects and a decent leetcode profile before starting my 5th semester so I can apply for on-campus internships and by the end of 6th sem apply for google stem 2026. I could use some advice on this should I do web dev first then shift to ML or do them simultaneously?",thegreenarrow03,1hco6et,https://reddit.com/r/webdev/comments/1hco6et/need_some_advice_on_starting_web_dev/,https://www.reddit.com/r/webdev/comments/1hco6et/need_some_advice_on_starting_web_dev/,2024-12-12 15:57:13,0,0.5,0,0,11,0,0,False,False,True,False,False,,self,t3_1hco6et
+webdev,Worth Learning TS for Small Projects,"Currently work as a security engineer, do a lot with cloud, devops, etc. It's been beneficial to learn basic React (JS) as we frequently build small-scale UI sites. For example, one site displayed container vulnerability Jira tickets and presented a way to configure fields across all tickets via a friendly interface. 
+
+However recently during my React learnings, TS is pushed heavily and seems to be the primary webdev language. I get the benefits of it, but it seems a bit heavy to learn personally. I come from a Python &amp; Go background, so it's not foreign but definitely requires some time commitment. I've already known standard JS from previous experience.
+
+I'm trying to decide if it's worth learning for these small projects of ours, and others in the future. If we just have a few people working on a small-scale App (maybe 10 components), is it worth it? I'm torn right now.",TopNo6605,1hcp68c,https://reddit.com/r/webdev/comments/1hcp68c/worth_learning_ts_for_small_projects/,https://www.reddit.com/r/webdev/comments/1hcp68c/worth_learning_ts_for_small_projects/,2024-12-12 16:40:43,0,0.38,0,0,15,0,0,False,False,True,False,False,Question,self,t3_1hcp68c
+webdev,"Yet another blog on Call, Apply &amp; Bind..!!",,nandank93,1hcp3rk,https://reddit.com/r/webdev/comments/1hcp3rk/yet_another_blog_on_call_apply_bind/,https://blog.nandan.dev/yet-another-blog-on-call-apply-bind,2024-12-12 16:37:37,4,0.67,4,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/F3OMSV7KXUNpyrzyXpRJmGyrBvtsll_eO2jym_WWmjk.jpg,t3_1hcp3rk
+webdev,Developed a SPA to help devs temporarily deploy their javascript and css code,"**Hello Fellow Developers,**
+
+Have you ever needed a quick way to temporarily host a JavaScript or CSS file to share with friends, colleagues, or even just for testing your own code—without having to update the entire project?
+
+Recently, while working on a project, I faced this exact challenge. I needed to integrate custom JavaScript into a Squarespace website to ensure it met WCAG accessibility standards. Unfortunately, Squarespace didn’t offer a direct way to write custom JavaScript (or at least I couldn’t find one). However, it allowed adding custom scripts via a `&lt;script&gt;` tag.
+
+After some research, I discovered a few platforms that let you temporarily deploy JS/CSS files. But most of them were either limited in functionality or required payment after a few uses. While I managed to resolve my issue, it made me wonder how many developers face similar obstacles.
+
+That’s when I decided to create **CloudSyntax**. You can check it out here: [cloudsyntax.site](http://cloudsyntax.site/)
+
+I developed it over a weekend—starting Friday night and finishing by Sunday morning. I wanted to share it immediately, but the domain was unexpectedly suspended. Now that it’s live, I’d love for you to check it out!
+
+**What is CloudSyntax?**
+
+* It’s a free platform (no sign-up or login required, for now).
+* You can deploy any JavaScript or CSS code and receive a CloudFront link to embed directly into your projects.
+
+I’d really appreciate your feedback—whether positive or constructive—to help improve the platform.
+
+**Tech Stack:**  
+It’s a simple project built with **Next.js**, **AWS S3**, and **CloudFront**.
+
+Thanks, and I hope CloudSyntax proves useful to you!",Beginning-Bother4644,1hd4jmn,https://reddit.com/r/webdev/comments/1hd4jmn/developed_a_spa_to_help_devs_temporarily_deploy/,https://www.reddit.com/r/webdev/comments/1hd4jmn/developed_a_spa_to_help_devs_temporarily_deploy/,2024-12-13 04:39:24,10,0.7,10,0,10,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1hd4jmn
+webdev,Downloading files off Canvas before graduating ,"I graduate university tomorrow and want to retrieve all my files and assignments from off of Canvas before I graduate and lose access. I'm not sure when I'll lose access but if it's tomorrow I need to start immediately. Is there a fast way to mass download all files from the site? I'd also like to download some lectures or articles for certain classes. 
+
+I know I could go through and download them all individually, but I'm looking for a way to download it all at once if possible. Does anyone know of a way to do this?",EfficientOctopus7,1hd7zw2,https://reddit.com/r/webdev/comments/1hd7zw2/downloading_files_off_canvas_before_graduating/,https://www.reddit.com/r/webdev/comments/1hd7zw2/downloading_files_off_canvas_before_graduating/,2024-12-13 08:37:52,3,0.71,3,0,0,0,0,False,False,True,False,False,Question,self,t3_1hd7zw2
+webdev,Tips and Best Practices for API Authentication,,ZuploAdrian,1hcw4yk,https://reddit.com/r/webdev/comments/1hcw4yk/tips_and_best_practices_for_api_authentication/,https://zuplo.com/blog/2024/07/19/api-authentication,2024-12-12 21:38:14,0,0.43,0,0,0,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/yiCy6MLzJ8ywzeCJO5iXPGiObpJDgbWTpw8_VLQ1_FA.jpg,t3_1hcw4yk
+webdev,A prebuilt loading screen for develoeprs,"I built An API/Service that provides developers with loading screen that contain news articles based on locations, fun facts as loading screens, if there is a wait time of a few mins the load screen will keep the user engaged.. and not feel like they are waiting forever for the content to load, the API service would allow the user to add interactive loading screens quickly and will have access to updated content, this can be used for apps and websites..
+
+here is a preview,  
+[https://imgur.com/a/HCEZaJp](https://imgur.com/a/HCEZaJp)
+
+let me know if anyone is interested in checking it out. ",arnvfx007,1hcxux2,https://reddit.com/r/webdev/comments/1hcxux2/a_prebuilt_loading_screen_for_develoeprs/,https://www.reddit.com/r/webdev/comments/1hcxux2/a_prebuilt_loading_screen_for_develoeprs/,2024-12-12 22:55:55,0,0.3,0,0,3,0,0,False,False,True,False,False,Resource,self,t3_1hcxux2
+webdev,"I'm a college student, How can i develop a comprehensive understanding of HTML And CSS ",,Charming_Bed_6605,1hcnbag,https://reddit.com/r/webdev/comments/1hcnbag/im_a_college_student_how_can_i_develop_a/,https://i.redd.it/bd4gsh0upf6e1.png,2024-12-12 15:18:01,0,0.24,0,0,24,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/2YUusboYjyqrQCrqXIXrtC3zJmaouickaTwWZirrf28.jpg,t3_1hcnbag
+webdev,7% raise for FE -&gt; full stack ,"Hooray, I get a 7% raise! Sadly, salaries are only adjusted twice a year, so it will have to wait until Q2. I've never been smacked so hard in the face with a glove so smooth.",Wonderful-Farmer5415,1hdcts7,https://reddit.com/r/webdev/comments/1hdcts7/7_raise_for_fe_full_stack/,https://www.reddit.com/r/webdev/comments/1hdcts7/7_raise_for_fe_full_stack/,2024-12-13 14:01:23,0,0.23,0,0,5,0,0,False,False,True,False,False,,self,t3_1hdcts7
+webdev,Suddenly Wordpress site isn't loading font,"I'm not sure when this problem began occurring but I noticed it today after clearing my cache. The Wordpress site I am working on is not properly displayed the expected font.
+
+The only recent change I made was that a few weeks ago, I switched DNS to Cloudflare. I tried disabling much of the optimization settings, turned off proxy, but it didn't seem to effect it. When I check the console I see: \`The resource from “https://fonts.googleapis.com/css?family=Open+Sans400,700latin,latin-ext,Raleway400,700latin,latin-ext&amp;display=swap” was blocked due to MIME type (“text/html”) mismatch (X-Content-Type-Options: nosniff).\`
+
+The site in question is [www.tidalchiro.com](http://www.tidalchiro.com)
+
+When I am viewing the site logged in as the admin, the site font displays correctly.
+
+[What it looks like when I'm logged in (Looks good/as I expect it to)](https://imgur.com/B4y3OTX)
+
+[Logged out/private tab (Font not loading)](https://imgur.com/b196CDr)
+
+Anyone know what's happening?",Produkt,1hcvxoh,https://reddit.com/r/webdev/comments/1hcvxoh/suddenly_wordpress_site_isnt_loading_font/,https://www.reddit.com/r/webdev/comments/1hcvxoh/suddenly_wordpress_site_isnt_loading_font/,2024-12-12 21:29:21,0,0.33,0,0,8,0,0,False,False,True,False,False,,self,t3_1hcvxoh
+webdev,How much do you spend on your domain and hosting?,"As a business owner, one of the recurring expenses in managing an online presence is the cost of domain registration and hosting services. These costs can vary significantly depending on the size and needs of your business.
+
+Do you prefer budget-friendly options, or do you invest in premium services to ensure optimal performance?",anony-28,1hd2w4y,https://reddit.com/r/webdev/comments/1hd2w4y/how_much_do_you_spend_on_your_domain_and_hosting/,https://www.reddit.com/r/webdev/comments/1hd2w4y/how_much_do_you_spend_on_your_domain_and_hosting/,2024-12-13 03:07:20,26,0.79,26,0,80,0,0,False,False,True,False,False,,self,t3_1hd2w4y
+webdev,how would you approach building an alternative to itch.io?,"I hope this is the right place to post this. if not, I would love to be pointed in the right direction. preamble over. 
+
+so i have this concept for a site like itch.io but more niche with a focus on specifically contemporary art games (i can explain what that means to me if anyone cares, but i feel is not really pertinent to the question at hand). and I'm looking for some perspectives on how other people might approach things like the UX, server side stuff, and general architecture of such a site. and, since I've never hosted something that could potentially have a lot of traffic, what server and hosting fees might look like. 
+
+just in case you're not familiar, a quick breakdown of itch.io from a user perspective:
+
+* sign up either as a developer, a player, or both
+* search games by tags, developer, etc
+* developers have a profile page that lists their games along with your standard profile stuff
+* games have individual pages that can host multiple versions of their game, comment sections, etc
+* allow games to also be played on the site, or downloaded,  if the developer wishes
+* communities and events for things like game jams 
+
+I might be missing a few things, but that's the majority of how the site is generally interacted with. 
+
+
+not really interested in a full on guide so much as just a discussion on how you might approach a project like this. 
+
+thanks!",bellyfold,1hdcw99,https://reddit.com/r/webdev/comments/1hdcw99/how_would_you_approach_building_an_alternative_to/,https://www.reddit.com/r/webdev/comments/1hdcw99/how_would_you_approach_building_an_alternative_to/,2024-12-13 14:04:32,0,0.5,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hdcw99
+webdev,"Best way to use ABC.com domain with ABC.vanity (.ai, .io, .digital, etc.) domains?"," I know .com is the gold standard and best in most cases, but is there some best practice to use the .com along with its vanity domain variant in terms of things like branding and SEO?
+
+  
+For example, if I’m creating a new digital marketing company called EXAMPLE, say I purchased both EXAMPLE.com and EXAMPLE.digital. Should I build the site on .com and have a 301 redirect going there from .digital? Or vice versa? And why?
+
+  
+Meanwhile, all email communication (and email marketing) should come from .com for deliverability, right?",iXzenoS,1hdaoqg,https://reddit.com/r/webdev/comments/1hdaoqg/best_way_to_use_abccom_domain_with_abcvanity_ai/,https://www.reddit.com/r/webdev/comments/1hdaoqg/best_way_to_use_abccom_domain_with_abcvanity_ai/,2024-12-13 12:00:13,0,0.5,0,0,6,0,0,False,False,True,False,False,,self,t3_1hdaoqg
+webdev,Ways to improve a portfolio?,"I currently developed a new version of my portfolio using NextJS and GSAP. Here is the link: [https://errl.vercel.app](https://errl.vercel.app) and here is the github: [https://github.com/gregoryerrl/errl](https://github.com/gregoryerrl/errl)
+
+I can take any criticism as long as I learn from it. Other people can learn too",kugelblitx,1hd8ymx,https://reddit.com/r/webdev/comments/1hd8ymx/ways_to_improve_a_portfolio/,https://www.reddit.com/r/webdev/comments/1hd8ymx/ways_to_improve_a_portfolio/,2024-12-13 09:55:05,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1hd8ymx
+webdev,PQSpread: Unlock Quantum-Safe with just one HTML file,,Sakrecoer,1hd81jg,https://reddit.com/r/webdev/comments/1hd81jg/pqspread_unlock_quantumsafe_with_just_one_html/,https://news.dyne.org/building-pqspread-quantum-safe-encryption-tool/,2024-12-13 08:41:44,0,0.5,0,0,0,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/7eo_jAp8mP8vQ13AbLfjN7JQZ6W19LfrrComKcUWP58.jpg,t3_1hd81jg
+webdev,Color management in NextJS/TailwindCSS (and in general),"I am very new to web developing, but I come from a background with strong fundamentals in firmware/embedded development. So I am a good ""programmer"" - just for context.
+
+I taught myself webdev and have so far become intro-level decent but have recently struggled with color management.
+
+From what I gather, it's common practice to set a bunch of very specific variables in your globals.css for things like primary, secondary, card, accent, muted (thinking of [ShadCN](https://ui.shadcn.com)) and applying those liberally around the codebase. And should you want to support multiple themes (e.g. light, dark) you just need to define these vars for each theme and use media queries to select which one to use. But how/why were these vars chosen specifically?
+
+What's a best practice for what's in globals.css (with respect to colors) and generally how to apply them to components? I feel like this could quickly unravel into having variables for everything - card, button, link, etc. That seems poorly designed and a maintenance nightmare.
+
+Can anyone point me to a good tutorial/writeup on basic color management? NextJS/TailwindCSS would be preferred, but anything would help.",jigajigga,1hcpyeh,https://reddit.com/r/webdev/comments/1hcpyeh/color_management_in_nextjstailwindcss_and_in/,https://www.reddit.com/r/webdev/comments/1hcpyeh/color_management_in_nextjstailwindcss_and_in/,2024-12-12 17:14:02,0,0.5,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hcpyeh
+webdev,Do I have the right idea with images?,"I have 12 service areas. Each area gets its own page. Then within that area 20-30 neighbourhoods get their own page. 
+    
+Theres 3 images per page. I add alt text and description. So now I need different images on each page.
+    
+We now have 900 images needed on the website. Should I be reusing images? Is it okay to have this many images? Am I doing this right? ",GSG96,1hcpkmr,https://reddit.com/r/webdev/comments/1hcpkmr/do_i_have_the_right_idea_with_images/,https://www.reddit.com/r/webdev/comments/1hcpkmr/do_i_have_the_right_idea_with_images/,2024-12-12 16:58:20,0,0.33,0,0,4,0,0,False,False,True,False,False,,self,t3_1hcpkmr
+webdev,PHP &gt; NTLM &gt; MSSQL,"I'm a LAMP guy, primarily a Drupal dev and themer ... but  I often develop glue apps to help business processes.
+
+This latest project has me connecting to a MSSQL database authenticating with NTLM.
+
+The first hurdle is finding a good solution for NTLM. I've tried a composer setup with robinpowered/php-ntlm ... issue with Guzzle
+
+Once authenticated (when I get there), what is everyone's experience with PHP and MSSQL? A simple PDO connection?",sgorneau,1hddqv0,https://reddit.com/r/webdev/comments/1hddqv0/php_ntlm_mssql/,https://www.reddit.com/r/webdev/comments/1hddqv0/php_ntlm_mssql/,2024-12-13 14:45:53,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1hddqv0
+webdev,Is Figma used when developing a custom storefront?  - For Ecoms web devs,"Hi there!
+
+I am new to the world of e-commerce (Senior Engineer here)  and have a few questions.
+
+Does the design-code process I've always seen in  the Front-End world applies also to working  on custom e-commerce projects or is the process different?
+
+Is Figma used?
+
+Thanks!",Sea-Blacksmith-5,1hddcvy,https://reddit.com/r/webdev/comments/1hddcvy/is_figma_used_when_developing_a_custom_storefront/,https://www.reddit.com/r/webdev/comments/1hddcvy/is_figma_used_when_developing_a_custom_storefront/,2024-12-13 14:27:21,0,0.33,0,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1hddcvy
+webdev,I am a new student to web development and I am looking to create a price comparison app.,"I am a newbie, but more and more stores are publishing their sales online and even have their own apps and QR codes on posters, banners nearby where ppl could scan and see the deals for that particular store. 
+
+How can I get data on prices and latest sales any ideas ?",IndoCaribboy,1hdbuxj,https://reddit.com/r/webdev/comments/1hdbuxj/i_am_a_new_student_to_web_development_and_i_am/,https://www.reddit.com/r/webdev/comments/1hdbuxj/i_am_a_new_student_to_web_development_and_i_am/,2024-12-13 13:10:30,1,0.67,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1hdbuxj
+webdev,Any recommendations? I want to fix a website I did years ago,"So when I was younger, I did a mess of a website during an exchange program in a different university. It included forums, map centers, so on.... But I did it with HTML and CSS from scratch. Viewing the code now, I think it is a giant mess, tremendous disgusting jungle of mess... is there a way I could improve it? just for portfolio. Which frameworks would you recommend? React?
+
+  
+thank you in advance 
+
+  
+here's the website [website](http://lumystik.github.io/OGJ/)",swedegirl25,1hd9l46,https://reddit.com/r/webdev/comments/1hd9l46/any_recommendations_i_want_to_fix_a_website_i_did/,https://www.reddit.com/r/webdev/comments/1hd9l46/any_recommendations_i_want_to_fix_a_website_i_did/,2024-12-13 10:43:09,1,0.67,1,0,11,0,0,False,False,True,False,False,,self,t3_1hd9l46
+webdev,Please Help me with cloud VMs and VPN (for a project),"Im building a third-party app that scrapes data for a user from my university website. The main issue im encountering is that all uni websites are on a private vpn network. Now to solve this i thought of using a microsoft/google free tier VM, connect it to the VPN, and route all requests through there. 
+
+But im having trouble doing that and I think surely there must be a better way to do it?
+
+(PS the project helps you automate,manage/edit/cancel &amp; view your meals from various messes all around campus)",DEMI-TOS,1hd7pf3,https://reddit.com/r/webdev/comments/1hd7pf3/please_help_me_with_cloud_vms_and_vpn_for_a/,https://www.reddit.com/r/webdev/comments/1hd7pf3/please_help_me_with_cloud_vms_and_vpn_for_a/,2024-12-13 08:13:58,0,0.33,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hd7pf3
+webdev,Squarespace CSS Color Code ,"On [my photography website](https://erinpetersenphoto.com/) \- this red flash of color appears before the main feature image loads. I have searched and searched to remove this red color or at least change the color and cannot find it. Here is the custom CSS code for this page:
+
+/\* Header Image 1 \*/
+
+u/font-face {
+
+font-family: freight-big-pro;
+
+src: url('https://static1.squarespace.com/static/5c1b99c7a9e02801f6c9b9d0/t/5cade9ecc83025772eee139d/1554901485897/FreightBig-Pro-Book.otf');
+
+}
+
+u/font-face {
+
+font-family: Questrial;
+
+src: url('https://static1.squarespace.com/static/5c1b99c7a9e02801f6c9b9d0/t/5cade8cfe5e5f02b0ddd34b8/1554901200175/Questrial-Regular.ttf');
+
+}
+
+\[id\^=""header-image-1""\] h2 {
+
+font-family: freight-big-pro;
+
+font-weight: 400;
+
+font-style: normal;
+
+font-size: 45px;
+
+letter-spacing: 0.01em;
+
+line-height: 1.2em;
+
+text-transform: none;
+
+}
+
+\[id\^=""header-image-1""\] h3 {
+
+font-family: Questrial;
+
+font-weight: 400;
+
+font-style: normal;
+
+font-size: 10px;
+
+letter-spacing: 0.4em;
+
+line-height: 2em;
+
+text-transform: uppercase;
+
+}
+
+\[id\^=""header-image-1""\] {
+
+display: flex;
+
+min-height: 100vh;
+
+}
+
+\[id\^=""header-image-1""\] .Index-page-content {
+
+display: flex;
+
+flex-direction: column;
+
+justify-content: flex-end !important;
+
+padding: 10px 40px;
+
+width: 100%;
+
+}
+
+\[id\^=""header-image-1""\] .sqs-col-12 .sqs-row {
+
+display: flex;
+
+align-items: center;
+
+}
+
+\[id\^=""header-image-1""\] a {
+
+font-size: 8px;
+
+letter-spacing: 0.4em;
+
+border: none !important;
+
+position: relative;
+
+}
+
+\[id\^=""header-image-1""\] a:after {
+
+content: '';
+
+position: absolute;
+
+top: -8px;
+
+right: -28px;
+
+width: 8px;
+
+height: 21px;
+
+background: url(""https://static1.squarespace.com/static/5ceba3dbc5ca7e00015605e8/t/5cf7aba94830f60001939369/1559735209444/arrow-down.png"") no-repeat;
+
+background-size: contain;
+
+}
+
+\[id\^=""header-image-1""\] .sqs-block-horizontalrule {
+
+padding: 0;
+
+}
+
+u/media(max-width: 1199px) {
+
+\[id\^=""header-image-1""\] h2 {
+
+font-size: 35px;
+
+}
+
+}
+
+u/media(max-width: 991px) {
+
+\[id\^=""header-image-1""\] h2 {
+
+font-size: 25px;
+
+}
+
+}
+
+u/media(max-width: 767px) {
+
+\[id\^=""header-image-1""\] h2 {
+
+font-size: 20px;
+
+}
+
+}
+
+u/media(max-width: 640px) {
+
+\[id\^=""header-image-1""\] .sqs-col-12 .sqs-row {
+
+flex-direction: column;
+
+}
+
+\[id\^=""header-image-1""\] .sqs-col-12 .sqs-row .sqs-col-3:first-child {
+
+order: 3;
+
+}
+
+\[id\^=""header-image-1""\] h3 a {
+
+margin-left: -24px;
+
+}
+
+}
+
+/\* Info Block 10 \*/
+
+u/font-face {
+
+font-family: FreightBig-Pro-Book;
+
+src: url('https://static1.squarespace.com/static/5c1b99c7a9e02801f6c9b9d0/t/5cade9ecc83025772eee139d/1554901485897/FreightBig-Pro-Book.otf');
+
+}
+
+u/font-face {
+
+font-family: freight-sans-pro;
+
+src: url('https://static1.squarespace.com/static/5c1b99c7a9e02801f6c9b9d0/t/5cade988e2c483ba4081113c/1554901385650/FreightSans-Pro-Book.otf');
+
+}
+
+u/font-face {
+
+font-family: Poppins;
+
+src: url('https://static1.squarespace.com/static/5c1b99c7a9e02801f6c9b9d0/t/5cade9ac104c7b2ebe9fa67f/1554901421264/Poppins-SemiBold.ttf');
+
+}
+
+\[id\^=""sm-info-block-10""\] {
+
+background: #F6F6F3;
+
+.Index-page-content {
+
+max-width: 100%;
+
+padding: 0;
+
+}
+
+h2 {
+
+font-family: FreightBig-Pro-Book;
+
+font-size: 55px;
+
+line-height: 100%;
+
+text-transform: uppercase;
+
+color: #494949;
+
+margin-bottom: 95px;
+
+transform: translateX(-150px);
+
+}
+
+p {
+
+font-family: freight-sans-pro;
+
+font-style: normal;
+
+font-weight: normal;
+
+font-size: 16px;
+
+line-height: 200%;
+
+letter-spacing: 0.01em;
+
+color: #494949;
+
+margin-bottom: 60px
+
+}
+
+.sqs-block-button .sqs-block-button-element {
+
+font-family: Poppins;
+
+font-style: normal;
+
+font-weight: 600;
+
+font-size: 10px;
+
+line-height: 120%;
+
+text-align: center;
+
+letter-spacing: 0.3em;
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+background: #494949;
+
+border-radius: 0;
+
+padding: 20px 55px;
+
+}
+
+.sqs-image-shape-container-element {
+
+padding-bottom: 0 !important;
+
+}
+
+.sqs-row {
+
+display: flex;
+
+margin: 0;
+
+}
+
+.col {
+
+box-sizing: border-box;
+
+}
+
+.sqs-block-image {
+
+padding: 0;
+
+}
+
+.sqs-col-5 .sqs-block-image,
+
+.sqs-col-5 .sqs-block-image .sqs-block-content,
+
+.sqs-col-5 .sqs-block-image .image-block-outer-wrapper,
+
+.sqs-col-5 .sqs-block-image .sqs-block-image-figure,
+
+.sqs-col-5 .sqs-block-image .image-block-wrapper {
+
+height: 100%;
+
+}
+
+.sqs-col-5 .sqs-block-image .image-block-wrapper {
+
+padding: 0 !important;
+
+}
+
+.sqs-col-5 .sqs-block-image img {
+
+position: relative !important;
+
+object-fit: cover;
+
+object-position: right;
+
+}
+
+.sqs-col-7 {
+
+display: flex;
+
+flex-direction: column;
+
+justify-content: center;
+
+position: relative;
+
+padding: 10vh 5vw;
+
+}
+
+u/media(max-width: 1199px) {
+
+.sqs-col-7 {
+
+padding: 7.5vh 2.5vw;
+
+}
+
+h2 {
+
+font-size: 35px;
+
+margin-bottom: 50px;
+
+}
+
+}
+
+u/media(max-width: 767px) {
+
+.sqs-block-image {
+
+width: 100%;
+
+}
+
+.sqs-col-5 .sqs-block-image img {
+
+top: 0 !important;
+
+max-height: 575px;
+
+}
+
+h2 {
+
+margin-bottom: 50px;
+
+}
+
+p {
+
+margin-bottom: 30px;
+
+}
+
+}
+
+u/media(max-width: 640px) {
+
+.sqs-col-12&gt;.sqs-row {
+
+display: block;
+
+}
+
+.sqs-col-7 {
+
+padding: 10px 20px 20px;
+
+}
+
+h2 {
+
+margin-bottom: 30px;
+
+transform: none;
+
+}
+
+p {
+
+margin-bottom: 10px;
+
+}
+
+.sqs-layout .sqs-row .sqs-col-5 .sqs-block:first-child,
+
+.sqs-layout .sqs-row .sqs-col-5 .sqs-block:last-child {
+
+padding: 0 !important;
+
+}
+
+}
+
+}
+
+.sqs-block-summary-v2 {
+
+.summary-title,
+
+.summary-heading {
+
+font-family: freight pro sans;
+
+font-weight: 400;
+
+font-size: 18px !important;
+
+color: #fffff;
+
+text-transform: uppercase;
+
+font-style: bold; 
+
+  } 
+
+}
+
+.homepage .Header-branding-logo {
+
+  
+
+  .sqs-block-summary-v2 .summary-block-setting-design-carousel .summary-carousel-pager {  float: none;   width: 90px;   position: absolute;   bottom: -12%;   left: 50%;   -webkit-transform: translate(-50%);       -ms-transform: translate(-50%);           transform: translate(-50%);   -webkit-box-pack: center;       -ms-flex-pack: center;           justify-content: center;   z-index: 9; } .sqs-gallery-design-carousel .sqs-gallery-controls .next::before {   color: #000;   padding: 12px; } .sqs-gallery-design-carousel .sqs-gallery-controls .previous::before {   color: #000;   padding: 12px;}
+
+  filter : invert( 1 );}//Summary carousel arrows 
+
+.sqs-block-summary-v2 .summary-block-setting-design-carousel .summary-carousel-pager {   
+
+float: none;   
+
+width: 100%;   
+
+position: absolute;   
+
+bottom: 50%;   
+
+left: 50%;   
+
+\-webkit-transform: translate(-50%,-50%);       
+
+\-ms-transform: translate(-50%,-50%);           
+
+transform: translate(-50%,-50%);   
+
+\-webkit-box-pack: justify;       
+
+\-ms-flex-pack: justify;           
+
+justify-content: space-between;   
+
+z-index: 9; 
+
+}
+
+.sqs-gallery-design-carousel .sqs-gallery-controls .next::before {
+
+background-color: #895d5d ;   
+
+color: #FFF;   
+
+padding: 12px; 
+
+} 
+
+.sqs-gallery-design-carousel .sqs-gallery-controls .previous::before {
+
+background-color: #895d5d;   
+
+color: #FFF;   
+
+padding: 12px;
+
+}",youdonedid-it,1hcqsfo,https://reddit.com/r/webdev/comments/1hcqsfo/squarespace_css_color_code/,https://www.reddit.com/r/webdev/comments/1hcqsfo/squarespace_css_color_code/,2024-12-12 17:49:27,0,0.5,0,0,4,0,0,False,False,True,False,False,,self,t3_1hcqsfo
+webdev,Please Advice a Sole-Developer Seeking a Corporate Job with NDA-Limited Portfolio,"# Context:
+
+I’ve been working remotely as the sole back-end developer for a boutique Cyber Security company since 2021. My focus has been on Python (Flask) for back-end work, but I’ve also handled full-stack tasks like front-end development (Angular), database design and deployment.
+
+While it’s been a fantastic learning experience, the lack of mentorship, code reviews, and team workflow exposure has limited my growth.
+
+Key projects if needed:
+
+1. A system for analyzing machine-generated files and generating Word docx reports with complex formatting.
+2. A tailored CRM for management of clients and services.
+
+Unfortunately, **NDAs** prevent me from showcasing these projects, leaving me without any real-life portfolio examples for interviews.
+
+# Research results so far:
+
+Most advice suggests building custom projects, but I worry that a truly reflective project could take 1–3 months, while simpler ones might make me look like a fresh graduate.
+
+# TLDR;
+
+How can I effectively demonstrate my skills (specifically backend) with no real-life projects?
+
+What are your thoughts on creating custom projects to bridge the NDA gap? Is the time investment worth it?
+
+Also, any and all advice for transitioning from a sole developer into a team-based role would be much appreciated.",NonPraesto,1hcqja4,https://reddit.com/r/webdev/comments/1hcqja4/please_advice_a_soledeveloper_seeking_a_corporate/,https://www.reddit.com/r/webdev/comments/1hcqja4/please_advice_a_soledeveloper_seeking_a_corporate/,2024-12-12 17:38:33,1,0.67,1,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1hcqja4
+webdev,Can users see my API keys through Vercel?,"I am building a web app that uses a custom google search engine so my main app.jsx has my custom search API key and the custom search engine ID key.
+
+I'm planning to launch this web app through Vercel but I am wondering if my keys will be exposed? The github repository is set to private so only I can see the code.",orangeflyingmonkey_,1hcn7hf,https://reddit.com/r/webdev/comments/1hcn7hf/can_users_see_my_api_keys_through_vercel/,https://www.reddit.com/r/webdev/comments/1hcn7hf/can_users_see_my_api_keys_through_vercel/,2024-12-12 15:13:04,0,0.18,0,0,8,0,0,False,False,True,False,False,,self,t3_1hcn7hf
+webdev,"Google Pagespeed sees way outdated version of my website, and I don't know why!","Hi!  
+When going to google pagespeed to analyse my website performance, I found out something very weird:
+
+It seems like google is reading a looongly outdated version of the website. I can see this on ""color contrast complaints"" where it highlights a blue box, which is now red. It also complains about a console error which I cannot reproduce.
+
+This change happened months ago. Checking incognito with any browser gives me up-to-date results. Doing the page speed test in a Chrome browser (locally) will provide me with a good result.
+
+This could mean that not only Pagespeed sees outdated stuff but the search indexer as well. Nobody wants old stuff to be indexed.
+
+It seems like Google is somehow looking at a cache proxy or something I cannot control.
+
+Does anybody know of similar situations? What would be a way out?
+
+This is what Google sees:
+
+https://preview.redd.it/4jdm99947m6e1.png?width=1488&amp;format=png&amp;auto=webp&amp;s=05ab97af235182a6c83611d3f39eb055b6729b76
+
+
+
+This is what it looks like on any of my (squeaky clean) browsers.
+
+https://preview.redd.it/goktzi947m6e1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=bb13799164baa26170396d0417510b735820e3b7
+
+
+
+  
+The page at hand is [https://clean-bites.com/embracing-change/](https://clean-bites.com/embracing-change/) 
+
+under the hood you can find:  
+Wordpress, using oxygen builder, running PHP 8.1  
+A litespeed webserver with it's lscache Wordpress integration.
+
+  
+Thank you for any insight.  
+Best",kaidonkaisen,1hdbw6y,https://reddit.com/r/webdev/comments/1hdbw6y/google_pagespeed_sees_way_outdated_version_of_my/,https://www.reddit.com/r/webdev/comments/1hdbw6y/google_pagespeed_sees_way_outdated_version_of_my/,2024-12-13 13:12:23,2,0.75,2,0,11,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/8_EIJA_HCM8lU-LF90BxU39u5BsvDexwMJ0KQrWFaLI.jpg,t3_1hdbw6y
+webdev,GraphQL static Resolvers vs dynamic resolvers ,"Hello cool cats. I have a quick question. I'm defining resolvers for a personal application.
+I plan on implementing a mix of dynamic resolvers capable of being used for essentially any of the models and resolvers specific to certain requests like creating a user, creating tokens, etc..
+
+The reason why l'm asking this question is to develop standards and best practices.
+
+Without the use of a dynamic resolvers capable of placing data wherever i need to I would have to create somewhere around 250 resolvers. Don't really have a problem doing that but I can obviously make this list A LOT smaller and it is probably not advisable just because it'd be a pain in the ass to manage.
+
+What resolvers would you, as a graphql developer, design with specific intent and what functions would you leave to a dynamic resolver? 
+
+It's an E-commerce project. I'm looking for general standards and practices but E-commerce specifics are useful as well. I can make sense of what is said and apply it logically to what I'm doing so no need to cater your response specifically to an E-Commerce plattorm.
+
+I understand my technical jargon and lingo may not be up to par. You are welcome to correct me but if you do please add something to the topic that can benefit my resolution rather than only pointing out flaws in how I worded my question.",orgin100,1hcuedm,https://reddit.com/r/webdev/comments/1hcuedm/graphql_static_resolvers_vs_dynamic_resolvers/,https://www.reddit.com/r/webdev/comments/1hcuedm/graphql_static_resolvers_vs_dynamic_resolvers/,2024-12-12 20:24:16,2,0.75,2,0,2,0,0,False,False,True,False,False,Question,self,t3_1hcuedm
+webdev,Monoco - smooth squircle corners for HTML elements,,monokai,1hd79oa,https://reddit.com/r/webdev/comments/1hd79oa/monoco_smooth_squircle_corners_for_html_elements/,https://monokai.github.io/monoco-demo,2024-12-13 07:39:59,6,0.8,6,0,1,0,0,False,False,False,False,False,Resource,default,t3_1hd79oa
+webdev,Website that can access phone pedometer,"As the subject suggests, I'm looking to understand if I could developed a website that would only be accessible once someone has walked a certain number of steps, calories, etc. 
+
+Understanding this data exists, at least on iPhone within the Health app, wondering if there's a way.
+
+Ex: Someone lands on the website, and there would be a standard notification asking if the site can asking select info. 
+
+Thanks!",mattstasoff,1hco3ts,https://reddit.com/r/webdev/comments/1hco3ts/website_that_can_access_phone_pedometer/,https://www.reddit.com/r/webdev/comments/1hco3ts/website_that_can_access_phone_pedometer/,2024-12-12 15:54:00,0,0.17,0,0,4,0,0,False,False,True,False,False,,self,t3_1hco3ts
+webdev,How to approach creating an infinite scrolling canvas of images?,"Here are some examples i found for this type of design:  
+[kirschberg.co.nz](http://kirschberg.co.nz/Archive) &amp; [public.work](https://public.work/)
+
+Any help is appreciated!  
+",cynical-cog,1hd6hxe,https://reddit.com/r/webdev/comments/1hd6hxe/how_to_approach_creating_an_infinite_scrolling/,https://www.reddit.com/r/webdev/comments/1hd6hxe/how_to_approach_creating_an_infinite_scrolling/,2024-12-13 06:42:54,5,0.86,5,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hd6hxe
+webdev,"div.toggle(""show"") appears to not be working","im using #id.class which is definitely the highest priority as if i add the class manually everything works totally fine, toggling and then logging the classlist shows the class getting toggled.. however in elements tab class is not there and visual effects are not being added  
+[https://rubytrap2.github.io/Temps/](https://rubytrap2.github.io/Temps/)",RubyTheSweat,1hcywrs,https://reddit.com/r/webdev/comments/1hcywrs/divtoggleshow_appears_to_not_be_working/,https://www.reddit.com/r/webdev/comments/1hcywrs/divtoggleshow_appears_to_not_be_working/,2024-12-12 23:46:07,0,0.25,0,0,9,0,0,False,False,True,False,False,,self,t3_1hcywrs
+webdev,LLM prompts to go deep into advanced web dev,"I am into web dev for half a decade and know on how to build standard websites like blogs, ecommerce or landing page along with standard apis, standard db queries and standard deployment but never tried anything challenging. But I want to go deep and to advanced level. I understand that coding it live will help me go deep, but I am not interested in starting from scratch. And instead spend time on architectural or implementation overview of advanced apps. So I thought of wrestling with LLM's on. So I started with prompt like 
+
+\`Give me a problem in web development. I want them to be medium to advanced level from perspective or use cases of experienced developers,  and i will give you the required procedure but not the code to be used for solution. Also when verifying my answer, give suggestions of other procedures that I can also use to solve the problem along with concise code example of the implementation\`
+
+**But it is n't taking me to the levels I expected. Do you have any better prompt that can maximize my learning without coding much?** I thought asking this same to LLM's but I want from real experienced human developers.
+
+",5874985349,1hdd4qz,https://reddit.com/r/webdev/comments/1hdd4qz/llm_prompts_to_go_deep_into_advanced_web_dev/,https://www.reddit.com/r/webdev/comments/1hdd4qz/llm_prompts_to_go_deep_into_advanced_web_dev/,2024-12-13 14:16:04,0,0.11,0,0,4,0,0,False,False,True,False,False,,self,t3_1hdd4qz
+webdev,Is android IDE - PHONE AS on playstore free?,"Is android IDE - PHONE AS on playstore free? Pretty much every IDE on playstore after downloading, to access the functions, you have to sign up for an yearly fee, any recommendations for an free android based IDE?",Plus_Contract5159,1hde4jg,https://reddit.com/r/webdev/comments/1hde4jg/is_android_ide_phone_as_on_playstore_free/,https://www.reddit.com/r/webdev/comments/1hde4jg/is_android_ide_phone_as_on_playstore_free/,2024-12-13 15:03:21,0,0.38,0,0,5,0,0,False,False,True,False,False,,self,t3_1hde4jg
+webdev,How did web advertising become so bloated?,"I'm not talking about the excessive, obnoxios ad campaigns that cover content or exceed its quantity; that's a separate issue. What I'm talking about are articles, even from known and relatively trusted (at least for reading content) websites, that become so bogged down with ads that they wind up freezing or outright crashing mobile browsers, or lagging noticably on budget or low-power PC-based devices.
+
+I don't think their quantity alone, as annoying as it is, is enough to account for their overhead. Many just display static images or simple animations which barely take up any processing power at all once loaded from the server. What are a few dozen animated images for a device that has no trouble whatsoever running quite complex browser games? The rest are presented as videos that take up some fraction of the screen, and only two or three of these videos are onscreen and playing at any given time. Meanwhile it would take at least a dozen videos at the same resolution to match the load of a single 1440p video stream which the same devices can comfortably handle, in a browser, even after downsampling it to fit the display.
+
+What are these ads doing in the background that takes up so much processing power? Cryptomining?",pilottzn,1hde0qf,https://reddit.com/r/webdev/comments/1hde0qf/how_did_web_advertising_become_so_bloated/,https://www.reddit.com/r/webdev/comments/1hde0qf/how_did_web_advertising_become_so_bloated/,2024-12-13 14:58:48,8,0.75,8,0,17,0,0,False,False,True,False,False,Question,self,t3_1hde0qf
+webdev,"ddev problems, any idea?","Hi all, this is a question to those who are familiar with ddev.
+
+I used opensuse for a long time and due to struggle with updates I ran an older version of ddev. Because I began with this several years ago I fix-messed my system in a way that I was able to just change the php-version in the config.yaml of each new project to my desired setup which worked like a charm or maybe it was just possible in the older ddev?
+
+Now I went to debian, set up a fresh new ddev and started working. This was fine for php8.3 but now I have a migration project where I have to run an older system under php7.4 locally.
+
+The problem, I can't just change the php-version in the config.yaml because it isn't available when I try to make ddev start on the project afterwards. Any idea how I get back to my old comfortable setup where I just have to change the version number in my yaml?",Fakedduckjump,1hddkuy,https://reddit.com/r/webdev/comments/1hddkuy/ddev_problems_any_idea/,https://www.reddit.com/r/webdev/comments/1hddkuy/ddev_problems_any_idea/,2024-12-13 14:37:59,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hddkuy
+webdev,How do you work remotely in your team?,"This is a long post, I apologize in advance, but background info if required and I am not sure how to TLDR it.
+
+I just joined a new company almost 4 months ago. In my previous company we had the following setup (prior to covid):: 
+
+Everyone had a work computer in the office with VirtualBox running a local copy of the codebase and the DB. (we also had VirtualBox with a local copy at home after covid when we went remote for 1 year).
+
+That local copy was a git repository connected to a BitBucket remote origin. We all worked on our own copy of the codebase because prior to 2014 we were not using git at all. We used Dreamweaver with it's checkin/checkout and we constantly were overwriting each other's changes. In comes git and we solved that problem.
+
+This new company I am working for now, also does not use git, and we all (4 devs) just remote into the dev server and work directly on it. So far in 4 months, it has happened 4 times where someone has been ""working on a new feature"" directly on the dev server, and it would break something for some other section that QA was working on. QA all have to stop and wait for it to be fixed before they can keep working. 
+
+On my second week there, I was told that 2 of the other devs use SFTP. So I also setup SFTP in order to at least create a local git repo to track my own changes locally. Of course now I have to sync my local with dev manually. Not ideal. So long story short, I get assigned a larger project that is a major overhaul of a single system within the application as a whole (which I am still working on today). So I setup a local development environment in docker, which involves tweaking some things in the application code in order to get it to run locally because hard coded redirects and forced https and whatnot.
+
+Everyone asks how I am working on stuff when they can't see my changes on dev... I work on a local setup with proper version control... ""OH THAT SOUNDS COOL!!!! WE WANT SCM TOO!!! CAN WE DO THAT TOO!!!"" why yes you can. Here is a docker compose file so you can mount your local files directly into the VM, and here is the remote repo so you can clone it. Have fun.
+
+They immediately go straight to the single devops guy who calls me and tells me that I am not authorized to have a local copy of the codebase, and is freaking out because he thinks we are running the DB locally as well. In fact, no one is authorized to have local copies. We all need to stop using it and docker immediately and work on dev directly like they have been doing for decades. After the new year we will look into setting up something else that is more inline with ""doing it the right way"".
+
+So I apologize for overstepping my role (Senior Frontend Architect - DevOps Engineer), and let him know it was not my intention to violate any non-existent, not-in-writing, never-explained-to-me-as-a-new-hire policies or procedures, and that I just wanted to get things moving in the direction of using SCM, since it is something we need to implement.
+
+Anyway, I thought about it for like 20 minutes after I got off the phone, and thought of the following setup:
+
+* Everything is already running on AWS
+* Setup 1 remote server with 4 user accounts, one for each dev
+* Each user account has it's own copy of the codebase that is a git repo on the server that only they and a single devops user can access (in case someone leaves and has not pushed code to the origin yet we can still get into it and not lose the code). (Possibly also running a remote VSCode IDE so we don't have to configure a local one as well - not really necessary, but would be a cool feature to have).
+* Each dev remotes into their account on the server and works on the server files in their account directly (no local copies).
+* The account based repos connect to a self-hosted git origin, and push/pull from there
+* The self-hosted git origin CI/CD pipelines into the current dev server (which now becomes staging) and the load balancer which pushes to 2 production servers.
+
+Thoughts?",averajoe77,1hddd5f,https://reddit.com/r/webdev/comments/1hddd5f/how_do_you_work_remotely_in_your_team/,https://www.reddit.com/r/webdev/comments/1hddd5f/how_do_you_work_remotely_in_your_team/,2024-12-13 14:27:40,1,1.0,1,0,6,0,0,False,False,True,False,False,,self,t3_1hddd5f
+webdev,What's the recommended way to handle state in modern Angular?,"
+Hello,
+I'm primarily a Next.js developer, and I’m currently working on a large enterprise project. I'm using standalone components and signals, and everything is going well so far. However, I’m a bit confused about the best way to manage global state. In Next.js, I typically use the React Query library.
+I’ve read that using services with RxJS and signals might be the recommended approach, but I’m not entirely sure if that’s accurate.
+Thanks for taking the time to read my post!
+",Mikefacts,1hdd8nu,https://reddit.com/r/webdev/comments/1hdd8nu/whats_the_recommended_way_to_handle_state_in/,https://www.reddit.com/r/webdev/comments/1hdd8nu/whats_the_recommended_way_to_handle_state_in/,2024-12-13 14:21:35,2,0.75,2,0,6,0,0,False,False,True,False,False,,self,t3_1hdd8nu
+webdev,Need some open-source directory templates/boilerplate,"I am scrapping some open-source directory templates/boilerplates  
+  
+I found only two that are somewhat nice. If you have any resources regarding that. Please do let me know or share the link. The paid directory templates are very expensive and to me, it doesn't make sense. Simple things like this should be cheaper.  
+  
+There should be some open-source directories out there, but I can't find them. Maybe I am not searching with the right keywords.",sadekships,1hdd88d,https://reddit.com/r/webdev/comments/1hdd88d/need_some_opensource_directory/,https://www.reddit.com/r/webdev/comments/1hdd88d/need_some_opensource_directory/,2024-12-13 14:21:01,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hdd88d
+webdev,Looking for collaboration ,"Hello, everyone! I’m a front-end developer who loves creating unique and innovative websites. I’m looking for individuals or teams to collaborate on exciting projects.
+
+If you’re an artist, photographer, web designer, or anyone involved in the arts, please feel free to contact me!",Lost_Specific3614,1hdbugx,https://reddit.com/r/webdev/comments/1hdbugx/looking_for_collaboration/,https://www.reddit.com/r/webdev/comments/1hdbugx/looking_for_collaboration/,2024-12-13 13:09:48,2,1.0,2,0,1,0,0,False,False,True,False,False,Article,self,t3_1hdbugx
+webdev,Grey background on iOS with low brightness only,"Hello,
+
+I need some help with a strange issue.
+
+[On this page](https://www.upcomo.it/noleggio/), only on iOS with low brightness, a weird gray background shows up.  
+When I increase the brightness, it turns white.
+
+Here’s a video showing the problem: [https://streamable.com/orkxls](https://streamable.com/orkxls)
+
+Taking a screenshot or recording a video shows the background as white.
+
+Any idea how to fix this?
+
+**Details:**
+
+* iOS 18.2 (Safari, Chrome, Opera) - iPhone 15
+* WordPress 6.7.1
+* Avada 7.11.11
+
+A similar issue is described here:  
+[https://kidi.ng/wanna-see-a-whiter-white](https://kidi.ng/wanna-see-a-whiter-white)
+
+Thanks!",JayPigliamosche,1hd9rz4,https://reddit.com/r/webdev/comments/1hd9rz4/grey_background_on_ios_with_low_brightness_only/,https://www.reddit.com/r/webdev/comments/1hd9rz4/grey_background_on_ios_with_low_brightness_only/,2024-12-13 10:57:07,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1hd9rz4
+webdev,Website load testing advice,"I run a website that sells tickets for events. It’s built with **Next.js**, hosted on **Vercel**, and uses **Turso DB**. I’m trying to figure out how scalable the setup is and how many purchases it can handle per second before things start to break.
+
+My idea is to simulate up to **100,000 clients** with an end-to-end test (using Playwright), starting with smaller loads and scaling up gradually. The goal is to identify bottlenecks and ensure the system can handle significant traffic, as this is critical for securing deals with larger customers. I’m not too worried about cost since this testing is an investment in reliability.
+
+# My Questions:
+
+1. **Has anyone load-tested a similar setup?** What challenges did you run into?
+2. **Should I notify Vercel and Turso DB** about the spike in traffic beforehand? I assume they’ll need a heads-up.
+3. **Is Playwright suitable for this kind of load testing**, where can I run it?
+
+# My Current Plan:
+
+* **Vercel**: Since it’s serverless, scaling should be automatic, but I’ll confirm with their support.
+* **Turso DB**: I’ll reach out to Turso to discuss their rate limits and any potential bottlenecks for write-heavy operations.
+* **Testing Strategy**: Start small (e.g., 1,000 clients) and incrementally increase load while monitoring response times, query latency, and error rates.
+* **Monitoring**: Use tools like Vercel Monitoring to pinpoint any issues during testing.
+
+# What I’m Looking For:
+
+* Where to host the playwright tests that won't get blocked by a firewall.
+* Advice from anyone with experience load-testing serverless + turso setups.
+* Tips on tools, methods, or optimizations I might not have thought of.
+* Any ""gotchas"" I should be aware of before I dive into testing.",Neekzorz,1hd6wb4,https://reddit.com/r/webdev/comments/1hd6wb4/website_load_testing_advice/,https://www.reddit.com/r/webdev/comments/1hd6wb4/website_load_testing_advice/,2024-12-13 07:11:23,3,1.0,3,0,8,0,0,False,False,True,False,False,,self,t3_1hd6wb4
+webdev,I want to implement web accesibility (keybaord and speaker) navigation to our startup website. I do have read some articles but if you guys can suggest some more resources where actual production grade methodolgies and practises are mentioed that are adopted by buinessess.,The above title,Careless_Ad_7706,1hd5yzy,https://reddit.com/r/webdev/comments/1hd5yzy/i_want_to_implement_web_accesibility_keybaord_and/,https://www.reddit.com/r/webdev/comments/1hd5yzy/i_want_to_implement_web_accesibility_keybaord_and/,2024-12-13 06:06:41,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1hd5yzy
+webdev,How to handle optional thumbnail?,"I am working on a blog app and trying to figure out best approach of showing post card. There is a thubnail that is optional when user is creating a post. Now, since its optional, this means there can post cards with and without thumbnail. How do i handle this? Don't show thumbnail and just show title or have placeholder for thumbnail?",After-Perception-250,1hd2qpt,https://reddit.com/r/webdev/comments/1hd2qpt/how_to_handle_optional_thumbnail/,https://www.reddit.com/r/webdev/comments/1hd2qpt/how_to_handle_optional_thumbnail/,2024-12-13 02:59:30,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1hd2qpt
+webdev,I Built a Sorting Visualizer entirely from Scratch. Would Love Your Feedback!,"Hi Reddit!  
+I've always been fascinated by sorting algorithms, so I decided to create my own app inspired by those sorting visualizers you often see on YouTube but with more user interactivity. I intend for the site to just be for fun or potentially be useful for people looking to learn how these algorithms work.
+
+After countless hours of work and several refactors, I'm excited to share the result with you all. The site is finally in a state that I'm proud of! It is still very much a work-in-progress, but the bulk of the functionality is there. I still need to figure out how to represent a visualization of some algorithms that do not sort in place, like merge sort or radix sort, so if there are any suggestions for those, I'd be happy to hear it!
+
+[Here’s](https://sorting-visualizer-silk-xi.vercel.app/) the deployment, please check it out! I’d love to hear your thoughts and feedback. I'm always looking for ways to improve my web development skills, so any suggestions are welcome.",theskyisthelimi,1hcu4h6,https://reddit.com/r/webdev/comments/1hcu4h6/i_built_a_sorting_visualizer_entirely_from/,https://www.reddit.com/r/webdev/comments/1hcu4h6/i_built_a_sorting_visualizer_entirely_from/,2024-12-12 20:12:12,11,0.93,11,0,3,0,0,False,False,True,False,False,,self,t3_1hcu4h6
+webdev,Build Accessible Web Applications for Every User Experience,,Glad_Ad534,1hcswcm,https://reddit.com/r/webdev/comments/1hcswcm/build_accessible_web_applications_for_every_user/,https://techacademy.online/build-web-application/,2024-12-12 19:19:04,1,0.67,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/-LokYgt7fNSKiwJu0chWp3RSYoHTDc7YipgzQWkelEc.jpg,t3_1hcswcm
+webdev,How to convert model.h5 to TensorFlow; tensorflowjs_converter: command not found,"I have a model.h5 and I want to use it on my site, so I want to convert it to TensorFlow JS. For this, I need to use the tensorflowjs\_converter. I tried installing tensorflowjs with the following command:
+
+`sudo pip install tensorflowjs --break-system-packages`
+
+But when I try to run the command to convert, this is what I get:
+
+`ice@ice-Mint-PC:~$ tensorflowjs_converter --input_format keras ""/home/ice/Downloads/handwritten (1).h5"" \`
+
+`/home/ice/Desktop`
+
+`tensorflowjs_converter: command not found`",AnEntirePeach,1hcrea6,https://reddit.com/r/webdev/comments/1hcrea6/how_to_convert_modelh5_to_tensorflow_tensorflowjs/,https://www.reddit.com/r/webdev/comments/1hcrea6/how_to_convert_modelh5_to_tensorflow_tensorflowjs/,2024-12-12 18:15:01,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hcrea6

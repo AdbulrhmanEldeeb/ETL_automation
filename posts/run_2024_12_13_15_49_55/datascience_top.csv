@@ -1,0 +1,52 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,"Is it ethical to share examples of seed-hacking, p-hacking, test-set pruning, etc.?","I can't tell you the number of times I've been asked ""what random number seed should I use for my model"" and later discover that the questioner has grid searched it like a hyperparameter.
+
+Or worse: grid searched the seed for the train/test split or CV folds that ""gives the best result"".
+
+At best, the results are fragile and optimistically biased. At worst, they know what they're doing and it's intentional fraud. Especially when the project has real stakes/stakeholders.
+
+I was chatting to a colleague about this last week and shared a few examples of ""random seed hacking"" and related ideas of test-set pruning, p-hacking, leader board hacking, train/test split ratio gaming, and so on.
+
+He said I should write a tutorial or something, e.g. to educate managers/stakeholders/reviewers, etc. 
+
+I put a few examples in a github repository (I called it ""[Machine Learning Mischief](https://github.com/Jason2Brownlee/MachineLearningMischief)"", because it feels naughty/playful) but now I'm thinking it reads more like a ""how-to-cheat instruction guide"" for students, rather than a ""how to spot garbage results"" for teachers/managers/etc.
+
+What's the right answer here? 
+
+Do I delete (make private) the repo or push it for wider consideration (e.g. expand as a handbook on how to spot rubbish ml/ds results)? Or perhaps no one cares because it's common knowledge and super obvious?",jasonb,1hcw1o5,https://reddit.com/r/datascience/comments/1hcw1o5/is_it_ethical_to_share_examples_of_seedhacking/,https://www.reddit.com/r/datascience/comments/1hcw1o5/is_it_ethical_to_share_examples_of_seedhacking/,2024-12-12 21:34:13,132,0.96,132,0,29,0,0,False,False,True,False,False,Discussion,self,t3_1hcw1o5
+datascience,How to Best Prepare for DS Python Interviews at FAANG/Big Companies?,"Have an interivew coming up where the focus will be on Stats, ML, and Modeling with Python at FAANG. I'm expecting that I need to know Pandas from front to back and basics of Python (Leetcode Easy). 
+
+  
+For those that have went through interviews like this, what was the structure and what types of questions do they usually ask in a live coding round for DS? What is the best way to prepare? What are we expected to know besides the fundamentals of Python and Stats?",LeaguePrototype,1hcrjn2,https://reddit.com/r/datascience/comments/1hcrjn2/how_to_best_prepare_for_ds_python_interviews_at/,https://www.reddit.com/r/datascience/comments/1hcrjn2/how_to_best_prepare_for_ds_python_interviews_at/,2024-12-12 18:21:24,110,0.95,110,0,26,0,0,False,False,True,False,False,Coding,self,t3_1hcrjn2
+datascience,"0 based indexing vs 1 based indexing, preferences? ",,WhosaWhatsa,1hdd6yx,https://reddit.com/r/datascience/comments/1hdd6yx/0_based_indexing_vs_1_based_indexing_preferences/,https://i.redd.it/xpg0m9tbqz5e1.jpeg,2024-12-13 14:19:12,111,0.92,111,0,26,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/NLfLak0h_9N7QsRGy-buiIQN9USuHIpt1sdmRrQDY1k.jpg,t3_1hdd6yx
+datascience,"How do you track your models while prototyping? Sharing Skore, your scikit-learn companion.","Hello everyone! 👋
+
+In my work as a data scientist, I’ve often found it challenging to compare models and track them over time. This led me to contribute to a recent open-source library called [**Skore**](https://github.com/probabl-ai/skore), an initiative led by Probabl, a startup with a team comprising of many of the core scikit-learn maintainers.
+
+Our goal is to help data scientists use scikit-learn more effectively, provide the necessary tooling to track metrics and models, and visualize them effectively. Right now, it mostly includes support for model validation. We plan to extend the features to more phases of the ML workflow, such as model analysis and selection.
+
+I’m curious: how do you currently manage your workflow? More specifically, how do you track the evolution of metrics? Have you found something that worked well, or was missing?
+
+If you’ve faced challenges like these, check out [the repo on GitHub](https://github.com/probabl-ai/skore) and give it a try. Also, please star our repo ⭐️ it really helps!
+
+Looking forward to hearing your experiences and ideas—thanks for reading!",EquivalentNewt5236,1hcy1cg,https://reddit.com/r/datascience/comments/1hcy1cg/how_do_you_track_your_models_while_prototyping/,https://www.reddit.com/r/datascience/comments/1hcy1cg/how_do_you_track_your_models_while_prototyping/,2024-12-12 23:04:04,16,0.94,16,0,8,0,0,False,False,True,False,False,Projects,self,t3_1hcy1cg
+datascience,Masters in Applied Stats for an experienced analyst — good idea? Bad idea?,"I’m considering getting a master’s and would love to know what type of opportunities it would open up. I’ve been in the workforce for 12 years, including 5-7 years in growth marketing. 
+
+Somewhere along the line, growth marketing became analyzing growth marketing and being the data/marketing tech guy at a series c company. I did the bootcamp thing. And now I’m a senior data analyst for a fortune 100 company. So: successfully went from marketing to analytics, but not data science.
+
+I’m an expert in SQL, know tableau in and out, okay at Python, solid business presentation skills, and occasionally shoehorn a predictive model into a project. But yeah, it’s analytics.
+
+But I’d like to work on harder, more interesting problems and, frankly, make more money as an IC. 
+
+The master’s would go in depth on a lot of data science topics (multi variable regression, nlp, time series) and I could take comp sci classes as well. Possibly more in depth than I need.
+
+Anyway, thoughts on what could arise from this?",Historical_Leek_9012,1hcxv52,https://reddit.com/r/datascience/comments/1hcxv52/masters_in_applied_stats_for_an_experienced/,https://www.reddit.com/r/datascience/comments/1hcxv52/masters_in_applied_stats_for_an_experienced/,2024-12-12 22:56:14,11,0.79,11,0,30,0,0,False,False,True,False,False,Education,self,t3_1hcxv52
+datascience,A New Approach To Training With Perforated AI,"Hello, I wanted to share this If someone is interested in knowing a little bit about a company I saw at a conference a few months ago.
+
+[https://medium.com/@luismarcelobp/a-new-approach-to-training-with-perforated-ai-339e29cabd54](https://medium.com/@luismarcelobp/a-new-approach-to-training-with-perforated-ai-339e29cabd54)",SmartPercent177,1hcpw9g,https://reddit.com/r/datascience/comments/1hcpw9g/a_new_approach_to_training_with_perforated_ai/,https://www.reddit.com/r/datascience/comments/1hcpw9g/a_new_approach_to_training_with_perforated_ai/,2024-12-12 17:11:34,8,0.69,8,0,6,0,0,False,False,True,False,False,Tools,self,t3_1hcpw9g
+datascience,Need help standard deviation,"
+Hey guys I really need help I love statistics but I don’t know what the standard deviation is. I know I could probably google or chatgpt or open a basic book but I was hoping someone here could spoon feed me a series of statistics videos that are entertaining like Cocomelon or Bluey, something I can relate to.
+
+Also I don’t really understand mean and how it is different from average, and a I’m nervous because I am in my first year of my masters in data science.
+
+Thanks guys 🙏 ",aligatormilk,1hcuaog,https://reddit.com/r/datascience/comments/1hcuaog/need_help_standard_deviation/,https://www.reddit.com/r/datascience/comments/1hcuaog/need_help_standard_deviation/,2024-12-12 20:19:42,0,0.23,0,0,10,0,0,False,False,True,False,False,ML,self,t3_1hcuaog

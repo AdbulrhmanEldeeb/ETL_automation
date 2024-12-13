@@ -1,0 +1,213 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,something like batch thatdoesn't require admin rights,I ve written code in R ( like python). I want non coders to execute it without accessing R through batch file. but we dont have admin right. is there another way?,Due-Duty961,1hde1id,https://reddit.com/r/learnprogramming/comments/1hde1id/something_like_batch_thatdoesnt_require_admin/,https://www.reddit.com/r/learnprogramming/comments/1hde1id/something_like_batch_thatdoesnt_require_admin/,2024-12-13 14:59:50,3,1.0,3,0,7,0,0,False,False,True,False,False,Topic,,t3_1hde1id
+learnprogramming,#define GPIO_PORTF_DATA_R    (*((volatile unsigned long *)0x400253FC)),"I hate pointers and need someone to explain this to me
+
+first of all this is pulled from tm4c123gh6pm.h file made by texas instruments for that tiva c model
+
+using Standard C 99
+
+this makes GPIO\_PORTF\_DATA\_R handled as a normal Variable in the code, my issue is, i dont understand how is this done through this pointer configuration
+
+and i want to know how to call suh an address Variable in a function
+
+like for example setBit( \* uint32\_t DeclarationMightBeWrong , uint8\_t shiftingBit){}
+
+
+
+and how do i assign it to another variable?   
+Register\* = &amp;GPIO\_PORTF\_DATA\_R; ? 
+
+again i hate pointers",Bebo991_Gaming,1hddqd7,https://reddit.com/r/learnprogramming/comments/1hddqd7/define_gpio_portf_data_r_volatile_unsigned_long/,https://www.reddit.com/r/learnprogramming/comments/1hddqd7/define_gpio_portf_data_r_volatile_unsigned_long/,2024-12-13 14:45:14,2,1.0,2,0,3,0,0,False,False,True,False,False,Tutorial,,t3_1hddqd7
+learnprogramming,I just want to learn programing and I need a reason.,"I’ve always wanted to learn programing but I can’t find a good reason to. I did my BA in civil engineering but didn’t like it and I sucked at it. So I became an English teacher because I enjoyed it and it was the only other thing I was good at. 
+I’m 35 now and I’m full of passion for making things. For doing something fun and learning new things. 
+I really like music and I’m learning how to olay the electric guitar. I’m learning a new language other than English( First language is Farsi). I love playing video games and at one point wanted to learn C++ to make video games but I didn’t.
+Now, I’m thinking of learning how to make websites so I can promote and boost my wife’s business. 
+
+I’ve been learning Python for a few days and I’m really enjoying it. I’ve been told that Python is an easy and a very useful language to start with. But I just don’t know what I can do with it. How will it ever be useful for me? Should I just go for web development?  ",WeekendMagus_reddit,1hdbroi,https://reddit.com/r/learnprogramming/comments/1hdbroi/i_just_want_to_learn_programing_and_i_need_a/,https://www.reddit.com/r/learnprogramming/comments/1hdbroi/i_just_want_to_learn_programing_and_i_need_a/,2024-12-13 13:05:35,15,0.71,15,0,36,0,0,False,False,True,False,False,,,t3_1hdbroi
+learnprogramming,What coding concept will you never understand?,"I’ve been coding at an educational level for 7 years and industry level for 1.5 years.
+
+I’m still not that great but there are some concepts, no matter how many times and how well they’re explained that I will NEVER understand.
+
+Which coding concepts (if any) do you feel like you’ll never understand? Hopefully we can get some answers today 🤣",SeatInternational830,1hclgrz,https://reddit.com/r/learnprogramming/comments/1hclgrz/what_coding_concept_will_you_never_understand/,https://www.reddit.com/r/learnprogramming/comments/1hclgrz/what_coding_concept_will_you_never_understand/,2024-12-12 13:48:38,459,0.94,459,0,692,0,0,False,False,True,False,False,Topic,,t3_1hclgrz
+learnprogramming,"Singletons are bad, but dependency injection is good - why the difference?","Singletons are bad, but dependency injection is good - why the difference?
+
+Feels like in practice most dependency injection is just fancy singletons. So it kinda confuses me. ",FakePixieGirl,1hd1w5t,https://reddit.com/r/learnprogramming/comments/1hd1w5t/singletons_are_bad_but_dependency_injection_is/,https://www.reddit.com/r/learnprogramming/comments/1hd1w5t/singletons_are_bad_but_dependency_injection_is/,2024-12-13 02:14:49,34,0.84,34,0,48,0,0,False,False,True,False,False,,,t3_1hd1w5t
+learnprogramming,What did I do wrong?,"I’m seriously considering of going to a coding bootcamp next year and just started learning python on the sololearn app. I’m currently stuck on a practice test just because it didn’t exactly teach me how to implementing the input().
+
+—To those learning on that app, be aware of spoiler/solution for the following!—
+
+I’ve tried everything. So how do I supposed to ask the user for input, storage it in the name variable, and display it on the screen?
+
+It provided two input examples
+“Tom”
+“Bob”
+With expected outputs being Tom and Bob, obviously.
+
+I wrote like this:
+
+#Ask the user for input and store it in a variable
+name = input()
+name2 = input()
+
+#Display the user input on the screen
+print(name)
+print(name2)
+
+I keep getting an EOF error. Help! 😅
+
+I even tried name = input(“Enter your name:”)
+
+Snake cases too
+
+Edit: These both input() and both print() are supposed to be in new string but Reddit arranged it wrongly. Also these large bold sentences were supposed to be statements lol",Oatsdbl,1hdce8y,https://reddit.com/r/learnprogramming/comments/1hdce8y/what_did_i_do_wrong/,https://www.reddit.com/r/learnprogramming/comments/1hdce8y/what_did_i_do_wrong/,2024-12-13 13:39:14,3,1.0,3,0,4,0,0,False,False,True,False,False,Tutorial,,t3_1hdce8y
+learnprogramming,What are some important Coding languages to start learning first ?,"Currently i just started to learn HTML I'm not sure how long it's gonna take before i can move on the next language which I'm thinking C++ and then JavaScript, i don't really have a  fix goal on what project i want to do, perhaps something like  web design or making apps or even cybersecurity which i know nothing on that other than i see it everywhere and that is it in high demand, i would also appreciate some resources where to learn for free that contains practice projects.",Rivenwes,1hd933j,https://reddit.com/r/learnprogramming/comments/1hd933j/what_are_some_important_coding_languages_to_start/,https://www.reddit.com/r/learnprogramming/comments/1hd933j/what_are_some_important_coding_languages_to_start/,2024-12-13 10:04:41,5,0.63,5,0,24,0,0,False,False,True,False,False,,,t3_1hd933j
+learnprogramming,What’s your experience level and how often are you using Google/GenAI for questions?,"Recently started a new role as a data analyst. Although I’ve been writing code since 2020, I still sometimes feel like a newbie, especially when I go back to using a language I haven’t used in a long time. How often are you using Google, GenAI, and what are you generally looking for answers to?",siiiiiiilk,1hdcyi4,https://reddit.com/r/learnprogramming/comments/1hdcyi4/whats_your_experience_level_and_how_often_are_you/,https://www.reddit.com/r/learnprogramming/comments/1hdcyi4/whats_your_experience_level_and_how_often_are_you/,2024-12-13 14:07:34,2,0.75,2,0,4,0,0,False,False,True,False,False,,,t3_1hdcyi4
+learnprogramming,"Looking for like-minded people in Python, Machine Learning and Flask to learn and create projects together","Hello everyone!
+
+My name is Nicholas, I am 18 years old and I live in England. I'm looking for people who want to learn, share knowledge and work on projects together. I am open to communicate with people from anywhere in the world, but it would be great if it was mostly people from England, as I would like to be able to meet in person in the future.
+
+I'm learning Python and want to improve my skills with others who already know a bit of the language. My goal is to create projects, share experiences and grow together.
+
+Besides Python, I am also interested in Machine Learning and am looking for people who want to get into this field or are already involved in it to work together on projects and share knowledge. I also want to learn and discuss statistics - would be happy if someone joins.
+
+If anyone is interested in Frontend or Backend (e.g. Flask), that's welcome too. This will give us the opportunity to create quality web interfaces for our projects.
+
+I would also like to add that I am not a native English speaker, and by working in this community I aim to improve my spoken English. I am open to communication, and I think it will help all of us to learn and grow together!
+
+I plan to use Discord for communication and collaboration, so if you want to improve your skills in Python, Machine Learning, Flask or statistics, we'd be happy to work together!
+
+If you're interested, drop me a line in the comments or private messages. I would be glad to meet you and start working on projects together!
+
+My discord channel: 
+https://discord.gg/P4BpbPhU",Nicholas_Semenov,1hdal1e,https://reddit.com/r/learnprogramming/comments/1hdal1e/looking_for_likeminded_people_in_python_machine/,https://www.reddit.com/r/learnprogramming/comments/1hdal1e/looking_for_likeminded_people_in_python_machine/,2024-12-13 11:53:27,4,0.83,4,0,1,0,0,False,False,True,False,False,,,t3_1hdal1e
+learnprogramming,Need some basic JS web dev project ideas!,"Hey everyone,
+
+I'm a beginner in JavaScript web development and I'm looking for some project ideas to practice my skills. I've covered the basics like HTML, CSS, and JavaScript fundamentals.
+
+**I'm looking for something that's not too complex but still challenging enough to learn new things.**
+
+Here are some of the things I'm interested in:
+
+* **Interactive web pages:** Creating dynamic pages with user input and real-time updates.
+* **Simple games:** Building small browser-based games like tic-tac-toe or a number guessing game.
+* **Data visualization:** Using libraries like Chart.js or D3.js to create visualizations.
+* **Web applications:** Developing basic web apps, like a to-do list or a simple note-taking app.
+
+**Any suggestions or ideas would be greatly appreciated!**
+
+**Please feel free to share any resources or tutorials that might be helpful.**
+
+Thanks in advance!",Specific-Company-354,1hda0rw,https://reddit.com/r/learnprogramming/comments/1hda0rw/need_some_basic_js_web_dev_project_ideas/,https://www.reddit.com/r/learnprogramming/comments/1hda0rw/need_some_basic_js_web_dev_project_ideas/,2024-12-13 11:14:17,3,1.0,3,0,7,0,0,False,False,True,False,False,,,t3_1hda0rw
+learnprogramming,How to decide folder structure / architecture for a project to scale?,"Hello all, 
+
+I'm a Backend Developer and trying to do some basic projects I've seen in [roadmap.sh](https://roadmap.sh/backend/projects) with Typescript/Node.
+
+Every time I start a project, I know what I can do to handle the program's logic flow. For example, I have to take arguments from the user from the CLI, transfer these arguments to the Business logic, and then transfer the data to the database/write them on a file. I usually approach it like the classical structure: 
+
+    src
+    -- config
+    -- models
+    -- services
+    -- utils
+    index.ts 
+
+The thing is, I don't know how to separate these logics to different services/ managers/ utilities/ functions etc. How can I learn this? Most of the project tutorials just simply says ""I'll create the ExpenseService"" but doesn't tell you why it's a service or a manager. God, I can't even seperate what's a manager and what's a service.
+
+I can't even create a folder structure, and the more I think about it, the more complex it gets. If you read this far, thanks in advance. ",batugkocak,1hdbjzw,https://reddit.com/r/learnprogramming/comments/1hdbjzw/how_to_decide_folder_structure_architecture_for_a/,https://www.reddit.com/r/learnprogramming/comments/1hdbjzw/how_to_decide_folder_structure_architecture_for_a/,2024-12-13 12:53:47,2,0.76,2,0,1,0,0,False,False,True,False,False,,,t3_1hdbjzw
+learnprogramming,Neetcode (its awesome),"Im graduating soon (cs major) and I feel very set up and confident for the future. I was talking to some younger peers who are really struggling finding their footing in the whole programming space and I recommended them to use NeetCode as a resource, and I recommend you do to!
+
+I, aswell as so many other students, CANNOT learn by just typing along with whatever the professor is coding. I found it impossible to learn like that, and unfortunately 99% of my courses were taught this way. I discovered NeetCode ~2 years ago and man. IT CHANGED MY LIFE! His DSA stuff in particular is awesome. I learned so much from him and I loved the way he would explain each concept and have you try and solve the problem on your own before moving on to the next topic. 
+
+His free stuff is great, but I really recommend you buy the full experience if you have skme extra cash to spend. 
+
+This has been one of my favorite resources ive come across and this would be great imo for anyone getting into programming and all that swe stuff! 
+
+
+
+",Kitchen_Possible7604,1hd1kjk,https://reddit.com/r/learnprogramming/comments/1hd1kjk/neetcode_its_awesome/,https://www.reddit.com/r/learnprogramming/comments/1hd1kjk/neetcode_its_awesome/,2024-12-13 01:58:38,13,0.81,13,0,1,0,0,False,False,True,False,False,,,t3_1hd1kjk
+learnprogramming,Is blockchain worth learning??,"Hey guys i am newbie and wanna know that blockchain is really worth learning ??
+
+suggest me a better course with certification",Odd_Drawing2836,1hdf24r,https://reddit.com/r/learnprogramming/comments/1hdf24r/is_blockchain_worth_learning/,https://www.reddit.com/r/learnprogramming/comments/1hdf24r/is_blockchain_worth_learning/,2024-12-13 15:46:25,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1hdf24r
+learnprogramming,How do I interpret duplicate?,"I have this homework ""problem no. 3"" and I have no clue  what the correct interpretation of duplicate should be.
+
+""The first number shall be duplicated according to the value of the second number.  
+A third number shall be created by multiplying the value of the second number to 6  
+Display the sum of all three numbers using f-strings. Follow the format of the output below:  
+The sum of all three numbers are sum., where sum is the sum of all three numbers.""
+
+if my input is 3,5. Should my output be
+
+3\*5+5+5\*6  
+or  
+33333+5+5\*6
+
+at first i thought it was the first one but they used ""third number shall be created by multiplying the value of the second number to 6"" If they already used ""multiply"" here why not also the first one instead of duplicate",Ok_Caterpillar_1086,1hdanev,https://reddit.com/r/learnprogramming/comments/1hdanev/how_do_i_interpret_duplicate/,https://www.reddit.com/r/learnprogramming/comments/1hdanev/how_do_i_interpret_duplicate/,2024-12-13 11:57:51,2,0.75,2,0,4,0,0,False,False,True,False,False,,,t3_1hdanev
+learnprogramming,I just learned about the power of clean code – Here's a tip that helped me improve my coding habits!,"I recently started focusing on writing clean, readable code, and it’s been a game-changer for me. One tip that really helped was using meaningful variable names and breaking up complex functions into smaller, reusable ones. It’s amazing how much easier it is to debug and maintain code now. What are some of your best tips for clean coding? Would love to hear your experiences!",i2r3,1hcnxs3,https://reddit.com/r/learnprogramming/comments/1hcnxs3/i_just_learned_about_the_power_of_clean_code/,https://www.reddit.com/r/learnprogramming/comments/1hcnxs3/i_just_learned_about_the_power_of_clean_code/,2024-12-12 15:46:32,78,0.9,78,0,36,0,0,False,False,True,False,False,,,t3_1hcnxs3
+learnprogramming,Which programming field shouldn’t be studied? ,I would like to know your opinion on which area of programming is not worth studying because it is unlikely to remain relevant.,Equivalent_West_9831,1hctxcv,https://reddit.com/r/learnprogramming/comments/1hctxcv/which_programming_field_shouldnt_be_studied/,https://www.reddit.com/r/learnprogramming/comments/1hctxcv/which_programming_field_shouldnt_be_studied/,2024-12-12 20:03:34,31,0.75,31,0,32,0,0,False,False,True,False,False,,,t3_1hctxcv
+learnprogramming,"5 years of experience, 4 months without a job, anxiety issues, and gaps in modern technologies – what should I do next?","Hey everyone,
+
+I’m facing a dilemma and need your advice. I have 5 years of experience as a full-stack developer, primarily in a small company where I was the sole programmer. I built websites (with custom CMS), CRM applications, and e-commerce systems from scratch. The main technologies I worked with were HTML, CSS, JS (formerly jQuery), GSAP, PHP, and MySQL. I would receive designs (from Figma/Adobe) and client requirements, and then complete the project from start to finish.
+
+However, for the past 4 months, I’ve been unemployed, and I suffer from anxiety, which adds a lot of stress. On top of that, programming is my passion, and I deeply miss it. The issue is that I never chased higher salaries, I just loved the work itself. Now I realize that technology has advanced, and I feel like I’m falling behind. I don’t have experience with tools like **React, Laravel, Next.js, Docker, Kubernetes** – and I’ve never even used **GitHub**. In my previous job, I worked alone, handling everything from code to deployment (FTP), and I did all my local work on my own computer using **XAMPP** instead of a proper Git or CI/CD workflow. Now I see that focusing on performance over learning new tools was a mistake.
+
+**My questions:**
+
+1. **What should I do next?** I’m lacking motivation and don’t know which path to take. Should I focus on learning **React**? Although I’ve done full-stack projects in the past, I don’t feel confident about keeping up with both frontend and backend simultaneously. I’ve always learned through practical experience – solving tasks rather than focusing on theory – and I’m worried I won’t perform well in technical interviews where they test theoretical knowledge. This is especially scary since I’ve never been through a formal job interview before.
+2. **Will 4 months off cause me to forget everything I know?** I feel like as I try to catch up on new frontend topics (like JS), I’m losing touch with backend skills (PHP). Is this just an illusion, or can you actually lose skills that fast?
+3. **How should I structure my learning?** I tend to be a perfectionist and have trouble knowing when to move on to the next topic. I feel like I can’t master both the frontend (React) and backend (PHP/Laravel) at the same time. I want to focus on frontend right now, but in the future, I still dream of building full applications from A to Z, as I’ve done in the past. However, with the current pressure to learn frameworks, I’m not sure how to manage both. How should I plan my learning for the next 3 months to maximize my chances on the job market?
+4. **Has anyone been in a similar situation?** How did you deal with job gaps, stress, and catching up on modern technologies? Is my perfectionism slowing me down, or is it actually a good strategy?
+
+# My Experience:
+
+**Frontend:** HTML, CSS (no experience with SASS/LESS, used Tailwind once but found it simple), jQuery, GSAP, ScrollTrigger, Swiper, JS (DOM manipulation, form validation, handling JSON returned from PHP, animations).
+
+**Backend:** PHP (no frameworks, mainly CRUD operations, database/file handling, generating PDFs, processing Excel data, managing user roles, handling forms and sending emails, payment gateway integration, API integration), MySQL (database design, query optimization, indexing).
+
+**What I’ve done:** Built websites, CMS systems, CRM apps, applications with payment gateways (PayU, parcel locker integration), PDF generation, database management, API creation.
+
+**Concerns:** I’m afraid that lacking modern technologies in my CV makes me unattractive in the current job market, and my anxiety only amplifies those concerns. Should I apply for jobs even if I don’t meet all the requirements? Or should I focus on catching up with new skills first? I feel stuck because I’ve never been through a recruitment process, and that scares me.
+
+Thanks in advance for any advice you can offer!",guffcio,1hcxw6r,https://reddit.com/r/learnprogramming/comments/1hcxw6r/5_years_of_experience_4_months_without_a_job/,https://www.reddit.com/r/learnprogramming/comments/1hcxw6r/5_years_of_experience_4_months_without_a_job/,2024-12-12 22:57:37,16,0.88,16,0,18,0,0,False,False,True,False,False,,,t3_1hcxw6r
+learnprogramming,Pulling my hair out with this Google API,"I’m building a webapp to create and issue digital passes, and so far i’ve got it set up to issue the passes but the custom fields I want to add are added to the back of the pass in the details, and not shown visibly on the front.
+
+Anyone dealt with creating passes with the Google Wallet API? Any pointers would be much appreciated!
+
+I release this is a long shot but I would really love some help! Claude and ChatGPT are both stuck in doom loops trying to figure it out.
+
+Thanks!",ComradeAdam7,1hddjhz,https://reddit.com/r/learnprogramming/comments/1hddjhz/pulling_my_hair_out_with_this_google_api/,https://www.reddit.com/r/learnprogramming/comments/1hddjhz/pulling_my_hair_out_with_this_google_api/,2024-12-13 14:36:09,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hddjhz
+learnprogramming,Frustrating doubt,"class Solution {
+
+   public:
+
+int hammingWeight(int n) {
+
+int count=0;
+
+while(n!=0){
+
+if((n|1)==n){
+
+count++; 
+
+n = n&gt;&gt;1; 
+
+}
+
+}
+
+return count;
+
+} 
+
+};
+
+  
+Please tell me why its not working, count + (n&amp;1) will work obviously but why not this? where's the problem? Is there any specific example or just somethinggggg....",ConfidenceMain9212,1hdbki4,https://reddit.com/r/learnprogramming/comments/1hdbki4/frustrating_doubt/,https://www.reddit.com/r/learnprogramming/comments/1hdbki4/frustrating_doubt/,2024-12-13 12:54:38,1,0.67,1,0,2,0,0,False,False,True,False,False,Debugging,,t3_1hdbki4
+learnprogramming,Im 13 and looking to expand my very basic coding knowledge.,"I’ve been interested in programming from a really young age and i haven’t figured out what language to learn next. I would call myself intermediate with Node.js (specifically object oriented programming) and i have grasped Java for a short while. I really like the field of robotics and gaming, so a low-level programming language would fit my endeavours neatly, but i just dont know where to start or what language to learn next. C? C++? C#? All of those are some options im evaluating, i just need a little nudge in the right direction.",Thorminate11,1hcwuve,https://reddit.com/r/learnprogramming/comments/1hcwuve/im_13_and_looking_to_expand_my_very_basic_coding/,https://www.reddit.com/r/learnprogramming/comments/1hcwuve/im_13_and_looking_to_expand_my_very_basic_coding/,2024-12-12 22:09:47,17,0.67,17,0,32,0,0,False,False,True,False,False,,,t3_1hcwuve
+learnprogramming,Odin and App Academy Open,"I have completed the foundation of both Odin and App Academy Open. I really like the structure of AAO, but it seems to lack in complex full-fledged projects.
+
+So is it a good idea to complete AAO, and then do all the projects in Odin for learning and portfolio purposes? Thanks.
+
+Also, opinions on App Academy Open are welcome from those who have completed it.",Repulsive-Weather122,1hdbf8q,https://reddit.com/r/learnprogramming/comments/1hdbf8q/odin_and_app_academy_open/,https://www.reddit.com/r/learnprogramming/comments/1hdbf8q/odin_and_app_academy_open/,2024-12-13 12:46:03,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1hdbf8q
+learnprogramming,How Can I Get a Head Start in Computer Science Before College?,"I'm about to graduate high school and want to get a head start in computer science, I have somewhat of a background when it comes to coding. Whether it's improving my math skills or learning coding, any advice would be helpful",overwatcher21412512,1hd49ba,https://reddit.com/r/learnprogramming/comments/1hd49ba/how_can_i_get_a_head_start_in_computer_science/,https://www.reddit.com/r/learnprogramming/comments/1hd49ba/how_can_i_get_a_head_start_in_computer_science/,2024-12-13 04:22:41,2,0.63,2,0,14,0,0,False,False,True,False,False,,,t3_1hd49ba
+learnprogramming,What is the weirdest tech stack you have heard a successful project be built with?,Takes more than just code to make a product successful but I wonder how astray devs have gone to what we are used to seeing. ,WynActTroph,1hd434s,https://reddit.com/r/learnprogramming/comments/1hd434s/what_is_the_weirdest_tech_stack_you_have_heard_a/,https://www.reddit.com/r/learnprogramming/comments/1hd434s/what_is_the_weirdest_tech_stack_you_have_heard_a/,2024-12-13 04:13:00,3,0.8,3,0,15,0,0,False,False,True,False,False,,,t3_1hd434s

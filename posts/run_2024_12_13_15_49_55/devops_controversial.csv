@@ -1,0 +1,218 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Best tool in DevOps,"From my recent experience, I would say the best tool to work on as a DevOps Engineer or similar position has to be Grafana or similar observability tool. You touch each every aspect of DevOps while setting up and also while maintaining it. System administration, application monitoring, kubernetes, containers, network, etc etc. 
+
+I believe, one who masters this, is already at the super pro level.
+
+What are your thoughts?",Radon03,1hd8o17,https://reddit.com/r/devops/comments/1hd8o17/best_tool_in_devops/,https://www.reddit.com/r/devops/comments/1hd8o17/best_tool_in_devops/,2024-12-13 09:31:56,15,0.61,15,0,30,0,0,False,False,True,False,False,,self,t3_1hd8o17
+devops,2025 is 95% over.,what are you planning to learn in rest of the 5%? Or just chill out?,moneyppt,1hdd0c7,https://reddit.com/r/devops/comments/1hdd0c7/2025_is_95_over/,https://www.reddit.com/r/devops/comments/1hdd0c7/2025_is_95_over/,2024-12-13 14:10:04,22,0.7,22,0,38,0,0,False,False,True,False,False,,self,t3_1hdd0c7
+devops,QA Engineer considering move to DevOps,"I don't know how long QA will still be in demand, at my workplace or in general. So I'm considering my options - just in case I need to jump ship.
+
+I've been working in software development for almost 5 years now, mostly as a QA Engineer. I've also been doing freelance developing web and mobile apps for few years and generally enthusiastic about software.
+
+I was thinking either UIUX design stuff or DevOps.
+
+What do I need to do to enable myself / increase my chances to make the move? ",va_cosi_bene,1hcsgzs,https://reddit.com/r/devops/comments/1hcsgzs/qa_engineer_considering_move_to_devops/,https://www.reddit.com/r/devops/comments/1hcsgzs/qa_engineer_considering_move_to_devops/,2024-12-12 19:00:50,0,0.33,0,0,8,0,0,False,False,True,False,False,,self,t3_1hcsgzs
+devops,Moving from AWS ECS to AWS EKS,"It’s been proposed to move from bare AWS ECS to AWS EKS.
+
+Is the move worth it and what benefit is the move?
+
+Things have been stable with ECS as far as deployments and container orchestration.  It would be cool to learn something new but I also wonder about the efficacy. I haven’t worked with EKS professionally so this is why this is a blind spot",babbagack,1hd3btj,https://reddit.com/r/devops/comments/1hd3btj/moving_from_aws_ecs_to_aws_eks/,https://www.reddit.com/r/devops/comments/1hd3btj/moving_from_aws_ecs_to_aws_eks/,2024-12-13 03:31:03,13,0.79,13,0,36,0,0,False,False,True,False,False,,self,t3_1hd3btj
+devops,CyberSecurity to Devops,"Hi everyone ! I want to transition into DevOps 
+I litte talk about my experiences 
+I was a Python backend Intern 
+And I wanted to become DevOps or Cyber Security specialist and I had chance to become Cyber intern and I did it and after that I become Cyber Sec Engineer 
+But while working I realised that I want to work with both Dev and Ops and Cloud related jobs so I thought DevOps is to go 
+And to do that 
+I've made a roadmap 
+1)AWS(SAA cert)
+2)Terraform(cert) 
+3) Docker 
+4) Kubernates 
+5)CI/CD (I think GitLab is fine)
+6)Golang 
+I already work with linux and networking thats why I did not include them 
+So my question is what are the possibilities to land a job after finishing the roadmap 
+How can I increase my chance of employment 
+And Does it matter if my Cyber Security Experience is less than 1 year 
+",Zyzz294,1hd8m33,https://reddit.com/r/devops/comments/1hd8m33/cybersecurity_to_devops/,https://www.reddit.com/r/devops/comments/1hd8m33/cybersecurity_to_devops/,2024-12-13 09:27:37,0,0.5,0,0,5,0,0,False,False,True,False,False,,self,t3_1hd8m33
+devops,"Visual Studio 2022, C#, multiple defines seem to negate..... at least on GitHub windows-2022 runner...","This is a really weird one, folks here might have some thoughts/interest.  
+
+If you define the same conditional compilation symbol twice, Visual Studio will revert to default settings.  Haven't tried pinning this to a particular version, just hit us a few hours ago.
+
+Our symptom was that we rely on conditionals to control the URL's the product connects to, and the most recent release builds were connecting to the dev host.  MSBuild was using the correct build configuration yet the code was building things that shouldn't build in this configuration .  
+
+To further verify , we 'broke' debug build by introducing a bug inside an #if so that we could be absolutely certain that the wrong defines were applied, and sure enough our 'GOLIVE' was building Debug code.
+
+I noticed duplicate defines when reviewing in VS project properties, the lead dev cleaned and confirmed this fixes the issue.  In our specific case the apparent culprit was checked in directory.build.props files having the same &lt;DefineConstants&gt; values as the .csproj files.  Removing the &lt;DefineConstants&gt; from directory.build.props files resulted in correct build.
+
+It's entirely possible that there is some other root cause, we're in the middle of a regulatory compliance cycle so no time to dig any further..
+
+msbuild version 17.12.6.51805.",bdzer0,1hcwctv,https://reddit.com/r/devops/comments/1hcwctv/visual_studio_2022_c_multiple_defines_seem_to/,https://www.reddit.com/r/devops/comments/1hcwctv/visual_studio_2022_c_multiple_defines_seem_to/,2024-12-12 21:47:47,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hcwctv
+devops,Contracts,"Is there anyone have contracts for DevOps work outside of their job or running a small DevOps company?
+
+Just curious because I’ve been in DevOps for some time now and never hear of anyone with side jobs or running their own small business. ",urbann3rds,1hcutrz,https://reddit.com/r/devops/comments/1hcutrz/contracts/,https://www.reddit.com/r/devops/comments/1hcutrz/contracts/,2024-12-12 20:43:13,0,0.5,0,0,6,0,0,False,False,True,False,False,,self,t3_1hcutrz
+devops,[Humor] A Company Asks me to Rate my tech Skills on a 1-5 Scale... So I Gave Them an 8,"**I know it's not the smartest thing I could have done, but it came straight from the heart.**
+
+So during a recent job hunt, I received a pptx file from a company asking me to rate my skills in various technologies on a scale from 1 to 5, **plus specify the exact versions I’ve worked with for +30 diff technologies.**
+
+Yeah, you read that right: They’re expecting me to say, *“I’m a level 3.74 at Python version 3.10.2”* or something equally ridiculous.
+
+Anyway, I filled out their form, but not the way they wanted. I just wrote something like:
+
+**Skill Level:** 8 (out of 5!)  
+**Version:** “INDIFFERENT""
+
+Maybe it’s unprofessional, but you know what’s also unprofessional?
+
+Trying to quantify my entire skill set with arbitrary numbers **like I’m a damn Pokémon card stat** lol.
+
+Maybe they have their reasons for doing what they do, but I didn’t want to take part in a process like that, which is why I responded the way I did.  
+
+
+I hope you’ll (and they) take it the way I do, with a sense of humor.
+
+*Alright, next one, please!*",nettrotten,1hcoieb,https://reddit.com/r/devops/comments/1hcoieb/humor_a_company_asks_me_to_rate_my_tech_skills_on/,https://www.reddit.com/r/devops/comments/1hcoieb/humor_a_company_asks_me_to_rate_my_tech_skills_on/,2024-12-12 16:11:26,138,0.89,138,0,63,0,0,False,False,True,False,False,,self,t3_1hcoieb
+devops,I was just made the release manager for our team... Now what? ,"I have been a data scientist for a few years, but never a release manager?  What attributes do successful release managers have?  How can I do a good job in this role?  Any advice? ",BandicootRoutine5156,1hcv5rc,https://reddit.com/r/devops/comments/1hcv5rc/i_was_just_made_the_release_manager_for_our_team/,https://www.reddit.com/r/devops/comments/1hcv5rc/i_was_just_made_the_release_manager_for_our_team/,2024-12-12 20:56:55,13,0.79,13,0,14,0,0,False,False,True,False,False,,self,t3_1hcv5rc
+devops,Is KodeKloud Worth It?,"Currently I'm a second year computer science engineering student willing to learn devops and it's really overwhelming to go scout for information since it is so unorganized, I heard about KodeKloud and wanted to ask your opinion and some other alternatives , and can you suggest for me which path to take and any other advices you can. ",the_hero_Issei,1hcwri6,https://reddit.com/r/devops/comments/1hcwri6/is_kodekloud_worth_it/,https://www.reddit.com/r/devops/comments/1hcwri6/is_kodekloud_worth_it/,2024-12-12 22:05:27,17,0.85,17,0,9,0,0,False,False,True,False,False,,self,t3_1hcwri6
+devops,Is This CI/CD Pipeline Setup for React Frontend and .NET Backend Feasible?,"I’m planning to set up a CI/CD pipeline using Jenkins for automating the deployment of a **React frontend** and **.NET backend** to IIS servers for development and staging environments. I’ve outlined the workflow below and would love your input on whether this is feasible or if there are any potential pitfalls I should address.
+
+# Proposed Setup
+
+1. **Repositories:**
+   * **Frontend:** React codebase with `dev` and `staging` branches.
+   * **Backend:** .NET codebase with `dev` and `staging` branches.
+2. **Environments:**
+   * **Development:** Hosted on IIS, accessible via `http://dev.example.com`.
+   * **Staging:** Hosted on IIS, accessible via `http://staging.example.com`.
+3. **Pipeline Workflow:**
+   * **Triggers:** Push to `dev` or `staging` branches in the frontend repository triggers the pipeline. It fetches the corresponding branch from the backend repository to keep both in sync.
+   * **Builds:**
+      * **Frontend:** Runs `npm install`, builds the app, and deploys static files to IIS.
+      * **Backend:** Runs `.NET restore`, builds the project, and deploys compiled output to IIS.
+   * **Deployments:** Artifacts are deployed to IIS directories:
+      * Frontend: `C:/inetpub/wwwroot/dev/frontend` &amp; `C:/inetpub/wwwroot/staging/frontend`.
+      * Backend: `C:/inetpub/wwwroot/dev/backend` &amp; `C:/inetpub/wwwroot/staging/backend`.
+   * **Monitoring:** Post-deployment notifications and logs for debugging failed builds.
+4. **Jenkins Pipeline Design:**
+   * Parallel stages for frontend and backend to optimize time.
+   * Environment variables for repository URLs, branch names, and deployment paths.
+
+# My Questions:
+
+1. Is syncing both repositories in the same pipeline a good practice, or should I create separate pipelines for frontend and backend?
+2. Are there any better approaches for automating deployments to IIS servers?
+3. Would there be issues with this setup in handling branch-specific environments (`dev` and `staging`)?
+4. Is this really possible? I haven’t worked on Jenkins before, so I’m not sure if this workflow is achievable.
+
+",Striking-Database301,1hd8i7y,https://reddit.com/r/devops/comments/1hd8i7y/is_this_cicd_pipeline_setup_for_react_frontend/,https://www.reddit.com/r/devops/comments/1hd8i7y/is_this_cicd_pipeline_setup_for_react_frontend/,2024-12-13 09:18:45,2,0.75,2,0,6,0,0,False,False,True,False,False,,self,t3_1hd8i7y
+devops,Need Guidance and clear confusion ,"Want proper guidance for starting my career in DevOps. I collected some roadmaps, read some articles, and watched some YouTube videos to know about DevOps (cons also). After that I think the DevOps may be a good choice for me as a student from a CS background (running). Now after all this, I want some advice and guidance about how to start and what I should do if I want to be a better DevOps engineer. *It would be great to suggest an online platform for complete learning and start better in the industry.* Is [Coursera IBM DevOps (professional certificate) ](https://www.coursera.org/professional-certificates/devops-and-software-engineering) a good choice to start?
+
+I have solid knowledge in C++, Python, and DSA. Never done any project before but did competitive programming before (not too much).
+
+Confusion is, one of my friends said, in the age of AI and ML DevOps is not good career choice.(edited:get my answer of this)",lubdhak_31,1hd1q5b,https://reddit.com/r/devops/comments/1hd1q5b/need_guidance_and_clear_confusion/,https://www.reddit.com/r/devops/comments/1hd1q5b/need_guidance_and_clear_confusion/,2024-12-13 02:06:11,0,0.25,0,0,5,0,0,False,False,True,False,False,,self,t3_1hd1q5b
+devops,Gamification for Open Source contributors - Christmas gifts promised ,,frolvlad,1hcxjo4,https://reddit.com/r/devops/comments/1hcxjo4/gamification_for_open_source_contributors/,/r/RaceOfSloth/comments/1hcofs9/tagging_us_in_your_pr_unlocks_holiday_magicwhats/,2024-12-12 22:41:22,0,0.25,0,0,0,0,0,False,False,False,False,False,,default,t3_1hcxjo4
+devops,How does RAG system process a user query,"Step by step how the RAG system processes a user query, from input to final response.  
+[https://medium.com/@rasvihostings/how-does-rag-system-process-a-user-query-c0f2ab4faa4e](https://medium.com/@rasvihostings/how-does-rag-system-process-a-user-query-c0f2ab4faa4e)",rasvi786,1hcu5ra,https://reddit.com/r/devops/comments/1hcu5ra/how_does_rag_system_process_a_user_query/,https://www.reddit.com/r/devops/comments/1hcu5ra/how_does_rag_system_process_a_user_query/,2024-12-12 20:13:47,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1hcu5ra
+devops,"Looking for AI Tools for Code Scanning, Analysis, and Refactor Suggestions in CI/CD Pipelines
+","Hi everyone,
+
+I’m exploring AI-powered tools to integrate into my CI/CD pipelines. My goal is to automate tasks like code scanning, analyzing, and receiving refactor suggestions. I’d love to hear your recommendations or experiences with such tools.
+
+What tools have you used? How well do they integrate into CI/CD workflows? Are there any challenges or limitations to be aware of?
+
+Thanks in advance for sharing your insights!",aratahxm,1hdadga,https://reddit.com/r/devops/comments/1hdadga/looking_for_ai_tools_for_code_scanning_analysis/,https://www.reddit.com/r/devops/comments/1hdadga/looking_for_ai_tools_for_code_scanning_analysis/,2024-12-13 11:39:17,0,0.29,0,0,1,0,0,False,False,True,False,False,,self,t3_1hdadga
+devops,"300,000+ Prometheus Servers and Exporters Exposed to DoS Attacks","https://www.aquasec.com/blog/300000-prometheus-servers-and-exporters-exposed-to-dos-attacks/
+
+TLDR: In this research, we uncover flaws in the Prometheus ecosystem, including information disclosure, denial-of-service (DoS), and remote code execution risks via RepoJacking of Prometheus exporters. Over 336,000 Prometheus servers and Node Exporters are publicly exposed.",Pale_Fly_2673,1hcx003,https://reddit.com/r/devops/comments/1hcx003/300000_prometheus_servers_and_exporters_exposed/,https://www.reddit.com/r/devops/comments/1hcx003/300000_prometheus_servers_and_exporters_exposed/,2024-12-12 22:16:18,28,0.87,28,0,7,0,0,False,False,True,False,False,,self,t3_1hcx003
+devops,Introducing Smythos: Streamline Your DevOps Workflows,"Hey fellow DevOps practitioners,
+
+I'm excited to share [http://Smythos.com](http://Smythos.com) , a platform designed to simplify workflow management and enhance collaboration for DevOps teams. Whether you're deploying infrastructure, optimizing CI/CD pipelines, or managing incident response, Smythos aims to help you save time, stay organized, and work more efficiently.
+
+Key Features:
+
+Customizable Dashboards: Centralize your deployments, monitoring metrics, and project statuses in one place.
+
+Workflow Automation: Automate repetitive tasks like environment provisioning, incident tracking, and alerts.
+
+Collaboration Tools: Improve team communication and task management for smoother operations across departments.
+
+Real-Time Insights: Monitor system health, deployment performance, and project progress with actionable analytics.
+
+Integrations: Seamlessly connect with tools like Jenkins, Kubernetes, Docker, Slack, and more.
+
+Why Smythos?
+
+Having worked alongside DevOps teams, I've seen the challenges of juggling multiple tools, managing incident response, and maintaining efficient processes. Smythos is designed to help DevOps teams focus on building and maintaining robust, scalable systems.",colerncandy,1hcvevs,https://reddit.com/r/devops/comments/1hcvevs/introducing_smythos_streamline_your_devops/,https://www.reddit.com/r/devops/comments/1hcvevs/introducing_smythos_streamline_your_devops/,2024-12-12 21:07:07,0,0.14,0,0,2,0,0,False,False,True,False,False,,self,t3_1hcvevs
+devops,Built a Datadog cost calculator,"I’ve been using Datadog for years, and one of the biggest challenges for me has always been figuring out the bill ahead of time. I’ve noticed I’m not alone—many others are caught off guard by their bills, which is never good. 
+
+I originally built this tool to help myself, but I decided to improve it so others could benefit. I’m continuously adding more pricing details as I start using additional services. 
+
+[https://datadogcostcalculator.com/](https://datadogcostcalculator.com/)",houlihandy,1hcr58w,https://reddit.com/r/devops/comments/1hcr58w/built_a_datadog_cost_calculator/,https://www.reddit.com/r/devops/comments/1hcr58w/built_a_datadog_cost_calculator/,2024-12-12 18:04:27,52,0.96,52,0,17,0,0,False,False,True,False,False,,self,t3_1hcr58w
+devops,Github actions won't find my eks directory,"Hey guys, i have a project i am working on and i am using github actions to set up my infracturcture. This project is in a subdirectory in my main repo. Here is the repo structure:
+
+**projects/**
+
+|-- **microservice\_mern\_stack\_eks\_infrastructure**
+
+|   |-- **eks\_cluster**
+
+|   |   |-- backend.tf
+
+|   |   |-- main.tf
+
+|   |   |-- project\_locals.tf
+
+|   |   |-- terraform.tfvars
+
+|   |   \`-- variables.tf
+
+|   \`-- **modules**
+
+|       |-- certs\_oidc.tf
+
+|       |-- eks.tf
+
+|       |-- iam.tf
+
+|       |-- igw.tf
+
+|       |-- locals.tf
+
+|       |-- nat\_gw.tf
+
+|       |-- route\_tables.tf
+
+|       |-- subnets.tf
+
+|       |-- variables.tf
+
+|       \`-- vpc.tf
+
+  
+The projects directory holds all my portfolio projects. The sub directroy of interest her is **microservice\_mern\_stack\_eks\_infrastructure**. My github actions is not able to find **microservice\_mern\_stack\_eks\_infrastructure/eks\_cluster**   
+Here is one block referencing it:
+
+      Terraform-Initializing:
+        runs-on: ubuntu-latest
+        needs: Setting-Up-Terraform
+        steps:
+          - name: Terraform Init
+            working-directory: ./microservice_mern_stack_eks_infrastructure/eks_cluster
+            run: terraform init
+    
+
+||
+||
+||
+|[**Terraform-Initializing**](https://github.com/RyderGreystorm/projects/actions/runs/12317350793/job/34380119385#step:2:9)Show lessAn error occurred trying to start process '/usr/bin/bash' with working directory '/home/runner/work/projects/projects/microservice\_mern\_stack\_eks\_infrastructure/eks\_cluster/'. No such file or directory  |
+||
+
+ Here is the error i keep getting from my workflow:
+
+||
+||
+||
+|[**Terraform-Initializing**](https://github.com/RyderGreystorm/projects/actions/runs/12317350793/job/34380119385#step:2:9)Show lessAn error occurred trying to start process '/usr/bin/bash' with working directory '/home/runner/work/projects/projects/microservice\_mern\_stack\_eks\_infrastructure/eks\_cluster/'. No such file or directory  |
+||
+
+I appreciate your input and i am sorry its a long one",Fafa_techGuy,1hddlj6,https://reddit.com/r/devops/comments/1hddlj6/github_actions_wont_find_my_eks_directory/,https://www.reddit.com/r/devops/comments/1hddlj6/github_actions_wont_find_my_eks_directory/,2024-12-13 14:38:52,1,0.67,1,0,4,0,0,False,False,True,False,False,,self,t3_1hddlj6
