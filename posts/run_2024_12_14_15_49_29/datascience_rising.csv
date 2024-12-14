@@ -1,0 +1,46 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Unexpectedly let go. Best ways to get a job fast?,"Hey all, 
+
+I’m in Germany and was let go at the end of my probation period. 
+
+I was ensured I would make it and actively made money for the company with proof. 
+
+My reasons for termination were unclear and actually not inline with my responsibilities as a data scientist. 
+
+Essentially, I was given peace of mind, and could ensure I needn’t worry. 
+
+Whatever it may be, I’m now out of a job. That’s the way it goes sometimes. 
+
+What are your tips for grabbing that next position fast? I’m not picky, I just want a job in my field, and with a team I enjoy - easier said than done. 
+
+Any tips would be amazing! 
+
+Happy holidays :) 
+
+",ResearchMindless6419,1he2n61,https://reddit.com/r/datascience/comments/1he2n61/unexpectedly_let_go_best_ways_to_get_a_job_fast/,https://www.reddit.com/r/datascience/comments/1he2n61/unexpectedly_let_go_best_ways_to_get_a_job_fast/,2024-12-14 13:16:13,19,0.86,19,0,20,0,0,False,False,True,False,False,Discussion,self,t3_1he2n61
+datascience,"0 based indexing vs 1 based indexing, preferences? ",,WhosaWhatsa,1hdd6yx,https://reddit.com/r/datascience/comments/1hdd6yx/0_based_indexing_vs_1_based_indexing_preferences/,https://i.redd.it/xpg0m9tbqz5e1.jpeg,2024-12-13 14:19:12,647,0.95,647,0,98,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/NLfLak0h_9N7QsRGy-buiIQN9USuHIpt1sdmRrQDY1k.jpg,t3_1hdd6yx
+datascience,Help with clustering over time,"I'm dealing with a clustering over time issue.
+Our company is a sort of PayPal. We are trying to implement an antifraud process to trigger alerts when a client makes excessive payments compared to its historical behavior.
+To do so, I've come up with seven clustering features which are all 365-day-long moving averages of different KPIs (payment frequency, payment amount, etc.). So it goes without saying that, from one day to another, these indicators evolve very slowly. I have about 15k clients, several years of data.
+I get rid of outliers (99-percentile of each date, basically) and put them in a cluster-0 by default.
+Then, the idea is, for each date, to come up with 8 clusters. I've used a Gaussian Mixture clustering (GMM) but, weirdly enough, the clusters of my clients vary wildly from one day to another.
+I have tried to plant the previous mean of my centroids, using the previous day centroid of a client to sort of seed the next day's clustering of a client, but the results still vary a lot. I've read a bit about DynamicC and it seemed like the way to address the issue, but it doesn't help.",LaBaguette-FR,1hdk59i,https://reddit.com/r/datascience/comments/1hdk59i/help_with_clustering_over_time/,https://www.reddit.com/r/datascience/comments/1hdk59i/help_with_clustering_over_time/,2024-12-13 19:28:25,9,0.91,9,0,16,0,0,False,False,True,False,False,ML,self,t3_1hdk59i
+datascience,"Is it ethical to share examples of seed-hacking, p-hacking, test-set pruning, etc.?","I can't tell you the number of times I've been asked ""what random number seed should I use for my model"" and later discover that the questioner has grid searched it like a hyperparameter.
+
+Or worse: grid searched the seed for the train/test split or CV folds that ""gives the best result"".
+
+At best, the results are fragile and optimistically biased. At worst, they know what they're doing and it's intentional fraud. Especially when the project has real stakes/stakeholders.
+
+I was chatting to a colleague about this last week and shared a few examples of ""random seed hacking"" and related ideas of test-set pruning, p-hacking, leader board hacking, train/test split ratio gaming, and so on.
+
+He said I should write a tutorial or something, e.g. to educate managers/stakeholders/reviewers, etc. 
+
+I put a few examples in a github repository (I called it ""[Machine Learning Mischief](https://github.com/Jason2Brownlee/MachineLearningMischief)"", because it feels naughty/playful) but now I'm thinking it reads more like a ""how-to-cheat instruction guide"" for students, rather than a ""how to spot garbage results"" for teachers/managers/etc.
+
+What's the right answer here? 
+
+Do I delete (make private) the repo or push it for wider consideration (e.g. expand as a handbook on how to spot rubbish ml/ds results)? Or perhaps no one cares because it's common knowledge and super obvious?",jasonb,1hcw1o5,https://reddit.com/r/datascience/comments/1hcw1o5/is_it_ethical_to_share_examples_of_seedhacking/,https://www.reddit.com/r/datascience/comments/1hcw1o5/is_it_ethical_to_share_examples_of_seedhacking/,2024-12-12 21:34:13,158,0.96,158,0,37,0,0,False,False,True,False,False,Discussion,self,t3_1hcw1o5
+datascience,How to Best Prepare for DS Python Interviews at FAANG/Big Companies?,"Have an interivew coming up where the focus will be on Stats, ML, and Modeling with Python at FAANG. I'm expecting that I need to know Pandas from front to back and basics of Python (Leetcode Easy). 
+
+  
+For those that have went through interviews like this, what was the structure and what types of questions do they usually ask in a live coding round for DS? What is the best way to prepare? What are we expected to know besides the fundamentals of Python and Stats?",LeaguePrototype,1hcrjn2,https://reddit.com/r/datascience/comments/1hcrjn2/how_to_best_prepare_for_ds_python_interviews_at/,https://www.reddit.com/r/datascience/comments/1hcrjn2/how_to_best_prepare_for_ds_python_interviews_at/,2024-12-12 18:21:24,144,0.96,144,0,31,0,0,False,False,True,False,False,Coding,self,t3_1hcrjn2

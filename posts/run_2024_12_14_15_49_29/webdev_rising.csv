@@ -1,0 +1,120 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,I built a tool to help people fight their landlords,,Barber-Queasy,1he52up,https://reddit.com/r/webdev/comments/1he52up/i_built_a_tool_to_help_people_fight_their/,https://i.redd.it/12iub7s40u6e1.png,2024-12-14 15:20:37,10,0.69,10,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/N9AdovKT0JFkVzcGHboMVJX54SHQ_I2hkdA9OsQXsDs.jpg,t3_1he52up
+webdev,"A personal website - check it out on a computer for a surprise! - Yes, it looks like a desktop!",,jambako_o,1he43em,https://reddit.com/r/webdev/comments/1he43em/a_personal_website_check_it_out_on_a_computer_for/,https://i.redd.it/p9mg5ofhrt6e1.png,2024-12-14 14:32:51,50,0.84,50,0,11,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/s1Ahc890hCgVK7NI-OgXWQGXVHCznq8QWAm-rfwXOj0.jpg,t3_1he43em
+webdev,Any decent windows tablets under $500 for webdev?,I’ve got a limit of $500 and am trying to find a decent windows tablets under for getting into webdev. I want a tablet for portability and ease of access versus a laptop. Was looking into the surface tablet line but heard those are getting discontinued but that doesn’t mean prior models are out for the count tho. But if anyone has some ideas I’d love to hear em,TheRealMulli,1he4tjv,https://reddit.com/r/webdev/comments/1he4tjv/any_decent_windows_tablets_under_500_for_webdev/,https://www.reddit.com/r/webdev/comments/1he4tjv/any_decent_windows_tablets_under_500_for_webdev/,2024-12-14 15:08:10,5,1.0,5,0,10,0,0,False,False,True,False,False,,self,t3_1he4tjv
+webdev,Does anyone know of any YouTube videos that go through the full process of building a web app?,"I’m a high school student looking for YouTube videos (or other resources) that show the entire process of building a web app from start to finish. 
+
+Like I want to find something that shows:
+
+* Coding the front end and backend
+* Setting up the database
+* Hosting the front end, backend, and database
+* Setting up a domain and deploying everything
+
+If you know of any creators or series that go into this level of detail, please share! Thanks in advance!",Cyb3rPhantom,1he4jew,https://reddit.com/r/webdev/comments/1he4jew/does_anyone_know_of_any_youtube_videos_that_go/,https://www.reddit.com/r/webdev/comments/1he4jew/does_anyone_know_of_any_youtube_videos_that_go/,2024-12-14 14:54:44,1,0.6,1,0,7,0,0,False,False,True,False,False,,self,t3_1he4jew
+webdev,Finally launched my first SaaS product after a lot of years of doing agency work,"I've always wanted to launch a product on its own, but time was always the limiting factor, so it feels really good to get this out in the world [https://wphaven.app/](https://wphaven.app/) The service itself is not really geared towards developers but more for agencies and direct customers.
+
+I handled all of the design, strategy, and content, so I'm interested in any level criticism or feedback anyone might offer. We're a small team that regularly uses Wordpress and Laravel, and this was our first project building with the TALL (tailwind, alpine, laravel, livewire) stack and my team has been absolutely loving the approach after trying a couple of sites with Inertia (and a ton with just vanilla Laravel before that). We used this tech to build a whole system for us to automate our weekly maintenance in a nondestructive way, provide a customer dashboard with lots of features, manage all of our accounts, etc.",J_ron,1he5eu4,https://reddit.com/r/webdev/comments/1he5eu4/finally_launched_my_first_saas_product_after_a/,https://www.reddit.com/r/webdev/comments/1he5eu4/finally_launched_my_first_saas_product_after_a/,2024-12-14 15:36:39,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1he5eu4
+webdev,"British web design magazines were the best! Full color, step-by-step tutorials and articles by top web designers. And, of course, a CD with every issue.",,Benway95,1he1ypm,https://reddit.com/r/webdev/comments/1he1ypm/british_web_design_magazines_were_the_best_full/,https://i.redd.it/uo11vkgh6t6e1.png,2024-12-14 12:35:15,106,0.94,106,0,20,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/l5h3IK5fi3gAb9HR7NYWPxWuvWYGh4WNn4qCrteoqoI.jpg,t3_1he1ypm
+webdev,I made an extension to multitask from the sidepanel,,No_Recording_9753,1he1bpp,https://reddit.com/r/webdev/comments/1he1bpp/i_made_an_extension_to_multitask_from_the/,https://i.redd.it/3nrkm39qys6e1.gif,2024-12-14 11:51:29,48,0.88,48,0,18,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/HMqmsH7Pxp0g6oTjD_vug6NTVZG_iEBlU_cOr9x8qnw.jpg,t3_1he1bpp
+webdev,"I made ""HackerNews new jobs"" - insights into fresh and recurring job ads in the HN ""Who's Hiring"" threads",,acczasearchapi,1he0wyn,https://reddit.com/r/webdev/comments/1he0wyn/i_made_hackernews_new_jobs_insights_into_fresh/,https://www.reddit.com/gallery/1he0wyn,2024-12-14 11:20:43,24,0.97,24,0,3,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/1xco641Ff_Lamei2G6FGq3hvt4WuDKhqr3GSYF6Gk0s.jpg,t3_1he0wyn
+webdev,Where do password-statistics come from?,"When I see statistics of smth like „Top 20 most used passwords“ on the internet, im asking myself where that data comes from? Data leaks? Since nobody would (or should) store raw passwords in a db or even share them.",harvaze,1he2cfu,https://reddit.com/r/webdev/comments/1he2cfu/where_do_passwordstatistics_come_from/,https://www.reddit.com/r/webdev/comments/1he2cfu/where_do_passwordstatistics_come_from/,2024-12-14 12:59:37,15,0.83,15,0,5,0,0,False,False,True,False,False,Question,self,t3_1he2cfu
+webdev,Made my first website where I try things out,"_Title_, so I made my first website where I try stuff out with html, css and javascript. If you got any suggestions or some things that would help me learn, go to the bottom of the main page and write me a message! 
+
+https://goatzy-codes.xyz",RealGoatzy,1hdxwd3,https://reddit.com/r/webdev/comments/1hdxwd3/made_my_first_website_where_i_try_things_out/,https://www.reddit.com/r/webdev/comments/1hdxwd3/made_my_first_website_where_i_try_things_out/,2024-12-14 07:41:50,35,0.8,35,0,53,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1hdxwd3
+webdev,I built my First Micro-SaaS for Preview What You’d look like with Different Hairstyles!,,pabloschz,1he1i1n,https://reddit.com/r/webdev/comments/1he1i1n/i_built_my_first_microsaas_for_preview_what_youd/,https://www.reddit.com/gallery/1he1i1n,2024-12-14 12:03:37,15,0.78,15,0,8,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/cZYCfuDV3w7U6T7kOBz0k4X6ij3qiV0Oe6yqeXs0HfM.jpg,t3_1he1i1n
+webdev,[Showoff Saturday] Build a very basic RAG anyone can deploy and use,"Part of my AI learning journey, I wanted to see how complex it is to build and configure a RAG.
+
+A RAG (Retrieval-Augmented Generation) system is a framework that combines information retrieval and GenAI models to improve the accuracy and relevance of AI-generated outputs. It is useful when the LLM you use needs to produce responses based on up-to-date information that was not included in its training data.
+
+Written in Typescript using Express, Mongo, NodeJS and hosted on [Genezio.com](http://genezio.com/), it needs a key from OpenAI for the LLM part and takes a URL as input.
+
+It starts by crawling the URL and all sub-pages (by looking for \`&lt;a hrefs/&gt;\`, then it creates the vector database and then shows a UI to query the content with the help of OpenAI's Chat APIs.
+
+The Vector DB and the page contents is stored and queried in MongoDB.
+
+You can play with it here: [https://openai-rag.app.genez.io/](https://openai-rag.app.genez.io/) (it indexes Genezio's website, articles and documentation). Please don't over-test this as it uses my personal API key. I've put some spending limits, so it will stop working if you spam it. :)
+
+You can look at the source code here: [https://github.com/bogdanripa/openai-rag](https://github.com/bogdanripa/openai-rag)
+
+You can deploy your own instance using the ""Deploy"" button from Github (it's in the README file). While deploying, you'll need to specify your OpenAI API key and the URL to crawl. Then, when visiting the front-end for the 1st time it will crawl, index and then let you search.
+
+If you want to crawl another URL, simply change the corresponding env variable to the new URL.
+
+What other similar projects should I start? I am thinking about fine-tuning a LLM.",vbgdn,1he0jym,https://reddit.com/r/webdev/comments/1he0jym/showoff_saturday_build_a_very_basic_rag_anyone/,https://www.reddit.com/r/webdev/comments/1he0jym/showoff_saturday_build_a_very_basic_rag_anyone/,2024-12-14 10:54:56,7,0.89,7,0,2,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1he0jym
+webdev,Share your portfolio ⬇️ (or upload them),"
+I'm here to offer feedback on your portfolios. Having reviewed hundreds of them, I have a clear understanding of what works and what stands out.
+
+Ive had a lot of trouble with my own portfolio, and I don’t believe anyone should worry as much as I have on their portfolio.
+
+They’re nice to have but won’t make or break your chances of landing a job (unless your portfolio negatively reflects your skills)
+
+Let me help you ⬇️",yeahimjtt,1hdw4h8,https://reddit.com/r/webdev/comments/1hdw4h8/share_your_portfolio_or_upload_them/,https://www.reddit.com/r/webdev/comments/1hdw4h8/share_your_portfolio_or_upload_them/,2024-12-14 05:38:56,15,0.78,15,0,48,0,0,False,False,True,False,False,Discussion,self,t3_1hdw4h8
+webdev,"terminal-ts — A Typescript library to build terminal-style text interfaces with pseudo-real file systems. In the very early stages, but I thought I'd share. ",,phaethornis-idalie,1he5lz1,https://reddit.com/r/webdev/comments/1he5lz1/terminalts_a_typescript_library_to_build/,https://github.com/emmalexandria/terminal-ts,2024-12-14 15:46:11,2,1.0,2,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/5n0tyauTyMDKmkS-0xWvdDvl2p9X87pbh3_bUTw-VRw.jpg,t3_1he5lz1
+webdev,"I built a free dashboad that combines all your analytics (GA4, Stripe, Plausible)","The worst part about building a website is having to check ANOTHER analytics account. For just 5 websites you have to sit through 10 loading screens just to see all your analytics and revenue data. That’s why I made 1board. With 1board you can see multiple websites at once AND see all your data compiled from multiple sources(Google Analytics, Plausible, and Stripe).
+
+I also added in some gamification to make tracking a bit more fun with rankings and awards. It’s completely free to use for up to 4 websites and if you want to track 5+ websites it’s $20/year.
+
+Here’s the link for anyone interested: [https://www.1board.dev/](https://www.1board.dev/)",mst152,1he2jpg,https://reddit.com/r/webdev/comments/1he2jpg/i_built_a_free_dashboad_that_combines_all_your/,https://i.redd.it/pcndlpwwct6e1.gif,2024-12-14 13:10:49,3,0.8,3,0,0,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/o_hHDGV6WqUV499JDULoj1S3L1tRtdW8bRJ7GjmDhTQ.jpg,t3_1he2jpg
+webdev,"[Showoff Saturday] We built Art Explorer, a website which lets you explore more than half a million works of Art from the Amsterdam Rijks Museum using natural language","Art Explorer is search engine that lets you search through artworks based on a 'vibe', aka the meaning or semantics of a text. It embeds your text and finds the ten closets images and shows them on a digital canvas where you can see how close they are to your text and each other. You can keep doing this to find interesting relations! 
+
+You can try it our here:
+
+[https://artexplorer.ai/](https://artexplorer.ai/)
+
+and searching for something like ""a gloomy winter day"".",stefanvdw,1he04m1,https://reddit.com/r/webdev/comments/1he04m1/showoff_saturday_we_built_art_explorer_a_website/,https://www.reddit.com/r/webdev/comments/1he04m1/showoff_saturday_we_built_art_explorer_a_website/,2024-12-14 10:21:55,4,1.0,4,0,0,0,0,False,False,True,False,False,,self,t3_1he04m1
+webdev,Business logic inside a MobX store ? ,"Hey folks, 
+
+  
+Currently working with a codebase and I have noticed a pattern where not only the state, but also the business logic is put within a MobX store ? I was wondering is this common practice ? is there any downsides to this ?  thanks ",Over-Tea-7297,1he3l26,https://reddit.com/r/webdev/comments/1he3l26/business_logic_inside_a_mobx_store/,https://www.reddit.com/r/webdev/comments/1he3l26/business_logic_inside_a_mobx_store/,2024-12-14 14:07:00,2,1.0,2,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1he3l26
+webdev,Best Headless CMS for Freelancing (editable by the client?),"Hey guys,
+
+I'm a freelance web developer who enjoys building websites with custom code (often using Astro, React, and Tailwind CSS). I'm looking for the best headless CMS solution to allow my clients to easily edit website content.
+
+**Current Challenge:**
+
+* I want to maintain full control over the front-end development, avoiding limitations imposed by traditional CMSs like WordPress.
+* My clients need the ability to easily edit all aspects of website content (text, images, etc.) through a user-friendly interface, not the layout or design, just the content.
+
+**Current Considerations:**
+
+1. **Astro with DecapCMS:** While promising, I feel it might limit client editing to specific components, and I'd prefer more granular control, also I can't seem to figure out how to customize the user interface/dashboard of the CMS.
+2. **Storyblok:** I haven't used it extensively, but it seems like a strong contender.
+
+**What are your recommendations?**
+
+* What headless CMS do you recommend for this scenario?
+* Are there any with highly customizable interfaces that I can tailor to my clients' specific needs?
+* What are your experiences with client-facing CMS interfaces? Any tips or pitfalls to avoid?
+
+I'm open to exploring other options and appreciate any insights!
+
+**Thanks in advance!**",Susmore,1hdf2ey,https://reddit.com/r/webdev/comments/1hdf2ey/best_headless_cms_for_freelancing_editable_by_the/,https://www.reddit.com/r/webdev/comments/1hdf2ey/best_headless_cms_for_freelancing_editable_by_the/,2024-12-13 15:46:44,95,0.9,95,0,106,0,0,False,False,True,False,False,,self,t3_1hdf2ey
+webdev,How did web advertising become so bloated?,"I'm not talking about the excessive, obnoxios ad campaigns that cover content or exceed its quantity; that's a separate issue. What I'm talking about are articles, even from known and relatively trusted (at least for reading content) websites, that become so bogged down with ads that they wind up freezing or outright crashing mobile browsers, or lagging noticably on budget or low-power PC-based devices.
+
+I don't think their quantity alone, as annoying as it is, is enough to account for their overhead. Many just display static images or simple animations which barely take up any processing power at all once loaded from the server. What are a few dozen animated images for a device that has no trouble whatsoever running quite complex browser games? The rest are presented as videos that take up some fraction of the screen, and only two or three of these videos are onscreen and playing at any given time. Meanwhile it would take at least a dozen videos at the same resolution to match the load of a single 1440p video stream which the same devices can comfortably handle, in a browser, even after downsampling it to fit the display.
+
+What are these ads doing in the background that takes up so much processing power? Cryptomining?",pilottzn,1hde0qf,https://reddit.com/r/webdev/comments/1hde0qf/how_did_web_advertising_become_so_bloated/,https://www.reddit.com/r/webdev/comments/1hde0qf/how_did_web_advertising_become_so_bloated/,2024-12-13 14:58:48,98,0.9,98,0,51,0,0,False,False,True,False,False,Question,self,t3_1hde0qf
+webdev,Complete guide for infinite scroll feature in React,"Intended to be a complete guide to infinite scroll in React. Nothing to install, just copy/paste and customize. Examples with Next.js / Tailwind / Tanstack Query / and Tanstack Virtual. This will be the best repo to reference when implementing an infinite scroll feature in React. Infinite scroll feature can be quite hard, especially for bi-directional scroll and virtual scroll (for very large list) support. I hope this repo can save people some time, let me know what yall think.
+
+[Repo](https://github.com/Apestein/better-react-infinite-scroll)
+
+[Demo](https://stackblitz.com/~/github.com/Apestein/better-react-infinite-scroll)",Apestein-Dev,1he5e6l,https://reddit.com/r/webdev/comments/1he5e6l/complete_guide_for_infinite_scroll_feature_in/,https://www.reddit.com/r/webdev/comments/1he5e6l/complete_guide_for_infinite_scroll_feature_in/,2024-12-14 15:35:42,1,1.0,1,0,0,0,0,False,False,True,False,False,Resource,self,t3_1he5e6l
+webdev,[Showoff Saturday] FlagDraw.IO: A flag coloring game,"I just made [FlagDraw.IO](http://FlagDraw.IO), a game to challenge your flag knowledge.
+
+Right now, there are only two game modes: Timed and Classic. In Timed, you have 1 minute to correctly color as many flags as possible, and in Classic, you have five lives.
+
+[Images](https://imgur.com/a/C4gR32F)
+
+In total, there are 269 flags in the game. ^(Nice)
+
+**How I made it:**
+
+* Designed in Figma
+* Built with SvelteKit
+* Hosted on Vercel
+* Flag Source: [lipis/flag-icons](https://github.com/lipis/flag-icons) (Would have lost my sanity without them)
+
+Initially I tried building it in Defold and Flutter. But with SVG support in browsers, it was much easier this way.
+
+Let me know how you like it, and I'd love your feedback to make the game better!",wirklich1,1he4vnu,https://reddit.com/r/webdev/comments/1he4vnu/showoff_saturday_flagdrawio_a_flag_coloring_game/,https://www.reddit.com/r/webdev/comments/1he4vnu/showoff_saturday_flagdrawio_a_flag_coloring_game/,2024-12-14 15:10:59,1,1.0,1,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/_wbCDNGePL51h4lxg50ZhjTwfCbXKc9h_sI6o5np3RI.jpg,t3_1he4vnu

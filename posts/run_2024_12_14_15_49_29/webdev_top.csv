@@ -1,0 +1,585 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Best Headless CMS for Freelancing (editable by the client?),"Hey guys,
+
+I'm a freelance web developer who enjoys building websites with custom code (often using Astro, React, and Tailwind CSS). I'm looking for the best headless CMS solution to allow my clients to easily edit website content.
+
+**Current Challenge:**
+
+* I want to maintain full control over the front-end development, avoiding limitations imposed by traditional CMSs like WordPress.
+* My clients need the ability to easily edit all aspects of website content (text, images, etc.) through a user-friendly interface, not the layout or design, just the content.
+
+**Current Considerations:**
+
+1. **Astro with DecapCMS:** While promising, I feel it might limit client editing to specific components, and I'd prefer more granular control, also I can't seem to figure out how to customize the user interface/dashboard of the CMS.
+2. **Storyblok:** I haven't used it extensively, but it seems like a strong contender.
+
+**What are your recommendations?**
+
+* What headless CMS do you recommend for this scenario?
+* Are there any with highly customizable interfaces that I can tailor to my clients' specific needs?
+* What are your experiences with client-facing CMS interfaces? Any tips or pitfalls to avoid?
+
+I'm open to exploring other options and appreciate any insights!
+
+**Thanks in advance!**",Susmore,1hdf2ey,https://reddit.com/r/webdev/comments/1hdf2ey/best_headless_cms_for_freelancing_editable_by_the/,https://www.reddit.com/r/webdev/comments/1hdf2ey/best_headless_cms_for_freelancing_editable_by_the/,2024-12-13 15:46:44,90,0.9,90,0,106,0,0,False,False,True,False,False,,self,t3_1hdf2ey
+webdev,"British web design magazines were the best! Full color, step-by-step tutorials and articles by top web designers. And, of course, a CD with every issue.",,Benway95,1he1ypm,https://reddit.com/r/webdev/comments/1he1ypm/british_web_design_magazines_were_the_best_full/,https://i.redd.it/uo11vkgh6t6e1.png,2024-12-14 12:35:15,103,0.94,103,0,20,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/l5h3IK5fi3gAb9HR7NYWPxWuvWYGh4WNn4qCrteoqoI.jpg,t3_1he1ypm
+webdev,I made an extension to multitask from the sidepanel,,No_Recording_9753,1he1bpp,https://reddit.com/r/webdev/comments/1he1bpp/i_made_an_extension_to_multitask_from_the/,https://i.redd.it/3nrkm39qys6e1.gif,2024-12-14 11:51:29,50,0.88,50,0,18,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/HMqmsH7Pxp0g6oTjD_vug6NTVZG_iEBlU_cOr9x8qnw.jpg,t3_1he1bpp
+webdev,Made my first website where I try things out,"_Title_, so I made my first website where I try stuff out with html, css and javascript. If you got any suggestions or some things that would help me learn, go to the bottom of the main page and write me a message! 
+
+https://goatzy-codes.xyz",RealGoatzy,1hdxwd3,https://reddit.com/r/webdev/comments/1hdxwd3/made_my_first_website_where_i_try_things_out/,https://www.reddit.com/r/webdev/comments/1hdxwd3/made_my_first_website_where_i_try_things_out/,2024-12-14 07:41:50,33,0.78,33,0,53,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1hdxwd3
+webdev,"I made ""HackerNews new jobs"" - insights into fresh and recurring job ads in the HN ""Who's Hiring"" threads",,acczasearchapi,1he0wyn,https://reddit.com/r/webdev/comments/1he0wyn/i_made_hackernews_new_jobs_insights_into_fresh/,https://www.reddit.com/gallery/1he0wyn,2024-12-14 11:20:43,24,0.97,24,0,3,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/1xco641Ff_Lamei2G6FGq3hvt4WuDKhqr3GSYF6Gk0s.jpg,t3_1he0wyn
+webdev,Do you use -webkit-line-clamp?,"Any alternatives for height-based ""show more"" that shows a specific number of lines?",zlt_nv,1hdon0t,https://reddit.com/r/webdev/comments/1hdon0t/do_you_use_webkitlineclamp/,https://www.reddit.com/r/webdev/comments/1hdon0t/do_you_use_webkitlineclamp/,2024-12-13 22:53:00,20,0.89,20,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1hdon0t
+webdev,Share your portfolio ⬇️ (or upload them),"
+I'm here to offer feedback on your portfolios. Having reviewed hundreds of them, I have a clear understanding of what works and what stands out.
+
+Ive had a lot of trouble with my own portfolio, and I don’t believe anyone should worry as much as I have on their portfolio.
+
+They’re nice to have but won’t make or break your chances of landing a job (unless your portfolio negatively reflects your skills)
+
+Let me help you ⬇️",yeahimjtt,1hdw4h8,https://reddit.com/r/webdev/comments/1hdw4h8/share_your_portfolio_or_upload_them/,https://www.reddit.com/r/webdev/comments/1hdw4h8/share_your_portfolio_or_upload_them/,2024-12-14 05:38:56,17,0.81,17,0,48,0,0,False,False,True,False,False,Discussion,self,t3_1hdw4h8
+webdev,"A personal website - check it out on a computer for a surprise! - Yes, it looks like a desktop!",,jambako_o,1he43em,https://reddit.com/r/webdev/comments/1he43em/a_personal_website_check_it_out_on_a_computer_for/,https://i.redd.it/p9mg5ofhrt6e1.png,2024-12-14 14:32:51,47,0.83,47,0,11,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/s1Ahc890hCgVK7NI-OgXWQGXVHCznq8QWAm-rfwXOj0.jpg,t3_1he43em
+webdev,I built my First Micro-SaaS for Preview What You’d look like with Different Hairstyles!,,pabloschz,1he1i1n,https://reddit.com/r/webdev/comments/1he1i1n/i_built_my_first_microsaas_for_preview_what_youd/,https://www.reddit.com/gallery/1he1i1n,2024-12-14 12:03:37,14,0.77,14,0,8,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/cZYCfuDV3w7U6T7kOBz0k4X6ij3qiV0Oe6yqeXs0HfM.jpg,t3_1he1i1n
+webdev,Where do password-statistics come from?,"When I see statistics of smth like „Top 20 most used passwords“ on the internet, im asking myself where that data comes from? Data leaks? Since nobody would (or should) store raw passwords in a db or even share them.",harvaze,1he2cfu,https://reddit.com/r/webdev/comments/1he2cfu/where_do_passwordstatistics_come_from/,https://www.reddit.com/r/webdev/comments/1he2cfu/where_do_passwordstatistics_come_from/,2024-12-14 12:59:37,15,0.83,15,0,5,0,0,False,False,True,False,False,Question,self,t3_1he2cfu
+webdev,Made an extension that will help me keep track of my healthy habits ,"Hello, fellow devs! I just started learning to code this year to become a developer, and made an extension using React + TailwindCSS.
+
+It's called **Reboost**, it has 2 features, users can track and log their water intake or set up custom reminders.
+
+Figured others might find it helpful too! It's all free and no signup or accounts needed. 🤗
+
+[quick preview of the extension](https://i.redd.it/on1urc8zzp6e1.gif)
+
+",HikkiSummers,1hds8hy,https://reddit.com/r/webdev/comments/1hds8hy/made_an_extension_that_will_help_me_keep_track_of/,https://www.reddit.com/r/webdev/comments/1hds8hy/made_an_extension_that_will_help_me_keep_track_of/,2024-12-14 01:53:15,8,1.0,8,0,2,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/fMHW_him8ua7dP9_UbCpecKB5858J0syTfom2E1FHIY.jpg,t3_1hds8hy
+webdev,"How can I create an input field with autocomplete where the suggested text appears directly inside the input field as you type, like a placeholder that completes your input?","For example: If I type Hello, it might show Hello""World"", where the World part is suggested.
+
+I tried searching for some premade solutions, and could not find none.
+
+Since this isn’t doable directly with a standard input field, I was thinking of using a div with contenteditable and two spans: one for the inputted text and another for the suggestion.
+
+The tricky part is that I can't use the onChange method because it messes up the autocomplete text. So maybe a keypress event could work instead.
+
+I would like some advice on how to implement this, since on the internet i found nothing.
+
+",andrew_X21,1hdj3tg,https://reddit.com/r/webdev/comments/1hdj3tg/how_can_i_create_an_input_field_with_autocomplete/,https://www.reddit.com/r/webdev/comments/1hdj3tg/how_can_i_create_an_input_field_with_autocomplete/,2024-12-13 18:42:51,8,0.79,8,0,13,0,0,False,False,True,False,False,Question,self,t3_1hdj3tg
+webdev,[Showoff Saturday] Build a very basic RAG anyone can deploy and use,"Part of my AI learning journey, I wanted to see how complex it is to build and configure a RAG.
+
+A RAG (Retrieval-Augmented Generation) system is a framework that combines information retrieval and GenAI models to improve the accuracy and relevance of AI-generated outputs. It is useful when the LLM you use needs to produce responses based on up-to-date information that was not included in its training data.
+
+Written in Typescript using Express, Mongo, NodeJS and hosted on [Genezio.com](http://genezio.com/), it needs a key from OpenAI for the LLM part and takes a URL as input.
+
+It starts by crawling the URL and all sub-pages (by looking for \`&lt;a hrefs/&gt;\`, then it creates the vector database and then shows a UI to query the content with the help of OpenAI's Chat APIs.
+
+The Vector DB and the page contents is stored and queried in MongoDB.
+
+You can play with it here: [https://openai-rag.app.genez.io/](https://openai-rag.app.genez.io/) (it indexes Genezio's website, articles and documentation). Please don't over-test this as it uses my personal API key. I've put some spending limits, so it will stop working if you spam it. :)
+
+You can look at the source code here: [https://github.com/bogdanripa/openai-rag](https://github.com/bogdanripa/openai-rag)
+
+You can deploy your own instance using the ""Deploy"" button from Github (it's in the README file). While deploying, you'll need to specify your OpenAI API key and the URL to crawl. Then, when visiting the front-end for the 1st time it will crawl, index and then let you search.
+
+If you want to crawl another URL, simply change the corresponding env variable to the new URL.
+
+What other similar projects should I start? I am thinking about fine-tuning a LLM.",vbgdn,1he0jym,https://reddit.com/r/webdev/comments/1he0jym/showoff_saturday_build_a_very_basic_rag_anyone/,https://www.reddit.com/r/webdev/comments/1he0jym/showoff_saturday_build_a_very_basic_rag_anyone/,2024-12-14 10:54:56,6,0.81,6,0,2,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1he0jym
+webdev,Cloud-spotting web app,"I've created this web app for cloud-spotting fans.  
+Let me know what you think  
+[https://cloudspotting.online/](https://cloudspotting.online/)",napraviculom,1hdwj9h,https://reddit.com/r/webdev/comments/1hdwj9h/cloudspotting_web_app/,https://www.reddit.com/r/webdev/comments/1hdwj9h/cloudspotting_web_app/,2024-12-14 06:05:11,4,0.75,4,0,8,0,0,False,False,True,False,False,,self,t3_1hdwj9h
+webdev,Organize code snippets and build static websites in minutes.,"So I'm building a tool for web devs that mostly deal with simple static websites. This tool will help you:
+- save and organize your code snippets (in sections containing html, css, and js, which you can stack to build webpages)
+- speed up your website building process exponentially; in just a few clicks you have a webpage ready.
+- get inspiration from the community with public snippets
+I know CodeStitch is a great resource for code snippets, and that is my inspiration actually. I just wanted a tool to put those snippets together into a webpage and save entire pages for later use. 
+
+Am I the only one who needs this tool? Even so, I'm building it for myself in the first place, but I'm curious if there's a market for this too. Would be nice to get something back. ",88Smiley,1hdonzh,https://reddit.com/r/webdev/comments/1hdonzh/organize_code_snippets_and_build_static_websites/,https://www.reddit.com/r/webdev/comments/1hdonzh/organize_code_snippets_and_build_static_websites/,2024-12-13 22:54:19,5,0.86,5,0,18,0,0,False,False,True,False,False,,self,t3_1hdonzh
+webdev,Bringing Types to APIs with TypeSpec,,ZuploAdrian,1hdk10r,https://reddit.com/r/webdev/comments/1hdk10r/bringing_types_to_apis_with_typespec/,https://zuplo.com/blog/2023/04/19/bringing-types-to-apis-with-typespec,2024-12-13 19:23:03,5,0.78,5,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/ra01sOeYkwXpFCpnlWlQZQiuEvBJHb3wyi4n_tvjVOg.jpg,t3_1hdk10r
+webdev,"[Showoff Saturday] We built Art Explorer, a website which lets you explore more than half a million works of Art from the Amsterdam Rijks Museum using natural language","Art Explorer is search engine that lets you search through artworks based on a 'vibe', aka the meaning or semantics of a text. It embeds your text and finds the ten closets images and shows them on a digital canvas where you can see how close they are to your text and each other. You can keep doing this to find interesting relations! 
+
+You can try it our here:
+
+[https://artexplorer.ai/](https://artexplorer.ai/)
+
+and searching for something like ""a gloomy winter day"".",stefanvdw,1he04m1,https://reddit.com/r/webdev/comments/1he04m1/showoff_saturday_we_built_art_explorer_a_website/,https://www.reddit.com/r/webdev/comments/1he04m1/showoff_saturday_we_built_art_explorer_a_website/,2024-12-14 10:21:55,4,0.84,4,0,0,0,0,False,False,True,False,False,,self,t3_1he04m1
+webdev,Need Job Advice please,"Long story short I’m currently a Jr. Dev with 1year of experience working at a small company helping to build a sales CRM software while also doing the level 1-2 tech support for our existing customers. I have the basics of html,css,JS,SQL down pretty good. But almost everything we do is in the outsystems framework.
+
+I’m currently learning a lot from my manager but the owner and I have to come to a head. He lied to me in regards to pay and thinks I  have nowhere else to go as I’m very new to the industry.
+
+All I see is how hard it is to find jobs these days and am wondering if I need to just suck it up or if I’d be able to to find something else.
+
+I only make $40k right now and matching that would be fine. I just don’t even know where to look.
+
+Thanks for reading and any advice would be appreciated ",Trimoswivel,1hdl38h,https://reddit.com/r/webdev/comments/1hdl38h/need_job_advice_please/,https://www.reddit.com/r/webdev/comments/1hdl38h/need_job_advice_please/,2024-12-13 20:10:50,5,1.0,5,0,4,0,0,False,False,True,False,False,Question,self,t3_1hdl38h
+webdev,Should I handle command bar search &amp; commands in the backend or the frontend?,"Hey guys, I'm building a tauri app, right now I want to implement a commandbar but I'm not sure if I should just fetch all the needed data and handle the searching in the frontend (already have a realtime copy of the database in the frontend) or handle search &amp; commands in rust (backend) like with every character change should I send a request to the backend for suggestions? I've never worked on something like this before",OnlyY1nx,1hdfmw5,https://reddit.com/r/webdev/comments/1hdfmw5/should_i_handle_command_bar_search_commands_in/,https://www.reddit.com/r/webdev/comments/1hdfmw5/should_i_handle_command_bar_search_commands_in/,2024-12-13 16:11:40,4,0.83,4,0,2,0,0,False,False,True,False,False,Question,self,t3_1hdfmw5
+webdev,Friday morning kvetching: gray text on a white background,"I CANNOT WAIT for that design trend to be consigned to the flames of Hell where it belongs. I was obliged to log in to our SMS provider's admin dashboard, and I had to physically adjust my monitor to read the text, see section outlines. Thankfully I have a javascript snippet that recolors everything, but, damn.
+
+If that's your work, reader...if you're the one who thought that color scheme was SOOOOO PRETTY!!? You are SO fired.",mapsedge,1hdfiqa,https://reddit.com/r/webdev/comments/1hdfiqa/friday_morning_kvetching_gray_text_on_a_white/,https://www.reddit.com/r/webdev/comments/1hdfiqa/friday_morning_kvetching_gray_text_on_a_white/,2024-12-13 16:06:24,4,1.0,4,0,3,0,0,False,False,True,False,False,,self,t3_1hdfiqa
+webdev,[Showoff Saturday] Open-Source Password &amp; Alias Manager Built with .NET Blazor WASM,"Hey r/webdev,
+
+**TL;DR for Devs:**  
+For the last couple of months I have been building an open-source, end-to-end encrypted password and alias manager called **AliasVault**. It uses C#, [ASP.NET](http://ASP.NET) Core, Entity Framework Core, Blazor WASM, and SQLite—fully containerized via Docker. It also includes integrated E2E tests (Playwright) run on every PR. You can self-host or use the cloud version, and I’m looking for feedback on architecture, deployment, performance, and developer experience.
+
+\---
+
+**What is AliasVault?**  
+AliasVault helps users protect their privacy online by generating unique identities (email, password, etc.) for every service. Unlike password managers that only store credentials, AliasVault integrates a built-in email server so you can manage full “alias” identities. It’s zero-knowledge and end-to-end encrypted, so the server never sees your master password, and all data is stored encrypted.
+
+It can be compared to existing services like Bitwarden or OnePassword. But where those services focus more on storing passwords, AliasVault extends this by integrating full identity generation (aliases) and a built-in email server into a single platform.
+
+**About me and goal**  
+I've been a software developer for over 15 years and have been working primarily with PHP and .NET. I'm a big privacy advocate and have been running a website called [SpamOK.com](http://SpamOK.com) since 2013 that offers free temporary email addresses to help people protect their privacy. However by the nature of this service all emails are public which makes it anonymous but not entirely suited for occasions where privacy is important.
+
+With AliasVault my goal is to create a fully open-source but private platform which helps protect the users privacy online. People can either choose to use the cloud hosted variant for convenience or self-host it on their own servers via Docker. Right now everything is free but if there's enough interest I am thinking about adding additional premium options (as source-available) to cover the costs of running the cloud version and aid in future development.
+
+I'm sharing this project here on r/webdev for anyone that is interested to check it out both technically and functionally. Everything is open-source and you can install it on your own servers in a few minutes. I'm open for any feedback or questions you might have!
+
+**Live demo and source code:**  
+Here you can find the links to the cloud-hosted beta version, documentation and GitHub source code.
+
+* **Live beta:** [https://aliasvault.net](https://aliasvault.net)
+* **Docs &amp; Self-hosting:** [https://docs.aliasvault.net](https://docs.aliasvault.net)
+* **Source Code:** [https://github.com/lanedirt/AliasVault](https://github.com/lanedirt/AliasVault)
+
+**Tech stack highlights:**  
+Some technical details about the tech stack that AliasVault uses:
+
+* **C#,** [**ASP.NET**](http://ASP.NET) **Core, Entity Framework Core** for API backend and ORM.
+* **Blazor WASM** for the SPA front-end, minimizing JavaScript while enabling shared .NET code between front and back-end.
+* **SQLite** for a lightweight, self-contained database.
+* **Docker** for painless self-hosting and one-click installs.
+* **Tailwind CSS**
+* [**SRP.net**](http://SRP.net) **&amp; Argon2id** for secure login without requiring master password to be sent over the network and for encryption/decryption. For more information about the encryption technologies used you can check out the Security Architecture documentation here: [https://docs.aliasvault.net/architecture/](https://docs.aliasvault.net/architecture/)
+* **SmtpServer &amp; MimeKit** to handle virtual email aliases internally.
+* **Playwright** for E2E browser tests (run on every PR via GitHub Actions), testing frontend+API communication with a clean SQLite instance each time.
+
+**Some of the challenges I faced and lessons learned:**
+
+* **Blazor WASM &amp; Crypto Challenges:** Blazor WASM allows C# to run in the browser which is very powerful in terms of development efficiency, but comes with trade-offs. Initial load size (\~20MB for current version) is quite big for a webapp, and certain encryption functions still require JavaScript fallbacks. I'm hoping future versions of .NET will improve on this.
+* **Robust Testing with Playwright &amp; GitHub Actions:** When I started to build this project I set out on making it possible to run E2E tests automatically on each pull request. Now on every PR the front-end, back-end, and database interactions are all tested and verified in an all-in-memory environment with a fresh SQLite database per test. This allows for a lot of flexibility in creating tests to ensure all components are working nicely together. It did take some effort in order to make the test framework be stable and reduce flakiness.
+* **Self-hosting convenience:** Part of my vision for AliasVault is to make it as simple as possible to install on your own servers. For this I created an extensive custom installation script that configures all environment files, pulls docker images (or builds them from scratch if you want) and takes care of lifecycle actions such as updating when a new version comes out, enabling LetsEncrypt for automatic SSL certificates etc. You can install the current version of AliasVault on a clean VM in e.g. Azure, AWS or DigitalOcean in literally minutes.
+* **SQLite database limitations for back-end:** Currently AliasVault is running on SQLite for both the server and the client. With the server part I've been slowly running into concurrency limitations which causes locking and errors when multiple apps (API and worker services) try to mutate it at the same time. I am therefore planning on switching the server backend to PostgreSQL instead. When I started with just one service accessing the database it worked fine, but now that there are multiple background services, an API and an admin project the amount of locking increases.
+* **SQLite database power for front-end:** The architecture for the client works quite interesting: when a new user creates a vault the WASM app creates a new SQLite database in-memory with EF migrations (thanks to the power of the full Entity Framework ORM). Then during sync with the server the WASM app locally encrypts the full .sqlite blob, and then sends that encrypted blob to the server. This allows the client to have full EF ORM capabilities such as searching through local credentials while literally all the user's vault data including all metadata is only stored in encrypted state on the server.
+
+If you have any questions feel free to let me know and I'll happily answer them as best as i can. I'm also open for all feedback regarding architecture, deployment, ease of use etc.
+
+Thank you very much for your time and for checking it out!
+
+[The web interface of AliasVault on desktop and mobile](https://preview.redd.it/5tc5iijuvr6e1.png?width=1120&amp;format=png&amp;auto=webp&amp;s=2a19c0aeee810290d4574e30df635c2022fd4275)
+
+",lanedirt_tech,1hdy8ro,https://reddit.com/r/webdev/comments/1hdy8ro/showoff_saturday_opensource_password_alias/,https://www.reddit.com/r/webdev/comments/1hdy8ro/showoff_saturday_opensource_password_alias/,2024-12-14 08:07:24,3,1.0,3,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/VepX2OOSBYu3exWNPNQkHXFh1yyPw1jsHmLQqwVNO1I.jpg,t3_1hdy8ro
+webdev,Feature Access Control NodeJS library,"Looking for asuggestion for a simple feature access control library. The suggestions and search results i get are mostly tuned towards A/B testing, feature release, user behavior testing etc.
+
+Our app's needs are pretty small right now. We have only handful of plans and just wanna control who can do what. 
+
+For (fake) example, Free plan used can only send 5 emails, basic plan user can send 50 emails, and pro plan used can send 300 emails. So before sending emails, i wanna check all the previous counts in last X days, and get canProceed as a boolean value. 
+
+I am not looking for a docker container like solution. Hoping to integrate a library instead. Its possible for us to add a few tables to the database. ",nrealybgniod,1hdxq55,https://reddit.com/r/webdev/comments/1hdxq55/feature_access_control_nodejs_library/,https://www.reddit.com/r/webdev/comments/1hdxq55/feature_access_control_nodejs_library/,2024-12-14 07:29:02,3,1.0,3,0,1,0,0,False,False,True,False,False,Question,self,t3_1hdxq55
+webdev,Local offline CMS for SSG (11ty preferably),"I have a personal small static site I build with Eleventy. I build it on my own computer, manually creating the Markdown files and transferring the output to my hosting provider. I don't mind managing my content manually that much, but I'm looking into ways to make it easier as files are heaping up. 
+
+Is there anything like a GUI front-end to manage my source content in the traditional CMS way, without having to connect to any online service, all locally? I don't intend to use GitHub/GitLab or Netlify or anything. I want my computer to manage and build the static site that I can then simply upload to the hosting server, whose only job would be to serve the static files.
+
+Decap CMS seemingly needs a remote git repo and heavily pushes towards Netlify; I don't se how to alter that. Strapi has no official documentation for integration with Eleventy.
+
+The only thing I've seen is BuhoCMS, which does exactly what I need but can't read, only write pre-existing frontmatter in my 20+ posts which I don't want to manually recreate. Its repo is also set to read-only, which probably means it's a bad idea to start using it just now.
+
+I'm not a developer by any means but I get by and I can follow clear instructions. ",swillfreat,1hdqy7v,https://reddit.com/r/webdev/comments/1hdqy7v/local_offline_cms_for_ssg_11ty_preferably/,https://www.reddit.com/r/webdev/comments/1hdqy7v/local_offline_cms_for_ssg_11ty_preferably/,2024-12-14 00:46:10,3,1.0,3,0,5,0,0,False,False,True,False,False,,self,t3_1hdqy7v
+webdev,[Showoff Saturday] Rebuilding my personal web with pure HTML and TailwindCSS,"Hello and happy saturday!
+
+For the last couple of weeks I've been rebuilding my website from scratch, that before it was using Materialize as CSS framework (rip project), some heavy PHP and jQuery.
+
+But now I wanted to go full minimalistic and use as minimum resources as possible, I've ended up with pure HTML page (using PHP only for the contact form), pure JS with no frameworks, and TailwindCSS for easier layout building. The page fully loaded it's just 412kB, so basically loads instantly.
+
+Now, there are still some features to implement, like the dark mode, and also I want to add some fancy animations when changing the language, now it only changes the texts. I also need to update my PDF CV to make the download and print buttons work (side question: as .print() funcion has been deprecated for a while, is there any way to print a document, not the page, directly with a button via JS?)
+
+I'm looking for your feedback, as this page was only viewed by me I don't have any external input on how this page looks to other, if it's appealing, and also if there are any bigger design flaws to improve.
+
+Link: [https://strych9.me](https://strych9.me) 
+
+Thanks in advance!",greckzero,1hdmzdw,https://reddit.com/r/webdev/comments/1hdmzdw/showoff_saturday_rebuilding_my_personal_web_with/,https://www.reddit.com/r/webdev/comments/1hdmzdw/showoff_saturday_rebuilding_my_personal_web_with/,2024-12-13 21:36:18,4,0.83,4,0,2,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1hdmzdw
+webdev,Grid 4 columns horizontal scroll ,"I want build a 4 columns content i use grid-template-columns: repeate(4, 1fr) to get columns eith same with and height. What i want to do is i get 4 columns woth same size and if there are more than 4 columns i get a horizontal scrollbar and use that to get what i want. I changed grid-auto-flow to column but then repeat(4, 1fr) not working and all items get same size in one row instead of 4 columns.
+
+So in short
+
+
+1. What i want (same size and same gap without overflow of that 4 content)
+
+[1] [2] [3] [4] // [5] ... [Last item]
+
+2. What i get
+
+
+[1] [2] [3] [4]
+
+[5] [6] [7] [8]",katakishi,1hdemsv,https://reddit.com/r/webdev/comments/1hdemsv/grid_4_columns_horizontal_scroll/,https://www.reddit.com/r/webdev/comments/1hdemsv/grid_4_columns_horizontal_scroll/,2024-12-13 15:26:48,3,0.8,3,0,4,0,0,False,False,True,False,False,Question,self,t3_1hdemsv
+webdev,Business logic inside a MobX store ? ,"Hey folks, 
+
+  
+Currently working with a codebase and I have noticed a pattern where not only the state, but also the business logic is put within a MobX store ? I was wondering is this common practice ? is there any downsides to this ?  thanks ",Over-Tea-7297,1he3l26,https://reddit.com/r/webdev/comments/1he3l26/business_logic_inside_a_mobx_store/,https://www.reddit.com/r/webdev/comments/1he3l26/business_logic_inside_a_mobx_store/,2024-12-14 14:07:00,2,1.0,2,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1he3l26
+webdev,Confusion regarding HTTP based REST APIs?,"Recently trying to wrap my head around the client/server architectures and communication protocols between them.
+
+HTTP was originally designed to transfer web pages from a server to anyone requesting aka clients. During the early ages of the Internet where webpages were static, this was the only job of a server. Clients hit an anchor tag, you serve them a webpage. As the name of the protocol implies (Hyper Text Transfer Protocol), your job was to securely transfer HTML, to the requesting party.
+
+Now in the current times where webpages are much more dynamic and interactive, servers apart from transferring HTML, now also transfer some additional data because now navigation into a website doesn't cause a full render, it only changes some parts of the webpage, so the server sends only that part of the webpage.
+
+This ""additional data"" in most cases is not HTML, it's JSON (or XML etc), which only contains the necessary bits needed for that part of the webpage.
+
+So my question is, why are we still using HTTP for this purpose? Wouldn't it make sense to make a different protocol only for this purpose? And why do we call these APIs HTTP based when clearly we are not transferring any hypertext?",Patzer26,1hdzjfs,https://reddit.com/r/webdev/comments/1hdzjfs/confusion_regarding_http_based_rest_apis/,https://www.reddit.com/r/webdev/comments/1hdzjfs/confusion_regarding_http_based_rest_apis/,2024-12-14 09:37:29,2,0.75,2,0,3,0,0,False,False,True,False,False,Question,self,t3_1hdzjfs
+webdev,ERR_SSL_PROTOCOL_ERROR on my new site,"Hi all, I'm trying to set up a website through Godaddy.com. When trying to go to the site on my phone I get this error:  ERR\_SSL\_PROTOCOL\_ERROR  
+
+The site is: bayanglobalstaffing.com
+
+Any help much appreciated!",Mikesol486,1hdk49e,https://reddit.com/r/webdev/comments/1hdk49e/err_ssl_protocol_error_on_my_new_site/,https://www.reddit.com/r/webdev/comments/1hdk49e/err_ssl_protocol_error_on_my_new_site/,2024-12-13 19:27:10,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1hdk49e
+webdev, Updated Highcharts to latest and now getting Uncaught TypeError: HighchartsMore is not a function,"I have a bubble chart was working fine before i updated highcharts now i get the error - Uncaught TypeError: HighchartsMore is not a function it relates to HighchartsMore(Highcharts);
+
+import Highcharts from 'highcharts';
+
+import HighchartsReact from 'highcharts-react-official';
+
+import HighchartsMore from 'highcharts/highcharts-more';
+
+HighchartsMore(Highcharts);
+
+Im guessing they have moved it? but I cant find any documentation to say what / how i should change my code?",tradegreek,1hdg601,https://reddit.com/r/webdev/comments/1hdg601/updated_highcharts_to_latest_and_now_getting/,https://www.reddit.com/r/webdev/comments/1hdg601/updated_highcharts_to_latest_and_now_getting/,2024-12-13 16:35:00,2,1.0,2,0,2,0,0,False,False,True,False,False,Question,self,t3_1hdg601
+webdev,Does anyone know of any YouTube videos that go through the full process of building a web app?,"I’m a high school student looking for YouTube videos (or other resources) that show the entire process of building a web app from start to finish. 
+
+Like I want to find something that shows:
+
+* Coding the front end and backend
+* Setting up the database
+* Hosting the front end, backend, and database
+* Setting up a domain and deploying everything
+
+If you know of any creators or series that go into this level of detail, please share! Thanks in advance!",Cyb3rPhantom,1he4jew,https://reddit.com/r/webdev/comments/1he4jew/does_anyone_know_of_any_youtube_videos_that_go/,https://www.reddit.com/r/webdev/comments/1he4jew/does_anyone_know_of_any_youtube_videos_that_go/,2024-12-14 14:54:44,1,0.6,1,0,7,0,0,False,False,True,False,False,,self,t3_1he4jew
+webdev,"Thanks to your feedback, Schedise has evolved into something even better! 🚀",,Gabeciii,1he3nsm,https://reddit.com/r/webdev/comments/1he3nsm/thanks_to_your_feedback_schedise_has_evolved_into/,https://app.schedise.dev/login,2024-12-14 14:10:49,1,0.67,1,0,2,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1he3nsm
+webdev,"[Showoff Saturday] Svelte Mini Router – a declarative, minimal SPA router for Svelte 5, without SvelteKit","SvelteKit has a built-in router for Svelte 5, but unfortunately there is no official solution for those projects built without SvelteKit (usually simple SPAs created directly with [Vite](https://vite.dev/guide/#scaffolding-your-first-vite-project)). I'm aware of at least [one](https://redd.it/1ghdpis), but I wanted a slightly different approach, so I decided to write [my own](https://xkcd.com/927/):
+
+* https://github.com/rodrigocfd/svelte-mini-router
+
+The idea is to have a (very) small declarative router. The API has only 2 components and 3 functions.
+
+### Example
+
+Folder structure has no rules, you can organize the way you want. For example:
+
+    src/
+    ├─ pages/
+    │  ├─ home/
+    │  │  └─ MyHome.svelte
+    │  └─ page1/
+    │     └─ Page1.svelte
+    ├─ App.svelte
+    ├─ Error404.svelte
+    ├─ main.ts
+    └─ routerConf.ts
+
+Router declaration:
+
+    import {type RouterConf} from 'svelte-mini-router';
+
+    export const routerConf: RouterConf = {
+        routes: [
+            // this is your home page
+            {path: '/', render: () =&gt; import('./pages/home/MyHome.svelte')},
+
+            // another page
+            {path: '/page1', render: () =&gt; import('./pages/page1/Page1.svelte')},
+
+            // nested routes are up to you
+            {path: '/foo/bar/stuff', render: () =&gt; import('./pages/page1/Page1.svelte')},
+
+            // you can use path parameters anywhere
+            {path: '/foo/{name}/and/{age}', render: () =&gt; import('./pages/page1/Page1.svelte')},
+        ],
+
+        // if you use a base URL, set it here; optional
+        baseUrl: '/my-web-application',
+
+        // error 404 route; optional
+        // if not defined, a simple ""404 - Not found"" text will be displayed
+        render404: () =&gt; import('./Error404.svelte'),
+    };
+
+Finally add the router component to your `App.svelte`:
+
+    &lt;script lang=""ts""&gt;
+        import {Router} from 'svelte-mini-router';
+        import {routerConf} from './routerConf';
+    &lt;/script&gt;
+
+    &lt;Router {routerConf} /&gt;
+
+### Navigating
+
+Rendering an `&lt;a href=""""&gt;` element to a route with the `Link` component:
+
+    &lt;script lang=""ts""&gt;
+        import {Link} from 'svelte-mini-router';
+    &lt;/script&gt;
+
+    &lt;!-- without query parameters --&gt;
+    &lt;Link path=""/page1""&gt;
+        Go to Page 1
+    &lt;/Link&gt;
+
+    &lt;!-- with query parameters --&gt;
+    &lt;!-- means ""/page1?name=Joe&amp;age=43"" --&gt;
+    &lt;Link path=""/page1"" params={{name: 'Joe', age: 43}}&gt;
+        Go to Page 1
+    &lt;/Link&gt;
+
+Programmatically navigating to a route with `navigate` function:
+
+    import {navigate} from 'svelte-mini-router';
+
+    // without query parameters
+    navigate('/page1');
+
+    // with query parameters
+    // means ""/page1?name=Joe&amp;age=43""
+    navigate('/page1', {name: 'Joe', age: 43});
+
+### Parameters
+
+Current URL path parameters can be retrieved as an object with `getPathParams` function:
+
+    import {getPathParams} from 'svelte-mini-router';
+
+    // from ""/foo/{name}/and/{age}""
+    // then ""/foo/Joe/and/43""
+    const pathParams = getPathParams();
+    // will be {name: 'Joe', age: '43'}
+
+And query parameters with `getQueryParams` function:
+
+    import {getQueryParams} from 'svelte-mini-router';
+
+    // from ""/page1?name=Joe&amp;age=43""
+    const queryParams = getQueryParams();
+    // will be {name: 'Joe', age: '43'}
+
+### That's all...
+
+This router covers all the needs for my team, I hope it's useful to someone else.
+
+I'm open to comments, feedback and criticisms.",rodrigocfd,1he3i1w,https://reddit.com/r/webdev/comments/1he3i1w/showoff_saturday_svelte_mini_router_a_declarative/,https://www.reddit.com/r/webdev/comments/1he3i1w/showoff_saturday_svelte_mini_router_a_declarative/,2024-12-14 14:02:46,1,1.0,1,0,0,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1he3i1w
+webdev,[Showoff Saturday] I built a multi-step form builder,"After building a few lead generating sites for some web design clients, I decided to make an easy solution to save time on a feature that all of them needed.
+
+Introducing WizardFormz, a user interface that can generate custom multi-step / progressive forms you can embed in your html sites. I will be adding react and other frameworks if there is a demand.
+
+You can use the forms on Netlify hosted sites, or point it to your own api endpoint.
+
+Additionally, you can customize the css in the editor. If you are a bit savvy with CSS and need to use specific styles, you can also edit the styling inside of the generated code.
+
+Looking for some feedback on features and design, or if there is even a demand for such a tool.",Longjumping_Can_6536,1he2yvw,https://reddit.com/r/webdev/comments/1he2yvw/showoff_saturday_i_built_a_multistep_form_builder/,https://wizardformz.com,2024-12-14 13:34:04,1,1.0,1,0,0,0,0,False,False,False,False,False,,default,t3_1he2yvw
+webdev,"I built a free dashboad that combines all your analytics (GA4, Stripe, Plausible)","The worst part about building a website is having to check ANOTHER analytics account. For just 5 websites you have to sit through 10 loading screens just to see all your analytics and revenue data. That’s why I made 1board. With 1board you can see multiple websites at once AND see all your data compiled from multiple sources(Google Analytics, Plausible, and Stripe).
+
+I also added in some gamification to make tracking a bit more fun with rankings and awards. It’s completely free to use for up to 4 websites and if you want to track 5+ websites it’s $20/year.
+
+Here’s the link for anyone interested: [https://www.1board.dev/](https://www.1board.dev/)",mst152,1he2jpg,https://reddit.com/r/webdev/comments/1he2jpg/i_built_a_free_dashboad_that_combines_all_your/,https://i.redd.it/pcndlpwwct6e1.gif,2024-12-14 13:10:49,2,0.67,2,0,0,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/o_hHDGV6WqUV499JDULoj1S3L1tRtdW8bRJ7GjmDhTQ.jpg,t3_1he2jpg
+webdev,First fullstack feedback,"I made first fullstack website and needed feedback about UI and Looks
+",InfiniteAd753,1hdzyhb,https://reddit.com/r/webdev/comments/1hdzyhb/first_fullstack_feedback/,https://www.reddit.com/gallery/1hdzyhb,2024-12-14 10:09:07,1,1.0,1,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/dsW54-CIVvX1jze3eaIRLtUsdGzBFJTQcCTTK_m7XrQ.jpg,t3_1hdzyhb
+webdev,Career progresstion from frontend. ,"Ive worked in frontend,  React/NextJs with typescript. For 3 years now. I enjoy it, its very cool. Ai cant replace me, but i feel it makes a lot of things I do boring. Where do I go from here, do i do backend? I dont enjoy it much. UXUI seems to be very much linked to economics, currently no company is hiring for UX UI where I am at. 
+
+My intrestst are frontend development,  because I get to see my work as fast as possible. And I like working and thinkering with linux and servers.",stfuandkissmyturtle,1hdyl6q,https://reddit.com/r/webdev/comments/1hdyl6q/career_progresstion_from_frontend/,https://www.reddit.com/r/webdev/comments/1hdyl6q/career_progresstion_from_frontend/,2024-12-14 08:33:19,1,1.0,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1hdyl6q
+webdev,"Conditional Fetching with SWR and React
+","Hello Guys!
+
+I am working on a project where I have to build an queue management system. It is integrated with an external API, and I need to display people on the waiting queue, and people that are being called to be served. I am using Next.js for this.
+
+I have three components: the Page (where I do the fetching), the Tail (people that are waiting) and the Head (people being called, it can be one or more people).
+
+In Page, i use SWR to fetch an object with the head and the tail, and pass them as props to Head and Tail.
+
+The thing is that for every person on the Head, I use the Speech Synthesis Browser API, and that can take some time, if the name of the person is big and there are multiple people on the head.
+
+I have set the polling time on SWR to be 60 seconds, a value that I believe will be fine for the system. But that time being a minute makes the system feel clunky and slow for the attendants.
+
+Is there a way to tell SWR not to fetch data while the speech synthesis is happening for each person on the queue? For that, I would need to pass some kind of information to the parent component, how should I do that, use Context?
+
+Also, in the Head component, I'm using three useEffects. The first one to retrieve the voice that will be used in Speech Synthesis, the second one triggers the speaking event for every person on the array and the third one cycles through the people on the array. Is that pattern of programming a bad practice with React or is that a valid solution?
+
+Thanks!",bernoullistokes,1hdu1bc,https://reddit.com/r/webdev/comments/1hdu1bc/conditional_fetching_with_swr_and_react/,https://www.reddit.com/r/webdev/comments/1hdu1bc/conditional_fetching_with_swr_and_react/,2024-12-14 03:33:12,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hdu1bc
+webdev,PageSpeed Insights Mobile vs Desktop Discrepancy ,"I am running my site through PageSpeed Insights and I can't seem to figure out why I am getting a score of 65 on mobile but on desktop I am usually getting high 90's or 100. My site loads very fast and even on mobile it loads very fast. For mobile the FCP is around 3-4 seconds and I can't for the life of me figure out why because on desktop it is like 0.4 seconds. Any suggestions on what might be causing this?
+
+  
+Not sure if I am allowed to post the link here, I am not promoting or anything just want other to be able to run the pagespeed insights test to see what I am seeing: [https://redsurgeapparel.com/](https://redsurgeapparel.com/)",gr8hoops21,1hdno8x,https://reddit.com/r/webdev/comments/1hdno8x/pagespeed_insights_mobile_vs_desktop_discrepancy/,https://www.reddit.com/r/webdev/comments/1hdno8x/pagespeed_insights_mobile_vs_desktop_discrepancy/,2024-12-13 22:07:29,1,0.67,1,0,7,0,0,False,False,True,False,False,,self,t3_1hdno8x
+webdev,Transform Your GitHub README with This Web Dev Tool! 🚀,"Hey Redditors! 👋
+
+I've built a [GitHub Readme Generator](https://github.com/only-mar/Github-Readme-Generator) to help you create stunning README files effortlessly. It’s beginner-friendly, with customizable templates to showcase your projects in style.
+
+Looking for feedback, feature requests, or even collaborators! Let me know what you think, or feel free to star the repo if you find it useful. 😊
+
+https://preview.redd.it/yx4zs2x7co6e1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=d23ed6ff0784b1b11c1065e9f7d7a58335c3614f
+
+",i2r3,1hdl8pw,https://reddit.com/r/webdev/comments/1hdl8pw/transform_your_github_readme_with_this_web_dev/,https://www.reddit.com/r/webdev/comments/1hdl8pw/transform_your_github_readme_with_this_web_dev/,2024-12-13 20:17:39,1,0.6,1,0,1,0,0,False,False,True,False,False,Resource,https://b.thumbs.redditmedia.com/uV27HP2zgkrkovs68tg6qj3aV2QhD3XmJ8ws9HJCk0M.jpg,t3_1hdl8pw
+webdev,Migrating large content site - tools and tips,"I have been asked to estimate moving a corporate site with 50+ custom pages and literally thousands of press releases + blog posts 
+
+The goal is to update the design but keep the content, and NOT take a hit on the SEO front. 
+
+  
+I would like to get a true sense of the scope of the site, and be able to extract the content if need be, I dont have access to the current platform, i dont think its wordpress, and I'm not sure how usable the content would be assuming it's even powered by a CMS. 
+
+Are there tools you would recommend to create a site map, a breakdown and possible to map content to URL's. I need to get a strong sense of the scope here and how easily i could migrate. 
+
+I'm less concerned about scraping the data if I need to, I've done that in the past and it can be a PITA but I can do it, but since this is an evaluation to see if I'll do manual capture for now and see if my demo translate well but eventually I'll need ot commit to getting all their content and maintain format. 
+
+My worry is making sure it doesn't take an SEO hit, I do intent to keep URLs the same and have canonical links if need be. 
+
+Any tips/advice/recommendations appreciated. 
+
+
+
+  
+",IAmRules,1hdig4r,https://reddit.com/r/webdev/comments/1hdig4r/migrating_large_content_site_tools_and_tips/,https://www.reddit.com/r/webdev/comments/1hdig4r/migrating_large_content_site_tools_and_tips/,2024-12-13 18:14:20,1,1.0,1,0,4,0,0,False,False,True,False,False,,self,t3_1hdig4r
+webdev,How do i add subscription service to my app?,"Hello, i have an electron application for Windows and Linux and i want to add a subscription service monthly. I have heard of stripe and it will probably be my go to since i use JavaScript mainly. The problem is how do i track subscriptions without an account?
+
+ If you look at discord it uses the same framework electron but it has user accounts and a huuuuuuge server to store it's users' data but my situation is quite the opposite, i want my app to be local to a user's machine and not to the cloud. 
+
+Is there a way to implement this? Keep in mind i want:
+
+- monthly subscription which ends after 30 day returns to the free model app if not renewed
+
+- track subscription without a need to create an account for the user, just the app
+
+Thanks.",Kooky_Pay2427,1hdhi2q,https://reddit.com/r/webdev/comments/1hdhi2q/how_do_i_add_subscription_service_to_my_app/,https://www.reddit.com/r/webdev/comments/1hdhi2q/how_do_i_add_subscription_service_to_my_app/,2024-12-13 17:33:12,0,0.5,0,0,10,0,0,False,False,True,False,False,,self,t3_1hdhi2q
+webdev,How to establish a payment rate for freelance website building?,"Hello everyone not sure if this is the best place for this, but this is a question for people who do freelance work, specifically building static sites for small businesses.  An acquaintance of my wife is looking for someone to build them a website for their small business, and I let them know I can do it. I don't have experience or a portfolio for static site building, but If I were to pursue a side hustle of building sites for people, what is a standard going rate/ payment plan for doing this? Also, what tools do you recommend? HTML Template sites, wix, wordpress, etc... Any advice is appreciated, thanks!
+
+Also I guess i should mention, Im a fullstack web dev mainly focused on frontend (react, react native), but havent used any of the website builder tools ",Mr_Bombastic93,1hdgk6z,https://reddit.com/r/webdev/comments/1hdgk6z/how_to_establish_a_payment_rate_for_freelance/,https://www.reddit.com/r/webdev/comments/1hdgk6z/how_to_establish_a_payment_rate_for_freelance/,2024-12-13 16:52:23,1,0.67,1,0,8,0,0,False,False,True,False,False,Question,self,t3_1hdgk6z
+webdev,Porkbun support,"Anyone have experience with Porkbun tech support?  I called their USA number and a recording says no one is available.  This is during regular business hours.
+I tried their online chat function and it said the same thing.  Is it always like this?
+",Wake-Of-Chaos,1hdg66j,https://reddit.com/r/webdev/comments/1hdg66j/porkbun_support/,https://www.reddit.com/r/webdev/comments/1hdg66j/porkbun_support/,2024-12-13 16:35:13,1,0.6,1,0,0,0,0,False,False,True,False,False,,self,t3_1hdg66j
+webdev,Have you ever built a b2b or c2c marketplace?,"Hey /r/webdev!
+
+I’ve been asked to build a digital product marketplace. I’ve worked with Shopify, Drupal Commerce, and WooCommerce before, but never built a full marketplace from scratch. I’d love to hear any advice, insights, or lessons learned from those who’ve done this:
+
+	•	Tech Choices: Which platforms or frameworks did you use, and why?
+
+	•	Tough Spots: What unexpected challenges popped up (handling digital files, vendor payouts, licensing)?
+
+	•	Wish You Knew: Is there something you wish you’d thought about earlier (roles, checkout flow, product organization)?
+
+	•	Scale &amp; Security: Any tips for performance, caching, secure file delivery?
+
+	•	Vendor &amp; Customer Experience: What made life easier for vendors and helped customers find what they need?
+
+Thanks so much for any pointers!",simobm,1he1akj,https://reddit.com/r/webdev/comments/1he1akj/have_you_ever_built_a_b2b_or_c2c_marketplace/,https://www.reddit.com/r/webdev/comments/1he1akj/have_you_ever_built_a_b2b_or_c2c_marketplace/,2024-12-14 11:49:10,0,0.5,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1he1akj
+webdev,[Showoff Saturday] I analyzed 2000+ posts on r/Entrepreneur and made a Spotify Wrapped review of the year,"Hey ya'll,
+
+I've been tracking and analyzing data from r/Entrepreneur for the past year to see what topics come up the most, who frequents the sub the most, what phase of the business is most discussed, and more!
+
+  
+Checkout the Spotify Wrapped Style breakdown here and let me know your thoughts!
+
+[https://rewind.hivesight.so/entrepreneur](https://rewind.hivesight.so/entrepreneur)",JTyler3,1hdv70u,https://reddit.com/r/webdev/comments/1hdv70u/showoff_saturday_i_analyzed_2000_posts_on/,https://www.reddit.com/r/webdev/comments/1hdv70u/showoff_saturday_i_analyzed_2000_posts_on/,2024-12-14 04:41:18,0,0.5,0,0,1,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1hdv70u
+webdev,Open-Sourced React Web Application Generator,"Hey, I’ve open-sourced a platform for generating and running React web applications. It dynamically generates React code using an agent-based system and includes a runtime that renders React apps on the fly. The platform also sanitizes code automatically to ensure safety and reliability, and it supports libraries like Google Charts for easy integration.
+
+It’s simple to set up and is meant to help kickstart projects or experiments in code generation.
+
+Repo link: [https://github.com/MuneebRasool/iterative](https://github.com/MuneebRasool/iterative)
+
+",CryptoWaliSerkar,1hdnr8b,https://reddit.com/r/webdev/comments/1hdnr8b/opensourced_react_web_application_generator/,https://www.reddit.com/r/webdev/comments/1hdnr8b/opensourced_react_web_application_generator/,2024-12-13 22:11:24,0,0.33,0,0,0,0,0,False,False,True,False,False,Resource,self,t3_1hdnr8b
+webdev,HTML Form Validation is heavily underused,,fagnerbrack,1hdm7c8,https://reddit.com/r/webdev/comments/1hdm7c8/html_form_validation_is_heavily_underused/,https://expressionstatement.com/html-form-validation-is-heavily-underused,2024-12-13 21:01:07,0,0.5,0,0,24,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/wunMXUSKgN6TZTbIzhTsPlrSBt-c8L47NpfyFmnXkVI.jpg,t3_1hdm7c8
+webdev,Webhook help!,"Hello! I am creating a website for my team, and on my contacts &amp; socials page I have a text box ( a form) that is supposed to send it as a message in the team discord server with the help of a webhook, but I can't get it to work. Any help would be VERY appreciated! It's now 2:20 AM for me and I'm not sleeping until this is done. ",Remarkable-Humor1546,1hdk095,https://reddit.com/r/webdev/comments/1hdk095/webhook_help/,https://www.reddit.com/r/webdev/comments/1hdk095/webhook_help/,2024-12-13 19:22:04,0,0.33,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hdk095
+webdev,SaaS for building and running temporary Docker containers,"so there are a ton of services that allow to execute arbitrary Python/Node.js script.
+
+However, I am struggling to find something that's built to be docker-first, i.e. I would want to be able to send Dockerfile, run the code, and get the result.
+
+Any suggestions of existing services that could be used to fit this need?",punkpeye,1hdlnjr,https://reddit.com/r/webdev/comments/1hdlnjr/saas_for_building_and_running_temporary_docker/,https://www.reddit.com/r/webdev/comments/1hdlnjr/saas_for_building_and_running_temporary_docker/,2024-12-13 20:36:26,0,0.25,0,0,5,0,0,False,False,True,False,False,,self,t3_1hdlnjr
+webdev,Help me estimate cost of an app,"Hi, I’m thinking to start creating a project, I’m not yet sure to begin.
+
+Anyway, I’ve experience in creating app with small audience (internal tools) so usually the cost of hosting and databse is very limited .
+
+The app that I’m thinking is an app that offer a service for a single city.
+
+The user can:
+- login
+- register
+
+The main feature is:
+- user open the app and see a map (like map box or Google maps ) but the map is restricted to show only one city
+-user can zoom in , zoom out and move around the map
+- user can add a marker to a street in the map and add some information (text only for now , images upload will be added maybe in the future but I don’t want to consider it for now)
+- user can see every marker created by other user
+- user can add a “like” on a marker 
+- user is not happy to pay for this, but the user expects that the app to be a free service payed by the city (so the user indirectly pays for this with taxes)
+
+My question is: how much monthly it will cost to have an app like this ? Development excluded.
+The things that need to be payed are:
+- hosting (VPs or serverless)
+- frontend (react for sure so next js or vite)
+- db (with only text I don’t think the disk space of the db will be higher that 1 go for a while
+- map service ( I never used for an app like this a service for map so I have no idea how to estimate it.user will zoom in,zoom out and move around the map
+so I presume a lot of requests are performed under the hood.
+- Auth service
+
+For sure the app will have an initial stage with super low traffic , then later it can increase highly but not sky rocket. 
+How to estimate these two stages?
+
+
+
+The city has 15000 people in the main area, and with interland it reaches 300000 people. It isn’t expected that every user will use that , so I think 10/15% of total people can spend 30 minute every month on the app.
+This when the app is in high traffic stage.
+
+Thanks ",tresorama,1hdevbh,https://reddit.com/r/webdev/comments/1hdevbh/help_me_estimate_cost_of_an_app/,https://www.reddit.com/r/webdev/comments/1hdevbh/help_me_estimate_cost_of_an_app/,2024-12-13 15:37:42,0,0.17,0,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1hdevbh
+webdev,I need to make a website for a tierlist and I don't know how,"Have you heard of a site called ""Tier List Maker""?
+
+(this one) [https://tiermaker.com/](https://tiermaker.com/)
+
+If so, I need to make something similar, but that allows me to put together more than 2000 elements (which is the limit of the page I'm using as a reference). Does anyone know if any of the conventional tools for creating websites (Wix, Wordpress, etc.) allow the creation of something like this? Or is something more advanced in HTML necessary? I know very little (practically nothing) about creating websites and I would like to know if this is something I could learn to do myself in the short term or would I need to hire an expert.",Brasas_de_Kentaro,1hdwo19,https://reddit.com/r/webdev/comments/1hdwo19/i_need_to_make_a_website_for_a_tierlist_and_i/,https://www.reddit.com/r/webdev/comments/1hdwo19/i_need_to_make_a_website_for_a_tierlist_and_i/,2024-12-14 06:14:02,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1hdwo19
+webdev,On Good Software Engineers,,fagnerbrack,1hdvlic,https://reddit.com/r/webdev/comments/1hdvlic/on_good_software_engineers/,https://candost.blog/on-good-software-engineers/,2024-12-14 05:05:59,0,0.25,0,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/tMTVGwl3-OCqBn7fJ8yECnfc49tF9gKOwrZcgDTsyJk.jpg,t3_1hdvlic
+webdev,Australia/Lord_Howe is the weirdest timezone,,fagnerbrack,1hdtqfa,https://reddit.com/r/webdev/comments/1hdtqfa/australialord_howe_is_the_weirdest_timezone/,https://ssoready.com/blog/engineering/truths-programmers-timezones/,2024-12-14 03:15:52,0,0.35,0,0,2,0,0,False,False,False,False,False,,default,t3_1hdtqfa
+webdev,Check your namecheap auto-renewals,"I had purchased a namecheap domain along with a 3 month free trial for their email service, had no idea that meant I would have to pay for their relate social pro service on top of that. 
+
+Once the email service had expired, 3-4 months later I realized I was still paying for a service that I wasn't using. After digging on the website to see what was being charged, since I wasn't sure at first if my account had been hacked, I finally found that I was being charged for their relate social pro service.
+
+I tried contacting namecheap and submitted a ticket regarding the situation, seeing if I could get a refund on the service I didn't use but no response. So I decided to chargeback through my credit card company thinking it would be okay, but then just recently I receive this from namecheap.
+
+[TLDR: I need to payback the chargeback, else they will \~2x my chargeback](https://preview.redd.it/o0n13bih5q6e1.png?width=2168&amp;format=png&amp;auto=webp&amp;s=3edc7893390bc4042695a805579d0404c6152cc7)
+
+**Do I just suck it up and pay the money even though I didn't use the service &amp; had no idea that the auto-renewal was on?** Been a fan of namecheap but I don't like the way they're handling this since there were no response from support &amp; was straight to telling me to payback the money.
+
+  
+Here's a receipt for when I first started the trial, should've been more diligent but had no idea what Relate Social Pro meant or that it would have auto renewal on.
+
+https://preview.redd.it/nhvpeb9m5q6e1.png?width=1944&amp;format=png&amp;auto=webp&amp;s=47ebba6c3fe0f0985ef8db2ccb5f92885ff25220
+
+",Brilliant-Active-737,1hdt27j,https://reddit.com/r/webdev/comments/1hdt27j/check_your_namecheap_autorenewals/,https://www.reddit.com/r/webdev/comments/1hdt27j/check_your_namecheap_autorenewals/,2024-12-14 02:38:27,0,0.22,0,0,10,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/1G-O0gIzxPSKTFY2H8SmqC_uLCV0vfWJgw86XhOdPLE.jpg,t3_1hdt27j
+webdev,Native Bluesky search isn't as good as this tool,"Native search on Bluesky shows you a couple sort options including ""Top"" and ""Latest."" Neither of these really show you the most recent posts with the highest engagement.
+
+Latest is always a bunch of random posts with zero engagement and Top shows posts that are days old and stale.
+
+[TrendSpotter.blue](http://TrendSpotter.blue) actually shows every post containing your keyword in the last few hours (up to 24 hours).
+
+It absolutely smokes native search on Bluesky when testing the same keyword head to head.",eastburnn,1hdpb61,https://reddit.com/r/webdev/comments/1hdpb61/native_bluesky_search_isnt_as_good_as_this_tool/,https://www.reddit.com/r/webdev/comments/1hdpb61/native_bluesky_search_isnt_as_good_as_this_tool/,2024-12-13 23:24:56,0,0.22,0,0,0,0,0,False,False,True,False,False,,self,t3_1hdpb61
+webdev,Shortest way to make a functional web app ,"Hi, I need to build a web application that interacts with a database and performs basic CRUD operations. I can use either Node.js, Python (Flask or Django), or Java (Spring Boot). The deadline is one week, and I only know HTML, CSS, Python, and basic-to-intermediate Java, with no prior experience in backend development. Can you recommend a course or tutorial that can teach me how to accomplish this? I’m not focused on learning the underlying principles or best practices right now—I just need to complete the project and be able to explain the code to my teacher.",Anass_Lpro,1hdoize,https://reddit.com/r/webdev/comments/1hdoize/shortest_way_to_make_a_functional_web_app/,https://www.reddit.com/r/webdev/comments/1hdoize/shortest_way_to_make_a_functional_web_app/,2024-12-13 22:47:32,0,0.14,0,0,8,0,0,False,False,True,False,False,,self,t3_1hdoize
+webdev,Anyone need help with web design or backend. I’m bored ,Title says it all 😂,ksjsjdnn,1hdefwq,https://reddit.com/r/webdev/comments/1hdefwq/anyone_need_help_with_web_design_or_backend_im/,https://www.reddit.com/r/webdev/comments/1hdefwq/anyone_need_help_with_web_design_or_backend_im/,2024-12-13 15:17:58,0,0.3,0,0,14,0,0,False,False,True,False,False,,self,t3_1hdefwq
+webdev,"I've got a Vanity UUID, and you can too! ","It's e281f5c0-c05f-423d-9add-c0ffee084f27... See the ""add-c0ffee"" in it? 
+
+Of course, I'm not actually using it. I just found out about everyuuid.com and was thinking about some fun ones. We get basically hex chars + fixed dashes to work with. Some chars are fixed or limited. But if you know the rules you can search for UUIDs containing certain words. 
+
+What can you come up with? What valid UUIDs can you think of that contain something fun/meaningful?
+
+This post is part humor/fun/competition... Let's see what ""vanity UUIDs"" you can come up with. Maybe slightly educational since you have to know the rules and understand how they work. For example, why couldn't I use `decaf-c0ffee`?
+
+Let's see what you can come up with! ",shgysk8zer0,1hde799,https://reddit.com/r/webdev/comments/1hde799/ive_got_a_vanity_uuid_and_you_can_too/,https://www.reddit.com/r/webdev/comments/1hde799/ive_got_a_vanity_uuid_and_you_can_too/,2024-12-13 15:06:52,0,0.35,0,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hde799
+webdev,What is wrong with GoDaddy?!,"I'm so annoyed at GoDaddy right now. Yesterday, my website suddenly stopped working, and all users are encountering the attached error. I contacted GoDaddy’s customer support four times last night, but each time they insisted there was no problem. When I pressed them, they told me to check back in 90 minutes, but the issue remains unresolved. This morning’s call was no better. The latest is they're going to ""call me back in 2-3 hours."" Really?!
+
+**Does anyone have an idea why this error message is occurring or how to fix it?**
+
+For context: I manage the website for a local nonprofit and inherited GoDaddy hosting. While my background is in graphic design, I taught myself WordPress to redesign and maintain the site so I'm by far an expert. I'm researching GoDaddy alternatives with managed WordPress as we speak.
+
+https://preview.redd.it/439wbrsbjt6e1.png?width=630&amp;format=png&amp;auto=webp&amp;s=8fe250e3f94654f87a63d854b6ba4141d6e7bc17
+
+",StoryKey2564,1he2mfz,https://reddit.com/r/webdev/comments/1he2mfz/what_is_wrong_with_godaddy/,https://www.reddit.com/r/webdev/comments/1he2mfz/what_is_wrong_with_godaddy/,2024-12-14 13:15:06,0,0.25,0,0,20,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/zcQaxBH-tpLBXQvg3Zkf23UfJ2rH8Tw_8qCcM-n2juU.jpg,t3_1he2mfz
+webdev,Clerk bombed my NextJS deployment,"Word to wise, stop using shitty libraries that invest more in marketing than development, and don't fall for sponsored influencers, no matter how ""Fireship"" they may be.
+
+I fell for the Youtubers shilling for Clerk and in my latest project I switched from NextAuth to Clerk. I've done several Nextjs projects before with NextAuth, hosting them on a Digital Ocean VPS and proxying them with nginx, with no major issues whatsoever.
+
+This time, with Clerk, everything was OK in development, though their middleware seemed a bit fussy. Deployed to the vps, though, it went crazy and blocks all my api routes, due to some cors issues that seem to be out of my control. Nothing I can think of has any effect, ChatGPT goes around in circles, and I'm stuck now with basically a sabotaged app. User signUp/signIn/signOut works fine, it just messes up with \*my\* bloody api.
+
+Clerk's customer support is as helpless as it is arrogant. First they just copy pasted some irrelevant code from their useless docs, then told me I'm using localhost. I don't know how Vercel does it, but what other ways are there to serve something other then from a local host? I also set up everything correctly, both on the DNS and the Clerk dashboard, so cors shouldn't be issue. But that's where all communication stopped with Clerk.
+
+I don't have time this year to switch to NextAuth, so the project will be late, and I will finish the year and conclude several months of work in quite a shitty manner.
+
+Did something like this happened to anyone else? Any possible advice on this?
+
+  
+Edit: Wow, such  a friendly and helpful community, you guys never disappoint. Just as none of you have ever used ChatGPT.
+
+Edit 2: If it's a simple matter, then customer support should have been able to help. And yes, a VPS is ""my computer"". Funny I need to tell you that.",doobltroobl,1he0ju1,https://reddit.com/r/webdev/comments/1he0ju1/clerk_bombed_my_nextjs_deployment/,https://www.reddit.com/r/webdev/comments/1he0ju1/clerk_bombed_my_nextjs_deployment/,2024-12-14 10:54:42,0,0.2,0,0,18,0,0,False,False,True,False,False,,self,t3_1he0ju1

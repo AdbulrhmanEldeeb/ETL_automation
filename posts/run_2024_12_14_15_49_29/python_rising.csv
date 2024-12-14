@@ -1,0 +1,143 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Python 3.10 vs newer versions,"What are the key differences between 3.10 and newer versions like 3.11, 3.12 and now version 3.13? 
+
+Are there any critical improvements I should be aware of or just little useless tweaks? Any functional changes to standard libraries or core language?",ActiveTip2851,1he5g0f,https://reddit.com/r/Python/comments/1he5g0f/python_310_vs_newer_versions/,https://www.reddit.com/r/Python/comments/1he5g0f/python_310_vs_newer_versions/,2024-12-14 15:38:16,0,0.13,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1he5g0f
+Python,I am sharing Python &amp; Data Science courses on YouTube,"Hello, I wanted to share that I am sharing free courses and projects on my YouTube Channel. I have more than 200 videos and I created playlists for Python and Data Science. I am leaving the playlist link below, have a great day!
+
+Python Data Science Full Courses &amp; Projects -&gt; [https://youtube.com/playlist?list=PLTsu3dft3CWiow7L7WrCd27ohlra\_5PGH&amp;si=6WUpVwXeAKEs4tB6](https://youtube.com/playlist?list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH&amp;si=6WUpVwXeAKEs4tB6)
+
+Python Tutorials -&gt; [https://youtube.com/playlist?list=PLTsu3dft3CWgJrlcs\_IO1eif7myukPPKJ&amp;si=fYIz2RLJV1dC6nT5](https://youtube.com/playlist?list=PLTsu3dft3CWgJrlcs_IO1eif7myukPPKJ&amp;si=fYIz2RLJV1dC6nT5)",onurbaltaci,1hdygzz,https://reddit.com/r/Python/comments/1hdygzz/i_am_sharing_python_data_science_courses_on/,https://www.reddit.com/r/Python/comments/1hdygzz/i_am_sharing_python_data_science_courses_on/,2024-12-14 08:25:10,34,0.88,34,0,4,0,0,False,False,True,False,False,Tutorial,self,t3_1hdygzz
+Python,Accessing prod db data,"I talked to a friend, and he was in shock that in my company, senior devs have the credentials for the prod db so when I need to pull some data, I often create scripts from my local machine. Wondering other people's experiences - are you able to connect to prod yourself or do you need to go through some protocol?",zvone187,1hdzlz2,https://reddit.com/r/Python/comments/1hdzlz2/accessing_prod_db_data/,https://www.reddit.com/r/Python/comments/1hdzlz2/accessing_prod_db_data/,2024-12-14 09:43:07,14,0.8,14,0,37,0,0,False,False,True,False,False,Discussion,self,t3_1hdzlz2
+Python,"Feedback - Cyberbro - Analyze observable (IP, hash, domain) with ease - (CTI Cybersecurity project)","Hello there,
+
+I am a junior cybersecurity engineer and I am trying to develop an open source project in Python Flask and HTML.
+
+Any feedback would be appreciated on the code structure, even if it actually works I think there are many improvements to be made (OOP, classes, I/O, MultiThread, MultiProcessing?).
+
+I would be really glad to have a real Python programmer giving me even small pieces of advice to improve the project. 
+
+This project is a simple application that extracts your IoCs from garbage input (using regex) and checks their reputation using multiple services.
+
+It is mainly Inspired by existing projects Cybergordon and IntelOwl.
+
+I am convinced that this project is useful for SOC analysts or CTI professionnals (I use it daily for my job, and my company took interest for it).
+
+**Features**
+
+* **Effortless Input Handling**: Paste raw logs, IoCs, or fanged IoCs, and let our regex parser do the rest.
+* **Multi-Service Reputation Checks**: Verify observables (IP, hash, domain, URL) across multiple services like VirusTotal, AbuseIPDB, IPInfo, Spur\[.\]us, IP Quality Score, MDE, Google Safe Browsing, Shodan, Abusix, Phishtank, ThreatFox, Github, Google...
+* **Detailed Reports**: Generate comprehensive reports with advanced search and filter options.
+* **High Performance**: Leverage multithreading for faster processing.
+* **Automated Observable Pivoting**: Automatically pivot on domains, URL and IP addresses using reverse DNS and RDAP.
+* **Accurate Domain Info**: Retrieve precise domain information from ICANN RDAP (next generation whois).
+* **Abuse Contact Lookup**: Accurately find abuse contacts for IPs, URLs, and domains.
+* **Export Options**: Export results to CSV and **autofiltered well formatted** Excel files.
+* **MDE Integration**: Check if observables are flagged on your Microsoft Defender for Endpoint (MDE) tenant.
+* **Proxy Support**: Use a proxy if required.
+* **Data Storage**: Store results in a SQLite database.
+* **Analysis History**: Maintain a history of analyses with easy retrieval and search functionality.
+
+This project is available on Github at : [https://github.com/stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro)
+
+Thank you for reading :)",stan_frbd,1he1r6i,https://reddit.com/r/Python/comments/1he1r6i/feedback_cyberbro_analyze_observable_ip_hash/,https://www.reddit.com/r/Python/comments/1he1r6i/feedback_cyberbro_analyze_observable_ip_hash/,2024-12-14 12:21:13,3,0.72,3,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1he1r6i
+Python,I created Musync - a python CLI tool for syncing playlists between music streaming services ,"Hi r/Python \- a couple of months ago decided to try out Youtube Music as a long time Spotify user. I ended up really liking it, but was hesitant to fully make the switch for fear of losing all of my playlists, followed artists, liked songs etc. So I decided to create [Musync](https://pypi.org/project/pymusync/).
+
+[Link to source code](https://github.com/devitt94/musync)
+
+# What it does
+
+Musync allows you sync your own user-created playlists, followed playlists and followed artists from one streaming service to another in a single command e.g.
+
+`musync unisync --source spotify --destination youtube`
+
+# Target Audience
+
+* Spotify users interested in trying out Youtube Music (or vice versa).
+* Youtube Music users who want to share playlists with Spotify users (or vice versa).
+
+# Quickstart
+
+# Installation
+
+Using pip:
+
+    pip install pymusync
+
+Using pipx:
+
+    pipx install pymusync
+
+You can verify the installation worked and see a list of commands by running:
+
+    musync --help
+
+For more details on how to use, see the [README](https://github.com/devitt94/musync/blob/master/README.md#usage). Feedback welcome!",Physical_Read_3553,1hdg7v8,https://reddit.com/r/Python/comments/1hdg7v8/i_created_musync_a_python_cli_tool_for_syncing/,https://www.reddit.com/r/Python/comments/1hdg7v8/i_created_musync_a_python_cli_tool_for_syncing/,2024-12-13 16:37:19,79,0.96,79,0,10,0,0,False,False,True,False,False,Showcase,self,t3_1hdg7v8
+Python,Blaze IDE for Android is here and its FREE,"Blaze IDE for Python on Android is now released!
+
+[https://play.google.com/store/apps/details?id=com.blaze.code&amp;hl=en\_IN](https://play.google.com/store/apps/details?id=com.blaze.code&amp;hl=en_IN)
+
+\*\*Target Audience\*\*
+
+Many students across the world have an interest for coding but they are not able to fulfill their dreams because they don't own a laptop or a computer.But no need to worry, because Blaze is here to solve the problem!
+
+Features of Blaze
+
+Runs via web so minimal ram requirements
+
+Pypi modules are supported (except gui)
+
+!\*\*Comparisions\*\*Other projects have atleast 300 mb storage while this is Just 15mb
+
+[www.github.com/techxsarthak](http://www.github.com/techxsarthak)
+
+",Some_Parsnip_8643,1he1xkr,https://reddit.com/r/Python/comments/1he1xkr/blaze_ide_for_android_is_here_and_its_free/,https://www.reddit.com/r/Python/comments/1he1xkr/blaze_ide_for_android_is_here_and_its_free/,2024-12-14 12:33:12,1,0.51,1,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1he1xkr
+Python,Gravity Modelling Fast Multiple Method - Request for Assistance,"Hi all,
+
+I'm trying to model the gravity field of stationary irregularly shaped body in a discredited space using the Fast Multiple Method.
+
+ I just can't seem to get sensible results when I compare it against my response on a set of receivers using other methods such as Barnes-Hutt. 
+
+Does anyone have any experience, or has used any open source applications/examples for something similar? I have seen papers and some GitHub repos, but I'm finding them hard to replicate.",BitcoinBeers,1hdubjp,https://reddit.com/r/Python/comments/1hdubjp/gravity_modelling_fast_multiple_method_request/,https://www.reddit.com/r/Python/comments/1hdubjp/gravity_modelling_fast_multiple_method_request/,2024-12-14 03:49:36,1,0.55,1,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hdubjp
+Python,Saturday Daily Thread: Resource Request and Sharing! Daily Thread,"# Weekly Thread: Resource Request and Sharing 📚
+
+Stumbled upon a useful Python resource? Or are you looking for a guide on a specific topic? Welcome to the Resource Request and Sharing thread!
+
+## How it Works:
+
+1. **Request**: Can't find a resource on a particular topic? Ask here!
+2. **Share**: Found something useful? Share it with the community.
+3. **Review**: Give or get opinions on Python resources you've used.
+
+## Guidelines:
+
+* Please include the type of resource (e.g., book, video, article) and the topic.
+* Always be respectful when reviewing someone else's shared resource.
+
+## Example Shares:
+
+1. **Book**: [""Fluent Python""](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) \- Great for understanding Pythonic idioms.
+2. **Video**: [Python Data Structures](https://www.youtube.com/watch?v=pkYVOmU3MgA) \- Excellent overview of Python's built-in data structures.
+3. **Article**: [Understanding Python Decorators](https://realpython.com/primer-on-python-decorators/) \- A deep dive into decorators.
+
+## Example Requests:
+
+1. **Looking for**: Video tutorials on web scraping with Python.
+2. **Need**: Book recommendations for Python machine learning.
+
+Share the knowledge, enrich the community. Happy learning! 🌟",AutoModerator,1hdq183,https://reddit.com/r/Python/comments/1hdq183/saturday_daily_thread_resource_request_and/,https://www.reddit.com/r/Python/comments/1hdq183/saturday_daily_thread_resource_request_and/,2024-12-14 00:00:17,3,0.81,3,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hdq183
+Python,Is full stack django or full stack fastapi better startup web apps?,"Wanting to build mvp for idea I have, Python has been my first language of choice. Need to have ability for rapid development but scale and performance is priority.",WynActTroph,1hd3vvm,https://reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/,https://www.reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/,2024-12-13 04:02:15,87,0.84,87,0,59,0,0,False,False,True,False,False,Discussion,self,t3_1hd3vvm
+Python,I got selected for data analyst role for 10 LPA | Fresher data analyst interview experience 2024,"Hello guys I am Dharshan, a final year computer science student. In this video, I have share my detailed interview experience with Tredence, where I secured a Data Analyst job offer for 10 LPA! for which I used python to crack the coding questions. I'll be joining in 2025, and I’m excited to walk you through my journey. I have already posted 3 interview experience videos on my channel and the next one will be amazon interview experience. [https://youtu.be/aeLL29SHBGw?si=9CULGR5plBDWs-jg](https://youtu.be/aeLL29SHBGw?si=9CULGR5plBDWs-jg)",Sure_Cry3926,1hdv2ja,https://reddit.com/r/Python/comments/1hdv2ja/i_got_selected_for_data_analyst_role_for_10_lpa/,https://www.reddit.com/r/Python/comments/1hdv2ja/i_got_selected_for_data_analyst_role_for_10_lpa/,2024-12-14 04:33:26,0,0.42,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hdv2ja
+Python,Need Python contributors for an open-source top-down survival game with rogue lite/like elements.,"If anyone is interested, you can contribute or download the source code here [Poppadomus/pygameTDS](https://github.com/Poppadomus/pygameTDS) 
+
+(yes, I know you shouldn't make games in python).",BornTailor6583,1hd3pnu,https://reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/,https://www.reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/,2024-12-13 03:52:35,18,0.67,18,0,8,0,0,False,False,True,False,False,Resource,self,t3_1hd3pnu
+Python,python-json-logger has changed hands,"Hi r/python,
+
+I wanted to introduce myself as the new maintainer of [python-json-logger](https://pypi.org/project/python-json-logger/) and hopefully establish a bit of trust.
+
+Understandably there [has been some anxiety](https://github.com/madzak/python-json-logger/issues/187#issuecomment-2063184958) over the [PEP 541 Request ](https://github.com/pypi/support/issues/3607)that I submitted given the importance / popularity of the package -  especially in the context of the XZ Utils backdoor earlier in the year.
+
+I think it's important to highlight that although this was prompted by the PEP 541 request, it was not done through PEP 541 mechanisms. In other words this was a decision by the original maintainer and **not** the PyPI Administrators.
+
+For those wanting to know more about me (to prove that I'm not some statebased actor subverting the package), [I'm a security professional](https://www.linkedin.com/in/nicholas-hairs/) and [maintain a few other packages](https://github.com/nhairs). You might also have seen some of [my blog posts](https://www.nicholashairs.com/) on reddit.
+
+Finally apologies if the newly released versions broke your things - despite my best efforts at testing and maintaining backwards compatibility it appears [some bugs managed to slip through](https://github.com/nhairs/python-json-logger/issues/29).",nicholashairs,1hcm2rr,https://reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/,https://www.reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/,2024-12-12 14:18:50,121,0.97,121,0,15,0,0,False,False,True,False,False,News,self,t3_1hcm2rr

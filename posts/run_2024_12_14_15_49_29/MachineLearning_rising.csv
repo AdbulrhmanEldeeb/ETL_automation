@@ -1,0 +1,43 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[P] Curated list of LLM papers 2024,,seraschka,1he4htl,https://reddit.com/r/MachineLearning/comments/1he4htl/p_curated_list_of_llm_papers_2024/,https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list,2024-12-14 14:52:26,10,0.81,10,0,5,0,0,False,False,False,False,False,Project,https://b.thumbs.redditmedia.com/p02HYYoPj_p-xBwJelLubWz-Tz9jT7FTYlhXB71RrBo.jpg,t3_1he4htl
+MachineLearning,[D] What happened at NeurIPS?,,howtorewriteaname,1hdxbru,https://reddit.com/r/MachineLearning/comments/1hdxbru/d_what_happened_at_neurips/,https://i.redd.it/k0q9frsuir6e1.jpeg,2024-12-14 07:00:07,275,0.93,275,0,226,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/-xSH1Mpa62Tf46vUqQSb2RCTHhGdGGFO4WLolSj0-WI.jpg,t3_1hdxbru
+MachineLearning,[D] What are the (un)written rules of deep learning training ,"Disclaimer: I posted this in r/learnmachinelearing first, but the sub seems to be more concerned with very basic questions, courses and hiring, so feel free to remove it if it doesn't fit here (tho I think that also fits this sub as a discussion).
+
+I now have a few years of experience building and training different model architectures, I know most of the basic theory and am able to follow most papers. So my question goes into a more methodological direction. While I am able to successfully build models for a number of applications, a lot of the time this is to a large extend guesswork. I try out different stuff and see what sticks. I know there is a lot of research in the direction of interpretability going on, but this is not directly the direction I want to go with this. Instead I want to ask you all what general advice you have on the training process, what are some practical observations, rules of thumb, approaches you take that are not described in a paper or theoretical ml class. For example:
+
+- How do you analyze gradients in your model. I know how to do some very basic plots in this regard, but would be interested in your methods and how you read them from a practical perspective?
+
+- How do you visualize temporal instabilities between optimizer steps resulting from e.g. a too large learning rate?
+
+- How do you determine appropriate regularization?
+
+- What are your rules of thumb for diminisheing returns during a training run?
+
+- How do you tune your hyperparameters? I eyeballed them more or less and also used optuna for this in the past.
+
+- What are some important intuitions, unwritten rules and pitfalls during training in your opinion?
+
+- What are your debugging steps when a model does not perform as expected?
+
+- What tricks do you actually use? There are lots of small tricks (EMA, obscure activation functions, ...) that promise some gains, but what do you actually use?
+
+- How does your approach differ when you do a transformer, CNN, diffusion model, ...
+
+- Some general opinions or tips that I might have missed above. 
+
+University classes and online resources mostly teach the basics or theoretical foundation, which is very important, but in practice only part of the story. Real world experience also helps, but you only get so far with trial and error and might miss something useful.
+I am aware of the blog posts by Karpathy on the training of neural networks and look for more resources in this direction.
+
+I am happy to here your replies on this arguably broad topic. ",floriv1999,1he07vr,https://reddit.com/r/MachineLearning/comments/1he07vr/d_what_are_the_unwritten_rules_of_deep_learning/,https://www.reddit.com/r/MachineLearning/comments/1he07vr/d_what_are_the_unwritten_rules_of_deep_learning/,2024-12-14 10:29:02,50,0.87,50,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1he07vr
+MachineLearning,"[D] NVIDIA’s hostages: A Cyberpunk Reality of Monopolies
+","In AI and professional workstations, NVIDIA's dominance feels like a suffocating monopoly. Their segmented product lines widen the gap between consumer and professional GPUs, particularly in VRAM, performance, and price.
+
+AI enthusiasts struggle with prohibitive costs for GPUs equipped with sufficient VRAM. The reliance on CUDA cores—a proprietary standard—further locks developers into NVIDIA’s ecosystem, stifling competition and innovation.
+
+NVIDIA’s control extends beyond hardware, as their CUDA platform discourages adoption of open, competitive solutions. This feeds a cyberpunk dystopia where corporations consolidate power, leaving consumers and developers with few choices.
+
+Why does the tech world remain complicit? Why aren’t we pursuing alternative hardware architectures or broader software compatibility beyond CUDA? AMD’s ROCm is a start, but more aggressive development and policy interventions are needed to challenge NVIDIA’s grip.
+
+Until when will this continue? Who will stand up for the end consumer?",SevenShivas,1hdjklf,https://reddit.com/r/MachineLearning/comments/1hdjklf/d_nvidias_hostages_a_cyberpunk_reality_of/,https://www.reddit.com/r/MachineLearning/comments/1hdjklf/d_nvidias_hostages_a_cyberpunk_reality_of/,2024-12-13 19:02:54,31,0.61,31,0,23,0,0,False,False,True,False,False,Discussion,self,t3_1hdjklf
+MachineLearning,Curated Corpus for U.S. Health Insurance Applications [P] [R],,tpafs,1he14fo,https://reddit.com/r/MachineLearning/comments/1he14fo/curated_corpus_for_us_health_insurance/,https://github.com/TPAFS/hicric,2024-12-14 11:36:37,0,0.33,0,0,0,0,0,False,False,False,False,False,Research,https://b.thumbs.redditmedia.com/neXQ6PQq1HS-6BASsO31cD98vX-av52hINTe9GUR5kI.jpg,t3_1he14fo
+MachineLearning,[D]Dataset for my research paper,"Are therw any datasets which contains images both generated by models like stability,midjourney,runway and real images and need data of noise for both of them",eulasimp12,1he141v,https://reddit.com/r/MachineLearning/comments/1he141v/ddataset_for_my_research_paper/,https://www.reddit.com/r/MachineLearning/comments/1he141v/ddataset_for_my_research_paper/,2024-12-14 11:35:51,0,0.5,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1he141v
