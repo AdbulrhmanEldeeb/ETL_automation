@@ -1,0 +1,185 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Math wrapped ,"Hello everyone.
+
+Since it is that time of the year to do retrospectives, it could be nice to do it for math in general. What have been highlights in mathematics this year (research or not) ? What's have been important or what's did you observe in the community ? And what kind of math did you do ?",VitaaSerena,1heq193,https://reddit.com/r/math/comments/1heq193/math_wrapped/,https://www.reddit.com/r/math/comments/1heq193/math_wrapped/,2024-12-15 10:38:05,34,0.91,34,0,6,0,0,False,False,True,False,False,,,t3_1heq193
+math,"What does it mean for a proof to be ""rigorous""?","One thing that I'm hearing a lot more now than ever is the idea of a proof being ""rigorous"". Are there certain kinds/methods of proofs that are considered more or less rigorous than others? How does one know that their proof is rigorous?
+
+Currently, my best guess as to what this could possibly mean is that it's a proof that resorts to the conclusions of other results as minimally as possible unless that result is popular enough to almost be common knowledge. Though, admittedly, I am only basing this on how my professor's proofs look. Does anyone have any insight as to what this actually means? ",Ashamed_Economy4419,1hefusj,https://reddit.com/r/math/comments/1hefusj/what_does_it_mean_for_a_proof_to_be_rigorous/,https://www.reddit.com/r/math/comments/1hefusj/what_does_it_mean_for_a_proof_to_be_rigorous/,2024-12-14 23:46:55,181,0.93,181,0,60,0,0,False,False,True,False,False,,,t3_1hefusj
+math,I just want to say that I love ε-neighborhoods!,"I’m mostly making this post to give a lighthearted shoutout to how much I liked my analysis course this semester, but I’m also making it partially as advice to figure students who are worried about the language of real analysis. 
+
+I took analysis as a non-math major this semester and was able to get an A in the class. I think a big part of my success was internalizing the topological versions of definitions for things like convergence. If I were to give one piece of advice to future analysis students who don’t like using quantifiers all that much, it would be to think about things in terms of ε-neighborhoods, which either your professor or textbook will likely mention. It’s a great way to actually visualize some of the more seemingly complicated definitions that are discussed in the class. ",wtfigolmao,1heffz3,https://reddit.com/r/math/comments/1heffz3/i_just_want_to_say_that_i_love_εneighborhoods/,https://www.reddit.com/r/math/comments/1heffz3/i_just_want_to_say_that_i_love_εneighborhoods/,2024-12-14 23:25:45,126,0.94,126,0,12,0,0,False,False,True,False,False,,,t3_1heffz3
+math,"People who have had low undergraduate GPAs, how did you get into graduate school?","I have a pretty poor undergraduate GPA for various reasons. One of the main reason was because I thought I wanted to study Computer Science, but I ended up failing and getting Cs in a lot of those classes. However, I realized that I never liked Computer Science. Rather I liked seeing how mathematics could be used in it. Nevertheless, I haven't done that well in my undergraduate math classes the first two years because I was more focused on my computer science courses. However, this semester I think I will finish all my classes with at least an B- to an A in all of four math classes, this semester. I was wondering if there's still time to improve my GPA, so that I may be competitive for PhD and masters programs. ",AtomicSkunk,1hendm2,https://reddit.com/r/math/comments/1hendm2/people_who_have_had_low_undergraduate_gpas_how/,https://www.reddit.com/r/math/comments/1hendm2/people_who_have_had_low_undergraduate_gpas_how/,2024-12-15 07:15:23,27,0.94,27,0,11,0,0,False,False,True,False,False,,,t3_1hendm2
+math,OEIS Donation Drive,"[https://oeisf.org/donate/](https://oeisf.org/donate/)
+
+Doron Zeilberger's Opinion 124 can be summarized based on its title by the sentence ""A Database is Worth a Thousand Mathematical Articles"".  I think that this is a fair assessment, since a good mathematical database can distill the essence of many thousands of mathematical articles. OEIS (On-Line Encyclopedia of Integer Sequences) is the best example of a good mathematical database.
+
+If you go to the main page of OEIS you can see the Year-end donation appeal. The link at the top of the post however, goes to the OEIS donation page  (it has useful info and links). 
+
+Somebody already made a post on this subreddit that mentions that OEIS is looking for a part-time or full-time Managing Editor (paid position).  The salary of the managing editor will probably be the biggest expense of the organization, especially if it's a full time position. Maybe, if enough math enthusiasts donate , OEIS can have the budged to hire a full-time managing editor for 5 or more years. More top candidates would want the position if it's full time, stable and long term.   ",Dacicus_Geometricus,1her9a4,https://reddit.com/r/math/comments/1her9a4/oeis_donation_drive/,https://www.reddit.com/r/math/comments/1her9a4/oeis_donation_drive/,2024-12-15 12:05:40,6,0.88,6,0,0,0,0,False,False,True,False,False,,,t3_1her9a4
+math,What work experience did you gain as a student which future employers love to hear about?,,petrastales,1hepu6v,https://reddit.com/r/math/comments/1hepu6v/what_work_experience_did_you_gain_as_a_student/,https://www.reddit.com/r/math/comments/1hepu6v/what_work_experience_did_you_gain_as_a_student/,2024-12-15 10:23:23,9,0.91,9,0,1,0,0,False,False,True,False,False,,,t3_1hepu6v
+math,What is the logic behind matrices and determinants?,"I'm having trouble trying to imagine the operations of a matrix and determinants. It's easy to imagine what + or - does. One adds while the other substracts, one can imagine with the help of real world objects. it is even easy to imagine for integration and differentiation as well. But the problem is, what the hell is a matrix? what is the logic behind it? We can represent a system of linear equations through it, find their solutions through it, but what is the logic behind it? How are we being able to do that? Why are we allowed to do that? Why are we allowed use determinants while finding the cross products of two vectors? These questions are baffling me, I'm just a high-school student, so if someone could please explain to me in simple terms, I would be grateful",Antik477,1hea45m,https://reddit.com/r/math/comments/1hea45m/what_is_the_logic_behind_matrices_and_determinants/,https://www.reddit.com/r/math/comments/1hea45m/what_is_the_logic_behind_matrices_and_determinants/,2024-12-14 19:16:05,85,0.88,85,0,98,0,0,False,False,True,False,False,,,t3_1hea45m
+math,Xmas inspiration,"Hi, my brother (14) sent me this xmas list :
+
+
+1. Calculus ll for dummies textbook+ workbook.
+
+2. Number theory textbook by Gareth A Jones and John M mairie.
+
+3. Real analysis textbook by John M mairie.
+
+4. Python all in one for dummies.
+
+There are at least 8 people getting him gifts so I want to get something inspired by rather than on his list. Any recommandations?",zoulove,1heen8n,https://reddit.com/r/math/comments/1heen8n/xmas_inspiration/,https://www.reddit.com/r/math/comments/1heen8n/xmas_inspiration/,2024-12-14 22:46:42,20,0.92,20,0,11,0,0,False,False,True,False,False,,,t3_1heen8n
+math,Why is the list of prime numbers so close to 1.15xln(x)+2,"When I graphed both of them, I found that 1.15xln(x)+2 was approximately the xth prime number. How come?",natepines,1he8qbr,https://reddit.com/r/math/comments/1he8qbr/why_is_the_list_of_prime_numbers_so_close_to/,https://www.reddit.com/r/math/comments/1he8qbr/why_is_the_list_of_prime_numbers_so_close_to/,2024-12-14 18:12:09,37,0.84,37,0,12,0,0,False,False,True,False,False,,,t3_1he8qbr
+math,Graph Theory Book Recommendations,"Hello
+
+I am looking for some recommendations for a book on graph theory. Ideally it would cover quantum graph invariants, Lovász theta numbers, and chromatic numbers. Thank you.",Slipthephilosopher,1heft9a,https://reddit.com/r/math/comments/1heft9a/graph_theory_book_recommendations/,https://www.reddit.com/r/math/comments/1heft9a/graph_theory_book_recommendations/,2024-12-14 23:44:37,13,0.9,13,0,2,0,0,False,False,True,False,False,,,t3_1heft9a
+math,How do you polish a unique insight?,"Students, including me, usually learn techniques and generalize problems. Good math requires more.
+
+How do you polish your own unique insight? Share with us your learned lessons and tricks.
+
+I will start; I look for the opposing or contrasting insight. e.g. How do reals in analysis differ from a discrete metric space? Are there akin theorems with the opposing insight?",xTouny,1hesvhm,https://reddit.com/r/math/comments/1hesvhm/how_do_you_polish_a_unique_insight/,https://www.reddit.com/r/math/comments/1hesvhm/how_do_you_polish_a_unique_insight/,2024-12-15 13:45:56,1,0.67,1,0,2,0,0,False,False,True,False,False,,,t3_1hesvhm
+math,Conway's base 13 function graph representation,"Hey, I've just made a python script to represent Conway's base 13 in both real and complexes numbers function with matplotlib and I was wondering if I made a mistake doing it:
+
+    import re
+    import matplotlib.pyplot as plt
+    import numpy as np
+    
+    def Conway_function(nombre: str):
+        """"""
+        nombre : chaine de caracteres representant un nombre à virgule en base 13
+    
+        """"""
+        typeA = r'^[0-9A-C]*,{1}[0-91-C]*A[0-9]*C[0-9]*$'
+        typeB = r'^[0-9A-C]*,{1}[0-91-C]*B[0-9]*C[0-9]*$'
+        
+        if re.search(typeA, nombre):
+            pattern = r'A[0-9]*C[0-9]*$'
+            match = re.findall(pattern, nombre)[0]
+            return float(match[1:].replace(""C"", "".""))
+        elif re.search(typeB, nombre):
+            pattern = r'B[0-9]*C[0-9]*$'
+            match = re.findall(pattern, nombre)[0]
+            return -float(match[1:].replace(""C"", "".""))
+        else:
+            return 0
+    
+    valid_numbers = []
+    x_values = []
+    y_values = []
+    
+    for i in range(13):
+        for j in range(13):
+            for k in range(13):
+                valid_numbers.append(f""{i},1A{j}C{k}"")
+                valid_numbers.append(f""{i},1B{j}C{k}"")
+            for k in range(13):
+                valid_numbers.append(f""-{i},1A{j}C{k}"")
+                valid_numbers.append(f""-{i},1B{j}C{k}"")
+    
+    for num in valid_numbers:
+        result = Conway_function(num)
+        x_values.append(num)
+        y_values.append(result)
+    
+    def convert_to_base13(value):
+        """"""Convertir un nombre flottant en base 13 (chaîne).""""""
+        if value == 0:
+            return ""0""
+        is_negative = value &lt; 0
+        value = abs(value)
+        integer_part = int(value)
+        fractional_part = value - integer_part
+    
+        digits = ""0123456789ABC""
+        base13_integer = """"
+        while integer_part &gt; 0:
+            base13_integer = digits[integer_part % 13] + base13_integer
+            integer_part //= 13
+    
+        base13_fraction = """"
+        while fractional_part &gt; 0 and len(base13_fraction) &lt; 10:
+            fractional_part *= 13
+            digit = int(fractional_part)
+            base13_fraction += digits[digit]
+            fractional_part -= digit
+    
+        base13_result = (""-"" if is_negative else """") + (base13_integer if base13_integer else ""0"")
+        if base13_fraction:
+            base13_result += ""."" + base13_fraction
+    
+        return base13_result
+    
+    plt.figure(figsize=(12, 8))
+    plt.plot(range(len(x_values)), y_values, marker=""o"", linestyle=""--"", color=""b"", label=""Conway_function"")
+    plt.xlabel(""Index des nombres valides"")
+    plt.ylabel(""Valeur de la fonction Conway (base 13)"")
+    plt.title(""Graphique de la fonction Conway"")
+    
+    xticks = plt.xticks()[0]
+    xtick_labels = [convert_to_base13(tick) for tick in xticks]
+    plt.xticks(xticks, xtick_labels)
+    
+    plt.legend()
+    plt.grid(True)
+    plt.show()
+    
+    complex_numbers = []
+    z_values = []
+    
+    for i in range(13):
+        for j in range(13):
+            for k in range(13):
+                complex_numbers.append(f""{i},1A{j}C{k}+{i},1B{j}C{k}j"")
+                complex_numbers.append(f""-{i},1A{j}C{k}+{i},1B{j}C{k}j"")
+    
+    for num in complex_numbers:
+        if ""+"" in num:
+            real_part, imag_part = num.split(""+"")
+            imag_part = imag_part.replace(""j"", """")
+        elif ""-"" in num:
+            parts = num.split(""-"")
+            real_part = parts[0]
+            imag_part = ""-"" + parts[1].replace(""j"", """")
+        real_result = Conway_function(real_part)
+        imag_result = Conway_function(imag_part)
+        z_values.append(complex(real_result, imag_result))
+    
+    plt.figure(figsize=(12, 8))
+    real_parts = [z.real for z in z_values]
+    imag_parts = [z.imag for z in z_values]
+    plt.scatter(real_parts, imag_parts, color=""purple"", label=""Conway_function (complexes)"")
+    plt.xlabel(""Partie réelle"")
+    plt.ylabel(""Partie imaginaire"")
+    plt.title(""Graphique de la fonction Conway (complexes)"")
+    plt.axhline(0, color='black', linewidth=0.5, linestyle=""--"")
+    plt.axvline(0, color='black', linewidth=0.5, linestyle=""--"")
+    plt.grid(True)
+    plt.legend()
+    plt.show()
+
+https://preview.redd.it/z59tuz6hn07e1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=d0b857bcfab1b784d9f371a2c21033b8490a3715
+
+https://preview.redd.it/mdbhbz6hn07e1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=1c992ca25e6266167126172f9c6f524266f1f521
+
+https://preview.redd.it/lwznez6hn07e1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=cfcbf2d4a864b541d5e511b60808891d17106d15
+
+https://preview.redd.it/148y307hn07e1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=0de3a5d00ecbed62b4eedd9dac8cf30e1a6a686a
+
+",Doctor_Molecule,1hessxz,https://reddit.com/r/math/comments/1hessxz/conways_base_13_function_graph_representation/,https://www.reddit.com/r/math/comments/1hessxz/conways_base_13_function_graph_representation/,2024-12-15 13:42:08,1,0.6,1,0,3,0,0,False,False,True,False,False,,,t3_1hessxz
+math,"Did the author Volker Halbach of ""The Logic Manual"" from Oxford University make a mistake in this passage explaining the semantics of predicate logic?","I am assuming that he meant that ""y"" stands for Paris, and not Rome, correct?
+
+https://preview.redd.it/t73vb29dmv6e1.png?width=883&amp;format=png&amp;auto=webp&amp;s=91f85d6ed8c64821d25872eb82b04589ca1941a8
+
+",TerribleAssociation3,1hec3in,https://reddit.com/r/math/comments/1hec3in/did_the_author_volker_halbach_of_the_logic_manual/,https://www.reddit.com/r/math/comments/1hec3in/did_the_author_volker_halbach_of_the_logic_manual/,2024-12-14 20:47:04,14,0.89,14,0,14,0,0,False,False,True,False,False,,,t3_1hec3in
+math,Bookstores for math in Porto and Lisboa?,"Hi, do you have recommendations of good bookstores for math in Portuguese cities of Porto and Lisboa?
+
+Thanks",zooond,1heng88,https://reddit.com/r/math/comments/1heng88/bookstores_for_math_in_porto_and_lisboa/,https://www.reddit.com/r/math/comments/1heng88/bookstores_for_math_in_porto_and_lisboa/,2024-12-15 07:20:51,2,0.75,2,0,0,0,0,False,False,True,False,False,,,t3_1heng88
+math,Permanent knowledge lifehack,"What do people actually mean by saying that technical(Math,Physics,chemistry, science with numbers/abstraction involved) need intellegence and non-technical(biology,history,languages) need memory? I have thought about this topic a LOT, but couldn't find single Reddit or Quora post about it, are some knowledges relatively ""permanent""? If they are, what are they called?What are they classified as? By relatively permanent i mean, ones that are lot easier to remind/re-learn after not being in touch with it for years and forgetting.
+
+You forget everything eventually after stopping learning it or not persuing work in it, but i think in some subjects like math, you invest majority  of the time cracking the abstraction of a concept, breaking it, understanding it . And minority of the time memorizing. And i think that's the reason that math education is so admired by society. Some topic take same amount of time to re-learn that was spent to learn it first time, some take less. What is your opinion on this?",jemala4424,1heqbyo,https://reddit.com/r/math/comments/1heqbyo/permanent_knowledge_lifehack/,https://www.reddit.com/r/math/comments/1heqbyo/permanent_knowledge_lifehack/,2024-12-15 11:00:20,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1heqbyo
+math,How to send errata to an author with no website?,"I'm reading *The Big Book of Real Analysis* by Syafiq Johar, and spotted a small error.  I wanted to write to him and let him know in case he wants corrections for a future edition.  However, I can't find a website for him or his publication.
+
+In cases like this, how do you get in touch with an author?  I've always just used people's websites but is there a more ""official"" way of doing this?",axiom_tutor,1he8emk,https://reddit.com/r/math/comments/1he8emk/how_to_send_errata_to_an_author_with_no_website/,https://www.reddit.com/r/math/comments/1he8emk/how_to_send_errata_to_an_author_with_no_website/,2024-12-14 17:57:27,19,0.88,19,0,3,0,0,False,False,True,False,False,,,t3_1he8emk
+math,"Math undergrads, what do you do now?","Those who have graduated with a degree in mathematics alone, what do you do now? (This includes those who are about to graduate and have concrete plans for the near future)",ForsakenMuffin1635,1hdz513,https://reddit.com/r/math/comments/1hdz513/math_undergrads_what_do_you_do_now/,https://www.reddit.com/r/math/comments/1hdz513/math_undergrads_what_do_you_do_now/,2024-12-14 09:04:59,79,0.92,79,0,133,0,0,False,False,True,False,False,,,t3_1hdz513
+math,Why is Algebra Chapter 0 by Aluffi so expensive?,"Trying to get into category theory and chapter 0 was recommended, but can’t seem to find a copy under $80. Is there a reason why this book is on the pricier side? Maybe hasn’t been reprinted in a while?",bitchslayer78,1hds66c,https://reddit.com/r/math/comments/1hds66c/why_is_algebra_chapter_0_by_aluffi_so_expensive/,https://www.reddit.com/r/math/comments/1hds66c/why_is_algebra_chapter_0_by_aluffi_so_expensive/,2024-12-14 01:49:42,135,0.9,135,0,62,0,0,False,False,True,False,False,,,t3_1hds66c

@@ -1,0 +1,407 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,4 YEARS Work on My Portfolio / Web Desktop Environment,,DustinBrett,1he86aq,https://reddit.com/r/webdev/comments/1he86aq/4_years_work_on_my_portfolio_web_desktop/,https://i.redd.it/wiose4bzpu6e1.gif,2024-12-14 17:46:31,804,0.97,804,0,85,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/iUlaKWeMRyKEXuFKMy4R5nCcJ5PlRuDmnZvV1dasKGc.jpg,t3_1he86aq
+webdev,I build a free Tailwind CSS grid tool,,g_perales,1hef0ev,https://reddit.com/r/webdev/comments/1hef0ev/i_build_a_free_tailwind_css_grid_tool/,https://i.redd.it/1qlrc9kuaw6e1.gif,2024-12-14 23:04:26,573,0.97,573,0,26,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/-W23ma8dWaHbDqFqYJnpsuIM0YKfZ4SXT4dVRW-ej_M.jpg,t3_1hef0ev
+webdev,I built a tool to help people fight their landlords,,Barber-Queasy,1he52up,https://reddit.com/r/webdev/comments/1he52up/i_built_a_tool_to_help_people_fight_their/,https://i.redd.it/12iub7s40u6e1.png,2024-12-14 15:20:37,116,0.7,116,0,22,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/N9AdovKT0JFkVzcGHboMVJX54SHQ_I2hkdA9OsQXsDs.jpg,t3_1he52up
+webdev,"I made a free, and no-signup Kanban board",,zoniix,1heb1cb,https://reddit.com/r/webdev/comments/1heb1cb/i_made_a_free_and_nosignup_kanban_board/,https://www.reddit.com/gallery/1heb1cb,2024-12-14 19:57:48,111,0.94,111,0,16,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/v1lrPtsTxNTuKyP7fhRpoY3Yec69Ql6BJ_b7xcDSFk8.jpg,t3_1heb1cb
+webdev,✨ I made the best GitHub contributions chart generator out there! Take a look back at your coding year in style,,world1dan,1he7hmb,https://reddit.com/r/webdev/comments/1he7hmb/i_made_the_best_github_contributions_chart/,https://i.redd.it/m2bfoms8ku6e1.png,2024-12-14 17:14:14,36,0.78,36,0,12,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/p5Ppb_131REu054u5rdM2npHGBzsLGBO1XEJif0qrjE.jpg,t3_1he7hmb
+webdev,My friends and I made a daily planner app with your energy in mind,"Hey there!
+
+My friends and I built [Lifestack](https://lifestack.ai/), a daily planner app that helps people schedule tasks during their personal peak productivity times using health data from wearables (e.g. Oura, Fitbit, and Apple Watch)
+
+If this sounds up your alley, give it a try!",demind-inc,1he96vo,https://reddit.com/r/webdev/comments/1he96vo/my_friends_and_i_made_a_daily_planner_app_with/,https://i.redd.it/vrpz8gvmyu6e1.gif,2024-12-14 18:33:55,35,0.88,35,0,8,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/Hr7nZijXadGX-sXTitP18-ynbtuFQm3TE20HckbNiKo.jpg,t3_1he96vo
+webdev,I'm really enjoying AdonisJS. My new preferred full-stack framework.,"There was a post (last week I think) about AdoniJS. The comments were along the lines of ""oh great another JS framework"", but I thought I'd try it for a new private project.
+
+Really glad I did. It feels like a Typescript version of Laravel. Highly recommended to add to your toolbox (it's frontend framework agnostic so you can use whatever frontend you like).",Mr-Silly-Bear,1hepzmw,https://reddit.com/r/webdev/comments/1hepzmw/im_really_enjoying_adonisjs_my_new_preferred/,https://www.reddit.com/r/webdev/comments/1hepzmw/im_really_enjoying_adonisjs_my_new_preferred/,2024-12-15 10:34:43,43,0.81,43,0,24,0,0,False,False,True,False,False,,self,t3_1hepzmw
+webdev,[Showoff Saturday] - I've been making a frame by frame animation web app,,whothatcodeguy,1heciyt,https://reddit.com/r/webdev/comments/1heciyt/showoff_saturday_ive_been_making_a_frame_by_frame/,https://i.redd.it/994azldmpv6e1.gif,2024-12-14 21:06:50,27,0.89,27,0,3,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/3FVAH5w7vG5fS2NM_LuZoq7UhocumFscjnQiRYi8HGI.jpg,t3_1heciyt
+webdev,"Introducing The ""Javascript Fatigue"" stack: a template to start NodeJS web applications with 0 dependencies and the MVC architecture",[https://github.com/the-zen-stack/the-javascript-fatigue-stack/tree/main](https://github.com/the-zen-stack/the-javascript-fatigue-stack/tree/main),Matangub,1hec9jj,https://reddit.com/r/webdev/comments/1hec9jj/introducing_the_javascript_fatigue_stack_a/,https://www.reddit.com/r/webdev/comments/1hec9jj/introducing_the_javascript_fatigue_stack_a/,2024-12-14 20:55:01,19,0.73,19,0,12,0,0,False,False,True,False,False,,self,t3_1hec9jj
+webdev,I think we should do a subreddit-wide hackathon! (If mods allow it),"I noticed a ton of cool stuff posted here yesterday on showoff saturday and I think it would be really cool to do a week/month long hackathon and show off what we built on a showoff saturday. With something like `""[Hackathon submission] - Project name""` as the post title.
+
+I for one would like the challenge, there are almost 3m members here and I think some pretty cool stuff would come out of it.
+
+I don't think a prize is even necessary, but maybe as a prize top 3 winner's projects could be stickied on a post for about a week or so. Again, there are almost 3m members, the attention those projects would get from the stickied post would worth at least a few hundred bucks.
+
+We can track the legitimacy of the projects by creating date and progress of the projects' GitHub repos so there won't be people showing something they've built before.
+
+What do you think?",mekmookbro,1hesasi,https://reddit.com/r/webdev/comments/1hesasi/i_think_we_should_do_a_subredditwide_hackathon_if/,https://www.reddit.com/r/webdev/comments/1hesasi/i_think_we_should_do_a_subredditwide_hackathon_if/,2024-12-15 13:12:20,22,0.74,22,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hesasi
+webdev,"I Made a Free, Open-Source Web App for Image &amp; 3D Model Generation ",,fyrean,1hehyqp,https://reddit.com/r/webdev/comments/1hehyqp/i_made_a_free_opensource_web_app_for_image_3d/,https://www.reddit.com/gallery/1hehyqp,2024-12-15 01:37:09,18,0.76,18,0,2,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/7I0aiTP4rjedUu-ixucvGZdd1sUlr3G6FvJnfY7E10k.jpg,t3_1hehyqp
+webdev,I made a beautiful website to view Bluesky Analytics,,TheGreaT1803,1he9jc2,https://reddit.com/r/webdev/comments/1he9jc2/i_made_a_beautiful_website_to_view_bluesky/,https://i.redd.it/omeedhhc1v6e1.gif,2024-12-14 18:49:54,13,0.93,13,0,3,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/CREX8GXLcIkqMB7wnubzxHwGxpEcuOrT-MASRSkjMJo.jpg,t3_1he9jc2
+webdev,Portfolio Advice ,"Hi everyone! I'm a newcomer to frontend/software development and I'm absolutely loving it. 
+
+I've been exploring so many amazing portfolios shared in this community over time (from very cool gamified/3D experiences to elegant traditional layouts), as I was trying to figure out how to approach my own.
+
+I decided to go with a minimalist design, though packed with subtle micro-interactions which (hopefully) add flair and tactility without comprising the performance. One of the projects I featured is actually a flashy gamified 3D Arcade experience, but I kept the main portfolio more understated and clean - I hope I’m not shooting myself in a foot with that choice?
+
+Would greatly appreciate any feedback/advice on the portfolio! Do you think it is competitive enough to be applying for junior positions/freelancing or is there something I should add?
+
+You can check the portfolio here: www.byilya.com Thank you!
+",Mammoth_Oil9206,1he8xdd,https://reddit.com/r/webdev/comments/1he8xdd/portfolio_advice/,http://byIlya.com,2024-12-14 18:21:30,8,0.91,8,0,0,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1he8xdd
+webdev,I built my first website for my small business,,MettaWorldPeece,1he9aac,https://reddit.com/r/webdev/comments/1he9aac/i_built_my_first_website_for_my_small_business/,https://i.redd.it/1zxhab1uyu6e1.png,2024-12-14 18:38:15,10,0.78,10,0,10,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/L-Wu1sWLVG1wQJ1lq2axAZJL4ZoMua1Bx0K4nnh5KiE.jpg,t3_1he9aac
+webdev,I made a website where we implement Arxiv papers step-by-step,,DataBaeBee,1herk2q,https://reddit.com/r/webdev/comments/1herk2q/i_made_a_website_where_we_implement_arxiv_papers/,https://i.redd.it/b804a6ir907e1.png,2024-12-15 12:26:02,7,0.82,7,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/QJv_iw4_Xub4BTeWEXdEMvRP0qJ7588yadjXsY13-dM.jpg,t3_1herk2q
+webdev,Please Roast My Landing Page,"This isn’t an attempt to advertise—it’s simply a heartfelt request for honest, constructive feedback.
+
+As a solo entrepreneur focused on app design and development (which takes up most of my time), I find it tough to step back and view my app objectively after months of work, particularly when it comes to the overall marketing communication.
+
+Looking at my relatively low download numbers, I worry that I’m not effectively communicating the benefits and quality of my app.
+
+I’m also not very familiar with web development, so I’d appreciate any technical improvement suggestions as well. I created the landing page using plain HTML/CSS.
+
+What do you think I could improve?
+
+[https://appahead.studio/apps/polycapture/](https://appahead.studio/apps/polycapture/)",mrtnlxo,1her3z9,https://reddit.com/r/webdev/comments/1her3z9/please_roast_my_landing_page/,https://www.reddit.com/r/webdev/comments/1her3z9/please_roast_my_landing_page/,2024-12-15 11:55:57,4,0.67,4,0,11,0,0,False,False,True,False,False,,self,t3_1her3z9
+webdev,Is there a good repo I can clone to learn from?,"I’m an experienced dev but I mostly work at the C/C++ level. I learn a lot from reading other people’s code as a first step and then iterating on that. 
+
+I’m curious if there’s a good repo out there that I can clone and then play around with to learn from. Mostly trying to get rock solid on JavaScript/React and also see a ton of CSS at play. If there’s backend stuff that’s cool too. 
+
+Edit: I already know css and html. Mostly want to get really good at JavaScript and its integration with the other two technologies. ",pouyank,1he82d5,https://reddit.com/r/webdev/comments/1he82d5/is_there_a_good_repo_i_can_clone_to_learn_from/,https://www.reddit.com/r/webdev/comments/1he82d5/is_there_a_good_repo_i_can_clone_to_learn_from/,2024-12-14 17:41:31,5,1.0,5,0,5,0,0,False,False,True,False,False,,self,t3_1he82d5
+webdev,"CSS only scroll animations (personal portfolio, scroll animations not supported in safari) ",,artbyiain,1he6f5n,https://reddit.com/r/webdev/comments/1he6f5n/css_only_scroll_animations_personal_portfolio/,https://iain.design,2024-12-14 16:24:07,5,1.0,5,0,3,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1he6f5n
+webdev,Finally launched my first SaaS product after a lot of years of doing agency work,"I've always wanted to launch a product on its own, but time was always the limiting factor, so it feels really good to get this out in the world [https://wphaven.app/](https://wphaven.app/) The service itself is not really geared towards developers but more for agencies and direct customers.
+
+I handled all of the design, strategy, and content, so I'm interested in any level criticism or feedback anyone might offer. We're a small team that regularly uses Wordpress and Laravel, and this was our first project building with the TALL (tailwind, alpine, laravel, livewire) stack and my team has been absolutely loving the approach after trying a couple of sites with Inertia (and a ton with just vanilla Laravel before that). We used this tech to build a whole system for us to automate our weekly maintenance in a nondestructive way, provide a customer dashboard with lots of features, manage all of our accounts, etc.",J_ron,1he5eu4,https://reddit.com/r/webdev/comments/1he5eu4/finally_launched_my_first_saas_product_after_a/,https://www.reddit.com/r/webdev/comments/1he5eu4/finally_launched_my_first_saas_product_after_a/,2024-12-14 15:36:39,5,1.0,5,0,3,0,0,False,False,True,False,False,,self,t3_1he5eu4
+webdev,SPA Stateless Authentication,"I’m building a SPA application to interact with a REST API I built. The API is serverless and stateless so “sessions” only last as long as a single request. I’m looking for good guides/resources on how to accomplish this. Ideally without cookies as the API already has about 4 different auth methods (stakeholder requirement, don’t ask) and I don’t really want to add yet another one, but I’m willing to accept this is the best way. Thanks!",ViolentPacifist_,1heppal,https://reddit.com/r/webdev/comments/1heppal/spa_stateless_authentication/,https://www.reddit.com/r/webdev/comments/1heppal/spa_stateless_authentication/,2024-12-15 10:12:54,3,1.0,3,0,2,0,0,False,False,True,False,False,Question,self,t3_1heppal
+webdev,Send push notifications to mobile browser without PWA ,"Hi! 
+
+As the title suggests, is there a way to send push notifications to mobile browser without installing it as a PWA? Like it can be done for browser desktop.
+
+Thank you! ",Sapessiii,1hepnpm,https://reddit.com/r/webdev/comments/1hepnpm/send_push_notifications_to_mobile_browser_without/,https://www.reddit.com/r/webdev/comments/1hepnpm/send_push_notifications_to_mobile_browser_without/,2024-12-15 10:09:32,3,1.0,3,0,5,0,0,False,False,True,False,False,,self,t3_1hepnpm
+webdev,"Fornax: Bun-powered Angular-inspired web framework
+","I have been working for the past couple of weeks on a fairly ambitious project - a Bun web framework inspired by Angular. So far, I have component decorators functional - with components being built out using Google's incremental-dom. I have live reload working. I'm focusing at the moment on getting routing to work without full page reloads, getting Output decorators to work, finishing up services, and dependency injection (hand-in-hand with services). I'm aiming to try and recreate as many Angular features as possible. I just made the repo public and would love and appreciate any and all support or feedback. Thank you!
+
+[https://github.com/TBosak/fornax](https://github.com/TBosak/fornax)",tbosk,1hejp9v,https://reddit.com/r/webdev/comments/1hejp9v/fornax_bunpowered_angularinspired_web_framework/,https://www.reddit.com/r/webdev/comments/1hejp9v/fornax_bunpowered_angularinspired_web_framework/,2024-12-15 03:16:53,3,1.0,3,0,2,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1hejp9v
+webdev,How do you currently use metric tools in your web and mobile apps?,I think the learning curve is a bit steep for me and I’m wondering what might be easier and simple to learn and understand. ,SpOOkWins,1he74ht,https://reddit.com/r/webdev/comments/1he74ht/how_do_you_currently_use_metric_tools_in_your_web/,https://www.reddit.com/r/webdev/comments/1he74ht/how_do_you_currently_use_metric_tools_in_your_web/,2024-12-14 16:57:29,3,1.0,3,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1he74ht
+webdev,[Showoff Saturday] creating invoice was annoying so i built this app ,"recently i had to create invoice a lot, so i built this small tool that work well to create invoice and save them as template for re-usage
+
+link: [https://invoicepdf.dev](https://invoicepdf.dev)  
+use: next.js, react-pdf, tailwindcss",dorianbaffier,1he66pq,https://reddit.com/r/webdev/comments/1he66pq/showoff_saturday_creating_invoice_was_annoying_so/,https://www.reddit.com/r/webdev/comments/1he66pq/showoff_saturday_creating_invoice_was_annoying_so/,2024-12-14 16:13:06,3,1.0,3,0,1,0,0,False,False,True,False,False,,self,t3_1he66pq
+webdev,[Showoff Saturday] FlagDraw.IO: A flag coloring game,"I just made [FlagDraw.IO](http://FlagDraw.IO), a game to challenge your flag knowledge.
+
+Right now, there are only two game modes: Timed and Classic. In Timed, you have 1 minute to correctly color as many flags as possible, and in Classic, you have five lives.
+
+[Images](https://imgur.com/a/C4gR32F)
+
+In total, there are 269 flags in the game. ^(Nice)
+
+**How I made it:**
+
+* Designed in Figma
+* Built with SvelteKit
+* Hosted on Vercel
+* Flag Source: [lipis/flag-icons](https://github.com/lipis/flag-icons) (Would have lost my sanity without them)
+
+Initially I tried building it in Defold and Flutter. But with SVG support in browsers, it was much easier this way.
+
+Let me know how you like it, and I'd love your feedback to make the game better!",wirklich1,1he4vnu,https://reddit.com/r/webdev/comments/1he4vnu/showoff_saturday_flagdrawio_a_flag_coloring_game/,https://www.reddit.com/r/webdev/comments/1he4vnu/showoff_saturday_flagdrawio_a_flag_coloring_game/,2024-12-14 15:10:59,3,1.0,3,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/_wbCDNGePL51h4lxg50ZhjTwfCbXKc9h_sI6o5np3RI.jpg,t3_1he4vnu
+webdev,Quick portfolio review? Sending applications tomorrow.,,Hawtin99,1heqqtu,https://reddit.com/r/webdev/comments/1heqqtu/quick_portfolio_review_sending_applications/,https://liamhawtin.com,2024-12-15 11:29:28,2,1.0,2,0,0,0,0,False,False,False,False,False,Discussion,default,t3_1heqqtu
+webdev,Best Website Builder for a Gaming League,"Looking to build a website for a Call of Duty League that includes the following:
+
+- Account creation
+- League sign ups
+- Schedules
+- Standings
+- Members manually enter match results that update standings
+
+Example: https://cod.esrl.gg/
+
+I have experience using wix in the past for school projects, but little to no background in coding. Willing to learn and make it a long term project.",BeeOnTheTee,1hemu8l,https://reddit.com/r/webdev/comments/1hemu8l/best_website_builder_for_a_gaming_league/,https://www.reddit.com/r/webdev/comments/1hemu8l/best_website_builder_for_a_gaming_league/,2024-12-15 06:36:36,2,0.67,2,0,2,0,0,False,False,True,False,False,Question,self,t3_1hemu8l
+webdev,"I made a 6 track audio looper with SolidJS, Rust, Tauri, and Tailwind","https://preview.redd.it/bodut4y8kx6e1.png?width=1728&amp;format=png&amp;auto=webp&amp;s=d9d1f405ccbd2a71f532408cd9447a3681a52b44
+
+[Link to demo](https://www.youtube.com/watch?v=tmZAew8MZ-Q&amp;lc=UgwCs7TRIIKJUwdgtih4AaABAg)
+
+This is a first pass at a Rust driven audio looper with FX. I plan on iterating on and rewriting much of this application, and once I am happy with it, I would love to get some contributions.
+
+The main issue right now stems from having to use crossbeam to send samples to a DSP library, which gives worse performance and can cause audio pops, especially when recording or using heavyweight software in the background. I have another backend repo that uses iterators, and a double buffer for recording that performs much better, but the reverb algorithm is not as nice as the one in FunDSP. I plan on maybe porting that over to a more lightweight solution.
+
+I also ran into some nastiness with the audiograph, as the library I used needs a lot of this information at compile time, and I didn't want to use macros, so there is some repeated code. I think there may be an alternative way to set this up, but I did some pretty hacky stuff there for the time being.
+
+My goal would be to get this performant enough to run on a RaspberryPi, although I may have overestimated the Pi's ability to render WebView performantly.
+
+You can find the source at the repo below:
+
+[https://github.com/lukeweston1234/solid-tauri-looper](https://github.com/lukeweston1234/solid-tauri-looper)
+
+[Here is an associated blog post going over the creation, and issues](https://lukeweston.dev/blogs/real-time-audio-looper-in-rust).",throwaway1230-43n,1hejnhz,https://reddit.com/r/webdev/comments/1hejnhz/i_made_a_6_track_audio_looper_with_solidjs_rust/,https://www.reddit.com/r/webdev/comments/1hejnhz/i_made_a_6_track_audio_looper_with_solidjs_rust/,2024-12-15 03:14:05,2,1.0,2,0,0,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/GLwm0GIVpuNeRA8Vx2oL7X66wIIavwYbCz55xGa-n2s.jpg,t3_1hejnhz
+webdev,"terminal-ts — A Typescript library to build terminal-style text interfaces with pseudo-real file systems. In the very early stages, but I thought I'd share. ",,phaethornis-idalie,1he5lz1,https://reddit.com/r/webdev/comments/1he5lz1/terminalts_a_typescript_library_to_build/,https://github.com/emmalexandria/terminal-ts,2024-12-14 15:46:11,2,0.75,2,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/5n0tyauTyMDKmkS-0xWvdDvl2p9X87pbh3_bUTw-VRw.jpg,t3_1he5lz1
+webdev,[Showoff Saturday] I invented an original word puzzle concept and made a web based game out of it.,"WordGlyph - Build letters stick by stick to find the hidden word using the least amount of sticks.
+
+Https://wordglyph.xyz
+
+No libraries.  css and JS. I tried to use AI to bootstrap the game from pictures of the board game version I made. It couldn't do it. I tried to describe the game in detail but it failed to make the matrices. So I had to get the basic matrices working myself and once I showed AI my code then it finally understood what I was doing and it helped out. Claude was certainly better than openai. I will also say that currently there is no way someone who does not know how to code could have made this game just with AI. So many times it got itself stuck it a pit. So many times I'd have to figure out the issue and tell AI why and then it'd  say ""I see the issue now."" Often times it would try to solve a bug in a convoluted way. And I'd see what really was going and say why not just do this and it would always reply ""Your right the simpler approach is much better!""",Atvenice,1he4q46,https://reddit.com/r/webdev/comments/1he4q46/showoff_saturday_i_invented_an_original_word/,https://www.reddit.com/r/webdev/comments/1he4q46/showoff_saturday_i_invented_an_original_word/,2024-12-14 15:03:40,2,1.0,2,0,1,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1he4q46
+webdev,Hi Everyone I made a site to help find good first issues in open source projects,"I have created this website [ContributeOpenSource.com](http://contributeopensource.com/) to help new developers find some first issues in open source projects, as right now on other websites I’ve found they don’t offer many options to search or filter languages.
+
+also i am looking for more recommendation ( like what can I add to this)",sanjeev284,1hetymd,https://reddit.com/r/webdev/comments/1hetymd/hi_everyone_i_made_a_site_to_help_find_good_first/,https://www.reddit.com/r/webdev/comments/1hetymd/hi_everyone_i_made_a_site_to_help_find_good_first/,2024-12-15 14:43:48,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1hetymd
+webdev,Free Figma library with components for fast prototyping,,MissionToAfrica,1het9z4,https://reddit.com/r/webdev/comments/1het9z4/free_figma_library_with_components_for_fast/,https://veryfront.com/figma-kit,2024-12-15 14:07:45,1,1.0,1,0,0,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/FXWZLd3q53B2_QXNnaFNEte6ms1dGngJjlj-tUtLNUs.jpg,t3_1het9z4
+webdev,Simple URL Shortener with only OpenResty (NGINX),"I was just starting to explore NGINX and OpenResty and thought of building a minimal URL shortener with it [GitHub Repo](https://github.com/godlixe/openresty-url-shortener). It is an in-memory store URL shortener. It's just a proof-of-concept of how OpenResty as a web server can also be used to build more complex apps. Here is the \`nginx.conf\` file:
+
+    events {
+        worker_connections 768;
+        multi_accept on;
+    }
+    
+    http {  
+        lua_shared_dict map 100m;
+        
+        server {
+            
+            listen 80;
+    
+            server_name localhost;
+            
+            location /set {
+                content_by_lua_block{
+                    local map = ngx.shared.map
+                    local args = ngx.req.get_uri_args()
+    
+                    local key = args[""key""]
+                    local val = args[""val""]
+    
+                    map:set(key, val)
+    
+                    ngx.status = 200
+                    ngx.say(""success"")
+                }
+    
+            }
+    
+            location /r {
+                content_by_lua_block {
+                    local map = ngx.shared.map
+                    local uri = ngx.var.uri
+                    local key = ngx.re.sub(uri, ""^/r/"", """")
+    
+                    
+                    local val, err = map:get(key)
+                    if not val then
+                        ngx.status = 404
+                        return ngx.say(""url not found"")
+                    end
+    
+                    return ngx.redirect(val);
+                }
+            }
+    
+        }
+    }
+    
+    
+    
+
+",godlixe,1hera8n,https://reddit.com/r/webdev/comments/1hera8n/simple_url_shortener_with_only_openresty_nginx/,https://www.reddit.com/r/webdev/comments/1hera8n/simple_url_shortener_with_only_openresty_nginx/,2024-12-15 12:07:26,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hera8n
+webdev,need help with a project,"[https://github.com/GreenBeret9/LiveChart.git](https://github.com/GreenBeret9/LiveChart.git)   
+so it's a live price chart, uses the Bybit websocket and the api to fetch the last 100 candles.  
+i am just stuck to do anything, the script is getting larger, I have not been able to break it down and separate it into multiple files, i just get lost in the middle, it stops working, i am not familiar with frameworks i get even more lost when i try to use them.   
+I tried converting the code to typescript but just failed horribly.  
+the ultimate goal for me, is to be able to trade on this chart, one-click system, clicking to place order, add stop loss, add targets, .. etc being able to switch symbol, switch timeframes, add a database to store the candles or cache them on memory, i want to run backtests, 
+
+if anyone who has experience building good software, what do you suggest for me, to stop complicating things .. (fyi even AI couldnt help me, i feel like chatgpt starting to become so dumb recently)",General-Carrot-4624,1hepylr,https://reddit.com/r/webdev/comments/1hepylr/need_help_with_a_project/,https://www.reddit.com/r/webdev/comments/1hepylr/need_help_with_a_project/,2024-12-15 10:32:31,1,1.0,1,0,4,0,0,False,False,True,False,False,Resource,self,t3_1hepylr
+webdev,Vue + Tailwind templates,"Hi everyone! :)
+
+Over the years, I’ve been studying and building various components that I found myself using and reusing constantly. So, I decided to create a website where I could put my studies to use while also sharing what I’ve been working on with everyone.
+
+It might sound simple, but I see it as my way of giving back after years of benefiting from different templates during my learning journey.
+
+The site will be constantly evolving, as I’m always thinking about how to improve it. I’m also considering adding a dedicated tutorials section, focusing on Vue for now, but I plan to expand it eventually if the site gains some traction within the community.
+
+Feel free to check it out: https://ez-vue.com.
+
+If you use any of the templates on your own site, I’d love it if you could share the link with me—I’d be thrilled to see the projects where my templates are being used.
+
+Have a positive day! :)",Acrobatic_Equipment1,1hepw48,https://reddit.com/r/webdev/comments/1hepw48/vue_tailwind_templates/,https://www.reddit.com/r/webdev/comments/1hepw48/vue_tailwind_templates/,2024-12-15 10:27:29,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hepw48
+webdev,Hire a senior coach?,"I've been learning how to code through online classes &amp; tutorials.
+
+Been a building a web app, but because I'm doing this alone idk what idk. The app works but I know the code can be better written for stuff like separation of concerns.
+
+I also want to add new, advanced features and I'm not sure how to approach it.
+
+I can't afford to hire someone full time to build with me especially experienced.
+
+Is there a place I can hire an experienced engineer as a coach and systems architect to guide me on how to build?
+
+Thank you ",trickroll1,1hejz5v,https://reddit.com/r/webdev/comments/1hejz5v/hire_a_senior_coach/,https://www.reddit.com/r/webdev/comments/1hejz5v/hire_a_senior_coach/,2024-12-15 03:32:58,1,0.67,1,0,17,0,0,False,False,True,False,False,,self,t3_1hejz5v
+webdev,Help Picking Tools (WebDev noob),"Hey, pretty new to web dev.  My most experienced tool is [Plasmic.io](http://Plasmic.io) ; I'm looking to develop a web-game similiar to [framed.wtf](http://framed.wtf), can anyone suggest free front end/ back end tools for doing this?  Thanks for any help
+
+https://preview.redd.it/yhjxdnjr6x6e1.png?width=837&amp;format=png&amp;auto=webp&amp;s=82b746dccf04d22415e0c6f400ae4d3e54b4e8d5
+
+",nonnapasta,1heifqv,https://reddit.com/r/webdev/comments/1heifqv/help_picking_tools_webdev_noob/,https://www.reddit.com/r/webdev/comments/1heifqv/help_picking_tools_webdev_noob/,2024-12-15 02:03:24,1,1.0,1,0,1,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/NGfbdLjzbfo4RgO7Y0iPHxdA8XAImqVcPAYfqiB9EVA.jpg,t3_1heifqv
+webdev,Question: Same backend for both mobile and web app,"Hi,
+
+I have a question for the same backend design for both mobile and web app:
+
+https://preview.redd.it/cd5ki8srzw6e1.png?width=1130&amp;format=png&amp;auto=webp&amp;s=be0df63885df95a99d1662001bed6b5e07fa11b7
+
+API usually sends back ***JSON*** response. While, as can be seen from the picture above, mobile app has the view on the frontend so it only requests the json data and it knows how to render the data in the app. While for web app, the browser doesn't know the view, therefore the backend need to send back the **HTML view** along with the dynamic data.
+
+After searching, I come up with 2 feasible solutions:
+
+https://preview.redd.it/25zq9pu50x6e1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=3b798f27c8588be8cff137780f6bc2b78eb5f182
+
+So:
+
+1. **First approach**: Having another **helper class** to help query from the model, which returns JSON data format. Then it depends on the controller route class to return JSON/HTML. This means the controller route class for API and Web will be different
+2. **Second Approach**: Web page still send a static new page, but **on load**, there will be a JS to request dynamic data from the same API from the Backend. But for HTML Form post, I am not sure how the 2nd page knows what data was sent by the 1st page.
+
+Since, I am new, I would like to hear more input/advice from the people here of which approach is better or is there another best practice approach?
+
+In case this matter:
+
+Mobile frontend framework: **Flutter**
+
+Backend framework: **Laravel**
+
+Web frontend framework: *not decided yet*
+
+Thank you!",thesti2,1hehus7,https://reddit.com/r/webdev/comments/1hehus7/question_same_backend_for_both_mobile_and_web_app/,https://www.reddit.com/r/webdev/comments/1hehus7/question_same_backend_for_both_mobile_and_web_app/,2024-12-15 01:31:01,1,0.6,1,0,7,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/Jck9WYx6R9I8irvsoENnjw9pUM3wpu6x2pCv-qSdSCY.jpg,t3_1hehus7
+webdev,Trying to understand how to stream updates,"Hey all, I have a flask web app where I’m doing some stuff that takes a few seconds. So I want to stream some updates to the user while they wait so they know stuff is happening. But I can not wrap my head around how to do that, since I only have the ‘return render_template()’ at the end of the function associated with the route.
+
+Been struggling with the javascript that chatgpt has generated for this purpose - I would appreciate a high level description of what needs to happen. Thank you!!",CRF250lols,1hefucr,https://reddit.com/r/webdev/comments/1hefucr/trying_to_understand_how_to_stream_updates/,https://www.reddit.com/r/webdev/comments/1hefucr/trying_to_understand_how_to_stream_updates/,2024-12-14 23:46:18,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1hefucr
+webdev,Why can't I get z-index to work right?,"Hi!
+
+I found an example somewhere once of a horizontal navigation system that I liked.  I've been using it ever since.  But I'm making a manga tracking site where I can keep track of comics I am reading.  I've added over a hundred manga to it so I have to scroll a bit but when I scroll, the nav disappears as it scrolls away.
+
+So I figured I'll make it position: fixed which works, but I noticed the dropdowns in the nav go behind the main content area not over top.  I tried setting the z-index up to fix it but it won't work.  I tried consulting the GPT AI, it basically said the same thing, to set the z-index but it's recommendation made no change either.
+
+I stripped the site down and put it up at [https://test.nazarickonline.com](https://test.nazarickonline.com) to show the markup.  Does anyone know what I'm doing wrong?  How can I make the dropdowns not slide under the main content area?
+
+Thanks!",Spirited-Pop7467,1hedw4q,https://reddit.com/r/webdev/comments/1hedw4q/why_cant_i_get_zindex_to_work_right/,https://www.reddit.com/r/webdev/comments/1hedw4q/why_cant_i_get_zindex_to_work_right/,2024-12-14 22:10:18,1,0.67,1,0,3,0,0,False,False,True,False,False,,self,t3_1hedw4q
+webdev,Best way to host a full stack site?,"I’ve always worked with backend technology and have been dabbling in full stack. I have a site that’s almost complete and I’m ready to make it live so we can use it for Christmas. 
+
+The site will mostly only be used during Christmas time. But I’ll probably keep it up year round as it’ll be on my resume and also I’ll likely develop more on it. 
+
+I’ve been trying today to get it all set up in a digital ocean droplet and it’s been a pain. I’m wondering if there’s an easier solution?
+
+The app consists of a HTML, CSS, JS front end and a Python (Flask), PostgreSQL backend.
+
+What would be the best site to use to get this running on the web while also being cost effective?",Brutal_Boost,1heb0jr,https://reddit.com/r/webdev/comments/1heb0jr/best_way_to_host_a_full_stack_site/,https://www.reddit.com/r/webdev/comments/1heb0jr/best_way_to_host_a_full_stack_site/,2024-12-14 19:56:49,1,0.57,1,0,7,0,0,False,False,True,False,False,Question,self,t3_1heb0jr
+webdev,Stuck in tutorial hell? I built this tool to help beginners (me) explore and experiment with APIs using AI,"https://preview.redd.it/8r0xu6on4v6e1.png?width=1904&amp;format=png&amp;auto=webp&amp;s=417f61b5f5b4bfb3ab5ee143e5ba53d17d7fbc86
+
+Hey guys, this is my first website, it works better on desktop for now. It's a simple website where you can add and combine APIs and my AI will return app ideas. It's meant for beginner programmers who simply don't know what to build or maybe you're bored idk! thanks! [https://devshii.com/](https://devshii.com/)",Naubri,1hea1mc,https://reddit.com/r/webdev/comments/1hea1mc/stuck_in_tutorial_hell_i_built_this_tool_to_help/,https://www.reddit.com/r/webdev/comments/1hea1mc/stuck_in_tutorial_hell_i_built_this_tool_to_help/,2024-12-14 19:12:56,1,0.55,1,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/XIWk3zlICYfDBjq-t00j2wosjBwtSkkGx32L6lG8-ns.jpg,t3_1hea1mc
+webdev,Best way to test mobile sites (cache issues)?,"Hi.  
+
+I'm working on a website and I need it to behave differently on mobile; larger inputs for easier touch use, changing horizontal stuff to vertical, etc.  So I setup my media rules and loaded it on Chrome on my Android Galaxy Note9.  Looks good, just needed a little tweak.  Change the CSS, reload.  No difference.  I think, ahh cache.  So I hit the hamburger, scroll down, settings, privacy, delete browsing data, delete data, confirm, back, back, back, hamburger, reload.  
+
+Twelve !@##$% steps.  Is there an easier way to do this?  Plus while that usually works, for some reason I'm having trouble today.  To test, I set a media rule:
+
+    @media (max-device-width: 805px) {
+      INPUT[type=text] {
+        border: 2px solid #F00 !important;
+      }
+    }
+
+I figured that'll make it glaringly obvious when the media rule takes effect.  Cleared cache, but still not going red.  Now this site's DNS is served through Cloudflare's proxy, so I suppose CF may also be introducing some caching; dunno.  On my PC, I go to the site and leave full screen then drag the right side of the window in and eventually when it's small enough, bam, I get red borders.  So the rule is working.  I run dual DNS for my domains; [www.mysite.com](http://www.mysite.com) on the phone *(external network)* is getting [50.77.xxx.xxx](http://50.77.xxx.xxx) whilst on my browser on the PC *(internal network)* it's 10.0.10.100.  Ergo, no CF.  
+
+I can temporarily disable the proxy for my testing but I was curious how other people deal with this.  I'm sure exposing your IP temporarily is not a typical debug routine, lol.   I'm not even 100% CF is the culprit either, I'm just guessing.
+
+Thanks!",Spirited-Pop7467,1he9g8f,https://reddit.com/r/webdev/comments/1he9g8f/best_way_to_test_mobile_sites_cache_issues/,https://www.reddit.com/r/webdev/comments/1he9g8f/best_way_to_test_mobile_sites_cache_issues/,2024-12-14 18:45:52,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1he9g8f
+webdev,Tanstack Start with Supabase Auth,"This project is a basic authentication example using TanStack, Supabase, and TailwindCSS. It demonstrates how to implement user authentication, including login, signup, and session management, using Supabase as the backend service.
+
+  
+[https://github.com/aaronksaunders/tanstack-start-supabase-auth](https://github.com/aaronksaunders/tanstack-start-supabase-auth)",aaronksaunders,1he9fnp,https://reddit.com/r/webdev/comments/1he9fnp/tanstack_start_with_supabase_auth/,https://www.reddit.com/r/webdev/comments/1he9fnp/tanstack_start_with_supabase_auth/,2024-12-14 18:45:12,2,1.0,2,0,1,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1he9fnp
+webdev,"I want to create a product Slider feature (HTML,CSS,JS)","I am creating a store page where I should be able to scroll past items. So if there are are 5 products on display then I want to click on a arrow to move to next product however I have tried a lot of stuff and it seems like it's very hard to implement. 
+
+What approach do I need to accomplish this. Are there any free slider templates online?",kingtiger321,1he6589,https://reddit.com/r/webdev/comments/1he6589/i_want_to_create_a_product_slider_feature/,https://www.reddit.com/r/webdev/comments/1he6589/i_want_to_create_a_product_slider_feature/,2024-12-14 16:11:12,1,1.0,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1he6589
+webdev,For Indie Developers: How Do You Prefer to Stay Involved After Building a Project?,"*Indie developers, we’re interested in understanding how you approach involvement with a project after it’s built. If you’ve created something and it’s ready to grow, what level of involvement would you prefer going forward? Your input is valuable and appreciated.*
+
+[View Poll](https://www.reddit.com/poll/1he5zwv)",manderson0117,1he5zwv,https://reddit.com/r/webdev/comments/1he5zwv/for_indie_developers_how_do_you_prefer_to_stay/,https://www.reddit.com/r/webdev/comments/1he5zwv/for_indie_developers_how_do_you_prefer_to_stay/,2024-12-14 16:04:07,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1he5zwv
+webdev,"Hiring UI Designers just for layout, basically?","I am a primarily a back-end developer, writing code where the UI was a ""nice-to-have"" but not the crucial. I gave my best and the UI's are ""good enough"". Now, I am faced with a new client and a task where I identified the UI/style consistency to be higher up and instead of me breaking my head trying to make this work, I thinking of hiring a UI designer that would simply create a design layout in Figma and I would then code it up myself and re-create it (since I still enjoy writing it).  
+  
+The branding already laid out and clear, so what I would be looking for consistency and a layout with those design elements here and there and in the background that make all the difference (which I previous UIs always lacked). Is this a thing? Are UI designers up to such task or does this sound stupid?",19c766e1-22b1-40ce,1hepnzi,https://reddit.com/r/webdev/comments/1hepnzi/hiring_ui_designers_just_for_layout_basically/,https://www.reddit.com/r/webdev/comments/1hepnzi/hiring_ui_designers_just_for_layout_basically/,2024-12-15 10:10:08,3,0.71,3,0,4,0,0,False,False,True,False,False,,self,t3_1hepnzi
+webdev,How does telegram or any other app navigating to the particular message feature?,"Suppose I am implementing a feature in chat app where where I can reply any message. I have pagination in messages. One page will load 20 messages and as user scrolls other messages will be added.
+
+Suppose the message I am tapping is at the 20th page which user hasn't scrolled yet, what can I do to navigate to it since that message is not yet in UI?",milanpoudel,1hep8zc,https://reddit.com/r/webdev/comments/1hep8zc/how_does_telegram_or_any_other_app_navigating_to/,https://www.reddit.com/r/webdev/comments/1hep8zc/how_does_telegram_or_any_other_app_navigating_to/,2024-12-15 09:38:23,0,0.4,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hep8zc
+webdev,Breakpoints in monorepo only work in child workspace that is the launch target?,"I am creating app using the open source Eliza agent SDK.  It is a pnpm/turbo managed monorepo with several workspaces.  I am doing dev in two of the child workspaces.  When I set breakpoints in the child workspace that is the launch target, they work fine.  But the breakpoints I set in the other workspaces are never hit.  I double-checked and turbo is definitely creating map files for all workspaces.  I even did a ""scorched earth"" removal of all the node packages, cleared out the pnpm cache, and did a pnpm build with the --force flag.  No luck.  I am using WebStorm 2024 IDE for coding and debugging.
+
+This is my launch command:
+
+    pnpm --filter \""@ai16z/agent\"" exec tsx src/index.ts --characters=\""characters/sppicklicense.character.json\"" --isRoot
+
+  
+src/index.ts is the index file for the ""agent"" child workspace.  Breakpoints in that workspace are the only ones that gethit.  Has anybody ever had this problem and found a way to fix it?",vengeful_bunny,1hefd01,https://reddit.com/r/webdev/comments/1hefd01/breakpoints_in_monorepo_only_work_in_child/,https://www.reddit.com/r/webdev/comments/1hefd01/breakpoints_in_monorepo_only_work_in_child/,2024-12-14 23:21:34,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hefd01
+webdev,A tool to help you become a better web developer,"**Key Features**
+
+* **Daily Challenges**: Receive coding questions that reflect real software engineering scenarios
+* **Competitive Leaderboard**: Rank against peers with monthly prize opportunities for top performers
+* **Smart Skill Roadmapping**:
+   * Adaptive onboarding assessment
+   * AI-generated personalized learning paths that analyzes your skill level 
+   * Dynamic skill progression tracking
+* **Intelligent Progress Tracking**:
+   * Comprehensive performance analytics
+   * Targeted challenge recommendations based on individual strengths/weaknesses
+* **Extensive Question Library**: 1000+ curated challenges across multiple difficulty levels and technology domains
+* **Statistics:** Determine your weak points and get AI to guide you in the right direction!
+* **Learn anywhere:** Learn how to code directly from your mobile device. All challenges can be completed from the comfort of your phone!
+
+**What makes techblitz different?**
+
+* Open-source product. The direction of the app is dictated by its users
+* AI-powered progression pathways to assist your software development journey
+* Mobile-friendly app. All questions can be completed from the comfort of your phone
+
+Check out the daily challenge on the landing page, and any feedback or features you'd like to see added would be appreciated!
+
+https://preview.redd.it/8pq9zzgkcw6e1.png?width=3454&amp;format=png&amp;auto=webp&amp;s=bbb8ed275341cc357fa4a873ea12215ff00a267f
+
+",loganfordd,1hef6n8,https://reddit.com/r/webdev/comments/1hef6n8/a_tool_to_help_you_become_a_better_web_developer/,https://www.reddit.com/r/webdev/comments/1hef6n8/a_tool_to_help_you_become_a_better_web_developer/,2024-12-14 23:12:55,0,0.5,0,0,0,0,0,False,False,True,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/_9us6CfztHWmC6QuSrAiHUu3UOyo0Hhv0NgKKJwUbQc.jpg,t3_1hef6n8
+webdev,How to force an web app to display in desktop mode,"Hello everyone, 
+
+Recently, my boss gave me a new laptop for work, this laptop has a touchscreen.
+
+Now, my problem is that a web app that I (unfortunatly) need to use for work keeps loading the mobile view. After some searching I found a mobile.css file being loaded for the chrome dev tools that contains the following line: 
+
+\\@/media screen and ((max-width: 768px) or (pointer:none) or (pointer:coarse)
+
+Given the presence of a touchscreen I believe that the pointer: coarse is being trigger and I am being served the mobile version of the app.
+
+Obviously I don't have access to the backend code, but do you believe that this could be the reason? If so how could I fix it? 
+
+Sorry if this is a stupid question but the frontend is not my specialty.
+
+Thank you all in advance.",alittle_late,1hec8yi,https://reddit.com/r/webdev/comments/1hec8yi/how_to_force_an_web_app_to_display_in_desktop_mode/,https://www.reddit.com/r/webdev/comments/1hec8yi/how_to_force_an_web_app_to_display_in_desktop_mode/,2024-12-14 20:54:18,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1hec8yi
+webdev,Looking to Switch from MERN to Django – Seeking Resources and Guidance for a Smooth Transition,"Hi,
+
+I just wanna switch my tech stack from MERN to django I just need suggestions to find resources nd for the sake of references I have made projects like c++ code editor which is basically a serverless website user just visits write,run and compiles the code nd they gets the output as simple as that. And also a vitagaurd a micro nutrition tracker which tracks users micronutrients such as vitamins, minerals stuff it also have a profile which shows a piechart of all nutritions consumed in a day. couple other projects those were like very common such as social media platform,course selling, chat application etc...
+
+The reason why I wanna switch is cuz wanna explore django nd how it works yeah 
+
+Any suggestions might help hehe",milfjuno,1heb3y0,https://reddit.com/r/webdev/comments/1heb3y0/looking_to_switch_from_mern_to_django_seeking/,https://www.reddit.com/r/webdev/comments/1heb3y0/looking_to_switch_from_mern_to_django_seeking/,2024-12-14 20:01:01,0,0.5,0,0,1,0,0,False,False,True,False,False,,self,t3_1heb3y0
+webdev,Complete guide for infinite scroll feature in React,"Intended to be a complete guide to infinite scroll in React. Nothing to install, just copy/paste and customize. Examples with Next.js / Tailwind / Tanstack Query / and Tanstack Virtual. This will be the best repo to reference when implementing an infinite scroll feature in React. Infinite scroll feature can be quite hard, especially for bi-directional scroll and virtual scroll (for very large list) support. I hope this repo can save people some time, let me know what yall think.
+
+[Repo](https://github.com/Apestein/better-react-infinite-scroll)
+
+[Demo](https://stackblitz.com/~/github.com/Apestein/better-react-infinite-scroll)",Apestein-Dev,1he5e6l,https://reddit.com/r/webdev/comments/1he5e6l/complete_guide_for_infinite_scroll_feature_in/,https://www.reddit.com/r/webdev/comments/1he5e6l/complete_guide_for_infinite_scroll_feature_in/,2024-12-14 15:35:42,0,0.5,0,0,0,0,0,False,False,True,False,False,Resource,self,t3_1he5e6l
+webdev,"If slow-moving pull requests, back and forth code review communication or uneven distribution of reviews were ever your issue, then my Slack bot may be worth your attention. If no - please share how your team effectively organizes it work",,RealDaikon7106,1hebvh4,https://reddit.com/r/webdev/comments/1hebvh4/if_slowmoving_pull_requests_back_and_forth_code/,https://reviewnudgebot.com/,2024-12-14 20:36:24,0,0.33,0,0,0,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/SHGZFWc8jXMnleR3bDIGTfk-7PywzROjzLhJK8BHCzY.jpg,t3_1hebvh4
+webdev,Any decent windows tablets under $500 for webdev?,I’ve got a limit of $500 and am trying to find a decent windows tablets under for getting into webdev. I want a tablet for portability and ease of access versus a laptop. Was looking into the surface tablet line but heard those are getting discontinued but that doesn’t mean prior models are out for the count tho. But if anyone has some ideas I’d love to hear em,TheRealMulli,1he4tjv,https://reddit.com/r/webdev/comments/1he4tjv/any_decent_windows_tablets_under_500_for_webdev/,https://www.reddit.com/r/webdev/comments/1he4tjv/any_decent_windows_tablets_under_500_for_webdev/,2024-12-14 15:08:10,0,0.42,0,0,22,0,0,False,False,True,False,False,,self,t3_1he4tjv
+webdev,Why doesn't JavaScript implement an optional type system like PHP and Python?,"I've worked at multiple companies, and every single one of them uses TypeScript or some kind of type-documentation library for JavaScript. So, it makes me wonder: why hasn't JavaScript just added an optional type system, similar to what PHP or Python have done?
+
+In PHP, you can choose to use types for all your code, some of your code, or none at all. It's fully compatible. Even if you're using an un-typed library (which has become rare), you can still add ""type hints"" as doc comments.
+
+    function add(int $a, int $b): int {
+        return $a + $b;
+    }
+    
+    function getData(): mixed {
+        return json_decode('{""key"": ""value""}', true);
+    }
+    
+    /** @var $userCounts array&lt;string, int&gt; */  // Lets the IDE know $userCounts is type of array&lt;string, int&gt;
+    $userCounts = getUserCounts(); 
+
+I really like this system because it's flexible and never gets in the way. Since type support is built into the language by default, almost everyone uses it, and it's now considered best practice to type your code as much as possible.
+
+Meanwhile, in the JavaScript ecosystem, there's still a huge gap. Most React or framework/library tutorials teach JavaScript first, and people only transition to TypeScript later—if they do at all. This feels odd, especially considering that browsers still don't support TypeScript natively.
+
+An optional type system in JavaScript itself could make the developer experience smoother and reduce the reliance on external tools like TypeScript.  Is there a technical reason why JavaScript hasn't gone this route?",Representative-Dog-5,1heplzn,https://reddit.com/r/webdev/comments/1heplzn/why_doesnt_javascript_implement_an_optional_type/,https://www.reddit.com/r/webdev/comments/1heplzn/why_doesnt_javascript_implement_an_optional_type/,2024-12-15 10:05:49,0,0.33,0,0,6,0,0,False,False,True,False,False,,self,t3_1heplzn
+webdev,How could I make this images get put onto the navbar and make the recourses text move left?(srry for bad explanation,,jxksjs,1heicre,https://reddit.com/r/webdev/comments/1heicre/how_could_i_make_this_images_get_put_onto_the/,https://i.redd.it/vglf8tzz5x6e1.jpeg,2024-12-15 01:58:44,0,0.27,0,0,4,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/9Ly46q2zxCXZ0iqJPfTJmjFobpXhFceoluNWO5A97qU.jpg,t3_1heicre
+webdev,I made a demo project of using AI to run queries,,magical_puffin,1hec0bx,https://reddit.com/r/webdev/comments/1hec0bx/i_made_a_demo_project_of_using_ai_to_run_queries/,https://i.redd.it/avp6mjpvkv6e1.gif,2024-12-14 20:42:47,0,0.2,0,0,2,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/xXq2HsnDFMk0IXGYU1_e_Uwi1i5_PQ2dBPf6v3ifGTM.jpg,t3_1hec0bx
+webdev,We Built an Environment That Annoys Salty Web Devs: The Shelbula CDE (Conversational Development Environment),"Our small team of long-time devs (aka old devs / gasp: millennials!) have been working on it for a few months now. [Shelbula.dev](http://Shelbula.dev) gives the best of AI coding assistants in a dedicated environment, free from your IDE. Just bring your own OpenAI or Anthropic key. We call it the Conversational Development Environment (CDE).
+
+With that, we can do a lot more. Work with multiple bots at once, give bots your entire project context instead of one file at a time (like in IDE editors tend to do), save snippets as you go, quick copy code blocks from the built-in code blocks, drag and drop files with any model, and most importantly adjust context windows on the fly. Chat getting too long? Trim the whole chat or prune specific messages to keep context alive. Multiple tab friendly for multiple chats at once. 
+
+**Will it code for you? Absolutely not. It's not a substitute for knowledge. It's a productivity tool for those WITH knowledge.**
+
+As any good developer knows, AI gives the wrong answer 50% of the time, but when you're able to provide full project context and micro manage conversations, your ability to get the right code on the first try improves dramatically. Additionally, our structuring allows models to return FULL blocks of code (up to 1000 lines on Claude 3.5 for example) vs the ""insert here"" kind of placeholders AI just loves.
+
+It's free while our beta period finishes up the end of this month. There are several new bots being tested over the next week that come with Pro plans. (React Mockups, Documentation Bot, Multi-step flows) Gemini 2 support coming in January as well.
+
+We know there's a huge divide of ""AI is useless for coding"" and ""AI is incredible for coding"" but through our teams 40+ years of combined programming experience we think it's a game changer when your dev brain can focus on architecture while the bots do the boring syntax. Time is money in this game, and Shelbula is all about saving you time.
+
+Beta free thru Jan 1 while features are in testing: Find it at [Shelbula.dev](https://shelbula.dev) and [r/Shelbula](https://www.reddit.com/r/Shelbula) ",GolfCourseConcierge,1he6b4f,https://reddit.com/r/webdev/comments/1he6b4f/we_built_an_environment_that_annoys_salty_web/,https://www.reddit.com/r/webdev/comments/1he6b4f/we_built_an_environment_that_annoys_salty_web/,2024-12-14 16:18:47,0,0.31,0,0,10,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1he6b4f
+webdev,I Created an AI Bot to Automate Games,,japan_noob,1hejfaw,https://reddit.com/r/webdev/comments/1hejfaw/i_created_an_ai_bot_to_automate_games/,https://i.redd.it/zg4gslvzgx6e1.gif,2024-12-15 03:00:45,0,0.41,0,0,13,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1hejfaw

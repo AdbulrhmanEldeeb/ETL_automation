@@ -1,0 +1,70 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,What is up with pulumi pricing? Or are my expectations off?,"Hi,
+
+Please let me know if this question doesn't fit the rules of the sub, I can remove it.
+
+I was researching today for alternatives to Terraform. The main issue I have with it is that there is little support for different environments - and I want to be able to just reuse the same file in different environments.
+
+Each developer can bring up a stack to check his changes really quickly, before bringing it down when they're done. So each developer can do like ""bring up this stack with name 'abcTest'"" without having to write config files from scratch.
+
+One option is terragrunt, another one is pulumi. I have seen reviews about the benefits of one vs the other, and I am still trying to understand which one I think would be nicer to work with. But before that, there is one thing which is really bugging me and preventing me from even trying pulumi out - the pricing.
+
+The price at 0.37$ \*per resource\*. This is mind-boggling high, no? If we assume you only have 10-20 resources in prod (bare-bones, small project), then multiply that by staging, and dev -  that's 20$/month, which sounds reasonable.
+
+But add the experimental stacks that engineers can experiment on (e.g. the 'abcTest' stack), and you pay 4$ per experiment. Every time you want to try a new setup in a new environment, it's a 4$ cost. That sounds incredibly high to me.
+
+In general I really dislike this form of pricing - the more you use it, the more you pay is great for them, but horrible for you. I \_want\_ to use resources because I want to use Infrastructure as code. I don't want to optimize my setup to use as few resources as possible because each resource costs me a lot of money - I want to use the tool as best as I can, without this additional per-resource constraint.
+
+Anyway, are my expectations off? How do you manage hundreds of resources across dozens of environments, are you paying thousands of dollars for the infra management alone?",Sbadabam278,1heq8xl,https://reddit.com/r/devops/comments/1heq8xl/what_is_up_with_pulumi_pricing_or_are_my/,https://www.reddit.com/r/devops/comments/1heq8xl/what_is_up_with_pulumi_pricing_or_are_my/,2024-12-15 10:53:56,34,0.97,34,0,26,0,0,False,False,True,False,False,,self,t3_1heq8xl
+devops,tips for terraform for devops interviews,"I have been trying to switch to DevOps from developer. The main issue I'm facing is that I don't have proper production experience with DevOps.  
+I knew Jenkins, python, shell, learned Docker, and Kubernetes, and got Cloud Practitioner certification  
+I am in the process of learning Terraform and would appreciate any tips on where to learn this from  
+I get stuck when they ask about production situations I have no experience ...  
+Do you happen to have any tips on how to improve this?  
+I would also appreciate any sort of training ground (KodeKloud ?) to practice this as EKS is not included in the free tier ",amanryzus,1hen70e,https://reddit.com/r/devops/comments/1hen70e/tips_for_terraform_for_devops_interviews/,https://www.reddit.com/r/devops/comments/1hen70e/tips_for_terraform_for_devops_interviews/,2024-12-15 07:02:03,12,0.93,12,0,9,0,0,False,False,True,False,False,,self,t3_1hen70e
+devops,How do you use dynatrace effectively?,"I am trying to build a dashboard on dynatrace off metrics from metrics from an application that exports them via Prometheus. Example:
+
+            self.histogram_e2e_time_request = self._histogram_cls(
+                name=""e2e_request_latency_seconds"",
+                documentation=""Histogram of end to end request latency in seconds."",
+                labelnames=labelnames,
+                buckets=[1.0, 2.5, 5.0, 10.0, 15.0, 20.0, 30.0, 40.0, 50.0, 60.0])
+
+  
+I am not even able to display the different buckets, or the different percentiles e.g P99, P95. Coming from Grafana, this is a huge surprise to me. Can anyone point me in the right direction?",UnusualAgency2744,1hesi5d,https://reddit.com/r/devops/comments/1hesi5d/how_do_you_use_dynatrace_effectively/,https://www.reddit.com/r/devops/comments/1hesi5d/how_do_you_use_dynatrace_effectively/,2024-12-15 13:25:07,2,0.75,2,0,0,0,0,False,False,True,False,False,,self,t3_1hesi5d
+devops,How to handle test environments - locally and on the cloud? ,"Hi all, 
+
+  
+I am new to DevOps, and I have a bunch of questions on what are the best practices / tools to setup  test environments. Let's get a concrete example: you have one frontend app and one backend app (in the same repo - I am using bazel for my monorepo tooling)
+
+The backend app is self-contained, the frontend app makes http requests to the backend app to retrieve some information. 
+
+Let's say you want to provide the following capabilities: 
+
+1. A local test environment. You run the frontend/backend application locally, and you can test your changes. This is easy for the backend. For the frontend, you need to be able to connect to the backend app. My idea would be to use docker to setup a locally-running instance of the backend to which the frontend connects to. Ideally, this is completely isolated from the internet - meaning you can run this without any internet connection. 
+
+  
+2. A cloud test environment. Since this is meant to help developer testing things out, each developer can bring up its own test instances of the frontend/backend (with specific name, e.g. abcTest) and see the results on the cloud. 
+
+  
+I am currently mostly using GCP + Terraform for the backend (Vercel hosting for the frontend). Terraform doesn't provide an easy way to bring up ephemeral environments out of the box - you have to create a new directory with a bunch of files to get it to work. Ideally, one would have a single .tf file - and you just have to pass the name of the environment to bring it up. This doesn't really work with terraform. 
+
+  
+I am also exploring terragrunt for 2), which I hope will make it easier to have different ephemeral test environments. 
+
+  
+I would appreciate any suggestions! :)",Sbadabam278,1herh0p,https://reddit.com/r/devops/comments/1herh0p/how_to_handle_test_environments_locally_and_on/,https://www.reddit.com/r/devops/comments/1herh0p/how_to_handle_test_environments_locally_and_on/,2024-12-15 12:20:12,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1herh0p
+devops,Thoughts on AWS codeartifact ,"Anyone who used it, how have you found it. We dont use AWS anywhere so wanted to ask if its worth onboarding it or if theres some vendor lock in stuff (that i would like to avoid). Its not on my top 3 list but just wanted to know if it’s worth having a thought about it",eyesniper12,1heo07w,https://reddit.com/r/devops/comments/1heo07w/thoughts_on_aws_codeartifact/,https://www.reddit.com/r/devops/comments/1heo07w/thoughts_on_aws_codeartifact/,2024-12-15 08:02:35,0,0.5,0,0,4,0,0,False,False,True,False,False,,self,t3_1heo07w
+devops,C/c++ static analysis,"I am currently using cpp check, I was looking for something to give better results. Is there a better tool out there right now. I tried sonar source but that is alot of work for something to give you static analysis tools.
+
+I was able to download their free version and run it over my codebase only to find out that it wont do c or c++ for free. It was a pain in arse to get runningthen all that and I cant even see if it gives good results. WTF. Then a trial requires them to get back to you. 
+
+So I am looking for a good misra checker / static analysis tool that doesnt take half a day to setup.",tbandtg,1he8xl2,https://reddit.com/r/devops/comments/1he8xl2/cc_static_analysis/,https://www.reddit.com/r/devops/comments/1he8xl2/cc_static_analysis/,2024-12-14 18:21:45,0,0.33,0,0,2,0,0,False,False,True,False,False,,self,t3_1he8xl2
+devops,whats next ???,"Hello everyone,
+
+I am a junior DevOps engineer looking for guidance. Currently, I am working at a startup where I work with Kubernetes, Terraform, Linux, AWS, etc. I am not very proficient in any of them, but I am trying to improve—it's never too late!
+
+Last week, I obtained the AWS SAA certification. What should I learn next to differentiate myself in the market?
+
+I also see a lot of discussions about how a DevOps engineer should have a background in either development or operations first, but I don't have one. What should I do?",Envy_mk,1he7r4j,https://reddit.com/r/devops/comments/1he7r4j/whats_next/,https://www.reddit.com/r/devops/comments/1he7r4j/whats_next/,2024-12-14 17:26:45,0,0.45,0,0,11,0,0,False,False,True,False,False,,self,t3_1he7r4j
+devops,Quick App Development Made Easy!,"Have you ever dreamed of creating your own web app but felt overwhelmed by coding? With [Codev](https://www.co.dev/), that dream can become a reality! This user-friendly platform transforms your ideas into fully functional web applications in no time. Simply describe what you want, and Codev uses advanced technology to generate a complete app with all the features you need. It's perfect for both tech enthusiasts and beginners. Plus, you can customize the code however you like. Don't miss out—try Codev for free and bring your app vision to life!",Dismal_Art_9658,1he728k,https://reddit.com/r/devops/comments/1he728k/quick_app_development_made_easy/,https://www.reddit.com/r/devops/comments/1he728k/quick_app_development_made_easy/,2024-12-14 16:54:26,0,0.27,0,0,0,0,0,False,False,True,False,False,,self,t3_1he728k
