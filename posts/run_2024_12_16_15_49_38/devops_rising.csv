@@ -1,0 +1,164 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,I failed the last round of a Platform Engineer job interview because of a database migration question. How bad was my answer?,"For clarity, I am a Full-Stack developer, but these days my work is 80% front-end.
+
+I have learnt all DevOps and Cloud-related stuff in my own time by studying and applying it to my own projects. I'm trying to break into a cloud-focused role because it has interested me for a while now.
+
+This round was a whiteboarding session where I was tasked with migrating a legacy system to a cloud provider. We went with GCP for service choice names, as we both have worked this provider.
+
+One of the components of the legacy system was the database. The interviewer said let's assume it's an SQL-based database and it's running on a VM somewhere.
+
+**By this point in the interview, I had asked questions and got the following points:**
+
+\- Developers are manually having to SSH into VM's to make changes and they are struggling to manage.  
+\- The company expects to grow within 12 months, up to 100k DAU. They currently have 10K DAU.
+
+**Once we get into the database section, it kind of went like this:**
+
+&gt;**Me:**  
+For the database, I would recommend a managed SQL service, Cloud SQL.  
+The advantage of this choice is that it takes a big amount of cognitive load from the developers. DB Admin tasks like backups can be done much easier. It is also more suitable to scale than self-managing on a VM.  
+The disadvantage of this choice is the cost, it'll easily be one of the most expensive components of this architecture. But I feel like the trade-off is worth it, as managing a database for this scenario can be a full-time job in itself.
+
+&gt;**Interviewer:**  
+Ok great, that trade-off makes sense. Let's talk about the actual migration of the data from the current system to GCP. We want minimal downtime, we can maybe afford a maximum of an hour of downtime.
+
+&gt;**Me:**  
+Ok, what is the rough amount of data we need to transfer? I'm guessing it's not Petabytes of data?
+
+&gt;**Interviewer:**  
+Correct, it's not that level of data, but equally, it's not so little that we can just do a quick and simple export/import
+
+&gt;**Me:**  
+Ok, I know that cloud providers do have database migration services available. These aim to do a lot of the work for you. However, I am aware that they only fit very simple scenarios. You have to have a supported db version and a relatively simple schema, so let's assume these services do not fit the bill.
+
+&gt;In that case, I would replicate the legacy database to the cloud-based one. Once replication is done, we can ensure new records are added by adding a dual write strategy at the application level, so both databases are fully up to date. Then, after communicating with users about the expected hour downtime, ideally during a low-traffic period, we can mark the old database as read-only and switch over to the new instance.
+
+&gt;The upside of this approach is that we can get downtime down to &lt; hour. The downside is that we need to write application-level code purely for this migration, which increases complexity and chances of mistakes, so it's something the developers will need to keep in mind.
+
+And to be honest, the interviewer just OK'd that and we moved on to another question.
+
+However, in the feedback, one of the main points was that I need to expand my knowledge on database migration strategies.
+
+Was my answer straight-up wrong? Or did I fail to expand on the solution more?",Squishyboots1996,1hfgw4b,https://reddit.com/r/devops/comments/1hfgw4b/i_failed_the_last_round_of_a_platform_engineer/,https://www.reddit.com/r/devops/comments/1hfgw4b/i_failed_the_last_round_of_a_platform_engineer/,2024-12-16 11:16:10,160,0.94,160,0,83,0,0,False,False,True,False,False,,self,t3_1hfgw4b
+devops,Did 'vi' win the editor war?,I was just thinking that I haven't heard anyone talk about emacs for a few years. But all the new people I meet who need an editor that's present on 'any' system are using 'vi'. I think one of them had never even heard of emacs.,jacksbox,1hflvt6,https://reddit.com/r/devops/comments/1hflvt6/did_vi_win_the_editor_war/,https://www.reddit.com/r/devops/comments/1hflvt6/did_vi_win_the_editor_war/,2024-12-16 15:41:33,2,0.67,2,0,8,0,0,False,False,True,False,False,,self,t3_1hflvt6
+devops,"Software Engineer Jobs Report 12/11: 1200 new jobs. Every week I scrape the internet for recently posted software engineer jobs. I hand pick the best ones, put them in a list, and share them to help your job search. Here is last weeks spreadsheet. DevOps roles included.","Hey friends, every week I search the internet for software engineer jobs that have been recently posted on a company's career page. I collect the jobs, put them in a spreadsheet, and share them with anyone whose looking for their next role. All for free.
+
+The data is sourced by my own web scraping bots, paid sources, free sources, VC sites, and the typical job board sites. I spend an ungodly amount on the web so you don't have too!
+
+About me, I am a senior software engineer with a decade of work history, and ample job searching experience to know that its a long game and its a numbers game.
+
+If there are other roles you'd like to see, let me know in the comments.
+
+To get the nicely formatted spreadsheet, click [here](https://airtable.com/appfZGu8o8kuDud9l/shryoIjUWvnc3Kr8T).
+
+If you want to read my write up, click [here](https://24hsoftwarejobs.beehiiv.com/p/jobs-report-12-11-24?utm_source=reddit&amp;utm_medium=r-devops-jobs-report-12-11-24).
+
+if you want to get these in an email, click [here](https://24hsoftwarejobs.beehiiv.com/subscribe?utm_source=reddit&amp;utm_medium=r-devops-jobs-report-12-11-24).
+
+If you want to see all previous job reports, click [here](https://24hsoftwarejobs.beehiiv.com/?utm_source=reddit&amp;utm_medium=r-devops-jobs-report-12-11-24).
+
+Cheers!",innovatekit,1hey8g6,https://reddit.com/r/devops/comments/1hey8g6/software_engineer_jobs_report_1211_1200_new_jobs/,https://www.reddit.com/r/devops/comments/1hey8g6/software_engineer_jobs_report_1211_1200_new_jobs/,2024-12-15 18:00:07,71,0.9,71,0,4,0,0,False,False,True,False,False,,self,t3_1hey8g6
+devops,The ways to make portfolio/practice different DevOps tools.,"Hi, I have completed couple of courses on different DevOps tools and now I want to practice working with those tools. The thing is I don't know how. 
+
+It might sound stupid but when I was learning something like Python I just came up with some kind of program I want to make and started coding. With Terraform or Docker I find this approach not working as well and when it comes to practicing pipelines or Kubernetes I spend a lot of time on finding app I want to use to learn and not on the tools that matter. 
+
+The same goes with me wanting to build a portfolio to have something to show during job searching. If I want to show what I know Python I just make an app and put it on GitHub but when it comes to DevOps I don't know what should I put there. 
+
+So my question is how to practice the usage of those DevOps tools? Is making my own projects similar to programming ones the way or there is more efficient way? Should I just use some already make apps to learn and just focus on the DevOps stuff? ",Crezusik,1hf47wl,https://reddit.com/r/devops/comments/1hf47wl/the_ways_to_make_portfoliopractice_different/,https://www.reddit.com/r/devops/comments/1hf47wl/the_ways_to_make_portfoliopractice_different/,2024-12-15 22:30:19,19,0.92,19,0,9,0,0,False,False,True,False,False,,self,t3_1hf47wl
+devops,In your opinion what's the best way to insert values for the app? ,"Most shop i know uses argo helm plugin.  With values.yaml file in the app repo where the argo will read the app and deploy it. The secrets will be managed either rblindfold/sops/secrets-injector sidecar. 
+
+  
+What's your preferred method? ",midlevelmybutt,1hfcaay,https://reddit.com/r/devops/comments/1hfcaay/in_your_opinion_whats_the_best_way_to_insert/,https://www.reddit.com/r/devops/comments/1hfcaay/in_your_opinion_whats_the_best_way_to_insert/,2024-12-16 05:36:32,4,1.0,4,0,3,0,0,False,False,True,False,False,,self,t3_1hfcaay
+devops,What is up with pulumi pricing? Or are my expectations off?,"Hi,
+
+Please let me know if this question doesn't fit the rules of the sub, I can remove it.
+
+I was researching today for alternatives to Terraform. The main issue I have with it is that there is little support for different environments - and I want to be able to just reuse the same file in different environments.
+
+Each developer can bring up a stack to check his changes really quickly, before bringing it down when they're done. So each developer can do like ""bring up this stack with name 'abcTest'"" without having to write config files from scratch.
+
+One option is terragrunt, another one is pulumi. I have seen reviews about the benefits of one vs the other, and I am still trying to understand which one I think would be nicer to work with. But before that, there is one thing which is really bugging me and preventing me from even trying pulumi out - the pricing.
+
+The price at 0.37$ \*per resource\*. This is mind-boggling high, no? If we assume you only have 10-20 resources in prod (bare-bones, small project), then multiply that by staging, and dev -  that's 20$/month, which sounds reasonable.
+
+But add the experimental stacks that engineers can experiment on (e.g. the 'abcTest' stack), and you pay 4$ per experiment. Every time you want to try a new setup in a new environment, it's a 4$ cost. That sounds incredibly high to me.
+
+In general I really dislike this form of pricing - the more you use it, the more you pay is great for them, but horrible for you. I \_want\_ to use resources because I want to use Infrastructure as code. I don't want to optimize my setup to use as few resources as possible because each resource costs me a lot of money - I want to use the tool as best as I can, without this additional per-resource constraint.
+
+Anyway, are my expectations off? How do you manage hundreds of resources across dozens of environments, are you paying thousands of dollars for the infra management alone?",Sbadabam278,1heq8xl,https://reddit.com/r/devops/comments/1heq8xl/what_is_up_with_pulumi_pricing_or_are_my/,https://www.reddit.com/r/devops/comments/1heq8xl/what_is_up_with_pulumi_pricing_or_are_my/,2024-12-15 10:53:56,60,0.97,60,0,51,0,0,False,False,True,False,False,,self,t3_1heq8xl
+devops,EDR and build systems - how to get them to play nicely?,"Our IT are trialing some increased protection settings in our EDR system and we \*think\* it is causing some intermittent build failures. Specifically, even though the EDR system is just in ""learning"" mode, for the C++ build (using VisualC++ / msbuild) it looks like the EDR service might be briefly locking a recently generated file when a subsequent build step also tries to read that file.
+
+I expect that convincing our IT to reduce the level of monitoring on our development environments would be a hard argument, so I'm starting by looking at what mitigations I can make within the build processes. I'm trying to find some guidance / best practices on how to configure ""security software aware"" build processes, and I have not found anything. Does anyone have some resources they can share?",Mathematicaster,1hfd06b,https://reddit.com/r/devops/comments/1hfd06b/edr_and_build_systems_how_to_get_them_to_play/,https://www.reddit.com/r/devops/comments/1hfd06b/edr_and_build_systems_how_to_get_them_to_play/,2024-12-16 06:22:12,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hfd06b
+devops,Is Teleport widely used?,Is it worth it to learn it for upskilling considering its current market?,rama_rahul,1hewj2b,https://reddit.com/r/devops/comments/1hewj2b/is_teleport_widely_used/,https://www.reddit.com/r/devops/comments/1hewj2b/is_teleport_widely_used/,2024-12-15 16:44:32,13,0.78,13,0,20,0,0,False,False,True,False,False,,self,t3_1hewj2b
+devops,Deployment Issue,"Good day! I am still a beginner and this is my first time on deploying a website specifically a mern web. I deploy my web on render, the backend is working fine but the problem is the frontend it keeps on requesting on localhost:5000 which is my local backend. I already changed my baseURL, I am using axios for requesting btw, but it still requesting on my localhost... Why do you think is that????",Technical-Matter6376,1hfaqr3,https://reddit.com/r/devops/comments/1hfaqr3/deployment_issue/,https://www.reddit.com/r/devops/comments/1hfaqr3/deployment_issue/,2024-12-16 04:04:41,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1hfaqr3
+devops,How to handle test environments - locally and on the cloud? ,"Hi all, 
+
+  
+I am new to DevOps, and I have a bunch of questions on what are the best practices / tools to setup  test environments. Let's get a concrete example: you have one frontend app and one backend app (in the same repo - I am using bazel for my monorepo tooling)
+
+The backend app is self-contained, the frontend app makes http requests to the backend app to retrieve some information. 
+
+Let's say you want to provide the following capabilities: 
+
+1. A local test environment. You run the frontend/backend application locally, and you can test your changes. This is easy for the backend. For the frontend, you need to be able to connect to the backend app. My idea would be to use docker to setup a locally-running instance of the backend to which the frontend connects to. Ideally, this is completely isolated from the internet - meaning you can run this without any internet connection. 
+
+  
+2. A cloud test environment. Since this is meant to help developer testing things out, each developer can bring up its own test instances of the frontend/backend (with specific name, e.g. abcTest) and see the results on the cloud. 
+
+  
+I am currently mostly using GCP + Terraform for the backend (Vercel hosting for the frontend). Terraform doesn't provide an easy way to bring up ephemeral environments out of the box - you have to create a new directory with a bunch of files to get it to work. Ideally, one would have a single .tf file - and you just have to pass the name of the environment to bring it up. This doesn't really work with terraform. 
+
+  
+I am also exploring terragrunt for 2), which I hope will make it easier to have different ephemeral test environments. 
+
+  
+I would appreciate any suggestions! :)",Sbadabam278,1herh0p,https://reddit.com/r/devops/comments/1herh0p/how_to_handle_test_environments_locally_and_on/,https://www.reddit.com/r/devops/comments/1herh0p/how_to_handle_test_environments_locally_and_on/,2024-12-15 12:20:12,9,0.84,9,0,14,0,0,False,False,True,False,False,,self,t3_1herh0p
+devops,tips for terraform for devops interviews,"I have been trying to switch to DevOps from developer. The main issue I'm facing is that I don't have proper production experience with DevOps.  
+I knew Jenkins, python, shell, learned Docker, and Kubernetes, and got Cloud Practitioner certification  
+I am in the process of learning Terraform and would appreciate any tips on where to learn this from  
+I get stuck when they ask about production situations I have no experience ...  
+Do you happen to have any tips on how to improve this?  
+I would also appreciate any sort of training ground (KodeKloud ?) to practice this as EKS is not included in the free tier ",amanryzus,1hen70e,https://reddit.com/r/devops/comments/1hen70e/tips_for_terraform_for_devops_interviews/,https://www.reddit.com/r/devops/comments/1hen70e/tips_for_terraform_for_devops_interviews/,2024-12-15 07:02:03,15,0.77,15,0,14,0,0,False,False,True,False,False,,self,t3_1hen70e
+devops,A solution to the problem of cluster-wide CRDs,"I’m an average Reddit user, scrolling much more than reading or interacting. Sometimes, however, a post rings a giant red bell. When I stumbled upon [If you could add one feature to K8s, what would it be?](https://www.reddit.com/r/kubernetes/comments/1ga0deo/comment/lta8itb/?context=3&amp;share_id=ZS15DmQexSXUjhXuqQ81z), I knew the content would be worth it. The most voted answer is:
+
+&gt; Namespace scoped CRDs
+
+Here's a solution with vCluster: https://blog.frankel.ch/cluster-wide-crds/",nfrankel,1hexgsn,https://reddit.com/r/devops/comments/1hexgsn/a_solution_to_the_problem_of_clusterwide_crds/,https://www.reddit.com/r/devops/comments/1hexgsn/a_solution_to_the_problem_of_clusterwide_crds/,2024-12-15 17:26:07,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hexgsn
+devops,How do you use dynatrace effectively?,"I am trying to build a dashboard on dynatrace off metrics from metrics from an application that exports them via Prometheus. Example:
+
+            self.histogram_e2e_time_request = self._histogram_cls(
+                name=""e2e_request_latency_seconds"",
+                documentation=""Histogram of end to end request latency in seconds."",
+                labelnames=labelnames,
+                buckets=[1.0, 2.5, 5.0, 10.0, 15.0, 20.0, 30.0, 40.0, 50.0, 60.0])
+
+  
+I am not even able to display the different buckets, or the different percentiles e.g P99, P95. Coming from Grafana, this is a huge surprise to me. Can anyone point me in the right direction?",UnusualAgency2744,1hesi5d,https://reddit.com/r/devops/comments/1hesi5d/how_do_you_use_dynatrace_effectively/,https://www.reddit.com/r/devops/comments/1hesi5d/how_do_you_use_dynatrace_effectively/,2024-12-15 13:25:07,2,0.6,2,0,4,0,0,False,False,True,False,False,,self,t3_1hesi5d
+devops,Learn hands-on operating system concepts with IBM AIX on Coursera,"Here's the specialization: [https://www.coursera.org/specializations/mastering-operating-systems-with-ibm-aix](https://www.coursera.org/specializations/mastering-operating-systems-with-ibm-aix)
+
+It has three courses:
+
+1. [AIX Operating System Fundamentals](https://www.coursera.org/learn/aix-basics?specialization=mastering-operating-systems-with-ibm-aix)
+
+2. [System Administration with IBM AIX: Getting Started](https://www.coursera.org/learn/system-administration-with-ibm-aix?specialization=mastering-operating-systems-with-ibm-aix)
+
+3. [System Administration with IBM AIX: Beyond the Basics](https://www.coursera.org/learn/system-administration-with-ibm-aix-beyond-the-basics?specialization=mastering-operating-systems-with-ibm-aix)
+
+Earn an IBM badge at the end, which will help you in your career.",upenr1,1heycbr,https://reddit.com/r/devops/comments/1heycbr/learn_handson_operating_system_concepts_with_ibm/,https://www.reddit.com/r/devops/comments/1heycbr/learn_handson_operating_system_concepts_with_ibm/,2024-12-15 18:04:40,0,0.38,0,0,1,0,0,False,False,True,False,False,,self,t3_1heycbr
+devops,DevOps vs TestManager vs Test Automation as career ,"Hello, 
+
+I am curious about your advice. I have been working in IT for more than 15 years now. 
+I was software developer a few years, then spent around a decade in Test Automation engineer/ Test Lead/ Test Manager positions. 
+
+In the last 3 years I have been working as DevOps engineer. I think I am good in what I am doing but I wouldn't say I am great. In the field of Testing I can say I am great. My personal opinion though is that DevOps is a much more dynamic and challenging field so it is not a suprise. 
+
+I enjoy working on both fields the reason i changed to DevOps wasn't that I hated Testing but that I was afraid that with the emergence of AI there is not really a future of this field. (i am following the number of job posts and that seems to be verifying this) 
+
+Recently went for a few job interviews (mostly out of curiosity). I've got 2 DevOps offers with pretty much the same salary I have currently. 
+However, another company I went offered 2 positions :  a Test Automation Lead and a Test Manager one for around 20% salary than my current one. 
+Being in either position would be much less challenging, and super easy to do. 
+
+Unfortunately, that still won't negate that if I want to change again in the future probably won't be able to find anything(which is not crap) in testing and would forget enough/changes enough  in DevOps that I would be maximum a junior. 
+
+What donyou think? What would you do? Do you agree that DevOps has a mich brighter future or I am just mistaken?
+ ",sonic_plum,1hexqcw,https://reddit.com/r/devops/comments/1hexqcw/devops_vs_testmanager_vs_test_automation_as_career/,https://www.reddit.com/r/devops/comments/1hexqcw/devops_vs_testmanager_vs_test_automation_as_career/,2024-12-15 17:37:40,0,0.25,0,0,2,0,0,False,False,True,False,False,,self,t3_1hexqcw

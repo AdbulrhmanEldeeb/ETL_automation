@@ -1,0 +1,373 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Is this what web development is like?,"I have been working on web/mobile development since ~2019 as a hobby. I took a course on HTML/CSS/JS and then moved into learning react and more recently react native. I’ve definitely improved over this time, and can make higher quality things faster. Recently I’ve been more serious about it and am trying to make stuff which could actually be used by other people. While I find the general process really fun and addictive, I notice that I also feel a lot of stress and burnout when I’m working on a project. But the thing is, I don’t feel that stress from the actual programming- dealing with errors and things not working the way I want etc. is stimulating if not fun, since I know that there is some error in my thinking that I need to resolve. 
+
+What frustrates me is constantly fixing a seemingly endless onslaught of environment/set-up related issues. For example, right now I’m trying to use the expo-linking module in my expo development build and am getting a “Cannot find native module ExpoLinking” error. “main” has not been registered. “A module has failed to load due to an error and ‘AppRegistry.registerComponent’ wasn’t called.”
+
+Lately it feels like my time spent programming has been 20% actually writing code and 80% jumping between stackoverflow questions trying to resolve issues like this, fiddling with package.json when I don’t really understand what I’m doing. What is the name for this sort of problem?
+
+Is this simply what web development is like? Does it get easier? I am passionate about what I create so I usually just grind through these issues and slowly move forwards. I think I’m better at resolving these issues than when I started 5 years ago, or at the very least am suffering because I’m taking on more and more sophisticated projects.
+
+But to some extent I worry that I have a fundamental lack of knowledge which severely slows me down. I’ve only ever done this as a hobby which has mostly meant ‘learning by doing’ rather than ever actually sitting down and properly studying any of it. Is that what I need to do? What are the best resources for doing this? I study computer science at university but they don’t touch any of this sort of stuff. ",suAsuR,1hfbw2n,https://reddit.com/r/webdev/comments/1hfbw2n/is_this_what_web_development_is_like/,https://www.reddit.com/r/webdev/comments/1hfbw2n/is_this_what_web_development_is_like/,2024-12-16 05:12:09,62,0.81,62,0,58,0,0,False,False,True,False,False,Discussion,self,t3_1hfbw2n
+webdev,Why is Angular is seen as more hard to learning than React?,"I think is more easy to understand and more similar to HTML + CSS + JS courses that a component has a ts file, a css file and a html file than React JSX Soup. 
+I don't say Angular is better only that I don't see the more hard learning curve. ",OkTop7895,1hfhmqm,https://reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/,https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/,2024-12-16 12:04:47,56,0.78,56,0,75,0,0,False,False,True,False,False,,self,t3_1hfhmqm
+webdev,Type in html that looks like an old cash register receipt- possible?,"Trying to make a typeface on my website look as though it was printed on an old cash register like this - possible in html?  Thoughts appreciated! 
+
+https://preview.redd.it/o16pmcwoo27e1.png?width=622&amp;format=png&amp;auto=webp&amp;s=9430ce46dd7d23bfdf3398e4efb263807f738d43
+
+",Open_Outcome_5633,1hf1nca,https://reddit.com/r/webdev/comments/1hf1nca/type_in_html_that_looks_like_an_old_cash_register/,https://www.reddit.com/r/webdev/comments/1hf1nca/type_in_html_that_looks_like_an_old_cash_register/,2024-12-15 20:33:28,53,0.89,53,0,8,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/znHXs1OhQPecDuyaf_Mk07k4AFD2FyVhxMOB_ypvBCY.jpg,t3_1hf1nca
+webdev,I expected the below site to load slow but it's quite fast. Why?,"I'm talking about [https://ormaetxea.me/](https://ormaetxea.me/)
+
+I randomly came across this website and was curious about how their hero-background video cum GIF fares on PageSpeed reports.
+
+This is the report link:  
+[https://pagespeed.web.dev/analysis/https-ormaetxea-me/qrreu17fwn?form\_factor=desktop](https://pagespeed.web.dev/analysis/https-ormaetxea-me/qrreu17fwn?form_factor=desktop)
+
+https://preview.redd.it/3ntlxi8mg27e1.png?width=677&amp;format=png&amp;auto=webp&amp;s=d569b22ecdeb2e8d5c0f2aac30cf2d6d4855c663
+
+The website has quite high numbers across the board. And I'm super confused.
+
+You see, I spent the week trying to fix a website which embeds a video and is excruciatingly slow. I thought this particular website might be using a different format like 'WEBM' or some other strategy. But turns out they simply reference a video, kinda like a CDN.
+
+https://preview.redd.it/tnv7lxe2h27e1.png?width=1064&amp;format=png&amp;auto=webp&amp;s=d7a1e2ac6f65b82abc7d9771d80615c4e6d6be9a
+
+It even autoplays!  
+
+
+I checked the Network tab to get some hints but it left me further clueless
+
+https://preview.redd.it/0dv9mgcjh27e1.png?width=1640&amp;format=png&amp;auto=webp&amp;s=ac52f5519243c895c6688c5b9dcde12abd988ecb
+
+This shows the video is in the \`mp4\` format and takes \`36.55 seconds\` to download. But the video was playing as soon as the sight loaded i.e. within \`1.87 seconds\`  
+
+
+What's the catch here? What am I missing? This makes me feel real dumb icl
+
+Would appreciate any general insights.",kingsacrificer,1hf0rx4,https://reddit.com/r/webdev/comments/1hf0rx4/i_expected_the_below_site_to_load_slow_but_its/,https://www.reddit.com/r/webdev/comments/1hf0rx4/i_expected_the_below_site_to_load_slow_but_its/,2024-12-15 19:53:50,14,0.68,14,0,25,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/63i2ieMrBdmr65O9p9U8wzsHZ78FyHFzGuG_K5AJi3Y.jpg,t3_1hf0rx4
+webdev,I have created 4 websites that each receive a small amount of emails. What's the cheapest option to handle email for multiple small websites?,"I'm looking for a mail provider with an API that allows me to create a small web email client to handle them all at the same location. The reason for this is that i would like to automatically pull transaction data or whatever from my database by the senders email, implement some AI responses etc
+
+I'm checking out zoho, which is pretty cheap, but they seem to require approx 5USD per ""user"", i am one user, but i would like to create maybe [support@mysite.com](mailto:support@mysite.com) and [welcome@mysite.com](mailto:welcome@mysite.com) etc and i cba to pay for 8 seperate users due to this.
+
+Zeptomail seemed sick, but it's only for ""transactional emails"", you're not allowed to receive emails. Ultra cheap though.
+
+Gmail is 6USD/mo per email
+
+Mailgun is 35USD/mo if you want multiple domains",codeboii,1hffoz1,https://reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/,https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/,2024-12-16 09:48:14,6,0.72,6,0,24,0,0,False,False,True,False,False,,self,t3_1hffoz1
+webdev,Do you have any idea what's wrong with this website? (SEIZURE WARNING),"My wife is trying to buy Christmas gifts and sent me this website, for me and her at least it's refreshing constantly. I can't even get into dev tools on chrome.
+
+[https://mybamix.com/](https://mybamix.com/)",dazftw,1hf56oe,https://reddit.com/r/webdev/comments/1hf56oe/do_you_have_any_idea_whats_wrong_with_this/,https://www.reddit.com/r/webdev/comments/1hf56oe/do_you_have_any_idea_whats_wrong_with_this/,2024-12-15 23:16:11,7,0.68,7,0,13,0,0,False,False,True,False,False,,self,t3_1hf56oe
+webdev,Portfolio ideas? ,i need something fun to program for a web dev senior project. preferably react with a backend in node.,salvadorabledali,1hf1ttw,https://reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/,https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/,2024-12-15 20:41:33,6,0.87,6,0,3,0,0,False,False,True,False,False,,self,t3_1hf1ttw
+webdev,How do you market software projects?,"I was employed as C# Software Developer and as a hobby i have been programming for about 9 years in multiple languages, including js, html, css, php and all the other web stuff needed and more.
+
+I've made a ton of projects and i was recently fired and i want to go for self employment. I made 2 apis and a wordpress plugin, where the apis are for paypal payment processing &amp; secure downloads etc and the other is a ai api with moderation tools. The wordpress plugin is like a automod plugin, where users can restrict logins by email domain whitelist/blacklist and username blacklist with wildcards, smtp settings etc.
+
+I tried to make the plugin as useful as possible but my projects never succeed or get proper attention because, i believe, i dont know how to actually market stuff.
+
+this was a issue i encountered in almost all my projects. I make cool and useful stuff, never gets used cauz no one cares or knows.
+
+i even tried to run a etsy store with nice products actually, even paid for etsy ads, roughly 250-300€ and still no one bought my stuff. there is something im either missing or doing wrong. (i tried seo etc everything, yet i fail)
+
+im not really using social media stuff other then reddit sometimes and discord. so i wonder what am i doing wrong? i want to be a successful developer :c",HackTheDev,1hfippp,https://reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/,https://www.reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/,2024-12-16 13:09:14,4,1.0,4,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1hfippp
+webdev,Recommended ways to generate a visual report based on form data,"Greetings everyone,
+
+Apologies in advance if this question is either not allowed or has been answered before, but I just wanted to get an idea of the best methods to generate really visual reports based off form data.
+
+For context, I am building a web based application based on providing change management solutions - essentially a user will input form data including # of impacts, severity of impacts, who they impact and the environment - as well as including information surrounding the change, pre and post etc. 
+
+With that said, once a user submits this information, I want a report generated that could be presented at an executive steering committee - so think high visuals, fact based information, quick and to the point to capture attention, while still remaining professional. 
+
+I'm someone who needs a visual example to get ideas, but so far all the reports look dull and are top down based, they don't make use of cards, buttons, and other widgets so Im here looking for good recommendations, thanks again for all your help. ",PCLoadLetter84,1hf96u9,https://reddit.com/r/webdev/comments/1hf96u9/recommended_ways_to_generate_a_visual_report/,https://www.reddit.com/r/webdev/comments/1hf96u9/recommended_ways_to_generate_a_visual_report/,2024-12-16 02:38:33,2,0.75,2,0,4,0,0,False,False,True,False,False,Question,self,t3_1hf96u9
+webdev,Help with HTML and CSS layout for a row of images with various aspect ratios,"I have what I feel like is a very simple problem, but I can't figure it out (and AI has been no help). I have a website that is randomly selecting 4 images from a set of images to display. Many of the images have different aspect ratios, which is making this complicated. The images should be displayed in a single row and they should all have the exact same height. There should be no gaps or blank space between or around any of the images. None of the images should be cropped. Basically, the height of the entire container should adjust to line up all 4 images in a row with the same height while taking up the full width of the page.  The images do *not* need to all have the same width, but every solution I find seems to have this behavior.
+
+Here's what I've got so far with some example photos:
+
+    &lt;div class=""image-collage""&gt;
+        &lt;div class=""image-collage-image-container""&gt;&lt;img class=""image-collage-image""
+                                                        src=""/media/collage-images/16-batbox_hidive_lunniss.jpg""
+                                                        alt=""Random image""&gt;&lt;/div&gt;
+        &lt;div class=""image-collage-image-container""&gt;&lt;img class=""image-collage-image""
+                                                        src=""/media/collage-images/13-batbox_hidive_lunniss.jpg""
+                                                        alt=""Random image""&gt;&lt;/div&gt;
+        &lt;div class=""image-collage-image-container""&gt;&lt;img class=""image-collage-image""
+                                                        src=""/media/collage-images/Copy of 752 hubcaphalo.jpg""
+                                                        alt=""Random image""&gt;&lt;/div&gt;
+        &lt;div class=""image-collage-image-container""&gt;&lt;img class=""image-collage-image""
+                                                        src=""/media/collage-images/Copy of 836 hubcaphalo.jpg""
+                                                        alt=""Random image""&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+    .image-collage {
+        display: grid;
+        grid-auto-flow: column;
+        grid-auto-columns: auto;
+        width: 100%;
+        height: auto;
+    }
+    
+    .image-collage-image-container {
+        display: flex;
+        align-items: center;
+    }
+    
+    .image-collage-image {
+        height: auto;
+        width: 100%;
+        filter: brightness(75%);
+    }
+
+And here's how it's rendering:
+
+https://preview.redd.it/dwznv8zfh47e1.png?width=3828&amp;format=png&amp;auto=webp&amp;s=6f92f26b969d12d621c5851863f618bcee950509
+
+As you can see, the second image has blank space above and below in order to fill the space, but I don't want that. What I want is the rest of the images to shrink until they all have the same height, then all grow together until they fill the width of the page.
+
+I hope my explanation makes sense. Any help is appreciated.  
+",B00mKing,1hf9619,https://reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/,https://www.reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/,2024-12-16 02:37:20,2,0.75,2,0,1,0,0,False,False,True,False,False,Question,https://a.thumbs.redditmedia.com/e_a2VvGBkqw1Rk3bKrWhPT_7iMKfh2piF5wyzREODs4.jpg,t3_1hf9619
+webdev,How are Laravel and Drupal for ecommerce?,"I decided for my next project to learn new skills I want to build a small ecommerce site.  I have built plenty of sites with different frameworks, but nothing that handles customer payment information.
+
+I know shopify is an easy solution, and I have looked at woocommerce too.
+
+But I keep hearing about how great Laravel is, so I started looking into that as part of a stack for e-commerce, which also led me to Drupal.  While this is a hobby project, it would be good to build something that gives me the skills for real projects in the future, and my biggest concern with developing an eCommerce site is the handling of payment or customer data.
+
+So I am trying to find out before I set off down a new path of learning, if either Drupal or Laravel are worth pursuing for developing ecommerce? And are either inherently better / easier for building secure sites for handling payment or customer data",Various_Ad5600,1hf74t8,https://reddit.com/r/webdev/comments/1hf74t8/how_are_laravel_and_drupal_for_ecommerce/,https://www.reddit.com/r/webdev/comments/1hf74t8/how_are_laravel_and_drupal_for_ecommerce/,2024-12-16 00:52:03,2,1.0,2,0,3,0,0,False,False,True,False,False,,self,t3_1hf74t8
+webdev,Best Approach for Authorization in a Nested Resource Structure ,"I have an app with the following structure:
+
+* A `Company` has many `Clients`.
+* Each `Client` has many `Projects`.
+* Each `Project` has many `Tasks`.
+* A `User` belongs to a `Company` and can only access/edit/delete tasks associated with the same company.
+
+I need to ensure that users can only access resources (like tasks) that belong to their company. I’m considering two main approaches:
+
+1. **Option 1: Add** `company_id` **to all related tables (e.g.,** `tasks`**,** `projects`**,** `clients`**)** This would allow quick authorization checks by comparing `company_id` directly, reducing the need for joins when querying.
+2. **Option 2: Use a purely hierarchical approach** This would maintain relationships (`task → project → client → company`) and enforce access through the hierarchy, resulting in complex joins but no redundant data.
+
+
+
+In my opinion Option 1 feels better because i can straight away check if a user can edit a task or not, instead of joining tasks with project and client and then checking the company\_id's of them both.
+
+Would there be significant performance or maintainability trade-offs with each approach? Which method would you recommend and why?
+
+Thanks in advance for your insights!",mizerablepi,1hf4l1a,https://reddit.com/r/webdev/comments/1hf4l1a/best_approach_for_authorization_in_a_nested/,https://www.reddit.com/r/webdev/comments/1hf4l1a/best_approach_for_authorization_in_a_nested/,2024-12-15 22:47:13,2,0.75,2,0,16,0,0,False,False,True,False,False,Discussion,self,t3_1hf4l1a
+webdev,Education for self taught dev,"I'm a self taught senior web dev and never had any formalized schooling.  In the past I took some Pluralsight courses, to help get more formalized education in some areas.  I work primarily with .Net, SQL, and JavaScript.  I've been learning Vue and integrating it into my work. What sites, schooling, or any other educational resources would you recommend to help round someone out or to further their knowledge?",kinggoosey,1hfk2md,https://reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/,https://www.reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/,2024-12-16 14:18:07,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1hfk2md
+webdev,"anyone running stable diffusion without GPU?
+","I wanted to try running it on my CPU only setup without GPU to see if there's anyway that I can run without GPU but still made it so I would love to learn from your tips
+
+My setups includes: 
+
+▸Quad-core CPU ( Intel Core i7-1165G7)
+
+▸ 64 GB RAM
+
+They took me \~10-15 minutes per image (512x512 resolution) and \~8 GB RAM memory usage.
+
+Has anyone else successfully run stable diffusion on a CPU-only setup? I'm on a minimum budget, can you give me some recs? Thanks",kaydyday,1hffdxs,https://reddit.com/r/webdev/comments/1hffdxs/anyone_running_stable_diffusion_without_gpu/,https://www.reddit.com/r/webdev/comments/1hffdxs/anyone_running_stable_diffusion_without_gpu/,2024-12-16 09:23:31,1,0.54,1,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hffdxs
+webdev,Editorjs and Word Copy Paste,"I am having this issue where when my client pastes from word into editorjs, it keeps reading this as as image and using he image paste handler. This only happens in word though, if pasting from something like onlyoffice or libre it works just fine, which is very weird. if anyone has had a similar issue or know any potential fixes, any help would be highly appreciated. thanks.",SnooWords5221,1hfeovw,https://reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/,https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/,2024-12-16 08:28:45,1,1.0,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1hfeovw
+webdev,How to debug Largest Contentful Paint on mobile being slow?,"I'm working on a large site with multiple plugins using a C# CMS. A Lighthouse scan in Chrome shows an LCP of 1.5 seconds on desktop but 10.1 seconds on mobile. Lighthouse results vary significantly across runs—ranging from 11.2 to 15.3 seconds—so I'm skeptical of its consistency. Could the slow mobile performance be due to simulated 3G speeds?
+
+I've checked [WebPageTest.org](http://WebPageTest.org), which reports a 6.776-second load time. The LCP element is a div with a 12KB compressed WebP background image, so it’s already optimized. I suspect render-blocking resources might be a factor, but there are only five of them, each under 200ms, so they account for less than a second.
+
+I'm trying to make sense of the results, especially the waterfall view, to identify render-blocking resources. There are several 3xx responses listed—would these redirections significantly affect load times?",ShawnyMcKnight,1hfc9cw,https://reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/,https://www.reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/,2024-12-16 05:34:50,1,0.6,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hfc9cw
+webdev,Pokemon TCG Pocket: Opening Packs Javascript CSS?,"There are a ton of tutorials on card flips sure, but to create that entire animation of all cards rotating in a caroseul seems pretty hard, dynamically. I want to re-create the same effect, but instead of pokemon packs, it would be random restaurant names or categories. I looked at Framer Motion, which seems to have slick animations, but it seems to use all svg's. Anyone know how to implement this easily? Or which suggested libraries/frameworks, do not want to make this from absolute scratch.
+
+  
+TLDR: How to copy Pokemon Trading Card Game Pocket's implementation of opening packs easily.",smokiebacon,1hf71sa,https://reddit.com/r/webdev/comments/1hf71sa/pokemon_tcg_pocket_opening_packs_javascript_css/,https://www.reddit.com/r/webdev/comments/1hf71sa/pokemon_tcg_pocket_opening_packs_javascript_css/,2024-12-16 00:47:55,1,0.67,1,0,3,0,0,False,False,True,False,False,,self,t3_1hf71sa
+webdev,Project suggestion ,"Hi. I need projects that have complex relational databases in them. 
+All my works have very simple databases cause I only focused on the web page database connection basics.
+I'm gonna use python and postgresql. 
+So far I only have a university system in mind... It seems pretty complex, you know with the courses, teachers, students, semesters, grades, rules on taking x lesson etc...
+I need projects like that, so if you have any suggestions, I'd be happy to hear.
+And if you think there are better alternatives to postgresql I would like to know...",Automatic-Fuel4308,1hf4yuk,https://reddit.com/r/webdev/comments/1hf4yuk/project_suggestion/,https://www.reddit.com/r/webdev/comments/1hf4yuk/project_suggestion/,2024-12-15 23:05:26,1,0.67,1,0,4,0,0,False,False,True,False,False,,self,t3_1hf4yuk
+webdev,Innovexia webnchat ,I've built a simple web chat app and is still in very early stages. Will be sending a mass update in coming days for many new features and fixed bugs. I want to invite a few users to try it out just do simple testing.  Login signup all work and guest account works. If anyone has questions feel free to ask. If you interested let me know I will DM the link. IOS devices can have issues with side Menu. Websearch is not fully integrated on deployment side but in this image of the web search shows the soon to come update which I'm still refining. ,Loud-Decision9817,1hex53a,https://reddit.com/r/webdev/comments/1hex53a/innovexia_webnchat/,https://www.reddit.com/gallery/1hex53a,2024-12-15 17:11:44,2,0.62,2,0,3,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/qh7pn2pXBQ4-_aBXe5z4JKXSG23AXDp9Owawo9U963Y.jpg,t3_1hex53a
+webdev,Notification on website change,"Tldr
+I need someone to help me set up web alert as soon as there is some change or website (ie new article on News source)
+
+Hello everyone 
+
+I'm a very big fan of RSS but as you guys know not everything website is offering that 
+
+I've been trying to find some solution I manage to find an Android application that offers the option to get notification as soon as there is a certain change in website 
+In my case that is going to be new news or video being published 
+
+The problem is I'm having small difficulties setting that up 
+I'm not quite sure how to set up the whole process since I'm getting lots of irrelevant information I don't quite care about 
+
+I've been trying to select title or maybe even something between &lt;span&gt;but it doesn't quite give me consistent results 
+
+I'll provide a video of what I exactly mean 
+
+I wish someone could help me whether here or through dm
+
+Thank you 
+
+
+https://drive.google.com/file/d/1I9odiehxLfYomRydwFeYHf9m34w4FwZS/view?usp=drivesdk",Shock9191,1hezn5a,https://reddit.com/r/webdev/comments/1hezn5a/notification_on_website_change/,https://www.reddit.com/r/webdev/comments/1hezn5a/notification_on_website_change/,2024-12-15 19:03:03,0,0.5,0,0,2,0,0,False,False,True,False,False,Question,self,t3_1hezn5a
+webdev,Scam question ,"It’s not really a development question but since they’re asking for our development services, I thought it would fit. 
+
+We’re constantly getting emails on our contact form asking for proposal for companies both large and small and the contact number has an area code that always  starts with a 1 (not a +1, just something like 120 and then a standard number). 
+
+I know it has to be a scam but I can’t figure out what they’re trying to accomplish. Can anyone explain this to me?",franktheduck,1hezdzs,https://reddit.com/r/webdev/comments/1hezdzs/scam_question/,https://www.reddit.com/r/webdev/comments/1hezdzs/scam_question/,2024-12-15 18:51:56,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1hezdzs
+webdev,How much time do you normally need to build this?,"2 years front end half a year back end dev, self taught, curious to know if there is anyone who can achieve this faster, and if experience really matters. 
+
+I'm building a full car rental management system for a car rental shop owner, and I promised him to deliver the app in a month or two, now I'm in day 28 of building it, and I can see myself completing it by day 40. The app consists of almost all he needs to manage his work: dashboard, clients, cars, rentals, expenses... with all CRUD operations fully working, with reusable components. and I didn't reach the authentication and notification parts yet. Almost completed the front end but struggling with the server side logic.
+
+This is my first freelance project -- out of my full time work, and I don't even know how much I should charge him (third world country). I work on this project daily for about 2 to 4 hours per day. He expects the project as a cross platform app, so I may be wrapping it later in Electron. 
+
+So I just need to know your opinion about this, and how much time would it normally take you to build this cuz 2 months seems like a lot",WadieZN,1hex2wa,https://reddit.com/r/webdev/comments/1hex2wa/how_much_time_do_you_normally_need_to_build_this/,https://www.reddit.com/r/webdev/comments/1hex2wa/how_much_time_do_you_normally_need_to_build_this/,2024-12-15 17:09:06,0,0.5,0,0,61,0,0,False,False,True,False,False,,self,t3_1hex2wa
+webdev,Web Share API,"https://chrisdevcode.medium.com/sharing-content-from-your-web-app-e800ae2fc8c9
+
+Read more on web share api, and demo on usage",Complete_Date7964,1hffezh,https://reddit.com/r/webdev/comments/1hffezh/web_share_api/,https://www.reddit.com/r/webdev/comments/1hffezh/web_share_api/,2024-12-16 09:25:55,0,0.42,0,0,2,0,0,False,False,True,False,False,,self,t3_1hffezh
+webdev,"Seeking a Secure, Asynchronous, and Rapid-Development Full-Stack Framework","Hello everyone,
+
+I'm on the hunt for a modern full-stack web framework that comes ""batteries included."" Here are my key requirements:
+
+1. Security on par with Django
+2. Asynchronous capabilities like those found in Node.js frameworks
+3. Rapid development similar to Laravel, Django, or Ruby on Rails
+
+I've consulted three AI tools—Perplexity, ChatGPT-4, and Claude 3.5—for their insights. Here’s what they suggested:
+
+\# Perplexity
+
+| Framework         | Security | Async Capability | Fast Development | Additional Notes                                           |
+
+|-------------------|----------|------------------|------------------|-----------------------------------------------------------|
+
+| Django            | High     | Limited          | Yes              | Python-based, ""batteries included""                        |
+
+| Laravel           | Good     | Limited          | Yes              | PHP-based, rapid development                              |
+
+| Ruby on Rails     | Good     | Limited          | Yes              | Ruby-based, convention over configuration                 |
+
+| FastAPI           | High     | Yes              | Yes              | Python-based, high performance, automatic API documentation |
+
+| Phoenix (Elixir)  | High     | Yes              | Yes              | Erlang VM, excellent for real-time applications           |
+
+\# Claude
+
+| Framework         | Language            | Security Level | Async Capability | Dev Speed         | Full-Stack | Real-Time  | ORM        | Key Strengths                              |
+
+|-------------------|---------------------|----------------|------------------|-------------------|------------|------------|------------|--------------------------------------------|
+
+| NestJS            | TypeScript         | Excellent      | Native Async     | Very Fast         | ✓          | Excellent  | TypeORM    | Enterprise-grade, Microservices            |
+
+| Blitz.js          | TypeScript         | Very Good      | Native Async     | Extremely Fast    | ✓          | Good       | Prisma     | Full-stack, Rapid Development              |
+
+| Phoenix           | Elixir             | Exceptional    | Native Async     | Fast              | ✓          | Exceptional| Ecto       | Highest Concurrency, Real-Time             |
+
+| RedwoodJS         | JavaScript/TypeScript | Good         | Async Support    | Very Fast         | ✓          | Good       | Prisma     | JAMstack, Full-stack                       |
+
+| FeathersJS        | Node.js            | Excellent      | Native Async     | Fast              | Partial    | Good       | Adaptable  | Microservices, Flexible                    |
+
+\# ChatGPT
+
+| Rank | Framework        | Language         | Async Support                        | Security Features                                                                                               | Dev Speed (Fast?)            | Key Strengths                                                                                 | Key Weaknesses                                                                                   |
+
+|------|------------------|------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+
+| 1    | \*\*Django\*\*       | Python           | Partial (via ASGI and Channels)      | - Built-in CSRF, XSS, SQL injection protection.&lt;br&gt;- ORM auto-escaping.&lt;br&gt;- Middleware for security headers. | Very fast                   | Mature, secure, ""batteries included.""                                                       | ORM and middleware are synchronous by default.                                                  |
+
+| 2    | \*\*FastAPI\*\*      | Python           | Native async-first                   | - Input validation (Pydantic).&lt;br&gt;- OAuth2 and JWT support.&lt;br&gt;- High security practices for APIs.            | Very fast                   | High performance, easy to scale, async-first.                                               | Not as ""batteries included"" as Django (requires third-party tools for full-stack dev).          |
+
+| 3    | \*\*Phoenix\*\*      | Elixir           | Native async with LiveView           | - CSRF/XSS protection.&lt;br&gt;- Fault-tolerant.&lt;br&gt;- Secure real-time features (LiveView).                        | Fast                        | Real-time built-in; functional programming minimizes bugs.                                   | Smaller ecosystem; functional programming may be a learning curve.                              |
+
+| 4    | \*\*Blitz.js\*\*     | JavaScript/TS    | Native async with Node.js            | - Built-in authentication and role-based access.&lt;br&gt;- Secure defaults via Next.js.&lt;br&gt;- Handles XSS, CSRF.    | Very fast                   | Combines modern JS ecosystem with ""batteries included"" simplicity.                          | Dependent on Node.js ecosystem; scaling SSR apps can be resource-intensive.                     |
+
+| 5    | \*\*Laravel\*\*      | PHP              | Partial (async extensions available) | - CSRF/XSS protection.&lt;br&gt;- Built-in password hashing.&lt;br&gt;- Secure ORM defaults.                              | Very fast                   | Rich ecosystem, easy for rapid prototyping.                                                 | Requires async extensions for full async support.                                               |
+
+| 6    | \*\*Ruby on Rails\*\*| Ruby             | Partial (via Puma or Async Gem)      | - Built-in CSRF/XSS protection.&lt;br&gt;- Auto-escaping in templates.&lt;br&gt;- ActiveRecord ORM mitigates SQL injection.| Fast                        | Mature, highly productive framework.                                                        | Limited async support and performance for modern needs.                                          |
+
+| 7    | \*\*NestJS\*\*       | TypeScript/JS    | Native async with Node.js            | - Middleware-based security (Helmet.js, CORS).&lt;br&gt;- Role-based access via guards.&lt;br&gt;- OAuth2/JWT integration.| Moderate                    | Modular and scalable architecture with TypeScript safety.                                    | Relies heavily on developer configuration for optimal security.                                 |
+
+| 8    | \*\*AdonisJS\*\*     | JavaScript/Node  | Native async with Node.js            | - CSRF protection.&lt;br&gt;- Input validation and sanitization.&lt;br&gt;- ORM with SQL injection prevention.            | Fast                        | Laravel-like experience for Node.js ecosystem.                                              | Smaller community; limited prebuilt security tools.                                             |
+
+| 9    | \*\*Hapi.js\*\*      | JavaScript/Node  | Native async with Node.js            | - Joi for input validation.&lt;br&gt;- CSRF protection.&lt;br&gt;- Secure routing and headers.                            | Moderate                    | Explicit configuration ensures API security.                                                | Configuration-heavy compared to other frameworks.                                               |
+
+| 10   | \*\*Fastify\*\*      | JavaScript/Node  | Native async with Node.js            | - Schema validation.&lt;br&gt;- Secure headers (Helmet plugin).&lt;br&gt;- CSRF protection (plugin).                      | Moderate                    | High performance with minimal overhead.                                                     | Requires third-party plugins for full security; smaller ecosystem than others.                  |
+
+What are your thoughts? Any recommendations or experiences with frameworks that meet these criteria?",reditoro,1hfel42,https://reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/,https://www.reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/,2024-12-16 08:20:32,0,0.2,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hfel42
+webdev,"I can't import images from upsplash, for using in my HTML file.","The picture is not loading and if I click the image and and open in another tab it's showing the url not found.
+I'm using webstrom ide, I also tried in vs studio same thing happened. What to do?",YUBEESENPAI,1hf612y,https://reddit.com/r/webdev/comments/1hf612y/i_cant_import_images_from_upsplash_for_using_in/,https://www.reddit.com/r/webdev/comments/1hf612y/i_cant_import_images_from_upsplash_for_using_in/,2024-12-15 23:58:17,0,0.2,0,0,18,0,0,False,False,True,False,False,,self,t3_1hf612y
+webdev,Website displaying different number than what its supposed to,"This isn't for my website but an issue I'm trying to help with.
+
+As the title says the website is displaying a different number than what is supposed to, however it only is happening on their device and I haven't been able to get the different number to appear on my computer or phone as of yet.
+
+Any suggestions or advice as to what would be causing this will be greatly appreciated.
+
+Thank you.",PINK_KPL3T,1hf4pd1,https://reddit.com/r/webdev/comments/1hf4pd1/website_displaying_different_number_than_what_its/,https://www.reddit.com/r/webdev/comments/1hf4pd1/website_displaying_different_number_than_what_its/,2024-12-15 22:53:01,0,0.14,0,0,6,0,0,False,False,True,False,False,,self,t3_1hf4pd1
+webdev,"Your Source to Prompt: Turn your code into an LLM prompt, but with way more features!","I just made this useful tool as a single html file that lets you easily turn your coding projects into targeted single text files for use in LLM prompts for AI-aided development:
+
+ [https://github.com/Dicklesworthstone/your-source-to-prompt.html](https://github.com/Dicklesworthstone/your-source-to-prompt.html)
+
+Unlike the many other existing competing projects-- to name just a few: 
+
+1. [files-to-prompt](https://github.com/simonw/files-to-prompt)
+2. [repo2txt](https://repo2txt.simplebasedomain.com/)
+3. [code2prompt](https://github.com/mufeedvh/code2prompt)
+4. [repomix](https://github.com/yamadashy/repomix)
+5. [ingest](https://github.com/sammcj/ingest)
+6. [1filellm](https://github.com/jimmc414/1filellm)
+7. [repo2file](https://github.com/artkulak/repo2file)
+
+...there are some real advantages to this one that make it stand out:
+
+* It's a single html file that you download to your local machine-- that's it! just open in a modern browser like chrome and you can use it securely. 
+
+* Because it's locally hosted, with no requirements like python or anything else, it's very quick to get it running on any machine, and because it's local, you can use it on your own private repos without worrying about using a github authorization token or similar annoyance. 
+
+* You don't even need to be working with a repo at all, it works just as well with a regular folder of code files.
+
+Also, I added tons of quality of life improvements that were major pain points for me personally:
+
+These include laboriously re-selecting the same or very similar subset of files over and over again; now you can save a preset (either to localStorage in the browser or exported and saved as a JSON file) and dramatically speed this up. There are also a few other features to speed up the file selection process, such as quick string based filtering on file names, and common quick selection patterns (such as ""select all React files""). 
+
+It also keeps track of the total size in KB and lines of text that have been selected in a handy tally section which is always visible in the upper right corner, so you always know when you are reaching the maximum of the context window of whatever model you're working with. Based on my experience, I added in warnings for GPT4o and o1 and also Claude3.5 Sonnet.
+
+Before the listing of the files and their contents, it also automatically includes the hierarchical file/folder structure of the files you select, and next to each one, shows the size in KB and the number of lines, which helps give the model context about which files are the most important. 
+
+I also added the ability to minify the code so you can cram more into the context window.
+
+You can also specify a ""preamble"" that you can save and quickly edit, as well as a ""goal"" where you specify what you're trying to accomplish.",dicklesworth,1hf0yrg,https://reddit.com/r/webdev/comments/1hf0yrg/your_source_to_prompt_turn_your_code_into_an_llm/,https://www.reddit.com/r/webdev/comments/1hf0yrg/your_source_to_prompt_turn_your_code_into_an_llm/,2024-12-15 20:02:12,0,0.2,0,0,1,0,0,False,False,True,False,False,Resource,self,t3_1hf0yrg
+webdev,Resume feedback for full-stack dev for fully remote global roles,"Hi! Would love general feedback.
+
+**About**
+
+* Will job hunt in Feb 2025 onwards
+* Targeting fully remote full-stack or backend roles globally
+* Targeting larger companies over startups, but open to either (would love to work on large systems, I really like learning about scalability)
+* Prefer not to relocate and currently unable to, but can as a last resort in second half of 2025 onwards. Planning to relocate in future years
+* Was a working student during all of my listed experiences
+* Have never interviewed for jobs globally before
+
+**Requesting feedback on**
+
+* Feedback on the metrics and bullets
+* Formatting: I put the technologies per position below the bullet points since it might be more readable for interviewers. Would this cause ATS to think I'm spamming keywords?
+* I've read most companies hire fully remote but only within their country like ""Remote US"", and most are now shifting to hybrid. Do you think it's still realistic to target companies with fully remote roles abroad for 2025?
+* General resume impressions or interview advice
+
+--
+
+Would love your thoughts, thank you!",-metasequoia,1hf0bno,https://reddit.com/r/webdev/comments/1hf0bno/resume_feedback_for_fullstack_dev_for_fully/,https://i.redd.it/zb2svh46e27e1.png,2024-12-15 19:33:31,0,0.31,0,0,15,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/fvTSw87hVsKY64qpkfz0sYhbnS72rmB-29-pbhXAfSI.jpg,t3_1hf0bno
+webdev,What are some of the benefits that people don’t often talk about?,"For example maybe health and PTO, vacation etc. Are there any benefits of your job people usually don’t focus on?",EspressoOverdose,1hf45pk,https://reddit.com/r/webdev/comments/1hf45pk/what_are_some_of_the_benefits_that_people_dont/,https://www.reddit.com/r/webdev/comments/1hf45pk/what_are_some_of_the_benefits_that_people_dont/,2024-12-15 22:27:27,0,0.13,0,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1hf45pk
+webdev,Is the back end usually easier in visual studio code or in a CMS like word press,I'm a newbie trying to link a database to a website. What's the better and easier way to do it?,Careless-Yogurt-7871,1hf0e8a,https://reddit.com/r/webdev/comments/1hf0e8a/is_the_back_end_usually_easier_in_visual_studio/,https://www.reddit.com/r/webdev/comments/1hf0e8a/is_the_back_end_usually_easier_in_visual_studio/,2024-12-15 19:36:50,0,0.13,0,0,12,0,0,False,False,True,False,False,Question,self,t3_1hf0e8a
+webdev,Code on frontend of my website. I can't remove. How do I remove it?,"I have no idea how this piece of code started to appear on my website but it's on my home page and other pages and I have no idea how to remove. I've updated plugins and also deactivated them to see if it sorts the problem, but it's doesn't seem to fix. I've also updated the theme I was using but no luck. Can somebody please help me. Thanks",Thenotorioustabz,1hezsyk,https://reddit.com/r/webdev/comments/1hezsyk/code_on_frontend_of_my_website_i_cant_remove_how/,https://www.reddit.com/gallery/1hezsyk,2024-12-15 19:10:26,0,0.31,0,0,6,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/CmTE6rqra53t80c1Xa7O0ixOWvXNct3d42iHAm7kmUA.jpg,t3_1hezsyk
+webdev,How do I build a website with Godaddy..?,"This may be painfully stupid, but I am confused and cannot find clarification here.
+
+I purchased a domain through Godaddy. It supposedly offered free website creation, however I cannot effectively customize the website at all without buying a fucking subscription through them. Right now I basically just have the website and a ""coming soon"" page.
+
+Is there something I'm missing? How do I create an actual web page now?",Today-,1hf861d,https://reddit.com/r/webdev/comments/1hf861d/how_do_i_build_a_website_with_godaddy/,https://www.reddit.com/r/webdev/comments/1hf861d/how_do_i_build_a_website_with_godaddy/,2024-12-16 01:45:03,0,0.27,0,0,14,0,0,False,False,True,False,False,,self,t3_1hf861d
+webdev,I developed a chrome extension that uses AI to organize your Chrome tabs,"Hey guys, This extension is my humble tryout to make our browser a bit more organized. It offers 3 different methods to organize your tabs - by category, last access or prediction (which tabs your'e more likely to visit next).
+
+The extension uses Gemini turbo 1.5 to categorize your tabs. 
+
+  
+Please let me know what you think
+
+[https://chromewebstore.google.com/detail/ato-ai-tab-organizer/dhljacmljbbiihhjfjcjaebajabeedfg](https://chromewebstore.google.com/detail/ato-ai-tab-organizer/dhljacmljbbiihhjfjcjaebajabeedfg)
+
+
+
+also I've made a little video to demonstrate the extension features
+
+[https://www.youtube.com/watch?v=RpxBAnwHmUM](https://www.youtube.com/watch?v=RpxBAnwHmUM)",tamir_nakar,1hf2h7s,https://reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/,https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/,2024-12-15 21:10:51,0,0.2,0,0,1,0,0,False,False,True,False,False,,self,t3_1hf2h7s
+webdev,Webpack vs Vite: Which Bundler is Right for You?,,ArunITTech,1hfi7ld,https://reddit.com/r/webdev/comments/1hfi7ld/webpack_vs_vite_which_bundler_is_right_for_you/,https://syncfusion.com/blogs/post/webpack-vs-vite-bundler-comparison,2024-12-16 12:40:49,0,0.22,0,0,23,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/RfDaiyKPa6akZjvFIFEoxQND7yQB31JoPoWeOXZWP60.jpg,t3_1hfi7ld

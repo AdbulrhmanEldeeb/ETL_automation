@@ -1,0 +1,107 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Data science is a luxury for almost all companies,"Let's face it, most of the data science project you work on only deliver small incremental improvements. Emphasis on the word ""most"", l don't mean all data science projects.
+Increments of 3% - 7% are very common for data science projects.
+I believe it's mostly useful for large companies who can benefit from those small increases, but small companies are better of with some very simple ""data science"". They are also better of investing in a website/software products which could create entire sources of income, rather than optimizing their current sources.
+",takuonline,1hf03dq,https://reddit.com/r/datascience/comments/1hf03dq/data_science_is_a_luxury_for_almost_all_companies/,https://www.reddit.com/r/datascience/comments/1hf03dq/data_science_is_a_luxury_for_almost_all_companies/,2024-12-15 19:23:16,616,0.9,616,0,152,0,0,False,False,True,False,False,Discussion,self,t3_1hf03dq
+datascience,What projects are you working on and what is the benefit of your efforts? ,"I would really like to hear what you guys are working on, challenges you’re facing and how your project is helping your company. Let’s hear it. ",Firm-Message-2971,1hf1180,https://reddit.com/r/datascience/comments/1hf1180/what_projects_are_you_working_on_and_what_is_the/,https://www.reddit.com/r/datascience/comments/1hf1180/what_projects_are_you_working_on_and_what_is_the/,2024-12-15 20:05:16,56,0.87,56,0,72,0,0,False,False,True,False,False,Discussion,self,t3_1hf1180
+datascience,Capital One Power Day for Data Scientist,"Hi all,
+
+I have an upcoming **Capital One Power Day** interview for a Data Scientist role, and I was hoping to get some insights from those who have recently gone through the process.
+
+The day consists of 4 rounds:
+
+1. **Stats Role Play**
+2. **Analyst Case**
+3. **Technical Interview**
+4. **Job Fit**
+
+I’m particularly curious about:
+
+* **Technical Interview**: I’ve heard this round has become more hands-on, and it might include coding. Can anyone clarify what to expect here? Will it involve **SQL, Python, or data science concepts**? Is it like a live coding round or more of a whiteboard discussion?
+* **Stats Role Play**: What kinds of questions come up in this round? Are they conceptual (e.g., hypothesis testing, p-values) or applied (e.g., real-world problem-solving)?
+* **Analyst Case**: Any tips on preparing for this? Should I expect A/B testing, metrics calculations, or broader business problem discussions?
+
+Any advice, resources, or experiences would be super helpful! Thanks so much in advance!",Ordinary-Secret7623,1hevjxw,https://reddit.com/r/datascience/comments/1hevjxw/capital_one_power_day_for_data_scientist/,https://www.reddit.com/r/datascience/comments/1hevjxw/capital_one_power_day_for_data_scientist/,2024-12-15 16:00:11,30,0.88,30,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hevjxw
+datascience,What’s the point of testing machine learning model knowledge during interviews for non-research data science roles?,"I always make an effort to learn how a model works and how it differs from other similar models whenever I encounter a new model. So it felt natural to me that these topics were brought up in interviews.
+
+However, someone recently asked me a question that I hadn’t given much thought to before: what’s the point of testing machine learning model knowledge during interviews for non-research data science roles?
+
+Interview questions about model knowledge often include the following, especially if a candidate claims to have experience with these models:-
+
+* what's the difference between bagging and boosting? 
+* whether LightGBM uses leaf-wise splitting or level-wise splitting?
+* what's the underlying assumptions of linear regression?
+
+I learned these concepts because I’m genuinely interested in understanding how models work. But, coming back to the question: How important is it to have deep technical knowledge of machine learning models for someone who isn’t in a research position and primarily uses these tools to solve business problems?
+
+From my experience, knowing how models learn from data has occasionally helped me identify issues during the model training process more quickly. But I couldn’t come up with a convincing argument to justify why it is fair to test this knowledge, other than “the candidate should know it if they are using it.”
+
+What’s your experience with this topic? Do you think understanding the inner workings of machine learning models is critical enough to be tested during interviews?",orz-_-orz,1hewiu9,https://reddit.com/r/datascience/comments/1hewiu9/whats_the_point_of_testing_machine_learning_model/,https://www.reddit.com/r/datascience/comments/1hewiu9/whats_the_point_of_testing_machine_learning_model/,2024-12-15 16:44:15,27,0.83,27,0,24,0,0,False,False,True,False,False,Discussion,self,t3_1hewiu9
+datascience,Best domains for machine learning ?,"What are the best domains for expertise where I can use machine learning ? I don't want to use machine learning as it is I want a domain to use it, for eg: I have read about signal processing, healthcare, finance etc. 
+
+ ",RoyalChallengers,1hexjm9,https://reddit.com/r/datascience/comments/1hexjm9/best_domains_for_machine_learning/,https://www.reddit.com/r/datascience/comments/1hexjm9/best_domains_for_machine_learning/,2024-12-15 17:29:32,9,0.65,9,0,38,0,0,False,False,True,False,False,Discussion,self,t3_1hexjm9
+datascience,"Weekly Entering &amp; Transitioning - Thread 16 Dec, 2024 - 23 Dec, 2024"," 
+
+Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",AutoModerator,1hfbpe1,https://reddit.com/r/datascience/comments/1hfbpe1/weekly_entering_transitioning_thread_16_dec_2024/,https://www.reddit.com/r/datascience/comments/1hfbpe1/weekly_entering_transitioning_thread_16_dec_2024/,2024-12-16 05:01:24,3,0.81,3,0,1,0,0,False,False,True,False,False,,self,t3_1hfbpe1
+datascience,Normalizing Text Attributes ,"I'm working on a project where I need to classify product attribute variants according to a standard list of product attributes. I'm considering using a similarity model to avoid the manual effort involved with labeled data. I have tried using pre-trained sentence embedding transformers, but they were ineffective because they failed to differentiate variants with similar contexts. Can anyone please help me understand how to approach this?",tinkerpal,1hfiobb,https://reddit.com/r/datascience/comments/1hfiobb/normalizing_text_attributes/,https://www.reddit.com/r/datascience/comments/1hfiobb/normalizing_text_attributes/,2024-12-16 13:07:02,3,0.8,3,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hfiobb
+datascience,"Suggestion about Designing my Elective. Title: ""Text Analytics with LLM"" ","Hi Folks,
+I'm a recent PhD graduate in Information Systems with a focus on using the current development in ML, NLP, NLU etc for business problems. I'm designing my first Text Analytics Elective for Management Scholars/Grad Students.
+
+Objective is to given them some background and then help them focus on using the LLMs (open source ofcourse) to solve various type of problems.
+
+I have already Includes 
+- Vectorization : Comparing Text in Various Ways
+- Concept &amp; Design: Speed*, Coverage etc
+- Building Scales: Measuring Emotion, Personality**, Nostalgia etc.
+
+
+*Compare the Avg distance between consecutive embedding in a movie script or speech. Reference - https://psycnet.apa.org/record/2022-78257-001
+
+**Scale Development with Little Data - https://journals.sagepub.com/doi/abs/10.1177/10944281231155771
+
+
+It would be great if you guys can suggest some cool use of various text Analytics methods which are new (anything popular since 2020) or something you use often in solving business problems. Reference to a tool/paper would be great.
+
+Would be glad to share the syllabus and resources when it's locked (Feb, 25')
+
+",Abhi_IIMI,1hfjz1b,https://reddit.com/r/datascience/comments/1hfjz1b/suggestion_about_designing_my_elective_title_text/,https://www.reddit.com/r/datascience/comments/1hfjz1b/suggestion_about_designing_my_elective_title_text/,2024-12-16 14:13:18,2,0.75,2,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hfjz1b
+datascience,Fine-tuning &amp; synthetic data example: creating 9 fine tuned models from scratch in 18 minutes,"**TL;DR:** I built [Kiln](https://getkiln.ai), a new free tool that makes fine-tuning LLMs easy. In this example, I create 9 fine-tuned models (including Llama 3.x, Mixtral, and GPT-4o-mini) in just 18 minutes for less than $6 total cost. This is completely from scratch, and includes task definition, synthetic dataset generation, and model deployment.
+
+The codebase is all on [GitHub](https://github.com/Kiln-AI/Kiln).
+
+# Walkthrough
+
+For the example I created 9 models in 18 minutes of work (not including waiting for training/data-gen). There's a walkthrough of each step in the [fine-tuning guide](https://github.com/Kiln-AI/Kiln/blob/main/guides/Fine%20Tuning%20LLM%20Models%20Guide.md), but the summary is:
+
+* \[2 mins\]: Define task, goals, and schema
+* \[9 mins\]: Synthetic data generation: create 920 high-quality examples using topic trees, large models, chain of thought, and interactive UI
+* \[5 mins\]: dispatch 9 fine tuning jobs: Fireworks (Llama 3.2 1b/3b/11b, Llama 3.1 8b/70b, Mixtral 8x7b), OpenAI (GPT 4o-mini &amp; 4o), and Unsloth (Llama 3.2 1b/3b)
+* \[2 mins\]: deploy models and test they work
+
+# Results
+
+The result was small models that worked quite well, when the base models previously failed to produce the correct style and structure. The overall cost was less than $6 (excluding GPT 4o, which was $16, and probably wasn’t necessary). The smallest model (Llama 3.2 1B) is about 10x faster and 150x cheaper than the models we used during synthetic data generation. 
+
+# Guide
+
+I wrote a [detailed fine-tuning guide](https://github.com/Kiln-AI/Kiln/blob/main/guides/Fine%20Tuning%20LLM%20Models%20Guide.md), covering more details around deployment, running fully locally with Unsloth/Ollama, exporting to GGUF, data strategies, and next steps like evals.
+
+# Feedback Please!
+
+I’d love feedback on the tooling, UX and idea! And any suggestions for what to add next (RAG? More models? Images? Eval tools?). Feel free to DM if you have any questions.
+
+I'm starting to work on the evals portion of the tool so if folks have requests I'm eager to hear it.
+
+# Try it!
+
+Kiln is 100% free, and the python library is MIT open source. You can [download Kiln here](https://github.com/Kiln-AI/Kiln/releases/latest)
+
+",davernow,1hfk7ah,https://reddit.com/r/datascience/comments/1hfk7ah/finetuning_synthetic_data_example_creating_9_fine/,https://www.reddit.com/r/datascience/comments/1hfk7ah/finetuning_synthetic_data_example_creating_9_fine/,2024-12-16 14:24:05,0,0.5,0,0,0,0,0,False,False,True,False,False,ML,self,t3_1hfk7ah
