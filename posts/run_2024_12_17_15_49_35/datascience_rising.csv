@@ -1,0 +1,79 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Did working in data make you feel more relativistic?,"When I started working in data I feel like I viewed the world as something that could be explained, measured and predicted if you had enough data.
+
+Now after some years I find myself seeing things a little bit different. You can tell different stories based on the same dataset, it just depends on how you look at it. Models can be accurate in different ways in the same context, depending on what you’re measuring.
+
+Nowadays I find myself thinking that objectively is very hard, because most things are just very complex. Data is a tool that can be used in any amount of ways in the same context 
+
+Does anyone else here feel the same?",Hertigan,1hfxs76,https://reddit.com/r/datascience/comments/1hfxs76/did_working_in_data_make_you_feel_more/,https://www.reddit.com/r/datascience/comments/1hfxs76/did_working_in_data_make_you_feel_more/,2024-12-17 00:13:01,207,0.96,207,0,63,0,0,False,False,True,False,False,Discussion,self,t3_1hfxs76
+datascience,How do you stay up to date with new trends and advancements?,"Hi everyone! I'm getting my first big boy job soon (read: non internship) and one of my job duties is to stay updated in trends in data science and ML, especially with NLP and sentiment analysis in the social sciences
+
+I'd like to do a good job with this and was wondering if anyone has recommendations for *how* to stay up to date. I will basically be the only technical person on my team so I'll need to be able to keep up with industry by myself without hand holding
+
+Does anyone have any suggestions for keeping up to date with this sort of stuff? Besides following this sub and /r/MachineLearning ofc :p
+
+Would love either blogs or journals with creative methodologies or usage of technology, both general DS stuff and places more focused on NLP. Thanks!",Cuddlyaxe,1hg1k3v,https://reddit.com/r/datascience/comments/1hg1k3v/how_do_you_stay_up_to_date_with_new_trends_and/,https://www.reddit.com/r/datascience/comments/1hg1k3v/how_do_you_stay_up_to_date_with_new_trends_and/,2024-12-17 03:25:00,44,0.96,44,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1hg1k3v
+datascience,Best ML certificate for undergrads to back up their profile?,"I’m an undergrad looking to strengthen my profile for ML internships/co-ops and overall career growth. I know some people might say certificates aren’t worth it, and yeah, I get it—experience and solid projects weigh more. But for those who think certs aren’t the best option, what would you suggest instead?
+
+That said, I’m looking for something comprehensive and valued by employers. Between AWS ML Engineer Associate, ML Specialty, Databricks ML Associate/Professional, or Azure Data Scientist Associate, which one do you think is the most beneficial?
+
+I’m not new to the field—just looking to expand my knowledge and improve my chances of landing a good ML co-op or internship. Any advice on where to learn ML more deeply or what certs actually help is much appreciated!",No-Brilliant6770,1hfmope,https://reddit.com/r/datascience/comments/1hfmope/best_ml_certificate_for_undergrads_to_back_up/,https://www.reddit.com/r/datascience/comments/1hfmope/best_ml_certificate_for_undergrads_to_back_up/,2024-12-16 16:16:42,38,0.83,38,0,12,0,0,False,False,True,False,False,ML,self,t3_1hfmope
+datascience,Data science is a luxury for almost all companies,"Let's face it, most of the data science project you work on only deliver small incremental improvements. Emphasis on the word ""most"", l don't mean all data science projects.
+Increments of 3% - 7% are very common for data science projects.
+I believe it's mostly useful for large companies who can benefit from those small increases, but small companies are better of with some very simple ""data science"". They are also better of investing in a website/software products which could create entire sources of income, rather than optimizing their current sources.
+",takuonline,1hf03dq,https://reddit.com/r/datascience/comments/1hf03dq/data_science_is_a_luxury_for_almost_all_companies/,https://www.reddit.com/r/datascience/comments/1hf03dq/data_science_is_a_luxury_for_almost_all_companies/,2024-12-15 19:23:16,760,0.91,760,0,181,0,0,False,False,True,False,False,Discussion,self,t3_1hf03dq
+datascience,Normalizing Text Attributes ,"I'm working on a project where I need to classify product attribute variants according to a standard list of product attributes. I'm considering using a similarity model to avoid the manual effort involved with labeled data. I have tried using pre-trained sentence embedding transformers, but they were ineffective because they failed to differentiate variants with similar contexts. Can anyone please help me understand how to approach this?",tinkerpal,1hfiobb,https://reddit.com/r/datascience/comments/1hfiobb/normalizing_text_attributes/,https://www.reddit.com/r/datascience/comments/1hfiobb/normalizing_text_attributes/,2024-12-16 13:07:02,4,0.71,4,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1hfiobb
+datascience,"Suggestion about Designing my Elective. Title: ""Text Analytics with LLM"" ","Hi Folks,
+I'm a recent PhD graduate in Information Systems with a focus on using the current development in ML, NLP, NLU etc for business problems. I'm designing my first Text Analytics Elective for Management Scholars/Grad Students.
+
+Objective is to given them some background and then help them focus on using the LLMs (open source ofcourse) to solve various type of problems.
+
+I have already Includes 
+- Vectorization : Comparing Text in Various Ways
+- Concept &amp; Design: Speed*, Coverage etc
+- Building Scales: Measuring Emotion, Personality**, Nostalgia etc.
+
+
+*Compare the Avg distance between consecutive embedding in a movie script or speech. Reference - https://psycnet.apa.org/record/2022-78257-001
+
+**Scale Development with Little Data - https://journals.sagepub.com/doi/abs/10.1177/10944281231155771
+
+
+It would be great if you guys can suggest some cool use of various text Analytics methods which are new (anything popular since 2020) or something you use often in solving business problems. Reference to a tool/paper would be great.
+
+Would be glad to share the syllabus and resources when it's locked (Feb, 25')
+
+",Abhi_IIMI,1hfjz1b,https://reddit.com/r/datascience/comments/1hfjz1b/suggestion_about_designing_my_elective_title_text/,https://www.reddit.com/r/datascience/comments/1hfjz1b/suggestion_about_designing_my_elective_title_text/,2024-12-16 14:13:18,4,0.67,4,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1hfjz1b
+datascience,Fine-tuning &amp; synthetic data example: creating 9 fine tuned models from scratch in 18 minutes,"**TL;DR:** I built [Kiln](https://getkiln.ai), a new free tool that makes fine-tuning LLMs easy. In this example, I create 9 fine-tuned models (including Llama 3.x, Mixtral, and GPT-4o-mini) in just 18 minutes for less than $6 total cost. This is completely from scratch, and includes task definition, synthetic dataset generation, and model deployment.
+
+The codebase is all on [GitHub](https://github.com/Kiln-AI/Kiln).
+
+# Walkthrough
+
+For the example I created 9 models in 18 minutes of work (not including waiting for training/data-gen). There's a walkthrough of each step in the [fine-tuning guide](https://github.com/Kiln-AI/Kiln/blob/main/guides/Fine%20Tuning%20LLM%20Models%20Guide.md), but the summary is:
+
+* \[2 mins\]: Define task, goals, and schema
+* \[9 mins\]: Synthetic data generation: create 920 high-quality examples using topic trees, large models, chain of thought, and interactive UI
+* \[5 mins\]: dispatch 9 fine tuning jobs: Fireworks (Llama 3.2 1b/3b/11b, Llama 3.1 8b/70b, Mixtral 8x7b), OpenAI (GPT 4o-mini &amp; 4o), and Unsloth (Llama 3.2 1b/3b)
+* \[2 mins\]: deploy models and test they work
+
+# Results
+
+The result was small models that worked quite well, when the base models previously failed to produce the correct style and structure. The overall cost was less than $6 (excluding GPT 4o, which was $16, and probably wasn’t necessary). The smallest model (Llama 3.2 1B) is about 10x faster and 150x cheaper than the models we used during synthetic data generation. 
+
+# Guide
+
+I wrote a [detailed fine-tuning guide](https://github.com/Kiln-AI/Kiln/blob/main/guides/Fine%20Tuning%20LLM%20Models%20Guide.md), covering more details around deployment, running fully locally with Unsloth/Ollama, exporting to GGUF, data strategies, and next steps like evals.
+
+# Feedback Please!
+
+I’d love feedback on the tooling, UX and idea! And any suggestions for what to add next (RAG? More models? Images? Eval tools?). Feel free to DM if you have any questions.
+
+I'm starting to work on the evals portion of the tool so if folks have requests I'm eager to hear it.
+
+# Try it!
+
+Kiln is 100% free, and the python library is MIT open source. You can [download Kiln here](https://github.com/Kiln-AI/Kiln/releases/latest)
+
+",davernow,1hfk7ah,https://reddit.com/r/datascience/comments/1hfk7ah/finetuning_synthetic_data_example_creating_9_fine/,https://www.reddit.com/r/datascience/comments/1hfk7ah/finetuning_synthetic_data_example_creating_9_fine/,2024-12-16 14:24:05,5,0.73,5,0,2,0,0,False,False,True,False,False,ML,self,t3_1hfk7ah
+datascience,What projects are you working on and what is the benefit of your efforts? ,"I would really like to hear what you guys are working on, challenges you’re facing and how your project is helping your company. Let’s hear it. ",Firm-Message-2971,1hf1180,https://reddit.com/r/datascience/comments/1hf1180/what_projects_are_you_working_on_and_what_is_the/,https://www.reddit.com/r/datascience/comments/1hf1180/what_projects_are_you_working_on_and_what_is_the/,2024-12-15 20:05:16,76,0.88,76,0,83,0,0,False,False,True,False,False,Discussion,self,t3_1hf1180

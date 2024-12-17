@@ -1,0 +1,188 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+pcgaming,"Pre-orders for FFVII REBIRTH on Steam are going well in Japan, currently #5 since announcement",,Turbostrider27,1hfm93s,https://reddit.com/r/pcgaming/comments/1hfm93s/preorders_for_ffvii_rebirth_on_steam_are_going/,https://twitter.com/nhamaguc/status/1868676614692954343,2024-12-16 15:58:03,89,0.58,89,0,123,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/ZcK5gokCB5IsemZrt3pdfYk16eQ46DajgK31hlG0wxU.jpg,t3_1hfm93s
+pcgaming,"We just released a juicy new trailer for our insane sci-fi comedy shooter, SWAPMEAT, where you swap body parts with enemies, and it's up on IGN!",,Advanced-Town-5804,1hfu1iq,https://reddit.com/r/pcgaming/comments/1hfu1iq/we_just_released_a_juicy_new_trailer_for_our/,https://www.youtube.com/watch?v=N2MvcODkL-w,2024-12-16 21:26:43,21,0.61,21,0,7,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/p8JExhSn5JBGv_BLeK39sQjvKMlBxHo37Y1neKCiHcM.jpg,t3_1hfu1iq
+pcgaming,What controller emulator software do you use?,"I have a dualsense i use on my pc. I've tried ds4 and DSX, both worked in the beginning but suddenly stop working without any apparent reason. What software do people here use? Anything out there that is reliable?",LillePuus1,1hflj4k,https://reddit.com/r/pcgaming/comments/1hflj4k/what_controller_emulator_software_do_you_use/,https://www.reddit.com/r/pcgaming/comments/1hflj4k/what_controller_emulator_software_do_you_use/,2024-12-16 15:25:37,0,0.44,0,0,40,0,0,False,False,True,False,False,,self,t3_1hflj4k
+pcgaming,1440p vs 4k - My experience,"I just wanted to give you my perspective on the 1440p vs. 4k debate. For reference, my build has a 3080 and a 5800X3D. This is pretty comprehensive of my experience and is long. TLDR at the end.
+
+**Context:**  
+So, I have been playing on a 27-inch 1440p 240hz (IPS) for years. I was an early adopter, and that spec cost me 700 bucks 4 years ago (just after I got my 3080), whereas on Black Friday this year, you could find it for 200 bucks. Recently, I decided to purchase one of the new 4k OLED panels - specifically trying both QD-OLED and WOLED tech, both of which are at 32-inch 4k 240hz, and with the WOLED panel having a dual-mode to turn into a 1080p 480hz panel (albeit a bit blurrier than proper 1080p due to a lack of integer scaling). I ended up settling on the WOLED as the QD-OLED panel scratched and smudged too easily, and I am moving in a few months. I do wish the WOLED was more glossy, but that's a topic for another time. I am using the WOLED 4k panel to evaluate the following categories.
+
+**Image Quality:**  
+For reference, with my 1440p monitor, if I were to outstretch my arm with a closed fist, it would touch the monitor, and with this 4k panel, I typically sit 1-2"" further. This is roughly 30""
+
+When it comes to use outside of gaming, whether web browsing or general productivity, it is night and day. This is the first resolution I have used where you can't see jaggedness/pixelation to the mouse cursor. Curves in letters/numbers are noticeably clearer, and the image is overall much easier on the eye. Things like the curves in the volume indicator are clear and curved, with no visible pixel steps. 4k is a huge step up for productivity, and funny enough, the whole reason I wanted to upgrade was over the summer at my internship, our client had 4k monitors for their office setup and I immediately noticed the difference and wanted to try it for my at-home setup. If you code or are an Excel monkey, 4k is SO much better.
+
+As for gaming, the image quality bump is substantial, but not quite as game-changing as it is with text and productivity use. My most played games in 2024 were Overwatch and Baldur's Gate 3, so I will be using those as my point of reference. In 1440p, I had to use DLDSR to downscale from 4k to 1440p in BG3 to get what I considered acceptable image quality, and figured that since I was doing that I might as well jump to 4k, so that's exactly what I did. Frankly, once you realize how blurry both native TAA and DLAA are on 1080p/1440p, you will never want to play that again. Of course, older games don't have this blur but in turn, look quite jagged. The pixel density of 4k serves as an AA all on its own. DLDSR is a cool tech but inconsistent in terms of implementation with different games, and you have a \~6% performance loss versus just playing at 4k due to DSR overhead.
+
+I do want to note here that image quality is a lot more than just PPI. While 32"" 4k is only 25%-ish more ppi than 27"" 1440p, the added pixel count brings out a lot of details in games. In particular, foliage and hair rendering get WAY better with the added pixels.
+
+**Performance:**  
+It is no secret that 4k is harder to run than 1440p. However, the system requirements are drastically lower than people talk about online here. I see plenty of comments about how you need at least a 4080 to run 4k, and I think that is not the case. I am on a 3080 (10GB) and so far, my experience has been great. Now, I do think 3080/4070 performance on the Nvidia side is what I would consider the recommended minimum, a lot of which is due to VRAM constraints. On the AMD side, VRAM tends to not be an issue but I would go one tier above the 3080/4070 since FSR is significantly worse and needs a higher internal res to look good. Now, I know upscaling is controversial online, but hear me out: 4k@DLSS performance looks better than 1440p native or with DLAA. That runs a bit worse than something like 1440p w/ DLSS quality as it is a 1080p internal res as opposed to 960p, on top of the higher output res (A quick CP2077 benchmark shows 4k w/ DLSS balanced (EDIT:performance) at 77.42 fps whereas 1440p @ DLSSQ gives 89.42). Effectively, a 14% loss in fps for a MUCH clearer image. If you simply refuse to use DLSS, this is a different story. However, given how good DLSS is at 4k nowadays, I view it as a waste.
+
+As far as competitive titles go, it depends on the game. I have played competitive OW for years and picked up CS2 recently. I am ok at OW (dps rank 341 and 334 in season 12/13 end of season, NA), and absolute trash at CS2 (premier peak 11k currently at 9k). I have recently moved to using Gsync with a system-level fps cap in all titles, as opposed to uncapped fps. Don't want to get into the weeds of that here but I do think that is the way to go if you have anything \~180hz or higher, though I admittedly haven't played at a refresh rate that low in years. CS2 can't quite do a consistent 225 fps (the cap reflex chooses when using gsync) at 4k with the graphics settings I have enabled, but it does get me very close, and honestly, if I turned model detail down it would be fine but I gotta have the high res skins. In OW2 with everything but shadows and texture quality/filtering at low, I easily get to the 230fps cap I have set. That being said, in OW I choose to use the 1080p high refresh mode at 450fps, whereas visibility isn't good enough in CS2 to do that. Not sure how some of those pros play on 768p, but I digress. At 1080p my 5800x3d can't put above \~360hz on CS2 anyways, so I play at 4k for the eye candy.
+
+240hz to 480hz is absolutely and immediately noticeable. However, I think past 240hz (OLED, not LCD), you aren't boosting your competitive edge. If I was being completely honest, I would steamroll my way to GM in OW at 60hz after an adjustment period, and I would be stuck at 10k elo in CS2 if I had a 1000hz monitor. But, if you have a high budget and you don't do a lot of work on your PC and put a LOT of time into something like OW or CS, may as well get one of the new 1440p 480hz monitors. However, I would say that if over 25% of your gaming time is casual/single-player stuff, or over half of your time is spent working, go 4k.
+
+**Price/Value**  
+Look, this is the main hurdle more than anything. 4k 240hz is better if you can afford it, but if you don't see yourself moving from something like a 3060ti anytime soon for money reasons, don't! 1440p is still LEAGUES ahead of 1080p and can be had very cheaply now. Even after black Friday deals are done, you can find 1440p 240hz for under $250. By contrast, 4k 160hz costs about $320, and the LCD 4k Dual mode from Asus costs 430. My WOLED 4k 240hz was 920 after tax. While I think the GPU requirements are overblown as DLSS is really good, the price of having a ""Do-it-all"" monitor is quite high. I was willing to shell out for it, as this is my primary hobby and I play lots of twitch games and relaxed games alike, but not everyone is in the same financial position nor may not have the same passion for the hobby. Plus, if you have glasses, you could just take them off and bam, 4k and 1440p are identical.
+
+**TLDR:**  
+4k is awesome, and a big leap over 1440p. Text, web use, and productivity are way, way, way better on a 4k monitor, whereas for gaming it is just way better. I would say that to make the jump to 4k you would want a card with at least 10GB of VRAM, and with about a \~3080 in terms of performance. DLSS is a game changer, and even DLSS Performance at 4k looks better than 1440p native in modern games. For FSR you would probably want to use Balanced.
+
+If you are still on 1080p, please, please upgrade. If you have 1440p but can't justify the $ to jump to 4k, try DLDSR at 2.25x render for your games. Looks way better, and can serve as an interim resolution for you, assuming your card can handle it. Eyesight does play a role in all this.",SBMS-A-Man108,1hfx8ym,https://reddit.com/r/pcgaming/comments/1hfx8ym/1440p_vs_4k_my_experience/,https://www.reddit.com/r/pcgaming/comments/1hfx8ym/1440p_vs_4k_my_experience/,2024-12-16 23:48:10,0,0.38,0,0,61,0,0,False,False,True,False,False,,self,t3_1hfx8ym
+pcgaming,Is the Nvidia app hurting game performance?,,Olorins_Fire,1hga3gb,https://reddit.com/r/pcgaming/comments/1hga3gb/is_the_nvidia_app_hurting_game_performance/,https://youtu.be/aBW_3tArLOY,2024-12-17 13:00:46,35,0.65,35,0,26,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/tAdUAfMnjOOVz31AFYn6U_uMU07EZecUib49WZ9aHKQ.jpg,t3_1hga3gb
+pcgaming,Two Must-Play PC Games per Year (2014-2024) - Share Your List!,"I’m curious to see your lists of favorite PC games, choosing just **two per year** from **2014** to **2024**.  
+It’s (*I hope*) a fun way to see how everyone’s gaming tastes differ and maybe discover new gems!
+
+*Feel free to skip years, but at least start from 2020!*
+
+Here’s my list to get us started:
+
+**2014**
+
+* Middle-earth: Shadow of Mordor
+* Dragon Age: Inquisition
+
+**2015**
+
+* The Witcher 3: Wild Hunt
+* Metal Gear Solid V: The Phantom Pain
+
+**2016**
+
+* DOOM
+* Dark Souls III
+
+**2017**
+
+* NieR: Automata
+* Divinity: Original Sin 2
+
+**2018**
+
+* Red Dead Redemption 2
+* Monster Hunter: World
+
+**2019**
+
+* Sekiro: Shadows Die Twice
+* Control
+
+**2020**
+
+* Cyberpunk 2077
+* Half-Life: Alyx
+
+**2021**
+
+* Resident Evil Village
+* Deathloop
+
+**2022**
+
+* Elden Ring
+* God of War
+
+**2023**
+
+* Baldur’s Gate 3
+* Starfield (Yes... I know :D) 
+
+**2024**
+
+* Balatro
+* Hades 2",yariok,1hfxx2g,https://reddit.com/r/pcgaming/comments/1hfxx2g/two_mustplay_pc_games_per_year_20142024_share/,https://www.reddit.com/r/pcgaming/comments/1hfxx2g/two_mustplay_pc_games_per_year_20142024_share/,2024-12-17 00:19:30,0,0.37,0,0,25,0,0,False,False,True,False,False,,self,t3_1hfxx2g
+pcgaming,Guide: Discover 12 Games set at Christmas!,,Martinez_MTG,1hgb0m5,https://reddit.com/r/pcgaming/comments/1hgb0m5/guide_discover_12_games_set_at_christmas/,https://umgamer.com/en-us/p/54797,2024-12-17 13:49:25,0,0.5,0,0,2,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/k2KhUAoi1kIK55rRdKB9dDCqglRXOVbzTZkgTvYOnc0.jpg,t3_1hgb0m5
+pcgaming,What game have you played that has made you feel as though you have a connection to the character (and why)?,"I am doing a games design course and I have choses to research how games create characters that form connections to the audience. for example how undertale almost feels like a friendship between its character. If you just really really like a character from a game then let me know too even if you dont feel a connection, just whos your favourite and why them?",No_Inevitable_3040,1hflyxf,https://reddit.com/r/pcgaming/comments/1hflyxf/what_game_have_you_played_that_has_made_you_feel/,https://www.reddit.com/r/pcgaming/comments/1hflyxf/what_game_have_you_played_that_has_made_you_feel/,2024-12-16 15:45:26,17,0.65,17,0,31,0,0,False,False,True,False,False,,self,t3_1hflyxf
+pcgaming,"Catly Creator Says Game Has No Generative AI, No Blockchain, and No NFTs",,DaddyZetsu,1hfug06,https://reddit.com/r/pcgaming/comments/1hfug06/catly_creator_says_game_has_no_generative_ai_no/,https://www.ign.com/articles/catly-creator-says-game-has-no-generative-ai-no-blockchain-and-no-nfts,2024-12-16 21:43:34,0,0.36,0,0,11,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/V-cjoe06Vh4xRFYz33MYd-kzHX7HeFk8qLWrhMiXe7k.jpg,t3_1hfug06
+pcgaming,Linux vs Windows Benchmark Dirt Rally 2.0,"Linux vs Windows Dirt Rally 2.0
+Linux dominates",RoninNinjaTv,1hgc5v2,https://reddit.com/r/pcgaming/comments/1hgc5v2/linux_vs_windows_benchmark_dirt_rally_20/,https://youtu.be/TkcPBSSvPlQ?si=EDRd2385dFuzKv33,2024-12-17 14:46:02,0,0.33,0,0,3,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/iyLC5FbSmenv66fF3It40hhkOPPJ1VWcDyOd515FydM.jpg,t3_1hgc5v2
+pcgaming,Trying to learn MnK. Is DPI and In-Game mouse sensitivity redundant? Or are there differences?,"I recently purchased a PC and am trying to learn MnK after 20+ years on controller. One of the first things I am trying to figure out is a sensitivity that works best for me. However, I am curious if there is a difference between DPI and In-Game sensitivity. For example... if I have my DPI set to 400 with an In-Game Sensitivity of 2.00, is that the same as 800 DPI with an In-Game Sensitivity of 1.00 or 1600 DPI with an In-Game Sensitivity of .50? Or is there a difference between DPI and In-Game Sensitivity?",Calm-Talk5047,1hfu4n1,https://reddit.com/r/pcgaming/comments/1hfu4n1/trying_to_learn_mnk_is_dpi_and_ingame_mouse/,https://www.reddit.com/r/pcgaming/comments/1hfu4n1/trying_to_learn_mnk_is_dpi_and_ingame_mouse/,2024-12-16 21:30:19,0,0.33,0,0,14,0,0,False,False,True,False,False,,self,t3_1hfu4n1
+pcgaming,Gift Collector [ギフトコレクター] Gameplay trailer - A small New Year's Eve indie horror game created by a team of 3 people is now available on steam. It's a story about how not all children should be given gifts....,,Adorable-Excuse-2112,1hfr6fj,https://reddit.com/r/pcgaming/comments/1hfr6fj/gift_collector_ギフトコレクター_gameplay_trailer_a_small/,https://www.youtube.com/watch?v=RHE_P1B3s3k,2024-12-16 19:25:28,0,0.33,0,0,3,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/Zx0BPE8r_kNWsJXDrQ_j9ExS1jYKG3v3Y_YLNatnDUE.jpg,t3_1hfr6fj
+pcgaming,What do you think the unique value proposition is going to be for the NVIDIA 5000 series?,"So it's pretty clear so far that the 5080 will have 16GB VRAM, with the 5070 going for 12GB VRAM.
+
+I don't think NVIDIA will make any changes to these numbers.
+
+So my question is what's the unique value proposition here? Some kind of DLSS 4 FG 2.0 which will be exclusive to the 5000 series?
+
+I say this because the way communications have been going it seems like the best way to proceed as a consumer is as follows:
+
+* Buy a 4050-up to-4080/4080super if you're buying into new gen GPUs/upgrading
+* Buy a 4090 instead of a 5080 because the 5080 will probably not have that big of a difference and you get more VRAM with the 4090. Or wait for the 5080ti since that'll obviously have 24GB VRAM. At least I hope so.
+* Buy a 5090 only if you are upgrading from a 4090 and want the best GPUs.
+
+Do you agree?",Butefluko,1hfsdya,https://reddit.com/r/pcgaming/comments/1hfsdya/what_do_you_think_the_unique_value_proposition_is/,https://www.reddit.com/r/pcgaming/comments/1hfsdya/what_do_you_think_the_unique_value_proposition_is/,2024-12-16 20:16:35,0,0.31,0,0,44,0,0,False,False,True,False,False,,self,t3_1hfsdya
+pcgaming,Quality Combat Update: Enemy AI that thinks in Procedural Worlds!,,TheSpaceFudge,1hfny5s,https://reddit.com/r/pcgaming/comments/1hfny5s/quality_combat_update_enemy_ai_that_thinks_in/,https://youtu.be/_ZPdd_r4Je8,2024-12-16 17:11:09,0,0.34,0,0,3,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/WHs6FrSGJ4dMjUb1jakd0mxZmOKEHW_QnGN_21PIS9s.jpg,t3_1hfny5s
+pcgaming,"Baldur's Gate 3 publisher warns of industry ""division"" as Naughty Dog's new game trailer faces backlash | Many are comparing Intergalactic: The Heretic Prophet to Concord",,chrisdh79,1hgbyyq,https://reddit.com/r/pcgaming/comments/1hgbyyq/baldurs_gate_3_publisher_warns_of_industry/,https://www.techspot.com/news/105996-baldur-gate-3-publisher-warns-industry-division-naughty.html,2024-12-17 14:36:50,355,0.73,355,0,438,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/8Re8RZDrvMR-VQQet7QNZnAZ6ydi3XBn_C1Qy1rq8I4.jpg,t3_1hgbyyq
+pcgaming,"I just launched the demo for my base-builder, Final Outpost: Definitive Edition - run your town and defend it from hordes of zombies outside...","Hi everyone,
+
+I started working on this hobby project in 2018, which I released as a super bare-bones MVP on the App Store in 2020. It kind of popped off (at least compared to my expectations). Since then while finishing university I have been working on the game during holidays with my brother and a couple of friends. We made a bunch of huge updates to the game and brought it to Android.
+
+I decided to go full-time on the project with my brother last October and we've really increased the quality of the game since then so that it feels like a really polished professional project. That game has now reached 1M downloads on mobile.
+
+But the thing is, it really feels like a game more suited to the PC audience. It never had gatcha mechanics, just a 'support the devs' selection of optional items to buy. The game was always fully playable for free. It's depth and complexity has now also reached the level where we feel like it's a game worthy of Steam.
+
+So since June, we've been working on a new version with a bunch of new content, features and mechanics, including a trading system and a card-based meta progression. This new game is called Final Outpost: Definitive Edition and I just released the free demo on our Steam page.
+
+Demo here! [https://store.steampowered.com/app/3066310/](https://store.steampowered.com/app/3066310/)
+
+Synopsis:
+
+Final Outpost is a survival strategy base-builder where you lead the last survivors of the apocalypse. Build your Outpost, manage your citizens and defend against hordes of zombies. How many days can you survive?
+
+Trailer: [https://www.youtube.com/watch?v=Svz2QZvz7CM](https://www.youtube.com/watch?v=Svz2QZvz7CM)",Jerreh_Boi,1hgaeu0,https://reddit.com/r/pcgaming/comments/1hgaeu0/i_just_launched_the_demo_for_my_basebuilder_final/,https://www.reddit.com/r/pcgaming/comments/1hgaeu0/i_just_launched_the_demo_for_my_basebuilder_final/,2024-12-17 13:18:05,9,0.74,9,0,2,0,0,False,False,True,False,False,,self,t3_1hgaeu0
+pcgaming,Dauntless: Reflections on the Launch and What Comes Next,,Turbostrider27,1hfxhcx,https://reddit.com/r/pcgaming/comments/1hfxhcx/dauntless_reflections_on_the_launch_and_what/,https://playdauntless.com/news/reflections-what-comes-next/,2024-12-16 23:59:05,0,0.29,0,0,9,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/rJLI9re7XA6RNktlggUOMLqQxJacnvROr_BwRNiikGg.jpg,t3_1hfxhcx
+pcgaming,DayZ Christmas Event 2024,,pimpwithoutahat,1hfrt6z,https://reddit.com/r/pcgaming/comments/1hfrt6z/dayz_christmas_event_2024/,https://www.youtube.com/watch?v=T1AyXGO5E0s,2024-12-16 19:52:13,0,0.27,0,0,0,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/BA9eteCtAID8kDtlOtqI7tI0ZE6ZCq1zrHc9w_5vcaY.jpg,t3_1hfrt6z
+pcgaming,Skill Up: You've never seen (or heard) a game quite like: Skate Story (Hands-On Impressions),,Turbostrider27,1hgbypk,https://reddit.com/r/pcgaming/comments/1hgbypk/skill_up_youve_never_seen_or_heard_a_game_quite/,https://www.youtube.com/watch?v=hbQzl5ofo6U,2024-12-17 14:36:30,2,0.56,2,0,1,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/oKU31UA7hthaodo-oyOQo-NTJpkPZcLIc0ZeKcwU4IY.jpg,t3_1hgbypk
+pcgaming,Robo Tennis: New Build Function.,"Unleash your creativity in Robo Tennis with our new Build Function! Customize your robot with cutting-edge tech upgrades and unique special moves to dominate the court.
+
+[https://store.steampowered.com/app/3322930/Robo\_Tennis/](https://store.steampowered.com/app/3322930/Robo_Tennis/)",Negative_Winner1890,1hfpqtu,https://reddit.com/r/pcgaming/comments/1hfpqtu/robo_tennis_new_build_function/,https://www.reddit.com/r/pcgaming/comments/1hfpqtu/robo_tennis_new_build_function/,2024-12-16 18:25:56,0,0.27,0,0,0,0,0,False,False,True,False,False,,self,t3_1hfpqtu
+pcgaming,Veteran Starfield developer surprised by sheer number of loading screens added late in development – “it could have existed without those”,,Tech_guru_101,1hgbbw2,https://reddit.com/r/pcgaming/comments/1hgbbw2/veteran_starfield_developer_surprised_by_sheer/,https://www.videogamer.com/features/veteran-starfield-developer-surprised-by-sheer-number-loading-screens/,2024-12-17 14:05:00,159,0.89,159,0,31,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/sJULUQiAdULdXTUGO2F8MfD-b1WLLwiddc0IKQH8kDY.jpg,t3_1hgbbw2
+pcgaming,The Future of Pc Gaming Looks pretty bright,"I think in 20 years the hardware will be so much advanced that gaming rigs will be way more affordable than they are now. Also the handheld gaming pc space will be very big at that time. The steam deck started the trend and its an awesome device. 
+Do you also have a gaming handheld? If yes which one and why did you pick it?
+
+Greetings ",Chrislemale,1hfolii,https://reddit.com/r/pcgaming/comments/1hfolii/the_future_of_pc_gaming_looks_pretty_bright/,https://www.reddit.com/r/pcgaming/comments/1hfolii/the_future_of_pc_gaming_looks_pretty_bright/,2024-12-16 17:38:24,0,0.24,0,0,5,0,0,False,False,True,False,False,,self,t3_1hfolii
+pcgaming,Am I the only one who just can't sit behind a desk anymore to play on PC ? ,"I have a beast of a computer, I could play any game I want...but after I boot up my PC, I can sit max 20 minutes before I get already tired of it and shut it down. 
+
+It's like I don't have the ""will power"" to play for hours. 
+
+I own a Legion Go, which gives me a bit of flexibility instead, and I end up playing longer there on my sofa. I feel stupid for that, as my pc is so much more powerful. 
+
+I guess I'm old now...lol. ",Then-Ad7196,1hg8667,https://reddit.com/r/pcgaming/comments/1hg8667/am_i_the_only_one_who_just_cant_sit_behind_a_desk/,https://www.reddit.com/r/pcgaming/comments/1hg8667/am_i_the_only_one_who_just_cant_sit_behind_a_desk/,2024-12-17 10:56:04,0,0.23,0,0,10,0,0,False,False,True,False,False,,self,t3_1hg8667
+pcgaming,Avatar vs Indiana Jones vs Hellblade II vs Alan Wake II Visuals,"In terms of visuals how would you compare and rank the 4?
+
+In my humble opinion Hellblade II is still on top of the list for me. The game would have looked even more gorgeous with hardware path tracing.
+
+Then I would rank Alan Wake II and then Avatar Unobtanium.
+
+Haven't played Indiana Jones yet",Arthur_Morgan44469,1hfsskv,https://reddit.com/r/pcgaming/comments/1hfsskv/avatar_vs_indiana_jones_vs_hellblade_ii_vs_alan/,https://www.reddit.com/r/pcgaming/comments/1hfsskv/avatar_vs_indiana_jones_vs_hellblade_ii_vs_alan/,2024-12-16 20:34:29,0,0.24,0,0,13,0,0,False,False,True,False,False,,self,t3_1hfsskv
+pcgaming,Nihon Falcom founder Masayuki Kato has passed away at age 78,,Turbostrider27,1hgbp29,https://reddit.com/r/pcgaming/comments/1hgbp29/nihon_falcom_founder_masayuki_kato_has_passed/,https://x.com/nihonfalcom/status/1868907417855283306,2024-12-17 14:23:23,28,0.86,28,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/Zy11EXOqeU-0drZbPa__h4ZfuIHwIMLxl0YyFw3IArY.jpg,t3_1hgbp29
+pcgaming,China's video gaming revenue hits new high in 2024 on back of blockbuster releases,,stinkytofuicecream,1hg792l,https://reddit.com/r/pcgaming/comments/1hg792l/chinas_video_gaming_revenue_hits_new_high_in_2024/,https://www.scmp.com/tech/big-tech/article/3290626/chinas-video-gaming-revenue-hits-new-high-2024-back-blockbuster-releases,2024-12-17 09:46:58,69,0.81,69,0,4,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/HBlBs_pNmlu33ZgvYbUILlYdeMKk0KP-b1xaaJ5xE4A.jpg,t3_1hg792l
+pcgaming,Hot take: gpu benchmark should be done using a realistic system according to the price of that gpu,"**EDIT**: i understood why it makes sense to benchmark this way and thanks for explaining it. I wish i could close this discussion now but I'll just keep getting passive aggressive comments subtly saying why I'm a dumbass for having an opinion and a genuine question. But that's reddit for you. Good night I'm going to bed 👋
+
+
+I'm gonna get a lotta hate but seeing arc b580 benchmarks with 9800x3d pisses me off. *Yes I know* it is done to find the absolute maximum performance of a gpu, so why does everyone do it? We already get solid numbers from TPU,HW,LTT etc but a 250$ gpu should be paired with a system that goes well with it(according to budget)
+
+
+Pls don't cancel me it's just an opinion",msn_05,1hfoi67,https://reddit.com/r/pcgaming/comments/1hfoi67/hot_take_gpu_benchmark_should_be_done_using_a/,https://www.reddit.com/r/pcgaming/comments/1hfoi67/hot_take_gpu_benchmark_should_be_done_using_a/,2024-12-16 17:34:32,0,0.17,0,0,22,0,0,False,False,True,False,False,,self,t3_1hfoi67
+pcgaming,Ubisoft adds Steam achievements to Far Cry 5 &amp; 6,"2 more games added to the list. Hopefully more to come soon.
+
+Far Cry 5: https://steamcommunity.com/stats/552520/achievements
+
+Far Cry 6: https://steamcommunity.com/stats/2369390/achievements",Protagonist99,1hgblqp,https://reddit.com/r/pcgaming/comments/1hgblqp/ubisoft_adds_steam_achievements_to_far_cry_5_6/,https://www.reddit.com/r/pcgaming/comments/1hgblqp/ubisoft_adds_steam_achievements_to_far_cry_5_6/,2024-12-17 14:18:48,106,0.87,106,0,24,0,0,False,False,True,False,False,,self,t3_1hgblqp
+pcgaming,EXODUS Gameplay Teaser Trailer — The Traveler's Creed,,Minen0,1hfxu5y,https://reddit.com/r/pcgaming/comments/1hfxu5y/exodus_gameplay_teaser_trailer_the_travelers_creed/,https://www.youtube.com/watch?v=37niTLhWla0,2024-12-17 00:15:37,143,0.87,143,0,56,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/V-CymGHz54iOv1O871Tcr70NiE5KsrxjyVeNpLwPiZg.jpg,t3_1hfxu5y
+pcgaming,"Marvel Rivals releases first major game update on December 20. New game mode, free Jeff skin and more announced.",,UsualInitial,1hfq5vq,https://reddit.com/r/pcgaming/comments/1hfq5vq/marvel_rivals_releases_first_major_game_update_on/,https://x.com/MarvelRivals/status/1868702639585980656,2024-12-16 18:43:39,389,0.91,389,0,77,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/61oHdfPlO-VyImes5aBO7IoHOx4QSZbEgI4vcdLCTS4.jpg,t3_1hfq5vq
+pcgaming,We tested the Nvidia App performance problems — games can run up to 15 percent slower with the app,,RTcore,1hfqtuv,https://reddit.com/r/pcgaming/comments/1hfqtuv/we_tested_the_nvidia_app_performance_problems/,https://www.tomshardware.com/pc-components/gpus/we-tested-nvidia-app-performance-problems-games-run-up-to-15-percent-slower-with-the-app?utm_campaign=socialflow&amp;utm_medium=social&amp;utm_source=twitter.com,2024-12-16 19:10:49,1326,0.92,1326,0,168,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/RpIDV_CVvgbQms378mJrm5-Ag_X4W7bYxtRZOpFTP7w.jpg,t3_1hfqtuv
+pcgaming,"Borderlands 4 will cut back on 'toilet humor,' says Gearbox: 'If the word skibidi ships in the game under my watch I'm gonna cry real tears'",,DaddyZetsu,1hfydx5,https://reddit.com/r/pcgaming/comments/1hfydx5/borderlands_4_will_cut_back_on_toilet_humor_says/,https://www.pcgamer.com/games/fps/borderlands-4-will-cut-back-on-toilet-humor-says-gearbox-if-the-word-skibidi-ships-in-the-game-under-my-watch-im-gonna-cry-real-tears/,2024-12-17 00:42:00,7294,0.94,7294,0,511,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/SF1hM9yX69aRQ1ZaVAYjnjFN2QtlS2b8Rx0cw23AjjI.jpg,t3_1hfydx5
+pcgaming,Ubisoft adds Steam achievement to two Ghost Recon games,"Ubisoft keeps adding Steam achievements to their older titles. After four Assassin's Creed games last week, today is the turn of:
+
+Ghost Recon Breakpoint: https://steamcommunity.com/stats/2231380/achievements/
+
+Ghost Recon Wildlands: https://steamcommunity.com/stats/460930/achievements/",AncientPCGamer,1hfmumk,https://reddit.com/r/pcgaming/comments/1hfmumk/ubisoft_adds_steam_achievement_to_two_ghost_recon/,https://www.reddit.com/r/pcgaming/comments/1hfmumk/ubisoft_adds_steam_achievement_to_two_ghost_recon/,2024-12-16 16:23:57,475,0.93,475,0,66,0,0,False,False,True,False,False,,self,t3_1hfmumk
+pcgaming,"After an eventful year, Helldivers 2 devs hope ""it will be less of a bumpy road when it comes to release accuracy"" - but Arrowhead is still ""prepared to take risks""",,DaddyZetsu,1hfxvpq,https://reddit.com/r/pcgaming/comments/1hfxvpq/after_an_eventful_year_helldivers_2_devs_hope_it/,https://www.gamesradar.com/games/third-person-shooter/after-an-eventful-year-helldivers-2-devs-hope-it-will-be-less-of-a-bumpy-road-when-it-comes-to-release-accuracy-but-arrowhead-is-still-prepared-to-take-risks/,2024-12-17 00:17:43,349,0.92,349,0,43,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/ZL6t5xyM5ldaGNxT80VgXsMn6qbD7vFzvqGyj6g0zoI.jpg,t3_1hfxvpq
+pcgaming,Cheat engines like Wemod without a subscription?,"I had a game that i wanted to try cheats for, but i cant activate the cheats i need without a pro subscription. Is there an alternative that doesnt require a subscription?
+
+The game is Persona 5 Royal if it makes any difference.",Flameman1234,1hfsm9u,https://reddit.com/r/pcgaming/comments/1hfsm9u/cheat_engines_like_wemod_without_a_subscription/,https://www.reddit.com/r/pcgaming/comments/1hfsm9u/cheat_engines_like_wemod_without_a_subscription/,2024-12-16 20:27:01,0,0.13,0,0,8,0,0,False,False,True,False,False,,self,t3_1hfsm9u
+pcgaming,"The 1998 decompilation for the windows game Lego Island reaches 97% of completion, currently there are efforts to port the game to MacOS and Linux",,Denaun_k4ng,1hfp555,https://reddit.com/r/pcgaming/comments/1hfp555/the_1998_decompilation_for_the_windows_game_lego/,https://github.com/isledecomp/isle,2024-12-16 18:00:57,450,0.96,450,0,31,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/5UM3FMyLTwCo4ydNdKPF5piQfXgTZEdkYHQQx5xUPZI.jpg,t3_1hfp555
+pcgaming,"Dungeons &amp; Dragons: Dark Alliance Announces Server Closure, Removal From Sale on 2/24/2025.  Announcement is in their About This Game on their sales page.  ",,LuckyShot1,1hg6kv2,https://reddit.com/r/pcgaming/comments/1hg6kv2/dungeons_dragons_dark_alliance_announces_server/,https://store.steampowered.com/app/623280/Dungeons__Dragons_Dark_Alliance/,2024-12-17 08:54:29,303,0.96,303,0,52,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/FqSwGrC_hKINihXwvuGGlcmDruJD2ecWPNWTtt93S1c.jpg,t3_1hg6kv2
+pcgaming,"""Suikoden II HD Remaster Dunan Unification War"" Opening Video",,Turbostrider27,1hgci8x,https://reddit.com/r/pcgaming/comments/1hgci8x/suikoden_ii_hd_remaster_dunan_unification_war/,https://www.youtube.com/watch?v=vY2kWOk1y9s,2024-12-17 15:02:07,9,0.71,9,0,0,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/i4Veybp0OJICk6Dkomxvttt2gALTNrO-wvxo3QtHspo.jpg,t3_1hgci8x

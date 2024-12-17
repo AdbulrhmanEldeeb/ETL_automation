@@ -1,0 +1,441 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Is coding fun for you or is it just a job?,Do you actually enjoy coding?,EspressoOverdose,1hfucav,https://reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/,https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/,2024-12-16 21:39:28,162,0.88,162,0,294,0,0,False,False,True,False,False,,self,t3_1hfucav
+webdev,Is it normal to hate my job?,"Hey guys, I have been going through a situation for the past 5 months or so.
+
+So, I am a webdev for about 3 years now, started at a small startup using pure js and php, like the good old days and then switched to my current company using Java and JSP, working on a big fintech company here where I live.
+
+The thing is, I entered the programming world while young, at my 16 years I discovered that I could make games by my own if I sat down and learned programming, and that's what I did, started with a local game development course that was shutdown due to the lack of interest from local teens. Switched my course to some more generic but still related to IT.
+
+As I said, nowadays, I work as a full-time java developer, but my dream always has been of developing games, idc if it's a small studio, big studio or just going indie with a few friends, and I feel that I'm stuck with java for fintech stuff and this thought has made me get stuck, I'm close to being not productive at work, before I start a task I get myself just studying c++ or something else, I really want to change, but idk what to change.
+
+Should I change myself and try to at least enjoy what I do or try to get out of this situation?",visnicio,1hfo6et,https://reddit.com/r/webdev/comments/1hfo6et/is_it_normal_to_hate_my_job/,https://www.reddit.com/r/webdev/comments/1hfo6et/is_it_normal_to_hate_my_job/,2024-12-16 17:20:49,72,0.84,72,0,63,0,0,False,False,True,False,False,Discussion,self,t3_1hfo6et
+webdev,Why does everyone make things that exist?,"I see a lot of startups going into the hype cycle, which is understandable. But I also see so many webapps for resource planning, retrospectives etc. It’s either that, some AI thing, SaaS or something related to DevOps.
+
+I see all this through ads or just looking at some local startups in my city.
+
+Why does everyone want to make tools for making things instead of making a product in itself?
+
+Seems everyone is selling shovels for other shovel selling businesses. Have we gone mad",kakemot,1hgadsd,https://reddit.com/r/webdev/comments/1hgadsd/why_does_everyone_make_things_that_exist/,https://www.reddit.com/r/webdev/comments/1hgadsd/why_does_everyone_make_things_that_exist/,2024-12-17 13:16:30,56,0.86,56,0,45,0,0,False,False,True,False,False,,self,t3_1hgadsd
+webdev,The recent WP hacks along with Matt's tantrums &amp; antics have made me realize one thing as a WP Designer:,"I am constantly in shit. 
+
+Now I used to be a developer in React (both Web and React Native) but took a huge break from that trying to focus more on my mental health and figuring out what I want to do which turned out to be design and illustration. I used to hate WordPress because I didn't know much about as a developer with his nose in the air. 
+
+As a designer now, of course I use WordPress for myself and found some clients so I can make a living. I am grateful for this ecosystem and it's community. 
+
+But I'll be damned if I don't mention how insecure I feel as of late. There have been so many hacks in the system and I don't see much people really reacting as hard I would expect them to so it either tells me that these hacks are a norm in the system or that we are better off acting ignorant of it all. 
+
+To top off the fact that Matt's antics show how much of a joke he takes this project and it's community for, it makes me really wonder if I should invest more in WordPress by learning PHP and getting deeper into the development aspect of it since lacking in that aspect might put so many clients at risk under my name and brand, or if I should just translate my design skills into going back to the JavaScript environments. 
+
+Either way, however, I know I will have to learn cybersecurity because it's not like WordPress is the factor of being hacked, a lot of systems get hacked. It's just that Matt being the cherry on top of this whole episode I'm witnessing just destroys so much confidence I had for WordPress. 
+
+Anyway, I guess this post might be useless and I'm just hoping to relate to someone who is more of a web professional than I am. Thanks for reading.",KayePi,1hg4vqn,https://reddit.com/r/webdev/comments/1hg4vqn/the_recent_wp_hacks_along_with_matts_tantrums/,https://www.reddit.com/r/webdev/comments/1hg4vqn/the_recent_wp_hacks_along_with_matts_tantrums/,2024-12-17 06:46:05,34,0.79,34,0,20,0,0,False,False,True,False,False,Discussion,self,t3_1hg4vqn
+webdev,Better google maps api,Im using the google maps api both for auto completing cities /addresses and showing the user where the location is with a pinpoint on the map. I have just been testing and already spent 10 cents in an evening which seems like a lot just for me using it. What do you guys use ?,locmp4,1hfozas,https://reddit.com/r/webdev/comments/1hfozas/better_google_maps_api/,https://www.reddit.com/r/webdev/comments/1hfozas/better_google_maps_api/,2024-12-16 17:54:17,22,0.86,22,0,12,0,0,False,False,True,False,False,Question,self,t3_1hfozas
+webdev,Devs who freelance - need input on client management tooling,"Hey fellow dev freelancers!
+
+I'm looking for a client management solution that would actually work for developers. Current situation: managing multiple clients, each with their own requirements gathering, tech stack discussions, GitHub access setup, deployment processes, etc.
+
+Current pain points:
+
+* No standardized way to collect technical requirements
+* Project setup varies per client (some need AWS access, others use their own infrastructure)
+* Managing access to different tools/platforms for each client
+* Tracking where each project is in the setup phase
+* Juggling different communication channels (Slack/Discord/email)
+
+I've looked at general freelance tools (Dubsado, HoneyBook), but they seem more geared towards creative freelancers. What I really want is something where I can:
+
+* Create custom workflow templates (e.g., different flows for web apps vs APIs)
+* Automate repetitive tasks (repo setup, project board creation, etc.)
+* Track technical requirements and dependencies
+* Handle contracts and payments
+* Give clients visibility into the technical setup process
+
+Right now I'm cobbling together Notion + Jira + various docs, but it feels inefficient. Wondering if there's a more dev-focused solution out there?
+
+If not, would you use something specifically built for managing development clients? What features would you want to see?
+
+Curious to hear how other dev freelancers are handling this. Are you using any specific tools or just going with the flow?",ifstatementequalsAI,1hfljvp,https://reddit.com/r/webdev/comments/1hfljvp/devs_who_freelance_need_input_on_client/,https://www.reddit.com/r/webdev/comments/1hfljvp/devs_who_freelance_need_input_on_client/,2024-12-16 15:26:35,11,0.75,11,0,12,0,0,False,False,True,False,False,,self,t3_1hfljvp
+webdev,SQL database design for storing tags,"Completely rookie dev here. My application allows admins associated to a specific organisation to create custom tags and tag organisational resources (PDFs, images etc.) that can later be filtered. I'm using PosgreSQL. My initial idea is having a Tags table with Organisational ID, Admin ID (who created the tag), Tag ID, and Tag Name. Then associate the Tag ID to specific organisational resources. But then each resources can have multiple tags so not sure what's the solution here. I'm more familiar with NoSQL where one way is to just store the tags of a resource object as an array of Tag objects
+
+Is there a better way of doing it? I have a RAG who should be able to query the database for specific tags by name so that might complicate things
+
+Edit: Thanks for the great advices everyone! ",InfinityZeroFive,1hg14v4,https://reddit.com/r/webdev/comments/1hg14v4/sql_database_design_for_storing_tags/,https://www.reddit.com/r/webdev/comments/1hg14v4/sql_database_design_for_storing_tags/,2024-12-17 03:02:12,12,0.85,12,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1hg14v4
+webdev,"PSA Regarding WCAG 2 (2.0, 2.1, 2.2.)","Just a PSA for everyone needing to do a research for the upcoming EU Norm, where WCAG 2.2 is the new standard coming mid 2025:
+
+After 2 days of research, reading the w3 docs and having a hard-time putting each information together bit by bit:
+
+There was an older thread, with a [comment](https://www.reddit.com/r/webdev/comments/z6ri8g/reading_wcag_21_waiaria/iy2tx2e/) for exactly this topic, where a user linked to https://webaim.org/standards/wcag/.
+
+Those people already did a very lovely summary of all needed successcriteria - updated for the upcoming WCAG 2.2!
+
+Big thanks to webaim.org and to u/CreativeTechGuyGames !
+
+
+I hope someone finds this as useful as i do",bucketkraken,1hgalky,https://reddit.com/r/webdev/comments/1hgalky/psa_regarding_wcag_2_20_21_22/,https://www.reddit.com/r/webdev/comments/1hgalky/psa_regarding_wcag_2_20_21_22/,2024-12-17 13:28:10,9,0.92,9,0,0,0,0,False,False,True,False,False,Resource,self,t3_1hgalky
+webdev,I made a 90s retro Pinterest,"Hi all, I recently participated in a hackathon and built a 90s retro website for Pinterest using html,css, and js. 
+
+I spent a lot of time on this sub on my personal account and just thought I’d share this, I’m a beginner and this was my first hackathon!
+
+Would appreciate any feedback or thoughts and if you feel like it, you can login to codedex and give it a like♥️",Ok_Scale2188,1hfuqo7,https://reddit.com/r/webdev/comments/1hfuqo7/i_made_a_90s_retro_pinterest/,https://www.codedex.io/community/hackathon/hstXpOsDn8WE3g26alxR,2024-12-16 21:56:15,8,0.85,8,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/QO95ToqJYrhrojf96_qNCUEzm1dB-_eD2aHr5EhEmaM.jpg,t3_1hfuqo7
+webdev,Frontend Completeness,"I am a backend developer now focused on frontend web development.  The goal is to offer my services to build static sites, for now, for clients and I want to ensure I am following proper guidelines and ensuring that the site is a complete professional product.    
+  
+My question is what is needed for a professional website to be complete?  I am referring to things like sitemaps, SSL certificates, and more that I am not currently aware of?  Not so much accessability, styling, and structure.  As far as SEO I am sure I can find alot of resources online to ensure I am optimizing the site for this, but feel free to include information on this subject if you wish.  This is more about the things that are needed that are not really obvious or taught in frontend courses.  
+
+Thank you in advance.",copperfoxtech,1hg4thw,https://reddit.com/r/webdev/comments/1hg4thw/frontend_completeness/,https://www.reddit.com/r/webdev/comments/1hg4thw/frontend_completeness/,2024-12-17 06:41:34,6,0.81,6,0,8,0,0,False,False,True,False,False,,self,t3_1hg4thw
+webdev,Re-imagining Technical Interviews: Valuing Experience Over Exam Skills,,fagnerbrack,1hg1gl9,https://reddit.com/r/webdev/comments/1hg1gl9/reimagining_technical_interviews_valuing/,https://danielabaron.me/blog/reimagining-technical-interviews/,2024-12-17 03:19:27,8,0.79,8,0,5,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/lJOTqkf93cnPQc8rdKj3fCPc16YD42dHkFlBXkucz3U.jpg,t3_1hg1gl9
+webdev,How do you handle hosting as a freelancer?,"I'm building this first freelance full stack app (for a friend) and the idea of how I will be passing him the app always plays in my mind. The mistake I made is I didn't discuss with him the costs and further details, we simply had a conversation about him wanting an app, and I suggested to build it for him with a cost ofc --which isn't set yet
+
+And after careful consideration, I'm thinking of hosting the app in Heroku's basic plan (7$/mo).
+
+Now what I wanna know is after deploying the app, who should be in charge of the monthly costs? And what are some options you suggest that I can discuss with him? And how can I set a reasonable price for the app? ",WadieZN,1hg8ma6,https://reddit.com/r/webdev/comments/1hg8ma6/how_do_you_handle_hosting_as_a_freelancer/,https://www.reddit.com/r/webdev/comments/1hg8ma6/how_do_you_handle_hosting_as_a_freelancer/,2024-12-17 11:27:34,6,0.8,6,0,14,0,0,False,False,True,False,False,,self,t3_1hg8ma6
+webdev,access a var in javascript from HTML,"(Solved)
+
+Hello, I'm new to web developemnt and I have a question.
+
+I have a javascript file that contain a variable and I want to change it from html, how can I do that?
+
+html code:
+
+    &lt;script&gt;
+    PleaseRotateOptions = {
+    subMessage: """",
+    onHide: function () {  //access file here },
+    onShow: function () { },
+    allowClickBypass: false,
+    };
+    &lt;/script&gt;
+
+javascript code
+
+    var onHide = false; // for example make it true",Jo_Joo,1hga8y9,https://reddit.com/r/webdev/comments/1hga8y9/access_a_var_in_javascript_from_html/,https://www.reddit.com/r/webdev/comments/1hga8y9/access_a_var_in_javascript_from_html/,2024-12-17 13:08:49,3,0.71,3,0,15,0,0,False,False,True,False,False,Question,self,t3_1hga8y9
+webdev,Best way to move to a new database that does not look the same at all ,"Hey,
+
+  
+So I'm on Mysql 5.7 and the database that my company is using is built by someone who does not know anything about the SQL language (me 4 years ago).   
+  
+Now that I know a bit more I thought it would be a good idea to to start on V2 of my platform and also do the database a bit better.   
+  
+I could migrate in python probably but I feel like it would be a lot of code for a single-run script.   
+Is there a program that handles stuff like this?   
+  
+**I want something where I can ""drag n drop"" which column of data should go where in the new database and then hit ""run"".**  ",Dense_Mobile_6212,1hg5was,https://reddit.com/r/webdev/comments/1hg5was/best_way_to_move_to_a_new_database_that_does_not/,https://www.reddit.com/r/webdev/comments/1hg5was/best_way_to_move_to_a_new_database_that_does_not/,2024-12-17 08:00:37,3,0.72,3,0,3,0,0,False,False,True,False,False,,self,t3_1hg5was
+webdev,"Switched from www to apex on my website, bad idea?","When I first started my Wordpress website for my business I used the naked/apex domain, and then shortly after setting up DNS/caching/CDN, my CDN provider required that I use the www subdomain and that's what it's been for the last 5 years. I recently got rid of that CDN and switched my DNS to Cloudflare which doesn't have such a restriction. On a whim recently I removed the www in my Wordpress site settings, updated the DNS records for www from A to CNAME and pointed it to my root domain, and Wordpress automatically creates 301 redirects for the requests that include www.
+
+Was this a bad idea? Did I just ruin my site's SEO, popularity and rankings? I noticed in Google Search Console I basically have no stats anymore. Maybe it will take time to regenerate with the new links, but did I just make a huge mistake?",Produkt,1hg0n4e,https://reddit.com/r/webdev/comments/1hg0n4e/switched_from_www_to_apex_on_my_website_bad_idea/,https://www.reddit.com/r/webdev/comments/1hg0n4e/switched_from_www_to_apex_on_my_website_bad_idea/,2024-12-17 02:36:10,2,0.6,2,0,3,0,0,False,False,True,False,False,,self,t3_1hg0n4e
+webdev,First time website project for my employer,"So I recently got this standard IT job not website related. They told me that they need a new website or a remake of what they already have and they can outsource it or have me do it. Now I know a decent amount about HTML CSS and javascript and I can make a much better website using wordpress than what they currently have. They said they paid someone 5k for this terrible website which looks ugly, has bad functionality and they can’t even access the analytics. So, I can definitely provide something better. Now my question is; is it worth asking for any payment for this as It’s my employer and technically I’m already getting paid, I would be very happy with any amount of money for it and it will still be cheaper for them. If so, how much should i ask for and how could i go about it? Lastly, I was thinking of asking them that if they’re happy with what I bring, they could recommend me with their clients to let me make websites for them maybe giving my employer company a commission for it. It’s field management company who’s clients aren’t their competitors, so I don’t see why not, but what do you think?",PlayfulEffective9,1hg9t8m,https://reddit.com/r/webdev/comments/1hg9t8m/first_time_website_project_for_my_employer/,https://www.reddit.com/r/webdev/comments/1hg9t8m/first_time_website_project_for_my_employer/,2024-12-17 12:44:00,2,1.0,2,0,4,0,0,False,False,True,False,False,Question,self,t3_1hg9t8m
+webdev,How can I have two totally different themes in the same project with MUI and Tailwind?,"I have two different products in the same repo, but their designs are different. Most of the componentes are shared but some features are different.
+
+The problem I’m facing is dealing with the UI, specifically theming conflicts. I have setup two MaterialUI themes, and also two Tailwind presets, each with their own color variables. And depending on which project I want to run, it selects the right theme.
+
+But it’s not as reliable, because often when I change something in product A, it breaks product B, with the MUI themes it’s better but with Tailwind it happens often. For example, a component is styled with tailwind classes and used in both products, one needs a border and the other doesn’t. Of course one way to solve this would be to check which product uses which classes but the code is unmaintainable and messsy.
+
+Another common issue that I have is: Product A primary color is a dark color and product B is a light color, so they need different text colors.
+
+
+How would you deal with this?
+
+Ideas I have:
+
+1. A components library, so instead of manually styling them in the project itself, I create a separate repo only for the UI, and in there I can do the variants logic in a more isolated way. This would bring a new repo to maintain tho and a new workflow we may not have the space for.
+
+2. Maybe stop using Tailwind to style the components, and focus more on MUI since I can then have different designs for each. One issue with this, is I can only use MUI components and I already have many custom ones.
+
+Not sure if there is a way to easily create the Product A and B variants of a component and use them based off the environment variable the defines the project.
+
+It can’t be too troublesome tho, I need a way to easily create and maintain components.",PatchDev_,1hg8i0v,https://reddit.com/r/webdev/comments/1hg8i0v/how_can_i_have_two_totally_different_themes_in/,https://www.reddit.com/r/webdev/comments/1hg8i0v/how_can_i_have_two_totally_different_themes_in/,2024-12-17 11:19:02,2,0.67,2,0,5,0,0,False,False,True,False,False,Question,self,t3_1hg8i0v
+webdev,best way to save worker results in microservice architecture,"I'm currently developing a graphql api in nodejs with graphql-yoga that needs to query and process large amounts of data from an external service. 
+
+To ease the load on my api service I thought of using bullmq to create a multi purpose worker microservice to which I can offload expensive tasks from my main api server. 
+
+Now I'm wondering what is the best way to get the worker result data back to my main application. The data the worker produces should end up in the postgres database that the api service uses and it also downloads some files that I want to save in a bucket.
+
+there are a few approaches that I thought of:
+
+1. Give the worker access to the db and a bucket to save the data directly.
+This approach goes against my understanding of an encapsulated microservice architecture.
+
+2. Put the result data back into another bullmq queue and let the api server write the data to the database. But how would I handle the files I want to save in a bucket?
+
+3. create endpoints on the apiserver for the worker to return its data. I do not want to have internal graphql endpoints to pollute my schema. I discovered that maybe grpc could be a good fit for this but never used it.
+
+Is any of the approaches even viable? Maybe there are other ways to achieve this that I don't know about, I would really appreciate some input on this :)
+
+",matshoo,1hg83y8,https://reddit.com/r/webdev/comments/1hg83y8/best_way_to_save_worker_results_in_microservice/,https://www.reddit.com/r/webdev/comments/1hg83y8/best_way_to_save_worker_results_in_microservice/,2024-12-17 10:51:33,2,0.76,2,0,3,0,0,False,False,True,False,False,,self,t3_1hg83y8
+webdev,Anybody with any experience with .wasp?,"Hey folks!
+
+Wasp has been bugging me for quite a while and I was wondering if there's anybody who made any noticeable projects with it? It's a cool idea but and I know I could just try it by myself and have fun with it - been thinking if anyone battle-tested it already and could share some opinions :)",Sziszhaq,1hg5bgr,https://reddit.com/r/webdev/comments/1hg5bgr/anybody_with_any_experience_with_wasp/,https://www.reddit.com/r/webdev/comments/1hg5bgr/anybody_with_any_experience_with_wasp/,2024-12-17 07:17:12,2,1.0,2,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hg5bgr
+webdev,"Are there any sites that measure how much ""build minutes"" a github repo is going to use up on Netlify?",Just wondering how much build minutes one of my repos is going to take up,Cyb3rPhantom,1hfupik,https://reddit.com/r/webdev/comments/1hfupik/are_there_any_sites_that_measure_how_much_build/,https://www.reddit.com/r/webdev/comments/1hfupik/are_there_any_sites_that_measure_how_much_build/,2024-12-16 21:54:53,2,0.75,2,0,6,0,0,False,False,True,False,False,,self,t3_1hfupik
+webdev,Always check the  node engine in your local vs pipeline when building you app - rant,"Hey, devs
+
+I’m in the middle of migrating my corporate app to MFE. 
+
+For the past 2 days I couldn’t figure out why my local build shows different files vs pipeline. 
+I checked everything:
+
+
+- env variables
+- different file naming 
+- played with optimization
+- played with how webpack use build commands
+- checked the deployment settings
+
+Build after build, whatever I did it showed same result - files are different. The file names and structure come from content hash and I was 100% not matter where you run it - it should be same.
+
+Besides the fact that files are different - the MFE modules that I needed were not in the pipeline build.
+
+At this point I was 99% sure the Skynet took over and it’s trying to drive me crazy. 
+
+And then I took a glance at our node image - it was called node14 so I naturally assumed it had node 14 under the hood.
+
+Can you imagine my face when I console logged the node engine and saw the magic number - it was running under node 10. I quickly changed node on my local to 10, did the build and finally saw same file structure.
+
+At that moment I started jumping like a little girl. It was really driving me nuts for the last coupe of days
+
+Moral of the story - always consider engine check when doing builds.
+
+Cheers guys and stay sane",NetworkEducational81,1hfmulp,https://reddit.com/r/webdev/comments/1hfmulp/always_check_the_node_engine_in_your_local_vs/,https://www.reddit.com/r/webdev/comments/1hfmulp/always_check_the_node_engine_in_your_local_vs/,2024-12-16 16:23:55,2,0.67,2,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hfmulp
+webdev,some TypeScript flashcards I made,,to_takeaway,1hfma8w,https://reddit.com/r/webdev/comments/1hfma8w/some_typescript_flashcards_i_made/,https://cards.samu.space/app/en/topic/676049094c79582aa7c59e51,2024-12-16 15:59:30,2,0.75,2,0,1,0,0,False,False,False,False,False,Resource,default,t3_1hfma8w
+webdev,Any alternatives to PunchSalad for generating multiple SSLs?,This service seems to not be working  and I need to generate over 20 SSLs. Looking for an easy way to do this. ,twiggs462,1hgblce,https://reddit.com/r/webdev/comments/1hgblce/any_alternatives_to_punchsalad_for_generating/,https://www.reddit.com/r/webdev/comments/1hgblce/any_alternatives_to_punchsalad_for_generating/,2024-12-17 14:18:14,1,1.0,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1hgblce
+webdev,CMS needs/wants for SEO,"Im working on a project to provide SEO management for non developers on laravel websites, and as i'm not an seo expert myself want to check i'm going in the right direction.
+
+So far for each page (route) admins can edit the:
+
+* Title
+* description
+* keywords
+* index or not
+* canonical url
+* open graph title
+* open graph description
+* open graph image
+* twitter title
+* twitter description
+* twitter image/card type
+
+It already has the ability to 'bind' data in the code, for use in the dashboard, so for a product page, admins can use {product.name} to inject the name of the product into the content/tag.
+
+I can generate links to the current page in alternate locales, and ld+json schema, utilising the og data.
+
+Is there anything that would be useful/needed to make this a viable product? if there are platforms people use that provide a similar experience then please point me towards them, even nailing the UX would be a great step forward.
+
+[Here is how the interface looks at the moment](https://imgur.com/a/lj6XI1p)",BchubbMemes,1hgauoi,https://reddit.com/r/webdev/comments/1hgauoi/cms_needswants_for_seo/,https://www.reddit.com/r/webdev/comments/1hgauoi/cms_needswants_for_seo/,2024-12-17 13:41:11,1,1.0,1,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hgauoi
+webdev,Clarification on Using Google Search and Autocomplete for a Chrome New Tab Extension,"I’m working on a **free Chrome New Tab extension** that helps users learn Korean and integrates a basic search feature. The extension will work similarly to the normal Google search experience:
+
+1. Users type a query in the search bar on the new tab page.
+2. Autocomplete suggestions appear as they type to enhance usability.
+3. When users submit the query, they are redirected to the **standard Google search results page** (e.g., https://www.google.com/search?q=query).
+
+To provide autocomplete suggestions, I’m currently fetching data from Google's endpoint:  
+[https://www.google.com/complete/search?client=chrome&amp;q=query](https://www.google.com/complete/search?client=chrome&amp;q=query)  
+I’m using a **proxy server** to fetch and return the suggestions to the extension.
+
+Before proceeding, I’d like to clarify the following:
+
+1. Is fetching autocomplete suggestions this way **compliant with Google's terms of service** for a Chrome extension?
+2. If not, what is the **recommended approach** for providing autocomplete suggestions while keeping the experience similar to Google's?
+3. Would Google Programmable Search Engine (PSE) be applicable here, even though we’re redirecting users to Google’s unmodified search results page?
+
+I want to ensure this implementation follows best practices and remains fully compliant. Any guidance or recommendations would be greatly appreciated.  
+  
+Thank you.",Fly-Thru,1hg8sru,https://reddit.com/r/webdev/comments/1hg8sru/clarification_on_using_google_search_and/,https://www.reddit.com/r/webdev/comments/1hg8sru/clarification_on_using_google_search_and/,2024-12-17 11:40:14,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hg8sru
+webdev,Mapbox Web GL: Experience with Mapbox and Unexpected Billing Due to Traffic Peaks?,"Has anyone encountered a situation where an unexpected surge in traffic on their web app resulted in a large invoice? Using only Mapbox Web GL JS so far, but when I look at the 500 free session, it does not seem so much... ! 
+
+If you've dealt with this or contacted Mapbox support about a similar issue, I'd really appreciate any insights or tips on how to handle it.
+
+Thanks in advance!",elcoinmusk,1hg7q25,https://reddit.com/r/webdev/comments/1hg7q25/mapbox_web_gl_experience_with_mapbox_and/,https://www.reddit.com/r/webdev/comments/1hg7q25/mapbox_web_gl_experience_with_mapbox_and/,2024-12-17 10:22:10,1,0.6,1,0,1,0,0,False,False,True,False,False,,self,t3_1hg7q25
+webdev,"Beginerish web developer front end development through website e.i stackblitz, replit, and codesandbox","Hey, I'm trying to get away from web hosting platforms. I do like hostgator as a platform but I didn't have a good experience with their free website designer when I first set up my account. In general, I hate distractions from paid-for services by the time I do all the setup through them I'm zapped from creativity. which has been my constant downfall and significant amounts of money paid for nothing gained. Also hard to organize with to a huge loss in productivity that could be better spent elsewhere.  I've used Godaddy, and the rebranded eco web hosting as well. Anyway, my goal is to just set up a static website at the moment for my website mission accomplished thanks to Netlify and GitHub Now I'm about to start researching more about web frameworks. May I get some advice on this before I enter tutorial hell? My background is in IDE's but I'd like to hear what are some good reasons to use a online front-end website editor. I have experience with replit and codesandbox from last year but both were buggy at the time. I just moments ago found out about stackblitz but is that worth the time to learn? I'd just like to use a dedicated program or website at this time before getting back into using an IDE. The reason is because I just got my laptop optimized and removed all the bloatware after learning that's a thing from taking a CompTIA A++ class. So thank you kindly",Boring_Air5016,1hg6xry,https://reddit.com/r/webdev/comments/1hg6xry/beginerish_web_developer_front_end_development/,https://www.reddit.com/r/webdev/comments/1hg6xry/beginerish_web_developer_front_end_development/,2024-12-17 09:22:23,1,1.0,1,0,4,0,0,False,False,True,False,False,Question,self,t3_1hg6xry
+webdev,Participate in JDoodle's Code for Christmas hackathon to win $100 Amazon Gift Card,"Hey devs,
+
+I'm from JDoodle and  wanted to share about this hackathon. It’s free to enter, and you could win a $100 Amazon gift voucher, JDoodle merchandise, and early bird rewards.
+
+All you have to do is simply code a festive Christmas tree using HTML, CSS, or JS on JDoodle, share it on social media, tag JDoodle, and use #codeforchristmas.
+
+The last date for submission is 22nd December 2024. For detailed instructions, [check out this blog.](https://www.jdoodle.com/blog/code-for-christmas)
+
+https://preview.redd.it/biwa0lf2uc7e1.png?width=1620&amp;format=png&amp;auto=webp&amp;s=3cb58732752d1e9a0ee5f9d2bc8dc7eddb25d9ae",zjameel,1hg4t27,https://reddit.com/r/webdev/comments/1hg4t27/participate_in_jdoodles_code_for_christmas/,https://www.reddit.com/r/webdev/comments/1hg4t27/participate_in_jdoodles_code_for_christmas/,2024-12-17 06:40:45,0,0.5,0,0,2,0,0,False,False,True,False,False,News,https://a.thumbs.redditmedia.com/0AUw2jiZGeOgZVO_1iKhQsZTtm60SJzcgB4XOwMnME8.jpg,t3_1hg4t27
+webdev,What web dev skills do I need to make this style of website? (link inside),"[https://questionablecontent.net/](https://questionablecontent.net/)
+
+What dev skills can you recommend to make it myself?
+
+Does a site with a continuously updated comic have a name?
+
+Do any of the web dev creation sites have premade templates of this kind of site?
+
+Lastly, mods, I'm knew to this subreddit. I believe I followed all the rules. Please don't delete this. 
+
+Thanks. :D
+
+",Weavesnatchin,1hg4gxq,https://reddit.com/r/webdev/comments/1hg4gxq/what_web_dev_skills_do_i_need_to_make_this_style/,https://www.reddit.com/r/webdev/comments/1hg4gxq/what_web_dev_skills_do_i_need_to_make_this_style/,2024-12-17 06:17:41,0,0.5,0,0,6,0,0,False,False,True,False,False,,self,t3_1hg4gxq
+webdev,"[Request] Newbie here, made my first ever website. Would like to add animation, taken inspiration from this website.","How do I make an animation exactly like this? Just with the my company name, here's the website.   
+[Studio-Onto](https://studio-onto.com/)
+
+Im talking about the animation that pops up when we open the website, nothing else. Thanks",ig_harsh20p,1hfqnmd,https://reddit.com/r/webdev/comments/1hfqnmd/request_newbie_here_made_my_first_ever_website/,https://www.reddit.com/r/webdev/comments/1hfqnmd/request_newbie_here_made_my_first_ever_website/,2024-12-16 19:03:36,1,0.56,1,0,4,0,0,False,False,True,False,False,,self,t3_1hfqnmd
+webdev,C drive full after build and deploy,"Hi everyone, I am really new to Web Development and am currently working (as an intern) on a Web App for a Company. I have setup the dev version of the Web App on my local Computer for development purposes, The IDE I am using is IntelliJ, the web app is deployed on a local Liferay Server with Apache Tomcat and connected to MySQL server. 
+The issue I am currently facing is that recently I have cloned the repository for all the Modules into the project and deployed the server, however I tried to build and deploy one of the modules to the server and the build and deploy operation was successful however when I observed my C drive it went from at least 10 GB free to only 50MB free,and I then had to remove some unnecessary apps and data from C drive to free up some space.
+I would very much appreciate it if any people with experience could assist me in figuring out why my C drive suddenly became full as I don't want this to be a regular occurrence everytime I try to deploy a module to a server. Thanks in advance ,everyone!!!",Demonking6444,1hfpltt,https://reddit.com/r/webdev/comments/1hfpltt/c_drive_full_after_build_and_deploy/,https://www.reddit.com/r/webdev/comments/1hfpltt/c_drive_full_after_build_and_deploy/,2024-12-16 18:20:08,1,0.57,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hfpltt
+webdev,Columbus Ohio?,Looking for a web designer/dev in the Columbus Ohio area for a mid sized company,Sea_Code_3050,1hgbkvl,https://reddit.com/r/webdev/comments/1hgbkvl/columbus_ohio/,https://www.reddit.com/r/webdev/comments/1hgbkvl/columbus_ohio/,2024-12-17 14:17:36,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1hgbkvl
+webdev,API calls for aggregations,"Hi all,  I'm new to web dev and I'm really just looking for videos,  explanations and help.
+
+I'm working with a full stack,  backend and front end along with Middleware that requires aggregation on the data.  for example I'm counting how many users are actively logged in and who is making changes. 
+
+the Mongo db can have well over 2 million users and I need to pull items related to their documents. their documents may have sub documents attached or correlate to another database with a collection and other documents. 
+
+so the cross correlations can add up fast and bandwidth is a current issue when making the api calls. 
+
+
+What I'm looking for is how you handle bandwidth when you need to perform aggregation like how many times a user appears in a large database with alot of documents?",idontreddit22,1hgaspr,https://reddit.com/r/webdev/comments/1hgaspr/api_calls_for_aggregations/,https://www.reddit.com/r/webdev/comments/1hgaspr/api_calls_for_aggregations/,2024-12-17 13:38:21,0,0.5,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hgaspr
+webdev,Episode 2: HONO Part 1: Setup &amp; Installation! 🔥,"Hey Reddit friends! 👋
+
+I’m back with **Episode 2** of my HONO series, and we’re diving into the fun part: **getting our environment set up and installing HONO**! 🎉
+
+In this episode, titled **“HONO Part 1: Setup &amp; Installation! 🔥”**, I walk you step-by-step through:  
+✅ Installing HONO from scratch.  
+✅ Setting up a clean, efficient project structure.  
+✅ Understanding the basics to kickstart our backend development journey.
+
+If you’ve been curious about HONO but didn’t know where to start, this episode will help you get up and running quickly!
+
+Here’s the link: [**Episode 2 - HONO Part 1: Setup &amp; Installation**](https://www.youtube.com/watch?v=cK3LV9lPF4o) 🎥
+
+As always, I’d love to hear your thoughts, questions, or even suggestions as I keep building out this series. Your feedback helps a ton, and I hope this episode gets you excited to dive deeper into HONO with me! 🚀
+
+Let’s keep learning and coding together 💻✨",RevolutionaryAd1557,1hg11cd,https://reddit.com/r/webdev/comments/1hg11cd/episode_2_hono_part_1_setup_installation/,https://www.reddit.com/r/webdev/comments/1hg11cd/episode_2_hono_part_1_setup_installation/,2024-12-17 02:57:07,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hg11cd
+webdev,"Notification sound but nothing else, possible to get from being logged into a website on Chrome? ","Hi long story short I’ve heard what sounds like a dating app jingle on my partners phone a few times (different to the normal notification sound) and with no actual notification. He doesn’t have the app but then I started thinking could that jingle be because he is logged into the site on chrome or would that carry the normal chrome notification sound?
+
+Sorry not very tech savvy! Thank you ",pelicannpie,1hfz2pd,https://reddit.com/r/webdev/comments/1hfz2pd/notification_sound_but_nothing_else_possible_to/,https://www.reddit.com/r/webdev/comments/1hfz2pd/notification_sound_but_nothing_else_possible_to/,2024-12-17 01:14:57,0,0.5,0,0,6,0,0,False,False,True,False,False,Question,self,t3_1hfz2pd
+webdev,A figma project,"Hello, I re-designed a figma project as I thought it would be a nice one to have on a portfolio [Project](https://sirmely.github.io/Finsweet-Blog-Project/). Thoughts? (I only made the landing page) Here's the [Figma](https://www.figma.com/design/jADZY0WZb5j6qiPGquE88O/Client-First-Template-12---Blog-(Community)?node-id=27-387&amp;p=f&amp;t=sj4vhD4wsljNDtoI-0) project.
+
+I also haven't made it responsive yet but if you all think this would be a good thing to have on my portfolio let me know :)",FirmRepresentative24,1hfwykc,https://reddit.com/r/webdev/comments/1hfwykc/a_figma_project/,https://www.reddit.com/r/webdev/comments/1hfwykc/a_figma_project/,2024-12-16 23:34:42,1,0.57,1,0,8,0,0,False,False,True,False,False,,self,t3_1hfwykc
+webdev,"Opportunity to kick off a charity initiative for my company, no resources available, what should I consider?","Hey all,
+
+As a side project I have been asked by the executive team to kick off a charity for the company. **I am not a webdeveloper or have any experience in this, just a guy with hands and half a brain and a task.** Naturally, it will start small and then grow over the years, long term working with celebs and the like, charity auctions and livestreams etcetc. They have tons of money to throw away but want a roadmap to show them next week and a proof of concept doable for Q1. Something like a regular donation system is fine for the start of the year.
+
+I will have to ask for budget as we go but basically will rely on Fiver or freelanced web devs for the project.
+
+Before I kick it off I did want to ask experienced webdevs who may have done this type of work what considerations I may need to bring to them during the roadmap prez to make the rollout easier?
+
+I thought of;
+
+\- Payment system, what will we use?
+
+\- Legality of donation/system worldwide
+
+\- Legal terms to write out with the legal team
+
+\- Will it be a subdomain of our normal site (charity.SITENAME.com), or a whole new website, or a subdirectory of our site (SITENAME.com/charity)? **What are the advantages and disadvantages of each method?**
+
+  
+If you were a web dev working on this what would you want to know other than the classic 'presentation that shows the design we're hoping for'?",HoldMyNaan,1hfv2p0,https://reddit.com/r/webdev/comments/1hfv2p0/opportunity_to_kick_off_a_charity_initiative_for/,https://www.reddit.com/r/webdev/comments/1hfv2p0/opportunity_to_kick_off_a_charity_initiative_for/,2024-12-16 22:10:02,0,0.5,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hfv2p0
+webdev,Trying to figure out the right migration strategy from React/Node to NextJS,"Hi all,
+
+Mostly a backend developer here, but I created a website using a React frontend (hosted in S3/Cloudfront)) and a Node server serving JSON data (on a single EC2 instance) which fetches data from an RDS DB. 
+
+The website has a lot of dynamically created pages (think of a site like goodreads, serving pages about Books) and while I'm okay with most content being fetched async after page load, I want to serve the pages with metatags so search engines and social media can create better previews and index the content better.
+
+I'd like to move over to NextJS for that reason. I'm quite new to the idea of NextJS, however, and I'm having trouble wrapping my head around what it replaces. Every article I find involves replacing React apps with NextJS, but it seems to me that rather than that, it actually replaces the Node app and simply has you moving your React app into the server app.
+
+Is that about right or am I totally wrong here?
+
+From that understanding, it seems like my setup should move from:
+
+    React app:
+     - book-page.jsx
+     - book-client.jsx (which fetches data from Node App)
+    Node app:
+     - book-api.js
+     - book-db-client.js (which fetches data from SQL)
+    SQL DB (RDS)
+     - Book tables 
+
+To:
+
+    NextJS app (hosted on EC2 or using AWS Amplify?):
+     - pages folder (has the react app):
+         - book-page.jsx
+         - book-client.jsx (maybe no need for this anymore?)
+     - pages/api
+         - book-api.js
+         - book-db-client.js (which fetches data from RDS)
+    SQL DB (RDS)
+     - Book tables 
+
+Does this sound like the right strategy for what I'm trying to do? I'm still learning NextJS, so the info in the pages and api folder is a bit... loose.
+
+Edit to add: the reason I'm asking and not simply ""googling"" is because I have already tried and the number of articles and tutorials is high due to the number of different setups devs start with and which strategy of NextJS (SSR, SSG, IVR) they use AND what kind of content their website actually serves. It's been a bit of a pain to figure out the right strategy for my own website because of all these nuances.",ubccompscistudent,1hfrwas,https://reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/,https://www.reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/,2024-12-16 19:55:54,0,0.5,0,0,8,0,0,False,False,True,False,False,Question,self,t3_1hfrwas
+webdev,Hitesh chaudhary vs Cole steele vs Angela yu web dev udemy course?,"I am not a beginner in web development. I know HTML, CSS, and JavaScript, but I learned them a year ago and then stopped because I was busy with other things. Currently, I have started practicing HTML, CSS, and JavaScript again, aiming to improve my problem-solving skills. However, I keep getting distracted, so I’m considering buying a Udemy course to follow and practice consistently.
+
+When I searched for courses, I found these two to be the best options, but I can only afford one. I’ve read reviews about Angela Yu’s course, and many say it can build your interest in web development. However, looking at the content, it seems to lack some of the latest updates. On the other hand, Hitesh Choudhary’s course is more recent and covers all the latest technologies.
+
+What do you suggest?",razzasid,1hfoxj8,https://reddit.com/r/webdev/comments/1hfoxj8/hitesh_chaudhary_vs_cole_steele_vs_angela_yu_web/,https://www.reddit.com/r/webdev/comments/1hfoxj8/hitesh_chaudhary_vs_cole_steele_vs_angela_yu_web/,2024-12-16 17:52:15,0,0.5,0,0,1,0,0,False,False,True,False,False,Question,self,t3_1hfoxj8
+webdev,How i can make this tool better ?,"Hey! My company is working on building tools for content creators. One of the first tools we made is a color picker for the web. I think it's a great idea. I'm not a designer myself, and I don't always have design software open when I need it. A simple and fast web app feels like a great solution for this.
+
+How can I improve this tool? Any suggestions?
+
+[https://claster.eu/tools/color-picker](https://claster.eu/tools/color-picker)",hard-tender-blade,1hfljcj,https://reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/,https://www.reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/,2024-12-16 15:25:54,0,0.5,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1hfljcj
+webdev, Fellow freelancers: How much time do you waste on client management? (Quick survey),"I'm researching freelancer workflows and would love your input on how you handle client management. Would really appreciate if you could share your experiences:
+
+1. What takes up most of your time when dealing with clients? (Besides actual project work)
+2. How do you currently track where each client/project is in your process? What tools do you use?
+3. If you could automate one part of your client management, what would it be?
+4. How much time per week do you spend on:
+   * Client onboarding
+   * Project status updates
+   * Collecting feedback
+   * Payment follow-ups
+5. What's your biggest frustration with current project/client management tools?
+6. How do your clients prefer to:
+   * Give feedback
+   * Track project progress
+   * Share files/content
+   * Communicate with you
+7. Would you pay for a tool that automates your client management process? If yes, what would make it worth paying for?
+
+Optional: What type of freelance work do you do? (This helps understand different workflow needs)
+
+Really appreciate any insights you can share! 🙏",ifstatementequalsAI,1hg80kq,https://reddit.com/r/webdev/comments/1hg80kq/fellow_freelancers_how_much_time_do_you_waste_on/,https://www.reddit.com/r/webdev/comments/1hg80kq/fellow_freelancers_how_much_time_do_you_waste_on/,2024-12-17 10:44:40,0,0.44,0,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1hg80kq
+webdev,Can I do web development on a low-spec work PC using a USB setup?,"
+So, I have a lot of free time at my current job (receptionist). Honestly, the pay is great, and since I’m still in college, I feel really lucky to have a job that’s both chill and well-paid. This is pretty rare in my country (Argentina).
+
+I do web development, but I haven’t been able to find anything in the field yet. I was thinking of using my free time at work to code, but the work PC has really low specs, and it’s even worse with the job’s programs running in the background.
+
+The specs are:
+	•	Intel Core i3 7020U (2.3GHz)
+	•	4GB RAM (usually at 90% usage due to work programs).
+
+I was wondering if it’s possible to set up everything on a USB drive using portable versions of the tools I need. Do you think I could work on some MERN stack projects or any kind of web development with this setup?",Lau_Szutner,1hg553u,https://reddit.com/r/webdev/comments/1hg553u/can_i_do_web_development_on_a_lowspec_work_pc/,https://i.redd.it/pne3wrccyc7e1.jpeg,2024-12-17 07:04:25,0,0.46,0,0,44,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/cj3OmAnJDAXUKpPHgLDKvZFPUHKovPiCMWu3NwedGgQ.jpg,t3_1hg553u
+webdev,Shopify App- how to track user among several stores who have my app?,"Am I trying to achieve the impossible? Please read whole thing.  
+  
+I have a mobile app where user can store their receipt data. And a Shopify app, which basically shows a button which when clicked, shows a QR code for first time Auth. So, I am using device fingerprinting to track the user, update the database, etc. 
+
+Problem:  
+1. Is fingerprinting the only way to Auth for cross-domain verification? I don't want my users to scan QR again and again for verification. I was looking into cookies, but they are useless for cross domains.   
+What else is possible? Chatgpt says iframe cookies are also mostly blocked by default in most browsers.  
+  
+2. This device fingerprinting is valid only until the cart page, so there is no way for Shopify to know which order belongs to which user. So I tried to connect the cart token with the device fingerprint -&gt; then Shopify looked up for that token. However, the token changed from cart to checkout, and now I don't know what else I can do to make sure the order checkout sends the data to the right user in my database.   
+What other attributes I can use which remain constant and are solid identifiers? 
+
+Thanks",Outside_Spinach_8666,1hfuuz0,https://reddit.com/r/webdev/comments/1hfuuz0/shopify_app_how_to_track_user_among_several/,https://www.reddit.com/r/webdev/comments/1hfuuz0/shopify_app_how_to_track_user_among_several/,2024-12-16 22:01:02,0,0.33,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hfuuz0
+webdev,"Could I get some git novice help, please?","Hey all, I currently have a mern app hosted on github and deployed.
+
+I've used git throughout but I'm kind of new to it, so mainly opening a branch for major changes, commiting and merging.
+
+I've been asked to make a major change, which I am currently on another branch but haven't finished.
+
+But I've now been asked to make a small change elsewhere (just little frontend changes) that need to be online immediately.
+
+So I want to be able to push these small changes live, but without losing all the work I've done regarding the major change and without pushing that, because it isn't complete.
+
+What I was going to do was make another branch, for example ""frontend changes"", switch to it, make the changes, merge that to the main branch and then push the main branch.   
+After which I'll then switch back to my major change branch and carry on with my work there. 
+
+Is that ok? Will I lose anything/accidentally push my major change branch live that way?",RyXkci,1hfncjx,https://reddit.com/r/webdev/comments/1hfncjx/could_i_get_some_git_novice_help_please/,https://www.reddit.com/r/webdev/comments/1hfncjx/could_i_get_some_git_novice_help_please/,2024-12-16 16:45:48,0,0.33,0,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1hfncjx
+webdev,What are advantages of paid enterprisey ui compllonents?,"I'm talking about telerik, devexpress, syncfusion, infragistics. We use .net and react at work. 
+
+There are so many good and open source ui components for react so even if business is paying for licenses, I would still go for OSS and free to use if possible.
+
+What am I missing?",sM92Bpb,1hg0ah3,https://reddit.com/r/webdev/comments/1hg0ah3/what_are_advantages_of_paid_enterprisey_ui/,https://www.reddit.com/r/webdev/comments/1hg0ah3/what_are_advantages_of_paid_enterprisey_ui/,2024-12-17 02:17:23,0,0.42,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1hg0ah3
+webdev,javascript modificator to view hidden website option,"Hi, sorry for non-professional description - I'm not into IT or web dev at all. I'm looking for a new car and was downloading PDF offers from car manufacturer website. Today I saw that the download button disappeared. I viewed the web source code and found that there is a part of java script ""toolbar\_pdfDownload\_isVisible\&amp;quot;:false"" I guess that if I could &gt;SOMEHOW&lt; change that value to ""true"" the button will be visible again. I asked GPT for help - it suggested using Tampermonkey extension and gave me a short script example. Unfortunately it didnt work... the website is: [https://www.audi.pl/pl/wyszukiwarka-samochodow-nowych/details/:/idUE9MMDEyMjAyMDIzMTExNjg0=](https://www.audi.pl/pl/wyszukiwarka-samochodow-nowych/details/:/idUE9MMDEyMjAyMDIzMTExNjg0=) and after viewing the source code and ctrl+f for ""download"" the script can be found at the very bottom. Is it even possible to bring the download button back? Thanks!",villovsky,1hfqwsf,https://reddit.com/r/webdev/comments/1hfqwsf/javascript_modificator_to_view_hidden_website/,https://www.reddit.com/r/webdev/comments/1hfqwsf/javascript_modificator_to_view_hidden_website/,2024-12-16 19:14:17,0,0.4,0,0,5,0,0,False,False,True,False,False,,self,t3_1hfqwsf
+webdev,Anyone know a way to use Vue template syntax with React?,"TL;DR I'm on a team where folks hate react JSX syntax (too much javascript inside the markup) and that's their main motivation for using VueJS instead. Meanwhile I'm suffering due to all the weirdness of Vue and I think I want to try using React, but with Vue's element generation syntax.
+
+The thing is, I have no clue if such a thing exists - a plugin or the like that allows us to create React elements using Vue-like syntax, rather than JSX. Anyone seen anything like this?",Adept-Apple773,1hfvage,https://reddit.com/r/webdev/comments/1hfvage/anyone_know_a_way_to_use_vue_template_syntax_with/,https://www.reddit.com/r/webdev/comments/1hfvage/anyone_know_a_way_to_use_vue_template_syntax_with/,2024-12-16 22:19:24,0,0.23,0,0,23,0,0,False,False,True,False,False,,self,t3_1hfvage
+webdev,Suggest me a roadmap plzzz help!!!!,So  I want to say that it's so time consuming to scroll evryother tutorial on yt plz suggest me some names that can help me create better projects  . I want to learn both front end and back end.,sitabjaaa,1hfmaem,https://reddit.com/r/webdev/comments/1hfmaem/suggest_me_a_roadmap_plzzz_help/,https://www.reddit.com/r/webdev/comments/1hfmaem/suggest_me_a_roadmap_plzzz_help/,2024-12-16 15:59:42,0,0.27,0,0,11,0,0,False,False,True,False,False,,self,t3_1hfmaem

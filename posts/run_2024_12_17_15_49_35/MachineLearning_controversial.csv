@@ -1,0 +1,219 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] What methods have you done to significantly improve your LLM on multi-class classification?,"I had this task at work. I work at TikTok and for those who are not aware they're notorious for having unrealistic OKRs. I was expected to get my model to 90%+ F1 Macro when it was at 70% and I had human labeling team issues. I managed to hit the OKRs, but I didn't particularly like the route I went through cause it was very hacky in a lot of ways. Just wondering how you guys out there would approach this kind of problem and how you would try to get a big bump in metrics? The main issues I faced where:  
+\- Very low data quality. Due to budgeting issues our human labeling team only has 60% accuracy (This was assessed by in-house QA agents)  
+\- Low amount of data. The human labeling team was only able to label 10k rows per week and I had to train 4 models within 2 months.",DolantheMFWizard,1hg3ou9,https://reddit.com/r/MachineLearning/comments/1hg3ou9/d_what_methods_have_you_done_to_significantly/,https://www.reddit.com/r/MachineLearning/comments/1hg3ou9/d_what_methods_have_you_done_to_significantly/,2024-12-17 05:27:47,4,0.62,4,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hg3ou9
+MachineLearning,"  ""[Discussion]"" ""[D]"" Introducing TLR: Training AI Simultaneously Across Three Environments with Shared Learning","**TL;DR**: I developed **TLR (Triple Layer Training)**, a reinforcement learning framework that trains a single agent across **three environments simultaneously** while sharing experiences to enhance learning. It’s producing positive rewards where I’ve never seen them before—like Lunar Lander! Feedback and thoughts welcome.
+
+Hi everyone! 👋
+
+I wanted to share something I’ve been working on: **Triple Layer Training (TLR)**—a novel reinforcement learning framework that allows an AI agent to **train across three environments simultaneously**.
+
+# What is TLR?
+
+* TLR trains a single agent in **three diverse environments** at once:
+   * **Cart Pole**: Simple balancing task.
+   * **Lunar Lander**: Precision landing with physics-based control.
+   * **Space Invader**: Strategic reflexes in a dynamic game.
+* The agent uses **shared replay buffers** to pool experiences across these environments, allowing it to **learn from one environment and apply insights to another**.
+* TLR integrates **advanced techniques** like:
+   * **DQN Variants**: Standard DQN, Double DQN (Lunar Lander), and Dueling DQN (Space Invader).
+   * **Prioritized Replay**: Focus on critical transitions for efficient learning.
+   * **Hierarchical Learning**: Building skills progressively across environments.
+
+# Why is TLR Exciting?
+
+* **Cross-Environment Synergy**: The agent improves in one task by leveraging knowledge from another.
+* **Positive Results**: I’m seeing **positive rewards** in all three environments *simultaneously*, including Lunar Lander, where I’ve never achieved this before!
+* It pushes the boundaries of **generalization and multi-domain learning**—something I haven’t seen widely implemented.
+
+# How Does It Work?
+
+* Experiences from all three environments are combined into a **shared replay buffer**, alongside environment-specific buffers.
+* The agent adapts using environment-appropriate algorithms (e.g., Double DQN for Lunar Lander).
+* Training happens simultaneously across environments, encouraging **generalized learning** and **skill transfer**.
+
+# Next Steps
+
+I’ve already integrated PPO into the Lunar Lander environment and plan to add curiosity-driven exploration (ICM) next. I believe this can be scaled to even more complex tasks and environments.
+
+# Results and Code
+
+If anyone is curious, I’ve shared the framework on GitHub. [https://github.com/Albiemc1303/TLR\_Framework-.git](https://github.com/Albiemc1303/TLR_Framework-.git)  
+You can find example logs and results there. I’d love feedback on the approach or suggestions for improvements!
+
+# Discussion Questions
+
+* Have you seen similar multi-environment RL implementations?
+* What other environments or techniques could benefit TLR?
+* How could shared experience buffers be extended for more generalist AI systems?
+
+Looking forward to hearing your thoughts and feedback! I’m genuinely excited about how TLR is performing so far and hope others find it interesting.",UndyingDemon,1hg5siv,https://reddit.com/r/MachineLearning/comments/1hg5siv/discussion_d_introducing_tlr_training_ai/,https://www.reddit.com/r/MachineLearning/comments/1hg5siv/discussion_d_introducing_tlr_training_ai/,2024-12-17 07:52:37,12,0.73,12,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1hg5siv
+MachineLearning,[P] Graph-Based Editor for LLM Workflows,"We made an open-source tool that provides a graph-based interface for building, debugging, and evaluating LLM workflows: [https://github.com/PySpur-Dev/PySpur](https://github.com/PySpur-Dev/PySpur)
+
+**Why we built this:**
+
+Before this, we built several LLM-powered applications that collectively served thousands of users. The biggest challenge we faced was ensuring reliability: making sure the workflows were robust enough to handle edge cases and deliver consistent results.
+
+In practice, achieving this reliability meant repeatedly:
+
+1. **Breaking down complex goals into simpler steps:** Composing prompts, tool calls, parsing steps, and branching logic.
+2. **Debugging failures:** Identifying which part of the workflow broke and why.
+3. **Measuring performance:** Assessing changes against real metrics to confirm actual improvement.
+
+We tried some existing observability tools or agent frameworks and they fell short on at least one of these three dimensions. We wanted something that allowed us to iterate quickly and stay focused on improvement rather than wrestling with multiple disconnected tools or code scripts.
+
+We eventually arrived at three principles upon which we built PySpur :
+
+1. **Graph-based interface:** We can lay out an LLM workflow as a node graph. A node can be an LLM call, a function call, a parsing step, or any logic component. The visual structure provides an instant overview, making complex workflows more intuitive.
+2. **Integrated debugging:** When something fails, we can pinpoint the problematic node, tweak it, and re-run it on some test cases right in the UI.
+3. **Evaluate at the node level:** We can assess how node changes affect performance downstream.
+
+We hope it's useful for other LLM developers out there, enjoy!",Brilliant-Day2748,1hfr4sg,https://reddit.com/r/MachineLearning/comments/1hfr4sg/p_graphbased_editor_for_llm_workflows/,https://www.reddit.com/r/MachineLearning/comments/1hfr4sg/p_graphbased_editor_for_llm_workflows/,2024-12-16 19:23:32,12,0.77,12,0,2,0,0,False,False,True,False,False,Project,self,t3_1hfr4sg
+MachineLearning,[R] Developing a new optimization algorithm that will heavily change ML as a whole. Gradient descent has met its end. Here are the results:,"Microsolve (inspired by micrograd) works by actually solving parameters (instead of differentiating them w.r.t objectives) and does not require a loss function. It addresses a few drawbacks from SGD, namely, having to properly initialize parameters or the network blows up. Differentiation comes as a problem when values lie on a constant or steep slope. Gradients explode and diminish to negligible values as you go deeper. Proper preparation of data is needed to feed into the network (like normalisation etc.), and lastly, as most would argue against this, training with GD is really slow.
+
+With microsolve, initialization does not matter (you can set parameter values to high magnitudes), gradients w.r.t losses are not needed, not even loss functions are needed. A learning rate is almost always not needed, if it is needed, it is small (to reduce response to noise). You simply apply a raw number at the input (no normalisation) and a raw number at the output (no sophisticated loss functions needed), and the model will fit to the data.
+
+I created a demo application where i established a simple network for gradient descent and microsolve. The network takes the form of a linear layer (1 in, 8 out), followed by a tanh activation, and another linear layer afterwards (8 in, 1 out). Here is a visualisation of the very small dataset:
+
+https://preview.redd.it/t3pd4kpccd7e1.png?width=731&amp;format=png&amp;auto=webp&amp;s=ad03c3caf340a5b92aa24612ee7b5be963167a56
+
+The model has to create a line to fit to all these data points. I only allowed 50 iterations (that makes a total of 50x3 forward passes) of each example into the neural networks, I went easy on GD so i normalised the input, MS didnt need any preparation. Here are the results:
+
+GD:
+
+https://preview.redd.it/5sf8do9fcd7e1.png?width=718&amp;format=png&amp;auto=webp&amp;s=9c232b062b1bb50aa01ef3efc73cde133b8ad28a
+
+Not bad.
+
+MS:
+
+https://preview.redd.it/rfliuuqkcd7e1.png?width=749&amp;format=png&amp;auto=webp&amp;s=9a1e48f7925d3f533ced305ba9ded5f0b9b5dd6b
+
+With precision, 0 loss achieved in under 50 iterations.
+
+I have to point out though, that MS is still under development. On certain runs, as it solves parameters, they explode (their solutions grow to extremely high numbers), but sometimes this ""explosion"" is somewhat repaired and the network restabilises.
+
+Comment your thoughts.
+
+  
+Edit: 
+
+Apparantly people are allergic to overfitting, so i did early stopping with MS. It approximated this function in 1 forward pass of each data point. i.e. it only got to see a coordinate once: 
+
+https://preview.redd.it/ogb71yd9re7e1.png?width=720&amp;format=png&amp;auto=webp&amp;s=7c9c43668c2fee59db74db4e2d97bb8abc13dbe8
+
+Sees a coordinate thrice: 
+
+https://preview.redd.it/icfa32lgre7e1.png?width=745&amp;format=png&amp;auto=webp&amp;s=ef7009e4265d2939abc637cb05da267273b21229
+
+",Relevant-Twist520,1hg67pz,https://reddit.com/r/MachineLearning/comments/1hg67pz/r_developing_a_new_optimization_algorithm_that/,https://www.reddit.com/r/MachineLearning/comments/1hg67pz/r_developing_a_new_optimization_algorithm_that/,2024-12-17 08:24:53,0,0.17,0,0,23,0,0,False,False,True,False,False,Research,https://a.thumbs.redditmedia.com/ipMSdVwp7rTrxatrJ9-NfMw0eUilfnfhaPoM0fVVIZ8.jpg,t3_1hg67pz
+MachineLearning,[P] Vision Parse: Parse PDF documents into Markdown formatted content using Vision LLMs,"Hey Redditors,
+
+I'm excited to share Vision Parse - [https://github.com/iamarunbrahma/vision-parse](https://github.com/iamarunbrahma/vision-parse), an open-source Python library that uses Vision Language Models to convert PDF documents into perfectly formatted markdown content automatically.
+
+* Converts each page in a PDF document into high-resolution images
+* Detects texts, tables, links, and images from the high-resolution image using Vision LLMs and parses them in markdown format
+* Handles multi-page PDF documents effortlessly
+* And it's easy to get started with this library (just `pip install vision-parse`, and then a few lines of code to convert a document into markdown formatted content).
+
+**Why I built this?**
+
+* Traditional PDF to markdown conversion tools often struggle with complex layouts, semi-structured and unstructured tables and formatting. Hence, relying on Vision LLMs to extract content in markdown from images (Here, I am converting each PDF page into an image).
+* Document structure would get distorted with traditional OCR's and PDF to markdown conversion tools. Hence, using Generative AI models would help us in getting better understanding of the structure and preserve it.
+
+You can find documentation to get started with this library here: [https://github.com/iamarunbrahma/vision-parse/blob/main/README.md](https://github.com/iamarunbrahma/vision-parse/blob/main/README.md)
+
+View this [GitHub Project - Vision Parse](https://github.com/iamarunbrahma/vision-parse) and please provide me your feedback or any suggestions.",heliosarun,1hg5d3p,https://reddit.com/r/MachineLearning/comments/1hg5d3p/p_vision_parse_parse_pdf_documents_into_markdown/,https://www.reddit.com/r/MachineLearning/comments/1hg5d3p/p_vision_parse_parse_pdf_documents_into_markdown/,2024-12-17 07:20:37,13,0.88,13,0,6,0,0,False,False,True,False,False,Project,self,t3_1hg5d3p
+MachineLearning,[R] SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion,"**Paper:** [https://arxiv.org/pdf/2412.10437](https://arxiv.org/pdf/2412.10437)
+
+**Abstract:** 
+
+&gt;The generation of Scalable Vector Graphics (SVG) assets from textual data remains a significant challenge, largely due to the scarcity of high-quality vector datasets and the limitations in scalable vector representations required for modeling intricate graphic distributions. This work introduces SVGFusion, a Text-to-SVG model capable of scaling to real-world SVG data without reliance on a text-based discrete language model or prolonged SDS optimization. The essence of SVGFusion is to learn a continuous latent space for vector graphics with a popular Text-to-Image framework. Specifically, SVGFusion consists of two modules: a Vector-Pixel Fusion Variational Autoencoder (VP-VAE) and a Vector Space Diffusion Transformer (VS-DiT). VP-VAE takes both the SVGs and corresponding rasterizations as inputs and learns a continuous latent space, whereas VS-DiT learns to generate a latent code within this space based on the text prompt. Based on VP-VAE, a novel rendering sequence modeling strategy is proposed to enable the latent space to embed the knowledge of construction logics in SVGs. This empowers the model to achieve human-like design capabilities in vector graphics, while systematically preventing occlusion in complex graphic compositions. Moreover, our SVGFusion's ability can be continuously improved by leveraging the scalability of the VS-DiT by adding more VS-DiT blocks. A large-scale SVG dataset is collected to evaluate the effectiveness of our proposed method. Extensive experimentation has confirmed the superiority of our SVGFusion over existing SVG generation methods, achieving enhanced quality and generalizability, thereby establishing a novel framework for SVG content creation. Code, model, and data will be released at: {[this https URL](https://ximinng.github.io/SVGFusionProject/)}
+
+*(Note: so far, nothing has been released in the linked repo)*
+
+**Visual Abstract:**
+
+https://preview.redd.it/3ypl3eph1e7e1.png?width=1153&amp;format=png&amp;auto=webp&amp;s=90d0dab4a2311d7bd8037322bb265ce8a03becac
+
+**Visual Highlights:**
+
+https://preview.redd.it/ngz1kfen2e7e1.png?width=1175&amp;format=png&amp;auto=webp&amp;s=e8a49b15283c3514f7d2703ad631b8de6f63b5d2
+
+https://preview.redd.it/o01j02fp2e7e1.png?width=635&amp;format=png&amp;auto=webp&amp;s=230f437f4513498916f317e2e2f7ccc7b0578e8c
+
+https://preview.redd.it/3s4k4c1r2e7e1.png?width=657&amp;format=png&amp;auto=webp&amp;s=7402ee8bdbb8cc4d9225a48f33eebb7e051ec1fb
+
+https://preview.redd.it/d4yi1bx23e7e1.png?width=1201&amp;format=png&amp;auto=webp&amp;s=9f115b99babd31998e23986238e41e91b49e1ff3
+
+[Zoomed in, as per the suggestion](https://preview.redd.it/w6l2m9a53e7e1.png?width=265&amp;format=png&amp;auto=webp&amp;s=d663250708ec3ca4548bd106384aca515e019793)
+
+https://preview.redd.it/gpatd9qy3e7e1.png?width=1279&amp;format=png&amp;auto=webp&amp;s=ac70bbb82f934109ec8388eeca65fd49d4b994df
+
+https://preview.redd.it/6f40o3pz3e7e1.png?width=793&amp;format=png&amp;auto=webp&amp;s=a71f7ddcd311eefb365907ae067a5b287630253c
+
+https://preview.redd.it/50gzr8p04e7e1.png?width=807&amp;format=png&amp;auto=webp&amp;s=265be1e5ce20aded6913d24db371b4380e8c92b1
+
+",StartledWatermelon,1hg87em,https://reddit.com/r/MachineLearning/comments/1hg87em/r_svgfusion_scalable_texttosvg_generation_via/,https://www.reddit.com/r/MachineLearning/comments/1hg87em/r_svgfusion_scalable_texttosvg_generation_via/,2024-12-17 10:58:36,17,0.87,17,0,2,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/eX35PNM-kwI3yvC4QkhdLQcFKAfSric-90VlR847B0w.jpg,t3_1hg87em
+MachineLearning,[D] Autoencoder training on analog signals using small datasets,"I think I am sitting with kind of a unique situations where I am in the processes of training an Autoencoder from a STFT of an analog signal. The challenge lies in the fact that I have a very small dataset of around 500 samples. This leads to the Autoencoder overfitting on the data of an event and not being able to reconstruct a non-event.
+
+https://preview.redd.it/hxcf8q3wg87e1.png?width=1978&amp;format=png&amp;auto=webp&amp;s=d86457e7d23fcde6ae7e03e41a986150d5817ee0
+
+What are some methods that I can use to prevent this. I am currently making use of regularization as well as dropout. I have played with the structure of the Autoencoder which has mixed results where just nothing is being reconstructed. I am unsure what the effects will be if one applies normal image based methods to enhance the dataset as this wont be the same with the analog signal?
+
+
+
+Any advice on what method can be used to improve the training accuracy as well as the reconstruction?",Sea_Onion41,1hfmcau,https://reddit.com/r/MachineLearning/comments/1hfmcau/d_autoencoder_training_on_analog_signals_using/,https://www.reddit.com/r/MachineLearning/comments/1hfmcau/d_autoencoder_training_on_analog_signals_using/,2024-12-16 16:01:41,5,0.86,5,0,11,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/Xi4F13AwujjE6GNZCNBR4j6pSo12xzg24W5nCsfbrLE.jpg,t3_1hfmcau
+MachineLearning,[R] Scaling test-time compute with open models!,"Hi! I'm Lewis, a researcher at Hugging Face 👋. Over the past months we’ve been diving deep in trying to reverse engineer and reproduce several of key results that allow LLMs to ""think longer"" via test-time compute and are finally happy to share some of our knowledge.
+
+Today we're sharing a detailed blog post on how we managed to outperform Llama 70B with Llama 3B on MATH by combining step-wise reward models with tree-search algorithms:
+
+[https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)
+
+In the blog post we cover:
+
+* **Compute-optimal scaling:** How we implemented [u/GoogleDeepMind](https://x.com/GoogleDeepMind) 's recipe to boost the mathematical capabilities of open models at test-time.
+* **Diverse Verifier Tree Search (DVTS):** An unpublished extension we developed to the verifier-guided tree search technique. This simple yet effective method improves diversity and delivers better performance, particularly at large test-time compute budgets.
+* **Search and Learn: A** lightweight toolkit for implementing search strategies with LLMs and built for speed with vLLM. You can check it out here: [https://github.com/huggingface/search-and-learn](https://github.com/huggingface/search-and-learn)
+
+Happy to answer questions!
+
+https://preview.redd.it/cagfkzxria7e1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=34f3a45dd056da19a6b1e6f03a53ff8283df7ba7
+
+",lewtun,1hfw40o,https://reddit.com/r/MachineLearning/comments/1hfw40o/r_scaling_testtime_compute_with_open_models/,https://www.reddit.com/r/MachineLearning/comments/1hfw40o/r_scaling_testtime_compute_with_open_models/,2024-12-16 22:55:58,54,0.94,54,0,3,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/FUXc-nHqCbjs3rjTUG_TFu5uGlU6xkxGLRtPLTb9MZE.jpg,t3_1hfw40o
+MachineLearning,[D] What's your favorite paper you've read this year and why? ,"Haven't made this thread in many years, but holiday travel demands are great and would love to have a repository of papers to read during it.",bin_und_zeit,1hfljy3,https://reddit.com/r/MachineLearning/comments/1hfljy3/d_whats_your_favorite_paper_youve_read_this_year/,https://www.reddit.com/r/MachineLearning/comments/1hfljy3/d_whats_your_favorite_paper_youve_read_this_year/,2024-12-16 15:26:39,194,0.98,194,0,42,0,0,False,False,True,False,False,Discussion,self,t3_1hfljy3
+MachineLearning,[D] Learnable masking token Vision Transformer ,"
+Hey people.
+I have a dataset for EEG seizure detection.
+Input is a multichannel spectrogram with shape (22,289,251).
+Due do the dataset imbalance, I will do a specaug data augmentation (temporal,spatial and frequency masking)
+For Classification I want to train a VisionTransformer.
+Instead of masking the missing values with a constant values like (0,-1) I think about trying learnable missing tokens.
+Has someone expirence with it and can recommend some good papers or example notebooks?
+Thank u really much!",Significant-Joke5751,1hgbgmh,https://reddit.com/r/MachineLearning/comments/1hgbgmh/d_learnable_masking_token_vision_transformer/,https://www.reddit.com/r/MachineLearning/comments/1hgbgmh/d_learnable_masking_token_vision_transformer/,2024-12-17 14:11:38,2,1.0,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hgbgmh
+MachineLearning,[R][D] What are the possible soft label for distilling different student and teacher LLMs?,"I want to explore knowledge distillation in LLMs. Seems like there are a lot of methods but the easiest one is where the student is simply a smaller version of the teacher. However, I want to explore where the student is a different model than the teacher. So first of all the vocabulary is different, is there some techniques so that we can compute loss with the soft label with KL divergence when the set of vocabulary is different? As during the distillation process, we might want to introduce new words from the teacher model to the student model.
+
+I see that there are some other ways than using KL divergence as the soft loss in this case, maybe even distilling in a black box teacher setup. Is it possible to introduce new words into the student's vocabulary this way? Thank you",worthlesspineapple,1hg9qpm,https://reddit.com/r/MachineLearning/comments/1hg9qpm/rd_what_are_the_possible_soft_label_for/,https://www.reddit.com/r/MachineLearning/comments/1hg9qpm/rd_what_are_the_possible_soft_label_for/,2024-12-17 12:39:40,2,1.0,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hg9qpm
+MachineLearning,[D] Evaluating the quality of LLM responses,"Hi all. I'm working on a project where I take multiple medical visit records and documents, and I feeding through an LLM and text clustering pipeline to extract all the unique medical symptoms, each with associated root causes and preventative actions (i.e. medication, treatment, etc...).
+
+I'm at the end of my pipeline with all my results, and I am seeing that some of my generated results are very obvious and generalized. For example, one of my medical symptoms was excessive temperature and some of the treatment it recommended was drink lots of water and rest, which most people without a medical degree could guess.
+
+I was wondering if there were any LLM evaluation methods I could use where I can score the root cause and countermeasure associated with a medical symptom, so that it scores the results recommending platitudes lower, while scoring ones with more unique and precise root causes and preventative actions higher. I was hoping to create this evaluation framework so that it provides a score to each of my results, and then I would remove all results that fall below a certain threshold.
+
+I understand determining if something is generalized or unique/precise can be very subjective, but please let me know if there are ways to construct an evaluation framework to rank results to do this, whether it requires some ground truth examples, and how those examples can be constructed. Thanks for the help!",raikirichidori255,1hg77z2,https://reddit.com/r/MachineLearning/comments/1hg77z2/d_evaluating_the_quality_of_llm_responses/,https://www.reddit.com/r/MachineLearning/comments/1hg77z2/d_evaluating_the_quality_of_llm_responses/,2024-12-17 09:44:41,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hg77z2
+MachineLearning,[D] Discussion: Struggling with Cloud Costs for ML – Anyone Else Facing This?,"Hey guys,
+
+I’m sure some of you have faced the challenge of dealing with the high costs of renting cloud resources to train large language models. As a machine learning enthusiast living in a third world country, the cost becomes unsustainable pretty quickly, and it’s hard to justify.
+
+I’m curious has anyone else run into this issue? How are you handling the cost of training models, or are you finding alternative ways to get the performance you need for ML tasks without breaking the bank?
+
+Would love to hear your thoughts and experiences!",DMortal139,1hg2h81,https://reddit.com/r/MachineLearning/comments/1hg2h81/d_discussion_struggling_with_cloud_costs_for_ml/,https://www.reddit.com/r/MachineLearning/comments/1hg2h81/d_discussion_struggling_with_cloud_costs_for_ml/,2024-12-17 04:15:53,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hg2h81
+MachineLearning,"[D] Guidance on Fine-Tuning LLM for Custom Writing Task: Model, GPU, and Cloud Platform Considerations","Hi all, I want to finetune a LLM for a custom writing task that involves generating similarly structured \~500-word pieces based on specific examples. Given that I just have a regular PC, I figured that I need to finetune on some cloud platform. I was wondering:
+
+1. What model/# of parameters should I be looking to use
+2. What GPU/VRAM should I rent, and how long can I expect the training process to take
+3. And finally, is there anything else I need to consider besides the aspects I've mentioned to go ahead and start trying to do this
+
+I have a dataset of around 500–1,000 high-quality samples. I can possibly increase the sample size, but it would take more work.
+
+Let me know if I need to provide more info. Thanks.",Rqees,1hg0z0k,https://reddit.com/r/MachineLearning/comments/1hg0z0k/d_guidance_on_finetuning_llm_for_custom_writing/,https://www.reddit.com/r/MachineLearning/comments/1hg0z0k/d_guidance_on_finetuning_llm_for_custom_writing/,2024-12-17 02:53:46,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hg0z0k

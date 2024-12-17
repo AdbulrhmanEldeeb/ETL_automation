@@ -1,0 +1,98 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Math puzzle: Move the tower,"French mathematician Édouard Lucas was born in Amiens in 1842 and died in Paris 49 years later. He wrote the four-volume work *Recréations Mathématiques*, which became a classic of recreational mathematics. In 1883, under the pseudonym “N. Claus de Siam” (an anagram of “Lucas d’Amiens”), he marketed a solitaire game that he called the Tower of Hanoi.
+
+He claimed that the game was a simplified version of the so-called Tower of Brahma. In this supposed legend, monks had to move a tower made of 64 golden disks in a great temple. Before they could complete this task, however, the temple would crumble to dust, and the end of the world would arrive.
+
+
+
+https://preview.redd.it/4610fpe1c87e1.png?width=1286&amp;format=png&amp;auto=webp&amp;s=0a4cf264c497832af6ef4050d06cce3273277cf8
+
+The Tower of Hanoi consists of a small board on which three identical cylindrical rods are mounted. On the left rod there are five disks of different sizes with a hole in the middle. They are ordered by size, with the largest disk at the bottom. The goal of the game is to move all the disks from the left rod to the right rod in as few moves as possible. In each move, only one disk can be taken from one rod and placed on another rod, and a larger disk can never be placed on a smaller disk. How many and which moves are necessary to transport the disks?
+
+Solution: [https://www.scientificamerican.com/game/math-puzzle-move-tower/](https://www.scientificamerican.com/game/math-puzzle-move-tower/)
+
+  
+Scientific American has weekly math and logic puzzles! We’ll be posting some of them this week to get a sense for what the math enthusiasts on this subreddit find engaging. In the meantime, enjoy our whole collection! [https://www.scientificamerican.com/games/math-puzzles/](https://www.scientificamerican.com/games/math-puzzles/) 
+
+Posted with moderator permission.
+
+",scientificamerican,1hfloqg,https://reddit.com/r/math/comments/1hfloqg/math_puzzle_move_the_tower/,https://www.reddit.com/r/math/comments/1hfloqg/math_puzzle_move_the_tower/,2024-12-16 15:32:35,4,0.63,4,0,1,0,0,False,False,True,False,False,,,t3_1hfloqg
+math,How can I get started with Math Competitions,"Hello everyone,
+
+I am a college freshman who has recently developed a deeper interest in math. I was wondering how math competitions work and how to progress through them. Is there a roadmap to follow?
+
+Thank you!",InspectorForward,1hfqyqk,https://reddit.com/r/math/comments/1hfqyqk/how_can_i_get_started_with_math_competitions/,https://www.reddit.com/r/math/comments/1hfqyqk/how_can_i_get_started_with_math_competitions/,2024-12-16 19:16:33,7,0.73,7,0,6,0,0,False,False,True,False,False,,,t3_1hfqyqk
+math,What would the graph of a functional look like?,"It’s currently 4am and this is my late night thought and I have a presentation in 6 hours. 
+
+How would you even graph a functional? 
+
+A function is when x-&gt;f(x) and a functional is when f-&gt; F[f]. So if I input x I want to see what F[f] outputs and do that for every x. I wonder if it’ll lead to chaos or something. Honestly, I don’t know any equations that are functional (can I make one up?) besides the Kohn-Sham equations because it is the back bone of DFT which is part of my research. 
+
+Anyways, just curious feel free to enlighten me. 
+
+
+Edit: notation is key ",seminaia,1hg6sxn,https://reddit.com/r/math/comments/1hg6sxn/what_would_the_graph_of_a_functional_look_like/,https://www.reddit.com/r/math/comments/1hg6sxn/what_would_the_graph_of_a_functional_look_like/,2024-12-17 09:11:28,13,0.74,13,0,19,0,0,False,False,True,False,False,,,t3_1hg6sxn
+math,What evidence is there that Poincaré figured out the theory of relativity before Einstein?,Thank you all! No need for further responses unless you are adding to the discussion in a meaningful way. I got a few great comments already ,petrastales,1hftjct,https://reddit.com/r/math/comments/1hftjct/what_evidence_is_there_that_poincaré_figured_out/,https://www.reddit.com/r/math/comments/1hftjct/what_evidence_is_there_that_poincaré_figured_out/,2024-12-16 21:05:06,125,0.84,125,0,48,0,0,False,False,True,False,False,,,t3_1hftjct
+math,Looking for a reference grade Algebra book,"Hi Reddit,
+
+I have just done with studying Thomas' Calculus book, and I have to say it was one of the best math books out there. I am now looking for a similar style well written classic Algebra &amp; Trigonometry book.   
+Many suggested ""Linear Algebra Done Right"" however I didn't find this book interesting or in the same class of Thomas' Calculus book (with all respect to the author). Also, been through ""Introductory and Intermediate Algebra"" by Bittinger and didn't quite like it.. 
+
+Is there any other hidden gens out there that I am missing? Looking for your advice.. 
+
+",maxfactor9933,1hg9x4p,https://reddit.com/r/math/comments/1hg9x4p/looking_for_a_reference_grade_algebra_book/,https://www.reddit.com/r/math/comments/1hg9x4p/looking_for_a_reference_grade_algebra_book/,2024-12-17 12:50:29,4,0.7,4,0,3,0,0,False,False,True,False,False,,,t3_1hg9x4p
+math,Which parts of a mathematical theory reflect actual reality and which are just tools for calculations?,,HibiscusSabdariffa33,1hg9m1o,https://reddit.com/r/math/comments/1hg9m1o/which_parts_of_a_mathematical_theory_reflect/,https://www.reddit.com/r/math/comments/1hg9m1o/which_parts_of_a_mathematical_theory_reflect/,2024-12-17 12:31:52,0,0.37,0,0,4,0,0,False,False,True,False,False,,,t3_1hg9m1o
+math,Is there any deep intuition behind inner products and orthogonal functions?,"
+I’m studying measure theory in my masters year. I really love analysis and so far everything makes sense and is very easy to follow. I always like to construct my own proofs of theorems and I understand everything.. that is until I started studying orthogonal functions. 
+
+I have 0 intuition as to why,what and when two functions are orthogonal. Saying that the integral of their multiplication should be 0 gives me 0 clue as to what this thing looks like. I did some reading about it and it related it back to the dot product of vectors, but I don’t have any intuition as to why thats true either (I can prove it algebraically and its straightforward, but the proof seems like a blind man feeling his way out of a dark room slowly). When I prove analysis based theorems, I can always see it in my head, then formulate it in terms of algebra. But when that “head image” is not there and all you have is blind algebra, it just sucks all the joy out of studying it.",sheraawwrr,1hfs9os,https://reddit.com/r/math/comments/1hfs9os/is_there_any_deep_intuition_behind_inner_products/,https://www.reddit.com/r/math/comments/1hfs9os/is_there_any_deep_intuition_behind_inner_products/,2024-12-16 20:11:24,64,0.93,64,0,28,0,0,False,False,True,False,False,,,t3_1hfs9os
+math,Advice for Graduate School Application - Gap Year or Apply Now?,"Foreword: Typically, I would reserve such question for the academic advisors at my school; however, it is winter break, and I'm realizing nobody is looking to talk atm (and understandably so). Being that applications are due before the Spring semester starts back up, I'm stuck w/o many options. So, pls down beat me down with mean comments and heavy downvotes lol! I would appreciate the mercy. Thank you!! :) I appreciate all the help I can get.
+
+~~----------------------------------------------------------------------------------------~~
+
+Here's my situation: If I took a gap year next year, the benefits would be that I would be able to...
+
+(i) improve GRE scores (math subject test &amp; general test),
+
+(ii) work as a full-time tutor in mathematics (as well potentially fill the role of a substitute teacher for high school math courses),
+
+(iii) prep on getting PhD passes on all four qual courses offered at my university (I have already taken all of these courses, just have yet to take quals),
+
+(iv) have extra time to polish Personal Statement, looking into which universities best fit my interests, etc.
+
+HOWEVER, I am unsure whether (a.) this would be good in ensuring strong letters of rec (most of my options are professors which I've only had one semester under, and asking for a letter of rec an entire year later I'd imagine could cause some difficulties), and whether (b.) graduate schools would frown upon seeing an applicant having taken the most recent year off.
+
+What are your thoughts? Is this a good idea I'm currently considering? Thank you again!!",alphanintendo03,1hfm3p6,https://reddit.com/r/math/comments/1hfm3p6/advice_for_graduate_school_application_gap_year/,https://www.reddit.com/r/math/comments/1hfm3p6/advice_for_graduate_school_application_gap_year/,2024-12-16 15:51:20,5,0.78,5,0,8,0,0,False,False,True,False,False,,,t3_1hfm3p6
+math,The Year in Math | Quanta Magazine - Jordana Cepelewicz,,Nunki08,1hg1ujb,https://reddit.com/r/math/comments/1hg1ujb/the_year_in_math_quanta_magazine_jordana/,https://www.quantamagazine.org/the-year-in-math-20241216/,2024-12-17 03:40:49,23,0.9,23,0,2,0,0,False,False,False,False,False,,,t3_1hg1ujb
+math,Are there theorems which are only proveable by contradictoin,"Exactly as the title suggests, I was wondering if there are certain theorems or proofs only possible using proof by contradiction, as in there is no other way (yet) to prove them.",k0_m3,1hgab8u,https://reddit.com/r/math/comments/1hgab8u/are_there_theorems_which_are_only_proveable_by/,https://www.reddit.com/r/math/comments/1hgab8u/are_there_theorems_which_are_only_proveable_by/,2024-12-17 13:12:21,59,0.96,59,0,30,0,0,False,False,True,False,False,,,t3_1hgab8u
+math,Looking for a probability theory book recommendation ,"I have probability theory course in my next semester and I'm interested in the course. Can someone please recommend some books from where I can learn. 
+Something which starts from basic would be helpful.
+
+Thank you guys in advance ",Saiki_kusou01,1hg66gl,https://reddit.com/r/math/comments/1hg66gl/looking_for_a_probability_theory_book/,https://www.reddit.com/r/math/comments/1hg66gl/looking_for_a_probability_theory_book/,2024-12-17 08:22:11,28,0.95,28,0,21,0,0,False,False,True,False,False,,,t3_1hg66gl
+math,Looking for number theory textbook recommendations,"Ive taken calc 1-3, linear algebra, and most recently I finished Epps “Discrete Math with applications” and now I’m looking for a number theory textbook to use for self studying. Ideally the textbook should have exercises and solutions if possible. For what it’s worth I really liked Epps textbook and the formatting of it too if there’s anything out there that’s similar, although that is no where near the top of my priority list when looking for a number theory textbook. ",Marvelman3284,1hg4axb,https://reddit.com/r/math/comments/1hg4axb/looking_for_number_theory_textbook_recommendations/,https://www.reddit.com/r/math/comments/1hg4axb/looking_for_number_theory_textbook_recommendations/,2024-12-17 06:06:28,21,1.0,21,0,5,0,0,False,False,True,False,False,,,t3_1hg4axb
+math,Noether normalization lemma proof (Nagata),"I think I understand the statement at an intuitive level now.  Let me know if this is the right way to think about it!
+
+For a field k, a k-algebra on n generators A = k\[x\_1,...,x\_n\] can be ""factored"" into a two-stage extension of k, with each stage having a finiteness property:
+
+1. By extending k as a ring to B = k\[x\_1',...,x\_m'\] \\cong k\[X\_1,...,X\_m\] for a finite collection x\_i \\in A for some 0 \\leq m \\leq n, and then 
+
+2. By extending B as a module to get A (i.e., there's a finite collection y\_1,...,y\_r \\in A such that every element of A can be written as \\sum b\_iy\_i for b\_i \\in B.
+
+It's like the dimensionality of A is m, but you can add a ""fudge factor"" of this module-finite extension on top of that.
+
+It seems like a really natural statement, but the standard proof by Nagata is horrendous.  I'm reading it in Reid's Undergraduate Commutative Algebra, and he has a way of brushing details under the rug, but even then, it's a complicated construction.  
+
+I roughly understand that it's doing a change-of-variables and I learned that there's a nice geometric interpretation of getting ""m-dimensional"" affine varieties in A\^n to project to A\^m with finite fibers by changing the coordinate axes.
+
+Can someone explain where the intuition of the Nagata proof comes from?  The proof makes it look like an ugly ""technical lemma"", even though the statement seems to be fundamentally important for algebraic geometry.  Are there cleaner proofs?  (The proof for k infinite is cleaner, but I still don't understand the intuitive idea of why you would change variables this way.)",WMe6,1hfyak4,https://reddit.com/r/math/comments/1hfyak4/noether_normalization_lemma_proof_nagata/,https://www.reddit.com/r/math/comments/1hfyak4/noether_normalization_lemma_proof_nagata/,2024-12-17 00:37:28,15,0.95,15,0,5,0,0,False,False,True,False,False,,,t3_1hfyak4
+math,"What Are You Working On? December 16, 2024","This recurring thread will be for general discussion on whatever math-related topics you have been or will be working on this week. This can be anything, including:
+
+* math-related arts and crafts,
+* what you've been learning in class,
+* books/papers you're reading,
+* preparing for a conference,
+* giving a talk.
+
+All types and levels of mathematics are welcomed!
+
+If you are asking for advice on choosing classes or career prospects, please go to the most recent [Career &amp; Education Questions thread](https://www.reddit.com/r/math/search?q=Career+and+Education+Questions+author%3Ainherentlyawesome+&amp;restrict_sr=on&amp;sort=new&amp;t=all).",inherentlyawesome,1hfnook,https://reddit.com/r/math/comments/1hfnook/what_are_you_working_on_december_16_2024/,https://www.reddit.com/r/math/comments/1hfnook/what_are_you_working_on_december_16_2024/,2024-12-16 17:00:16,15,1.0,15,0,11,0,0,False,False,True,False,False,,,t3_1hfnook
