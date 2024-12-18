@@ -1,0 +1,518 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Make an empty app for my iPhone,"How can I make a blank app for my iphone? Like it has an icon and when I click on it and open it, its just a blank screen that does nothing ",yorkurobot,1hghwog,https://reddit.com/r/learnprogramming/comments/1hghwog/make_an_empty_app_for_my_iphone/,https://www.reddit.com/r/learnprogramming/comments/1hghwog/make_an_empty_app_for_my_iphone/,2024-12-17 18:57:30,5,0.61,5,0,7,0,0,False,False,True,False,False,,,t3_1hghwog
+learnprogramming,On a scale of 1 to 10 what level of competency is being able to program compound interest?,"Just curious. Is it a 2? 
+
+Edit: Basically taking user input for the initial  investment and rate and then using a for loop to get the sum after x amount of years",Someguy242blue,1hgxbrs,https://reddit.com/r/learnprogramming/comments/1hgxbrs/on_a_scale_of_1_to_10_what_level_of_competency_is/,https://www.reddit.com/r/learnprogramming/comments/1hgxbrs/on_a_scale_of_1_to_10_what_level_of_competency_is/,2024-12-18 08:31:37,6,0.6,6,0,25,0,0,False,False,True,False,False,,,t3_1hgxbrs
+learnprogramming,Need help?,"
+I am 15 years old and i am from Myanmar 
+I want to become software developer 
+But parents want me to become a doctor 
+In such a horrible situation what should I do 
+What are yours advice for me to overcome it 
+",BeautifulSympathy615,1hgvaxd,https://reddit.com/r/learnprogramming/comments/1hgvaxd/need_help/,https://www.reddit.com/r/learnprogramming/comments/1hgvaxd/need_help/,2024-12-18 06:04:28,0,0.4,0,0,7,0,0,False,False,True,False,False,,,t3_1hgvaxd
+learnprogramming,DELETE vs POST requests?,"Currently building a standard web server with API routes that can perform CRUD operations on a PostgreSQL database. Here's an example line of code written in Go to give you an idea of what I mean (however, this is a language agnostic question):
+
+    mux.HandleFunc(""POST /api/something/{id}"", apiCfg.deleteSomethingHandler)
+
+In this example, is there any point in using DELETE over POST? Is using DELETE just more explicit in the sense that it tells the client what exactly is going to happen to the resource? Or does it not really matter, and can I just use POST even for deleting resources?",whatevergoeshere_,1hgip9z,https://reddit.com/r/learnprogramming/comments/1hgip9z/delete_vs_post_requests/,https://www.reddit.com/r/learnprogramming/comments/1hgip9z/delete_vs_post_requests/,2024-12-17 19:31:52,2,0.58,2,0,6,0,0,False,False,True,False,False,Topic,,t3_1hgip9z
+learnprogramming,Should i become a fullstack dev?,"Hi, im a uni comp sci student and love programming ive been coding since i was 14 however only ""logic based"" stuff, ive been thinking lately about what type of programmer i actually want to be im not too good at making things look good or honestly any front-end stufff however i think i could learn, just not liking it as much. Back end seems like the easyest choice then but it seems companies are in search of full-stack more than anything and with the comp sci job market in the state its on it allmost seems like the only option.
+
+  
+Are my concerns justified or am i looking too much into it? and if so should i go for fullstack?",Refacha,1hgdafx,https://reddit.com/r/learnprogramming/comments/1hgdafx/should_i_become_a_fullstack_dev/,https://www.reddit.com/r/learnprogramming/comments/1hgdafx/should_i_become_a_fullstack_dev/,2024-12-17 15:38:29,14,0.74,14,0,11,0,0,False,False,True,False,False,,,t3_1hgdafx
+learnprogramming,New to Freelancing as a Web and AI/ML Developer - Looking for Advice on Getting Started!,"Hey everyone,
+
+I'm a 3rd-year CS student and have recently decided to try freelancing as a web and AI/ML developer. I’ve done a gig with my friend for cheap, but I’m essentially starting from scratch in terms of navigating the freelancing world. I've created an account on Fiverr and have some basic knowledge about other platforms like Toptal and Contra, but I’m completely new to the process of actually getting gigs or jobs.
+
+I’m hoping to get some advice from more experienced freelancers on:
+
+1. How to effectively pitch myself to clients.
+2. What kind of projects I should start with (e.g., simple web development tasks, AI/ML mini-projects, etc.).
+3. How to build a solid portfolio that attracts clients.
+4. Any tips for pricing my services, especially as a student.
+5. How to deal with common challenges that beginners face (e.g., low balling, competition, etc.).
+
+If you’ve freelanced in the web or AI/ML space, I’d really appreciate any tips, resources, or personal experiences you can share!
+
+Thanks in advance!",crafty-420,1hgzipt,https://reddit.com/r/learnprogramming/comments/1hgzipt/new_to_freelancing_as_a_web_and_aiml_developer/,https://www.reddit.com/r/learnprogramming/comments/1hgzipt/new_to_freelancing_as_a_web_and_aiml_developer/,2024-12-18 11:22:41,1,0.6,1,0,0,0,0,False,False,True,False,False,,,t3_1hgzipt
+learnprogramming,Cs50 learning while working full time job,"Hello,
+
+I'm working a full time job as a welder but I'm sick of the trade and want something else so I started the Harward online cs50 course. 
+
+My question is for you who've done it similar way, were you able to learn the basic understanding of coding from this course that then helped you to either choose your preferred language and/ or helped you to a point tak you were able to make some money on the side?
+
+Or completely different direction, did the course help you to learn so much you were able to quit your full time job and pursue career in programming?
+
+I'm taking this course because I can only allocate nights from 7pm-9:30pm each weekday and this course seems the most recommended and sounds quite fun and I'm just wondering if it's worth taking it and if it'll give me an actual value i can turn into profit. 
+
+Thank you. ",mustard_acquisition,1hgsckf,https://reddit.com/r/learnprogramming/comments/1hgsckf/cs50_learning_while_working_full_time_job/,https://www.reddit.com/r/learnprogramming/comments/1hgsckf/cs50_learning_while_working_full_time_job/,2024-12-18 03:10:23,1,0.6,1,0,5,0,0,False,False,True,False,False,Topic,,t3_1hgsckf
+learnprogramming,Classes in typescript,"in modern typescript does it make sense to use classes or is it better to use function, objects and types
+
+",Old-Refrigerator6184,1hgkdac,https://reddit.com/r/learnprogramming/comments/1hgkdac/classes_in_typescript/,https://www.reddit.com/r/learnprogramming/comments/1hgkdac/classes_in_typescript/,2024-12-17 20:45:15,0,0.44,0,0,7,0,0,False,False,True,False,False,,,t3_1hgkdac
+learnprogramming,For motivation while learning programming - 2024 Github wrapped (unofficial),"It's awesome to reflect on the year and see your progress. If you want to view your coding journey summarized - generate your ""Year in Code"" → [https://git-wrapped.com/](https://git-wrapped.com/)
+
+",gabrielandrew_,1hh15o2,https://reddit.com/r/learnprogramming/comments/1hh15o2/for_motivation_while_learning_programming_2024/,https://www.reddit.com/r/learnprogramming/comments/1hh15o2/for_motivation_while_learning_programming_2024/,2024-12-18 13:05:27,2,0.63,2,0,0,0,0,False,False,True,False,False,,,t3_1hh15o2
+learnprogramming,Are bootcamps worth it ? What's your honest opinion ?,Is there anyone here who got a good understanding and made improvement in there career from a bootcamp/ online course ?,imsyndrom,1hgzpjz,https://reddit.com/r/learnprogramming/comments/1hgzpjz/are_bootcamps_worth_it_whats_your_honest_opinion/,https://www.reddit.com/r/learnprogramming/comments/1hgzpjz/are_bootcamps_worth_it_whats_your_honest_opinion/,2024-12-18 11:36:47,2,0.63,2,0,23,0,0,False,False,True,False,False,,,t3_1hgzpjz
+learnprogramming,Help me build a compiler,"As a context to this I picked this course but basically haven't done any courses that build up to it (such as theoretical CS, or operating systems). So I lack a lot of basic understanding regarding this topic. Eventhough I understand a lot of the theory now I can't seem to get started coding. I've spent hours now on how to set it up but I just can't figure it out. I have to submit the Parser and Typechecker this week. 
+
+So what I want ist just to be able to get started coding and someone who has experience in this who I can ask questions. 
+
+(please excuse the english)",Original-Nobody7771,1hgjoqj,https://reddit.com/r/learnprogramming/comments/1hgjoqj/help_me_build_a_compiler/,https://www.reddit.com/r/learnprogramming/comments/1hgjoqj/help_me_build_a_compiler/,2024-12-17 20:14:43,0,0.25,0,0,11,0,0,False,False,True,False,False,,,t3_1hgjoqj
+learnprogramming,I noticed that a lot of professional programmes use older ThinkPads running Linux. Why?,"I've a lot of experts do this, why they use older models and why thinkpads?",Clear_Meringue3464,1hgylxu,https://reddit.com/r/learnprogramming/comments/1hgylxu/i_noticed_that_a_lot_of_professional_programmes/,https://www.reddit.com/r/learnprogramming/comments/1hgylxu/i_noticed_that_a_lot_of_professional_programmes/,2024-12-18 10:14:23,72,0.88,72,0,49,0,0,False,False,True,False,False,Topic,,t3_1hgylxu
+learnprogramming,I need help with the mooc debugger,"[mooc.fi](https://programming-24.mooc.fi/part-1/4-arithmetic-operations)
+
+I'm trying to write a code for this, I have gone over 2 times, I rewrote it but it still gives this error when I test it but when I run it it works perfectly:
+
+    time = int(input(""How many times a week do you eat at the student cafeteria? ""))
+    slp = int(input(""The price fo a typical student lunch? ""))
+    gsw = int(input(""How much money do you spend on groceries in a week? ""))
+    
+    print(f""Average food expenditure:"")
+    print(f""Daily: {(time*slp)+gsw/7}"")
+    print(f""Weekly: {(time*slp)+gsw}"")
+
+FAIL: PythonEditorTest: test\_0
+
+    Your program does print anything.",ResolutionFormal6864,1hgzywk,https://reddit.com/r/learnprogramming/comments/1hgzywk/i_need_help_with_the_mooc_debugger/,https://www.reddit.com/r/learnprogramming/comments/1hgzywk/i_need_help_with_the_mooc_debugger/,2024-12-18 11:55:08,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1hgzywk
+learnprogramming,I need advice and ways to learn android more effectively,"Hello everyone, I have been learning Android for a while and have encountered the following problem: I bought a udemy course and coded along and learned to feel like I understood it, but when I coded myself, I couldn't do it. I need a clear learning path and advice from you guys, thank you",quocanh_2412,1hgxjws,https://reddit.com/r/learnprogramming/comments/1hgxjws/i_need_advice_and_ways_to_learn_android_more/,https://www.reddit.com/r/learnprogramming/comments/1hgxjws/i_need_advice_and_ways_to_learn_android_more/,2024-12-18 08:50:11,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hgxjws
+learnprogramming,What Is A Good Up-To-Date Course For Learning To Code With Java?,"I've Been Wanting To Learn How To Code With Java For A While Now And I'm Wondering What Are Some Good Up-To-Date Courses That Use The Current Versions And Such. I've Never Coded Before And Am A Complete Beginner, But I Would Like A Course That Goes From The Complete Basics To The Advanced Stuff Over Time So That I Can Get Quite Good With It Eventually.
+
+Edit: Also Idk If This Would Help Or Not But I Plan To Make Stuff Like Minecraft Plugins And Stuff For Minecraft.",_ANameIdk_,1hgx3ld,https://reddit.com/r/learnprogramming/comments/1hgx3ld/what_is_a_good_uptodate_course_for_learning_to/,https://www.reddit.com/r/learnprogramming/comments/1hgx3ld/what_is_a_good_uptodate_course_for_learning_to/,2024-12-18 08:13:44,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1hgx3ld
+learnprogramming,Configure to automatic proxy ip change when connected to hotspot in windows/Linux ,"I am a noob in this type of thing and I hope this is a good subreddit to post about this 😅. So basically what I want to do is, when I connect to my mobile hotspot from my laptop, the ip in the proxy setup should automatically change to the ip of my mobile hotspots ip. so like whenever I connect to the hotspot it should change automatically without any input. I hope someone can help with this. 
+
+Btw I use windows 11 if its any help. I know there cant be a direct way to do this in windows, but I wonder, by tweaking with cmd, you could work this out (That is why I posted my question here)  
+
+if there is no way to do this in windows, you could suggest me a way to do this in linux. because i do use linux laptop. I use Ubuntu in case needed
+
+Thank you in advance",Efficient_Money6922,1hgve9b,https://reddit.com/r/learnprogramming/comments/1hgve9b/configure_to_automatic_proxy_ip_change_when/,https://www.reddit.com/r/learnprogramming/comments/1hgve9b/configure_to_automatic_proxy_ip_change_when/,2024-12-18 06:10:34,0,0.5,0,0,1,0,0,False,False,True,False,False,Tutorial,,t3_1hgve9b
+learnprogramming,Codeadcemy along with my college course ,"Been thinking about using code adecmy to learn stuff not covered in my program? 
+
+Thoughts and other resources? ",Klutzy-Bug-9481,1hgssyw,https://reddit.com/r/learnprogramming/comments/1hgssyw/codeadcemy_along_with_my_college_course/,https://www.reddit.com/r/learnprogramming/comments/1hgssyw/codeadcemy_along_with_my_college_course/,2024-12-18 03:35:35,0,0.5,0,0,2,0,0,False,False,True,False,False,Topic,,t3_1hgssyw
+learnprogramming,Books for dev with 3 YOE,"I was looking for some books which can guide me and opens me to new concepts or give me deep understanding of fundamentals and designs so that I can move from junior to intermediate.
+
+I see comments asking for my experience, Right now I work as mobile dev with react, react native and flutter. ",ElectricalComfort394,1hgq51t,https://reddit.com/r/learnprogramming/comments/1hgq51t/books_for_dev_with_3_yoe/,https://www.reddit.com/r/learnprogramming/comments/1hgq51t/books_for_dev_with_3_yoe/,2024-12-18 01:14:10,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1hgq51t
+learnprogramming,Looking for free online courses,"I’m just someone who is interested in learning more coding languages. I have experience in R and Java, but I think I need to learn Python and/or C++. It’s more for the fact that I just want to learn more languages so I can be in a better position if I apply to grad school. ",Minimum_Sky7112,1hgopb7,https://reddit.com/r/learnprogramming/comments/1hgopb7/looking_for_free_online_courses/,https://www.reddit.com/r/learnprogramming/comments/1hgopb7/looking_for_free_online_courses/,2024-12-18 00:02:37,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1hgopb7
+learnprogramming,Giveaway: Boot.dev 1 Month Subscription Key,"I just got this key from the latest HumbleBundle Choice. If you are interested, just leave a comment.  
+I'll pick a random person the next few days.  
+The code must be redeemed by January 9th, 2025.
+
+[Redemption instructions](https://support.humblebundle.com/hc/en-us/articles/31465332564379-Boot-dev-Key-Redemption-Instructions)",Bobleo2000,1hgnzdu,https://reddit.com/r/learnprogramming/comments/1hgnzdu/giveaway_bootdev_1_month_subscription_key/,https://www.reddit.com/r/learnprogramming/comments/1hgnzdu/giveaway_bootdev_1_month_subscription_key/,2024-12-17 23:27:56,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1hgnzdu
+learnprogramming,Newbie CS Major Looking for Group Projects or Mentorship to Grow My Skills,"Hey Everyone!
+
+I’m a computer science major currently focusing on software engineering, and I’m looking to expand my skill set through group projects or even individual mentorship. I want to get hands-on experience, collaborate with others, and improve my coding abilities.
+
+Here’s where I’m at: I’m very much a beginner, so I’m still building confidence and knowledge, but I’m eager to learn and contribute in any way I can. If you have a group working on a project that wouldn’t mind a newbie joining in or if you’re someone who’s open to guiding me, I’d be incredibly grateful.
+
+I’m hoping to connect with like-minded people who can help me grow, give me pointers, or just let me observe and learn along the way. I’m open to working on anything — whether it’s open-source, hobby projects, or something else.
+
+If you have any advice, resources, or opportunities, I’m all ears!
+
+Thanks so much in advance!",Different_Green1300,1hgnhao,https://reddit.com/r/learnprogramming/comments/1hgnhao/newbie_cs_major_looking_for_group_projects_or/,https://www.reddit.com/r/learnprogramming/comments/1hgnhao/newbie_cs_major_looking_for_group_projects_or/,2024-12-17 23:04:17,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1hgnhao
+learnprogramming,Transitioning into Backend with unrelated degree?,"I signed up for boot.dev which I really like, I’m motivated to get through the course. In college I took basic programming (but was shit because it wasn’t taught in a way that was interesting to me), and I took 4-5 comp security classes. But my degree is in strategic communications. I’ve worked at a startup in the tech field for over 3 years in operations. 
+
+Is it reasonable to leverage myself with a decent portfolio to get a job at this point or is further education recommended? I’m not really in a rush to transition my career, I’m hoping to though in the next year or two. ",ThrowRALeMONHndx,1hgk9u9,https://reddit.com/r/learnprogramming/comments/1hgk9u9/transitioning_into_backend_with_unrelated_degree/,https://www.reddit.com/r/learnprogramming/comments/1hgk9u9/transitioning_into_backend_with_unrelated_degree/,2024-12-17 20:40:57,5,0.73,5,0,3,0,0,False,False,True,False,False,,,t3_1hgk9u9
+learnprogramming,Help needed. Any and all kinds of suggestions and ways to go about will be much appreciated. Please do not hesitate to ask me for more information if required.,"
+Problem:
+We're trying to build a regression model to predict a target variable. However, the target variable contains outliers, which are significantly different from the majority of the data points. Additionally, the predictor variables are highly correlated with each other (high multicollinearity). Despite trying various models like linear regression, XGBoost, and Random Forest, along with hyperparameter tuning using GridSearchCV and RandomSearchCV, we're unable to achieve the desired R-squared score of 0.16.
+Goal:
+To develop a robust regression model that can effectively handle outliers and multicollinearity, and ultimately achieve the target R-squared score.
+
+* income: Income earned in a year (in dollars)
+ * marital_status: Marital Status of the customer (0:Single, 1:Married)
+ * vintage: No. of years since the first policy date
+ * claim_amount: Total Amount Claimed by the customer in previous years
+ * num_policies: Total no. of policies issued by the customer
+ * policy: An active policy of the customer
+ * type_of_policy: Type of active policy
+ * cltv: Customer lifetime value (Target Variable)
+
+ * id: Unique identifier of a customer
+ * gender: The gender of the customer
+ * area: Area of the customer
+ * qualification: Highest Qualification of the customer
+ * income: Income earned
+ * marital_status: Marital Status of the customer
+
+
+",MiBoy69,1hgf0wc,https://reddit.com/r/learnprogramming/comments/1hgf0wc/help_needed_any_and_all_kinds_of_suggestions_and/,https://www.reddit.com/r/learnprogramming/comments/1hgf0wc/help_needed_any_and_all_kinds_of_suggestions_and/,2024-12-17 16:54:46,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hgf0wc
+learnprogramming,React(vite) + Express or Next.js,"Hi everyone,
+
+I'm a new developer navigating the world of self study.
+
+I want to make a web app that will include use of a calendar, database to store appointments and users as well as some hold some documents for the users in the form of uploaded image files.
+
+I created my last web app using React(Vite) with an express backend and MongoDb. Is there any benefit to learning/using Next.js for my next project or should I just continue using what I know.
+
+Thanks",luke_han,1hgerr5,https://reddit.com/r/learnprogramming/comments/1hgerr5/reactvite_express_or_nextjs/,https://www.reddit.com/r/learnprogramming/comments/1hgerr5/reactvite_express_or_nextjs/,2024-12-17 16:43:52,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hgerr5
+learnprogramming,How do I learn to code?,"Hey, I want to learn how to code. I have 0 experience in coding. I was hoping to start with Python. I ultimately want to learn R since I'm a biology major.
+
+  
+Are there any free (or low cost) websites or courses that teach Python? I see that code academy does have some free ones. Should I start there?",mindless_thinker28,1hgn81i,https://reddit.com/r/learnprogramming/comments/1hgn81i/how_do_i_learn_to_code/,https://www.reddit.com/r/learnprogramming/comments/1hgn81i/how_do_i_learn_to_code/,2024-12-17 22:52:41,0,0.36,0,0,13,0,0,False,False,True,False,False,,,t3_1hgn81i
+learnprogramming,How do I get better at Javascript?,"Iam a Computer Science B Tech second year student, good with using Python, Java. In the same way Javascript is easy, but how do I learn to work with web development. I can't be able to build the simple webpage like calculator without reference. Did you guys face this issue and how did you overcome this?",Background-Seat-6454,1hgezrw,https://reddit.com/r/learnprogramming/comments/1hgezrw/how_do_i_get_better_at_javascript/,https://www.reddit.com/r/learnprogramming/comments/1hgezrw/how_do_i_get_better_at_javascript/,2024-12-17 16:53:23,5,0.7,5,0,5,0,0,False,False,True,False,False,,,t3_1hgezrw
+learnprogramming,Any recommendations for presents to give to someone who loves coding?,"My brother is currently doing a computer science course and is interested in the subject, but I'm at a loss for what to get him for Christmas.
+
+He has his computer and monitors and everything he wants in that regard, so I'm looking for something a little different.
+
+I know he's asked our parents for a build-your-own V8 engine kit, so I was wondering if there are any AI or Coding products or even engineering things that he can build himself, like building a robot and then coding it or something in a similar vein. 
+
+I'm a complete novice in this field and have no idea what is good or isn't, so recommendations would be amazing!
+
+Thank you!",Miss_Middlemiss,1hgoxz2,https://reddit.com/r/learnprogramming/comments/1hgoxz2/any_recommendations_for_presents_to_give_to/,https://www.reddit.com/r/learnprogramming/comments/1hgoxz2/any_recommendations_for_presents_to_give_to/,2024-12-18 00:14:21,26,0.85,26,0,68,0,0,False,False,True,False,False,,,t3_1hgoxz2
+learnprogramming,Thinking of Starting a Tech Channel – What Would You Watch?,"I’m a software developer with 1 year of experience, and I’ve worked with a bunch of technologies like JavaScript, Java, C++, React.js, Next.js, Tailwind, Spring Boot, SQL, and more.
+
+Lately, I’ve been thinking about starting a YouTube channel to share my experiences and help others in their tech journey. But honestly, I’m a bit stuck on what kind of content to create. YouTube is already packed with so many tutorials and courses, and I want to make something that stands out or at least feels helpful and fresh.
+
+Here are some ideas I have in mind:
+
+1. **One-shot videos for different tech stacks**: Quick, beginner-friendly overviews of various tech stacks, helping viewers understand the basics and explore further on their own.
+2. **DSA-focused content**: A complete LeetCode or DSA playlist. (Although this is very common on YouTube already.)
+3. **System design content**: Creating different products from scratch, like building your own version of Vercel, GitHub, or a DNS server, along with their architecture (inspired by creators like Piyush Garg and Harkirat Singh).
+4. **Project-based learning**: Long, detailed tutorials for building multiple projects using different tech stacks.
+5. **Language-specific playlists**: Comprehensive, long-form content for mastering a specific programming language.
+6. **Daily learning vlogs**: Sharing my daily tasks, challenges, and learnings related to software development (tech-focused content only).
+
+What do you think? Do any of these ideas sound interesting? Or is there something else you’d love to see on a tech channel?",SomeoneDotDev,1hh35sc,https://reddit.com/r/learnprogramming/comments/1hh35sc/thinking_of_starting_a_tech_channel_what_would/,https://www.reddit.com/r/learnprogramming/comments/1hh35sc/thinking_of_starting_a_tech_channel_what_would/,2024-12-18 14:49:01,0,0.5,0,0,8,0,0,False,False,True,False,False,,,t3_1hh35sc
+learnprogramming,what are good side projects for a solid resume?,"I am in third year software engineering and getting quite close to releasing my massive mobile app project [https://aquaflora.ca/](https://aquaflora.ca/) . Im looking for the next project to work on so i came here.
+
+Im wanting to do something that has potential to earn me some money, but also is an impressive resume project. I am pretty interested in stuff like linux tools, low level stuff (like a basic gpu emulator or something). i am also interested in indie game development potentially, but i do realize that isnt really where the money is anymore sadly.
+
+Any ideas would be appreciated.",pjjiveturkey,1hgxvam,https://reddit.com/r/learnprogramming/comments/1hgxvam/what_are_good_side_projects_for_a_solid_resume/,https://www.reddit.com/r/learnprogramming/comments/1hgxvam/what_are_good_side_projects_for_a_solid_resume/,2024-12-18 09:15:26,0,0.33,0,0,0,0,0,False,False,True,False,False,Topic,,t3_1hgxvam
+learnprogramming,Leetcode or codeforces,"
+I am a 2nd year engineering student (AIML BRANCH).I have good foundation of python and considering to start online coding .There are so many online coding platform?
+Which one should I start from ?
+Leetcode or codeforces or codechef or hackerrank?What is the difference between them?
+
+Also how many hours a day should I give to it ?",Moneymachine__69,1hgv029,https://reddit.com/r/learnprogramming/comments/1hgv029/leetcode_or_codeforces/,https://www.reddit.com/r/learnprogramming/comments/1hgv029/leetcode_or_codeforces/,2024-12-18 05:45:18,0,0.33,0,0,2,0,0,False,False,True,False,False,Topic,,t3_1hgv029
+learnprogramming,New and can't get anything to run,"I am trying to make a simple game, so I started a C++ tutorial. All I am trying to do is write the simple ""Hello World!"" code, but every time I hit run it gives me some error message. From what I understand, I need an IDE and a compiler. I am using Visual Studio and Visual Studio Code which is supposed to have both, but when I try to run the code it says ""Variable ${workspaceFolder} can not be resolved. Please open a folder."" I have no idea what this means. This is after it gave me a bunch of other error messages and told me I needed to download a JSON debugger, which also didn't seem to work. Basically my question is, how are you supposed to get this program to work properly??",poplimgerer,1hgup1s,https://reddit.com/r/learnprogramming/comments/1hgup1s/new_and_cant_get_anything_to_run/,https://www.reddit.com/r/learnprogramming/comments/1hgup1s/new_and_cant_get_anything_to_run/,2024-12-18 05:25:21,0,0.33,0,0,7,0,0,False,False,True,False,False,,,t3_1hgup1s
+learnprogramming,Help me understand time in python,"I'm working through some programing exersizes and one is to create a program which counts calories for a user and returns calories burned at specific times in minutes(10,15,20,25,30). The user burns calories at a constant rate of 3.9 cal/min:
+
+    import time as t
+    
+    
+    def calorie_count(workout_time):
+        calories_burned = CALORIES_PER_MINUTE * workout_time
+        print(""you've burned "", calories_burned, "" calories in "", workout_time, "" minutes!"")
+        return
+    CALORIES_PER_MINUTE = 3.9
+    t.sleep(1)
+    calorie_count(10)
+    t.sleep(1)
+    calorie_count(15)
+    t.sleep(1)
+    calorie_count(20)
+    t.sleep(1)
+    calorie_count(25)
+    t.sleep(1)
+    calorie_count(30)
+    
+    input(""press any key to end the program"")
+
+This is what I came up with that worked. I imagined something cooler and I did all the flowcharting that I needed to complete with a few functions, problem is I don't know enough about the date time module or time in python to actually implement what I ""engineered"":
+
+    def start_time():
+            start = datetime.now()
+            return start
+    def exersize_duration(start):
+            minutes_passed = datetime.now() - start
+            return minutes_passed 
+
+The issue I had was I couldn't just subtract ""now"" from my ""start time"" to get an ""amount of minutes passed since the start"". What I wanted to do was create a case/switch function which would run my ""calorie\_count"" function at the specified intervals and print calories burned. I'm pretty sure I've seen it done in some books(I'm reading PACKT's Learn Python Programming) but can't find it currently and the Python datetime documentation isn't [easy.to](http://easy.to) understand for a beginner   
+  
+  
+So, my question is,  
+\#how do I subtract time and get a integer I can use",Itchy_Metal60,1hgsqtl,https://reddit.com/r/learnprogramming/comments/1hgsqtl/help_me_understand_time_in_python/,https://www.reddit.com/r/learnprogramming/comments/1hgsqtl/help_me_understand_time_in_python/,2024-12-18 03:32:15,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1hgsqtl
+learnprogramming,Where do I even begin??,"I’m a second year computer science student, but my only experience is in running Java and python programs natively. I have 0 frontend experience.
+
+I’d like to try a project to learn these things, basically a webpage where you can create a graph and then perform DFS and BFS on it, since I couldn’t find any good visualizations on the data structure when I was in advanced data structures, and generate the spanning tree &amp; order of nodes reached from doing so.
+
+I have literally 0 idea where to even begin looking for information to start doing this from scratch. All I know is I will make it look pretty with html and css for styling then use JavaScript for the logic.
+
+Every single video I’ve found assumes you at least have the basics, and I always just end up completely lost even with the alleged “from scratch” videos that still make insane assumptions about what you know.
+
+Does anyone have an idea as to where I can find good information to at least teach myself enough to accomplish this? Any help would be much appreciated.",Joeman106,1hgsdqp,https://reddit.com/r/learnprogramming/comments/1hgsdqp/where_do_i_even_begin/,https://www.reddit.com/r/learnprogramming/comments/1hgsdqp/where_do_i_even_begin/,2024-12-18 03:12:06,0,0.33,0,0,2,0,0,False,False,True,False,False,,,t3_1hgsdqp
+learnprogramming,Which is better choice NodeJS / Python? ,"I am planning to build a software to archive the files in long term storage (not in NAS).
+
+The core requirement for the software is error recovery, zero tolerance to the inconsistency. Once I move the file, I need to create the stub file as a replacement. The throughput for file copy and MD5 checksum are also important. 
+
+I have developed a POC in nodejs by using SCP. I am not able to figure out which programming language I should opt for.
+
+1. NodeJS
+
+2. Python
+
+3. Java
+
+4. .Net
+
+5. C++
+
+I am assuming NodeJS is a single threaded process, won't allow me to operate on multiple files in separate threads. I am not sure about Python if it supports multithreading. 
+
+The deployment environment is Linux.
+
+Can some experienced developers shed light on what are pros / cons of NodeJS vs Python? ",PepperOwn1982,1hgs526,https://reddit.com/r/learnprogramming/comments/1hgs526/which_is_better_choice_nodejs_python/,https://www.reddit.com/r/learnprogramming/comments/1hgs526/which_is_better_choice_nodejs_python/,2024-12-18 02:59:35,0,0.33,0,0,5,0,0,False,False,True,False,False,,,t3_1hgs526
+learnprogramming,Seeking Guidance to Relaunch My IT Career After an Extended Hiatus,"Hello :)
+
+I graduated in Computer Science about 10 years ago, having spent one year of my undergraduate studies in the USA. I have advanced/fluent English and speak other languages at an intermediate level, such as Spanish, French, and Italian. During my degree, I was very dedicated—I always participated in research projects and extracurricular activities. I have a solid foundation and a strong ability to learn in programming, databases, and software engineering.
+
+In contrast to this strong theoretical foundation and affinity for the field, unfortunately, I have little market experience. In IT, I only worked during my mandatory internship (6 months in software development) and approximately a year and a half at a BIG FOUR, which turned out to be a huge disappointment. There was zero intellectual challenge—just endless hours of repeating processes that required none of the technical knowledge I had. I would say it was practically a null experience in terms of IT.
+
+Shortly before my time at the BIG FOUR ended, I was far along in a selection process to work in software development in central FLORIDA. However, for family reasons, I couldn’t accept the position or continue working in the field because my family needed my full-time help—and for me, family always comes first.
+
+Well… now that my family matters are resolved, I intend to return to my IT career. In the meantime, I had some freelance experiences on platforms like UPWork and Workana, developing websites using WordPress, but nothing particularly relevant to build a strong portfolio.
+
+In summary, I’m an IT professional with a Bachelor’s degree in Computer Science, solid theoretical knowledge, ease of learning, and great interpersonal and communication skills. However, I have very little practical experience and have been away from the field for about eight years. I’m looking to resume my career and am open to your suggestions on where to start. I believe the ideal scenario would be a remote job that pays in dollars and is suitable for someone with little experience. I'm even willing to take an unpaid internship or get a job with a low hourly rate.
+
+Thank you in advance for your time and attention, and I hope to also contribute to the community in some way.
+
+Best regards,",Putrid_Classroom935,1hgnric,https://reddit.com/r/learnprogramming/comments/1hgnric/seeking_guidance_to_relaunch_my_it_career_after/,https://www.reddit.com/r/learnprogramming/comments/1hgnric/seeking_guidance_to_relaunch_my_it_career_after/,2024-12-17 23:17:27,1,0.6,1,0,0,0,0,False,False,True,False,False,,,t3_1hgnric
+learnprogramming,Looking for an easy to learn/more versatile graphical interface for application development ,"Hello
+
+I am learning programming and I have a few codes I wrote like random ticket generators for a few tabletop games.
+
+I am interested in making simple applications for the codes where I can make it simpler for my sister by adding drop down lists and stuff so that she doesn't have to go through the code trying to find the right parameter to change.
+
+I am relatively new to programming and all I did so far were write a few scripts. Actually designing an app is still an arduous task for me but if there's a graphical interface with drag and drop stuff, it would be a game changer. 
+
+Please advice.
+
+I can provide more info if needed.
+
+Thanks ",Financial_Problem_47,1hgpq7z,https://reddit.com/r/learnprogramming/comments/1hgpq7z/looking_for_an_easy_to_learnmore_versatile/,https://www.reddit.com/r/learnprogramming/comments/1hgpq7z/looking_for_an_easy_to_learnmore_versatile/,2024-12-18 00:53:31,2,0.67,2,0,0,0,0,False,False,True,False,False,Resource,,t3_1hgpq7z
+learnprogramming,Giveaway: Boot.dev 1 Month Subscription Key,"I just got this key from the latest HumbleBundle Choice. If you are interested, just leave a comment.  
+I'll pick a random person the next few days.  
+The code must be redeemed by January 9th, 2025.
+
+[Redemption instructions](https://support.humblebundle.com/hc/en-us/articles/31465332564379-Boot-dev-Key-Redemption-Instructions)",Bobleo2000,1hgnzop,https://reddit.com/r/learnprogramming/comments/1hgnzop/giveaway_bootdev_1_month_subscription_key/,https://www.reddit.com/r/learnprogramming/comments/1hgnzop/giveaway_bootdev_1_month_subscription_key/,2024-12-17 23:28:16,0,0.33,0,0,5,0,0,False,False,True,False,False,,,t3_1hgnzop
+learnprogramming,"How do I pause a lazy-loaded YouTube iframe when closing a CSS modal in JavaScript? The code worked until I added loading=""lazy"" to improve the performance on the site. Now the videos still play in the background when I close a modal. Can anyone help?","     const modalBtns = document.querySelectorAll("".button"")
+    
+    modalBtns.forEach(function (btn) {
+        btn.onclick = function () {
+            const modal = btn.getAttribute('data-modal');
+            document.getElementById(modal).style.display = ""block"";
+        }
+    });
+    
+    const closeBtns = document.querySelectorAll("".close"");
+    
+    closeBtns.forEach(function (btn) {
+        btn.onclick = function () {
+            const modal = btn.closest('.modal');
+    
+            // Find all iframes inside the modal and reset their src attribute to stop the videos
+            const iframes = modal.querySelectorAll('iframe');
+            iframes.forEach(function (iframe) {
+                iframe.src = iframe.src;
+            });
+            modal.style.display = ""none"";
+        }
+    });
+    
+    window.onclick = function (event) {
+        if (event.target.className === ""modal"") {
+           // Find all iframes inside the modal and reset their src attribute to stop the videos
+            const iframes = event.target.querySelectorAll('iframe');
+            iframes.forEach(function (iframe) {
+                iframe.src = iframe.src;
+            });
+            event.target.style.display = ""none"";
+        }
+    }
+        
+
+",Playful-Mud-1639,1hggg90,https://reddit.com/r/learnprogramming/comments/1hggg90/how_do_i_pause_a_lazyloaded_youtube_iframe_when/,https://www.reddit.com/r/learnprogramming/comments/1hggg90/how_do_i_pause_a_lazyloaded_youtube_iframe_when/,2024-12-17 17:55:07,2,0.63,2,0,2,0,0,False,False,True,False,False,Code Review,,t3_1hggg90
+learnprogramming,Learning with applications,"Are there people who really feel they're learning with sololean , mino etc? Honestly, after 5 minutes it bores me ",Super_Letterhead381,1hgctfq,https://reddit.com/r/learnprogramming/comments/1hgctfq/learning_with_applications/,https://www.reddit.com/r/learnprogramming/comments/1hgctfq/learning_with_applications/,2024-12-17 15:16:47,2,0.67,2,0,1,0,0,False,False,True,False,False,,,t3_1hgctfq
+learnprogramming,"People who do kernel programming, How did you get started ?",Is there any good resources available ?,imsyndrom,1hgzxh1,https://reddit.com/r/learnprogramming/comments/1hgzxh1/people_who_do_kernel_programming_how_did_you_get/,https://www.reddit.com/r/learnprogramming/comments/1hgzxh1/people_who_do_kernel_programming_how_did_you_get/,2024-12-18 11:52:23,14,0.86,14,0,10,0,0,False,False,True,False,False,,,t3_1hgzxh1
+learnprogramming,Comming from non tech background learning to code,"Hi everyone,
+
+I’m looking for some guidance about whether pursuing a Master's in Computer Science is the right step for me. Here's my situation:
+
+Background: I graduated with a degree in Business Administration and have a non-tech background.
+
+Coding Journey: Over the past couple of years, I’ve been learning to code on my own. I’ve completed several projects, and I feel like I’ve developed a good level of proficiency and a real passion for it.
+
+Dilemma: I’m wondering if it’s worth pursuing a formal Master’s in Computer Science to deepen my knowledge and improve my career prospects in tech.
+
+Would this be a good investment of time and resources for someone like me? Or should I focus on building a portfolio, certifications, and gaining practical experience instead?
+
+If any of you have transitioned from a non-tech background to tech or have experience with Master's programs in CS, I’d love to hear your thoughts!
+
+Thanks in advance for your advice!",Creative-Ranger1775,1hgv65o,https://reddit.com/r/learnprogramming/comments/1hgv65o/comming_from_non_tech_background_learning_to_code/,https://www.reddit.com/r/learnprogramming/comments/1hgv65o/comming_from_non_tech_background_learning_to_code/,2024-12-18 05:56:23,5,0.86,5,0,4,0,0,False,False,True,False,False,,,t3_1hgv65o
+learnprogramming,Looking for developers to join a small learning &amp; project group,"I’ve started a small Discord server for developers who want to:
+	•	Build projects for their portfolios
+	•	Join hackathons &amp; challenges
+	•	Learn and grow together
+
+If you’re passionate about coding and want to collaborate, DM me for an invite! Let’s improve and build something great.",TeatedNik,1hgpdao,https://reddit.com/r/learnprogramming/comments/1hgpdao/looking_for_developers_to_join_a_small_learning/,https://www.reddit.com/r/learnprogramming/comments/1hgpdao/looking_for_developers_to_join_a_small_learning/,2024-12-18 00:35:23,6,0.8,6,0,1,0,0,False,False,True,False,False,,,t3_1hgpdao
+learnprogramming,What sort of programming should a stats major learn? ,"Greetings, I'm a first year Stats major (Econ minor if its somehow relevant). I wanted to learn programming but I'm unsure if I should learn R Or Python. Also what sources should of refer to? I'm an absolute begginer and have 0 knowledge of the same. I'll be highly grateful for your guidance. 
+Thanks :) ",integrationsucksass,1hgxgj6,https://reddit.com/r/learnprogramming/comments/1hgxgj6/what_sort_of_programming_should_a_stats_major/,https://www.reddit.com/r/learnprogramming/comments/1hgxgj6/what_sort_of_programming_should_a_stats_major/,2024-12-18 08:42:44,6,0.88,6,0,24,0,0,False,False,True,False,False,,,t3_1hgxgj6
+learnprogramming,Passed First-Year Computer Science Engineering by Cheating—How Do I Catch Up Before Second Year?,"Hi everyone,
+
+I’m a first-year Computer Science Engineering student, and I passed all my courses (mostly by cheating during online exams). Now, I feel like I have almost no real knowledge of programming or CS concepts, and I’m worried about struggling in my second year.
+
+Here’s what I studied in my first two semesters:
+First Semester:
+•	Algorithms and Data Structure 	
+      Discrete Logic and Mathematics
+•	Fundamentals of Computer Programming
+•	Fundamentals of Computer Science
+•	Fundamentals of Digital Technology
+•	Maths I
+
+Second semester : 
+
+Computer Architecture
+•	Fundamentals of Object-Oriented Programming•	IT Project Implementation Rules
+•	Maths II
+•	Physic
+•	Probability Theory
+
+I REALLY NEED HELP GUYS OR A PLAN TO WHAT I SHOULD STUDY OR START WITH PLEASE
+( MOST OF THE UNI TASK WERE IN C++)",_6720,1hgs81d,https://reddit.com/r/learnprogramming/comments/1hgs81d/passed_firstyear_computer_science_engineering_by/,https://www.reddit.com/r/learnprogramming/comments/1hgs81d/passed_firstyear_computer_science_engineering_by/,2024-12-18 03:03:37,0,0.11,0,0,14,0,0,False,False,True,False,False,,,t3_1hgs81d
+learnprogramming,Would you recommend Harvard cs50 and The Odin Project as a path to learn,"Hi there :)   
+  
+I'm interested in learning to create websites and mobile apps. Like most people I have plenty of ideas for things I believe would be worth building and I think technology will soon be at the point where even more complex projects will be something an individual or a small team can create and maintain vs needing the resources of a giant company.
+
+Would the Harvard cs50 course followed by TOP be a good path for me to learn what I need, and if not what would you recommend?  
+\- University is an option too but it seems like it would be slower than learning on my own plus my goal isn't to get hired in a job    
+
+Would there be any holes in my knowledge from going this route and what resources would you suggest to learn what I missed?
+
+What are some communities you recommend joining?
+
+Thank you in advance for any answers too!",Basementfriends,1hgwfxw,https://reddit.com/r/learnprogramming/comments/1hgwfxw/would_you_recommend_harvard_cs50_and_the_odin/,https://www.reddit.com/r/learnprogramming/comments/1hgwfxw/would_you_recommend_harvard_cs50_and_the_odin/,2024-12-18 07:24:07,14,0.94,14,0,9,0,0,False,False,True,False,False,,,t3_1hgwfxw
+learnprogramming,What API testing tool do you prefer for testing backend services?,"Hey guys! I'm curious about the API tools you use when building backend services. There are quite a few options out there, like Postman, Insomnia, Swagger, and others and I personally use Postman. Which one is your go-to tool, and why do you prefer it? I'd love to hear what y'all use/do.",KNIGHTRAGE13,1hgtvae,https://reddit.com/r/learnprogramming/comments/1hgtvae/what_api_testing_tool_do_you_prefer_for_testing/,https://www.reddit.com/r/learnprogramming/comments/1hgtvae/what_api_testing_tool_do_you_prefer_for_testing/,2024-12-18 04:35:01,11,0.92,11,0,19,0,0,False,False,True,False,False,,,t3_1hgtvae
+learnprogramming,Static methods in a game like cookie clicker,"Hi all, I just started making an idle game similar to cookie clicker in Unity. Right now I'm using an empty game object to manage all the basic stuff related to the cookies such as updating the displayed text and increasing the amount of cookies by cps etc. I'm currently wondering if I should be using static methods or not. I can't really see the point of creating an object in this case and I don't think I'm working with any instance data either? But I don't think this scenario falls under the typical ""utility or helper"" methods that static would be used for so I'm not too sure.",Oakleaf30,1hgs7jv,https://reddit.com/r/learnprogramming/comments/1hgs7jv/static_methods_in_a_game_like_cookie_clicker/,https://www.reddit.com/r/learnprogramming/comments/1hgs7jv/static_methods_in_a_game_like_cookie_clicker/,2024-12-18 03:02:57,10,0.86,10,0,7,0,0,False,False,True,False,False,,,t3_1hgs7jv
+learnprogramming,"How important is dsa in making projects like websites, apps, etc?",I struggle really badly with dsa so I wonder how much I need to improve on to make more advanced coding projects such as websites and web apps,KrisKaydenKeenan,1hh2kpn,https://reddit.com/r/learnprogramming/comments/1hh2kpn/how_important_is_dsa_in_making_projects_like/,https://www.reddit.com/r/learnprogramming/comments/1hh2kpn/how_important_is_dsa_in_making_projects_like/,2024-12-18 14:19:56,1,1.0,1,0,6,0,0,False,False,True,False,False,,,t3_1hh2kpn
+learnprogramming,"If you were in your final year of College again, what project do you wish you had done?","Bear with me here. I am at my final year of College and you know the final project is mandatory. I understood that final year projects are so important like it is asked in the years to come like what major did you choose in your college. So I should not do anything. What I want is, I need to do a project that I am proud of after the years to come. Like it is hard to do, but I had done it. And the deadline is 2-3 months. I have good understanding about programming, some level of DSA, OOPS, and I am an aspiring web developer, learning about it. I am ok, if it is a website to build. If you were me and with the Brains you have, what would you recommend me to do, like what you would have done, but missed it to do and regretting it now, like I should have learned that? Please don't tell me, do whatever that pleases you. I need guidance. My guide told me to do a project that is Machine Learning and as far as I know, there is nothing great about it like my peers doing ""Gold Prize Prediction, Cancer Prediction and OpenCVs"". I don't get it like, OpenCVs I search on YouTube are tutorials with 45 minutes and what great would you learn from that. I don't mean to downgrade it but I need to do something useful. I will definitely do OpenCVs in the future. And what about the predictions and what about the ML? Is it any good? I don't know that's why I am asking.
+Again remember I am an aspiring web developer, and as web developer projects are all about social media, clones and all which I will do later on. So I think you get me now. I hope you would answer.",shairaajvs,1hh1e70,https://reddit.com/r/learnprogramming/comments/1hh1e70/if_you_were_in_your_final_year_of_college_again/,https://www.reddit.com/r/learnprogramming/comments/1hh1e70/if_you_were_in_your_final_year_of_college_again/,2024-12-18 13:18:34,3,1.0,3,0,0,0,0,False,False,True,False,False,,,t3_1hh1e70
+learnprogramming,"If you were in your final year of College again, what project do you wish you had done?","Bear with me here. I am at my final year of College and you know the final project is mandatory. I understood that final year projects are so important like it is asked in the years to come like what major did you choose in your college. So I should not do anything. What I want is, I need to do a project that I am proud of after the years to come. Like it is hard to do, but I had done it. And the deadline is 2-3 months. I have good understanding about programming, some level of DSA, OOPS, and I am an aspiring web developer, learning about it. I am ok, if it is a website to build. If you were me and with the Brains you have, what would you recommend me to do, like what you would have done, but missed it to do and regretting it now, like I should have learned that? Please don't tell me, do whatever that pleases you. I need guidance. My guide told me to do a project that is Machine Learning and as far as I know, there is nothing great about it like my peers doing ""Gold Prize Prediction, Cancer Prediction and OpenCVs"". I don't get it like, OpenCVs I search on YouTube are tutorials with 45 minutes and what great would you learn from that. I don't mean to downgrade it but I need to do something useful. I will definitely do OpenCVs in the future. And what about the predictions and what about the ML? Is it any good? I don't know that's why I am asking.
+Again remember I am an aspiring web developer, and as web developer projects are all about social media, clones and all which I will do later on. So I think you get me now. I hope you would answer.",shairaajvs,1hh19eh,https://reddit.com/r/learnprogramming/comments/1hh19eh/if_you_were_in_your_final_year_of_college_again/,https://www.reddit.com/r/learnprogramming/comments/1hh19eh/if_you_were_in_your_final_year_of_college_again/,2024-12-18 13:11:09,1,0.99,1,0,0,0,0,False,False,True,False,False,,,t3_1hh19eh
+learnprogramming,"Should I learn Typescript and SASS, or start with Javascript and CSS and move up later down the line?","Of course I know starting with the fundamentals would be better from a learning standpoint, but I'm unsure if I want to commit the extra time and effort. Feels like I'd get burnt out faster and it would take a lot longer to be able to actually start making cool stuff.
+
+For now I'd like to make some small static sites, might expand to other use cases too though (for Typescript specifically). 
+
+Right now I don't really know a lot of coding. Some very basic python, but I'm not learning very actively since I don't have much motivation or ideas I want to create, not with Python at least.
+
+Also, what learning resources, software, and frameworks do you recommend? Thinking of using fireship.io to learn as I like the guy's channel, anyone used that before?",Maple382,1hh16x3,https://reddit.com/r/learnprogramming/comments/1hh16x3/should_i_learn_typescript_and_sass_or_start_with/,https://www.reddit.com/r/learnprogramming/comments/1hh16x3/should_i_learn_typescript_and_sass_or_start_with/,2024-12-18 13:07:25,2,1.0,2,0,9,0,0,False,False,True,False,False,,,t3_1hh16x3
+learnprogramming,Path after CS50x for an aspiring Web Dev entrepreneur,"Hi everyone! I'm 16 years old and almost finished with the CS50X course. I'm looking for advice on what to do next to maximize my learning, stay ahead in the long term, and keep up with AI advancements. Should I move on to CS50W or another web development course, or would it be better to dive right in and start building my first web apps while learning as I go?
+
+I am also considering buying Marc Lou's Codefast course, so if anyone has bought it could you tell me how useful it is?",LackComprehensive469,1hh0b11,https://reddit.com/r/learnprogramming/comments/1hh0b11/path_after_cs50x_for_an_aspiring_web_dev/,https://www.reddit.com/r/learnprogramming/comments/1hh0b11/path_after_cs50x_for_an_aspiring_web_dev/,2024-12-18 12:15:53,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1hh0b11
+learnprogramming,Data analytics / Data science courses,"I everyone hope all of u r having a good day, as the tittle says, i´m looking for some courses on that topic, something like the odin project, i know that there is a data analisys course in freecodecamp. but im looking for other options, more project based like odin. thanks",joacloz,1hh0alg,https://reddit.com/r/learnprogramming/comments/1hh0alg/data_analytics_data_science_courses/,https://www.reddit.com/r/learnprogramming/comments/1hh0alg/data_analytics_data_science_courses/,2024-12-18 12:15:12,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1hh0alg
+learnprogramming,K-12 CS challenges ,"I'd like to make CS  a bit more exciting for my school. Currently we don't have much happening beyond a CS at the last grades of Secondary (we run an IB curriculum). 
+
+I'd like to have weekly challenges with a mix of programming and robotics. Something kids or a class could wander into and try. 
+
+I'd appreciate any tips or suggestions. For robotics, I'm guessing I'd look into LEGO and micro controllers like Arduino and Raspberry Pi. Again, I'm fairly new so any tips on this would be appreciated. 
+
+All kids are given an ipad or macbook at upper Secondary.
+
+Thanks in advance!",International_Fig262,1hgynwp,https://reddit.com/r/learnprogramming/comments/1hgynwp/k12_cs_challenges/,https://www.reddit.com/r/learnprogramming/comments/1hgynwp/k12_cs_challenges/,2024-12-18 10:18:33,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1hgynwp
+learnprogramming,Resources to learn Computer Hardware and ICT concepts,I would like any youtube channel recommendations or any website that covers all the essential hardware and ICT concepts in detail. I want to get my theoretical concepts clear. So any suggestions you guys might have- please share. Thanks a lot.,somephilosophershit,1hgyelf,https://reddit.com/r/learnprogramming/comments/1hgyelf/resources_to_learn_computer_hardware_and_ict/,https://www.reddit.com/r/learnprogramming/comments/1hgyelf/resources_to_learn_computer_hardware_and_ict/,2024-12-18 09:58:51,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1hgyelf
+learnprogramming,CloudFront is too costly for streaming—need advice on a better setup,"Hey everyone,
+
+I’ve set up my own video streaming solution on AWS, including transcoding to generate HLS files and storing them in S3. Everything works great—except for the streaming costs, which are way higher than I expected.
+
+I initially planned to use CloudFront, but the cost is crazy expensive. Based on my calculations:
+
+* A 60-minute video streamed to 1,000 users costs about **$229.50/hour** using CloudFront.
+   * Calculation: 0.75 MB/s \* 1000 users \* 3600 seconds = \~2700 GB/hour. At $0.085/GB, that’s $229.50/hour.
+
+For my use case (a VOD platform for an education center), that adds up to over $1000/month just for streaming, which isn’t sustainable.
+
+I’m exploring alternatives like Cloudflare, which seems significantly cheaper. At the same time, I’m wondering if I should reconsider Mux, even though I initially avoided it due to pricing.
+
+Has anyone dealt with similar issues? What cost-effective streaming solutions have worked for you? I’d love to hear your experiences and suggestions!",space_dont_exist,1hgx9xc,https://reddit.com/r/learnprogramming/comments/1hgx9xc/cloudfront_is_too_costly_for_streamingneed_advice/,https://www.reddit.com/r/learnprogramming/comments/1hgx9xc/cloudfront_is_too_costly_for_streamingneed_advice/,2024-12-18 08:27:35,2,1.0,2,0,2,0,0,False,False,True,False,False,,,t3_1hgx9xc
+learnprogramming,Roadmap to prepare my exam ,"Hi guys, 
+
+next month I have my first exam at the college (university), it will be about Python.
+
+The exam include:
+
+-Recursion
+-Strings
+-Image
+-Files
+
+
+I know only the syntax, write few lines of code. 
+
+I would like to improve my skill in coding. I’m using ChatGPT to have exercises about this.
+
+Some advice?",Turing97,1hgw00j,https://reddit.com/r/learnprogramming/comments/1hgw00j/roadmap_to_prepare_my_exam/,https://www.reddit.com/r/learnprogramming/comments/1hgw00j/roadmap_to_prepare_my_exam/,2024-12-18 06:52:30,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hgw00j
+learnprogramming,Works in Intellij but not Codingbat,"I'm working on ""String-3 &gt; gHappy"" in CodingBat's Java section. I wrote up some code that uses regex to solve this problem. Here is what I wrote inside CodingBat's interface:
+
+`import java.util.regex.Matcher;`
+
+`import java.util.regex.Pattern;`
+
+`public boolean gHappy(String str) {`
+
+`Pattern pattern = Pattern.compile(""[^g]g[^g]"", Pattern.CASE_INSENSITIVE);`
+
+`Matcher matcher = pattern.matcher(str);`
+
+`return !(matcher.find());`
+
+`}`
+
+So, this works just fine in IntelliJ when I run it as a static method inside Main (for that code verbatim, see reply to lurgi below).  However, when I try the identical code in CodingBat, I get the error ""missing '{' or illegal start of type."" Any idea what gives?",RickFishman,1hgoea4,https://reddit.com/r/learnprogramming/comments/1hgoea4/works_in_intellij_but_not_codingbat/,https://www.reddit.com/r/learnprogramming/comments/1hgoea4/works_in_intellij_but_not_codingbat/,2024-12-17 23:47:54,5,0.74,5,0,3,0,0,False,False,True,False,False,,,t3_1hgoea4
+learnprogramming,Authentication Issue,"Hello. 
+
+I am working through the last capstone of my Java boot camp. We’re working with rest, spring boot, sql and postman to make a fully functional online store. We received the basic code and have to add feature and a couple of bugs that were put in on purpose. I have completed most of the assignment but still keep getting 401 errors for pretty much every test when I run the JSON script. The security code was already provided and we were told it was working but I can’t figure out another reason. 
+
+When I run it in postman it says “Authentication: ‘Bearer null’” in the header. I’m not sure if this is allowed but here’s the GitHub repo. Any help would be appreciated. Thanks. 
+
+https://github.com/jpress1409/easy-shop-backend",1409sserpj,1hgnhmv,https://reddit.com/r/learnprogramming/comments/1hgnhmv/authentication_issue/,https://www.reddit.com/r/learnprogramming/comments/1hgnhmv/authentication_issue/,2024-12-17 23:04:43,1,0.67,1,0,0,0,0,False,False,True,False,False,Debugging,,t3_1hgnhmv
+learnprogramming,Preparing for GSoC 2025 - Advice needed!,"Hi everyone!
+
+I’m currently in my first year of university studying Computer Science, but I already have substantial experience in programming and development. I’ve recently started preparing for GSoC 2025 and wanted to kick things off early by contributing to some projects.
+
+I’m revisiting a few interesting projects from last year’s GSoC (2024) that align well with my tech stack, and I’m torn on the best strategy:
+
+* Should I focus on contributing actively to *just one* project to show deeper involvement and commitment?
+* Or would contributing to 2-3 projects that align with my skills be more valuable for demonstrating versatility and consistent contributions?
+
+I want to make sure that once applications open, I’ll have some solid contributions to showcase.
+
+If you’ve been through GSoC or have any tips, I’d greatly appreciate your advice! Any other general recommendations for preparing at this stage would be super helpful too.
+
+Thanks in advance!",renvins,1hgm57y,https://reddit.com/r/learnprogramming/comments/1hgm57y/preparing_for_gsoc_2025_advice_needed/,https://www.reddit.com/r/learnprogramming/comments/1hgm57y/preparing_for_gsoc_2025_advice_needed/,2024-12-17 22:04:49,1,0.6,1,0,2,0,0,False,False,True,False,False,,,t3_1hgm57y
+learnprogramming,Does having a package as a dependency count as distributing it?,"I’m a bit meticulous with licensing and dependencies, just to be better safe than sorry. However many packages require a copy of the license for said package if it’s redistributed. Thing is “redistribution” feels a bit vague to me.
+
+If I just have a package as a dependency that the user themself has to install to use/develop the program, does that count as redistribution?",ever-ella77,1hgm2iz,https://reddit.com/r/learnprogramming/comments/1hgm2iz/does_having_a_package_as_a_dependency_count_as/,https://www.reddit.com/r/learnprogramming/comments/1hgm2iz/does_having_a_package_as_a_dependency_count_as/,2024-12-17 22:01:34,10,0.83,10,0,6,0,0,False,False,True,False,False,Topic,,t3_1hgm2iz
+learnprogramming,Boot.Dev Reviews?,"Keep coming back to boot.dev tempted to pull the trigger on it but seem like a lack of honest reviews on youtube etc thought would be way more videos about experience using it etc.
+
+Anyone with first hand xp able to give a honest wee answer how is it?
+Is it worth it?
+
+I know resources are out there etc I just struggle to stay on track and think a class style with a investment I think would be able to stay more focused.",Tehkast,1hgl0r1,https://reddit.com/r/learnprogramming/comments/1hgl0r1/bootdev_reviews/,https://www.reddit.com/r/learnprogramming/comments/1hgl0r1/bootdev_reviews/,2024-12-17 21:15:16,4,0.71,4,0,4,0,0,False,False,True,False,False,Resource,,t3_1hgl0r1
+learnprogramming,Bsc in Computer Science ?,"Is Starting a Computer Science BSc with an Earth Science MSc a Good Idea?
+
+I hold an MSc in Earth Science and have been considering starting a BSc in Computer Science. My main motivation stems from the challenges of finding stable and family-friendly work in geology. The industry often involves long shifts, extensive travel, and jobs far from home, which has made me reevaluate my career path.
+
+What excites me about computer science is the potential to combine it with my Earth Science background. Could my knowledge in geology and Earth sciences be integrated with programming, data analysis, or machine learning to create a unique skill set? For example, could I apply computer science to geospatial analysis, simulation modeling, or real-time data prediction in geological research?
+
+On the flip side, I am concerned about the investment—both financial and time-related. Would it be worth committing to a completely new degree when I already have an advanced qualification? Would this transition be feasible and rewarding in the long run, or am I overestimating the compatibility of these two fields?
+
+If you’ve made a similar leap or have insights into combining Earth sciences and computer science, I’d love to hear your thoughts. Is this a practical and worthwhile move, or am I better off exploring other options ?",imperrator,1hgjo81,https://reddit.com/r/learnprogramming/comments/1hgjo81/bsc_in_computer_science/,https://www.reddit.com/r/learnprogramming/comments/1hgjo81/bsc_in_computer_science/,2024-12-17 20:14:05,5,0.86,5,0,2,0,0,False,False,True,False,False,Topic,,t3_1hgjo81
+learnprogramming,Looking for fun creative/creative writing adjacent projects for my first attempts learning Python,"Hey all! I'm extremely new to programming. I have the software needed but only did a Hello World. However, I'm getting a comp sci degree and so far have learned several basic concepts via pseudocode that I know want to test out and fuck around with. Stacks, queues, lists, arrays, loops, etc, I have starting familiarity with how they work.
+
+
+I originally wanted to be a writer but that doesn't pay the bills so I've shifted to combining my writing hobby with developing my software engineer skills. I frequent this sub and see pretty often that it's suggested tinkering with a project I actually care about is a good idea so I'm looking for a good starting point. 
+
+
+I know there's Ren Py for visual novels but I don't know how much coding I would actually learn doing that if it's too modular - I do eventually want a job in the field. Making little games or prototypes for games seems the right path but I'm specifically looking for how to mess around with games that lean on writing in particular. Or maybe games aren't the right answer at all! 
+
+
+I haven't gone far into tutorials but I don't want to get stuck in them so I wanted to point myself in the direction of a project that I can apply what I learn to and fuck around with. 
+
+
+Thanks!",Zagden,1hghchb,https://reddit.com/r/learnprogramming/comments/1hghchb/looking_for_fun_creativecreative_writing_adjacent/,https://www.reddit.com/r/learnprogramming/comments/1hghchb/looking_for_fun_creativecreative_writing_adjacent/,2024-12-17 18:33:16,1,0.67,1,0,0,0,0,False,False,True,False,False,First Projects,,t3_1hghchb
+learnprogramming,beginner question,"Hello im a first yesr cs student and im having a hard time in loops i tried problems to work my way up but for me it aint enough some of the concepts i really dont understand especially nested loop example printing star pyramid. should i continue the way i study? any tips on what should i do? 
+
+im still learning c++",Dry_Discount_7372,1hggvi8,https://reddit.com/r/learnprogramming/comments/1hggvi8/beginner_question/,https://www.reddit.com/r/learnprogramming/comments/1hggvi8/beginner_question/,2024-12-17 18:13:12,1,0.67,1,0,9,0,0,False,False,True,False,False,,,t3_1hggvi8
+learnprogramming,Problem-solving based platform?,"I would really like to know about any problem-solving based platform for learning programming. 
+
+Like, something that gives me problems to solve then check my answer, or give me code that I can check to make better/correct.",Aru_2005,1hgezov,https://reddit.com/r/learnprogramming/comments/1hgezov/problemsolving_based_platform/,https://www.reddit.com/r/learnprogramming/comments/1hgezov/problemsolving_based_platform/,2024-12-17 16:53:17,1,0.67,1,0,1,0,0,False,False,True,False,False,,,t3_1hgezov
+learnprogramming,Basic html&amp;css help,"I am a beginner want to start frontend coding, and I have been learned at freeCodeCamp for basic html&amp;css, now I should pass a test to end of this basic class. 
+My doubt is this test provided an example profile pages, I need to coding an statics page like this, but I’m confused on the css variables and how to combine html elements, look at the example page that I have no ideas to how to do that, I can’t remember the css variables uses and how it works, adjust the page repeatedly makes me feel chaos and anxiety, do any guys have experiences that how to across this step, very thanks for somebody would tell me.",hticy,1hgd6se,https://reddit.com/r/learnprogramming/comments/1hgd6se/basic_htmlcss_help/,https://www.reddit.com/r/learnprogramming/comments/1hgd6se/basic_htmlcss_help/,2024-12-17 15:33:46,1,0.67,1,0,2,0,0,False,False,True,False,False,Topic,,t3_1hgd6se

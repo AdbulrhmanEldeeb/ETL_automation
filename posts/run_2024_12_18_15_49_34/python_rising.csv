@@ -1,0 +1,288 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,LLM data I/O - for storing notes,Looking to build out a local LLM system to read in notes that get stored quickly for prompting after. What is the best directory or file format for this?,JollyShooter,1hh3dd4,https://reddit.com/r/Python/comments/1hh3dd4/llm_data_io_for_storing_notes/,https://www.reddit.com/r/Python/comments/1hh3dd4/llm_data_io_for_storing_notes/,2024-12-18 14:59:01,4,0.83,4,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hh3dd4
+Python,Spotify data visualizations,"* **What My Project Does**
+
+My project offers a visualization of spotify data through a web application.
+
+* **Target Audience**
+
+The project is aimed at anyone who uses Spotify and likes music
+
+* **Comparison**
+
+My project is different from a classic Spotify wrapped because it offers new features, is interactive and allows you to select the period of interest. Plus you can watch it more than once a year :)
+
+  
+Feel free to give me suggestions with pull requests and issues as I plan to expand the project further. [Github](https://github.com/marcobadiello/Esame-Sistemi-2.git)",Rich_Walrus_1648,1hgn2bu,https://reddit.com/r/Python/comments/1hgn2bu/spotify_data_visualizations/,https://www.reddit.com/r/Python/comments/1hgn2bu/spotify_data_visualizations/,2024-12-17 22:45:35,40,0.85,40,0,9,0,0,False,False,True,False,False,Showcase,self,t3_1hgn2bu
+Python,Wednesday Daily Thread: Beginner questions,"# Weekly Thread: Beginner Questions 🐍
+
+Welcome to our Beginner Questions thread! Whether you're new to Python or just looking to clarify some basics, this is the thread for you.
+
+## How it Works:
+
+1. **Ask Anything**: Feel free to ask any Python-related question. There are no bad questions here!
+2. **Community Support**: Get answers and advice from the community.
+3. **Resource Sharing**: Discover tutorials, articles, and beginner-friendly resources.
+
+## Guidelines:
+
+* This thread is specifically for **beginner questions**. For more advanced queries, check out our [Advanced Questions Thread](#advanced-questions-thread-link).
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **What is the difference between a list and a tuple?**
+2. **How do I read a CSV file in Python?**
+3. **What are Python decorators and how do I use them?**
+4. **How do I install a Python package using pip?**
+5. **What is a virtual environment and why should I use one?**
+
+Let's help each other learn Python! 🌟",AutoModerator,1hgon88,https://reddit.com/r/Python/comments/1hgon88/wednesday_daily_thread_beginner_questions/,https://www.reddit.com/r/Python/comments/1hgon88/wednesday_daily_thread_beginner_questions/,2024-12-18 00:00:10,2,0.61,2,0,4,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hgon88
+Python,TypeScribe: A Python GUI App for organic Handwritten Text Generation with Machine Learning,"Hey folks, just sharing a little side project I have been working on.
+
+I was looking for a handwritten text generator, but since most of them rely on fixed fonts, the consistency becomes an obvious give away. So, I decided to build one on my own.
+
+# [TypeScribe v1.0](https://github.com/rudyoactiv/typescribe-handwriting)
+
+I'm excited to introduce **TypeScribe**, a program that converts text into organic handwritten text using a *Recurrent Neural Network* (RNN) trained on real handwriting samples. In documents generated with TypeScribe, every stroke, curve, and loop is unique.
+
+*What My Project Does*
+
+With TypeScribe, you can customize every aspect of the your handwritten documents including:
+
+* 12 unique handwriting styles to choose from
+* Page, Line and Margin color customization
+* Page Dimensions
+* Ink Color, Pen Thickness Customization
+* Handwriting Consistency (Neatness)
+* and many more!
+
+*Target Audience*
+
+With TypeScribe, you can:
+
+1. Create organic handwritten letters (in cursive!).
+2. Fill in your notebooks!
+3. Send out handwritten Christmas cards, just in time!
+4. Add a personal touch to absolutely anything.
+
+TypeScribe can automatically split large texts into multiple pages, and *YOU* get to specify how many lines to write per page!
+
+When you create a document with **TypeScribe**, it generates an ***SVG*** file that can be scaled with zero loss in quality. All you have to do is paste your text, set the parameters, and click Generate.
+
+[Application GUI](https://github.com/rudyoactiv/typescribe-handwriting/blob/master/assets/typescribe.png)
+
+[Example Generated Document](https://github.com/rudyoactiv/typescribe-handwriting/blob/master/assets/1.png)
+
+# System Requirements
+
+None. Just double click the executable and it will run.
+
+If you want to run it with Python though, you need to install Python and just follow the instructions to build the environment from the included file.
+
+# Download
+
+Code Repository: [https://github.com/rudyoactiv/typescribe-handwriting](https://github.com/rudyoactiv/typescribe-handwriting)
+
+Click-To-Run: [https://github.com/rudyoactiv/typescribe-handwriting/releases/tag/v1.0](https://github.com/rudyoactiv/typescribe-handwriting/releases/tag/v1.0)
+
+  
+*Comparison*
+
+Where most 'handwriting generators' resort to using fixed fonts that lack any randomness at all, TypeScribe relies on a Neural Network to introduce inconsistencies in writing that mimics that of a real human. Documents created with TypeScribe are highly customizable and very convincing.
+
+\---
+
+This is my first Open-Source project. I plan on introducing more features, and if you do give it a try, I would absolutely love to hear some feedback!",TheCaptainRudy,1hg682r,https://reddit.com/r/Python/comments/1hg682r/typescribe_a_python_gui_app_for_organic/,https://www.reddit.com/r/Python/comments/1hg682r/typescribe_a_python_gui_app_for_organic/,2024-12-17 08:25:39,66,0.91,66,0,5,0,0,False,False,True,False,False,Showcase,self,t3_1hg682r
+Python,Escape From Castle Black and the EverRogue game engine,"You are a prisoner in the dungeons of an evil king. Every day you hear the screams when the king's servants torture the prisoners. Today it's finally your turn.
+
+You knew this day would come, and luckily you prepared for it. You have a sharpened shiv you managed to make while you were waiting, and a friend smuggled you in a potion of stoneskin. But ready or not, it's time.
+
+# What My Project Does
+
+Escape From Castle Black is a text-based rogue-like game written in Python. The engine, EverRogue, is open source, and because it uses procedural generation it can be used to generate your own rogue-like games with only a minimal amount of coding. It's good for both beginner Python programmers or for advanced coders who will be able to edit the engine itself.
+
+# Target Audience
+
+Programmers and gamers, especially both! You can play through the included game, Escape From Castle Black, which is a fun game with some interesting twists. You can edit the game during runtime, because Python is awesome, so you can cheat in some very creative ways if you want to- really, everything is editable while you're playing. Or you can dive into game generation, which is well documented, and create your own game from scratch.
+
+# Comparison
+
+EverRogue is inspired by Kyle's Quest, an old palm pilot game that allowed you to create your own levels. It also takes a lot of inspiration from Dwarf Fortress, which is what got me into coding in the first place. The combat in particular is very reminiscent of the combat in Dwarf Fortress adventure mode. But what really makes it stand out is the ability to write your own games from scratch. The code required is closer to creating config files than writing actual code- the procedural generation is very powerful. I think you'll have a lot of fun with it.
+
+link to the source: [https://github.com/markemus/engine/tree/master](https://github.com/markemus/engine/tree/master)",Markemus,1hgml8m,https://reddit.com/r/Python/comments/1hgml8m/escape_from_castle_black_and_the_everrogue_game/,https://www.reddit.com/r/Python/comments/1hgml8m/escape_from_castle_black_and_the_everrogue_game/,2024-12-17 22:24:19,3,0.64,3,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1hgml8m
+Python,Event sourcing using Python,"On the company I'm working we are planning to create some microservices to work with event sourcing, some people suggested using Scala + Pekko but just out of curiosity I wanted to check if we also have an option with Python.
+
+What are you using for event sourcing with Python nowadays?
+
+Edit: I think the question was not that clear sorry hahaha Im trying to understand if people are using some framework that helps to build the event sourcing architecture taking care of states and updating events or if they are building everything themselves",666dolan,1hganhj,https://reddit.com/r/Python/comments/1hganhj/event_sourcing_using_python/,https://www.reddit.com/r/Python/comments/1hganhj/event_sourcing_using_python/,2024-12-17 13:30:53,11,0.8,11,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1hganhj
+Python,Python botting ? ,"Wondering if anyone here has coded a checkout bot on python? 
+I'm looking to see if someone can code me one before purchasing one online. It seems that there isn't any great options online really. And the difficulties of coding this i believe is out of my realm as I only ever took a high-school coding class.",Subiesaver107,1hh0a97,https://reddit.com/r/Python/comments/1hh0a97/python_botting/,https://www.reddit.com/r/Python/comments/1hh0a97/python_botting/,2024-12-18 12:14:36,0,0.22,0,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hh0a97
+Python,Coding Mini-Games For Cash,"Hello. I am working on my python coding and was offering to code small mini-games for some cash to put towards furthering my education. Leave a comment, I'll reply with a price.",nfent0n,1hgxsbd,https://reddit.com/r/Python/comments/1hgxsbd/coding_minigames_for_cash/,https://www.reddit.com/r/Python/comments/1hgxsbd/coding_minigames_for_cash/,2024-12-18 09:08:41,0,0.19,0,0,4,0,0,False,False,True,False,False,Resource,self,t3_1hgxsbd
+Python,Stockstir is a Python library that lets you get stock information from any script at no cost,"Hello!
+
+Just wanted to quickly showcase my project, Stockstir, which may be of use to many of you that want to follow stock prices freely in any script.
+
+**What My Project Does**
+
+Stockstir is an easy way to instantly gather stock data from any of your Python scripts. Not only that, but it includes other features, such as multi data gathering, anti ban, a fail-safe mechanism, random user agents, and much more.
+
+**Target Audience**
+
+Stockstir is for everyone that needs to gather realtime company stock info from any of their scripts. It mostly differs from any other stock related project in the way that it is simple, and doesn't rely on apis that cost money.
+
+**Comparison**
+
+Stockstir differs from other methods of gathering stock data in that it is has a very simple concept behind it. It is largely a GET wrapper in the Tools class, but initial API support such as Alpha Vantage, as well as gathering much more data of a Company stock through cnbc's JSON api, under the API class. It is mostly a quick way to gather stock data through simple use.
+
+You can find installation instructions and other information under the project link provided below:
+
+Link: [Stockstir Project Link](https://github.com/PatzEdi/Stockstir)
+
+To see the latest Changelog information, visit the [CHANGELOG.md](https://github.com/PatzEdi/Stockstir/blob/main/CHANGELOG.md) file located in the project files hosted on Github. **I have not made any recent changes, but continue to make sure that everything works just fine!**
+
+Here are a few examples of the different usages of Stockstir:
+
+# Quick Usage
+
+To easily gather a single price of a company's stock, you can do it in one line.
+
+    from stockstir import Stockstir
+    price = Stockstir().tools.get_single_price(""ticker/stockSymbol"")
+    print(price)
+
+The above Stockstir method **get\_single\_price** is one of the most basic of the functions provided.
+
+# Stockstir Object Instantiation
+
+You can instantiate Stockstir as an object, and customize certain parameters:
+
+    from stockstir import Stockstir
+    s = Stockstir() # Instantiate the Stockstir object, like so.
+    # We can also create a new Stockstir object, if for example you need certain options toggled:
+    s2 = Stockstir(print_output=True, random_user_agent=True, provider='cnbc')
+
+# Stockstir Functionality, the Fail-Safe mechanism, and Providers:
+
+I am not going to cover the entirety of Stockstir functionality here, which is why Stockstir has a [readthedocs.io](http://readthedocs.io) documentation:
+
+[Stockstir Documentation](https://stockstir.readthedocs.io/en/latest/)
+
+However, basic Stockstir functionality can be described as a GET wrapper. It has *providers*, or, in other words, a website, and a regex pattern to find the price based the request made. *Providers* are a large part of Stockstir. The fail-safe mechanism chooses a new provider that works, in case it fails.
+
+You can choose between 'cnbc', 'insiders', or 'zacks' for the providers. 'cnbc' is the default. To view working providers, you can do so like this:
+
+    from stockstir import Stockstir
+    s = Stockstir(provider='cnbc') #You can set the provider via the provider option in the Stockstir instantiation. Default will always be cnbc.
+    s.providers.list_available_providers() # list the available providers.
+
+# Many Thanks
+
+Thank you for trying out Stockstir, or even just looking into trying it!",PatzEdi,1hfmmm5,https://reddit.com/r/Python/comments/1hfmmm5/stockstir_is_a_python_library_that_lets_you_get/,https://www.reddit.com/r/Python/comments/1hfmmm5/stockstir_is_a_python_library_that_lets_you_get/,2024-12-16 16:14:12,74,0.84,74,0,13,0,0,False,False,True,False,False,Showcase,self,t3_1hfmmm5
+Python,selfie-lib - snapshot testing *and* caching/memoization (useful for testing against genAI),"# What My Project Does
+
+selfie-lib is a snapshot testing library ([docs](https://selfie.dev/py/get-started#quickstart), [source](https://github.com/diffplug/selfie)), with a few novel features. At its most basic, it functions like `print` but it writes into your sourcecode instead of the console. You write a test like this:
+
+    expect_selfie(primes_under(15)).to_be_TODO()
+
+When you run the test, selfie automatically rewrites the test code by calling `repl()` on the result of `primes_under(15)`, e.g.
+
+    expect_selfie(primes_under(15)).to_be([2, 3, 5, 7, 11, 13])
+
+Now that the method call is `to_be` instead of `to_be_TODO`, this will throw an `AssertionError` if the `primes_under(15)` call ever changes its output.
+
+That's standard snapshot testing stuff, the other things it can do are
+
+* save snapshots inline with the source code or on disk
+   * [https://selfie.dev/py/facets#harmonizing-disk-and-inline-literals](https://selfie.dev/py/facets#harmonizing-disk-and-inline-literals)
+* you can use snapshots to cache/memoize the results of slow &amp; non-deterministic APIs (e.g generative AI), and build other test infrastructure on top of that snapshotted data
+   * [https://selfie.dev/py/cache#example](https://selfie.dev/py/cache#example)
+
+# Target Audience
+
+**People who test their code with** `print`. Just replace `print` with `expect_selfie(...).to_be_TODO()` and you can turn that `print` into a repeatable test.
+
+**People who are building applications with nondeterministic or slow components, such as generative AI.** You don't want to hit the model for every unit test on the UI and plumbing, so you end up maintaining some weird bespoke pipeline of manually copy-pasted blobs, which inevitably go stale. [`cache_selfie` makes these effortless](https://selfie.dev/py/cache#example) to write, maintain, and update.
+
+**People who don't like testing because it makes refactoring harder.** You can update all the snapshots in a project effortlessly, so each test becomes a window into your code's behavior instead of glue-point constraining the behavior.
+
+# Comparison
+
+There are lots of other snapshot libraries out there (pytest-snapshot, snapshottest, syrupy, pytest-insta, expecttest). Selfie has a couple features that none of the others have:
+
+* **selfie makes it easy to control read/write at high or low granularity**, with the `_TODO` mechanism, as well [as control comments](https://selfie.dev/py/get-started#quickstart)
+* **selfie lets you use the snapshot mechanism to cache the output of expensive functions**, and [run other tests against that data (`cache_selfie`)](https://selfie.dev/py/cache#example)
+* **selfie has a no-magic mechanism called ""facets"" which lets you attach other data onto a snapshot**. For example, if you snapshot some HTML, you can attach a ""markdown"" facet where the HTML is rendered down to markdown. Then you can do `to_match_disk()` assertion on the whole giant blob, and add a `facet(""md"").to_be(...)` inline assertion just on the markdown. This makes it easy to tell a concise and readable story in your test, while simultaneously capturing an exhaustive snapshot of your code's behavior.
+
+Hope you get a chance to give it a spin, I'd love to hear how it works for you! ([docs](https://selfie.dev/py/get-started#quickstart), [source](https://github.com/diffplug/selfie))",diffallthethings,1hfwri1,https://reddit.com/r/Python/comments/1hfwri1/selfielib_snapshot_testing_and_cachingmemoization/,https://www.reddit.com/r/Python/comments/1hfwri1/selfielib_snapshot_testing_and_cachingmemoization/,2024-12-16 23:25:28,15,0.81,15,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1hfwri1
+Python,Py-Cachify 2.0 - Distributed Locks and Handy Caching Decorators,"**What My Project Does**
+
+Py-Cachify is a robust caching and locking library for Python applications. I recently published a significant 2.0 update introducing several improvements, including enhanced locking versatility, revamped documentation, automatically attachable helper methods, and more. This library simplifies the implementation of caching and locking, offering decorators to easily integrate these features into your code.
+
+
+**Target Audience**
+
+This library is ideal for developers looking to optimize their Python applications, whether for production use or personal projects. Its features cater to both novice and experienced Python developers.
+
+
+**Comparison**
+
+Py-Cachify focuses on the simplicity of cache and lock implementations, prioritizing ease and flexibility of use in any app over complex caching/locking strategies. One of its standout features is dynamic key generation based on function signatures without any external dependency, allowing you to cache function results with context-aware keys.
+
+Additionally, it works in both synchronous and asynchronous environments and is fully type-annotated for enhanced IDE support.
+
+
+The source code is on **[GitHub](https://github.com/EzyGang/py-cachify)**.
+
+The new documentation is **[here](https://py-cachify.readthedocs.io/latest/)**.
+
+Feedback and feature requests are appreciated!",Galtozzy,1hftk6a,https://reddit.com/r/Python/comments/1hftk6a/pycachify_20_distributed_locks_and_handy_caching/,https://www.reddit.com/r/Python/comments/1hftk6a/pycachify_20_distributed_locks_and_handy_caching/,2024-12-16 21:06:05,15,0.83,15,0,4,0,0,False,False,True,False,False,Showcase,self,t3_1hftk6a
+Python,Summarized how the CIA writes Python,"I have been going through Wikileaks and exploring Python usage within the CIA.
+
+They have coding standards and write Python software with end-user guides.
+
+They also have some curious ways of doing things, tests for example.
+
+They also like to work in internet-disconnected environments.
+
+They based their conventions on a modified Google Python Style Guide, with practical advice.
+
+Compiled [my findings](https://compileralchemy.substack.com/p/how-the-cia-writes-python).
+
+",appinv,1hez6qa,https://reddit.com/r/Python/comments/1hez6qa/summarized_how_the_cia_writes_python/,https://www.reddit.com/r/Python/comments/1hez6qa/summarized_how_the_cia_writes_python/,2024-12-15 18:43:03,991,0.93,991,0,92,0,0,False,False,True,False,False,News,self,t3_1hez6qa
+Python,Tuesday Daily Thread: Advanced questions,"# Weekly Wednesday Thread: Advanced Questions 🐍
+
+Dive deep into Python with our Advanced Questions thread! This space is reserved for questions about more advanced Python topics, frameworks, and best practices.
+
+## How it Works:
+
+1. **Ask Away**: Post your advanced Python questions here.
+2. **Expert Insights**: Get answers from experienced developers.
+3. **Resource Pool**: Share or discover tutorials, articles, and tips.
+
+## Guidelines:
+
+* This thread is for **advanced questions only**. Beginner questions are welcome in our [Daily Beginner Thread](#daily-beginner-thread-link) every Thursday.
+* Questions that are not advanced may be removed and redirected to the appropriate thread.
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **How can you implement a custom memory allocator in Python?**
+2. **What are the best practices for optimizing Cython code for heavy numerical computations?**
+3. **How do you set up a multi-threaded architecture using Python's Global Interpreter Lock (GIL)?**
+4. **Can you explain the intricacies of metaclasses and how they influence object-oriented design in Python?**
+5. **How would you go about implementing a distributed task queue using Celery and RabbitMQ?**
+6. **What are some advanced use-cases for Python's decorators?**
+7. **How can you achieve real-time data streaming in Python with WebSockets?**
+8. **What are the performance implications of using native Python data structures vs NumPy arrays for large-scale data?**
+9. **Best practices for securing a Flask (or similar) REST API with OAuth 2.0?**
+10. **What are the best practices for using Python in a microservices architecture? (..and more generally, should I even use microservices?)**
+
+Let's deepen our Python knowledge together. Happy coding! 🌟",AutoModerator,1hfxi6n,https://reddit.com/r/Python/comments/1hfxi6n/tuesday_daily_thread_advanced_questions/,https://www.reddit.com/r/Python/comments/1hfxi6n/tuesday_daily_thread_advanced_questions/,2024-12-17 00:00:09,3,0.67,3,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hfxi6n

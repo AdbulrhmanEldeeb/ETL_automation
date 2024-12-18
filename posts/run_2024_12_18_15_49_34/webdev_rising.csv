@@ -1,0 +1,183 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,How much hours for how much payment if I'm a fresher?,How much do we get paid and how many hours do we need to work if I'm freelancing in web development and a fresher?,Autumn_Red_29,1hh2xbx,https://reddit.com/r/webdev/comments/1hh2xbx/how_much_hours_for_how_much_payment_if_im_a/,https://www.reddit.com/r/webdev/comments/1hh2xbx/how_much_hours_for_how_much_payment_if_im_a/,2024-12-18 14:37:26,0,0.15,0,0,16,0,0,False,False,True,False,False,,self,t3_1hh2xbx
+webdev,Need your opinion ,"I've been tasked with creating a single-page website for a musician to showcase their music. As a developer, my focus lies more in building and coding than in intricate design.
+In the past, I considered using a WordPress theme, customizing it to fit the musician's needs. However, recent concerns regarding WordPress's stability and maintenance have made me reconsider this approach.
+
+I'm seeking recommendations for alternative platforms that offer a more manageable backend and CMS-like features. Ideally, I'm looking for a solution that simplifies the process of uploading and managing music files while maintaining a user-friendly interface.
+",Guilty-Caramel157,1hh3kk6,https://reddit.com/r/webdev/comments/1hh3kk6/need_your_opinion/,https://www.reddit.com/r/webdev/comments/1hh3kk6/need_your_opinion/,2024-12-18 15:08:11,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1hh3kk6
+webdev,Need help with displaying rows of text (repost cause I didn't add the text),"https://preview.redd.it/0157ggt9em7e1.png?width=887&amp;format=png&amp;auto=webp&amp;s=59e01ab94bcd4cf2d6d119fa21fa7b563b139b37
+
+My previous post didn't include the text (I switched from the Text to the Image tab while making a new post without checking to readd the text) so I'm making a new one to fix it! 
+
+Sorry for all the inconveniences that I've caused!
+
+I'm currently making a typing test website.
+
+The words to be typed are formatted as a string of words in a box. I want to it so that when the user finishes typing a line, that line moves up, leaving space for the next lines.
+
+I am currently using -webkit-line-clamp and overflow: hidden to force only 3 lines of text to show but I don't know how to detect when the user finishes typing a line.
+
+I am thinking about whenever the user submits a word with ""Spacebar"", I check if the next word can fit into current line; if not, do the logic.
+
+But I don't know where to start tackling this technically.
+
+Any help is appreciated!
+
+Again sorry y'all and thank you for reading!",PotHeadCGV,1hh370e,https://reddit.com/r/webdev/comments/1hh370e/need_help_with_displaying_rows_of_text_repost/,https://www.reddit.com/r/webdev/comments/1hh370e/need_help_with_displaying_rows_of_text_repost/,2024-12-18 14:50:33,2,1.0,2,0,0,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/8u7cVOdwxoSrinnqnaGe8Q9ehXuQtE5zT6c5DuoywFg.jpg,t3_1hh370e
+webdev,"Github Wrapped (unnofficial) - Year in Code. Built using reactjs, chakra ui and framer motion ",,gabrielandrew_,1hh130l,https://reddit.com/r/webdev/comments/1hh130l/github_wrapped_unnofficial_year_in_code_built/,https://i.redd.it/osjqh92wul7e1.png,2024-12-18 13:01:37,72,0.79,72,0,23,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/ZI8eaOpYlj7aNTWgY6RIUKamO3-kZxqTXXLfK9thetg.jpg,t3_1hh130l
+webdev,How much should I be paying my web developer?,"I am currently working on a cooking website, which is an online recipe book which hosts a variety of recipes, each with a video tutorial on how to make it. There will be around 300 recipes. The webdev is thinking of using Supabase for the backend, nextjs for the front end and an external video host like Vimeo for the videos. It also needs to handle accounts and payments (stripe) as it is a membership service. He has all the UX UI wireframes already. What will be a reasonable price to ask for this to be developed? But more importantly how long would this be expected to take?
+
+Edit - I’m Leaning away from Wordpress since I see this as more of a SaaS web app compared to a static blog that hosts recipes. It’s more of an educational site where users learn specific skills in cooking through recipes which range through easy to hard. It won’t be completely static in the sense that it will be interactive through giving the user the ability to filter recipe difficulty, type, cuisine etc. So like a hybrid cooking course style site but much less structured. I want the webdev to code a dynamic system where adding recipes is easy (apparently this is called a CMS?) so that they do not have to be entered manually each time after new content is added. ",Elegant_Locksmith_62,1hgz66h,https://reddit.com/r/webdev/comments/1hgz66h/how_much_should_i_be_paying_my_web_developer/,https://www.reddit.com/r/webdev/comments/1hgz66h/how_much_should_i_be_paying_my_web_developer/,2024-12-18 10:57:28,38,0.8,38,0,68,0,0,False,False,True,False,False,,self,t3_1hgz66h
+webdev,Library for Transparent Data Encryption in MySQL Using OpenSSL,,Due-Muscle4532,1hgx870,https://reddit.com/r/webdev/comments/1hgx870/library_for_transparent_data_encryption_in_mysql/,https://github.com/white-rabbit-1-sketch/mysql-openssl,2024-12-18 08:23:51,16,0.83,16,0,5,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/iQabwd-xFoZlzYtPa8xJfNC9eB4m6C7IMSxgBiFa-xU.jpg,t3_1hgx870
+webdev,Secret santa gift ideas for a Web dev,"I'm doing a secret santa with some friends and I've left it way too late and I need some ideas! Budget is £30 and I'm buying for a friend who recently started a career in Web dev so I want to get him some stuff related to that. Any ideas appreciated, either useful or funny ones.",AnonymousBanana7,1hh018z,https://reddit.com/r/webdev/comments/1hh018z/secret_santa_gift_ideas_for_a_web_dev/,https://www.reddit.com/r/webdev/comments/1hh018z/secret_santa_gift_ideas_for_a_web_dev/,2024-12-18 11:59:38,8,0.9,8,0,28,0,0,False,False,True,False,False,,self,t3_1hh018z
+webdev,Why does everyone make things that exist?,"I see a lot of startups going into the hype cycle, which is understandable. But I also see so many webapps for resource planning, retrospectives etc. It’s either that, some AI thing, SaaS or something related to DevOps.
+
+I see all this through ads or just looking at some local startups in my city.
+
+Why does everyone want to make tools for making things instead of making a product in itself?
+
+Seems everyone is selling shovels for other shovel selling businesses. Have we gone mad",kakemot,1hgadsd,https://reddit.com/r/webdev/comments/1hgadsd/why_does_everyone_make_things_that_exist/,https://www.reddit.com/r/webdev/comments/1hgadsd/why_does_everyone_make_things_that_exist/,2024-12-17 13:16:30,296,0.9,296,0,99,0,0,False,False,True,False,False,,self,t3_1hgadsd
+webdev,Amazon's Seller Central tech stack and team,"What do they use? The create listing page makes even gaming computers freeze. Type too rapidly on the fields, you have to restart the computer. Straight up shows ""out of memory"" message on lower spec PCs.
+
+I mean, are they firing 500 requests a minute or what? I know they have to check everything on the fly, but makes me question if they're debouncing the calls and everything, preventing unnecessary re-renders, detecting memory leaks..
+
+A quick search shows they use react and redux. But so does the rest of the world, so I don't think the technology is to blame.
+
+Where's the team located that maintains seller central? I hope someone notices this and gets their act together. This has to be one of the worst performing webapps I've used in a while.
+
+I'm part of multiple Amazon seller groups, and so many people complain about this.
+
+If anyone here works on this webapp, maybe you can share some insider scoop about why/how this application became like this. Sometimes it's hasty tech migration, sometimes spaghetti code, or bad practices, or lack of testing, or even political reasons like outsourcing to the wrong team,.... often more than one factor.
+",anonperson2021,1hgzepk,https://reddit.com/r/webdev/comments/1hgzepk/amazons_seller_central_tech_stack_and_team/,https://www.reddit.com/r/webdev/comments/1hgzepk/amazons_seller_central_tech_stack_and_team/,2024-12-18 11:14:13,4,0.84,4,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hgzepk
+webdev,What are your honest opinions on JAMstack?,"In my perspective it's one of the best stack, it's simple, require less tools, less dependencies, etc. 
+
+But I want to hear from others so I can gain more perspective.",ThaisaGuilford,1hh06gi,https://reddit.com/r/webdev/comments/1hh06gi/what_are_your_honest_opinions_on_jamstack/,https://www.reddit.com/r/webdev/comments/1hh06gi/what_are_your_honest_opinions_on_jamstack/,2024-12-18 12:07:46,4,0.61,4,0,52,0,0,False,False,True,False,False,Discussion,self,t3_1hh06gi
+webdev,"Do you prefer to buy a web domain as a physical person (i.e., name.surname@gmail.com with a private card) or a business (i.e., name.surname@business.com with a business card)?","Hey, I'm staring a business and I'm wondering if is it better to buy a domain as a physical person and keep it there or rather buy it through the company card and have the business own it? What are the pros and cons of the approaches from your perspective and how do you do it?",canarysplit,1hh1t12,https://reddit.com/r/webdev/comments/1hh1t12/do_you_prefer_to_buy_a_web_domain_as_a_physical/,https://www.reddit.com/r/webdev/comments/1hh1t12/do_you_prefer_to_buy_a_web_domain_as_a_physical/,2024-12-18 13:40:45,3,0.64,3,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1hh1t12
+webdev,Generation and usage of API keys,"Hi,
+
+I'm building an application where I have users purchase access to my API. The plan is to hand out API-keys to the users, the API-keys will have scope a reduced scope to only allow the API key to access certain API routes depending on what level they have purchases for example:
+
+- free
+- basic
+- pro
+
+I'm currently on AWS, and I haven't found a good service to handle API-keys. I would love to use a 3rd party solution for API-key management. The alternative is to build something myself and use a lambda authorizer in the API-gateway to query a database and look up the permissions for the API-key.
+
+Thankful for any recommendation :)",muffa,1hh1rqc,https://reddit.com/r/webdev/comments/1hh1rqc/generation_and_usage_of_api_keys/,https://www.reddit.com/r/webdev/comments/1hh1rqc/generation_and_usage_of_api_keys/,2024-12-18 13:38:48,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1hh1rqc
+webdev,Which browser(s) are getting this SVG behavior wrong?,"I have a StackOverflow question with a reproduction case at [Different results based on browser when drawing an SVG Icon](https://stackoverflow.com/questions/79272220/different-results-based-on-browser-when-drawing-an-svg-icon?noredirect=1#comment139813434_79272220)
+
+
+Basically, when an SVG doesn't have a defined width and height, it will be drawn differently based on browser.
+
+
+I reported this to OpenLayers ( [#16485](https://github.com/openlayers/openlayers/issues/16485) ) and they responded:
+
+
+
+&gt; The svg is missing width and height properties. Browsers handle things differently when those are missing. This is not something we can influence in the library.
+
+
+
+I am curious if a bug report should be filed or if browsers are free to implement this behavior anyway they like. If there is a specification for the behavior of browsers, I would be curious to know where that can be found.",Obvious-Ebb-7780,1hh0noh,https://reddit.com/r/webdev/comments/1hh0noh/which_browsers_are_getting_this_svg_behavior_wrong/,https://www.reddit.com/r/webdev/comments/1hh0noh/which_browsers_are_getting_this_svg_behavior_wrong/,2024-12-18 12:37:21,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1hh0noh
+webdev,How to make just one flexbox child to align at the end of cross axis when wrap is on. ,"[The webpage](https://preview.redd.it/1eyvgq7smm7e1.png?width=1479&amp;format=png&amp;auto=webp&amp;s=13cd2bb73ad2938ff89561ceb55d14c713a733a6)
+
+In this I am using flexbox in which the main container spanning whole page is `#start` spanning the entire page. Inside it there are three containers the longer box(with width 100%), the shorter box (width 40%) and the green box. The greenbox is `#start .controls` . Currently with my code, the green box's actual position is in place of red box. But I want it to be at green box's position but the rest of the black boxes should stay in it's place. Here's my code:
+
+    #start {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: center;
+    }
+
+    #start .controls {
+        width: 40%;
+    }",Valoruz,1hh4f5j,https://reddit.com/r/webdev/comments/1hh4f5j/how_to_make_just_one_flexbox_child_to_align_at/,https://www.reddit.com/r/webdev/comments/1hh4f5j/how_to_make_just_one_flexbox_child_to_align_at/,2024-12-18 15:47:37,1,1.0,1,0,1,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/k7V0GYhpMmeKShlH7O0BZ3Xb05eR8nda-nlQt5Nwm4g.jpg,t3_1hh4f5j
+webdev,"Storecraft CLI can generate a javascript commerce backend (works with any database, storage and compute)","Here is a [demo](https://youtu.be/Io_-lOrY8V4)
+
+
+
+https://preview.redd.it/piky3ucunm7e1.png?width=2544&amp;format=png&amp;auto=webp&amp;s=39e7d3ea3ccd96beb480c8f228066561cebd312f
+
+  
+",hendrixstring,1hh4bwv,https://reddit.com/r/webdev/comments/1hh4bwv/storecraft_cli_can_generate_a_javascript_commerce/,https://www.reddit.com/r/webdev/comments/1hh4bwv/storecraft_cli_can_generate_a_javascript_commerce/,2024-12-18 15:43:36,1,1.0,1,0,0,0,0,False,False,True,False,False,News,https://b.thumbs.redditmedia.com/nSFwuFq_Ls8jm4s-AsZkm_gQNitFEY65oX1XUVnuOHo.jpg,t3_1hh4bwv
+webdev,Title and subtitle among the most clicked elements,"[Clarity screenshot](https://preview.redd.it/3n9tah9kil7e1.png?width=1402&amp;format=png&amp;auto=webp&amp;s=b5b9a267c2785854b0c636e3c9ee6dc3e75231ff)
+
+I have recently installed Clarity to better monitor what is happening on this site.
+
+But is it normal that the title and subtitle in the hero section are among the most clicked elements?
+
+Does this happen to you too?
+
+It doesn't seem to be common practice to put a link on these elements... or am I wrong?",TheViolaCode,1hgzytk,https://reddit.com/r/webdev/comments/1hgzytk/title_and_subtitle_among_the_most_clicked_elements/,https://www.reddit.com/r/webdev/comments/1hgzytk/title_and_subtitle_among_the_most_clicked_elements/,2024-12-18 11:54:58,2,1.0,2,0,4,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/x2uZnUOvu9SI267N32XWT4zA6BzCTX0qIgbdDBNiA_c.jpg,t3_1hgzytk
+webdev,Why does using a styled component break the menu anchor?,"Hello, I am new to Material UI (MUI) and Styled Components and I am can't figure out why the following is happening.
+
+**The Problem**
+
+I have this very basic menu in my navbar basically copied from the MUI docs:
+
+    &lt;div style={{ display: ""inline"", 
+                  textAlign: ""right"", 
+                  float: ""right"", 
+                  padding: ""3px 0 0 0"" }}
+    &gt;
+        &lt;Button
+          style={{ padding: 0, color: ""white"" }}
+          id=""basic-button""
+          aria-controls={open ? 'basic-menu' : undefined}
+          aria-haspopup=""true""
+          aria-expanded={open ? 'true' : undefined}
+          onClick={handleClick}
+        &gt;
+          Welcome {props.firstName} {props.lastName}
+          &lt;ArrowDropDownIcon style={{ paddingBottom: ""1px"" }} /&gt;
+        &lt;/Button&gt;
+        &lt;Menu
+          id=""basic-menu""
+          anchorEl={anchorEl}
+          open={open}
+          onClose={handleClose}
+          MenuListProps={{'aria-labelledby': 'basic-button'}}
+        &gt;
+          &lt;MenuItem onClick={handleClose}&gt;User Profile&lt;/MenuItem&gt;
+          &lt;MenuItem onClick={handleClose}&gt;Logout&lt;/MenuItem&gt;
+        &lt;/Menu&gt;
+    &lt;/div&gt;
+
+This works exactly as you'd expect it to. Clicking on the button opens the menu and the menu is anchored to the bottom of the button.
+
+But by changing this to a styled div, as follows:
+
+        const StyledContainer = styled('div')({
+            display: ""inline"", 
+            textAlign: ""right"", 
+            float: ""right"", 
+            padding: ""3px 0 0 0""
+        });
+
+    &lt;StyledContainer&gt;
+        &lt;Button
+          style={{ padding: 0, color: ""white"" }}
+          id=""basic-button""
+          aria-controls={open ? 'basic-menu' : undefined}
+          aria-haspopup=""true""
+          aria-expanded={open ? 'true' : undefined}
+          onClick={handleClick}
+        &gt;
+          Welcome {props.firstName} {props.lastName}
+          &lt;ArrowDropDownIcon style={{ paddingBottom: ""1px"" }} /&gt;
+        &lt;/Button&gt;
+        &lt;Menu
+          id=""basic-menu""
+          anchorEl={anchorEl}
+          open={open}
+          onClose={handleClose}
+          MenuListProps={{'aria-labelledby': 'basic-button'}}
+        &gt;
+          &lt;MenuItem onClick={handleClose}&gt;User Profile&lt;/MenuItem&gt;
+          &lt;MenuItem onClick={handleClose}&gt;Logout&lt;/MenuItem&gt;
+        &lt;/Menu&gt;
+    &lt;/StyledContainer&gt;
+
+This change now causes the menu to open on the far left of the screen when clicking the button (the button is on the far right of the screen). I have tried to look in the MUI docs and have searched Stack Overflow for why this might be happening but I can't figure it out. Thank you in advance for the assistance.",somewut_anonymous,1hh3ys3,https://reddit.com/r/webdev/comments/1hh3ys3/why_does_using_a_styled_component_break_the_menu/,https://www.reddit.com/r/webdev/comments/1hh3ys3/why_does_using_a_styled_component_break_the_menu/,2024-12-18 15:27:02,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hh3ys3
+webdev,API request logging built for privacy and performance,,itssimon86,1hgziga,https://reddit.com/r/webdev/comments/1hgziga/api_request_logging_built_for_privacy_and/,https://apitally.io/blog/request-log-release-announcement,2024-12-18 11:22:08,2,1.0,2,0,3,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/B-P16rEFLiCqYTo4vZJFUHaMHYkE5gsOVvMMumGY8dc.jpg,t3_1hgziga
