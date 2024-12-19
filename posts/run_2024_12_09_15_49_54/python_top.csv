@@ -1,0 +1,491 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,"Deply 0.5.1 Released: New Collectors, 10x Performance Boost, and Stronger Architectural Rules","Hello everyone,
+
+It's Archil again, checking in from Wrocław, Poland. I'm excited to announce the release of Deply 0.5.1, an updated version of my Python tool for enforcing architectural patterns and dependencies in larger codebases. I've noticed steady downloads since the previous post, and I'm genuinely grateful to everyone who has tried Deply or provided feedback.
+
+# What My Project Does
+
+For those new here [here is my previous post](https://www.reddit.com/r/Python/comments/1gthdpy/deply_keep_your_python_architecture_clean/), Deply analyzes your code structure and verifies that your Python project adheres to a defined architecture. You specify layers, set rules, and Deply enforces them—helping maintain clean, modular, and maintainable code as your project grows.
+
+# Target Audience
+
+Ideal for developers and teams building medium to large Python applications who need to maintain clear, enforceable architectural boundaries. It also suits those aiming to teach or learn best practices.
+
+# Comparison to Other Tools
+
+• **pydeps:**
+
+*Focus:* Visualization of dependencies
+
+*Comparison:* pydeps provides a visual map of imports, helping you understand how parts of your code relate. Deply goes further by actively enforcing rules on these dependencies, ensuring that your project structure adheres to architectural guidelines instead of merely displaying it.
+
+• **import-linter:**
+
+*Focus:* Import-based dependency constraints
+
+*Comparison:* import-linter is excellent for managing import hierarchies and preventing forbidden dependencies. Deply builds on this approach by supporting additional collectors (class inheritance, decorators, file patterns) and more complex rules, making it easier to define rich architectural standards beyond imports.
+
+• **pytest-archon:**
+
+*Focus:* Architectural checks integrated into pytest
+
+*Comparison:* pytest-archon provides Pythonic tests for architectural constraints. While it’s great for projects already using pytest, Deply is a standalone tool that can integrate with any CI pipeline or workflow. Deply’s configuration-driven approach and broader set of collectors and rules allow for more flexible and layered architecture definitions.
+
+• **pytestarch:**
+
+*Focus:* ArchUnit-inspired checks for Python using pytest
+
+*Comparison:* pytestarch mimics the style of Java’s ArchUnit, letting you write tests for architectural constraints. Deply’s YAML configuration and layer-based modeling approach differ by providing a domain-specific language for architecture, reducing the need to write code-based tests and offering more straightforward integration for non-test environments.
+
+• **Tach (Rust-based):**
+
+*Focus:* Architecture checks written in Rust
+
+*Comparison:* Tach brings a Rust-based perspective on architecture enforcement. Deply, being Python-native, integrates more seamlessly into Python ecosystems. Deply also provides Python-specific collectors and is tailored for Python’s dynamic nature, whereas Tach, being language-agnostic and built in Rust, may require additional steps or adaptations for Python-specific patterns.
+
+• **ArchUnit (Java-focused):**
+
+*Focus:* Architecture rules for Java codebases
+
+*Comparison:* ArchUnit excels at defining and enforcing architecture rules in Java projects. Deply serves a similar purpose but is designed specifically for Python’s idioms and ecosystems. Deply’s flexible configuration and Python-oriented collectors cater directly to Python developers’ needs, whereas ArchUnit remains tied closely to Java’s conventions.
+
+# What's New in 0.5.1?
+
+1. **New Collectors** More versatile collectors now let you define conditions for class and function selection with greater precision, making it easier to adapt Deply to your specific frameworks and coding patterns.
+2. **10x Performance Improvement** We've significantly optimized the analysis process. Deply now runs about 10 times faster than the first version, ensuring that integrating it into your CI/CD pipelines won't slow you down.
+3. **Extended Rule Set** From inheritance and naming conventions to decorator usage, the enhanced rule system provides finer control over maintaining architectural integrity.
+
+# Example: Simple Django API Views and Models Layer Checker
+
+    deply:
+      paths:
+        - /Users/a.abuladze/pinup/pinup-teams/pinup_teams
+    
+      exclude_files:
+        - "".*\\.venv/.*""
+    
+      layers:
+        - name: models
+          collectors:
+            - type: bool
+              any_of:
+                - type: class_inherits
+                  base_class: ""django.db.models.Model""
+                - type: class_inherits
+                  base_class: ""django.contrib.auth.models.AbstractUser""
+    
+        - name: views
+          collectors:
+            - type: file_regex
+              regex: "".*/views_api.py""
+    
+      ruleset:
+        views:
+          disallow_layer_dependencies:
+            - models
+          enforce_function_decorator_usage:
+            - type: bool
+              any_of:
+                - type: bool
+                  must:
+                    - type: function_decorator_name_regex
+                      decorator_name_regex: ""^HasPerm$""
+                    - type: function_decorator_name_regex
+                      decorator_name_regex: ""^extend_schema$""
+                - type: function_decorator_name_regex
+                  decorator_name_regex: ""^staticmethod$""
+
+**What this does:**
+
+* Ensures that your views\_api.py file belongs to the views layer and can't depend on models.
+* Requires view functions to use certain decorators (**HasPerm** and **extend\_schema** together, or **staticmethod** as a fallback).
+
+&gt;*Note: These examples are not calls to action; they're hypothetical and depend entirely on your project's structure, architecture, and your team's preferences.*
+
+# Additional Examples
+
+# Class Naming Rule:
+
+    service:
+      enforce_class_naming:
+        - type: class_name_regex
+          class_name_regex: "".*Service""
+
+Classes in the service layer must have names ending with Service.
+
+# Function Naming Rule:
+
+    tasks:
+      enforce_function_naming:
+        - type: function_name_regex
+          function_name_regex: ""task_.*""
+
+Functions in the tasks layer must start with task\_.
+
+Again, these are just hypothetical configurations. Every team and project has different needs, so you can tailor Deply's rules to fit your unique architectural guidelines.
+
+# Rules Overview
+
+* `disallow_layer_dependencies`: Prevent certain layers from referencing other layers.
+* `enforce_function_decorator_usage`: Ensure functions use specified decorators.
+* `enforce_class_decorator_usage`: Require classes to have certain decorators.
+* `enforce_class_naming`: Enforce naming conventions for classes.
+* `enforce_function_naming`: Enforce naming conventions for functions.
+* `enforce_inheritance`: Ensure that classes inherit from specified base classes.
+* `bool` rules (must, any\_of, must\_not): Combine multiple conditions for complex logic.
+
+# Collectors Overview
+
+* `bool`: Combine other collectors with logical conditions (must, any\_of, must\_not).
+* `class_inherits`: Select classes that inherit from a given base class.
+* `class_name_regex`: Select classes matching a specific regex pattern.
+* `function_name_regex`: Select functions matching a specific regex pattern.
+* `decorator_usage`: Select classes or functions based on their decorators.
+* `directory`: Select elements (classes, functions, variables) from specific directories.
+* `file_regex`: Select elements from files that match a given regex pattern.
+
+# Check the README
+
+For detailed explanations, usage guides, and more examples, please visit the Deply GitHub Repository and check out the README.
+
+# Links
+
+* **GitHub**: [https://github.com/Vashkatsi/deply](https://github.com/Vashkatsi/deply)
+* **PyPI**: [https://pypi.org/project/deply/](https://pypi.org/project/deply/)
+
+Thank you all for your support and interest! I'm looking forward to your feedback and contributions. Your involvement helps shape Deply into a stronger, more valuable tool for the community.
+
+**Happy coding!**",vashkatsi,1h9qjjj,https://reddit.com/r/Python/comments/1h9qjjj/deply_051_released_new_collectors_10x_performance/,https://www.reddit.com/r/Python/comments/1h9qjjj/deply_051_released_new_collectors_10x_performance/,2024-12-08 19:24:36,51,0.9,51,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h9qjjj
+Python,Convert Figma design into Python code,"🔗 Link — [https://github.com/axorax/tkforge](https://github.com/axorax/tkforge)
+
+# What My Project Does
+
+TkForge is a Python app that allows you to turn your Figma design into Python tkinter code. So, you can make a GUI design in Figma and use specific names like ""textbox"", ""circle"", ""image"" and more for interactable elements then use TkForge to get the code for a fully functional working GUI app from your design.
+
+And it's **free, open-source** and regularly maintained!
+
+# Target Audience
+
+TkForge is made for anyone who wants to make a GUI with Python easily and efficiently. It's fast and you can make some really complex and beautiful GUI's with it.
+
+# Comparison
+
+There's another project similar to TkForge called Tkinter Designer. Personally without being biased, I think TkForge is better. TkForge supports everything Tkinter Designer does and more. TkForge generates better code, supports more elements, allows you to add placeholder text (which you can't by default in tkinter), automatically sets foreground color and a lot more! Placeholder text and foreground color generation is a bit buggy though.  I use TkForge for most of my tkinter projects. You can get help in the Discord server.
+
+# Updates
+
+I updated the app to support multiple frames, fixed a lot of previous bugs and added checks for new updates!
+
+Thanks for reading! 😄",axorax,1ha47wt,https://reddit.com/r/Python/comments/1ha47wt/convert_figma_design_into_python_code/,https://www.reddit.com/r/Python/comments/1ha47wt/convert_figma_design_into_python_code/,2024-12-09 07:10:06,22,0.82,22,0,7,0,0,False,False,True,False,False,Showcase,self,t3_1ha47wt
+Python,Sharing Smoke Simulation Project I have Been Working On,"Hello all, I have been working on this project for quite some time and found it to be very useful for my task as a software engineer trying to build Computer Vision applications. My daily job involves working with smokey images and finding models but getting smokey images on demand was not possible and hence I came up with an idea to make a simulator. I modified the existing solution from [bijection/smoke.js](https://github.com/bijection/smoke.js) and implemented it with Python.
+
+Links:
+
+* GitHub Repo: [https://github.com/q-viper/SmokeSim/](https://github.com/q-viper/SmokeSim/)
+* Demo: [https://q-viper.github.io/SmokeSim/](https://q-viper.github.io/SmokeSim/) (This demo is from only the JavaScript Version.)
+
+## What My Project Does
+
+It simulates a reproducible smoke image using PyGame. The property of the smoke and its particles can be controlled by the properties like size, velocity, lifetime, color, etc. In addition to that, this package can act as an image augmentation and can return the overlayed smoke mask, overlayed image, and smoke too.
+
+## Target Audience
+
+The main target audience would be anyone who is working on Computer Vision projects or image augmentation and looking for a cool way to increase training images. However, anyone who is interested in building something fun with Python and collaboration might find it interesting.
+
+## Comparison
+
+There are packages like Torchvision and Albumentations and this feature of simulating and overlaying a smoke on top of the image is not implemented there. While my little work is not huge to be compared with such tools, I smoke simulation useful.
+
+Edit: Typos",Acceptable_Candy881,1h9t8r7,https://reddit.com/r/Python/comments/1h9t8r7/sharing_smoke_simulation_project_i_have_been/,https://www.reddit.com/r/Python/comments/1h9t8r7/sharing_smoke_simulation_project_i_have_been/,2024-12-08 21:24:28,16,0.84,16,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1h9t8r7
+Python,ARM Native Python execution time higher than x64 Python?,"I am running below python code X Elite Surface Laptop 7. With python x64 and arm64 (3.11.8)  
+I get below execution speeds:
+
+x64: 28.32 seconds  
+arm64: 33.34 seconds
+
+I have run it multiple times, I get similar values. I was expecting native python to run much faster than emulated python.  
+What am I missing? Also please point to different sub if needed.
+
+    import time
+    import math
+    
+    def calculate_pi(iterations):
+    pi = 0
+    for i in range(iterations):
+    pi += 4 * (-1)**i / (2 * i + 1)
+    return pi
+    
+    if __name__ == ""__main__"":
+    iterations = 100000000
+    start_time = time.time()
+    pi_value = calculate_pi(iterations)
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f""Pi value: {pi_value}"")
+    print(f""Elapsed time: {elapsed_time:.2f} seconds"")
+
+I am running below python code on X Elite Surface Laptop 7.  
+With python x64 and arm64 (3.11.8), I get below execution speeds:
+
+x64: 28.32 seconds  
+arm64: 33.34 seconds
+
+I have run it multiple times, I get similar values.  
+I was expecting native python to run much faster than emulated python. What am I missing? Also please point to different sub if needed.
+
+    import time
+    import math
+    
+    def calculate_pi(iterations):
+    pi = 0
+    for i in range(iterations):
+    pi += 4 * (-1)**i / (2 * i + 1)
+    return pi
+    
+    if __name__ == ""__main__"":
+    iterations = 100000000
+    start_time = time.time()
+    pi_value = calculate_pi(iterations)
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f""Pi value: {pi_value}"")
+    print(f""Elapsed time: {elapsed_time:.2f} seconds"")
+
+Another code (Matrix Multiplication) seems to be doing a lot better  
+x64:5 runs using timeit: 11.6211 seconds  
+arm64:  5 runs using timeit: 6.3276 seconds
+
+Edit: Added another testing done with matrix multiplication which uses only standard python library.
+
+    import time
+    import timeit
+    import sys
+    import platform
+    from typing import Callable
+    import random
+    
+    def pure_matrix_multiplication(size: int = 300):
+        """"""
+        Perform matrix multiplication using pure Python lists.
+        
+        Args:
+            size (int): Size of the square matrices to multiply
+        
+        Returns:
+            float: Total computation time
+        """"""
+        # Create matrices with random float values
+        def create_matrix(size):
+            return [[random.uniform(0, 1) for _ in range(size)] for _ in range(size)]
+        
+        # Create two random matrices
+        a = create_matrix(size)
+        b = create_matrix(size)
+        
+        # Perform matrix multiplication
+        def matrix_multiply(x, y):
+            # Transpose b for more efficient column access
+            y_t = list(map(list, zip(*y)))
+            
+            # Preallocate result matrix
+            result = [[0.0 for _ in range(len(y_t))] for _ in range(len(x))]
+            
+            # Multiply matrices
+            for i in range(len(x)):
+                for j in range(len(y_t)):
+                    result[i][j] = sum(x[i][k] * y_t[j][k] for k in range(len(x[0])))
+            
+            return result
+        
+        # Measure matrix multiplication time
+        start_time = time.time()
+        _ = matrix_multiply(a, b)
+        end_time = time.time()
+        
+        return end_time - start_time
+    
+    def benchmark_function(func: Callable, iterations: int = 5):
+        """"""
+        Run a benchmark function multiple times and calculate statistics.
+        
+        Args:
+            func (Callable): Function to benchmark
+            iterations (int): Number of times to run the benchmark
+        
+        Returns:
+            dict: Benchmark statistics
+        """"""
+        times = []
+        for _ in range(iterations):
+            exec_time = func()
+            times.append(exec_time)
+        
+        return {
+            'mean_time': sum(times) / len(times),
+            'min_time': min(times),
+            'max_time': max(times),
+            'iterations': iterations
+        }
+    
+    def print_system_info():
+        """"""Print detailed system information.""""""
+        print(f""Python Version: {sys.version}"")
+        print(f""Platform: {platform.platform()}"")
+        print(f""Architecture: {platform.architecture()[0]}"")
+        print(f""Machine: {platform.machine()}"")
+        
+    def main():
+        print(""Python Emulation Overhead Benchmark"")
+        print(""-"" * 40)
+        
+        # Print system information
+        print_system_info()
+        
+        # Benchmark matrix multiplication
+        print(""\nRunning Matrix Multiplication Benchmark..."")
+        benchmark_results = benchmark_function(pure_matrix_multiplication)
+        
+        print(""\nBenchmark Results:"")
+        for key, value in benchmark_results.items():
+            print(f""{key}: {value}"")
+    
+        # Optional: More detailed timing using timeit
+        print(""\nTimeit Detailed Profiling:"")
+        detailed_time = timeit.timeit(
+            stmt='pure_matrix_multiplication()',
+            setup='from __main__ import pure_matrix_multiplication',
+            number=5
+        )
+        print(f""Total time for 5 runs using timeit: {detailed_time:.4f} seconds"")
+    
+    if __name__ == ""__main__"":
+        main()",star_lord007,1h9o1ed,https://reddit.com/r/Python/comments/1h9o1ed/arm_native_python_execution_time_higher_than_x64/,https://www.reddit.com/r/Python/comments/1h9o1ed/arm_native_python_execution_time_higher_than_x64/,2024-12-08 17:35:43,9,0.7,9,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h9o1ed
+Python,Create a complete WORD SEARCH BOOK with a single click.,"# [BOOP (Book Of Organized Puzzles)](https://github.com/Muneer320/BOOP)
+
+# Description
+
+BOOP is a Python-based automation project that generates a fully personalized puzzle book. With just a list of words as input, it creates a complete PDF with title pages, index pages, word search puzzles, and solutions.
+
+Why did I make this? Honestly:
+
+1. I was bored and needed something fun to work on.
+2. I already had a script that could make word search puzzles, so I thought, ""Why not take it up a notch?""
+3. I’ve always wanted to write a book but lack the intellectual supremacy to do so. This project seemed like the next best thing!
+
+# Links
+
+* [Sample PDF Output](https://drive.google.com/file/d/1KkbCUuIuO8hmeHavUyO8e90r4qIQCxPc)
+* [GitHub Repository](https://github.com/Muneer320/BOOP)
+
+# What My Project Does
+
+* **Word Search Puzzles**: Generates 17 puzzles per topic, categorized into Normal, Hard, and Bonus modes.
+   * Normal: 10 puzzles (13x13 grid).
+   * Hard: 5 puzzles (17x17 grid).
+   * Bonus: 2 challenging puzzles.
+* **Fully Designed Book**: Includes title pages, a detailed index, puzzle pages, and solution pages.
+* **Automation**: Users only need to input a list of 200 words per topic; the script handles everything else.
+
+# Target Audience
+
+* Puzzle enthusiasts looking for custom-made puzzle books.
+* Educators creating engaging learning materials.
+* Developers interested in Python-based automation projects.
+
+# Comparison to Other Tools
+
+Unlike existing puzzle generation tools that often require manual input and separate design efforts, BOOP automates the entire process—from generating puzzles to compiling them into a polished, ready-to-print PDF. It’s an all-in-one solution for creating professional-quality puzzle books.
+
+# Extra Details
+
+BOOP started as just another random project, but it taught me a lot along the way. I learned about handling PDFs in Python, the importance of using different file formats for various tasks, and discovered many dos and don'ts that only hands-on experience can teach. It’s been an incredibly fun and rewarding journey!
+
+# Conclusion
+
+BOOP makes puzzle book creation easy, fun, and entirely automated. Whether you’re an educator, puzzle fan, or a developer looking to explore automation, this project has something for you. Check it out on GitHub and let me know your thoughts!",Either-Let-331,1ha82ex,https://reddit.com/r/Python/comments/1ha82ex/create_a_complete_word_search_book_with_a_single/,https://www.reddit.com/r/Python/comments/1ha82ex/create_a_complete_word_search_book_with_a_single/,2024-12-09 11:55:33,8,0.75,8,0,4,0,0,False,False,True,False,False,Showcase,self,t3_1ha82ex
+Python,Udemy Fred's Python 3 course vs. GT Computing in Python course,"I am an average Python programmer (I can do some OOP and simple scripts, but nothing really advanced) and wanted to improve my skills. I have narrowed down my Python resources to two courses, both in four parts: 
+
+1. [Fred Baptiste Udemy course on Python 3](https://www.udemy.com/course/python-3-deep-dive-part-1/) (in four parts)
+
+2. [Georgia Tech Computing in Python course](https://www.edx.org/learn/python/the-georgia-institute-of-technology-computing-in-python-i-fundamentals-and-procedural-programming?webview=false&amp;campaign=Computing+in+Python+I%3A+Fundamentals+and+Procedural+Programming&amp;product_category=course&amp;placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fgtx) (in four parts, too)
+
+My employer should be able to reimburse both, so money is not an issue here - the question is which one would you suggest to choose to actually improve my Python skills and practice coding along the way? Meaning learning, but also implementing new concepts (so that they stick)? I assume the Georgia Tech is a nicer certificate to have (which is a plus for sure), but curious about actual content. Thanks so much!",absurdherowaw,1ha7o5n,https://reddit.com/r/Python/comments/1ha7o5n/udemy_freds_python_3_course_vs_gt_computing_in/,https://www.reddit.com/r/Python/comments/1ha7o5n/udemy_freds_python_3_course_vs_gt_computing_in/,2024-12-09 11:29:42,3,0.67,3,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1ha7o5n
+Python,Monday Daily Thread: Project ideas!,"# Weekly Thread: Project Ideas 💡
+
+Welcome to our weekly Project Ideas thread! Whether you're a newbie looking for a first project or an expert seeking a new challenge, this is the place for you.
+
+## How it Works:
+
+1. **Suggest a Project**: Comment your project idea—be it beginner-friendly or advanced.
+2. **Build &amp; Share**: If you complete a project, reply to the original comment, share your experience, and attach your source code.
+3. **Explore**: Looking for ideas? Check out Al Sweigart's [""The Big Book of Small Python Projects""](https://www.amazon.com/Big-Book-Small-Python-Programming/dp/1718501242) for inspiration.
+
+## Guidelines:
+
+* Clearly state the difficulty level.
+* Provide a brief description and, if possible, outline the tech stack.
+* Feel free to link to tutorials or resources that might help.
+
+# Example Submissions:
+
+## Project Idea: Chatbot
+
+**Difficulty**: Intermediate
+
+**Tech Stack**: Python, NLP, Flask/FastAPI/Litestar 
+
+**Description**: Create a chatbot that can answer FAQs for a website.
+
+**Resources**: [Building a Chatbot with Python](https://www.youtube.com/watch?v=a37BL0stIuM)
+
+# Project Idea: Weather Dashboard
+
+**Difficulty**: Beginner
+
+**Tech Stack**: HTML, CSS, JavaScript, API
+
+**Description**: Build a dashboard that displays real-time weather information using a weather API.
+
+**Resources**: [Weather API Tutorial](https://www.youtube.com/watch?v=9P5MY_2i7K8)
+
+## Project Idea: File Organizer
+
+**Difficulty**: Beginner
+
+**Tech Stack**: Python, File I/O
+
+**Description**: Create a script that organizes files in a directory into sub-folders based on file type.
+
+**Resources**: [Automate the Boring Stuff: Organizing Files](https://automatetheboringstuff.com/2e/chapter9/)
+
+Let's help each other grow. Happy coding! 🌟",AutoModerator,1h9wkuk,https://reddit.com/r/Python/comments/1h9wkuk/monday_daily_thread_project_ideas/,https://www.reddit.com/r/Python/comments/1h9wkuk/monday_daily_thread_project_ideas/,2024-12-09 00:00:08,3,0.72,3,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h9wkuk
+Python,Introducing PyKick: A Python Project Generator for PowerShell,"**Hello everyone,**
+
+Even with the intention of sharing, it's always a bit stressful to expose personal work to the community =}
+
+But well... Maybe someone has the same question or need as I did, so with that in mind, I'm sharing my modest work done during my free time in the evenings (when the whole family is asleep =D) As you can see, besides the templates, there isn't anything particularly special – PyKick does what it needs to do and voilà – unit tests were the most time-consuming, as always (the PowerShell module was quick to write).
+
+# What My Project Does
+
+PyKick is an installable PowerShell module (or can be sourced otherwise) that quickly generates a new Python project with Git management, a virtual environment, and Sphinx documentation (if requested). In my Python projects, I need CLI exposure. Therefore, the generated Python project is immediately functional (a `pip install .` results in a CLI providing package information and version - the structure is here, just to complete)
+
+PyKick doesn't aim to replace anything. Not finding something that met my needs, I ended up writing it without realizing it =}
+
+# Target Audience
+
+I think it's quite clear =þ
+
+* If you are a developer or need a Python project generator with Git version control, isolated virtual environment, and documentation, etc.
+* Especially if you work with PowerShell
+
+PyKick can assist you.
+
+# Comparison
+
+I don't think comparison is relevant as the goal and environment are not identical... If a comparison is necessary, then PyKick is a Python project generator that works on PowerShell.
+
+# GitHub Repo: [https://github.com/KaminoU/pykick](https://github.com/KaminoU/pykick)
+
+Thank you for any feedback you might have.
+
+Cheers",K4minoU,1ha65l9,https://reddit.com/r/Python/comments/1ha65l9/introducing_pykick_a_python_project_generator_for/,https://www.reddit.com/r/Python/comments/1ha65l9/introducing_pykick_a_python_project_generator_for/,2024-12-09 09:37:19,2,0.6,2,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1ha65l9

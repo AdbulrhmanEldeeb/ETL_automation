@@ -1,0 +1,382 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,What coding concept will you never understand?,"I’ve been coding at an educational level for 7 years and industry level for 1.5 years.
+
+I’m still not that great but there are some concepts, no matter how many times and how well they’re explained that I will NEVER understand.
+
+Which coding concepts (if any) do you feel like you’ll never understand? Hopefully we can get some answers today 🤣",SeatInternational830,1hclgrz,https://reddit.com/r/learnprogramming/comments/1hclgrz/what_coding_concept_will_you_never_understand/,https://www.reddit.com/r/learnprogramming/comments/1hclgrz/what_coding_concept_will_you_never_understand/,2024-12-12 13:48:38,51,0.92,51,0,188,0,0,False,False,True,False,False,Topic,,t3_1hclgrz
+learnprogramming,"Your goal isn't to understand everything, it is to develop the skills to be able to understand anything","Here's a mistake I see newbies make all the time - thinking that either a) they have to understand everything, or b) the only stuff they need to be able to understand is the stuff they're currently doing. Both are wrong.
+
+There's too much out there for anyone to understand everything. I've been doing this for over 30 years, and I know what I know is just a drop in the bucket compared to all there is to know.
+
+*But* I am confident that I *could* understand almost any code/library/system within a certain threshold of difficulty - there's some really really hard stuff that maybe is beyond most developers, but for everything else I know that even if I don't know it now, I could learn it if I had to. How long it'd take me to get up to speed will vary by how close it is to my existing knowledge - learning Yet Another Frontend Library I can probably do pretty fast, but getting up to speed on an ancient Cobol codebase might take me much longer since I've never touched Cobol before. But I'm dead certain I could do it even if took me awhile.
+
+That's your end goal. You can't learn everything. This is why just memorizing code doesn't work, and why tutorial hell doesn't help you grow. The skills you need to develop are problem solving skills, learning how to learn, and how to generate abstractions in your mind.
+
+I think a big signal that you've passed from ""learner"" to ""programmer"" is how a lot of people look at libraries. A lot of learners look at libraries and go ""this is a magic box that does things I'd never be capable of doing"", whereas after awhile...well, you'll have written a lot of libraries yourself, so you *know* you could do most of the stuff the library does you're just like ""thank god someone else already wrote this so I don't have to spend the next week/month/year/decade doing it myself"".
+
+**You'll never be done learning** \- this is a bad field to get into if you don't enjoy constantly learning. But, if you keep hacking away at it, you will get to a point where you lose that ""Am I capable of understanding this?"" doubt and instead start asking ""Do I *have time* to understand this?"" instead and realize you just have to pick and choose where you spend your time as you learn new things.",PoMoAnachro,1hc0w8o,https://reddit.com/r/learnprogramming/comments/1hc0w8o/your_goal_isnt_to_understand_everything_it_is_to/,https://www.reddit.com/r/learnprogramming/comments/1hc0w8o/your_goal_isnt_to_understand_everything_it_is_to/,2024-12-11 18:53:17,423,0.99,423,0,27,0,0,False,False,True,False,False,,,t3_1hc0w8o
+learnprogramming,Should I switch majors? ,"I love computer science, but I failed my first semester, and my advisor said that's the easiest. She didn't mean it with malice, but her words did hurt me. She said I could choose a less math-oriented, less technical major where things would be easier. 
+
+  
+I love computer science, and I absolutely love the material, I loved math before too, but it was a challenge to get a decent grade. I barely passed, and my study advisor was concerned and said that most people who are bad at math and failed their first semester don't get past the first year. I feel bad for telling her no, I am going to try, and that ""I could always try"" and bullshit like ""I believe in myself"".
+
+  
+She's right, isn't she?",Far_Dream3337,1hcln7y,https://reddit.com/r/learnprogramming/comments/1hcln7y/should_i_switch_majors/,https://www.reddit.com/r/learnprogramming/comments/1hcln7y/should_i_switch_majors/,2024-12-12 13:57:57,8,0.9,8,0,25,0,0,False,False,True,False,False,,,t3_1hcln7y
+learnprogramming,"""As a 2nd-Year IT Student, Is It Normal to Not Understand How Everything Works?""","I'm a second-year IT student, and while I know how things function (e.g., LAN, VLAN, basics of Linux, etc.), I often feel like I don’t deeply understand how everything works under the hood. For example:
+
+I don’t know how the internet actually works—like, when I buy 5GB of data, what even is that? Light? Electromagnetic waves?
+
+
+Is it normal for even experts not to understand everything happening under the screen? Or are professionals just more focused on making things work on the surface? Should I be worried about this lack of deeper understanding?
+
+Any advice or similar experiences would be helpful!",Nashb7_69,1hcfodh,https://reddit.com/r/learnprogramming/comments/1hcfodh/as_a_2ndyear_it_student_is_it_normal_to_not/,https://www.reddit.com/r/learnprogramming/comments/1hcfodh/as_a_2ndyear_it_student_is_it_normal_to_not/,2024-12-12 07:14:02,23,0.93,23,0,34,0,0,False,False,True,False,False,,,t3_1hcfodh
+learnprogramming,How to actually get good at programming,"## What Programming is About
+
+In my view, programming has two main components: problem
+solving (including debugging) and system design (a.k.a.
+architecture). Problem solving is figuring out how to get the
+computer to do what you want it to do. Practicing Leetcode is
+practicing problem solving. But Leetcode tends to be a certain
+kind of problem solving, that is more focused on math and
+algorithms than regular day-to-day problem solving is. You
+don't necessarily need to be super good at Leetcode to be a
+decent programmer. (Small rant: An algorithm, by the way, is not
+just any program, or piece of a program. An algorithm is a
+description of how to solve a well-defined problem (like
+sorting), that is guaranteed to work every time, in finite time.
+""The Youtube algorithm"", for example, is a poor use of the word,
+since it does not solve a well-defined problem. If you study
+algorithms, you will see that things called algorithms, for
+example ""Dijkstra's algorithm"", have these properties.)
+
+System design is about putting a lot of parts together into a
+big system without making an unmaintainable mess. It's all about
+eliminating complexity. What is complexity? It's when the parts
+or aspects of something are intertwined (or complected) such
+that they are not independent. Let me give you an example.
+Imagine you want to buy 5 eggs. But at the store they only sell
+eggs in packs of 12. Now you have a problem, because you need to
+buy 7 more than you wanted. This is because the product eggs has
+been complected with the amount 12. I hope you see that the
+problem here stems from things not being independent. And
+unless you can intuit it, let me tell you that complexity always
+leads to problems---it is always bad. Let me repeat something I
+said earlier, but you might not have thought much about: System
+design *is about eliminating complexity, nothing more*. The
+SOLID principles, for example, are all special cases of
+eliminating complexity. [Here is a brilliant, important talk on simplicity that
+you should watch religiously.](https://www.youtube.com/watch?v=SxdOUGdseq4)
+
+While problem solving is essential, system design is almost more
+important. Why? Because most hard problems you will run into
+have already been solved, like problems with text searching,
+graphs, databases, network protocols, etc. If you just know the
+terminology you can google your way to solutions to all hard and
+reasonably common problems. But you need to be decent at problem
+solving, so you can solve most of your own day-to-day problems
+yourself. But a lot of people get to a decent level at problem
+solving. What sets programmers apart is mostly system design,
+and you can't solve system design problems as easily by
+googling.
+
+Notice that I have not said anything about memorizing a certain
+language or framework. Sure, you need to know at least one
+language, but that's not what programming is about. Learning a
+framework is easy once you know how to program.
+
+## How to Get Good at Programming
+
+Getting good at programming is mostly about practice (I'll get
+to the ""mostly"" part later). This should be obvious, but
+apparently it is not, given the amount of posts I see here about
+watching tutorials, memorizing languages and frameworks, and
+people wanting to be told how to do things. But you can't learn
+programming by being told how to do it, in the same way that you
+can't learn to play chess well by being told how to do it.
+That's why chess engines are AI programs that practice against
+themselves or other AI programs; a programmer and a chess grand
+master can not sit down and explain how to do it (i.e. program
+it).
+
+So as a beginner, what do you do? You learn a language from a
+book or proper course (not Youtube). While learning a language
+you should solve small problems and experiment yourself. The
+book or course hopefully has exercises. When you have done that
+you move on to projects. With projects you will practice both
+problem solving and system design. If you feel stuck, there are
+only two solutions you should consider (if you actually learned
+the language); *think harder, or choose an easier project*.
+Don't look for someone to tell you how to do it. And don't give
+up too easily. You should think about your problems for at least
+a few hours before giving up; maybe even days if the problem is
+that you can't figure out how to begin with your first project.
+Sure, if the problem you can't figure out is just a small part
+of a project, you may ask for help, but you should think about
+it for at least a few hours yourself first. [Here is a great
+take on this from Nathan
+Marz.](http://nathanmarz.com/blog/recipe-for-a-great-programmer.html)
+
+Having said all this, it can of course be invaluable to learn
+from other people. You should read books, watch conference
+talks, try new paradigms, etc. (not Youtube garbage like tutorials or
+""Best languages to learn in 2024""). But only a small part of your
+time, say maximum 10%, should be spent on this.
+
+I should probably say something more about tutorials. Tutorials
+are fine if you are trying to learn a new library, game engine,
+or something; when there is a new part of a project you are
+doing that you have not done before, and you need to get
+started. Written tutorials are often better than Youtube
+videos, and often the best ones are just the ""Getting Started""
+sections on the official websites. But don't watch tutorials for
+the purpose of learning how to do everything in your project.
+
+Finally: Think for yourself. This is general life advice, and
+should be applied to programming as well. Don't do something,
+for example OOP, or whatever, just because someone else told you
+to. If you don't understand the reasons behind something, ignore
+it or try to figure out the reasons and evaluate them.
+
+## What Language Should I learn?
+
+It doesn't really matter, because once you know how to program
+learning new languages will be much easier. But there are a
+couple of traps to look out for. Firstly, learn one thing at a
+time. This is mostly a problem in the web development world,
+where people feel the need to learn HTML, JavaScript, CSS, and a
+couple of frameworks all at once. Don't do this. Stick to one
+thing, like JavaScript with just the very basics of HTML.
+Learning a bunch of things at the same time will likely just
+lead to an illusion of compentence. Secondly,
+I think C++ should be avoided, because it is by far the most
+complicated, complex and time-consuming language out there. You
+may think that you want to learn C++ because a lot of games are
+made with it, but I think it's a waste of time. [Here is a game
+programmer who actually uses C++ ranting about it (Bjarne
+Stroustroup, whom he talks about, is the main designer of
+C++).](https://www.youtube.com/watch?v=1i4-e1okZtw) And Jonathan
+Blow, a successful game programmer who made *Braid* and *The
+Witness*, is making a new language because he thought C++ was
+bad. Imagine that, C++ drove him to make a new language. [Here
+is a short clip of him discussing
+it.](https://www.youtube.com/watch?v=lFmBa_2_TjU). At 02:11 in
+the video he says ""Let's actually do what we know is better than
+this C++ thing. And there is an unending list of things that you
+could do better."" Note his facial expression.
+
+One final thing I'll say about languages is: *Don't believe a
+language is good just because it is popular*. Almost the opposite
+is true. And almost all popular languages are very similar to
+each other. That can easily make you think that the kind of
+programming that is typical in those languages (C, Java, Python,
+etc.) is the only way to program, but that is not true. Try
+Lisp, Smalltalk, Erlang, Prolog, etc. at least eventually. [And watch
+this very important video.](https://www.youtube.com/watch?v=8pTEmbeENF4)",jackstawfromwitchita,1hc936v,https://reddit.com/r/learnprogramming/comments/1hc936v/how_to_actually_get_good_at_programming/,https://www.reddit.com/r/learnprogramming/comments/1hc936v/how_to_actually_get_good_at_programming/,2024-12-12 00:54:35,68,0.86,68,0,32,0,0,False,False,True,False,False,Resource,,t3_1hc936v
+learnprogramming,How does game development compare to other programming fields? ,"I was just curious to see if anyone’s done both, work as a SWE with ex python analytics and game development. How do the different work environments compare and what are the biggest differences?",0hleg,1hclrd3,https://reddit.com/r/learnprogramming/comments/1hclrd3/how_does_game_development_compare_to_other/,https://www.reddit.com/r/learnprogramming/comments/1hclrd3/how_does_game_development_compare_to_other/,2024-12-12 14:03:23,3,1.0,3,0,1,0,0,False,False,True,False,False,Topic,,t3_1hclrd3
+learnprogramming,I just learned about the power of clean code – Here's a tip that helped me improve my coding habits!,"I recently started focusing on writing clean, readable code, and it’s been a game-changer for me. One tip that really helped was using meaningful variable names and breaking up complex functions into smaller, reusable ones. It’s amazing how much easier it is to debug and maintain code now. What are some of your best tips for clean coding? Would love to hear your experiences!",i2r3,1hcnxs3,https://reddit.com/r/learnprogramming/comments/1hcnxs3/i_just_learned_about_the_power_of_clean_code/,https://www.reddit.com/r/learnprogramming/comments/1hcnxs3/i_just_learned_about_the_power_of_clean_code/,2024-12-12 15:46:32,2,0.75,2,0,2,0,0,False,False,True,False,False,,,t3_1hcnxs3
+learnprogramming,13 and wanting to become a software engineer (in the future),Hey i’m 13 and i’ve always been into tech but recently i’ve been wanting to code. I’ve been researching and i guess i found this place but i’m not sure where to start and what apps to use to learn. Please help any advice,Emotional-Door1713,1hc9xoa,https://reddit.com/r/learnprogramming/comments/1hc9xoa/13_and_wanting_to_become_a_software_engineer_in/,https://www.reddit.com/r/learnprogramming/comments/1hc9xoa/13_and_wanting_to_become_a_software_engineer_in/,2024-12-12 01:36:18,27,0.75,27,0,34,0,0,False,False,True,False,False,,,t3_1hc9xoa
+learnprogramming,Which programing language should i learn to make a website and send orders to a machine/robot,I am a complete newbie in coding i am starting with python and after i am finished learning pyhton I want to work on projects with my classmates so i what do i need to do? Thanks for your help.,Irem_OztrkOwO,1hcl3zt,https://reddit.com/r/learnprogramming/comments/1hcl3zt/which_programing_language_should_i_learn_to_make/,https://www.reddit.com/r/learnprogramming/comments/1hcl3zt/which_programing_language_should_i_learn_to_make/,2024-12-12 13:29:41,2,0.75,2,0,5,0,0,False,False,True,False,False,,,t3_1hcl3zt
+learnprogramming,Dining philosophers problem using a token ring and python.,"I am begging can someone help me code up this assignment?? I provide more detailed info about the assignment if someone is up for the task. Have tried for 2 days straight i cant get it to work. There is not a small thing that does not work, it is the whole program i dont know where to start.",Ok-Bus9035,1hco193,https://reddit.com/r/learnprogramming/comments/1hco193/dining_philosophers_problem_using_a_token_ring/,https://www.reddit.com/r/learnprogramming/comments/1hco193/dining_philosophers_problem_using_a_token_ring/,2024-12-12 15:50:46,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hco193
+learnprogramming,Help Needed with HTML Progress Bar Implementation,"Hi everyone,
+
+I'm not sure if this is the right place to post this but I'm really stuck trying to get my HTML progress bar to work as I intend. Specifically, I want the progress bar to move in sync with some cards, and I need both the orange bar and the numbers to update dynamically. Ideally, the progress bar should behave like it does in the video I've linked [What I am trying to achieve in the progress bar (video)](https://youtu.be/_wAiVwnAq24), but right now, it's transitioning in an unexpected way—moving up and down from the bottom of the screen and interfering with my cards [My progress bar demonstration (video)](https://youtu.be/ayEQ7qedrng).
+
+I've been experimenting with the code for the past three days, but I feel like I'm making things worse rather than better. I'm not sure how to describe all the changes I've made, but I’ve tried deleting code, adjusting margins, using transition: none, reorganizing the HTML structure, and more—but nothing seems to work.
+
+As a beginner in coding, I feel like this might be beyond my current skill level, but I’m eager to learn. If anyone can point me in the right direction, I’d really appreciate it. Below is some of the code I’m working with. If you need any more details, please let me know.
+
+Thanks so much for your help!
+
+[https://github.com/A33ie/Expanding-cards.git](https://github.com/A33ie/Expanding-cards.git)",Smooth-Gene3612,1hcjhva,https://reddit.com/r/learnprogramming/comments/1hcjhva/help_needed_with_html_progress_bar_implementation/,https://www.reddit.com/r/learnprogramming/comments/1hcjhva/help_needed_with_html_progress_bar_implementation/,2024-12-12 11:56:04,2,1.0,2,0,3,0,0,False,False,True,False,False,,,t3_1hcjhva
+learnprogramming,"I was given a Coursera subscription, are there any courses worth the time on there?","Looking for good resources related to programming (any languages), math or general software engineering subjects.",Snugglupagus,1hcnjo2,https://reddit.com/r/learnprogramming/comments/1hcnjo2/i_was_given_a_coursera_subscription_are_there_any/,https://www.reddit.com/r/learnprogramming/comments/1hcnjo2/i_was_given_a_coursera_subscription_are_there_any/,2024-12-12 15:28:35,1,1.0,1,0,2,0,0,False,False,True,False,False,Resource,,t3_1hcnjo2
+learnprogramming,"If forgetting syntax is normal, how do people code then?","I'm just really confused. 
+I've been sitting on a simple project, had a 2 month break because of other stuff. 
+Now that I've returned to my code I don't know what the fuck everything means. 
+Some people in other posts said it's normal to forget syntax, but then how do other people code effectively?
+Or do they just don't and spend hours on searching syntaxes?",ThrowRA__253,1hbtq9d,https://reddit.com/r/learnprogramming/comments/1hbtq9d/if_forgetting_syntax_is_normal_how_do_people_code/,https://www.reddit.com/r/learnprogramming/comments/1hbtq9d/if_forgetting_syntax_is_normal_how_do_people_code/,2024-12-11 13:42:32,115,0.85,115,0,147,0,0,False,False,True,False,False,,,t3_1hbtq9d
+learnprogramming,I have a problem in my merge sort assembly 8086,"
+The problem occurs when I use the LEA instruction followed by accessing memory within my merge sort algorithm. I expect to find the array at the specified address, but it's not there.
+The array elements are already present in memory, so I should be able to find them.
+When I tested this idea separately in a different code, it worked.
+However, here I can't reach the array, and this happens before performing any operations on it within the merge sort process.
+",Puzzleheaded-Lie5095,1hcnczw,https://reddit.com/r/learnprogramming/comments/1hcnczw/i_have_a_problem_in_my_merge_sort_assembly_8086/,https://www.reddit.com/r/learnprogramming/comments/1hcnczw/i_have_a_problem_in_my_merge_sort_assembly_8086/,2024-12-12 15:20:05,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hcnczw
+learnprogramming,"What exactly does ""experience and knowledge equivalent to a bachelors degree"" look like?","I'm a 19 year old programmer, who started programming in high school, I did about 3 years of computer science classes there, and it felt like decent progress, but the more I learned I naturally found there was more I still needed to learn. My main interest is game development, and I've dabbled around mostly in Godot.  
+  
+Afterwards, I went to college, tried to suffer through the prereqs, especially math and... The combination of struggling so hard in math even with assistance from tutors, and all of these other random classes I needed to take for general education was so draining. It felt like it sucked the little motivation I already had, and didn't leave any left for me to learn about the things I wanted to learn, like programming. I couldn't take it anymore, so I dropped out after a couple months into my second year.
+
+Most of my time programming since high school has been working on passion projects and game jams, sometimes with a few other people in a team. Admittedly, it feels like I've been less and less productive since high school when it comes to coding and learning. So stating I have 5 years of experience feels like a bit of an overselling.
+
+Right now, I'm at the stage of continuing my main passion project, and looking for jobs, hoping to start a programming related career. It is extremely discouraging, I hear so many people telling me I need to go back to college if I want a chance. I'm told there is no point because AI will take over my career path and at best raise the bar for skill I need for a job. I won't make good money unless I earn a degree. (my interest is not about making a lot of money) College is not an option, I was so unhappy there, I don't want to go back. I know its possible to learn on my own, but I feel directionless.
+
+Looking around at job postings, almost every position, whether its an internship or a job seems to require you to be pursuing a degree or graduating by a certain date. It's beginning to feel hopeless. Usually the best I can find is ""bachelors degree or equivalent experience and understanding"".
+
+How do I know if I have reached this level of understanding? What exactly am I expected to know and be good at? What do I need to do to get to this point? Where can I learn these things effectively? It doesn't help that I already doubt how capable I am, it feels like I start to learn and use a new language, and feel like I forgot everything when I go back to the language I used before. I get stuck on an issue or a bug, and I tell myself ""There's no way I'm ready for a job if I can't even figure this out"".
+
+tldr: what concepts/understanding/capabilities am I expected to know/have when I claim I have an equivalent experience and understanding to someone with bachelors degree? This goes for software and game development, I know they are likely different.  
+  
+Any insight would be greatly appreciated.",BradyntheNerd,1hch8gu,https://reddit.com/r/learnprogramming/comments/1hch8gu/what_exactly_does_experience_and_knowledge/,https://www.reddit.com/r/learnprogramming/comments/1hch8gu/what_exactly_does_experience_and_knowledge/,2024-12-12 09:13:48,3,0.67,3,0,10,0,0,False,False,True,False,False,,,t3_1hch8gu
+learnprogramming,Live server visual studio ,"I can’t find live server extension in visual studio 
+Do I have to install more workloads in visual studio I have only installed (desktop development with c++) 
+Or is there any alternative extension that u can use other than live server for web development ",vieps,1hcmeno,https://reddit.com/r/learnprogramming/comments/1hcmeno/live_server_visual_studio/,https://www.reddit.com/r/learnprogramming/comments/1hcmeno/live_server_visual_studio/,2024-12-12 14:35:11,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1hcmeno
+learnprogramming,Is There Any Free Courses Or Resources That Teach Math That Is Specific To Computer Science?,"I want to sharpen my skills specifically in maths, specifically and I want it to be relevant to computer science. I'm not looking for official certification, this is just something I'm doing for the sake of improving my skills. ",ImagineAUser,1hc5z0y,https://reddit.com/r/learnprogramming/comments/1hc5z0y/is_there_any_free_courses_or_resources_that_teach/,https://www.reddit.com/r/learnprogramming/comments/1hc5z0y/is_there_any_free_courses_or_resources_that_teach/,2024-12-11 22:27:51,17,0.85,17,0,11,0,0,False,False,True,False,False,Topic,,t3_1hc5z0y
+learnprogramming,Functional and non functional requirements ,Is there open source software links that has functional and non functional requirements? ,Aggressive_Fig_4077,1hcm3vv,https://reddit.com/r/learnprogramming/comments/1hcm3vv/functional_and_non_functional_requirements/,https://www.reddit.com/r/learnprogramming/comments/1hcm3vv/functional_and_non_functional_requirements/,2024-12-12 14:20:19,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hcm3vv
+learnprogramming,What to choose?,"Hi everybody, I’m 35 years old and I’m working as a UI Designer for the last 3 years. Nowadays I’m in a doubt if my job will be replaced by AI soon as there are lot of free tools for designing. So I was wondering if a change as a developer will be good, as I’m this much old, has no graduation and has no programming knowledge. And if I can then which language to choose which can give me a future proof job? ",ashrat_24,1hclg46,https://reddit.com/r/learnprogramming/comments/1hclg46/what_to_choose/,https://www.reddit.com/r/learnprogramming/comments/1hclg46/what_to_choose/,2024-12-12 13:47:38,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hclg46
+learnprogramming,Microsoft Dynamics 365 development Internship - What to focus on + tips and advice so that I will have transferrable skills for traditional SWE jobs/internships at the end? ,"Hello, everyone.
+
+Sorry if the question is off-topic for this topic. I thought it is relevant as it is related to my first development experience in a professional setting.
+
+I just got an offer for an internship(paid) in Microsoft Dynamics 365 development. I am a final year CS student.  
+The market being how it is where I am, I decided to take it as this will be my first industry internship and some experience can't hurt. I guess I will see if I like how it is but probably I will like to move to more traditional development at some point.
+
+I would like to maximise the amount of transferrable skills(Particularly tech/development skills) I get out of this internship in case I would like to pivot to a more traditional SWE job after graduation.  
+Any advice to that end?
+
+Thank you!",StupidInquisitor1779,1hcla95,https://reddit.com/r/learnprogramming/comments/1hcla95/microsoft_dynamics_365_development_internship/,https://www.reddit.com/r/learnprogramming/comments/1hcla95/microsoft_dynamics_365_development_internship/,2024-12-12 13:39:04,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hcla95
+learnprogramming,How do I make algorithms with specific time complexities like O(m^2 logn)?,I'm fine with mindlessly optimizing my algorithms and getting to the best optimized solution I can but when I'm asked to give algorithms with specific algorithms that aren't necessarily the most optimized (ex O(n^2 2^n) I get very stumped and don't know where to start. I feel the constraints are limiting me. How do I prepare for and answer such problems?,KrisKaydenKeenan,1hcl8pp,https://reddit.com/r/learnprogramming/comments/1hcl8pp/how_do_i_make_algorithms_with_specific_time/,https://www.reddit.com/r/learnprogramming/comments/1hcl8pp/how_do_i_make_algorithms_with_specific_time/,2024-12-12 13:36:45,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1hcl8pp
+learnprogramming,How Can I Convert Alberta LSD Coordinates to GPS (Latitude/Longitude)?,"Hi everyone,  
+I’m working on a project where I need to convert Alberta LSD (Legal Subdivision) coordinates into GPS coordinates (latitude and longitude).
+
+The format for LSD coordinates looks like this:  
+`4-5-6-7-W4`  
+Where:
+
+* **7** is the LSD number
+* **6** is the section number
+* **5** is the township
+* **4** is the range
+* **W4** is the Meridian
+
+I’m not entirely sure about the best way to do this conversion, especially in Python. Does anyone know of an algorithm or open-source library that can handle this? Or could someone help point me in the right direction?
+
+I’d really appreciate any help, advice, or resources on how to approach this problem. Thanks in advance!",dothecoolwip,1hcl4wq,https://reddit.com/r/learnprogramming/comments/1hcl4wq/how_can_i_convert_alberta_lsd_coordinates_to_gps/,https://www.reddit.com/r/learnprogramming/comments/1hcl4wq/how_can_i_convert_alberta_lsd_coordinates_to_gps/,2024-12-12 13:31:01,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hcl4wq
+learnprogramming,Advice for a novice ,"Hey, guys, 
+
+I've been learning Java for a month and a half now.  I've went through Types and Variables, Conditional Statements,Loops and just heard what Arrays are. To be honest, math was never a strong side of mine, I have not practised math in years. So I am solving problems to get in a bootcamp if I decide, but once I look at some problem if I can not solve it under 2-3 minutes, I just go to the solution, as I do not have an idea how to solve it.  May you advise if the problems are friendly for a novice with just over a month and let's say 1-2 hour 4-5 days a week of writting code or watching videos. As well, any tips on studying such as models for studying etc. 
+
+2 example loop problems:
+
+Write a program that reads from the console a positive integer number N and prints a matrix like in the examples below. Use two nested loops.
+
+# Input
+
+* The input will always consist of a single line, which contains the number N
+
+Bob and Elly.have very weird taste - their last idea of fun is calculating the ""distance"" that a word is from a given number. The distance is calculated by summing the position in the alphabet of each letter in the word and than finding the absolute difference between that word and another predefined number. You are a programmer so you must ruin their fun by automating the process.
+
+Examples:
+
+* word 'bob', number = 22, distance = 3 ('b' + 'o' + 'b' = 2 + 15 + 2 = 19)
+* word 'bob', number = 10, distance = 9
+
+Write a program that calculates the distance for each string and also outputs the average distance.
+
+# Input
+
+* The input consists of several lines.
+* **T** \- the target number
+* **N** \- the number of words to follow
+* on the next **N** lines - each word on a new line
+
+# Output
+
+* Output consists of **N + 1** lines
+* First N lines - word + its distance in format `word distance`
+* Last line - the average distance, rounded to two digits after the decimal point
+
+# Constraints
+
+* Each word consists of only uppercase and lowercase english alphabet letters
+* 1 &lt;= **N** &lt;= 20
+* 0 &lt;= **T** &lt;= 1000
+
+This are just examples which I find near impossible to solve as the theory in the course I do not find sufficient. What are your opinions about my situation?
+
+  
+",Repulsive_Stock_2823,1hcl0dh,https://reddit.com/r/learnprogramming/comments/1hcl0dh/advice_for_a_novice/,https://www.reddit.com/r/learnprogramming/comments/1hcl0dh/advice_for_a_novice/,2024-12-12 13:24:09,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1hcl0dh
+learnprogramming,I want to code a birthday gift for a friend of mine. Looking for fun or meaningful ideas,"My friend is a developer who motivated me to study coding.
+
+I want to either code one big thing or multiple smaller things, and I have 3 months and a week to do so.
+
+My current level? I was learning HTML, CSS, and JS. Took a React course and am currently learning Next.js. I began building a Notion web app clone (which is still in its early stages).
+
+So,I decided to code a birthday gift for him, and I am looking for ideas. In the meantime, an Idea I have is to build an interactive Venn Diagram (we have an inside joke about it because we both like it, and also, his nickname is Ben, so we often make silly jokes like Ben's diagram). 
+
+I want to use this opportunity to learn with the extra motivation of building something for someone I am close to.
+
+I am open to ideas.",Aromatic_File_5256,1hcksoo,https://reddit.com/r/learnprogramming/comments/1hcksoo/i_want_to_code_a_birthday_gift_for_a_friend_of/,https://www.reddit.com/r/learnprogramming/comments/1hcksoo/i_want_to_code_a_birthday_gift_for_a_friend_of/,2024-12-12 13:12:19,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1hcksoo
+learnprogramming,Help to solve this exercise,"**Efficient Container Stacking Algorithm - Practice Problem**
+
+I'm working on a problem related to algorithm design and would appreciate any help or suggestions. Here’s the scenario:
+
+In a commercial port, goods are transported in containers. When unloading a ship at the terminal, it's crucial to use the smallest possible surface area. To achieve this, the containers need to be stacked optimally.
+
+We have **N containers** (numbered from 1 to N), all with the same dimensions. For each container, we are given:
+
+1. Its **weight**.
+2. Its **maximum load capacity** (i.e., the total weight it can support on top of it).
+
+The goal is to stack as many containers as possible in a single pile while respecting these constraints:
+
+1. A container can only be placed directly on top of another.
+2. A container cannot be placed on top of another with a **larger serial number**.
+3. The total weight of all containers placed on top of a container cannot exceed that container’s **maximum load capacity**.
+
+# Input Format
+
+* The number of containers, **N** (1 ≤ N ≤ 800).
+* For each container, two integers: its **weight** (wᵢ ≤ 5000) and its **maximum load capacity** (cᵢ ≤ 5000).
+
+# Output Format
+
+* The **maximum number of containers** that can be stacked.
+* The **serial numbers** of the containers in ascending order that form the pile.
+
+# Example
+
+**Input:**
+
+    21  
+    168 157  
+    156 419  
+    182 79  
+    67 307  
+    8 389  
+    55 271  
+    95 251  
+    72 235  
+    190 366  
+    127 286  
+    28 242  
+    3 197  
+    27 321  
+    31 160  
+    199 87  
+    102 335  
+    12 209  
+    122 118  
+    58 308  
+    5 43  
+    3 84  
+    
+
+**Output:**
+
+    Number of containers: 13  
+    Container 2  
+    Container 4  
+    Container 5  
+    Container 6  
+    Container 8  
+    Container 11  
+    Container 12  
+    Container 13  
+    Container 14  
+    Container 17  
+    Container 19  
+    Container 20  
+    Container 21  
+    
+
+# Question
+
+What is the most efficient algorithm to solve this problem for values of **N** up to 800? Any advice or suggestions would be greatly appreciated!",MasterpieceHot218,1hckbws,https://reddit.com/r/learnprogramming/comments/1hckbws/help_to_solve_this_exercise/,https://www.reddit.com/r/learnprogramming/comments/1hckbws/help_to_solve_this_exercise/,2024-12-12 12:46:45,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1hckbws

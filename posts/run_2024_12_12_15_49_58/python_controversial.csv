@@ -1,0 +1,162 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python, Just started a course and am starting to learn. Need a small clarification.,"So i just got introduced to adding variables, and the fact that you cannot add variables of different types like string and intger. the tutorial said use explict conversion by str(varible), eg. print( ""your total is "" + str(total)). But I acheived the same result by using print( ""your total is "", (total)). 
+
+is this wrong or is there an advantage to using the conversion/",krithyk_2105,1hcj3d3,https://reddit.com/r/Python/comments/1hcj3d3/just_started_a_course_and_am_starting_to_learn/,https://www.reddit.com/r/Python/comments/1hcj3d3/just_started_a_course_and_am_starting_to_learn/,2024-12-12 11:29:26,3,0.6,3,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hcj3d3
+Python,Can ya suggest small-yet-serious webscraping portfolio project ideas?,"I wanna do a real project with Python and webscraping. Doesn't have to be big or fancy, nor bring me money, I just wanna take it seriously, reason being I wanna learn both python and webscraping.
+
+In case you wonder, I do have some serious projects on my bag, like a Unity game, an Api in Dotnet core, flutter and React apps. But with python, and webscraping, it'll be my first
+
+What is one of the easiest, simplest projects on the matter that'll give me valid experience on these subjects? Maybe not an exact idea, but types of ideas to do. Something that once complete someone can ask me ""hey can you work with this"" and I can say ""yes""?
+
+Asking partly because I asked ChatGPT yesterday and it said I could scrape LinkedIn, which is a hard no",Blender-Fan,1hc82by,https://reddit.com/r/Python/comments/1hc82by/can_ya_suggest_smallyetserious_webscraping/,https://www.reddit.com/r/Python/comments/1hc82by/can_ya_suggest_smallyetserious_webscraping/,2024-12-12 00:04:22,0,0.4,0,0,10,0,0,False,False,True,False,False,Meta,self,t3_1hc82by
+Python,Programming languages that compile to Python?,"All I'm aware of is [Coconut](https://coconut-lang.org/), which is a functional programming language that is essentially a superset of Python syntax. Are there any other languages like this?",jsonathan,1hchwjd,https://reddit.com/r/Python/comments/1hchwjd/programming_languages_that_compile_to_python/,https://www.reddit.com/r/Python/comments/1hchwjd/programming_languages_that_compile_to_python/,2024-12-12 10:05:45,4,0.6,4,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1hchwjd
+Python,is it wrong to use chatgpt to improve your code?,"I am trying to make a web scraper right now, I have been reading documentation/watching videos but i ran into a few errors so i plugged it into chatgpt to see what it had to say. I like the changes chatgpt made to my code and its stuff i really didn't know about. would it be wrong to just use the code chatgpt gave me? it's still my general concept but its more organized i suppose. 
+
+  
+I'm just wondering what you guys think about it.",Big-Suit-5540,1hcgov7,https://reddit.com/r/Python/comments/1hcgov7/is_it_wrong_to_use_chatgpt_to_improve_your_code/,https://www.reddit.com/r/Python/comments/1hcgov7/is_it_wrong_to_use_chatgpt_to_improve_your_code/,2024-12-12 08:30:21,0,0.3,0,0,21,0,0,False,False,True,False,False,Discussion,self,t3_1hcgov7
+Python,My first program I coded with Python!,"Hi r/python community! I finally completed my first program! You can find it here: [https://github.com/Phil-Carrier/lookilooki/](https://github.com/Phil-Carrier/lookilooki/) . I know it is unnecessary, but I'm proud I got it to work and I finally have something to waste my time with.
+
+**What my project does:**
+
+I drew an image of a head with Paint, then imported it into Python and made its unnaturally big nose always point to the mouse pointer. That's it.
+
+**Target audience:**
+
+Anyone who likes very unnecessary programs to waste their time.
+
+**Comparison:**
+
+I don't know about other projects.",Phil_Carrier,1hbxnsx,https://reddit.com/r/Python/comments/1hbxnsx/my_first_program_i_coded_with_python/,https://www.reddit.com/r/Python/comments/1hbxnsx/my_first_program_i_coded_with_python/,2024-12-11 16:40:25,31,0.77,31,0,7,0,0,False,False,True,False,False,Showcase,self,t3_1hbxnsx
+Python,Python telegram bot,"Hello
+So am trying to send a direct download link for a video using telegram library 
+And i found that the direct download link cant be used with send_video. 
+So any way to generate a preview link using the direct download link? ",Mr_N_01,1hcfw8q,https://reddit.com/r/Python/comments/1hcfw8q/python_telegram_bot/,https://www.reddit.com/r/Python/comments/1hcfw8q/python_telegram_bot/,2024-12-12 07:30:25,1,0.57,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hcfw8q
+Python,Looking to start a python bootcamp in IL around Schaumburg.,I am interested in practicing python consistently while also finds ngnew friends that have programming as a mutual interest with me. If anyone is interested in starting s club of sorts where we meet once a week during the weekends or smth and just throw code at the screen please let me know!,sntfrancisco91,1hc2wti,https://reddit.com/r/Python/comments/1hc2wti/looking_to_start_a_python_bootcamp_in_il_around/,https://www.reddit.com/r/Python/comments/1hc2wti/looking_to_start_a_python_bootcamp_in_il_around/,2024-12-11 20:17:01,0,0.35,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1hc2wti
+Python,Open-source Python Uno shuffler,"Hi r/Python community! I recently made an Uno shuffler program with python. You can fork it here: [https://github.com/LarryEmerson12/UnoShuffler/](https://github.com/LarryEmerson12/UnoShuffler). It simply just generates the whole Uno deck, and then shuffles it. You can shuffle it as many times as you want.
+
+**Target Audience:**
+
+You can implement it in your other projects.
+
+**Comparison:**
+
+I do not know about other projects.
+
+If there are any issues, feel free to comment.",Careful_Tea3877,1hcbfp7,https://reddit.com/r/Python/comments/1hcbfp7/opensource_python_uno_shuffler/,https://www.reddit.com/r/Python/comments/1hcbfp7/opensource_python_uno_shuffler/,2024-12-12 02:53:59,11,0.7,11,0,6,0,0,False,False,True,False,False,Showcase,self,t3_1hcbfp7
+Python,Mon interpréteur Python ne peut pas lire les .pyi,"Salut! j'ai un problème qui me viens, je pense, de mon interpereteur python... J'ai récemment voulus essayer Pygame, mais il me dit que que mes modules n'existe pas, alors même qu'ils ont bien présent. J'ai réussi à résoudre ce problème en passant l'extension de .pyi à .PY , mais quand je fait ça, je rencontre pliens de problème directement lier au code des modules pygame, comme si la personne qui l'avais dévelloper ne savais pas coder... j'ai corriger quelques erreurs, mais je ne pense pas être sur le bon chemin. Je vous ais résumer ma situation, je vous pose ma question : ais-je bien fait de passer les .pyi en .PY, ou bien il y as un autre moyen de faire marcher pygame?",Titionebe,1hcmt1d,https://reddit.com/r/Python/comments/1hcmt1d/mon_interpréteur_python_ne_peut_pas_lire_les_pyi/,https://www.reddit.com/r/Python/comments/1hcmt1d/mon_interpréteur_python_ne_peut_pas_lire_les_pyi/,2024-12-12 14:54:55,0,0.25,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hcmt1d
+Python,Open-source Python Time-wasters,"Hi r/Python community! I recently made an time waster program with python. You can fork it here: [https://github.com/LarryEmerson12/TimeWasters/](https://github.com/LarryEmerson12/TimeWasters/) It simply just shows some 0s, and then animates it. You can edit the speed at how you want.
+
+**Target Audience:**
+
+Use this when you're bored.
+
+**Comparison:**
+
+I do not know about other projects.
+
+If there are any issues, feel free to comment.",Careful_Tea3877,1hcgtrz,https://reddit.com/r/Python/comments/1hcgtrz/opensource_python_timewasters/,https://www.reddit.com/r/Python/comments/1hcgtrz/opensource_python_timewasters/,2024-12-12 08:41:49,15,0.77,15,0,10,0,0,False,False,True,False,False,Showcase,self,t3_1hcgtrz
+Python,My First Python Project: URL to NDEF Converter! 🎉,"Hi everyone,
+
+I’m thrilled to share my first Python project, **url2ndef**, a tool that converts URLs into NDEF (NFC Data Exchange Format) messages. You can use these messages to program NFC tags.
+
+GitHub: [url2ndef](https://github.com/brunoooost/url2ndef)
+
+# What My Project Does
+
+This script takes a URL as input and encodes it into the NDEF format, which is compatible with NFC-enabled devices. It’s a simple and lightweight way to prepare data for NFC tags, whether you’re working on IoT applications, marketing use cases, or just having fun with NFC tech.
+
+# Target Audience
+
+This is primarily a **learning project** but could also be useful for:
+
+* Beginners interested in Python or NFC tech.
+* Developers exploring NFC-related applications.
+* Hobbyists looking for a simple tool to work with NFC tags.
+
+It’s not production-ready, but I hope it can serve as a foundation or inspiration for others!
+
+# Comparison
+
+There are more advanced tools like NXP TagWriter or NFC Tools, but those are typically GUI-based and cater to broader use cases. **url2ndef** is purely a Python CLI script designed for simplicity and learning.
+
+This was a great learning experience for me, and I’d love to hear your feedback or suggestions for improvement. If you’re interested in NFC, let’s chat! Thanks for checking out my project. 😊",BST04,1hcjdg9,https://reddit.com/r/Python/comments/1hcjdg9/my_first_python_project_url_to_ndef_converter/,https://www.reddit.com/r/Python/comments/1hcjdg9/my_first_python_project_url_to_ndef_converter/,2024-12-12 11:48:05,4,0.83,4,0,4,0,0,False,False,True,False,False,Showcase,self,t3_1hcjdg9
+Python,Free Python IDE for Android with Pypi,"Blaze IDE for Python on Android is now released!
+
+https://play.google.com/store/apps/details?id=com.blaze.code&amp;hl=en_IN
+
+**Target Audience**
+Many students across the world have an interest for coding but they are not able to fulfill their dreams because they don't own a laptop or a computer.
+But no need to worry, because Blaze is here to solve the problem!
+
+Features of Blaze
+Runs via web so minimal ram requirements
+Pypi modules are supported (except gui)
+Fast code compiler
+Less than 15 mb app size
+
+Download &amp; Support
+Please support the initiative by giving ⭐⭐⭐⭐⭐ reviews! Hope you will love Blaze!
+
+**Comparisions**
+Other projects have atleast 300 mb storage while this is Just 15mb
+
+Tutorials
+https://github.com/techxsarthak/Blaze-code",sarthakdeveloper,1hcj48d,https://reddit.com/r/Python/comments/1hcj48d/free_python_ide_for_android_with_pypi/,https://www.reddit.com/r/Python/comments/1hcj48d/free_python_ide_for_android_with_pypi/,2024-12-12 11:31:00,10,0.92,10,0,9,0,0,False,False,True,False,False,Showcase,self,t3_1hcj48d
+Python,Python OCR for each element/section reading multiple details of multiple objects,"Hey I have a list of buttons underneath each other (sections). Each button has some details, pretty many different, I need to read some data with OCR, some with is image in that region,... I really struggle to find something reliable, anyone got any tips.  
+And please if you do not dont write, pytesseract is not the way to go here...",Tiny_Solid_3325,1hcgtlr,https://reddit.com/r/Python/comments/1hcgtlr/python_ocr_for_each_elementsection_reading/,https://www.reddit.com/r/Python/comments/1hcgtlr/python_ocr_for_each_elementsection_reading/,2024-12-12 08:41:27,7,0.77,7,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hcgtlr
+Python,"Polars, I'm confused","Hi, recently I read an article about Polars, that is ""blazingly fast"" and easier to read than pandas.   
+I tried to learn something converting a project from pandas to polars. I got confused. It's incredibly fast (for instance I read a big excel file: pandas 15 seconds, Polars 3) but I really got confused about it's readability. In pandas conversion to datetime took me a simple line like   
+`df.to_datetime(df['column'])`  
+
+
+whereas in polars:  
+
+
+`df = df.with_columns(`  
+`pl.col(""column"").str.strptime(pl.Date, ""%d/%m/%Y"").alias(""column"")`  
+`)`
+
+I don't know. Is this going to be the new standard?",December92_yt,1hbxwtl,https://reddit.com/r/Python/comments/1hbxwtl/polars_im_confused/,https://www.reddit.com/r/Python/comments/1hbxwtl/polars_im_confused/,2024-12-11 16:50:40,0,0.09,0,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1hbxwtl
+Python,python-json-logger has changed hands,"Hi r/python,
+
+I wanted to introduce myself as the new maintainer of [python-json-logger](https://pypi.org/project/python-json-logger/) and hopefully establish a bit of trust.
+
+Understandably there [has been some anxiety](https://github.com/madzak/python-json-logger/issues/187#issuecomment-2063184958) over the [PEP 541 Request ](https://github.com/pypi/support/issues/3607)that I submitted given the importance / popularity of the package -  especially in the context of the XZ Utils backdoor earlier in the year.
+
+I think it's important to highlight that although this was prompted by the PEP 541 request, it was not done through PEP 541 mechanisms. In other words this was a decision by the original maintainer and **not** the PyPI Administrators.
+
+For those wanting to know more about me (to prove that I'm not some statebased actor subverting the package), [I'm a security professional](https://www.linkedin.com/in/nicholas-hairs/) and [maintain a few other packages](https://github.com/nhairs). You might also have seen some of [my blog posts](https://www.nicholashairs.com/) on reddit.
+
+Finally apologies if the newly released versions broke your things - despite my best efforts at testing and maintaining backwards compatibility it appears [some bugs managed to slip through](https://github.com/nhairs/python-json-logger/issues/29).",nicholashairs,1hcm2rr,https://reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/,https://www.reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/,2024-12-12 14:18:50,19,1.0,19,0,0,0,0,False,False,True,False,False,News,self,t3_1hcm2rr
+Python,"Thursday Daily Thread: Python Careers, Courses, and Furthering Education!","# Weekly Thread: Professional Use, Jobs, and Education 🏢
+
+Welcome to this week's discussion on Python in the professional world! This is your spot to talk about job hunting, career growth, and educational resources in Python. Please note, this thread is **not for recruitment**.
+
+---
+
+## How it Works:
+
+1. **Career Talk**: Discuss using Python in your job, or the job market for Python roles.
+2. **Education Q&amp;A**: Ask or answer questions about Python courses, certifications, and educational resources.
+3. **Workplace Chat**: Share your experiences, challenges, or success stories about using Python professionally.
+
+---
+
+## Guidelines:
+
+- This thread is **not for recruitment**. For job postings, please see r/PythonJobs or the recruitment thread in the sidebar.
+- Keep discussions relevant to Python in the professional and educational context.
+  
+---
+
+## Example Topics:
+
+1. **Career Paths**: What kinds of roles are out there for Python developers?
+2. **Certifications**: Are Python certifications worth it?
+3. **Course Recommendations**: Any good advanced Python courses to recommend?
+4. **Workplace Tools**: What Python libraries are indispensable in your professional work?
+5. **Interview Tips**: What types of Python questions are commonly asked in interviews?
+
+---
+
+Let's help each other grow in our careers and education. Happy discussing! 🌟",AutoModerator,1hc7z1a,https://reddit.com/r/Python/comments/1hc7z1a/thursday_daily_thread_python_careers_courses_and/,https://www.reddit.com/r/Python/comments/1hc7z1a/thursday_daily_thread_python_careers_courses_and/,2024-12-12 00:00:09,1,0.67,1,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hc7z1a

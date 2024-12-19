@@ -1,0 +1,609 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,HS Freshman deciding what language to learn,"I have been learning python for about a week on coddy.tech but I have seen videos on TikTok saying that python isn’t a good starting language because you can’t really create with it. If so, what language should I learn?(I’ve heard that C, C++, and Java are good ones)",Outgrownkid,1h9d3wv,https://reddit.com/r/learnprogramming/comments/1h9d3wv/hs_freshman_deciding_what_language_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h9d3wv/hs_freshman_deciding_what_language_to_learn/,2024-12-08 06:52:45,0,0.43,0,0,15,0,0,False,False,True,False,False,Topic,,t3_1h9d3wv
+learnprogramming,Best Programming Language to learn for Maths,"I am thinking of going down a Pure maths path, and would like to ask what programming language is best to learn and gives the highest pay.
+Currently learning python, but only the very basics,  so don't mind changing at all.",Natural-Programmer63,1h9iq1z,https://reddit.com/r/learnprogramming/comments/1h9iq1z/best_programming_language_to_learn_for_maths/,https://www.reddit.com/r/learnprogramming/comments/1h9iq1z/best_programming_language_to_learn_for_maths/,2024-12-08 13:21:24,5,0.67,5,0,10,0,0,False,False,True,False,False,,,t3_1h9iq1z
+learnprogramming,Using an IDE to learn C++,"When the question ""How to learn C++?"" shows up online, one of the top answers always seems to be something along the lines of ""get an IDE"" or ""download MS Visual Studio"".
+
+VS was used in the college course that I followed when learning C++ and I'm relatively sure it slowed down my learning process by years. Specifying include search paths, libraries and their directories, compile options, etc. seemed all like black magic that you have to enter in the right menus.
+
+The right way seems glaringly obvious now... To learn C++, use Linux (or WSL on Windows) and whatever combination of compiler and editor, e.g. gcc + nano.
+
+At least during the first few weeks (or months) when learning about the basic syntax, header files, oop, templates and the STL, compile your code manually. Look at what the preprocessor produces, maybe even take a look at the created Assembly, run the linker manually. Once this gets too repetitive, switch to CMake to automate those building tasks.
+
+Then later, If you apply for a job at a place that uses a specific IDE, take a week to get familiar with it.
+
+I don't get why people recommend (and colleges use) Visual Studio for the purpose of learning.",pesky_jellyfish,1h8vpb7,https://reddit.com/r/learnprogramming/comments/1h8vpb7/using_an_ide_to_learn_c/,https://www.reddit.com/r/learnprogramming/comments/1h8vpb7/using_an_ide_to_learn_c/,2024-12-07 16:09:34,3,0.6,3,0,22,0,0,False,False,True,False,False,,,t3_1h8vpb7
+learnprogramming,I really want to be a developer ,Just venting also need advice I so badly want to be a developer like so badly I took a front-end web dev bootcamp two years ago I didn't build any projects I couldn't focus it was hard to grasp I didn't give it my all but I really want a fresh start to my journey and start over I don't have a degree imposter syndrome is kicking my butt where do I even start what platforms should I learn from I have ADHD I feel so stupid all the time like uggghhh I know it's possible with hard work I can get my foot in the door I just need some encouragement or advice anything helps thank you for listening.,hotpersonatwork,1h8z2q1,https://reddit.com/r/learnprogramming/comments/1h8z2q1/i_really_want_to_be_a_developer/,https://www.reddit.com/r/learnprogramming/comments/1h8z2q1/i_really_want_to_be_a_developer/,2024-12-07 18:41:21,61,0.76,61,0,48,0,0,False,False,True,False,False,,,t3_1h8z2q1
+learnprogramming,What projects do software engineers and data scientists do?,"Guys i am trying to decide between the two paths and i must pick one at the moment. Can you please tell me which tasks do they do on the job? The poi t is that i like coding basic stuff like a library or a to do list (but in C, not a website). I dont know if software engineering is like this on the job as well.
+
+If you have any advice to help me decide please feel free to share it!",Filippo295,1h983hy,https://reddit.com/r/learnprogramming/comments/1h983hy/what_projects_do_software_engineers_and_data/,https://www.reddit.com/r/learnprogramming/comments/1h983hy/what_projects_do_software_engineers_and_data/,2024-12-08 01:54:08,0,0.44,0,0,2,0,0,False,False,True,False,False,,,t3_1h983hy
+learnprogramming,Is there a platform like The Odin Project but for learning Spring Boot?,"If you dont know any, can you maybe recommend some good learning resources?",knouki21,1h9gek7,https://reddit.com/r/learnprogramming/comments/1h9gek7/is_there_a_platform_like_the_odin_project_but_for/,https://www.reddit.com/r/learnprogramming/comments/1h9gek7/is_there_a_platform_like_the_odin_project_but_for/,2024-12-08 10:52:06,0,0.5,0,0,2,0,0,False,False,True,False,False,Topic,,t3_1h9gek7
+learnprogramming,Read Description - Converting Text XML to Binary DAT File,"Hello everyone,  
+I am currently using a BluRay Disc Creator program. Unfortunately, there are very limited customization features in this software for what I am looking to do. Thankfully, there are THEME folders that allow further customization by changing the replacing the preset images. I contacted the developers of the software and they have been able to help me with some small things (adjusting resolution / sizes for the software to accept), but there are some issues they said they can't resolve for some reason. They created a variation of one of the THEME folders for me that included a XML file and a DAT file. Normally there is just a DAT file that is gibberish and can't edit. I believe the developer made a mistake and forgot to delete the XML file after they converted it to DAT format for the software to read. The XML file contains lots of additional styling info that I should be able to tinker with. I asked the developer if they could tell me how to convert the XML file to the DAT file after I have changed some styling options. Unfortunately, they declined saying they do not want people to tinker with that kind of file. I already have the XML file that I can edit and the DAT file that shows gibberish that it was converted from.  
+Couldn't I use the DAT file to translate the XML file and vice versa?  
+I can share the files to anyone willing to help. Just comment!  
+Thanks for any help in advance!",DanKozman,1h9agyr,https://reddit.com/r/learnprogramming/comments/1h9agyr/read_description_converting_text_xml_to_binary/,https://www.reddit.com/r/learnprogramming/comments/1h9agyr/read_description_converting_text_xml_to_binary/,2024-12-08 04:07:32,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1h9agyr
+learnprogramming,Help required for my sfml project,Umm....yeaah. just like the title suggests i want someone to help me out with my sfml project so if anyone is up for it then do comment or dm.....please🥹,Willing_Lion_4020,1h8wzcr,https://reddit.com/r/learnprogramming/comments/1h8wzcr/help_required_for_my_sfml_project/,https://www.reddit.com/r/learnprogramming/comments/1h8wzcr/help_required_for_my_sfml_project/,2024-12-07 17:07:51,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h8wzcr
+learnprogramming,"I'm trying to learn Laravel, but artisan is causing issues","I'm trying to create a model, but when i try to do it, artisan is telling me i am missing the -i option.",that_1_basement_guy,1h8wndx,https://reddit.com/r/learnprogramming/comments/1h8wndx/im_trying_to_learn_laravel_but_artisan_is_causing/,https://www.reddit.com/r/learnprogramming/comments/1h8wndx/im_trying_to_learn_laravel_but_artisan_is_causing/,2024-12-07 16:52:52,0,0.5,0,0,6,0,0,False,False,True,False,False,Debugging,,t3_1h8wndx
+learnprogramming,Serious question😩,"TL:DR: What do you do as a programmer when you are on hourly pay but nothing will solve your problem?!
+
+I am both new to Reddit and programming (3 months), so if this is the wrong subreddit for this please let me know about other subreddits!
+
+I work for a small e-commerce/ store and we have always been innovative and developing/becoming more efficient. So I told my boss that I want to learn programming, and that with some recourses from the company and a couple hours paid every week (+a lot of free time) I could learn to build simple JavaScript applications for things like customer service, stock keeping etc. 
+
+1 month ago we decided it would be awesome to control the in-store music using an automatic app, simple enough I thought! For 1 week now I have been unable to connect to the Spotify API because localhost just gets denied. I have tried everything from disabling firewalls to changing ports but nothing works. After 7 long days and nights I don’t know what to tell my boss?!
+
+My question is really what do you do in these situations? Since I really like what my boss is doing and I want to help the company with this, plus I’m paid, I just feel really bad! Please give me some guidance here🙌 ",GrowingUtopia,1h8yvkk,https://reddit.com/r/learnprogramming/comments/1h8yvkk/serious_question/,https://www.reddit.com/r/learnprogramming/comments/1h8yvkk/serious_question/,2024-12-07 18:32:36,7,0.68,7,0,18,0,0,False,False,True,False,False,Debugging,,t3_1h8yvkk
+learnprogramming,"To all young (15-19), driven and self-taught solo developers who want to build a software project - how has the journey been so far?","How has your software development journey been so far? How much experience in years or months do you have? What has been difficult so far?
+
+All of your responses would be greatly appreciated.",Rajan-Thakur01,1h981p2,https://reddit.com/r/learnprogramming/comments/1h981p2/to_all_young_1519_driven_and_selftaught_solo/,https://www.reddit.com/r/learnprogramming/comments/1h981p2/to_all_young_1519_driven_and_selftaught_solo/,2024-12-08 01:51:16,5,0.64,5,0,6,0,0,False,False,True,False,False,,,t3_1h981p2
+learnprogramming,Applying as a Canadian in the USA,I was wondering as a canadian applying to the USA for jobs when it asks if I'm legally authorized to work should I say yes or no. Because Candians can get a TN visa which is not the same as an H1 visa which all I have to do is show the offer letter at the border. ,legend67521,1h939ks,https://reddit.com/r/learnprogramming/comments/1h939ks/applying_as_a_canadian_in_the_usa/,https://www.reddit.com/r/learnprogramming/comments/1h939ks/applying_as_a_canadian_in_the_usa/,2024-12-07 21:54:09,0,0.27,0,0,11,0,0,False,False,True,False,False,,,t3_1h939ks
+learnprogramming,Cant think of a concrete path or roadmap for learning programming and math,Title. Im an engineering student(ece) but im also interested in learning math and programming. But my college is very keen on removing a lot of topics from the portion and the teachers also seem a bit uninterested in teaching them. Can you guys suggest what order i should study topics in?,Key_Apartment1576,1h9i3l4,https://reddit.com/r/learnprogramming/comments/1h9i3l4/cant_think_of_a_concrete_path_or_roadmap_for/,https://www.reddit.com/r/learnprogramming/comments/1h9i3l4/cant_think_of_a_concrete_path_or_roadmap_for/,2024-12-08 12:45:08,1,0.6,1,0,4,0,0,False,False,True,False,False,Resource,,t3_1h9i3l4
+learnprogramming,Which one?,Which programming language should I learn to create mods for Minecraft? Mostly for Minecraft java edition ,ResponsibleMouse8240,1h95fsr,https://reddit.com/r/learnprogramming/comments/1h95fsr/which_one/,https://www.reddit.com/r/learnprogramming/comments/1h95fsr/which_one/,2024-12-07 23:38:48,1,0.57,1,0,9,0,0,False,False,True,False,False,,,t3_1h95fsr
+learnprogramming,How do you do it?,"genuine question, there are people mastering this shit in 6 months. ive given up and forgotten and came back to repeat it all much more times than i care to count. how the hell do you guys do it?",Careful_Biscotti_879,1h9c8h9,https://reddit.com/r/learnprogramming/comments/1h9c8h9/how_do_you_do_it/,https://www.reddit.com/r/learnprogramming/comments/1h9c8h9/how_do_you_do_it/,2024-12-08 05:53:50,7,0.69,7,0,16,0,0,False,False,True,False,False,,,t3_1h9c8h9
+learnprogramming,How do I learn C,"Hi, I am a relatively experienced Java programmer and I am wondering the best way to learn C because I have heard C is similar to Java in some aspects since Java is part of the C family. Any tips? Thanks!",CollectionLocal7221,1h8zsmf,https://reddit.com/r/learnprogramming/comments/1h8zsmf/how_do_i_learn_c/,https://www.reddit.com/r/learnprogramming/comments/1h8zsmf/how_do_i_learn_c/,2024-12-07 19:13:30,4,0.67,4,0,15,0,0,False,False,True,False,False,,,t3_1h8zsmf
+learnprogramming,Trying to make code consistent leads to worst code?,"I feel like a bit of a mental block I have at the moment is overthinking something to try and make it consistent, but it sort of just leads me away from what's practical and clear. For an example I've been working on a game engine and for loading assets I have MeshLoader::load(const std::string&amp; path), TextureLoader::load(const std::string&amp; path), but then for shaders since they require at least 2 files I'd have to do something like ShaderLoader::load(const std::string&amp; vertexpath, const std::string&amp; pixelpath) I don't think this is a huge problem I think I just need to sort of embrace the differences rather than force the same coding style, but I don't know is there any abstraction or pattern I should apply?",steamdogg,1h9c6fp,https://reddit.com/r/learnprogramming/comments/1h9c6fp/trying_to_make_code_consistent_leads_to_worst_code/,https://www.reddit.com/r/learnprogramming/comments/1h9c6fp/trying_to_make_code_consistent_leads_to_worst_code/,2024-12-08 05:50:07,0,0.38,0,0,8,0,0,False,False,True,False,False,,,t3_1h9c6fp
+learnprogramming,Teaching a short middle school class over the summer in Python. Help!,"I just taught my first high school intro course over the fall semester in Python, and for my first time I thought it went great! There were a few things I could improve, which I'll focus on in the spring semester.
+
+The opportunity has arisen to teach a short middle school programming course over the summer. I have full control of # of weeks, how many days per week, and the curriculum. Kids can sign up on their own accord, meaning the students I have will be interested in the subject (in theory). I think it would be silly for me to pass this up, but I'm a bit intimidated by the idea of teaching middle school students code. I would like to keep it in Python, because it's the language I know best and I feel it's the easiest to learn as a first language.
+
+What I'm looking for:
+
+1) Any tips on how I should teach this stuff at the middle school level. I treated the format of my high school class like a college intro course, where I would alternate between lecture days &amp; lab days and have a few major projects throughout the semester. I'm not sure 50% of the time being lecture is great for middle school students who want to code.
+
+2) This is a shot in the dark, but if anyone has curriculum they are willing to share, I would be more than thrilled to take a look.
+
+Thank you!",quinthlid,1h907ne,https://reddit.com/r/learnprogramming/comments/1h907ne/teaching_a_short_middle_school_class_over_the/,https://www.reddit.com/r/learnprogramming/comments/1h907ne/teaching_a_short_middle_school_class_over_the/,2024-12-07 19:32:23,2,0.67,2,0,3,0,0,False,False,True,False,False,,,t3_1h907ne
+learnprogramming,How long should I try before quitting a problem?,"How long should I try before quitting a leetcode problem? Like I guess it would be different for easies, mediums and hards, so how long is the time limit for each after which I should just look at the solution/look at a hint?",Blazed0ut,1h8xp17,https://reddit.com/r/learnprogramming/comments/1h8xp17/how_long_should_i_try_before_quitting_a_problem/,https://www.reddit.com/r/learnprogramming/comments/1h8xp17/how_long_should_i_try_before_quitting_a_problem/,2024-12-07 17:40:02,1,0.57,1,0,9,0,0,False,False,True,False,False,Resource,,t3_1h8xp17
+learnprogramming,What do I need to learn to solve these kinds of problems?,"Hey, I’m a cs student in my 2nd year and most tests (non college) have these kinds of logical questions on them, even a few hackathons that I've been to ask to solve these kinds of problems. I only know the basics of C and python and I cannot find the solution to such questions with my limited knowledge of loops, arrays, conditional statements, recursion, etc., especially on a time limit ( I'd need a day to solve there on my own LOL ) here's a sample question to explain what I'm referring to:
+
+
+
+&gt;Problem Description:
+
+You have a restaurant at a beachside which has N dining tables. Each dining table has only one chair so each table can accommodate only one person. These dining tables are along a straight line parallel to the beach at positions x1 ,...,xN.
+
+C customers are currently queued up outside the restaurant since you have reopened the restaurant after a long time due to the pandemic. You need to assign the dining tables to the customers such that the minimum distance between any two customers is as large as possible in order to take care of the precautions considering the current pandemic situation. (Consider all C customers dine at the same time)
+
+Find the largest minimum distance possible.
+
+
+&gt;Input Description:
+
+The first line of the input contains one integer t (1 ≤ t ≤ 10) - the number of test cases. Then t test cases follow.
+The first line of each test case contains 2 integers N (2 ≤ N ≤ 100000) and c (2 ≤ C ≤ N).
+The second line of each test case contains n integers (1 ≤ Xi ≤ 1000000000) - The elements of the array W.
+
+
+&gt;Output Description:
+
+For each test case, print the answer: The largest minimum distance.
+
+
+&gt;Sample Input:
+
+2
+
+5 2
+
+2 4 1 6 8
+
+5 3
+
+3 1 3 3 3
+
+
+&gt;Sample Output:
+
+7
+
+0
+
+
+
+What do I need to learn to be able to think like a programmer and not just a coder and solve these questions as quick as possible? any resource suggestions are also welcome.",jelly-bean-3696,1h9ifqh,https://reddit.com/r/learnprogramming/comments/1h9ifqh/what_do_i_need_to_learn_to_solve_these_kinds_of/,https://www.reddit.com/r/learnprogramming/comments/1h9ifqh/what_do_i_need_to_learn_to_solve_these_kinds_of/,2024-12-08 13:04:40,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1h9ifqh
+learnprogramming,Help me optimize code solving travelling salemans using backtracking and branch and bound ,"Heres the code:
+
+const int INT\_MAX = 1e9;
+
+int min(int a, int b) {
+
+return (a &lt; b) ? a : b;
+
+}
+
+int minEdge(int G\[30\]\[30\], int n, int node) {
+
+int min\_cost = INT\_MAX;
+
+for (int i = 0; i &lt; n; i++) {
+
+if (G\[node\]\[i\] != 0) {
+
+min\_cost = min(min\_cost, G\[node\]\[i\]);
+
+}   
+
+}
+
+return min\_cost;
+
+}
+
+int lowerBound(int G\[30\]\[30\], int n, bool visited\[30\], int cur\_cost) {
+
+int bound = cur\_cost;
+
+for (int i = 0; i &lt; n; i++) {
+
+if (!visited\[i\]) {
+
+bound += minEdge(G, n, i);
+
+}
+
+}
+
+return bound;
+
+}
+
+void branchAndBound(int G\[30\]\[30\], int n, int cur\_path\[30\], int best\_path\[30\], int cur\_cost, int&amp; best\_cost, bool visited\[30\], int level) {
+
+if (level == n) {
+
+int return\_cost = G\[cur\_path\[level - 1\]\]\[cur\_path\[0\]\];
+
+if (return\_cost != 0 &amp;&amp; cur\_cost + return\_cost &lt; best\_cost) {
+
+best\_cost = cur\_cost + return\_cost;
+
+for (int i = 0; i &lt; n; i++) {
+
+best\_path\[i\] = cur\_path\[i\];
+
+}
+
+}
+
+return;
+
+}
+
+for (int i = 0; i &lt; n; i++) {
+
+if(!visited\[i\] &amp;&amp; G\[cur\_path\[level - 1\]\]\[i\] != 0) {
+
+visited\[i\] = 1;
+
+cur\_path\[level\] = i;
+
+int temp\_cost = cur\_cost + G\[cur\_path\[level - 1\]\]\[i\]; 
+
+int bound = lowerBound(G, n, visited, temp\_cost);
+
+if (bound &lt; best\_cost) {
+
+branchAndBound(G, n, cur\_path, best\_path, temp\_cost, best\_cost, visited, level + 1);
+
+}
+
+visited\[i\] = 0;
+
+}
+
+}
+
+}
+
+string Traveling(int G\[30\]\[30\], int n, char start) {
+
+int start\_node = start - 'A';
+
+int cur\_path\[30\], best\_path\[30\];
+
+int best\_cost = INT\_MAX;
+
+bool visited\[30\] = {false};
+
+cur\_path\[0\] = start\_node;
+
+visited\[start\_node\] = true;
+
+branchAndBound(G, n, cur\_path, best\_path, 0, best\_cost, visited, 1);
+
+string result;
+
+for (int i = 0; i &lt; n; i++) {
+
+result += (char)('A' + best\_path\[i\]);
+
+result += ' ';
+
+}
+
+result += start;
+
+return result;
+
+}
+
+
+
+Heres the testing code on my school web:
+
+  
+int G\[30\]\[30\];  
+fin.open(""Trave\_In.txt"");  
+int n=12;  
+for(int i=0;i&lt;n;i++){  
+for(int j=0;j&lt;n;j++){  
+fin&gt;&gt;G\[i\]\[j\];  
+}  
+}  
+string output=Traveling(G,n,'A');  
+cout &lt;&lt; output;  
+fin.close();
+
+
+
+The input consists of an integer n, a nxn matrices which can have negative edges and a char for start vertex. My code works fine for n = 12 and n = 14 but with n &gt;= 16 it exceeds time limit. Can someone help me fix it?",veryniceboi69fuck,1h9etfd,https://reddit.com/r/learnprogramming/comments/1h9etfd/help_me_optimize_code_solving_travelling_salemans/,https://www.reddit.com/r/learnprogramming/comments/1h9etfd/help_me_optimize_code_solving_travelling_salemans/,2024-12-08 08:57:12,0,0.5,0,0,1,0,0,False,False,True,False,False,Debugging,,t3_1h9etfd
+learnprogramming,cross platfrom coding app for esp 32?,"ok i want to make a cross platform app using an esp32 with bluetooth and wifi fucntions...i'm assuming i have to start from scratch as i want to make it to go witha product i want to distribute.... is there an easy solution or framework for this that won't cost me alot of money?
+
+it is only for a single switch so i don't need too many design parameters
+
+chat gpt said i could use flutter, react native, or xamarin, is one better suited for my application than the other?",crazyguytotally4,1h8vujx,https://reddit.com/r/learnprogramming/comments/1h8vujx/cross_platfrom_coding_app_for_esp_32/,https://www.reddit.com/r/learnprogramming/comments/1h8vujx/cross_platfrom_coding_app_for_esp_32/,2024-12-07 16:16:16,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h8vujx
+learnprogramming,Is the programming dream a harsher reality?,"TLDR: did your enthusiasm for coding die or fade once you got employment, or did you find the same joy as when you were doing more independent learning challenges?
+
+I started doing the Angela Yu’s 100 Days of Python course. And I absolutely love it. I made the blackjack challenge without searching for any of my code just of what I learnt previously and it was such a cool feeling. (First small project in that course)
+
+I’m trying to get back into it, now with a more focused approach of getting a job as a goal and learning enough to do some pretty cool projects ideas I have. But I’m scared what if I spend this 1-2 years of the young part of my life (I’m 23). What if it’s not at all like what I’ve been enjoying, to actually work as a developer. What if I just hate the actual corporate job side of it. 
+
+Right now I love the challenge of coding and visualizing how everything works. The building blocks you need to place to connect it all in your head. I love the thought process of this. I’m just scared that it’s not going to be all that in terms of work. And that I’ll be left thinking “oh well now I learnt all this and now I’m getting a good salary I can’t just leave this”.
+
+I guess what I’m hoping for is that I keep thinking it’s a fun puzzle and that I keep enjoying it. What I’m scared of is becoming miserable and hating my job. Should I just try my entrepreneurial ideas instead? Or should I pursue this which I feel is more tangible. I’m just at a crossroad and I want to feel drive towards something “certain” but instead I’m left feeling lost.",0hleg,1h95yzb,https://reddit.com/r/learnprogramming/comments/1h95yzb/is_the_programming_dream_a_harsher_reality/,https://www.reddit.com/r/learnprogramming/comments/1h95yzb/is_the_programming_dream_a_harsher_reality/,2024-12-08 00:05:00,49,0.85,49,0,35,0,0,False,False,True,False,False,Topic,,t3_1h95yzb
+learnprogramming,Chat GPT Pro ,"Has anybody bought Chat GPT Pro? I already own Chat GPT Plus, but I was thinking of buying it to learn harder concepts regarding functional programming for exams, whether that be walking me through tougher topics or providing exam-type questions that just can't be readily available online. I just wanted to get somebody's thoughts on whether it's worth the upgrade before purchasing.",Stunning_Muffin6557,1h97y4g,https://reddit.com/r/learnprogramming/comments/1h97y4g/chat_gpt_pro/,https://www.reddit.com/r/learnprogramming/comments/1h97y4g/chat_gpt_pro/,2024-12-08 01:45:52,0,0.3,0,0,4,0,0,False,False,True,False,False,,,t3_1h97y4g
+learnprogramming,How to study / learn if you have limited time daily ,"What would you recommend doing for someone who wants to get into programming and learning coding etc.. but also works full time job with only 1-2 hours of free time daily.
+
+How he should use those precious time of his to learn and study programming? ",vieps,1h9ehcp,https://reddit.com/r/learnprogramming/comments/1h9ehcp/how_to_study_learn_if_you_have_limited_time_daily/,https://www.reddit.com/r/learnprogramming/comments/1h9ehcp/how_to_study_learn_if_you_have_limited_time_daily/,2024-12-08 08:32:10,19,0.77,19,0,14,0,0,False,False,True,False,False,,,t3_1h9ehcp
+learnprogramming,What old programming books stood the test of time and continue to be relevant to this day?,"I'm looking for some old programming books that stood the test of time. If you have any of these resources that you can share, I'd be grateful.
+
+The kind of books I'm looking for are about systems, algorithms, and anything close to that.",SecureSection9242,1h9eebl,https://reddit.com/r/learnprogramming/comments/1h9eebl/what_old_programming_books_stood_the_test_of_time/,https://www.reddit.com/r/learnprogramming/comments/1h9eebl/what_old_programming_books_stood_the_test_of_time/,2024-12-08 08:25:54,1,0.67,1,0,4,0,0,False,False,True,False,False,,,t3_1h9eebl
+learnprogramming,Advice to learn,"
+Idk how to learn this course: Complete React Next TypeScript course by John Smilga . To watch the all content and after to make project or idk to write code in parallel. ",Western_Log_4739,1h9681a,https://reddit.com/r/learnprogramming/comments/1h9681a/advice_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h9681a/advice_to_learn/,2024-12-08 00:17:39,1,0.67,1,0,1,0,0,False,False,True,False,False,,,t3_1h9681a
+learnprogramming,Need help with assert error,"def solve\_quadratic(a, b, c):
+
+""""""
+
+\&gt;&gt;&gt; solve\_quadratic(1, -5, -14)
+
+(7, -2)
+
+\&gt;&gt;&gt; solve\_quadratic(2, -4, -6)
+
+(3, -1)
+
+\&gt;&gt;&gt; solve\_quadratic(1, 4, 3)
+
+(-1, -3)
+
+\&gt;&gt;&gt; solve\_quadratic(1, 2, -8)
+
+(2, -4)
+
+""""""
+
+D = b \*\* 2 - 4 \* a \* c
+
+if D &gt;= 0:
+
+x1 = int((-b - (D \*\* 0.5)) / (2 \* a))
+
+x2 = int((-b + (D \*\* 0.5)) / (2 \* a))
+
+return (x1, x2)
+
+else:
+
+return None
+
+
+
+  
+Hello, I'm wondering what I'm doing wrong here.  
+it says:  assert solve\_quadratic(1, -5, -14) in \[(-2, 7), (7, -2)\]
+
+But I think I have that right now. I have to finish it without lists. 
+
+If I program it for the result to be both -2,7 and 7,-2, then it's also wrong.",Professional-Tear-67,1h8wzzw,https://reddit.com/r/learnprogramming/comments/1h8wzzw/need_help_with_assert_error/,https://www.reddit.com/r/learnprogramming/comments/1h8wzzw/need_help_with_assert_error/,2024-12-07 17:08:40,0,0.33,0,0,3,0,0,False,False,True,False,False,,,t3_1h8wzzw
+learnprogramming,React native or Flutter ,"I am looking for some advice as to whether to learn JavaScript and React Native, or Dart and Flutter. I am a hobbyist, and just starting to learn programming with the eventual goal of building a mobile app that is cross platform. 
+
+Beginner-friendly languages and frameworks, with the most free guides/learning tools would be ideal. Just wanted to get everyone’s input especially if you have been here before. 
+
+Bonus points if anyone has any input on KMP and kotlin, if this would be the better option. 
+
+All spoken as a newbie to programming! Thanks! ",Budget-Pollution-391,1h9ivdr,https://reddit.com/r/learnprogramming/comments/1h9ivdr/react_native_or_flutter/,https://www.reddit.com/r/learnprogramming/comments/1h9ivdr/react_native_or_flutter/,2024-12-08 13:29:41,2,0.75,2,0,5,0,0,False,False,True,False,False,,,t3_1h9ivdr
+learnprogramming,How to freely place images when building a website?,"[https://imgur.com/a/nXJvKVz](https://imgur.com/a/nXJvKVz) &lt;- Here's a diagram of what I want to do, I know how to place images within elements (blue) but I don't know how to make them look like stickers/free place them (red). Is there a way to do this?",Dermestid-beetle,1h96x1n,https://reddit.com/r/learnprogramming/comments/1h96x1n/how_to_freely_place_images_when_building_a_website/,https://www.reddit.com/r/learnprogramming/comments/1h96x1n/how_to_freely_place_images_when_building_a_website/,2024-12-08 00:52:17,2,0.63,2,0,5,0,0,False,False,True,False,False,Tutorial,,t3_1h96x1n
+learnprogramming,I created this programming cheat sheet for my workspace—thoughts?,"Hey everyone,
+I’ve been learning programming for a while, and I always wanted something visually appealing to keep coding principles and best practices at my fingertips. So, I designed this cheat sheet poster for myself to combine learning and workspace decor.
+
+I’m curious—what do you think of the design? Do you think something like this is good to stay focused and motivated? I'm just experimenting with the idea, and feedback from fellow learners would be amazing.
+
+https://ibb.co/Y8QC5Z5
+
+",bear007,1h9f16q,https://reddit.com/r/learnprogramming/comments/1h9f16q/i_created_this_programming_cheat_sheet_for_my/,https://www.reddit.com/r/learnprogramming/comments/1h9f16q/i_created_this_programming_cheat_sheet_for_my/,2024-12-08 09:13:04,4,0.83,4,0,7,0,0,False,False,True,False,False,,,t3_1h9f16q
+learnprogramming,[batch] Not sure why this command is crashing my game.,"if !rx%x%,ry%y%! EQU # goto backup
+
+\^That's the command itself. As for what's going on...
+
+Context:
+
+I'm making a game where text characters are used for graphics- you play as a capital X, there's an enemy capital M to avoid, periods are used to mark empty spaces and the command above is my attempt at getting the game to recognize walls (marked with #).
+
+    @echo off
+    setlocal enabledelayedexpansion
+    title M-Quest (test bench ver.)
+    set x=2
+    set y=2
+    REM ^Them thar be the player coordinates. X and Y values on a grid, simple as.
+    REM Disclaimer, the grid for this demo is only 2x2 spaces. The version I'm working on is 10x10. In the code below, you'll notice I have individual ""set"" commands for each pair of coordinates rather than using two ""for"" commands. Don't ask me why it runs faster this way, it just does. Trust me, I ain't happy about it either, since it makes expanding the game grid a pain. For a 2x2 grid, I only gotta set 4 variables. For 10x10, that's 100 variables that need individually set in three places- :roomGen, :screenSet, and :screen. Apologies, but limiting your play area in this demo ver saves me 288 very boring lines of code, and makes finding the VERY IMPORTANT comments coming up way friggin' easier.
+
+    :roomGen
+    set rx1,ry1=.
+    set rx1,ry2=.
+    set rx2,ry1=.
+    set rx2,ry2=.
+    REM The ""r"" in the above variable names stands for ""reference"". I'll explain why later.
+
+    :screenSet
+    set sx1,sy1=%rx1,ry1%
+    set sx1,sy2=%rx1,ry1%
+    set sx2,sy1=%rx1,ry1%
+    set sx2,sy2=%rx1,ry1%
+    REM the ""s"" in the above variable names stands for ""screen"". Again, to be explained.
+
+    :screen
+    color 0a
+    set sx%x%,sy%y%=X
+    echo %sx1,sy2% %sx2,sy2%
+    echo %sx1,sy1% %sx2,sy1%
+    REM Behold, you can see now! Note that one of the SCREEN variables gets changed- the one you're at- but the reference variables aren't touched. When you move, :screen will only show you where you currently are, but it will NOT reset the screen variables to what they should be when you're not atop of them. Without :screenSet, moving from x1,y2 to x2,y2 would cause BOTH of those screen variables to display on the screen as an X, since sx1,sy1 was never reset. TLDR, :screenSet exists to clear the screen, :roomGen exists to tell :screenSet what a clear screen even looks like, and :screen exists to draw the screen. Note that the reference values in roomGen aren't for show- changing those changes what the room actually is. If you wanted to add walls, NPCs, or items, you'd change the corresponding reference value in :roomGen to make that happen.
+
+    choice /c wasd &gt;nul
+    if errorlevel 4 goto right
+    if errorlevel 3 goto down
+    if errorlevel 2 goto left
+    if errorlevel 1 goto up
+    color 0c
+    echo You had four movement options, and you chose one that didn't exist.
+    echo Gratz.
+    pause
+    exit
+
+    :up
+    set /a fy=%y%+1
+    if %fy% GTR 2 goto screenSet
+    REM ""fy"" = ""future y value"" if you hadn't gathered. Checking for (in the case of :up) the upper border of the screen.
+    set /a y=%y%+1
+    set backAxis=y
+    set backWay=-
+    REM Two more elements of the command causing the crash- backAxis says which axis (X or Y) is to be changed in the event the player is forced backward (like from colliding with a wall). backWay says weather to add or subtract from that value, + being up or right and - being down or left.
+    goto collision
+    :down
+    set /a fy=%y%-1
+    if %fy% LSS 1 goto screenSet
+    set /a y=%y%+1
+    set backAxis=y
+    set backWay=+
+    goto collision
+    :left
+    set /a fx=%x%-1
+    if %fx% LSS 1 goto screenSet
+    set /a x=%x%-1
+    set backAxis=x
+    set backWay=+
+    goto collision
+    :right
+    set /a fx=%x%+1
+    if %fx% GTR 2 goto screenSet
+    set /a x=%x%-1
+    set backAxis=x
+    set backWay=-
+    goto collision
+
+    :collision
+    REM The game gets here just fine.
+    if !rx%x%,ry%y%! EQU # goto backup
+    REM A pause command inserted here will never be executed- the game window has already closed.
+    goto screenSet
+    :backup
+    REM A pause command inserted here will never be executed- the game window has already closed.
+    set /a %backAxis%=!%backAxis%!!%backWay%!1
+    REM Oddly enough, this command (when placed in :screen for testing, prior to the creation of :collision) worked perfectly fine. Whichever way you went, you would correctly go the opposite direction every time the screen refreshed until new values for backAxis and backWay were set.
+    goto screenSet
+
+Anyhow, if you'll excuse me, I deleted what I *thought* was the OneDrive backup of this game from what I *thought* was OneDrive... and turned out to be my actual, on-PC documents folder.
+
+And then Notepad live updated, clearing all text from the entire program at once. Worst part is I've gotten in the habit of shift+deleting files which means no recycle bin backup, and what I've covered in this demo doesn't include save file creation for each room, entering into new rooms, monster behavior, or basically half the rest of the game... so I gotta get to re-writing that now. Thanks in advance!
+
+...
+
+#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",Ravens_Quote,1h99bsf,https://reddit.com/r/learnprogramming/comments/1h99bsf/batch_not_sure_why_this_command_is_crashing_my/,https://www.reddit.com/r/learnprogramming/comments/1h99bsf/batch_not_sure_why_this_command_is_crashing_my/,2024-12-08 03:01:45,0,0.33,0,0,1,0,0,False,False,True,False,False,Debugging,,t3_1h99bsf
+learnprogramming,Stucked,"Hello everyone, I need advice, support, or any tips for the situation I’m in. I’m a third-year student of Information Technology (4-year program) and am also working full-time in healthcare. I’m not entirely satisfied with my progress at university; it feels like it’s going too slowly. So, I decided to do some additional learning through Udemy and came across the *Complete Web Development Bootcamp With Angela Yu*, which I really liked at first. However, as time goes on, it’s becoming harder and harder to understand. I feel like I’m ""stuck"" at a beginner level and that I’ll never progress beyond the basics of each programming language.
+
+So far, I’ve worked with Python, C#, C++, Java, JavaScript, CSS, and HTML, along with their frameworks. I’m most interested in Fullstack Web Development, but in the bootcamp I’m currently taking, the topics are covered too quickly, and it feels like they don’t explain certain essential things in enough detail.
+
+I can make a decent project, i know how to use node,ejs,git,etc, but somehow i rely a lot on google and chatgpt, and i dont want that, is it a common thing, i feel like an impostor.
+
+Do you have any advice on what to focus on? Should i start everything over and dedicate more time to each section in course? My goal is to leave my current job as soon as possible and land a relevant position as a programmer.
+
+Thanks in advance",Itchy-Juggernaut-580,1h8wgh2,https://reddit.com/r/learnprogramming/comments/1h8wgh2/stucked/,https://www.reddit.com/r/learnprogramming/comments/1h8wgh2/stucked/,2024-12-07 16:44:10,5,0.86,5,0,1,0,0,False,False,True,False,False,,,t3_1h8wgh2
+learnprogramming,How do i troubleshoot this?,"The command ""echo | set /p dummyName=#define GIT\_CUR\_COMMIT &gt;  gitparams.h
+
+git rev-parse --verify HEAD &gt;&gt;  gitparams.h
+
+
+
+echo | set /p dummyName=#define GIT\_BRANCH &gt;&gt;  gitparams.h
+
+git rev-parse --abbrev-ref HEAD &gt;&gt;  gitparams.h
+
+It says its in the Microsoft.CppCommon.targets",NoLetterhead2303,1h95eh4,https://reddit.com/r/learnprogramming/comments/1h95eh4/how_do_i_troubleshoot_this/,https://www.reddit.com/r/learnprogramming/comments/1h95eh4/how_do_i_troubleshoot_this/,2024-12-07 23:36:56,4,0.83,4,0,14,0,0,False,False,True,False,False,,,t3_1h95eh4
+learnprogramming,Why isn't my code unzipping the file given by the user? ,"I am writing a batch file that encrypts/compresses and unencrypts/decompresses a file. When the user chooses to unencrypt/decompress, the program does unencrypt it, but it does not decompress it, and I cannot figure out why.
+
+Here is the section in question:
+
+    SET /P FILEPATH=Please enter entire filepath of the file you wish to decompress and unencrypt: 
+    ECHO 
+    SET /P UNENCRYPTED=Please enter filepath of the file you wish to decompress and unencrypt, but without the final extension. For example, filepath.backup.zip.aes becomes filepath.backup.zip:
+    
+    aescrypt.exe -d %FILEPATH%
+    FOR %%F IN (%UNENCRYPTED%) DO SET FILE_PATH=%%~dpF
+    FOR %%F IN (%UNENCRYPTED%) DO SET FILENAME=%%~nxF
+    cd %FILE_PATH%
+    TAR -xf %FILENAME%
+    
+
+I tried first to strip filename.backup.zip.aes of its last extension so I could unzip that by doing this:
+
+    FOR %%F IN (%FILENAME%) DO SET UNENCRYPTED=%%~dpnF
+    TAR -xf %UNENCRYPTED%
+    
+
+Then I tried to unzip that, but it didn't work.
+
+After that I tried taking the .zip extension off of UNENCRYPTED and putting it back on in the tar command like this:
+
+    FOR %%F IN (%FILENAME%) DO SET UNENCRYPTED=%%~dpnF
+    FOR %%F IN (%UNENCRYPTED%) DO SET NOEXTENSION=%%~dpnF
+    TAR -xf %NOEXTENSION%.zip
+    
+    
+
+but I got the same result.
+
+Finally I decided to prompt the user a second time for the filepath without the last extension, as shown in the current code, but it doesn't work either. If anyone can point me to the problem I would be beyond grateful.",MagesticTortoise,1h99sxj,https://reddit.com/r/learnprogramming/comments/1h99sxj/why_isnt_my_code_unzipping_the_file_given_by_the/,https://www.reddit.com/r/learnprogramming/comments/1h99sxj/why_isnt_my_code_unzipping_the_file_given_by_the/,2024-12-08 03:28:59,5,0.74,5,0,5,0,0,False,False,True,False,False,Debugging,,t3_1h99sxj
+learnprogramming,What should I learn first: React or Bootstrap?,"I'm almost done learning the basics of JS (already have a good understanding of HTML/CSS) and now I want to move on to a framework, but I don't know which one learn first. Any thoughts?",SatisfactionKooky414,1h8ykfw,https://reddit.com/r/learnprogramming/comments/1h8ykfw/what_should_i_learn_first_react_or_bootstrap/,https://www.reddit.com/r/learnprogramming/comments/1h8ykfw/what_should_i_learn_first_react_or_bootstrap/,2024-12-07 18:19:03,16,0.94,16,0,10,0,0,False,False,True,False,False,,,t3_1h8ykfw
+learnprogramming,libSDL3.so.0: cannot open shared object file: No such file or directory,"I am trying to compile [this example code](https://github.com/libsdl-org/SDL/blob/main/examples/renderer/01-clear/clear.c) from SDL's own github. 
+
+My ""makefile"" (actually just a bash file) looks like this: `gcc -O -Wall -W -pedantic --std=c17 -o game main.c -lSDL3 -lm`
+
+It compiles fine, so I guess my installation of SDL3 was successful. The CMake script put it in `/usr/local/` instead of just `/usr/` where apt put SDL2.
+
+libSDL3.so.0 is in here: 
+
+    /usr/local/lib$ ls -a
+    .   cmake       libSDL3.so.0      libSDL3_test.a  python3.10
+    ..  libSDL3.so  libSDL3.so.0.1.3  pkgconfig
+
+The weird thing though is that [libSDL3.so](http://libSDL3.so) is a link to libSDL.so.0, which in turn is a link to libSDL.so.0.1.3 which are all in the same folder... I have no idea what that is good for, but then again, I am a newb.
+
+What should I do? I found a similar problem someone had with SDL2 back in the day, on SO, but I don't really understand that thread. 
+
+Thankful for any support!  
+",Winter_Zucchini7415,1h9kkk4,https://reddit.com/r/learnprogramming/comments/1h9kkk4/libsdl3so0_cannot_open_shared_object_file_no_such/,https://www.reddit.com/r/learnprogramming/comments/1h9kkk4/libsdl3so0_cannot_open_shared_object_file_no_such/,2024-12-08 14:58:14,1,1.0,1,0,1,0,0,False,False,True,False,False,Solved,,t3_1h9kkk4
+learnprogramming,Help with building a basic programming language.,"
+I have always wanted to try making my own programming language .i know its quite a difficult endeavor even if a simple one , but anyways i wanted ur guys help . It might be an amazing moment for u also if u helped me do it, atleast u could always boast the u had some hands in making a programming language.
+If u have some free time and can collaborate with me to make it then we can do that on github . if not then ur advice will be greatly appreciated. I mean i dont know a heck about it right now. 
+
+
+My basic idea is to make a simple Ai bot making programming language. it might be feasible or not but it would be great if it would a simple one . Hope u all enjoy ur free time helping me...
+
+ 
+
+",AstroPhile___,1h9k58z,https://reddit.com/r/learnprogramming/comments/1h9k58z/help_with_building_a_basic_programming_language/,https://www.reddit.com/r/learnprogramming/comments/1h9k58z/help_with_building_a_basic_programming_language/,2024-12-08 14:36:57,0,0.5,0,0,8,0,0,False,False,True,False,False,,,t3_1h9k58z
+learnprogramming,Question about my website,"I am creating a website where it is possible for each user to have a kind of archive in which to store only certain types of files (.wav and .mp3).  
+First I was thinking about storing the files in a database.  
+Subsequently I thought that this system was not very efficient so I decided to always use the database but this time putting only a text string that points to the absolute position of the files involved (Example: D:\\Songs\\Song.wav).  
+I'm not sure if this system is good; the problem is that this site will be public (rightly so), I would need a sort of protected virtual archive directly connected to the website page where it is possible to put and extrapolate the files (which on the page will appear as audio in scalar order while in the archive the files will be divided into folders and subfolders based on the name of the user and the file so as to make the collection and storage of files more orderly and efficient).  
+So my questions are:  
+Is there a better way I can use the database to point to folders or some other better way to store files? If my system is otherwise acceptable, could you tell me about a virtual archive service that can do what I requested?  
+I apologize if my English is incorrect, I don't know how to speak it well and I often use Google Translate.",UnViandanteSperduto,1h9h3xl,https://reddit.com/r/learnprogramming/comments/1h9h3xl/question_about_my_website/,https://www.reddit.com/r/learnprogramming/comments/1h9h3xl/question_about_my_website/,2024-12-08 11:41:03,1,1.0,1,0,8,0,0,False,False,True,False,False,Question,,t3_1h9h3xl
+learnprogramming,Development roadmap in automation and IoT industry,"Hello everyone, i am working in the field of industrial automation and IoT. My daily work involves field devices such as sensors, motors, drives, PLCs, gateways,... Developing logic control software, SCADA or developing gateways to connect data from the field device layer to the the application layer.
+
+I see that the field is quite broad in this industry. I am not sure if there are any development directions in this related field? Focus on a certain field?",CHH_276,1h9gq87,https://reddit.com/r/learnprogramming/comments/1h9gq87/development_roadmap_in_automation_and_iot_industry/,https://www.reddit.com/r/learnprogramming/comments/1h9gq87/development_roadmap_in_automation_and_iot_industry/,2024-12-08 11:15:14,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h9gq87
+learnprogramming,Little man computer,"So my computer architecture exam’s is nearing and I’m having a hard time fully understanding little man computer. I understand all of the instructions and how they work but I find it really hard to make use of them. 
+
+I can make simple programs such as outputting numbers, addition and subtraction but I have trouble making complex programs such as multiplication, division, etc..
+
+Some of my friends from same class have really great understanding of little man computer like they’ve known them since the beginning of time but I on the other hand feel so dumb. Any resources or advice would be really helpful right now!",houdinititties,1h9f1bf,https://reddit.com/r/learnprogramming/comments/1h9f1bf/little_man_computer/,https://www.reddit.com/r/learnprogramming/comments/1h9f1bf/little_man_computer/,2024-12-08 09:13:18,3,1.0,3,0,1,0,0,False,False,True,False,False,,,t3_1h9f1bf
+learnprogramming,Help me roadmap my first project ,Hey so I’m trying to make my first project (personal portfolio website with flask) and I don’t know where to start how do you roadmap something you’ve never built or been a part of building before?,Imaginary-Pay-9293,1h9d4mf,https://reddit.com/r/learnprogramming/comments/1h9d4mf/help_me_roadmap_my_first_project/,https://www.reddit.com/r/learnprogramming/comments/1h9d4mf/help_me_roadmap_my_first_project/,2024-12-08 06:54:09,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h9d4mf
+learnprogramming,MQL4,"I am having an exorbitant amount of trouble incorporating my custom Indicator into an EA. The Indicator calculates 3 values and no matter how I try to get the EA to retrieve the indicator values at the conclusion of a bar, the EA always gets data that differs from the indicators calculations. Can someone please point me in the right direction? The EA properly getting the indicator data is crucial to what I am trying to make. The indicator code is in the comments posted by me. Thank you!!!!",AnyPlatypus6043,1h96qv0,https://reddit.com/r/learnprogramming/comments/1h96qv0/mql4/,https://www.reddit.com/r/learnprogramming/comments/1h96qv0/mql4/,2024-12-08 00:43:51,1,0.67,1,0,1,0,0,False,False,True,False,False,,,t3_1h96qv0
+learnprogramming,R programming mcq help,"I have a final for my R programming class next week, and throughout the quarter I had trouble with the way my professor formats his MCQs. He likes to give examples of edge cases and test your understanding of each and every syntax, for example:
+
+x &lt;- c(1, 2, 3)
+
+x\[""4""\]
+
+A. Returns `NA`  
+B. Throws an error because 4 is not a valid position  
+C. Returns 3  
+D. The code will not run
+
+Usually, MCQs would be easier because you can usually guess the closest answer, but there will always be an option where ""the code will not run"", or ""the code throws an error"" and it always messes me up because I cannot possibly remember every single functions syntax or edge cases. What makes it worse is that the final is on paper and I am used to being able to autofill function syntax or just be able to test edge cases in the console.
+
+Is there a strategy to answer these type of questions?",Zealousideal-Kale532,1h95za6,https://reddit.com/r/learnprogramming/comments/1h95za6/r_programming_mcq_help/,https://www.reddit.com/r/learnprogramming/comments/1h95za6/r_programming_mcq_help/,2024-12-08 00:05:27,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1h95za6
+learnprogramming,"Trying to run LASSO ML in R to find important predictor variables, but imputation won't work??","Hey everyone. I'm basically working in R with a big dataset with about 8500 observations and 1900 variables. This is a combination of several datasets and has lots of missingness. I'm trying to run lasso to get r to tell me what the best predictor variables for a certain outcome variable are. The problem is, I'm first trying to impute my data because I keep getting this error (after the #impute missing data line): 
+
+     iter imp variable
+      1   1  ccodecowError in solve.default(xtx + diag(pen)) : 
+      system is computationally singular: reciprocal condition number = 1.16108e-29
+
+Can anyone tell me how to solve this? Chatgpt was telling me I needed to remove variables that have too much collinearity and/or no variance, but I don't see why that's an issue in the imputation step? It might be worth mentioning, in my code I haven't explicitly done anything to make sure the binary dependent variable is not imputed (which, I don't want it to be, I only want to run lasso on variables for which the dependent variable actually exists), nor have I removed identifier variables (do I have to?) the code below is what I've been using. Does anyone have any tips on how to get this running?? Thanks.
+
+`colnames(all_data) &lt;- make.names(colnames(all_data), unique = TRUE)`  
+  
+`# Generate predictor matrix using quickpred`  
+`pred &lt;- quickpred(all_data)`  
+  
+`# Impute missing data with mice and the defined predictor matrix`  
+`imputed_lasso_data &lt;- mice(all_data, m = 5, method = 'pmm', maxit = 5, pred = pred)`  
+  
+`# Select one imputed dataset`  
+`completed_lasso_data &lt;- complete(imputed_lasso_data, 1)`  
+  
+`# Identify predictor variables`  
+`predictor_vars &lt;- completed_lasso_data %&gt;%`  
+  `select(where(is.numeric)) %&gt;%`         
+  `select(-proxy_conflict) %&gt;%`            
+  `names()`  
+  
+`# Create X and y`  
+`X &lt;- as.matrix(completed_lasso_data[, predictor_vars])`  
+`y &lt;- as.factor(completed_lasso_data$proxy_conflict)`  
+  
+`# Fit LASSO model`  
+`lasso_model &lt;- glmnet(`  
+  `X,`   
+  `y,`   
+  `family = ""binomial"",`  
+  `alpha = 1`  
+`)`  
+  
+`# Perform cross-validation`  
+`cv_lasso &lt;- cv.glmnet(`  
+  `X,`   
+  `y,`   
+  `family = ""binomial"",    # Logistic regression`  
+  `alpha = 1,              # Lasso regularization`  
+  `nfolds = 10             # 10-fold cross-validation (default)`  
+`)`  
+  
+`# Find the best lambda`  
+`best_lambda &lt;- cv_lasso$lambda.min`   
+  
+`# Refit the model using the optimal lambda`  
+`final_model &lt;- glmnet(`  
+  `X,`   
+  `y,`   
+  `family = ""binomial"",`   
+  `alpha = 1,`   
+  `lambda = best_lambda`  
+`)`  
+  
+`# Extract and view selected variables' coefficients`  
+`selected_vars &lt;- coef(final_model)`  
+`selected_vars &lt;- as.matrix(selected_vars)  # Convert to matrix for readability`  
+  
+`# Print the coefficients`  
+`print(selected_vars)`",superchorro,1h93kv4,https://reddit.com/r/learnprogramming/comments/1h93kv4/trying_to_run_lasso_ml_in_r_to_find_important/,https://www.reddit.com/r/learnprogramming/comments/1h93kv4/trying_to_run_lasso_ml_in_r_to_find_important/,2024-12-07 22:08:44,1,1.0,1,0,0,0,0,False,False,True,False,False,Debugging,,t3_1h93kv4

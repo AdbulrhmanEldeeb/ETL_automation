@@ -1,0 +1,147 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,ProgressPal (an alternative/iteration to tqdm),"**Get ProgressPal** here is full documentation available in the Github repo: [https://github.com/levi2234/Progresspal](https://github.com/levi2234/Progresspal)
+
+**What My Project Does** The code progress tracker called ProgressPal provides an easy to use environment for tracking python functions, iterables and logs. It tries to keep the known tqdm syntax while expanding the usability for simulataneous python runtimes such as Threads and parallel processes. ProgressPal provides an easy to access online environment which collects all progress in one place, visible from anywhere in the world. The main features included are:
+
+* **Progress Tracking**: Track the progress of Python iterables, functions, and log messages in real-time.
+* **Decentralized Monitoring**: Monitor multiple Python scripts from any device with an internet connection.
+* **Collaborative Projects**: Collaborate and monitor the real-time progress of various scripts running on different devices and processes.
+* **Distributed Systems**: Track progress across distributed systems for seamless monitoring and remote collaboration.
+* **Function Tracking**: Track the call-count, execution time distribution, execution history, time between calls, error count, function file origin, and function name.
+* **Iterable Tracking**: Track the progress of iterables and generators with a progress bar. Additionally, track the total number of iterations, current iteration, and percentage completion, time remaining, iteration execution time, and iteration rate.
+* **Log Server**: Start a log server to receive progress updates from Python scripts. The log server can be accessed from any device with an internet connection.
+* **Threading support**: Track the progress of multiple threads and processes simultaneously.
+* **Search Functionality**: Search for specific functions and iterables in the log server.
+
+**Target Audience** ProgressPal is made for people who are working with multiple python processes or want to remotely monitor their code. ProgressPal has collaboration in mind providing a 2 click monitoring server for everyone to use. Because of the 1 ms overhead (9ns of tqdm) of the code we recommend this for tracking longer execution times of loops and functions to minimize impact.
+
+**Comparison** During my work I grew increasingly annoyed with having to jump from terminal to terminal using tqdm. I had a use for a central logging environment. Scouring through my options I couldn't find a suitable option. So after 2 years of being annoyed I decided to make my own.
+
+**Comments** This project was my first experience with web developement (code quality does reflect this) Because this is my first webdev project security is not the first priority. Therefore this project is mainly developed for personal use and recommended not to run on critical systems. However, it is a great tool to use during developement which  I myself have used this in projects with multiple dozens of simultaneous processes without problems.
+
+",More-Tower9993,1h6hu9s,https://reddit.com/r/Python/comments/1h6hu9s/progresspal_an_alternativeiteration_to_tqdm/,https://www.reddit.com/r/Python/comments/1h6hu9s/progresspal_an_alternativeiteration_to_tqdm/,2024-12-04 14:51:57,4,0.7,4,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h6hu9s
+Python,Using Pyjokes in Other Programming Languages,"Hey everyone,
+
+Check out this guide on integrating Pyjokes into various languages like Java, C#, and JavaScript. If you enjoy adding humor to your code, this article is worth a read: [How to Use Pyjokes in Other Programming Languages](https://www.javonet.com/how-to-use-pyjokes-in-other-programming-languages/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=new_features_highlights&amp;utm_content=pyjokes-python)
+
+Have fun and let me know your thoughts!",javonet1,1h6f3j4,https://reddit.com/r/Python/comments/1h6f3j4/using_pyjokes_in_other_programming_languages/,https://www.reddit.com/r/Python/comments/1h6f3j4/using_pyjokes_in_other_programming_languages/,2024-12-04 12:43:36,5,0.65,5,0,1,0,0,False,False,True,False,False,Tutorial,self,t3_1h6f3j4
+Python,Relationships in SQLAlchemy models worth it?,"I'm building out an app using SA 2 to define the models, and I've been trying to utilize `relationships()` for convenience in queries. However, it feels very finnicky and maybe not worth the tradeoffs. What is your experience using them? 
+
+For context, my use case is fairly complex, with ~20 models and a mix of one-to-many, many-to-many, and self-referential relationships.",cardsfan314,1h6ij7r,https://reddit.com/r/Python/comments/1h6ij7r/relationships_in_sqlalchemy_models_worth_it/,https://www.reddit.com/r/Python/comments/1h6ij7r/relationships_in_sqlalchemy_models_worth_it/,2024-12-04 15:20:40,0,0.4,0,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h6ij7r
+Python, Fine-grained open source authorization solution (SDK for Python),"Hey, Python community! If anyone here is thinking about implementing authorization for RBAC / ABAC in your apps - feel free to check out our OSS solution: [https://github.com/cerbos/cerbos](https://github.com/cerbos/cerbos) 
+
+It’s useful if you’re dealing with complex access control scenarios and fast-growing apps, where requirements are constantly changing.
+
+  
+**What My Project Does:**   
+Cerbos PDP is an authorization solution that lets users define context-aware access control in simple, intuitive, and testable policies.  Some of Cerbos PDP’s key capabilities:
+
+* Infinitely scalable RBAC and ABAC
+* Plug-and-play &amp; language-agnostic 
+* Stateless design 
+* Self-hosted
+* Centralized audit logs of all authorization requests help compliance with ISO27001, SOC2, and HIPAA requirements  
+
+  
+**Target Audience:**  
+Software developers working on building authorization for apps, AI agents, and AI companions.  
+  
+  
+**Comparison**   
+The most common alternative to externalized authorization is the “build it yourself” approach, hard-coded authorization. Here is how our approach is different:
+
+* Our off-the-shelf solution allows you to avoid the technical debt and developer cost of hard-coded authorization.
+* Having the separation of the permissions from the code base just makes the code and the permissions more elegant (no spaghetti code).
+* Permissions are centralized, so they're not tied to specific endpoints. 
+* Cerbos makes fine-grained access control easy to implement and manage while saving time. It also improves security by making access control highly visible and making it easy to keep up with changing requirements.
+
+  
+And here’s our SDK &amp; installation guide for Python - [https://www.cerbos.dev/ecosystem/python](https://www.cerbos.dev/ecosystem/python) ",West-Chard-1474,1h5v7n7,https://reddit.com/r/Python/comments/1h5v7n7/finegrained_open_source_authorization_solution/,https://www.reddit.com/r/Python/comments/1h5v7n7/finegrained_open_source_authorization_solution/,2024-12-03 19:06:28,26,0.85,26,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h5v7n7
+Python,doc2exam - Full Self-Driving for exam prep and certs,"hello everyone! here's doc2exam
+
+a place to turn any material into live exams -- for students prepping or professors setting official certifications
+
+working on doc2exam proved to be really fun, I've learned svelte5, deepened my django skills, and rag/llm skills.
+
+I've found [llamaindex](https://github.com/run-llama/llama_index) is much easier to use than langchain, and the reddit dwarfs and yc hackers are right, at least in my case: langchain is over-engineered for most people
+
+but llamaindex also tries too hard in some places to replace manual prompt engineering, and I had to dodge many of its incomplete (and sometimes inconsistent or unintuitive) apis
+
+\# What My Project Does
+
+it turns any material into a fully-fledged live exam that you can send to your students who can take it online., and receive a perma-url certificate like on Coursera (which you can attach to your linkedin or whatever).  
+the idea is to have the examination part of a course completely automated, while the teaching itself is still driven by a human (as per the neoducation manifesto - google it).
+
+  
+\# Target Audience
+
+Schools, Professors or students prepping for exams
+
+  
+\# Comparison
+
+[https://jungleai.com/](https://jungleai.com/) \-- more of a flashcard generator, and it focuses on student prepping while doc2exam is primarily targeted towards professors (but students can use it just as easily for prep)
+
+[https://www.marquiz.io/](https://www.marquiz.io/) \-- the term ""quiz"" is too casual for doc2exam's intended scope: to become a de-facto platform for exam generation but also, equally important, live exam taking
+
+[https://pdfquiz.com/](https://pdfquiz.com/) \-- idem marquiz.io",lutian,1h6f71a,https://reddit.com/r/Python/comments/1h6f71a/doc2exam_full_selfdriving_for_exam_prep_and_certs/,https://www.reddit.com/r/Python/comments/1h6f71a/doc2exam_full_selfdriving_for_exam_prep_and_certs/,2024-12-04 12:49:03,0,0.5,0,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1h6f71a
+Python,PyCon Austria 2025,"PyCon Austria will take place on April 6 and 7, 2025 in Eisenstadt, Austria. The Call for Papers is already open, so you can submit your proposals for talks and workshops. Although registration is recommended for visitors, attendance is free of charge. The conference will start with an opening party on April 5, 2025.
+
+Website with details, registration, and sponsor information: [https://at.pycon.org](https://at.pycon.org)
+
+Call for Papers: [https://www.papercall.io/pycon-austria](https://www.papercall.io/pycon-austria)",RisingFire,1h5ubiu,https://reddit.com/r/Python/comments/1h5ubiu/pycon_austria_2025/,https://www.reddit.com/r/Python/comments/1h5ubiu/pycon_austria_2025/,2024-12-03 18:29:45,28,0.92,28,0,4,0,0,False,False,True,False,False,News,self,t3_1h5ubiu
+Python,What's the cheapest way to host a python script?,"Hello, I have a Python script that I need to run every minute. I came across PythonAnywhere, which costs about $5 per month for the first Tier Account. 
+
+Are there any cheaper alternatives to keep my script running? Would it be more cost-effective to run the script continuously by leaving my computer on? I’m new to this, so any advice or suggestions would be greatly appreciated. Thank you!",Fickle-Sock720,1h5hikf,https://reddit.com/r/Python/comments/1h5hikf/whats_the_cheapest_way_to_host_a_python_script/,https://www.reddit.com/r/Python/comments/1h5hikf/whats_the_cheapest_way_to_host_a_python_script/,2024-12-03 06:49:11,141,0.91,141,0,117,0,0,False,False,True,False,False,Discussion,self,t3_1h5hikf
+Python,Dink: a command line notifier,"Hi there,
+
+I’m Pranav, a self-taught python developer. Just wanted to share a little script I made.
+
+What my project does:
+Dink is a command line notifier. It can notify you of the completion of a command, so you don’t have to keep checking the terminal.
+
+Target audience:
+All devs.
+
+Comparison:
+This, unlike maybe a few other tools, is extremely lightweight and does not require extensive setup. All you do is install it and just put the word dink before any command you want notified about and that's it.
+
+You can find this at https://github.com/Pranav435/dink.git
+
+This has, in the 6 months since I made it, saved me a bunch of hours, and I hope it is equally as useful to you.
+
+Would appreciate all feedback!
+
+Cheers.",phoenix_00916,1h5qv5d,https://reddit.com/r/Python/comments/1h5qv5d/dink_a_command_line_notifier/,https://www.reddit.com/r/Python/comments/1h5qv5d/dink_a_command_line_notifier/,2024-12-03 16:05:13,16,0.78,16,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1h5qv5d
+Python,In-memory processing using Python promises faster and more efficient computing by skipping the CPU,"https://www.techradar.com/pro/in-memory-processing-using-python-promises-faster-and-more-efficient-computing-by-skipping-the-cpu
+
+In-memory processing hardware exists, but software is lacking
+Researchers created PyPIM to enable in-memory computation
+Python commands translated into memory-executable instructions",gurugabrielpradipaka,1h5ze3s,https://reddit.com/r/Python/comments/1h5ze3s/inmemory_processing_using_python_promises_faster/,https://www.reddit.com/r/Python/comments/1h5ze3s/inmemory_processing_using_python_promises_faster/,2024-12-03 21:56:40,7,0.64,7,0,4,0,0,False,False,True,False,False,News,self,t3_1h5ze3s
+Python,Wednesday Daily Thread: Beginner questions,"# Weekly Thread: Beginner Questions 🐍
+
+Welcome to our Beginner Questions thread! Whether you're new to Python or just looking to clarify some basics, this is the thread for you.
+
+## How it Works:
+
+1. **Ask Anything**: Feel free to ask any Python-related question. There are no bad questions here!
+2. **Community Support**: Get answers and advice from the community.
+3. **Resource Sharing**: Discover tutorials, articles, and beginner-friendly resources.
+
+## Guidelines:
+
+* This thread is specifically for **beginner questions**. For more advanced queries, check out our [Advanced Questions Thread](#advanced-questions-thread-link).
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **What is the difference between a list and a tuple?**
+2. **How do I read a CSV file in Python?**
+3. **What are Python decorators and how do I use them?**
+4. **How do I install a Python package using pip?**
+5. **What is a virtual environment and why should I use one?**
+
+Let's help each other learn Python! 🌟",AutoModerator,1h629va,https://reddit.com/r/Python/comments/1h629va/wednesday_daily_thread_beginner_questions/,https://www.reddit.com/r/Python/comments/1h629va/wednesday_daily_thread_beginner_questions/,2024-12-04 00:00:09,3,0.72,3,0,3,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h629va

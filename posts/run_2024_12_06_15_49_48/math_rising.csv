@@ -1,0 +1,56 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,"Jason Padgett, is he legit?","I recently saw a Mind Field (a series from VSauce) [video](https://youtu.be/wcPzTr-BbAA?si=IURpyjY_luvwv679) that cited him as an acquired Savant with outstanding abilities in mathematics, he claims to have gained profound mathematical intuition following a head injury and to have consequently pursued mathematical education to talk to mathematicians in their language, he also claims on his [website](https://jason-padgett.pixels.com/) he's doing research on number theory and fractal geometry, yet he has published NOTHING (at least nothing I can find on Google scholar).
+
+I'm still in undergrad so I don't have much experience looking for academic publications, I would really appreciate it if someone more knowledgeable than me confirmed whether or not he ever published. His claims are very weird and sound like pseudoscience, which adds to my doubts about him.",TheRedditObserver0,1h822sd,https://reddit.com/r/math/comments/1h822sd/jason_padgett_is_he_legit/,https://www.reddit.com/r/math/comments/1h822sd/jason_padgett_is_he_legit/,2024-12-06 14:05:06,21,0.96,21,0,11,0,0,False,False,True,False,False,,,t3_1h822sd
+math,Are there rational values greater than 1 that α = σ(n)/n cannot take?,"σ(n) being the sum of divisors function. Essentially will α take on all rational numbers greater than 1? If n is prime then for larger n α will be closer to 1, and if n has many divisors then α can get quite large. Does it take all values in between?",Winde1,1h7xz2j,https://reddit.com/r/math/comments/1h7xz2j/are_there_rational_values_greater_than_1_that_α/,https://www.reddit.com/r/math/comments/1h7xz2j/are_there_rational_values_greater_than_1_that_α/,2024-12-06 09:54:43,23,0.87,23,0,7,0,0,False,False,True,False,False,,,t3_1h7xz2j
+math,"""The mark of a good mathematician is their estimation skills""","In college my upper division geometry professor showed us a documentary of a little old Asian lady who had the world record for solving the most proofs, or publishing the most papers, or something of those sorts. In it, she said that the mark of a good mathematician is their estimation skills, which she attributes to math intuition in addition to practice and learning fundamentals. Do you agree? Is estimation one of the most important maths skill to develop? What to you is the most important math skill to develop?",MCU_historian,1h7fhe2,https://reddit.com/r/math/comments/1h7fhe2/the_mark_of_a_good_mathematician_is_their/,https://www.reddit.com/r/math/comments/1h7fhe2/the_mark_of_a_good_mathematician_is_their/,2024-12-05 18:05:17,217,0.88,217,0,59,0,0,False,False,True,False,False,,,t3_1h7fhe2
+math,Seeking Guidance: Niche in Mathematical Optimization/Programming in Finance ,"Hi there,
+
+I am a master's student in Applied Mathematics specializing in Optimization, and I’m exploring research directions that combine mathematical programming with finance. Recently, while wandering through the library, I came across the book Optimization Methods in Finance by Gérard Cornuéjols and Reha Tütüncü. It captivated me with its focus on how different programming techniques (linear, integer, quadratic, etc.) can be applied to develop financial models.
+
+From my understanding, the book is aimed at audiences in Computational Finance, MBA programs, and master’s courses in Finance. However, I’m particularly interested in exploring the mathematical backbone of these techniques, with a focus on deterministic programming methods rather than stochastic analysis.
+
+To delve deeper, I checked the bibliography of the book and searched Google Scholar for related work. Surprisingly, I struggled to find a dedicated ""niche"" or group of researchers focusing exclusively on this intersection. It seems that relevant work is scattered across journals in Applied Mathematics, Finance, Optimization, and Operations Research.
+
+So, I have a few questions for anyone working in this area or adjacent fields:
+
+1. Why doesn’t mathematical programming in finance seem to have a dedicated niche or society, like stochastic analysis does?
+
+
+2. Are deterministic programming techniques less useful compared to stochastic methods in finance, or is this a relatively newer area that hasn’t yet gained a strong foothold?
+
+
+3. Can you recommend journals, conferences, or research groups that focus on applying mathematical programming (not stochastic methods) to financial problems?
+
+
+
+I’m keen on developing a research direction that revolves around the mathematics behind such models, and understanding their practical applications. Any guidance, insights, or resources would be greatly appreciated!
+
+Thanks in advance!
+
+",SuspiciousEmploy1742,1h7ypvf,https://reddit.com/r/math/comments/1h7ypvf/seeking_guidance_niche_in_mathematical/,https://www.reddit.com/r/math/comments/1h7ypvf/seeking_guidance_niche_in_mathematical/,2024-12-06 10:49:09,10,1.0,10,0,1,0,0,False,False,True,False,False,,,t3_1h7ypvf
+math,I'd like to start with coding theory,"We build error correction algorithms for high speed data transmission and we have people dedicated to figure out the bit manipulation and all that, while we figure out how to make a physical device out of it.
+
+Unfortunately I lack the mathematical background to understand the coding/encoding parts and its frustrating. 
+
+Which book/material would you recommend starting with?
+
+FYI we use generalized Reed Solomon codes or turbo codes, but these names make no sense to me and I want to understand the fundamentals.
+
+Thanks a lot!",albasili,1h7zezy,https://reddit.com/r/math/comments/1h7zezy/id_like_to_start_with_coding_theory/,https://www.reddit.com/r/math/comments/1h7zezy/id_like_to_start_with_coding_theory/,2024-12-06 11:36:50,5,0.7,5,0,6,0,0,False,False,True,False,False,,,t3_1h7zezy
+math,Non-Europ-centric math history,"I recently learned that the Chinese invented the printing press long before Gutenberg did and I had no idea. That led me to wonder about the history of math. 
+
+What are some mathematical discoveries, or facts about mathematical history, or math myths from the ancient world outside of Europe/Greece? 
+
+For example, we all know about the (probably false) story about how they drowned Hippasus for proving the square root of two was irrational. 
+
+And we all know the story about Archimedes getting killed while drawing circles on the beach. 
+
+And we all know about Newton and Leibniz discovering calculus. Etc etc. 
+
+I know very few such anecdotes from other parts of the world and would like to hear them. ",Different_Tip_7600,1h7ve8n,https://reddit.com/r/math/comments/1h7ve8n/noneuropcentric_math_history/,https://www.reddit.com/r/math/comments/1h7ve8n/noneuropcentric_math_history/,2024-12-06 06:44:16,12,0.58,12,0,49,0,0,False,False,True,False,False,,,t3_1h7ve8n
+math,"Richard Hamilton, Who Helped Solve a Mathematical Mystery, Dies at 81",,Qyeuebs,1h70dm2,https://reddit.com/r/math/comments/1h70dm2/richard_hamilton_who_helped_solve_a_mathematical/,https://www.nytimes.com/2024/12/04/science/richard-hamilton-dead.html,2024-12-05 04:04:07,309,0.96,309,0,17,0,0,False,False,False,False,False,,,t3_1h70dm2
+math,"Two sudoku problems: what's the minimum number of filled cells required to define a unique grid, and what's the minimum to create an unsolvable grid?","Started thinking about this while playing sudoku. I am only basically profficient in both math and sudoku, so have no idea how to approach even approach this.
+
+
+Edit: for the second problem, the initial grid should have no invalid placements.",Xorianth,1h75yka,https://reddit.com/r/math/comments/1h75yka/two_sudoku_problems_whats_the_minimum_number_of/,https://www.reddit.com/r/math/comments/1h75yka/two_sudoku_problems_whats_the_minimum_number_of/,2024-12-05 10:11:40,64,0.94,64,0,29,0,0,False,False,True,False,False,,,t3_1h75yka

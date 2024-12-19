@@ -1,0 +1,756 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Do you know every method in JS?,Found out there are about 240 methods in Javascript. How does this work? Do you know every method? Do you know every function of that method but not excatly its syntax? ,Simple-Alternative28,1h7w48m,https://reddit.com/r/learnprogramming/comments/1h7w48m/do_you_know_every_method_in_js/,https://www.reddit.com/r/learnprogramming/comments/1h7w48m/do_you_know_every_method_in_js/,2024-12-06 07:34:24,31,0.74,31,0,34,0,0,False,False,True,False,False,,,t3_1h7w48m
+learnprogramming,"Forget about visualisation, do you guide yourself throught the code with self talk?",Or do you act fully intuetively? My problem is that when i talk to myself in my head i feel like im stupid or going insane or both.,Simple-Alternative28,1h7y5ib,https://reddit.com/r/learnprogramming/comments/1h7y5ib/forget_about_visualisation_do_you_guide_yourself/,https://www.reddit.com/r/learnprogramming/comments/1h7y5ib/forget_about_visualisation_do_you_guide_yourself/,2024-12-06 10:07:52,19,0.82,19,0,16,0,0,False,False,True,False,False,,,t3_1h7y5ib
+learnprogramming,I ask 'why' too often and always end up in rabbit holes making me feel inadequate,"I am a programming student for 4 years now and i still feel like i lack basic knowledge. I made an .NET API which uses signalR for realtime communication, Docker to containerize it, and MongoDb as database. I use onion architecture to connect everything together. I feel like those things are somewhat more advanced topics, but at the same time i feel like i dont understand the depth of it. I know the abstracts and why to use them, but i wouldn't be able to create it without the use of Google.   
+  
+An example was creating the db connection. Those are two lines of the code i used:  
+`var settings = MongoClientSettings.FromConnectionString(connectionString);`
+
+`_client = new MongoClient(settings);`  
+It gets a connection string from the methods params, and creates ClientSettings. Then is creates a new MongoClient with those settings. This is when i ask 'why?' as in 'why do i need to create a settings object?', 'why do i need a MongoClient?' et cetera. The answer to those questions dont really matter for further developing. Trying to understand those 'why's' I always end up in rabbit holes to the point i just accept that this is how it has to be done. But this makes me feel inadequate because i feel like im supposed to know 'why'. 
+
+Im not looking for an actual answer to the example above. I'm interested how others handle situations where thing become a bit more complex when you question it.   
+  
+I kinda have this mentality: ""To drive a car you dont need to know how a car works internally you only need to know how to use it."". Do you think this is how you should approach coding as wel?
+
+",kwans97,1h7z7mi,https://reddit.com/r/learnprogramming/comments/1h7z7mi/i_ask_why_too_often_and_always_end_up_in_rabbit/,https://www.reddit.com/r/learnprogramming/comments/1h7z7mi/i_ask_why_too_often_and_always_end_up_in_rabbit/,2024-12-06 11:22:38,9,0.72,9,0,4,0,0,False,False,True,False,False,,,t3_1h7z7mi
+learnprogramming,How to Learn Web Design as a Developer?,"Hi,
+
+I’m a fullstack software engineer with 10 years of experience. I’m comfortable with coding, but I always get stuck when it comes to web design (devs, you know what I mean).
+
+I don’t aim to become an expert, but I want to be self-sufficient in web design as quickly as possible. How would you achieve this goal? Any recommendations for YouTube channels, books, or other resources?
+
+Thanks!",D0pameene,1h808ol,https://reddit.com/r/learnprogramming/comments/1h808ol/how_to_learn_web_design_as_a_developer/,https://www.reddit.com/r/learnprogramming/comments/1h808ol/how_to_learn_web_design_as_a_developer/,2024-12-06 12:27:57,4,0.83,4,0,7,0,0,False,False,True,False,False,,,t3_1h808ol
+learnprogramming,Should I Get An AA In CS Or Self Teach? ,"Hey guys, so pretty much what the titile says. I want to get a job as a software developer.
+
+(I know the market sucks right now but it can’t last forever)
+
+I don’t have any experience in tech or coding. I was just thinking about going down the self taught route but i was looking at some courses I could take at my community college that i graduated from a few years ago and saw that I can pretty much get an AA in computer science in 3 semesters due to me already completing all of my gen-eds and electives. 
+
+My question is, is it worth going for an AA for this or just stick to self teaching and maybe a boot camp? 
+
+Would me having this associates degree look good for getting a job? 
+
+Thank you  ",shhsuan,1h7qzd9,https://reddit.com/r/learnprogramming/comments/1h7qzd9/should_i_get_an_aa_in_cs_or_self_teach/,https://www.reddit.com/r/learnprogramming/comments/1h7qzd9/should_i_get_an_aa_in_cs_or_self_teach/,2024-12-06 02:34:32,23,0.82,23,0,31,0,0,False,False,True,False,False,,,t3_1h7qzd9
+learnprogramming,Should I continue learning game dev?,"I'm a high school student that has been interested in programming video games since I was around 7-8, but I've only recently been actually trying to get into it, outside of messing around and learning Scratch &amp; Tynker when I was younger. I was originally learning Godot and the GDScript that came with it, however I've heard Godot isn't exactly a good engine for landing jobs. I've also heard that game development doesn't pay as much as something like web dev alongside being more stressful and unstable, so I've been wondering if I should look at other careers like web development, mobile app development, ect.
+
+Also would python be a good language to learn that's applicable to a lot of careers? I liked GDScript a lot and apparently python is very similar to it.
+
+I am really interested in game development but I would like your takes and some advice.",PotPotted,1h7tb3p,https://reddit.com/r/learnprogramming/comments/1h7tb3p/should_i_continue_learning_game_dev/,https://www.reddit.com/r/learnprogramming/comments/1h7tb3p/should_i_continue_learning_game_dev/,2024-12-06 04:38:04,6,0.72,6,0,4,0,0,False,False,True,False,False,,,t3_1h7tb3p
+learnprogramming,When it starts to get hard I often ask. ,"Thank you for any feed back
+
+TLDR
+
+1. Is there still opportunity/ Job security? 
+
+2. Is it worth all the effort to learn it ? 
+
+3. Is there really a lot of age discrimination? 
+
+I have been leaning coding for a bit now, and everytime it starts to get really hard I ask myself am I just wasting my time anyway? I love the idea of being able to build whatever I need for home use, but as far as a career 
+
+Things I keep hearing 
+
+It's so hard to get a job just to be laid off a few months later.
+
+projects to learn coding that would give med school a run for its money. 
+
+If you are in your 30s which I am you are considered unable to keep up. 
+
+  
+are these legitament concerns or is it just the loud minority? 
+
+",uvuguy,1h84ctt,https://reddit.com/r/learnprogramming/comments/1h84ctt/when_it_starts_to_get_hard_i_often_ask/,https://www.reddit.com/r/learnprogramming/comments/1h84ctt/when_it_starts_to_get_hard_i_often_ask/,2024-12-06 15:49:21,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h84ctt
+learnprogramming,PHP/Laravel/Blade - How Far Am I From 1st Job? (Project Inside),"Hey,
+
+So I'm learning PHP/Laravel/Blade.
+
+For now, I created Supplements project, with CRUD / Auth.
+
+This is the project: [https://github.com/aviran-abramov/laravel-blade-supplements-crud](https://github.com/aviran-abramov/laravel-blade-supplements-crud)
+
+Some pictures:
+
+Guest: [https://i.imgur.com/VYwTTTZ.png](https://i.imgur.com/VYwTTTZ.png)
+
+Logged in:  
+Index: [https://i.imgur.com/kqgKjTh.png](https://i.imgur.com/kqgKjTh.png)  
+Create: [https://i.imgur.com/49g7pKY.png](https://i.imgur.com/49g7pKY.png)  
+Show: [https://i.imgur.com/vCWL625.png](https://i.imgur.com/vCWL625.png)  
+Edit: [https://i.imgur.com/sx0NyFS.png](https://i.imgur.com/sx0NyFS.png)
+
+I'm also going to work with Vue in the future.  
+I will create Pizza Management System:
+
+Order:  
+\- Employee puts customer's number on first ""page""  
+\- Then he will be able to see data about the customer (or even fast order as last the one), edit/create new address  
+\- Then he will be able to mention how many pizzas  
+\- Then he will be able to apply slices amount and toppins (for example onions on 2 slices)  
+\- Then he will be asked to ""pay"" (will just click continue cuz it is not real)  
+\- Then the order will be move to ""in progress"" and there will be able to put ""On Delivery""
+
+Roles:  
+\- Employee - will be able to create orders, update status  
+\- Manager - has everything as employee, but will be able to CRUD employee
+
+Also, if you have some suggestions I should study, let me know!
+
+Thank you guys &lt;3",Fabulous_Variety_256,1h845uu,https://reddit.com/r/learnprogramming/comments/1h845uu/phplaravelblade_how_far_am_i_from_1st_job_project/,https://www.reddit.com/r/learnprogramming/comments/1h845uu/phplaravelblade_how_far_am_i_from_1st_job_project/,2024-12-06 15:40:54,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h845uu
+learnprogramming,I don’t know Swift/Solidity,"web2.0 just programming or web3.0 smart contracts?
+
+I would like to get started with Swift, but this will require a new laptop (Apple).
+If i choose smart contracts, I can just study with my old laptop, but I have the feeling that Web3.0 does not offer the security and that it works well for periods.
+
+Does anyone have a wise life lesson?",Coder040,1h83cdg,https://reddit.com/r/learnprogramming/comments/1h83cdg/i_dont_know_swiftsolidity/,https://www.reddit.com/r/learnprogramming/comments/1h83cdg/i_dont_know_swiftsolidity/,2024-12-06 15:04:40,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1h83cdg
+learnprogramming,"I need help with a project for esp8266 found online / Ho bisogno di aiuto per un progetto per esp8266 trovato online
+","Here’s the English translation:
+
+Hi everyone, I found a project online to create a Dasai Mochi, but the compiler is giving me an error, and I don’t know how to fix it since I’ve never programmed with Arduino and I’m also a beginner in the programming world. Could someone give me a hand? Thanks in advance for your support. Attached here are the error and the code.
+
+One more thing, I found the project in a YouTube tutorial where a Russian guy provided the code. However, he was going too fast, so I understood very little, and he’s also using a different board, not the NODEMCU ESP8266. [Video link below](https://www.youtube.com/watch?v=KQAs1E4PgZI).
+
+For additional details, feel free to ask me in DM or in the comments ❤️
+
+Here the italian translation:
+
+Ciao ragazzi ho trovato online un progetto per crearsi un Dasai Mochi tuttavia il compilatore mi da un errore e non so come risolvere il problema dato che non ho mai programmato in arduino e sono anche un neofita nel mondo della programmazione. Qualcuno saprebbe darmi una mano? Ringrazio in anticipo per il supporto. Quì allegati errore e codice. Altra cosa, il progetto l'ho trovato su un tutorial su youtube dove questo ragazzo russo forniva il codice, tuttavia andando troppo veloce ci ho capito poco e niente e soprattutto usa un'altra scheda e non il NODEMCU esp8266 [Link video](https://www.youtube.com/watch?v=KQAs1E4PgZI). Per altri dettagli non esitate a chiedere in DM o nei commenti ❤️
+
+
+
+    //THE ERROR ON MY COMPILER:
+    
+    In file included from c:\Users\carlo\Documents\Arduino\libraries\OneBitDisplay\src\OneBitDisplay.cpp:58:
+    c:\Users\carlo\Documents\Arduino\libraries\OneBitDisplay\src\obd.inl:1064:15: error: section of 'st7302_wenting' conflicts with previous declaration
+     1064 | const uint8_t st7302_wenting[] PROGMEM PROGMEM = {
+          |               ^~~~~~~~~~~~~~
+    
+    exit status 1
+    
+    Compilation error: exit status 1
+    
+    ///////////////////////////////////////////////////////////////////////////////////
+    
+    //COMPLETE CODE:
+    
+    #include &lt;SPI.h&gt;
+    #include &lt;Wire.h&gt;
+    
+    
+    #include &lt;BitBang_I2C.h&gt;
+    #include &lt;OneBitDisplay.h&gt;
+    #include &lt;AnimatedGIF.h&gt;
+    
+    #include ""animation.h""           
+    
+    
+    OBDISP obd;
+    AnimatedGIF gif;
+    static uint8_t ucOLED[4096]; // holds current frame for 128x64 OLED
+    
+    // M5Atom Matrix ESP32
+    #define RESET_PIN -1
+    #define SDA_PIN -1
+    #define SCL_PIN -1
+    #define OLED_ADDR -1
+    #define MY_OLED OLED_128x64
+    #define USE_HW_I2C 1
+    #define FLIP180 0
+    #define INVERT 0
+    
+    #define DISPLAY_WIDTH 128
+    #define DISPLAY_HEIGHT 64
+    
+    //
+    // This doesn't have to be super efficient
+    // 
+    void DrawPixel(int x, int y, uint8_t ucColor)
+    {
+        uint8_t ucMask;
+        int index;
+    
+        if (x &gt;= DISPLAY_WIDTH || y &gt;= DISPLAY_HEIGHT)
+            return;
+        ucMask = 1 &lt;&lt; (y &amp; 7);
+        index = x + ((y &gt;&gt; 3) &lt;&lt; 7);
+        if (ucColor)
+            ucOLED[index] |= ucMask;
+        else
+            ucOLED[index] &amp;= ~ucMask;
+    }
+    
+    // Draw a line of image directly on the LCD
+    void GIFDraw(GIFDRAW* pDraw)
+    {
+        uint8_t* s;
+        int x, y, iWidth;
+        static uint8_t ucPalette[4096]; // thresholded palette
+    
+    
+        if (pDraw-&gt;y == 0) // first line, convert palette to 0/1
+        {
+            for (x = 0; x &lt; 256; x++)
+            {
+                uint16_t usColor = pDraw-&gt;pPalette[x];
+                int gray = (usColor &amp; 0xf800) &gt;&gt; 8; // red
+                gray += ((usColor &amp; 0x7e0) &gt;&gt; 2); // plus green*2
+                gray += ((usColor &amp; 0x1f) &lt;&lt; 3); // plus blue
+                //ucPalette[x] = (gray &gt;&gt; 9); // 0-&gt;511 = 0, 512-&gt;1023 = 1
+                if (gray&gt;800) ucPalette[x]=1; else ucPalette[x]=0;
+            }
+        }
+        y = pDraw-&gt;iY + pDraw-&gt;y; // current line
+        iWidth = pDraw-&gt;iWidth;
+        if (iWidth &gt; DISPLAY_WIDTH)
+            iWidth = DISPLAY_WIDTH;
+    
+        s = pDraw-&gt;pPixels;
+        if (pDraw-&gt;ucDisposalMethod == 2) // restore to background color
+        {
+            for (x = 0; x &lt; iWidth; x++)
+            {
+                if (s[x] == pDraw-&gt;ucTransparent)
+                    s[x] = pDraw-&gt;ucBackground;
+            }
+            pDraw-&gt;ucHasTransparency = 0;
+        }
+        // Apply the new pixels to the main image
+        if (pDraw-&gt;ucHasTransparency) // if transparency used
+        {
+            uint8_t c, ucTransparent = pDraw-&gt;ucTransparent;
+            int x;
+            for (x = 0; x &lt; iWidth; x++)
+            {
+                c = *s++;
+                if (c != ucTransparent)
+                    DrawPixel(pDraw-&gt;iX + x, y, ucPalette[c]);
+            }
+        }
+        else
+        {
+            s = pDraw-&gt;pPixels;
+            // Translate the 8-bit pixels through the RGB565 palette (already byte reversed)
+            for (x = 0; x &lt; pDraw-&gt;iWidth; x++)
+                DrawPixel(pDraw-&gt;iX + x, y, ucPalette[*s++]);
+        }
+        if (pDraw-&gt;y == pDraw-&gt;iHeight - 1) // last line, render it to the display
+            obdDumpBuffer(&amp;obd, ucOLED);
+    
+            
+    } /* GIFDraw() */
+    
+    
+    uint8_t last_animation = 0; // to prevent 2 animation loop after idle. just make it feels , more ""random""??
+    
+    
+    void playWrapper(uint8_t* gifinput, int size)
+    {
+    
+        if (gif.open(gifinput, size, GIFDraw))
+        {
+            //    Serial.printf(""Successfully opened GIF; Canvas size = %d x %d\n"", gif.getCanvasWidth(), gif.getCanvasHeight());
+            while (gif.playFrame(true, NULL))
+            {
+            }
+            gif.close();
+        }
+    
+    }
+    
+    struct Anime {
+        uint8_t* ptr;
+        int size;
+    };
+    
+    
+    #define NUMBEROFANIMATION 32
+    Anime anime;
+    
+    int n = NUMBEROFANIMATION;
+    
+    int r;
+    int debugRandom = 0;  //choose between random or i++ animation  (0 = random / 1 = i++)
+    int counter = 99;
+    
+    
+    
+    void setup() {
+    
+        // sorry for ths long hard code, just to make simple I want to put the animation inside array , as the library fn is using ptr and size I cant just put the addresses I also need the size
+      // as i dont know how to read sizeof a pointer .  bear with ths :(
+        //anime[0].ptr = (uint8_t*)_1;
+        //anime[0].size = sizeof(_1);
+        /*
+        anime[1].ptr = (uint8_t*)_2;
+        anime[1].size = sizeof(_2);
+        anime[2].ptr = (uint8_t*)_3;
+        anime[2].size = sizeof(_3);
+        anime[3].ptr = (uint8_t*)_4;
+        anime[3].size = sizeof(_4);
+        anime[4].ptr = (uint8_t*)_5;
+        anime[4].size = sizeof(_5);
+        anime[5].ptr = (uint8_t*)_6;
+        anime[5].size = sizeof(_6);
+        anime[6].ptr = (uint8_t*)_7;
+        anime[6].size = sizeof(_7);
+        anime[7].ptr = (uint8_t*)jojos;
+        anime[7].size = sizeof(jojos);
+        anime[8].ptr = (uint8_t*)_9;
+        anime[8].size = sizeof(_9);
+        anime[9].ptr = (uint8_t*)_10;
+        anime[9].size = sizeof(_10);
+    
+        anime[10].ptr = (uint8_t*)_11;
+        anime[10].size = sizeof(_11);
+        anime[11].ptr = (uint8_t*)_12;
+        anime[11].size = sizeof(_12);
+        anime[12].ptr = (uint8_t*)_13;
+        anime[12].size = sizeof(_13);
+        
+        anime[13].ptr = (uint8_t*)_14;
+        anime[13].size = sizeof(_14);
+        
+        anime[14].ptr = (uint8_t*)_15; 
+        anime[14].size = sizeof(_15);
+    
+        anime[15].ptr = (uint8_t*)_16;
+        anime[15].size = sizeof(_16);
+    
+        anime[16].ptr = (uint8_t*)_17;
+        anime[16].size = sizeof(_17);
+       
+        anime[17].ptr = (uint8_t*)_18;
+        anime[17].size = sizeof(_18);
+       
+        anime[18].ptr = (uint8_t*)_19;
+        anime[18].size = sizeof(_19);
+        
+        anime[19].ptr = (uint8_t*)_20;
+        anime[19].size = sizeof(_20);
+        
+        
+        anime[20].ptr = (uint8_t*)_21;
+        anime[20].size = sizeof(_21);
+        anime[21].ptr = (uint8_t*)_22;
+        anime[21].size = sizeof(_22);
+        anime[22].ptr = (uint8_t*)_23;
+        anime[22].size = sizeof(_23);    
+        anime[23].ptr = (uint8_t*)_24;
+        anime[23].size = sizeof(_24);    
+        anime[24].ptr = (uint8_t*)_25; 
+        anime[24].size = sizeof(_25);
+        anime[25].ptr = (uint8_t*)_26;
+        anime[25].size = sizeof(_26);
+        anime[26].ptr = (uint8_t*)_27;
+        anime[26].size = sizeof(_27);   
+        anime[27].ptr = (uint8_t*)_28;
+        anime[27].size = sizeof(_28);   
+        anime[28].ptr = (uint8_t*)_29;
+        anime[28].size = sizeof(_29);    
+        anime[29].ptr = (uint8_t*)_30;
+        anime[29].size = sizeof(_30);*/
+        
+    
+        Serial.begin(115200);
+    
+    
+        int rc = obdI2CInit(&amp;obd, MY_OLED, OLED_ADDR, FLIP180, INVERT, USE_HW_I2C, SDA_PIN, SCL_PIN, RESET_PIN, 800000L); // use standard I2C bus at 400Khz
+        Serial.print(rc);
+       
+        obdFill(&amp;obd, 0, 1);
+        
+        gif.begin(LITTLE_ENDIAN_PIXELS);
+    // obdWriteString(&amp;obd,0,0,0,(char *)""GIF Demo"", FONT_NORMAL, 0, 1);
+      //delay(1000);
+    if (gif.open((uint8_t*)_31, sizeof(_31), GIFDraw))
+        {
+                 Serial.printf(""Successfully opened GIF; Canvas size = %d x %d\n"", gif.getCanvasWidth(), gif.getCanvasHeight());
+    
+        while (gif.playFrame(true, NULL))
+           {
+              
+           }
+            gif.close();
+        }
+         
+    }
+    
+    void loop() {
+    
+    
+    
+        r = random(1, 3) * 10000;
+        Serial.println(r);
+        delay(r);
+    
+        if (debugRandom == 0)
+        {
+            //randomSeed(esp_random());
+            r = random(0, n)+1;
+            Serial.println(r);
+    
+            while (r == last_animation) {
+                delay(10);
+                //randomSeed(esp_random());
+                r = random(0, n)+1;
+    
+                if (r != last_animation)
+                {
+                    last_animation = r;
+                    break;
+                }
+            }
+    
+            Serial.println(r);
+        }
+        else
+        {
+            counter++;
+            if (counter &gt; NUMBEROFANIMATION)
+            {
+                counter = 1;
+            }
+            r = counter;
+        }
+        Serial.println(r);
+        /*
+        switch (r)
+        {
+          case 0:
+            anime.ptr = (uint8_t*)_1;
+            anime.size = sizeof(_1);
+            break;
+          case 1:
+            anime.ptr = (uint8_t*)_2;
+            anime.size = sizeof(_2);
+            break;
+          case 2:
+            anime.ptr = (uint8_t*)_3;
+            anime.size = sizeof(_3);
+            break;
+          case 3:
+            anime.ptr = (uint8_t*)_4;
+            anime.size = sizeof(_4);
+            break;
+          case 4:
+            anime.ptr = (uint8_t*)_5;
+            anime.size = sizeof(_5);
+            break;
+          case 5:
+            anime.ptr = (uint8_t*)_6;
+            anime.size = sizeof(_6);
+            break;
+          case 6:
+            anime.ptr = (uint8_t*)_7;
+            anime.size = sizeof(_7);
+            break;
+          case 7:
+            //anime.ptr = (uint8_t*)jojos;
+            //anime.size = sizeof(jojos);
+            break;  
+          case 8:
+            anime.ptr = (uint8_t*)_9;
+            anime.size = sizeof(_9);
+            break;
+          case 9:
+            anime.ptr = (uint8_t*)_10;
+            anime.size = sizeof(_10);
+            break;
+          case 10:
+            anime.ptr = (uint8_t*)_11;
+            anime.size = sizeof(_11);
+            break;
+          case 11:
+            anime.ptr = (uint8_t*)_12;
+            anime.size = sizeof(_12);
+            break;
+          case 12:
+            anime.ptr = (uint8_t*)_13;
+            anime.size = sizeof(_13);
+            break;
+          case 13:
+            anime.ptr = (uint8_t*)_14;
+            anime.size = sizeof(_14);
+            break;
+          case 14:
+            anime.ptr = (uint8_t*)_15;
+            anime.size = sizeof(_15);
+            break;
+          case 15:
+            anime.ptr = (uint8_t*)_16;
+            anime.size = sizeof(_16);
+            break;
+          case 16:
+            anime.ptr = (uint8_t*)_17;
+            anime.size = sizeof(_17);
+            break;
+          case 17:
+            anime.ptr = (uint8_t*)_18;
+            anime.size = sizeof(_18);
+            break;
+          case 18:
+            anime.ptr = (uint8_t*)_19;
+            anime.size = sizeof(_19);
+            break;
+         case 19:
+            anime.ptr = (uint8_t*)_20;
+            anime.size = sizeof(_20);
+            break;
+         case 20:
+            anime.ptr = (uint8_t*)_21;
+            anime.size = sizeof(_21);
+            break;   
+         case 21:
+            anime.ptr = (uint8_t*)_22;
+            anime.size = sizeof(_22);
+            break;   
+         case 22:
+            anime.ptr = (uint8_t*)_23;
+            anime.size = sizeof(_23);
+            break;   
+         case 23:
+            anime.ptr = (uint8_t*)_24;
+            anime.size = sizeof(_24);
+            break;   
+        case 24:
+            anime.ptr = (uint8_t*)_25;
+            anime.size = sizeof(_25);
+            break;   
+        case 25:
+         //   anime.ptr = (uint8_t*)_26;
+          //  anime.size = sizeof(_26);
+            break;  
+        case 26:
+          //  anime.ptr = (uint8_t*)_27;
+           // anime.size = sizeof(_27);
+            break;    
+        }
+        playWrapper(anime.ptr, anime.size);
+        */
+       
+    switch (r)  
+    {
+      case 1:
+      playWrapper((uint8_t*)_1, sizeof(_1));
+      break;
+      case 2:
+      playWrapper((uint8_t*)_2, sizeof(_2));
+      break;
+      case 3:
+      playWrapper((uint8_t*)_3, sizeof(_3));
+      break;
+      case 4:
+      playWrapper((uint8_t*)_4, sizeof(_4));
+      break;
+        case 5:
+      playWrapper((uint8_t*)_5, sizeof(_5));
+      break;
+        case 6:
+      playWrapper((uint8_t*)_6, sizeof(_6));
+      break;
+        case 7:
+      playWrapper((uint8_t*)_40, sizeof(_40));
+      break;
+        case 8:
+      playWrapper((uint8_t*)_8, sizeof(_8));
+      break;
+        case 9:
+      playWrapper((uint8_t*)_9, sizeof(_9));
+      break;
+        case 10:
+      playWrapper((uint8_t*)_10, sizeof(_10));
+      break;
+        case 11:
+      playWrapper((uint8_t*)_36, sizeof(_36));
+      break;
+        case 12:
+      playWrapper((uint8_t*)_41, sizeof(_41));
+      break;
+        case 13:
+      playWrapper((uint8_t*)_13, sizeof(_13));
+      break;
+        case 14:
+      playWrapper((uint8_t*)_14, sizeof(_14));
+      break;
+        case 15:
+      playWrapper((uint8_t*)_34, sizeof(_34));
+      break;
+        case 16:
+      playWrapper((uint8_t*)_16, sizeof(_16));
+      break;
+        case 17:
+      playWrapper((uint8_t*)_35, sizeof(_35));
+      break;
+        case 18:
+      playWrapper((uint8_t*)_18, sizeof(_18));
+      break;
+        case 19:
+      playWrapper((uint8_t*)_19, sizeof(_19));
+      break;
+        case 20:
+      playWrapper((uint8_t*)_33, sizeof(_33));
+      break;
+      case 21:
+      playWrapper((uint8_t*)_21, sizeof(_21));
+      break;
+      case 22:
+      playWrapper((uint8_t*)_22, sizeof(_22));
+      break;
+      case 23:
+      playWrapper((uint8_t*)_23, sizeof(_23));
+      break;
+      case 24:
+      playWrapper((uint8_t*)_24, sizeof(_24));
+      break;
+      case 25:
+      playWrapper((uint8_t*)_25, sizeof(_25));
+      break;
+      case 26:
+      playWrapper((uint8_t*)_32, sizeof(_32));
+      break;
+      case 27:
+      playWrapper((uint8_t*)_37, sizeof(_37));
+      break;
+      case 28:
+      playWrapper((uint8_t*)_28, sizeof(_28));
+      break;
+      case 29:
+      playWrapper((uint8_t*)_29, sizeof(_29));
+      break;
+      case 30:
+      playWrapper((uint8_t*)_30, sizeof(_30));
+      break;
+      case 31:
+      playWrapper((uint8_t*)_42, sizeof(_42));
+      break;
+      case 32:
+      playWrapper((uint8_t*)_39, sizeof(_39));
+      break;
+    }
+    
+    
+    }",Carlojtv000,1h830xm,https://reddit.com/r/learnprogramming/comments/1h830xm/i_need_help_with_a_project_for_esp8266_found/,https://www.reddit.com/r/learnprogramming/comments/1h830xm/i_need_help_with_a_project_for_esp8266_found/,2024-12-06 14:50:28,1,1.0,1,0,0,0,0,False,False,True,False,False,Debugging,,t3_1h830xm
+learnprogramming,How do I practice C so I can get better at my cs course in uni,"I'm trying to get better at coding in C, but as the lessons go on I'm finding it harder and harder, especially when it comes to pointers with struct and linked lists. Does anyone have any suggestions on how I can get better, any websites I can practice C? also I think I'm stuck in tutorial hell so I might need help to get out too. ",Blesko222,1h82wyk,https://reddit.com/r/learnprogramming/comments/1h82wyk/how_do_i_practice_c_so_i_can_get_better_at_my_cs/,https://www.reddit.com/r/learnprogramming/comments/1h82wyk/how_do_i_practice_c_so_i_can_get_better_at_my_cs/,2024-12-06 14:45:30,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1h82wyk
+learnprogramming,Cronjobs not working on MacOS Sequoia after 15.1.1 (24B91) update,"I’ve been using `crontab` to run a Python script every 15 minutes, logging the output to a text file. This setup was working fine until December 4, 2024. Here’s the cron job I was using:
+
+`*/15 * * * * /Users/strife/Desktop/daily/.mimu/bin/python3 /Users/strife/Desktop/daily/script.py &gt;&gt; /Users/strife/Desktop/daily/cron.log 2&gt;&amp;1`
+
+On Dec 4, I removed the crontab entry, **but after updating macOS to 15.1.1 (24B91)** this morning, I tried adding the same cron job back (from my backup), but it's no longer working.
+
+Here’s what’s happening:
+
+* After I add the cron job, it shows the message `crontab: installing new crontab`.
+* However, the script does not run as expected, and no new logs have been written after Dec 4, 2024.
+* I even tried some simple cron jobs like these:
+
+`* * * * * echo ""Hi from Cron"" &gt;&gt; /Users/strife/Desktop/log.txt` and `* * * * * /bin/date &gt;&gt; /Users/strife/Desktop/log.txt`  
+but none of them worked either. These scripts do work when I run them manually.
+
+Has anyone else noticed this issue after the macOS 15.1.1 update? Could there be a compatibility issue with cron on this version, or maybe it’s being deprecated altogether?
+
+Any help or suggestions would be greatly appreciated",Careless-Volume-8670,1h82g61,https://reddit.com/r/learnprogramming/comments/1h82g61/cronjobs_not_working_on_macos_sequoia_after_1511/,https://www.reddit.com/r/learnprogramming/comments/1h82g61/cronjobs_not_working_on_macos_sequoia_after_1511/,2024-12-06 14:23:09,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h82g61
+learnprogramming,VS Code Extension For Code Searching,"I would like to increase the functionality of the built in code search function of vs code. For example, I'm using a regular expression search term to filter all the test cases in the project. But I can't sort the results based on line counts in each of the test cases. I need a vs code extension that does that. 
+
+Thx",RapaxMaxima,1h82dyl,https://reddit.com/r/learnprogramming/comments/1h82dyl/vs_code_extension_for_code_searching/,https://www.reddit.com/r/learnprogramming/comments/1h82dyl/vs_code_extension_for_code_searching/,2024-12-06 14:20:12,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h82dyl
+learnprogramming,Would like a few pointers,"Hey yall,
+I'm in the middle of changing subject from maths to software development and landed a students job as a developer. I now got a project to write a webpage with a form to simplify data collection for another department. I shall code it with Vue.js with a .NET Core backend. Problem being I don't know any html or js and am kinda overwhelmed with the task. They know the scope of my knowledge and that I don't know js and barely know C#.
+I'm up for the challenge but feel the expectations weighing me down so I would like to ask for some pointers. Nothing like code examples but more like a roadmap what to focus on and how to approach this project.
+Thanks in advance nerdarmy ✌🏻️",MagneyPrime,1h7ycxm,https://reddit.com/r/learnprogramming/comments/1h7ycxm/would_like_a_few_pointers/,https://www.reddit.com/r/learnprogramming/comments/1h7ycxm/would_like_a_few_pointers/,2024-12-06 10:22:50,2,0.75,2,0,5,0,0,False,False,True,False,False,,,t3_1h7ycxm
+learnprogramming,Finding programming friends.,"I saw a post earlier that said that someone was looking for friends in programming. I would like to have programmer friends. I'm a teen and I've programmed for about a year, with python being main and a little c++ on the side. I'm into tech like arch linux, I use neovim, alt keyboard layout etc.I'm looking for like minded individuals who are into programming, preferably python or C++ to make a project together or something. Disclaimer, I don't know how to use git for a project. You can reach out in the comments and we can go from there, thanks.",Iammethatisyou,1h7nhfx,https://reddit.com/r/learnprogramming/comments/1h7nhfx/finding_programming_friends/,https://www.reddit.com/r/learnprogramming/comments/1h7nhfx/finding_programming_friends/,2024-12-05 23:44:16,13,0.85,13,0,6,0,0,False,False,True,False,False,Resource,,t3_1h7nhfx
+learnprogramming,why is this program not working ?,"this function is supposed to compare two strings through their pointers to check if one of them is the substring of the other , but it's not working . i tried adding `printf`  inside and i noticed that the loops aren't even iterating and i couldn't find the reason.
+
+`int is_substring( char *str1, char *str2) {`
+
+`int i = 0, j, k, mismatch = 0;`
+
+`while (*(str1 + i) != '\0') {`
+
+`// If the first character of \`str2\` matches \`str1\[i\]\`\`
+
+`if (*(str1 + i) == *str2) {`
+
+`j = 0;`
+
+`k = i;`
+
+`mismatch = 0;`
+
+`// Traverse \`str2\` and \`str1\` to check if \`str2\` is a substring of \`str1\`\`
+
+`while (*(str2 + j) != '\0' &amp;&amp; *(str1 + k) != '\0') {`
+
+`if (*(str2 + j) != *(str1 + k)) {`
+
+`mismatch = 1;`
+
+`break; // If a difference is found, stop the comparison`
+
+`}`
+
+`j++;`
+
+`k++;`
+
+}
+
+`if (mismatch == 0) {`
+
+`return 1;`
+
+`}`
+
+`}`
+
+`i++;`
+
+`}`
+
+`return 0; // \`str2\` is not a substring of \`str1\`\`
+
+`}`
+
+`main(){`
+
+`char ADN1[30] = ""AAGCAGTACCTAATG"";`
+
+`char sADN1[5]=""GTA"";`
+
+`int x;`
+
+`char *p1 = ADN1;`
+
+`char *sp1= sADN1;`
+
+`x = is_substring(p1, sp1);`
+
+`if (x == 1) {`
+
+`printf(""\nsADN1 is a substring of ADN1\n"");`
+
+`} else if (x == 0) {`
+
+`printf(""\nsADN1 is not a substring of ADN1\n"");`
+
+`}`
+
+}",Desperate-Effort4748,1h8203k,https://reddit.com/r/learnprogramming/comments/1h8203k/why_is_this_program_not_working/,https://www.reddit.com/r/learnprogramming/comments/1h8203k/why_is_this_program_not_working/,2024-12-06 14:01:33,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h8203k
+learnprogramming,I want to start learning web development but I am confused which course I should take ? Please help me so I can focus on learning.,"Hello everyone,
+
+I found two courses that are good for web development
+
+1. The web developer boot camp 2024 by (Colt Steele)
+2. The Odin Project",Icy-capt_sid,1h81rzt,https://reddit.com/r/learnprogramming/comments/1h81rzt/i_want_to_start_learning_web_development_but_i_am/,https://www.reddit.com/r/learnprogramming/comments/1h81rzt/i_want_to_start_learning_web_development_but_i_am/,2024-12-06 13:50:44,1,1.0,1,0,4,0,0,False,False,True,False,False,,,t3_1h81rzt
+learnprogramming,Developing your own app ,"What does developing your own app obtain. Ofc write working code for my app but what other things ? I started on this project of my own, selling app(something like vinted, blablacar, some car sales sites). Where people could just post their things to sell/to look for. My first goal is to bring app to PoC stage from where i could look for sponsors. But i have huuge lack of skill. I am learning to code so i can code everything by myself but thats all. Are there some resources or course where i could learn what everything it obtains developing my own app. I know in some stage ill need to hire people working for me, but i really want to know at least theoretical way what all it needs to be properly done. For all who thinks it is fail for 99%, ik but i want to try it anyway, learn new things and see what i am capable of. This app wont need any special features, it wont obtain paying through app, just post advertisement, ask for advertisement, write reviews, create profile with option to verify, in app chat. Paying only for posting advertisment. Same concept as blablacar id say. Thanks yall so much. ",Article_Prior,1h7xy92,https://reddit.com/r/learnprogramming/comments/1h7xy92/developing_your_own_app/,https://www.reddit.com/r/learnprogramming/comments/1h7xy92/developing_your_own_app/,2024-12-06 09:53:02,2,0.75,2,0,3,0,0,False,False,True,False,False,Tutorial,,t3_1h7xy92
+learnprogramming,What to study / do with 9 months before college?,"Hi! I've applied to college for computer science, and I'm especially interested in machine learning, so I'll probably be doing cs major stats minor or something similar. I’ve done CS50 Python and Intro to CS, as well as an intro to ML course. I'm wondering what I should start doing or studying today. I know *how* to learn anything, so my question isn't where to start, I just want some advice on what to use my time for. I'm torn between AI-focused study like linear algebra &amp; ML, or something more broad for coing as a whole, since I'm not 100% committed to AI/ML. And I don't want to waste time self-studying something that I'll just re-learn in college, though I know for many of these things prior knowledge is very helpful. Also, I want to make sure I'm not missing any opportunities to start working today toward an early intership and strong path to a career, so any advice for the path to a job would be greately appreciated as well. Thanks!
+
+",AItyAccount,1h7uhfa,https://reddit.com/r/learnprogramming/comments/1h7uhfa/what_to_study_do_with_9_months_before_college/,https://www.reddit.com/r/learnprogramming/comments/1h7uhfa/what_to_study_do_with_9_months_before_college/,2024-12-06 05:46:20,2,0.67,2,0,5,0,0,False,False,True,False,False,,,t3_1h7uhfa
+learnprogramming,My Progress bar isn't functioning properly,"Hi all, I am so stuck on how to make this progression bar work. I want it to move with the cards but I don't want it showing in the cards on the top and just want the orange bar and numbers changing but it's also transitioning at the moment. I got it to work without the bars in the cards but it was still transitioning. Please can someone help as I feel I'm making the code so much worse as I've been doing trail and error for 2 days. You'll find the code below. If you need anything else let me know : )
+
+[https://github.com/A33ie/Expanding-cards](https://github.com/A33ie/Expanding-cards)",Smooth-Gene3612,1h7zdeh,https://reddit.com/r/learnprogramming/comments/1h7zdeh/my_progress_bar_isnt_functioning_properly/,https://www.reddit.com/r/learnprogramming/comments/1h7zdeh/my_progress_bar_isnt_functioning_properly/,2024-12-06 11:33:47,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h7zdeh
+learnprogramming,New Undergrad graduate wanting some post graduation advice?,"So i’m graduating on december 13th and changed my major last year during my junior semester from Biomedical Sciences to Interdisciplinary Studies with a focus on IT and since then i’ve honed down on what i see myself doing career wise which is full stack engineering but being that im still fairly new in tech I would love some advice on what’s the best steps for me to take in regards to if i should get some certs under my belt bc currently i have just focused on doing mini projects but i have had no luck in getting a full time position at all . I’ve been going to career fairs , reaching out to alumni for some advice ,and taking in so many different opinions but i just wanna make sure im on the right track .",Worried-Bear-9935,1h7yxew,https://reddit.com/r/learnprogramming/comments/1h7yxew/new_undergrad_graduate_wanting_some_post/,https://www.reddit.com/r/learnprogramming/comments/1h7yxew/new_undergrad_graduate_wanting_some_post/,2024-12-06 11:03:13,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h7yxew
+learnprogramming,Do you visualize code in your head?,"Ive read ""imagine variables as a ""box"" and values as ""things in the box"""". Do programmers actually vizualize this or other things? Im very curious. Simple yes/no is enough :\]",Simple-Alternative28,1h76vlo,https://reddit.com/r/learnprogramming/comments/1h76vlo/do_you_visualize_code_in_your_head/,https://www.reddit.com/r/learnprogramming/comments/1h76vlo/do_you_visualize_code_in_your_head/,2024-12-05 11:16:07,75,0.91,75,0,111,0,0,False,False,True,False,False,,,t3_1h76vlo
+learnprogramming,"If you had to start learning Angular for the first time for a greenfield project, how do you start with the latest version (19) way of things?","I'm asking this because whenever languages are transitioning most tutorials are either outdated, or default to the old mode, or have a lot of extra explanations that go either ""there are two ways you should know"" or for those with prev experience.
+
+I don't want the extra load on my brain, it's like when a lot of React tutorials had both class components and functional components side by side.",Valuable_Charity1,1h7yntc,https://reddit.com/r/learnprogramming/comments/1h7yntc/if_you_had_to_start_learning_angular_for_the/,https://www.reddit.com/r/learnprogramming/comments/1h7yntc/if_you_had_to_start_learning_angular_for_the/,2024-12-06 10:44:57,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h7yntc
+learnprogramming,Scaling Up My Shopify Store Without a Developer,"Hi, I have a Shopify store I designed myself after taking a course, and it’s been great—sales are picking up! But I’m thinking of opening a standalone website where I can blog about my products, share customer stories, and maybe host some exclusive deals to connect with my audience better. I want to do it myself to stay hands-on and keep costs down, plus I like learning these things. Does anyone have suggestions for easy-to-use platforms where I can build it without hiring a developer?",minemateinnovation,1h7yleb,https://reddit.com/r/learnprogramming/comments/1h7yleb/scaling_up_my_shopify_store_without_a_developer/,https://www.reddit.com/r/learnprogramming/comments/1h7yleb/scaling_up_my_shopify_store_without_a_developer/,2024-12-06 10:40:02,1,0.6,1,0,4,0,0,False,False,True,False,False,,,t3_1h7yleb
+learnprogramming,How to tell if a matrix can be made symmetric by reordering the rows and columns?,Is there an efficient way to tell if a matrix can be made symmetric by reordering its rows and columns?,MrMrsPotts,1h7y9wy,https://reddit.com/r/learnprogramming/comments/1h7y9wy/how_to_tell_if_a_matrix_can_be_made_symmetric_by/,https://www.reddit.com/r/learnprogramming/comments/1h7y9wy/how_to_tell_if_a_matrix_can_be_made_symmetric_by/,2024-12-06 10:16:49,1,0.66,1,0,0,0,0,False,False,True,False,False,,,t3_1h7y9wy

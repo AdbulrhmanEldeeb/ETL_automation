@@ -1,0 +1,113 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] Training with synthetic data and model collapse. Is there progress?,"About a year ago, research papers talked about model collapse when dealing with synthetic data. Recently I’ve been hearing about some progress in this regard. I am not expert and would welcome your views on what’s going on. Thank you and have a fantastic day.",BubblyOption7980,1hd92mt,https://reddit.com/r/MachineLearning/comments/1hd92mt/d_training_with_synthetic_data_and_model_collapse/,https://www.reddit.com/r/MachineLearning/comments/1hd92mt/d_training_with_synthetic_data_and_model_collapse/,2024-12-13 10:03:43,2,0.55,2,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1hd92mt
+MachineLearning,[D] What Models Are Best at Producing Ambient Sounds/ Music?,"I'm working on an application that requires ambient sounds/ music. For example:
+
+* ""A crackling fire, with chat murmuring in the background.""
+* ""Nightime countryside summer sounds in the UK.""
+* ""Wind blowing through the mountains as you're stood on a high rock.""
+
+I've had a look at Hugging Face and found the Text-To-Audio section. However it appears the top models have very few downloads:
+
+https://preview.redd.it/d4o7g760yf6e1.png?width=1788&amp;format=png&amp;auto=webp&amp;s=2901a7678582745beb714b81519712bac37bd195
+
+This makes me think the field is immature, and there's no clear best model. Is this a fair appraisal of the field, or are there models outside of Hugging Face that perform well for this use case?",FPGA_Superstar,1hcof9m,https://reddit.com/r/MachineLearning/comments/1hcof9m/d_what_models_are_best_at_producing_ambient/,https://www.reddit.com/r/MachineLearning/comments/1hcof9m/d_what_models_are_best_at_producing_ambient/,2024-12-12 16:07:30,0,0.42,0,0,4,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/TCjeAYae_sK1rwe1hACJo5HRrqIniSivkrmvMhxxwGc.jpg,t3_1hcof9m
+MachineLearning,[R] Rethinking the positive pairs in contrastive learning,"Hi, I am sharing my recent work which allows arbitrary images to be positive pairs. Our finding is quite astonishing that two disparate images, e.g., a snake and a lamp, can be positive. Our work potentially broadens the applications of contrastive learning to deal with the ""false positive"" in which two views are not similar.
+
+We challenge the common sense in contrastive learning, that is, the positive pair design is critical. Our results prove that the feature selection is the key!
+
+Paper: [https://arxiv.org/abs/2410.18200](https://arxiv.org/abs/2410.18200)",Miserable-Gene-308,1hcpoo6,https://reddit.com/r/MachineLearning/comments/1hcpoo6/r_rethinking_the_positive_pairs_in_contrastive/,https://www.reddit.com/r/MachineLearning/comments/1hcpoo6/r_rethinking_the_positive_pairs_in_contrastive/,2024-12-12 17:02:44,5,0.65,5,0,6,0,0,False,False,True,False,False,Research,self,t3_1hcpoo6
+MachineLearning,"[D] I got the acceptance for my IEEE publication, does that means it will be uploaded on their Xplore page?","So I submitted a paper and it got accepted by my publication around 2 months ago, today was my conference in online mode, didnt go well I think he was in hurry he didnt listen much diagreed a bit and then closed the meet on my face. So my question is how bad is it? Will it be published as I have the acceptance or still a no?",candle_misuser,1hcpqj4,https://reddit.com/r/MachineLearning/comments/1hcpqj4/d_i_got_the_acceptance_for_my_ieee_publication/,https://www.reddit.com/r/MachineLearning/comments/1hcpqj4/d_i_got_the_acceptance_for_my_ieee_publication/,2024-12-12 17:04:48,0,0.29,0,0,16,0,0,False,False,True,False,False,Discussion,self,t3_1hcpqj4
+MachineLearning,[D] help with evaluating model,"i am having an issue with evaluating my model because model.evaluate() returns an okay overall score in accuracy but the confusion matrix and classification report return 100% for one class and 0% for another, i am using cifar10 but only 2 classes from it. anyone know why this happens? is this overfitting i am not sure because i am getting a similar score as model.evaluate(0 in my training accuracy and same for loss (which is almost as high as the accuracy)",Affectionate_Pen6368,1hd5kht,https://reddit.com/r/MachineLearning/comments/1hd5kht/d_help_with_evaluating_model/,https://www.reddit.com/r/MachineLearning/comments/1hd5kht/d_help_with_evaluating_model/,2024-12-13 05:40:50,1,0.6,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hd5kht
+MachineLearning,"[D] ""Proper"" way to upload accepted conference paper to the ArXiv?","We recently had a paper accepted to a conference (AAAI). We found out that the conference does not publish appendices so they recommend we upload the full paper (with appendix) to arXiv. This is something we were considering doing anyway since the paper would be available before the conference proceedings come out.
+
+My concern is that if someone decides to cite our work, they may either become confused or cite the arXiv rather than AAAI ""version"".
+
+Is there a ""correct"" or common way to handle this? Do arXiv uploads with the same title get indexed to ""one manuscript"" on google scholar?
+
+Also, are we allowed to use the conference template to upload? (This part might be conference dependent I suppose).
+
+I know it is common these days to upload to arXiv before hearing back from a conference (usually with a different title) but I think this is a slightly different situation as the paper is accepted and the uploaded version will be identical to the conference paper (though with an Appendix).
+
+Thanks in advance!",baghalipolo,1hcupkm,https://reddit.com/r/MachineLearning/comments/1hcupkm/d_proper_way_to_upload_accepted_conference_paper/,https://www.reddit.com/r/MachineLearning/comments/1hcupkm/d_proper_way_to_upload_accepted_conference_paper/,2024-12-12 20:38:05,5,0.7,5,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hcupkm
+MachineLearning,[D] Pet project - Style Transfer Neural Networks Implementation,"Hi, I am learning ML and this is my first project. I did a simple 100 LoC implementation of the *Neural Style Transfer* paper by Gatys et al. See [https://github.com/TAOGenna/pytorch-neural-style-transfer](https://github.com/TAOGenna/pytorch-neural-style-transfer)
+
+https://preview.redd.it/x2udi76n2g6e1.jpg?width=939&amp;format=pjpg&amp;auto=webp&amp;s=437bdda1683e9fd580a6b3d1d4dc2598b25079ff
+
+  
+",TAO_genna,1hcottj,https://reddit.com/r/MachineLearning/comments/1hcottj/d_pet_project_style_transfer_neural_networks/,https://www.reddit.com/r/MachineLearning/comments/1hcottj/d_pet_project_style_transfer_neural_networks/,2024-12-12 16:25:17,3,0.71,3,0,0,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/BbvnpWVVY1jQ1n7M80lXl0kKKowiy2y473otZfpwdWo.jpg,t3_1hcottj
+MachineLearning,[D] Agentic AI Design Patterns,"I was looking into design patterns for Agentic AI and I could need some help to grasp the concepts.
+
+I read about ReAct and ReWOO.
+
+From ReWOO, I really liked the idea of having a planner that creates a blueprint of the work that needs to be done. I can imagine that this works well for a lot of tasks, and it optimizes token usage compared to ReAct.
+
+From ReAct, I like that it has a reflection/observation LLM, to decide whether the output is good enough or needs another pass through the agents.
+
+What I don't understand:
+Why does ReWOO not have a reflection component??
+
+Wouldn't it be the best of both worlds to have the planner and the reflection?
+
+This was the first draft for my agentic AI prototype, and I think it has pretty obvious advantages.
+
+I think I am missing something here.",Mindless_Copy_7487,1hd8w3k,https://reddit.com/r/MachineLearning/comments/1hd8w3k/d_agentic_ai_design_patterns/,https://www.reddit.com/r/MachineLearning/comments/1hd8w3k/d_agentic_ai_design_patterns/,2024-12-13 09:49:22,1,0.67,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hd8w3k
+MachineLearning,[D] What makes TikTok's recommendation algorithm so strong?,"General Discussion - now that they are about to be banned in the US, I'm becoming fascinated by the strength of their For You recommendations. To try and put some guard rails on what I mean, TikTok has shown itself to be able to match content to relevant audience at greater frequency and scale than any other app (YouTube included). Many creators can join the platform, post a single video, and have millions of views in 24 hours. This does happen on other apps, but TikTok seems to be the most consistent at scaling audience incredibly fast.
+
+What models might they be basing their system on? What about their models creates their competitive advantage?",No_Collection_5509,1hcp4xw,https://reddit.com/r/MachineLearning/comments/1hcp4xw/d_what_makes_tiktoks_recommendation_algorithm_so/,https://www.reddit.com/r/MachineLearning/comments/1hcp4xw/d_what_makes_tiktoks_recommendation_algorithm_so/,2024-12-12 16:39:06,100,0.91,100,0,26,0,0,False,False,True,False,False,Discussion,self,t3_1hcp4xw
+MachineLearning,[D] Importance of HPO per field / model type / applications,"I’ve noticed that the time spent on hyperparameter optimization vary significantly, not just between industry and academia but also across different fields like NLP, computer vision, or reinforcement learning. I’m curious—what’s your experience?
+
+* Is tuning something you prioritize heavily, or do you often settle for “good enough” configurations to move faster?
+* What field / model type / applications do you think experience most(or least) bottleneck in workflow due to HPO?
+* Are there any industry dependency around choosing HPO tools? For example, everyone in xx industry would pick Optuna as a go-to or everyone running xx experiments would use Sigopt.
+
+Would love to hear your experiences! Thanks",Maleficent_Ad5541,1hd6pjv,https://reddit.com/r/MachineLearning/comments/1hd6pjv/d_importance_of_hpo_per_field_model_type/,https://www.reddit.com/r/MachineLearning/comments/1hd6pjv/d_importance_of_hpo_per_field_model_type/,2024-12-13 06:58:12,7,0.89,7,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hd6pjv
+MachineLearning,[D] The winner of the NeurIPS 2024 Best Paper Award  sabotaged the other teams,"Presumably, the winner of the NeurIPS 2024 Best Paper Award (a guy from ByteDance, the creators of Tiktok) sabotaged the other teams to derail their research and redirect their resources to his own. Plus he was at meetings debugging his colleagues' code, so he was always one step ahead. There's a call to withdraw his paper.
+
+[https://var-integrity-report.github.io/](https://var-integrity-report.github.io/)
+
+I have not checked the facts themselves, so if you can verify what is asserted and if this is true this would be nice to confirm.",LelouchZer12,1hctf36,https://reddit.com/r/MachineLearning/comments/1hctf36/d_the_winner_of_the_neurips_2024_best_paper_award/,https://www.reddit.com/r/MachineLearning/comments/1hctf36/d_the_winner_of_the_neurips_2024_best_paper_award/,2024-12-12 19:41:41,515,0.97,515,0,60,0,0,False,False,True,False,False,Discussion,self,t3_1hctf36
+MachineLearning,[R] Identifying Critical Decision Points in Neural Text Generation Through Token-Level Uncertainty Analysis,"This paper introduces a framework for analyzing and visualizing the branching decisions language models make during text generation. The key methodology involves tracking probability distributions across different sampling paths to understand how early choices affect downstream generation.
+
+Main technical points:
+- Developed metrics to quantify uncertainty at each generation step
+- Created visualization tools for mapping decision trees in generation
+- Analyzed how different sampling methods affect path divergence
+- Measured correlation between model confidence and generation quality
+- Identified clustering patterns in generation trajectories
+
+Key results:
+- Found that paths tend to cluster into 2-3 distinct trajectory groups
+- Early sampling decisions have outsized impact on final outputs
+- Uncertainty patterns vary significantly between sampling methods
+- Similar prompts can lead to dramatically different generation paths
+- Model confidence doesn't consistently predict output quality
+
+I think this work provides important insights into how we might better control text generation. The ability to map and understand generation paths could help develop more reliable sampling methods and better uncertainty estimates.
+
+I think the clustering of generation paths is particularly interesting - it suggests there may be ways to guide generation toward desired trajectory groups. This could be valuable for applications needing more predictable outputs.
+
+The methodology also reveals some concerning aspects about current sampling methods. The strong dependence on early decisions suggests we may need new approaches that better preserve generation flexibility throughout the sequence.
+
+TLDR: New framework for analyzing how language models make text generation choices. Shows that generation paths cluster into distinct groups and early decisions heavily influence outcomes. Could help develop better sampling methods and uncertainty estimates.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/forking-paths-neural-text-generation). Paper [here](https://arxiv.org/abs/2412.07961).",Successful-Western27,1hdd0kk,https://reddit.com/r/MachineLearning/comments/1hdd0kk/r_identifying_critical_decision_points_in_neural/,https://www.reddit.com/r/MachineLearning/comments/1hdd0kk/r_identifying_critical_decision_points_in_neural/,2024-12-13 14:10:21,1,1.0,1,0,1,0,0,False,False,True,False,False,Research,self,t3_1hdd0kk
+MachineLearning,[D] LSTM model implementation and approximation questions,"For a project I am currently trying to integrate an Autoencoder for feature extraction and an LSTM for classification of the reduced feature space. The problem I am encountering is on how to train the LSTM network. The AE produces 5 datapoints which is fed into the LSTM network. The trick now comes in on the training of the LSTM network and how the LSTM works. I want the LSTM to take into account the 5 parameters from the AE at time t as well as the parameters at t-1 and t-2. As far as I understand the LSTM does this automatically, or should it then be that the LSTM takes in a total of 15 parameters with each pair of 5 corresponding to one timestep of the AE?
+
+Any advice on LSTM would be great or how such training can be done in an efficient way. The AE is processing a time-series signal.",Sea_Onion41,1hcvh1c,https://reddit.com/r/MachineLearning/comments/1hcvh1c/d_lstm_model_implementation_and_approximation/,https://www.reddit.com/r/MachineLearning/comments/1hcvh1c/d_lstm_model_implementation_and_approximation/,2024-12-12 21:09:27,4,0.84,4,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hcvh1c
+MachineLearning,[P] Scalling data from aggregated calculations,"Hello, I have a project in which I detect anomalies on transactions data from ethereum blockchain. I have performed aggregated calculations on each wallet address (ex. minimum, maximum, median, sum, mode of transactions' values) and created seperated datafile with it. I have joined the data on all the transactions. Now I have to standardize data (I have chosen robust scalling) before machine learning but I have following questions regarding this topic:
+
+1. Should I actually standardize each feature based on its unique mean and iqr? Or perform scalling on the column that the calculations come from - value column and than use its mean and iqr to scale the calculated columns?
+2. If each feature was scaled based on its own mean and iqr should I do it before joining calculated data or after?",Wikar,1hcukjg,https://reddit.com/r/MachineLearning/comments/1hcukjg/p_scalling_data_from_aggregated_calculations/,https://www.reddit.com/r/MachineLearning/comments/1hcukjg/p_scalling_data_from_aggregated_calculations/,2024-12-12 20:32:01,1,1.0,1,0,0,0,0,False,False,True,False,False,Project,self,t3_1hcukjg
+MachineLearning,From Viruses and Materials to Galaxies and Beyond: The Role Machine Learning Plays in Scientific Discovery,,SlothSpeedRunning,1hcubv2,https://reddit.com/r/MachineLearning/comments/1hcubv2/from_viruses_and_materials_to_galaxies_and_beyond/,https://lettersandsciencemag.ucdavis.edu/science-technology/viruses-and-materials-galaxies-and-beyond,2024-12-12 20:21:10,3,1.0,3,0,0,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/SRD_I9dMMiKup552l256JNNe6jjxqQTl9DnvS7gkMO8.jpg,t3_1hcubv2
+MachineLearning,"[D] does intel gpu support ROCm or AMD cards  support intel one?
+","i can't find this information and if both are open source it make sense a compatibility layer , any of the two is already ported to the other platform?, if you can share info about nvidia too will be cool
+
+
+
+",mrnothing-,1hctd0o,https://reddit.com/r/MachineLearning/comments/1hctd0o/d_does_intel_gpu_support_rocm_or_amd_cards/,https://www.reddit.com/r/MachineLearning/comments/1hctd0o/d_does_intel_gpu_support_rocm_or_amd_cards/,2024-12-12 19:39:17,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hctd0o
+MachineLearning,[D] Question About ResNet and Scalability of Extremely Deep Networks,"I’ve been exploring the architecture of ResNet and its ability to train very deep neural networks effectively. While I understand that residual connections help mitigate issues like vanishing gradients and make training deeper networks feasible, I’m curious about the limitations of this approach when scaling to extremely deep networks, such as those with 1000 layers or more.
+
+From my understanding, a ResNet with, say, 100 layers might effectively function like a much smaller network due to the residual connections, which essentially ""skip"" layers and add outputs. However, wouldn’t this also mean that if a regular MLP struggles to scale beyond 15 layers, a ResNet might just shift this limit proportionally (e.g., struggling beyond 150 layers)? In other words, does ResNet fundamentally solve the problem of training extremely deep networks, or does it merely extend the depth at which issues start to reappear?
+
+  
+I’d appreciate any insights you might have! TYSM!",Time_Celebration6058,1hco4ig,https://reddit.com/r/MachineLearning/comments/1hco4ig/d_question_about_resnet_and_scalability_of/,https://www.reddit.com/r/MachineLearning/comments/1hco4ig/d_question_about_resnet_and_scalability_of/,2024-12-12 15:54:53,3,1.0,3,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hco4ig

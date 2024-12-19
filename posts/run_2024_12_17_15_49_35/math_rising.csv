@@ -1,0 +1,58 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Are there theorems which are only proveable by contradictoin,"Exactly as the title suggests, I was wondering if there are certain theorems or proofs only possible using proof by contradiction, as in there is no other way (yet) to prove them.",k0_m3,1hgab8u,https://reddit.com/r/math/comments/1hgab8u/are_there_theorems_which_are_only_proveable_by/,https://www.reddit.com/r/math/comments/1hgab8u/are_there_theorems_which_are_only_proveable_by/,2024-12-17 13:12:21,60,0.97,60,0,30,0,0,False,False,True,False,False,,,t3_1hgab8u
+math,Looking for a probability theory book recommendation ,"I have probability theory course in my next semester and I'm interested in the course. Can someone please recommend some books from where I can learn. 
+Something which starts from basic would be helpful.
+
+Thank you guys in advance ",Saiki_kusou01,1hg66gl,https://reddit.com/r/math/comments/1hg66gl/looking_for_a_probability_theory_book/,https://www.reddit.com/r/math/comments/1hg66gl/looking_for_a_probability_theory_book/,2024-12-17 08:22:11,26,0.92,26,0,21,0,0,False,False,True,False,False,,,t3_1hg66gl
+math,What evidence is there that Poincaré figured out the theory of relativity before Einstein?,Thank you all! No need for further responses unless you are adding to the discussion in a meaningful way. I got a few great comments already ,petrastales,1hftjct,https://reddit.com/r/math/comments/1hftjct/what_evidence_is_there_that_poincaré_figured_out/,https://www.reddit.com/r/math/comments/1hftjct/what_evidence_is_there_that_poincaré_figured_out/,2024-12-16 21:05:06,124,0.84,124,0,48,0,0,False,False,True,False,False,,,t3_1hftjct
+math,What would the graph of a functional look like?,"It’s currently 4am and this is my late night thought and I have a presentation in 6 hours. 
+
+How would you even graph a functional? 
+
+A function is when x-&gt;f(x) and a functional is when f-&gt; F[f]. So if I input x I want to see what F[f] outputs and do that for every x. I wonder if it’ll lead to chaos or something. Honestly, I don’t know any equations that are functional (can I make one up?) besides the Kohn-Sham equations because it is the back bone of DFT which is part of my research. 
+
+Anyways, just curious feel free to enlighten me. 
+
+
+Edit: notation is key ",seminaia,1hg6sxn,https://reddit.com/r/math/comments/1hg6sxn/what_would_the_graph_of_a_functional_look_like/,https://www.reddit.com/r/math/comments/1hg6sxn/what_would_the_graph_of_a_functional_look_like/,2024-12-17 09:11:28,14,0.77,14,0,19,0,0,False,False,True,False,False,,,t3_1hg6sxn
+math,Looking for number theory textbook recommendations,"Ive taken calc 1-3, linear algebra, and most recently I finished Epps “Discrete Math with applications” and now I’m looking for a number theory textbook to use for self studying. Ideally the textbook should have exercises and solutions if possible. For what it’s worth I really liked Epps textbook and the formatting of it too if there’s anything out there that’s similar, although that is no where near the top of my priority list when looking for a number theory textbook. ",Marvelman3284,1hg4axb,https://reddit.com/r/math/comments/1hg4axb/looking_for_number_theory_textbook_recommendations/,https://www.reddit.com/r/math/comments/1hg4axb/looking_for_number_theory_textbook_recommendations/,2024-12-17 06:06:28,21,1.0,21,0,5,0,0,False,False,True,False,False,,,t3_1hg4axb
+math,The Year in Math | Quanta Magazine - Jordana Cepelewicz,,Nunki08,1hg1ujb,https://reddit.com/r/math/comments/1hg1ujb/the_year_in_math_quanta_magazine_jordana/,https://www.quantamagazine.org/the-year-in-math-20241216/,2024-12-17 03:40:49,24,0.93,24,0,2,0,0,False,False,False,False,False,,,t3_1hg1ujb
+math,Looking for a reference grade Algebra book,"Hi Reddit,
+
+I have just done with studying Thomas' Calculus book, and I have to say it was one of the best math books out there. I am now looking for a similar style well written classic Algebra &amp; Trigonometry book.   
+Many suggested ""Linear Algebra Done Right"" however I didn't find this book interesting or in the same class of Thomas' Calculus book (with all respect to the author). Also, been through ""Introductory and Intermediate Algebra"" by Bittinger and didn't quite like it.. 
+
+Is there any other hidden gens out there that I am missing? Looking for your advice.. 
+
+",maxfactor9933,1hg9x4p,https://reddit.com/r/math/comments/1hg9x4p/looking_for_a_reference_grade_algebra_book/,https://www.reddit.com/r/math/comments/1hg9x4p/looking_for_a_reference_grade_algebra_book/,2024-12-17 12:50:29,3,0.64,3,0,3,0,0,False,False,True,False,False,,,t3_1hg9x4p
+math,Is there any deep intuition behind inner products and orthogonal functions?,"
+I’m studying measure theory in my masters year. I really love analysis and so far everything makes sense and is very easy to follow. I always like to construct my own proofs of theorems and I understand everything.. that is until I started studying orthogonal functions. 
+
+I have 0 intuition as to why,what and when two functions are orthogonal. Saying that the integral of their multiplication should be 0 gives me 0 clue as to what this thing looks like. I did some reading about it and it related it back to the dot product of vectors, but I don’t have any intuition as to why thats true either (I can prove it algebraically and its straightforward, but the proof seems like a blind man feeling his way out of a dark room slowly). When I prove analysis based theorems, I can always see it in my head, then formulate it in terms of algebra. But when that “head image” is not there and all you have is blind algebra, it just sucks all the joy out of studying it.",sheraawwrr,1hfs9os,https://reddit.com/r/math/comments/1hfs9os/is_there_any_deep_intuition_behind_inner_products/,https://www.reddit.com/r/math/comments/1hfs9os/is_there_any_deep_intuition_behind_inner_products/,2024-12-16 20:11:24,63,0.92,63,0,28,0,0,False,False,True,False,False,,,t3_1hfs9os
+math,A visual proof that a^2 – b^2 = (a + b)(a – b),,mmaksimovic,1hfiat0,https://reddit.com/r/math/comments/1hfiat0/a_visual_proof_that_a2_b2_a_ba_b/,https://www.futilitycloset.com/2024/12/15/tidy-2/,2024-12-16 12:46:13,235,0.91,235,0,38,0,0,False,False,False,False,False,,,t3_1hfiat0
+math,Noether normalization lemma proof (Nagata),"I think I understand the statement at an intuitive level now.  Let me know if this is the right way to think about it!
+
+For a field k, a k-algebra on n generators A = k\[x\_1,...,x\_n\] can be ""factored"" into a two-stage extension of k, with each stage having a finiteness property:
+
+1. By extending k as a ring to B = k\[x\_1',...,x\_m'\] \\cong k\[X\_1,...,X\_m\] for a finite collection x\_i \\in A for some 0 \\leq m \\leq n, and then 
+
+2. By extending B as a module to get A (i.e., there's a finite collection y\_1,...,y\_r \\in A such that every element of A can be written as \\sum b\_iy\_i for b\_i \\in B.
+
+It's like the dimensionality of A is m, but you can add a ""fudge factor"" of this module-finite extension on top of that.
+
+It seems like a really natural statement, but the standard proof by Nagata is horrendous.  I'm reading it in Reid's Undergraduate Commutative Algebra, and he has a way of brushing details under the rug, but even then, it's a complicated construction.  
+
+I roughly understand that it's doing a change-of-variables and I learned that there's a nice geometric interpretation of getting ""m-dimensional"" affine varieties in A\^n to project to A\^m with finite fibers by changing the coordinate axes.
+
+Can someone explain where the intuition of the Nagata proof comes from?  The proof makes it look like an ugly ""technical lemma"", even though the statement seems to be fundamentally important for algebraic geometry.  Are there cleaner proofs?  (The proof for k infinite is cleaner, but I still don't understand the intuitive idea of why you would change variables this way.)",WMe6,1hfyak4,https://reddit.com/r/math/comments/1hfyak4/noether_normalization_lemma_proof_nagata/,https://www.reddit.com/r/math/comments/1hfyak4/noether_normalization_lemma_proof_nagata/,2024-12-17 00:37:28,16,0.95,16,0,5,0,0,False,False,True,False,False,,,t3_1hfyak4
+math,"What Are You Working On? December 16, 2024","This recurring thread will be for general discussion on whatever math-related topics you have been or will be working on this week. This can be anything, including:
+
+* math-related arts and crafts,
+* what you've been learning in class,
+* books/papers you're reading,
+* preparing for a conference,
+* giving a talk.
+
+All types and levels of mathematics are welcomed!
+
+If you are asking for advice on choosing classes or career prospects, please go to the most recent [Career &amp; Education Questions thread](https://www.reddit.com/r/math/search?q=Career+and+Education+Questions+author%3Ainherentlyawesome+&amp;restrict_sr=on&amp;sort=new&amp;t=all).",inherentlyawesome,1hfnook,https://reddit.com/r/math/comments/1hfnook/what_are_you_working_on_december_16_2024/,https://www.reddit.com/r/math/comments/1hfnook/what_are_you_working_on_december_16_2024/,2024-12-16 17:00:16,15,1.0,15,0,11,0,0,False,False,True,False,False,,,t3_1hfnook

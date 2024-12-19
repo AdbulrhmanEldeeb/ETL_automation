@@ -1,0 +1,107 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,How does your org handle local dev environments?,"My org has a lot of toil around local dev envs (managing multiple projects with different ruby versions), and I'm curious how other companies are handling theirs. Our prod/staging envs are EKS, but our local env I'm pretty sure is held together by docker compose. Considered using tilt or minikube, but we use many AWS services that our apps rely on.",DisagreeableMale,1hgn9iy,https://reddit.com/r/devops/comments/1hgn9iy/how_does_your_org_handle_local_dev_environments/,https://www.reddit.com/r/devops/comments/1hgn9iy/how_does_your_org_handle_local_dev_environments/,2024-12-17 22:54:30,50,0.94,50,0,26,0,0,False,False,True,False,False,,self,t3_1hgn9iy
+devops,Ephemeral Environments in Serverless: yay or nay?,"For developers working with serverless architectures: how do you manage testing and debugging when environments are ephemeral by nature? Do you find it improves or hinders your workflow?
+
+For context I was reading about how ephemeral environments in serverless can optimize devex ( see [https://devops.com/the-implications-of-architecture-optimizing-developer-experience-for-serverless-success/](https://devops.com/the-implications-of-architecture-optimizing-developer-experience-for-serverless-success/) ).... but challenges like cold starts, limited visibility, and debugging in temporary environments make me a wee bit weary.
+
+ I guess like...do ephemeral environments make your life easier for quick iteration or do they create friction when you need consistency for debugging and testing?
+
+Curious to hear how others see it.
+
+",getambassadorlabs,1hgfyig,https://reddit.com/r/devops/comments/1hgfyig/ephemeral_environments_in_serverless_yay_or_nay/,https://www.reddit.com/r/devops/comments/1hgfyig/ephemeral_environments_in_serverless_yay_or_nay/,2024-12-17 17:33:44,20,0.92,20,0,3,0,0,False,False,True,False,False,,self,t3_1hgfyig
+devops,Need help with starting afresh,"Hi Everyone, I am someone who is from non computer science background but had to join a IT services company right after college.My first role was Build and Release Management. That went on for 4 years. Then after a career break trying something and failing there, I resumed my career in IT as Devops engineer. Now I am doing this for 5 years. But I feel I am a misfit and not natural for the role. The infra upgrades and tech debt and whole staying upto date makes me restless and I feel like I am not well equipped technically. So starting 2025, I want to work on myself and start afresh. Want to re-learn the whole thing starting from
+How data center works.What are the components of a server and how cables,networks,switches etc work and how infra is managed and how networking works in the background like really basics to understan what I am doing. I hope you are getting what I am trying to achieve. To learn as someone who has no idea what is software ops is or how infra works and how linux functions etc. 
+
+Can you please help me with videos or blogs or anything to read or watch that can help me become a better DevOps engineer. Thank you for reading. Appreciate your patience and interest.",cool_customer14,1hgy8tp,https://reddit.com/r/devops/comments/1hgy8tp/need_help_with_starting_afresh/,https://www.reddit.com/r/devops/comments/1hgy8tp/need_help_with_starting_afresh/,2024-12-18 09:45:53,8,0.9,8,0,7,0,0,False,False,True,False,False,,self,t3_1hgy8tp
+devops,Devops for Robotics- What are people doing for their robotics telemetry? Here's a run down of what my startup landed on.,"This is a longshot, I'm curious if anyone here is doing devops for robotics startups, and what kinds of tooling they're using to ingest and visualize metrics for their robotics stack.
+
+[I just made a video about how we're using Grafana, InfluxDB, ROS2, and Loki](https://www.youtube.com/watch?v=GndLr9wsrcA&amp;t=2s) to more quickly solve robot failures in the field.",apockill,1hgpuvb,https://reddit.com/r/devops/comments/1hgpuvb/devops_for_robotics_what_are_people_doing_for/,https://www.reddit.com/r/devops/comments/1hgpuvb/devops_for_robotics_what_are_people_doing_for/,2024-12-18 01:00:06,6,0.88,6,0,0,0,0,False,False,True,False,False,,self,t3_1hgpuvb
+devops,K8s from scratch as a beginner,"Hello!
+I am a devops engineer working with ansible since the last 3 years. I have a little exposure to docker, and 0 with kubernetes.
+I gave an interview where the requirement was for with someone with k8s, i obviously did not get to the second round but it's made me realise my blatant gap
+
+So my goal now is to get hands on experience with mini projects. What would the best resource for k8s be?
+
+Sadly in my organisation there's no way to switch to teams using other tools so any kind of learning I have to do myself.
+
+Suggestions and advice appreciated!
+
+Thank you.",cheese-fries-91,1hh0r34,https://reddit.com/r/devops/comments/1hh0r34/k8s_from_scratch_as_a_beginner/,https://www.reddit.com/r/devops/comments/1hh0r34/k8s_from_scratch_as_a_beginner/,2024-12-18 12:42:54,7,0.73,7,0,6,0,0,False,False,True,False,False,,self,t3_1hh0r34
+devops,How do I integrate Apache JMeter with Dynatrace Managed to monitor performance during load tests?,"I'm new to both JMeter and Dynatrace Managed, and I'm working on a project where I need to run load tests using JMeter and monitor the application's performance and resource usage in Dynatrace. I want to test this with an application I already have running on my localhost.
+
+I’ve tried looking for tutorials, videos, and blogs, but most of the content I found is either outdated or not detailed enough.
+
+* What are the key steps for setting up the integration between JMeter and Dynatrace Managed?
+* How can I ensure metrics like response times, throughput, and resource utilization are visible in Dynatrace?
+* Are there specific JMeter plugins, Dynatrace configurations, or API settings I should be aware of to get accurate insights?
+
+Any guidance, tips, or up-to-date resources would be greatly appreciated!",Big-Shlung2519,1hgdvxb,https://reddit.com/r/devops/comments/1hgdvxb/how_do_i_integrate_apache_jmeter_with_dynatrace/,https://www.reddit.com/r/devops/comments/1hgdvxb/how_do_i_integrate_apache_jmeter_with_dynatrace/,2024-12-17 16:04:53,5,0.86,5,0,2,0,0,False,False,True,False,False,,self,t3_1hgdvxb
+devops,PII and PHI scanners?,"Building out ops right now for a ML team and am looking for a tool to scan for PII and PHI. Right now we don’t have a great way to do this and are relying on devs being smart and repo structure to ignore certain regions of projects. However, I would be much more comfortable if I could have something we could run as a precommit. There a few I have found but none of them look great so far (many seem like research projects). Before I start just testing a bunch of different tools, any recommendations?
+
+",RodtSkjegg,1hgr8pg,https://reddit.com/r/devops/comments/1hgr8pg/pii_and_phi_scanners/,https://www.reddit.com/r/devops/comments/1hgr8pg/pii_and_phi_scanners/,2024-12-18 02:10:52,2,0.76,2,0,1,0,0,False,False,True,False,False,,self,t3_1hgr8pg
+devops,VPC-Native Clusters now available in GA on DigitalOcean Kubernetes (DOKS),"This feature brings seamless integration between DOKS clusters and VPC resources. With this update, any new cluster created is by default a VPC-native DOKS cluster, a significant advancement that helps ensure secure and isolated networking for your workloads. Learn more in the [blog post announcement.](https://www.digitalocean.com/blog/vpc-native-clusters)  
+",DiHannay,1hgn6nb,https://reddit.com/r/devops/comments/1hgn6nb/vpcnative_clusters_now_available_in_ga_on/,https://www.reddit.com/r/devops/comments/1hgn6nb/vpcnative_clusters_now_available_in_ga_on/,2024-12-17 22:50:56,2,0.67,2,0,0,0,0,False,False,True,False,False,,self,t3_1hgn6nb
+devops,Deployment confusion and other concerns,"We are using AWS. I just learned about SOPS few days ago. We have 3 AWS accounts, DEV, STAGE and PRODUCTION. We also have Hashicorp Vault servers for each AWS accounts.
+
+From what I read today from SOPS documentation, it looks like it can upload encrypted yaml or json to Vault using KMS. I hope I interpreted it right. Please correct me if I'm wrong.
+
+Currently, our users are using vault cli to update their secrets in vault. They asked about tracking of their secret keys. I mentioned SOPS to them and also mentioned that the encrypted yaml or json file can be stored in our git repository. However, that will require an automated pipeline to be created so that it can send the encrypted file to Vault. They didn't like the idea since they look like in a rush for a solution. So I mentioned they can directly upload the encrypted file to Vault using vault cli. However, they said ""***We can do that but this doesn't prevent someone from our team from making a mistake in upload a non-encrypted json file***"".
+
+And regarding the deployment of encrypted json to different environments, do you folks have a dedicated engineer per environment that is responsible for uploading encrypted file? Don't you use CI/CD for deployments of the encrypted file?
+
+Would love to hear your devops pipline setup that deploys SOPS encrypted files.",Oxffff0000,1hgvxyj,https://reddit.com/r/devops/comments/1hgvxyj/deployment_confusion_and_other_concerns/,https://www.reddit.com/r/devops/comments/1hgvxyj/deployment_confusion_and_other_concerns/,2024-12-18 06:48:30,1,0.67,1,0,2,0,0,False,False,True,False,False,,self,t3_1hgvxyj
+devops,[P] ML cost optimization project ,,jev3,1hgu4uh,https://reddit.com/r/devops/comments/1hgu4uh/p_ml_cost_optimization_project/,/r/MachineLearning/comments/1hgu3tu/p_ml_cost_optimization_project/,2024-12-18 04:50:46,1,1.0,1,0,0,0,0,False,False,False,False,False,,default,t3_1hgu4uh
+devops,Secret Scanning repos org-wide - Feasible?,"I'm at my 3rd company now that has no had any type of secret detection in GitHub aside from the main product repos. These aren't public, they are part of the internal org, so the blast radius is somewhat limited.
+
+However all 3 companies have refused to get GH advanced security features which would give us secret detection. I've been thinking about coding up something as a project with other team members a scanner that would continuously scan code across the entire organization and run the yelp detect-secrets cli to detect passwords, API keys, etc. committed to git.
+
+Are there any tools that do this already, and how feasible is this? There seem to be a million ways to detect secrets already, pre-commit hooks, CI/CD pipelines w/ protected branches, etc., but they can all be bypassed. pre-commit hooks are not enforced, CI/CD pipelines can have someone with write access change them, and they don't stop anything. 
+
+The thought process is to control our repos with webhooks (configurable by owners only) that are triggered on every commit. These would send to some compute that scans the commits for secrets, then either sends an alert or pushes a commit automatically with the sensitive text deleted (i.e. api-key=1234 becomes api-key-****)",TopNo6605,1hgr8dj,https://reddit.com/r/devops/comments/1hgr8dj/secret_scanning_repos_orgwide_feasible/,https://www.reddit.com/r/devops/comments/1hgr8dj/secret_scanning_repos_orgwide_feasible/,2024-12-18 02:10:24,2,0.62,2,0,13,0,0,False,False,True,False,False,,self,t3_1hgr8dj
+devops,Looking for tool to produce documentation from templates files,"
+
+I there anyone aware of any tools/frameworks for producing documentation (in MS Word or PDF format) from templated markdown files (could be multiple tools chained together)?
+
+
+
+I have been task with rewriting and updating a lot of old ""formal""  technical documentation (think architectural, instructions, and DR documents) for systems. A lot of our systems follow the same design patterns, so currently we have a lot of generic wiki pages (in markdown) by myself, outlining the overall designs, procedures, etc.
+
+
+
+As I been told I need to produce a document for each system (even if it copying and pasting simlar text/diagrams between documents).  I am now wounding if there any good tool to take templates (which can make use of varibles) and stich them together. I am even thinking to try and to hook it into CD pipeline so once a templates file is update, it can produce a new document and publish it. 
+
+
+
+Unfortunately presenting this documentation on the source controlled Wiki is not a option for business - however as long as they get a word/pdf document at the end of the process they are happy.
+
+
+
+(apologies, i know this might not be ""devops"" but I suspect this subreddit might have some suggestions on how to modernize documentation generation).
+
+  
+Thanks",RQ144,1hgpf2w,https://reddit.com/r/devops/comments/1hgpf2w/looking_for_tool_to_produce_documentation_from/,https://www.reddit.com/r/devops/comments/1hgpf2w/looking_for_tool_to_produce_documentation_from/,2024-12-18 00:37:54,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1hgpf2w
+devops,I know we can Use the Google cloud DLP API to help detect whether data contains PHI,"[I know we can Use the Google cloud DLP API to help detect whether data contains PHI](https://cloud.google.com/sensitive-data-protection/docs/infotypes-reference#united_states)
+
+[https://cloud.google.com/sensitive-data-protection/docs/infotypes-reference#united\_states](https://cloud.google.com/sensitive-data-protection/docs/infotypes-reference#united_states)  
+  
+Is your current approach to data governance robust enough to identify and protect sensitive information like PHI? Or are you considering building a custom NLP model to analyze your data and detect PHI effectively? Curious to hear which path you're leaning toward and what challenges you're facing.",rasvi786,1hggy42,https://reddit.com/r/devops/comments/1hggy42/i_know_we_can_use_the_google_cloud_dlp_api_to/,https://www.reddit.com/r/devops/comments/1hggy42/i_know_we_can_use_the_google_cloud_dlp_api_to/,2024-12-17 18:16:17,1,0.57,1,0,0,0,0,False,False,True,False,False,,self,t3_1hggy42
+devops,Devops/Infra or Data fields?,"Hello everyone, I have some doubts about my career, in fact I am Junior Support IT and in my company there are many areas that I can enter as a Junior, but in my current position I am closer to DevOps but when I see all the seniors I only see stress and a lot of after-hours activations and I don't know if I want to sleep with a phone next to me.
+
+For all of you, is the Jr/Pl/Sr DevOps field really like this? What about Data Science or Data Engineering, what do you think?",SnapeMamba,1hgznh5,https://reddit.com/r/devops/comments/1hgznh5/devopsinfra_or_data_fields/,https://www.reddit.com/r/devops/comments/1hgznh5/devopsinfra_or_data_fields/,2024-12-18 11:32:27,0,0.5,0,0,7,0,0,False,False,True,False,False,,self,t3_1hgznh5
+devops,The Right Way: Provisioning a Virtual Machine in Vagrant (With Website Deployment Locally),"Started out new series on Medium, Share your support through follow
+
+Link:-- [https://medium.com/@hemantkumarceo001/the-right-way-provisioning-a-virtual-machine-in-vagrant-with-website-deployment-locally-bbcd2b3b602f](https://medium.com/@hemantkumarceo001/the-right-way-provisioning-a-virtual-machine-in-vagrant-with-website-deployment-locally-bbcd2b3b602f)",hemantpra389,1hgub9p,https://reddit.com/r/devops/comments/1hgub9p/the_right_way_provisioning_a_virtual_machine_in/,https://www.reddit.com/r/devops/comments/1hgub9p/the_right_way_provisioning_a_virtual_machine_in/,2024-12-18 05:01:19,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hgub9p
+devops,Introducing Windows Containers,"I wrote an article on my company's blog about Windows Containers, hope you enjoy it
+
+https://code.gematik.de/tech/2024/12/17/introducing-windows-containers.html",m_adduci,1hgvo44,https://reddit.com/r/devops/comments/1hgvo44/introducing_windows_containers/,https://www.reddit.com/r/devops/comments/1hgvo44/introducing_windows_containers/,2024-12-18 06:29:18,0,0.46,0,0,4,0,0,False,False,True,False,False,,self,t3_1hgvo44
+devops,How do I convince A friend to choose DevOps Over Data Engineering ,"A close friend of mine is exploring opportunities in the tech industry. She has some foundational experience with Linux, primarily gained through YouTube tutorials and practice exercises. I suggested she consider a career in DevOps, as it has a lot of potential. However, I understand that female colleagues often influence each other's choices.
+
+Just yesterday, she mentioned her interest in becoming a data engineer. This piqued my curiosity, as I'm wondering how the two fields compare in terms of difficulty and opportunities. I would appreciate insights from experts on the distinctions between data engineering and DevOps, and which might be a better fit for her ambitions.",Hameed_zamani,1hgy08h,https://reddit.com/r/devops/comments/1hgy08h/how_do_i_convince_a_friend_to_choose_devops_over/,https://www.reddit.com/r/devops/comments/1hgy08h/how_do_i_convince_a_friend_to_choose_devops_over/,2024-12-18 09:26:49,0,0.3,0,0,6,0,0,False,False,True,False,False,,self,t3_1hgy08h
+devops,🚀 Which Agile Trend Will Shape the Future of Software Development? 🌟,,RecoverHonest4324,1hgw4v8,https://reddit.com/r/devops/comments/1hgw4v8/which_agile_trend_will_shape_the_future_of/,/r/Vabroapp/comments/1hgw1dl/which_agile_trend_will_shape_the_future_of/,2024-12-18 07:01:57,0,0.11,0,0,2,0,0,False,False,False,False,False,,default,t3_1hgw4v8
+devops,Why use a monorepo build tool?,"Hi all! I just wrote up this article about monorepo build tools:
+
+  
+\* [https://mill-build.org/blog/2-monorepo-build-tool.html](https://mill-build.org/blog/2-monorepo-build-tool.html)
+
+  
+This is a common question I've gotten when I see people discussing tools like Bazel, Pants, Buck, etc., so I thought I'd write down my experience using these tools and what kind of value they provide over the more simple language-specific build tools people are probably familiar with",lihaoyi,1hgdvyr,https://reddit.com/r/devops/comments/1hgdvyr/why_use_a_monorepo_build_tool/,https://www.reddit.com/r/devops/comments/1hgdvyr/why_use_a_monorepo_build_tool/,2024-12-17 16:04:56,0,0.2,0,0,1,0,0,False,False,True,False,False,,self,t3_1hgdvyr

@@ -1,0 +1,201 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Astral (uv/ruff) will be taking stewardship of python-build-standalone,"An interesting blog post explaining how python-build-standalone is used:
+
+&gt; ""On 2024-12-17, astral will be taking stewardship of `python-build-standalone` ...""
+
+- https://astral.sh/blog/python-build-standalone",commandlineluser,1h8qoxl,https://reddit.com/r/Python/comments/1h8qoxl/astral_uvruff_will_be_taking_stewardship_of/,https://www.reddit.com/r/Python/comments/1h8qoxl/astral_uvruff_will_be_taking_stewardship_of/,2024-12-07 11:38:17,59,0.97,59,0,8,0,0,False,False,True,False,False,News,self,t3_1h8qoxl
+Python,Python .gitignore,"I'm sure a lot of you have done this:
+
+1. Start new project
+2. Need that generic Python `.gitignore` file on GitHub
+3. Google ""python gitignore"" (though you probably typed ""gitingore"")
+4. Click link and click raw
+5. Copy all and paste in your local `.gitignore`
+
+And I'm sure a lot of you probably just use curl and have it memorized or have it in your shell history or something (`fzf` ftw). But I can't be bothered to learn curl properly, and I got tired of the manual steps, so I just created a function in my `.zshrc` file:
+
+    function pgi {
+        curl -JL https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Python.gitignore -o .gitignore
+    }
+
+So now I can just run `pgi` whenever I start a new project, and boom, precious seconds of my life saved.
+
+That's it, that's all I have, thanks for reading. I'm sure some of you have ever better solutions, but that's mine.",EarthGoddessDude,1h8rc4g,https://reddit.com/r/Python/comments/1h8rc4g/python_gitignore/,https://www.reddit.com/r/Python/comments/1h8rc4g/python_gitignore/,2024-12-07 12:20:52,25,0.8,25,0,13,0,0,False,False,True,False,False,Resource,self,t3_1h8rc4g
+Python,Flet vs Streamlit PWA and conceptual questions,"I'm new to flet, but I'm experienced Flutter developer plus I'm a Generative AI Engineer and worked with streamlit or Gradio. I have some conceptual questions.  
+Q1. If flet uses Flutter, then why does the flet Flutter plugin require a URL? Why cannot the flet UI ""live"" all together in Flutter?  
+Q2. Since there's a URL needed anyway, what's the advantage of using it vs for example having a Streamlit UI displayed in a PWA?  
+Q3. Let's say I develop a personal assistant in flet. Can the assistant access my location, heart rate, my camera (for multi-modal Gen AI), microphone and speakers (for voice assistant functionalities)?",MrCsabaToth,1h8nzyy,https://reddit.com/r/Python/comments/1h8nzyy/flet_vs_streamlit_pwa_and_conceptual_questions/,https://www.reddit.com/r/Python/comments/1h8nzyy/flet_vs_streamlit_pwa_and_conceptual_questions/,2024-12-07 08:15:44,6,0.76,6,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h8nzyy
+Python,Saturday Daily Thread: Resource Request and Sharing! Daily Thread,"# Weekly Thread: Resource Request and Sharing 📚
+
+Stumbled upon a useful Python resource? Or are you looking for a guide on a specific topic? Welcome to the Resource Request and Sharing thread!
+
+## How it Works:
+
+1. **Request**: Can't find a resource on a particular topic? Ask here!
+2. **Share**: Found something useful? Share it with the community.
+3. **Review**: Give or get opinions on Python resources you've used.
+
+## Guidelines:
+
+* Please include the type of resource (e.g., book, video, article) and the topic.
+* Always be respectful when reviewing someone else's shared resource.
+
+## Example Shares:
+
+1. **Book**: [""Fluent Python""](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) \- Great for understanding Pythonic idioms.
+2. **Video**: [Python Data Structures](https://www.youtube.com/watch?v=pkYVOmU3MgA) \- Excellent overview of Python's built-in data structures.
+3. **Article**: [Understanding Python Decorators](https://realpython.com/primer-on-python-decorators/) \- A deep dive into decorators.
+
+## Example Requests:
+
+1. **Looking for**: Video tutorials on web scraping with Python.
+2. **Need**: Book recommendations for Python machine learning.
+
+Share the knowledge, enrich the community. Happy learning! 🌟",AutoModerator,1h8fj53,https://reddit.com/r/Python/comments/1h8fj53/saturday_daily_thread_resource_request_and/,https://www.reddit.com/r/Python/comments/1h8fj53/saturday_daily_thread_resource_request_and/,2024-12-07 00:00:19,9,0.78,9,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h8fj53
+Python,PyCon US 2025 Registration Opens,"Howdy Pythonistas :) 
+
+PyCon US 2025 registration and Travel Grant applications are officially open!
+
+Early bird tickets are available until the first 500 tickets are sold or until January 6, 2025 (whichever comes first). Register today to get your discounted tickets and help us spread the word!
+
+P.S. You can also **[Submit a Talk](&lt;https://us.pycon.org/2025/speaking/pretalx/&gt;)** for the next 2 weeks!
+
+- [Blog Announcement](https://pycon.blogspot.com/2024/12/pycon-us-2025-registration-launch.html)
+- [Travel Grants](&lt;https://us.pycon.org/2025/attend/travel-grants/&gt;)",monorepo,1h89mmg,https://reddit.com/r/Python/comments/1h89mmg/pycon_us_2025_registration_opens/,https://www.reddit.com/r/Python/comments/1h89mmg/pycon_us_2025_registration_opens/,2024-12-06 19:32:59,18,0.82,18,0,1,0,0,False,False,True,False,False,:pythonLogo: Official Event,self,t3_1h89mmg
+Python,How we made Celery tasks bulletproof,"Hey folks, 
+
+I just published a deep dive into how we handle task resilience at GitGuardian, where our Celery tasks scan GitHub PRs for secrets. Wanted to share some key learnings that might help others dealing with similar challenges.
+
+
+**Key takeaways:**
+
+1. Don’t just blindly retry tasks. Each type of failure (transient, resource limits, race conditions, code bugs ) needs its own handling strategy.
+2. Crucial patterns we implemented:
+   - Ensure tasks are idempotent (may not be straightforward, 
+   - Used `autoretry_for` with specific exceptions + backoff
+   - Implemented `acks_late` for process interruption protection
+   - Created separate queues for resource-heavy tasks
+
+**Watch out for:**
+
+1. Never set task_retry_on_worker_lost=True (can cause infinite retries)
+2. With Redis, ensure tasks complete within visibility_timeout
+3. Different behavior between prefork vs thread/gevent models for OOM handling
+
+---
+
+For those interested in the technical details: https://blog.gitguardian.com/celery-tasks-retries-errors/
+
+
+What resilience patterns have you found effective in your Celery deployments? Any war stories about tasks going wrong in production?",protoplancton,1h7xr6s,https://reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/,https://www.reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/,2024-12-06 09:37:58,96,0.93,96,0,15,0,0,False,False,True,False,False,Tutorial,self,t3_1h7xr6s
+Python,VCAT: Video Transcriber and Translator,"
+
+
+
+# Have you ever wanted to share videos to your non bilingual friends? 🌎
+
+
+Fear not because I (Claude) have made a script that does exactly that!
+
+
+## **What My Project Does** ⚡
+
+
+Type in a video URL along with the target language and the program will:
+
+A) Download the media from the URL (Uses youtube-dlp so most websites are compatible)  
+B) Transcribe it (srt file output)  
+C) Translate it (srt file output)  
+D) Add subtitles using ffmpeg  
+
+All fully automated of course!
+
+🔍 [https://github.com/tikene/video-caption-and-translate](https://github.com/tikene/video-caption-and-translate) - You can see some sample translations on my repo to get an idea of how the output video looks
+
+
+## **Target Audience** 👥
+
+
+If you have any friends who, for example, aren't fluent with English, you may have ran into some frustration when trying to share movies, videos or shows that you like. That's what motivated me to make this script, making it so you can easily share your interests and build human connections regardless of the language barrier (It's all about making the world a better place 💁‍♀️)
+
+
+
+## **Comparison** 🔄
+
+The projects I could find relating to this subject either:
+- Don't accept URLs 
+- Don't work with long videos
+- Don't add the subtitles directly to the video
+- Are outdated
+
+
+
+## **Extra details** 💡
+
+The process is fully automatic so I actually find myself using it often, it only takes 10 seconds to start the translation. 
+
+Every language is supported because it uses OpenAI for translation, which means you do need an API key but it only costs around $0.01 for every minute of video. I spent $5 and have been using this script for months.
+
+
+
+## **Conclusion** 🎯
+
+This is my first time sharing a project, so feedback would be greatly appreciated, if this gets any traction whatsoever I'll continue updating it. Let me know if you have any questions or suggestions",Tikene,1h85e6v,https://reddit.com/r/Python/comments/1h85e6v/vcat_video_transcriber_and_translator/,https://www.reddit.com/r/Python/comments/1h85e6v/vcat_video_transcriber_and_translator/,2024-12-06 16:33:39,10,0.87,10,0,6,0,0,False,False,True,False,False,Showcase,self,t3_1h85e6v
+Python,pytest-fixture-forms - A new plugin to simplify testing parameter variations,"Hey Python testing enthusiasts! I'm excited to share a pytest plugin I've been working on that makes testing different parameter variations much cleaner and more maintainable.
+
+# What my project does
+
+If you've ever found yourself writing lots of parametrized tests for different API inputs, credentials, or configuration combinations, you know it can get messy quickly. This plugin lets you organize these variations as fixture methods in a class, making your tests more structured and easier to maintain.
+
+Here's a quick example:
+
+    class UserCredentials(FixtureForms):
+        @pytest.fixture
+        def valid_user(self):
+            return {""username"": ""john_doe"", ""password"": ""secure123""}
+    
+        @pytest.fixture
+        def invalid_password(self):
+            return {""username"": ""john_doe"", ""password"": ""wrong""}
+    
+    def test_login(user_credentials):
+        response = login_service.authenticate(**user_credentials.value)
+        if user_credentials.form == ""valid_user"":
+            assert response.status_code == 200
+        else:
+            assert response.status_code == 401
+
+Key Features:
+
+* Auto-generates fixtures from class methods
+* Integrates with pytest's parametrization
+* Handles nested dependencies elegantly
+* Zero configuration needed
+
+# Target Audience
+
+anyone want to write and maintain tests for combinations of parameter. it should be stable but hey! its a new project so expect rough edges.
+
+# Comparison 
+
+there is no currently plugin in pytest that let you dynamically generate fixtures and test nodes in similar way to how pytest-fixture-forms does. this plugin is also being actively used inside a real product(actually this plugin was written as inside an internal tool testing code and later migrated by me to become a standalone pytest plugin).
+
+# Source
+
+Check it out on [GitHub](https://github.com/Eliav2/pytest-fixture-forms) or install with `pip install pytest-fixture-forms`.
+
+I'd love to hear your thoughts and feedback!",Eliav2,1h7ztqd,https://reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/,https://www.reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/,2024-12-06 12:02:26,13,0.86,13,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1h7ztqd
+Python,Directory for AI Python libraries,"Hello all,
+
+Using Unicorn Platform I made  my first directory : a comprehensive list of Python libraries used in AI based programming. You can find the directory here: 
+
+https://www.aipythonlibraries.com/
+
+  
+I have already fed about 189 libraries into the directory, but the list is still growing.
+
+Tell me what you think, any feedback is much appreciated.
+
+Thank you,
+Daniel",Danielopol,1h89nwg,https://reddit.com/r/Python/comments/1h89nwg/directory_for_ai_python_libraries/,https://www.reddit.com/r/Python/comments/1h89nwg/directory_for_ai_python_libraries/,2024-12-06 19:34:32,0,0.48,0,0,7,0,0,False,False,True,False,False,Resource,self,t3_1h89nwg
+Python,Accenture interview experience 2024 | I got selected | I used to python to ace the coding round,I am a computer science student and I have multiple offeres. I have recently attended accenture interview and got selected. I have made a video on my interview experience : [https://youtu.be/bq3FrksBpwc?si=3tv\_QZNOhy4yhRLy](https://youtu.be/bq3FrksBpwc?si=3tv_QZNOhy4yhRLy) . I will share my amazon interview experience and other experiences (like Tredence)  in the follow videos.,Sure_Cry3926,1h8jkfc,https://reddit.com/r/Python/comments/1h8jkfc/accenture_interview_experience_2024_i_got/,https://www.reddit.com/r/Python/comments/1h8jkfc/accenture_interview_experience_2024_i_got/,2024-12-07 03:30:20,0,0.37,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h8jkfc

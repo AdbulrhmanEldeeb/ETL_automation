@@ -1,0 +1,26 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Unexpectedly let go. Best ways to get a job fast?,"Hey all, 
+
+I’m in Germany and was let go at the end of my probation period. 
+
+I was ensured I would make it and actively made money for the company with proof. 
+
+My reasons for termination were unclear and actually not inline with my responsibilities as a data scientist. 
+
+Essentially, I was given peace of mind, and could ensure I needn’t worry. 
+
+Whatever it may be, I’m now out of a job. That’s the way it goes sometimes. 
+
+What are your tips for grabbing that next position fast? I’m not picky, I just want a job in my field, and with a team I enjoy - easier said than done. 
+
+Any tips would be amazing! 
+
+Happy holidays :) 
+
+",ResearchMindless6419,1he2n61,https://reddit.com/r/datascience/comments/1he2n61/unexpectedly_let_go_best_ways_to_get_a_job_fast/,https://www.reddit.com/r/datascience/comments/1he2n61/unexpectedly_let_go_best_ways_to_get_a_job_fast/,2024-12-14 13:16:13,18,0.85,18,0,20,0,0,False,False,True,False,False,Discussion,self,t3_1he2n61
+datascience,Help with clustering over time,"I'm dealing with a clustering over time issue.
+Our company is a sort of PayPal. We are trying to implement an antifraud process to trigger alerts when a client makes excessive payments compared to its historical behavior.
+To do so, I've come up with seven clustering features which are all 365-day-long moving averages of different KPIs (payment frequency, payment amount, etc.). So it goes without saying that, from one day to another, these indicators evolve very slowly. I have about 15k clients, several years of data.
+I get rid of outliers (99-percentile of each date, basically) and put them in a cluster-0 by default.
+Then, the idea is, for each date, to come up with 8 clusters. I've used a Gaussian Mixture clustering (GMM) but, weirdly enough, the clusters of my clients vary wildly from one day to another.
+I have tried to plant the previous mean of my centroids, using the previous day centroid of a client to sort of seed the next day's clustering of a client, but the results still vary a lot. I've read a bit about DynamicC and it seemed like the way to address the issue, but it doesn't help.",LaBaguette-FR,1hdk59i,https://reddit.com/r/datascience/comments/1hdk59i/help_with_clustering_over_time/,https://www.reddit.com/r/datascience/comments/1hdk59i/help_with_clustering_over_time/,2024-12-13 19:28:25,9,0.91,9,0,16,0,0,False,False,True,False,False,ML,self,t3_1hdk59i

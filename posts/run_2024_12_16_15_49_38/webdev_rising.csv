@@ -1,0 +1,72 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Devs who freelance - need input on client management tooling,"Hey fellow dev freelancers!
+
+I'm looking for a client management solution that would actually work for developers. Current situation: managing multiple clients, each with their own requirements gathering, tech stack discussions, GitHub access setup, deployment processes, etc.
+
+Current pain points:
+
+* No standardized way to collect technical requirements
+* Project setup varies per client (some need AWS access, others use their own infrastructure)
+* Managing access to different tools/platforms for each client
+* Tracking where each project is in the setup phase
+* Juggling different communication channels (Slack/Discord/email)
+
+I've looked at general freelance tools (Dubsado, HoneyBook), but they seem more geared towards creative freelancers. What I really want is something where I can:
+
+* Create custom workflow templates (e.g., different flows for web apps vs APIs)
+* Automate repetitive tasks (repo setup, project board creation, etc.)
+* Track technical requirements and dependencies
+* Handle contracts and payments
+* Give clients visibility into the technical setup process
+
+Right now I'm cobbling together Notion + Jira + various docs, but it feels inefficient. Wondering if there's a more dev-focused solution out there?
+
+If not, would you use something specifically built for managing development clients? What features would you want to see?
+
+Curious to hear how other dev freelancers are handling this. Are you using any specific tools or just going with the flow?",ifstatementequalsAI,1hfljvp,https://reddit.com/r/webdev/comments/1hfljvp/devs_who_freelance_need_input_on_client/,https://www.reddit.com/r/webdev/comments/1hfljvp/devs_who_freelance_need_input_on_client/,2024-12-16 15:26:35,5,0.86,5,0,3,0,0,False,False,True,False,False,,self,t3_1hfljvp
+webdev,Why is Angular is seen as more hard to learning than React?,"I think is more easy to understand and more similar to HTML + CSS + JS courses that a component has a ts file, a css file and a html file than React JSX Soup. 
+I don't say Angular is better only that I don't see the more hard learning curve. ",OkTop7895,1hfhmqm,https://reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/,https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/,2024-12-16 12:04:47,58,0.78,58,0,75,0,0,False,False,True,False,False,,self,t3_1hfhmqm
+webdev,Is this what web development is like?,"I have been working on web/mobile development since ~2019 as a hobby. I took a course on HTML/CSS/JS and then moved into learning react and more recently react native. I’ve definitely improved over this time, and can make higher quality things faster. Recently I’ve been more serious about it and am trying to make stuff which could actually be used by other people. While I find the general process really fun and addictive, I notice that I also feel a lot of stress and burnout when I’m working on a project. But the thing is, I don’t feel that stress from the actual programming- dealing with errors and things not working the way I want etc. is stimulating if not fun, since I know that there is some error in my thinking that I need to resolve. 
+
+What frustrates me is constantly fixing a seemingly endless onslaught of environment/set-up related issues. For example, right now I’m trying to use the expo-linking module in my expo development build and am getting a “Cannot find native module ExpoLinking” error. “main” has not been registered. “A module has failed to load due to an error and ‘AppRegistry.registerComponent’ wasn’t called.”
+
+Lately it feels like my time spent programming has been 20% actually writing code and 80% jumping between stackoverflow questions trying to resolve issues like this, fiddling with package.json when I don’t really understand what I’m doing. What is the name for this sort of problem?
+
+Is this simply what web development is like? Does it get easier? I am passionate about what I create so I usually just grind through these issues and slowly move forwards. I think I’m better at resolving these issues than when I started 5 years ago, or at the very least am suffering because I’m taking on more and more sophisticated projects.
+
+But to some extent I worry that I have a fundamental lack of knowledge which severely slows me down. I’ve only ever done this as a hobby which has mostly meant ‘learning by doing’ rather than ever actually sitting down and properly studying any of it. Is that what I need to do? What are the best resources for doing this? I study computer science at university but they don’t touch any of this sort of stuff. ",suAsuR,1hfbw2n,https://reddit.com/r/webdev/comments/1hfbw2n/is_this_what_web_development_is_like/,https://www.reddit.com/r/webdev/comments/1hfbw2n/is_this_what_web_development_is_like/,2024-12-16 05:12:09,64,0.81,64,0,58,0,0,False,False,True,False,False,Discussion,self,t3_1hfbw2n
+webdev,How do you market software projects?,"I was employed as C# Software Developer and as a hobby i have been programming for about 9 years in multiple languages, including js, html, css, php and all the other web stuff needed and more.
+
+I've made a ton of projects and i was recently fired and i want to go for self employment. I made 2 apis and a wordpress plugin, where the apis are for paypal payment processing &amp; secure downloads etc and the other is a ai api with moderation tools. The wordpress plugin is like a automod plugin, where users can restrict logins by email domain whitelist/blacklist and username blacklist with wildcards, smtp settings etc.
+
+I tried to make the plugin as useful as possible but my projects never succeed or get proper attention because, i believe, i dont know how to actually market stuff.
+
+this was a issue i encountered in almost all my projects. I make cool and useful stuff, never gets used cauz no one cares or knows.
+
+i even tried to run a etsy store with nice products actually, even paid for etsy ads, roughly 250-300€ and still no one bought my stuff. there is something im either missing or doing wrong. (i tried seo etc everything, yet i fail)
+
+im not really using social media stuff other then reddit sometimes and discord. so i wonder what am i doing wrong? i want to be a successful developer :c",HackTheDev,1hfippp,https://reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/,https://www.reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/,2024-12-16 13:09:14,4,1.0,4,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1hfippp
+webdev,I have created 4 websites that each receive a small amount of emails. What's the cheapest option to handle email for multiple small websites?,"I'm looking for a mail provider with an API that allows me to create a small web email client to handle them all at the same location. The reason for this is that i would like to automatically pull transaction data or whatever from my database by the senders email, implement some AI responses etc
+
+I'm checking out zoho, which is pretty cheap, but they seem to require approx 5USD per ""user"", i am one user, but i would like to create maybe [support@mysite.com](mailto:support@mysite.com) and [welcome@mysite.com](mailto:welcome@mysite.com) etc and i cba to pay for 8 seperate users due to this.
+
+Zeptomail seemed sick, but it's only for ""transactional emails"", you're not allowed to receive emails. Ultra cheap though.
+
+Gmail is 6USD/mo per email
+
+Mailgun is 35USD/mo if you want multiple domains",codeboii,1hffoz1,https://reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/,https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/,2024-12-16 09:48:14,6,0.75,6,0,24,0,0,False,False,True,False,False,,self,t3_1hffoz1
+webdev,Type in html that looks like an old cash register receipt- possible?,"Trying to make a typeface on my website look as though it was printed on an old cash register like this - possible in html?  Thoughts appreciated! 
+
+https://preview.redd.it/o16pmcwoo27e1.png?width=622&amp;format=png&amp;auto=webp&amp;s=9430ce46dd7d23bfdf3398e4efb263807f738d43
+
+",Open_Outcome_5633,1hf1nca,https://reddit.com/r/webdev/comments/1hf1nca/type_in_html_that_looks_like_an_old_cash_register/,https://www.reddit.com/r/webdev/comments/1hf1nca/type_in_html_that_looks_like_an_old_cash_register/,2024-12-15 20:33:28,57,0.92,57,0,8,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/znHXs1OhQPecDuyaf_Mk07k4AFD2FyVhxMOB_ypvBCY.jpg,t3_1hf1nca
+webdev,How i can make this tool better ?,"Hey! My company is working on building tools for content creators. One of the first tools we made is a color picker for the web. I think it's a great idea. I'm not a designer myself, and I don't always have design software open when I need it. A simple and fast web app feels like a great solution for this.
+
+How can I improve this tool? Any suggestions?
+
+[https://claster.eu/tools/color-picker](https://claster.eu/tools/color-picker)",hard-tender-blade,1hfljcj,https://reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/,https://www.reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/,2024-12-16 15:25:54,0,0.5,0,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hfljcj
+webdev,Education for self taught dev,"I'm a self taught senior web dev and never had any formalized schooling.  In the past I took some Pluralsight courses, to help get more formalized education in some areas.  I work primarily with .Net, SQL, and JavaScript.  I've been learning Vue and integrating it into my work. What sites, schooling, or any other educational resources would you recommend to help round someone out or to further their knowledge?",kinggoosey,1hfk2md,https://reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/,https://www.reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/,2024-12-16 14:18:07,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1hfk2md
+webdev,I'm really enjoying AdonisJS. My new preferred full-stack framework.,"There was a post (last week I think) about AdoniJS. The comments were along the lines of ""oh great another JS framework"", but I thought I'd try it for a new private project.
+
+Really glad I did. It feels like a Typescript version of Laravel. Highly recommended to add to your toolbox (it's frontend framework agnostic so you can use whatever frontend you like).",Mr-Silly-Bear,1hepzmw,https://reddit.com/r/webdev/comments/1hepzmw/im_really_enjoying_adonisjs_my_new_preferred/,https://www.reddit.com/r/webdev/comments/1hepzmw/im_really_enjoying_adonisjs_my_new_preferred/,2024-12-15 10:34:43,126,0.81,126,0,68,0,0,False,False,True,False,False,,self,t3_1hepzmw
+webdev,I build a free Tailwind CSS grid tool,,g_perales,1hef0ev,https://reddit.com/r/webdev/comments/1hef0ev/i_build_a_free_tailwind_css_grid_tool/,https://i.redd.it/1qlrc9kuaw6e1.gif,2024-12-14 23:04:26,961,0.98,961,0,40,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/-W23ma8dWaHbDqFqYJnpsuIM0YKfZ4SXT4dVRW-ej_M.jpg,t3_1hef0ev

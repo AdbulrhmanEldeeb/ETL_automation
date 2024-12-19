@@ -1,0 +1,213 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Cloud-Based Python Libraries: Does This Exist Already?,"Hey everyone! I had an idea and wanted to see if something like this exists or get your thoughts.
+
+What if Python libraries like `pandas` or `numpy` could be accessed directly from the cloud, instead of installing them locally? You’d just fetch and use them dynamically, like:
+
+    from cloudlib import LibraryClient
+    
+    pandas = LibraryClient.get(""pandas"", version=""2.0.0"")
+    df = pandas.read_csv(""https://example.com/data.csv"")
+
+This could solve issues like:
+
+* Reducing the need for virtual environments.
+* Saving local storage.
+* Making onboarding and CI/CD pipelines faster.
+
+The cloud would handle library installation, execution, and versioning, while you just write code.
+
+Does something like this already exist? Would you use it? Let me know your thoughts!",nilipilo,1hddjx5,https://reddit.com/r/Python/comments/1hddjx5/cloudbased_python_libraries_does_this_exist/,https://www.reddit.com/r/Python/comments/1hddjx5/cloudbased_python_libraries_does_this_exist/,2024-12-13 14:36:45,0,0.21,0,0,21,0,0,False,False,True,False,False,Discussion,self,t3_1hddjx5
+Python,Is full stack django or full stack fastapi better startup web apps?,"Wanting to build mvp for idea I have, Python has been my first language of choice. Need to have ability for rapid development but scale and performance is priority.",WynActTroph,1hd3vvm,https://reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/,https://www.reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/,2024-12-13 04:02:15,47,0.78,47,0,43,0,0,False,False,True,False,False,Discussion,self,t3_1hd3vvm
+Python,Need Python contributors for an open-source top-down survival game with rogue lite/like elements.,"If anyone is interested, you can contribute or download the source code here [Poppadomus/pygameTDS](https://github.com/Poppadomus/pygameTDS) 
+
+(yes, I know you shouldn't make games in python).",BornTailor6583,1hd3pnu,https://reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/,https://www.reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/,2024-12-13 03:52:35,10,0.64,10,0,7,0,0,False,False,True,False,False,Resource,self,t3_1hd3pnu
+Python,python-json-logger has changed hands,"Hi r/python,
+
+I wanted to introduce myself as the new maintainer of [python-json-logger](https://pypi.org/project/python-json-logger/) and hopefully establish a bit of trust.
+
+Understandably there [has been some anxiety](https://github.com/madzak/python-json-logger/issues/187#issuecomment-2063184958) over the [PEP 541 Request ](https://github.com/pypi/support/issues/3607)that I submitted given the importance / popularity of the package -  especially in the context of the XZ Utils backdoor earlier in the year.
+
+I think it's important to highlight that although this was prompted by the PEP 541 request, it was not done through PEP 541 mechanisms. In other words this was a decision by the original maintainer and **not** the PyPI Administrators.
+
+For those wanting to know more about me (to prove that I'm not some statebased actor subverting the package), [I'm a security professional](https://www.linkedin.com/in/nicholas-hairs/) and [maintain a few other packages](https://github.com/nhairs). You might also have seen some of [my blog posts](https://www.nicholashairs.com/) on reddit.
+
+Finally apologies if the newly released versions broke your things - despite my best efforts at testing and maintaining backwards compatibility it appears [some bugs managed to slip through](https://github.com/nhairs/python-json-logger/issues/29).",nicholashairs,1hcm2rr,https://reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/,https://www.reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/,2024-12-12 14:18:50,107,0.97,107,0,14,0,0,False,False,True,False,False,News,self,t3_1hcm2rr
+Python,Essential Python web security,"# Found this resource, thought others may appreciate it - [https://opensource.net/essential-python-web-security/](https://opensource.net/essential-python-web-security/)
+
+  
+*This is the first post in a series*: *“The absolute minimum every Python web application developer must know about security.”*",PhilipLGriffiths88,1hdd76m,https://reddit.com/r/Python/comments/1hdd76m/essential_python_web_security/,https://www.reddit.com/r/Python/comments/1hdd76m/essential_python_web_security/,2024-12-13 14:19:31,1,0.6,1,0,0,0,0,False,False,True,False,False,Resource,self,t3_1hdd76m
+Python,Friday Daily Thread: r/Python Meta and Free-Talk Fridays,"# Weekly Thread: Meta Discussions and Free Talk Friday 🎙️
+
+Welcome to Free Talk Friday on /r/Python! This is the place to discuss the r/Python community (meta discussions), Python news, projects, or anything else Python-related!
+
+## How it Works:
+
+1. **Open Mic**: Share your thoughts, questions, or anything you'd like related to Python or the community.
+2. **Community Pulse**: Discuss what you feel is working well or what could be improved in the /r/python community.
+3. **News &amp; Updates**: Keep up-to-date with the latest in Python and share any news you find interesting.
+
+## Guidelines:
+
+* All topics should be related to Python or the /r/python community.
+* Be respectful and follow Reddit's [Code of Conduct](https://www.redditinc.com/policies/content-policy).
+
+## Example Topics:
+
+1. **New Python Release**: What do you think about the new features in Python 3.11?
+2. **Community Events**: Any Python meetups or webinars coming up?
+3. **Learning Resources**: Found a great Python tutorial? Share it here!
+4. **Job Market**: How has Python impacted your career?
+5. **Hot Takes**: Got a controversial Python opinion? Let's hear it!
+6. **Community Ideas**: Something you'd like to see us do? tell us.
+
+Let's keep the conversation going. Happy discussing! 🌟",AutoModerator,1hcz7n3,https://reddit.com/r/Python/comments/1hcz7n3/friday_daily_thread_rpython_meta_and_freetalk/,https://www.reddit.com/r/Python/comments/1hcz7n3/friday_daily_thread_rpython_meta_and_freetalk/,2024-12-13 00:00:46,2,0.76,2,0,1,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hcz7n3
+Python,CommanderAI / LLM-Driven Action Generation on Windows with Langchain (openai),"Hey everyone,
+
+I’m sharing a project I worked on some time ago: a LLM-Driven Action Generation on Windows with Langchain (openai). An automation system powered by a Large Language Model (LLM) to understand and execute instructions. The idea is simple: you give a natural language command (e.g., “Open Notepad and type ‘Hello, world!’”), and the system attempts to translate it into actual actions on your Windows machine.
+
+**Key Features:**
+
+* **LLM-Driven Action Generation:** The system interprets requests and dynamically generates Python code to interact with applications.
+* **Automated Windows Interaction:** Opening and controlling applications using tools like pywinauto and pyautogui.
+* **Screen Analysis &amp; OCR:** Capture and analyze the screen with Tesseract OCR to verify UI states and adapt accordingly.
+* **Speech Recognition &amp; Text-to-Speech:** Control the computer with voice commands and receive spoken feedback.
+
+**Current State of the Project:**  
+This is a proof of concept developed a while ago and not maintained recently. There are many bugs, unfinished features, and plenty of optimizations to be done. Overall, it’s more a feasibility demo than a polished product.
+
+**Why Share It?**
+
+* If you’re curious about integrating an LLM with Windows automation tools, this project might serve as inspiration.
+* You’re welcome to contribute by fixing bugs, adding features, or suggesting improvements.
+* Consider this a starting point rather than a finished solution. Any feedback or assistance is greatly appreciated!
+
+**How to Contribute:**
+
+* The source code is available on GitHub (link in the comments).
+* Feel free to fork, open PRs, file issues, or simply use it as a reference for your own projects.
+
+**In Summary:**  
+This project showcases the potential of LLM-driven Windows automation. Although it’s incomplete and imperfect, I’m sharing it to encourage discussion, experimentation, and hopefully the emergence of more refined solutions!
+
+Thanks in advance to anyone who takes a look. Feel free to share your thoughts or contributions!  
+
+
+[https://github.com/JacquesGariepy/CommanderAI](https://github.com/JacquesGariepy/CommanderAI)
+
+",Outrageous-Pea9611,1hcwn3h,https://reddit.com/r/Python/comments/1hcwn3h/commanderai_llmdriven_action_generation_on/,https://www.reddit.com/r/Python/comments/1hcwn3h/commanderai_llmdriven_action_generation_on/,2024-12-12 22:00:24,2,0.76,2,0,1,0,0,False,False,True,False,False,Resource,self,t3_1hcwn3h
+Python,Turtle text engine without the write function,"*I created a python text engine, but just recently realised it was a huge waste of time due to the write functions existence*
+
+[*https://github.com/MunHammer/Turtle-text-engine-without-the-write-function*](https://github.com/MunHammer/Turtle-text-engine-without-the-write-function)
+
+***What my project does***
+
+*It can write letters using turtle without the write function*
+
+**Target Audience**
+
+Just something to play with I guess
+
+**Comparison**
+
+no other projects like this have been seen by me",RichRoof7927,1hcvyf3,https://reddit.com/r/Python/comments/1hcvyf3/turtle_text_engine_without_the_write_function/,https://www.reddit.com/r/Python/comments/1hcvyf3/turtle_text_engine_without_the_write_function/,2024-12-12 21:30:17,1,0.53,1,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1hcvyf3
+Python,Open-source Python Time-wasters,"Hi r/Python community! I recently made an time waster program with python. You can fork it here: [https://github.com/LarryEmerson12/TimeWasters/](https://github.com/LarryEmerson12/TimeWasters/) It simply just shows some 0s, and then animates it. You can edit the speed at how you want.
+
+**Target Audience:**
+
+Use this when you're bored.
+
+**Comparison:**
+
+I do not know about other projects.
+
+If there are any issues, feel free to comment.",Careful_Tea3877,1hcgtrz,https://reddit.com/r/Python/comments/1hcgtrz/opensource_python_timewasters/,https://www.reddit.com/r/Python/comments/1hcgtrz/opensource_python_timewasters/,2024-12-12 08:41:49,19,0.72,19,0,12,0,0,False,False,True,False,False,Showcase,self,t3_1hcgtrz
+Python,Programming languages that compile to Python?,"All I'm aware of is [Coconut](https://coconut-lang.org/), which is a functional programming language that is essentially a superset of Python syntax. Are there any other languages like this?",jsonathan,1hchwjd,https://reddit.com/r/Python/comments/1hchwjd/programming_languages_that_compile_to_python/,https://www.reddit.com/r/Python/comments/1hchwjd/programming_languages_that_compile_to_python/,2024-12-12 10:05:45,12,0.67,12,0,11,0,0,False,False,True,False,False,Discussion,self,t3_1hchwjd
+Python,The hand-picked selection of the best Python libraries and tools of 2024 – 10th edition!,"Hello Python community!
+
+We're excited to share our milestone 10th edition of the **Top Python Libraries and tools**, continuing our tradition of exploring the Python ecosystem for the most innovative developments of the year.
+
+Based on community feedback (thank you!), we've made a significant change this year: we've split our selections into **General Use** and **AI/ML/Data** categories, ensuring something valuable for every Python developer. Our team has carefully reviewed hundreds of libraries to bring you the most impactful tools of 2024.
+
+**Read the full article with detailed analysis here**: [https://tryolabs.com/blog/top-python-libraries-2024](https://tryolabs.com/blog/top-python-libraries-2024)
+
+Here's a preview of our top picks:
+
+**General Use**:
+
+1. [**uv**](https://github.com/astral-sh/uv) — Lightning-fast Python package manager in Rust
+2. [**Tach**](https://github.com/gauge-sh/tach) — Tame module dependencies in large projects
+3. [**Whenever**](https://github.com/ariebovenberg/whenever) — Intuitive datetime library for Python
+4. [**WAT**](https://github.com/igrek51/wat) — Powerful object inspection tool
+5. [**peepDB**](https://github.com/PeepDB-dev/peepdb) — Peek at your database effortlessly
+6. [**Crawlee**](https://github.com/apify/crawlee-python) — Modern web scraping toolkit
+7. [**PGQueuer**](https://github.com/janbjorge/pgqueuer) — PostgreSQL-powered job queue
+8. [**streamable**](https://github.com/ebonnal/streamable) — Elegant stream processing for iterables
+9. [**RightTyper**](https://github.com/RightTyper/RightTyper) — Generate static types automatically
+10. [**Rio**](https://github.com/rio-labs/rio) — Modern web apps in pure Python
+
+**AI / ML / Data**:
+
+1. [**BAML**](https://github.com/BoundaryML/baml) — Domain-specific language for LLMs
+2. [**marimo**](https://github.com/marimo-team/marimo) — Notebooks reimagined
+3. [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) — Powerful agent for code development
+4. [**Crawl4AI**](https://github.com/unclecode/crawl4ai) — Intelligent web crawling for AI
+5. [**LitServe**](https://github.com/Lightning-AI/LitServe) — Effortless AI model serving
+6. [**Mirascope**](https://github.com/Mirascope/mirascope) — Unified LLM interface
+7. [**Docling**](https://github.com/DS4SD/docling) and [**Surya**](https://github.com/VikParuchuri/surya) — Transform documents to structured data
+8. [**DataChain**](https://github.com/iterative/datachain) — Complete data pipeline for AI
+9. [**Narwhals**](https://github.com/narwhals-dev/narwhals) — Compatibility layer for dataframe libraries
+10. [**PydanticAI**](https://github.com/pydantic/pydantic-ai) — Pydantic for LLM Agents
+
+Our selection criteria remain focused on innovation, active maintenance, and broad impact potential. We've included detailed analyses and practical examples for many libraries in the full article.
+
+Special thanks to all the developers and teams behind these libraries. Your work continues to drive Python's evolution and success! 🐍✨
+
+**What are your thoughts on this year's selections? Any notable libraries we should consider for next year?** Your feedback helps shape future editions!",dekked_,1hbs4t8,https://reddit.com/r/Python/comments/1hbs4t8/the_handpicked_selection_of_the_best_python/,https://www.reddit.com/r/Python/comments/1hbs4t8/the_handpicked_selection_of_the_best_python/,2024-12-11 12:14:34,462,0.92,462,0,77,0,0,False,False,True,False,False,Discussion,self,t3_1hbs4t8
+Python,Free Python IDE for Android 🤩,"Blaze IDE for Python on Android is now released!
+Play Store 
+https://play.google.com/store/apps/details?id=com.blaze.code&amp;hl=en_IN
+
+**Target Audience**
+Many students across the world have an interest for coding but they are not able to fulfill their dreams because they don't own a laptop or a computer.
+But no need to worry, because Blaze is here to solve the problem!
+
+Features of Blaze
+Runs via web so minimal ram requirements
+Pypi modules are supported (except gui)
+Fast code compiler
+Less than 15 mb app size
+
+Download &amp; Support
+Please support the initiative by giving ⭐⭐⭐⭐⭐ reviews! Hope you will love Blaze!
+
+**Comparisions**
+Other projects have atleast 300 mb storage while this is Just 15mb
+
+Projects for blaze https://github.com/techxsarthak/Blaze-code",blaze-code,1hd69vj,https://reddit.com/r/Python/comments/1hd69vj/free_python_ide_for_android/,https://www.reddit.com/r/Python/comments/1hd69vj/free_python_ide_for_android/,2024-12-13 06:27:15,0,0.35,0,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1hd69vj
+Python,My First Python Project: URL to NDEF Converter! 🎉,"Hi everyone,
+
+I’m thrilled to share my first Python project, **url2ndef**, a tool that converts URLs into NDEF (NFC Data Exchange Format) messages. You can use these messages to program NFC tags.
+
+GitHub: [url2ndef](https://github.com/brunoooost/url2ndef)
+
+# What My Project Does
+
+This script takes a URL as input and encodes it into the NDEF format, which is compatible with NFC-enabled devices. It’s a simple and lightweight way to prepare data for NFC tags, whether you’re working on IoT applications, marketing use cases, or just having fun with NFC tech.
+
+# Target Audience
+
+This is primarily a **learning project** but could also be useful for:
+
+* Beginners interested in Python or NFC tech.
+* Developers exploring NFC-related applications.
+* Hobbyists looking for a simple tool to work with NFC tags.
+
+It’s not production-ready, but I hope it can serve as a foundation or inspiration for others!
+
+# Comparison
+
+There are more advanced tools like NXP TagWriter or NFC Tools, but those are typically GUI-based and cater to broader use cases. **url2ndef** is purely a Python CLI script designed for simplicity and learning.
+
+This was a great learning experience for me, and I’d love to hear your feedback or suggestions for improvement. If you’re interested in NFC, let’s chat! Thanks for checking out my project. 😊",BST04,1hcjdg9,https://reddit.com/r/Python/comments/1hcjdg9/my_first_python_project_url_to_ndef_converter/,https://www.reddit.com/r/Python/comments/1hcjdg9/my_first_python_project_url_to_ndef_converter/,2024-12-12 11:48:05,6,0.87,6,0,5,0,0,False,False,True,False,False,Showcase,self,t3_1hcjdg9
+Python,Python OCR for each element/section reading multiple details of multiple objects,"Hey I have a list of buttons underneath each other (sections). Each button has some details, pretty many different, I need to read some data with OCR, some with is image in that region,... I really struggle to find something reliable, anyone got any tips.  
+And please if you do not dont write, pytesseract is not the way to go here...",Tiny_Solid_3325,1hcgtlr,https://reddit.com/r/Python/comments/1hcgtlr/python_ocr_for_each_elementsection_reading/,https://www.reddit.com/r/Python/comments/1hcgtlr/python_ocr_for_each_elementsection_reading/,2024-12-12 08:41:27,5,0.67,5,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hcgtlr

@@ -1,0 +1,252 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,"I've got a Vanity UUID, and you can too! ","It's e281f5c0-c05f-423d-9add-c0ffee084f27... See the ""add-c0ffee"" in it? 
+
+Of course, I'm not actually using it. I just found out about everyuuid.com and was thinking about some fun ones. We get basically hex chars + fixed dashes to work with. Some chars are fixed or limited. But if you know the rules you can search for UUIDs containing certain words. 
+
+What can you come up with? What valid UUIDs can you think of that contain something fun/meaningful?
+
+This post is part humor/fun/competition... Let's see what ""vanity UUIDs"" you can come up with. Maybe slightly educational since you have to know the rules and understand how they work. For example, why couldn't I use `decaf-c0ffee`?
+
+Let's see what you can come up with! ",shgysk8zer0,1hde799,https://reddit.com/r/webdev/comments/1hde799/ive_got_a_vanity_uuid_and_you_can_too/,https://www.reddit.com/r/webdev/comments/1hde799/ive_got_a_vanity_uuid_and_you_can_too/,2024-12-13 15:06:52,0,0.38,0,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hde799
+webdev,Rate my portfolio website out of ten. ,"If you were hiring a full-stack developer, would you be impressed by my website? 
+
+https://uzairmanan.vercel.app",Icy_Watercress1584,1hdergm,https://reddit.com/r/webdev/comments/1hdergm/rate_my_portfolio_website_out_of_ten/,https://www.reddit.com/r/webdev/comments/1hdergm/rate_my_portfolio_website_out_of_ten/,2024-12-13 15:32:47,0,0.5,0,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1hdergm
+webdev,Is android IDE - PHONE AS on playstore free?,"Is android IDE - PHONE AS on playstore free? Pretty much every IDE on playstore after downloading, to access the functions, you have to sign up for an yearly fee, any recommendations for an free android based IDE?",Plus_Contract5159,1hde4jg,https://reddit.com/r/webdev/comments/1hde4jg/is_android_ide_phone_as_on_playstore_free/,https://www.reddit.com/r/webdev/comments/1hde4jg/is_android_ide_phone_as_on_playstore_free/,2024-12-13 15:03:21,0,0.38,0,0,5,0,0,False,False,True,False,False,,self,t3_1hde4jg
+webdev,Anyone need help with web design or backend. I’m bored ,Title says it all 😂,ksjsjdnn,1hdefwq,https://reddit.com/r/webdev/comments/1hdefwq/anyone_need_help_with_web_design_or_backend_im/,https://www.reddit.com/r/webdev/comments/1hdefwq/anyone_need_help_with_web_design_or_backend_im/,2024-12-13 15:17:58,1,0.67,1,0,0,0,0,False,False,True,False,False,,self,t3_1hdefwq
+webdev,How did web advertising become so bloated?,"I'm not talking about the excessive, obnoxios ad campaigns that cover content or exceed its quantity; that's a separate issue. What I'm talking about are articles, even from known and relatively trusted (at least for reading content) websites, that become so bogged down with ads that they wind up freezing or outright crashing mobile browsers, or lagging noticably on budget or low-power PC-based devices.
+
+I don't think their quantity alone, as annoying as it is, is enough to account for their overhead. Many just display static images or simple animations which barely take up any processing power at all once loaded from the server. What are a few dozen animated images for a device that has no trouble whatsoever running quite complex browser games? The rest are presented as videos that take up some fraction of the screen, and only two or three of these videos are onscreen and playing at any given time. Meanwhile it would take at least a dozen videos at the same resolution to match the load of a single 1440p video stream which the same devices can comfortably handle, in a browser, even after downsampling it to fit the display.
+
+What are these ads doing in the background that takes up so much processing power? Cryptomining?",pilottzn,1hde0qf,https://reddit.com/r/webdev/comments/1hde0qf/how_did_web_advertising_become_so_bloated/,https://www.reddit.com/r/webdev/comments/1hde0qf/how_did_web_advertising_become_so_bloated/,2024-12-13 14:58:48,8,0.75,8,0,17,0,0,False,False,True,False,False,Question,self,t3_1hde0qf
+webdev,How much do you spend on your domain and hosting?,"As a business owner, one of the recurring expenses in managing an online presence is the cost of domain registration and hosting services. These costs can vary significantly depending on the size and needs of your business.
+
+Do you prefer budget-friendly options, or do you invest in premium services to ensure optimal performance?",anony-28,1hd2w4y,https://reddit.com/r/webdev/comments/1hd2w4y/how_much_do_you_spend_on_your_domain_and_hosting/,https://www.reddit.com/r/webdev/comments/1hd2w4y/how_much_do_you_spend_on_your_domain_and_hosting/,2024-12-13 03:07:20,26,0.78,26,0,80,0,0,False,False,True,False,False,,self,t3_1hd2w4y
+webdev,Best Headless CMS for Freelancing (editable by the client?),"Hey guys,
+
+I'm a freelance web developer who enjoys building websites with custom code (often using Astro, React, and Tailwind CSS). I'm looking for the best headless CMS solution to allow my clients to easily edit website content.
+
+**Current Challenge:**
+
+* I want to maintain full control over the front-end development, avoiding limitations imposed by traditional CMSs like WordPress.
+* My clients need the ability to easily edit all aspects of website content (text, images, etc.) through a user-friendly interface, not the layout or design, just the content.
+
+**Current Considerations:**
+
+1. **Astro with DecapCMS:** While promising, I feel it might limit client editing to specific components, and I'd prefer more granular control, also I can't seem to figure out how to customize the user interface/dashboard of the CMS.
+2. **Storyblok:** I haven't used it extensively, but it seems like a strong contender.
+
+**What are your recommendations?**
+
+* What headless CMS do you recommend for this scenario?
+* Are there any with highly customizable interfaces that I can tailor to my clients' specific needs?
+* What are your experiences with client-facing CMS interfaces? Any tips or pitfalls to avoid?
+
+I'm open to exploring other options and appreciate any insights!
+
+**Thanks in advance!**",Susmore,1hdf2ey,https://reddit.com/r/webdev/comments/1hdf2ey/best_headless_cms_for_freelancing_editable_by_the/,https://www.reddit.com/r/webdev/comments/1hdf2ey/best_headless_cms_for_freelancing_editable_by_the/,2024-12-13 15:46:44,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1hdf2ey
+webdev,What's the recommended way to handle state in modern Angular?,"
+Hello,
+I'm primarily a Next.js developer, and I’m currently working on a large enterprise project. I'm using standalone components and signals, and everything is going well so far. However, I’m a bit confused about the best way to manage global state. In Next.js, I typically use the React Query library.
+I’ve read that using services with RxJS and signals might be the recommended approach, but I’m not entirely sure if that’s accurate.
+Thanks for taking the time to read my post!
+",Mikefacts,1hdd8nu,https://reddit.com/r/webdev/comments/1hdd8nu/whats_the_recommended_way_to_handle_state_in/,https://www.reddit.com/r/webdev/comments/1hdd8nu/whats_the_recommended_way_to_handle_state_in/,2024-12-13 14:21:35,2,0.75,2,0,6,0,0,False,False,True,False,False,,self,t3_1hdd8nu
+webdev,Developed a SPA to help devs temporarily deploy their javascript and css code,"**Hello Fellow Developers,**
+
+Have you ever needed a quick way to temporarily host a JavaScript or CSS file to share with friends, colleagues, or even just for testing your own code—without having to update the entire project?
+
+Recently, while working on a project, I faced this exact challenge. I needed to integrate custom JavaScript into a Squarespace website to ensure it met WCAG accessibility standards. Unfortunately, Squarespace didn’t offer a direct way to write custom JavaScript (or at least I couldn’t find one). However, it allowed adding custom scripts via a `&lt;script&gt;` tag.
+
+After some research, I discovered a few platforms that let you temporarily deploy JS/CSS files. But most of them were either limited in functionality or required payment after a few uses. While I managed to resolve my issue, it made me wonder how many developers face similar obstacles.
+
+That’s when I decided to create **CloudSyntax**. You can check it out here: [cloudsyntax.site](http://cloudsyntax.site/)
+
+I developed it over a weekend—starting Friday night and finishing by Sunday morning. I wanted to share it immediately, but the domain was unexpectedly suspended. Now that it’s live, I’d love for you to check it out!
+
+**What is CloudSyntax?**
+
+* It’s a free platform (no sign-up or login required, for now).
+* You can deploy any JavaScript or CSS code and receive a CloudFront link to embed directly into your projects.
+
+I’d really appreciate your feedback—whether positive or constructive—to help improve the platform.
+
+**Tech Stack:**  
+It’s a simple project built with **Next.js**, **AWS S3**, and **CloudFront**.
+
+Thanks, and I hope CloudSyntax proves useful to you!",Beginning-Bother4644,1hd4jmn,https://reddit.com/r/webdev/comments/1hd4jmn/developed_a_spa_to_help_devs_temporarily_deploy/,https://www.reddit.com/r/webdev/comments/1hd4jmn/developed_a_spa_to_help_devs_temporarily_deploy/,2024-12-13 04:39:24,12,0.71,12,0,10,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1hd4jmn
+webdev,Monoco - smooth squircle corners for HTML elements,,monokai,1hd79oa,https://reddit.com/r/webdev/comments/1hd79oa/monoco_smooth_squircle_corners_for_html_elements/,https://monokai.github.io/monoco-demo,2024-12-13 07:39:59,6,0.88,6,0,1,0,0,False,False,False,False,False,Resource,default,t3_1hd79oa
+webdev,"Google Pagespeed sees way outdated version of my website, and I don't know why!","Hi!  
+When going to google pagespeed to analyse my website performance, I found out something very weird:
+
+It seems like google is reading a looongly outdated version of the website. I can see this on ""color contrast complaints"" where it highlights a blue box, which is now red. It also complains about a console error which I cannot reproduce.
+
+This change happened months ago. Checking incognito with any browser gives me up-to-date results. Doing the page speed test in a Chrome browser (locally) will provide me with a good result.
+
+This could mean that not only Pagespeed sees outdated stuff but the search indexer as well. Nobody wants old stuff to be indexed.
+
+It seems like Google is somehow looking at a cache proxy or something I cannot control.
+
+Does anybody know of similar situations? What would be a way out?
+
+This is what Google sees:
+
+https://preview.redd.it/4jdm99947m6e1.png?width=1488&amp;format=png&amp;auto=webp&amp;s=05ab97af235182a6c83611d3f39eb055b6729b76
+
+
+
+This is what it looks like on any of my (squeaky clean) browsers.
+
+https://preview.redd.it/goktzi947m6e1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=bb13799164baa26170396d0417510b735820e3b7
+
+
+
+  
+The page at hand is [https://clean-bites.com/embracing-change/](https://clean-bites.com/embracing-change/) 
+
+under the hood you can find:  
+Wordpress, using oxygen builder, running PHP 8.1  
+A litespeed webserver with it's lscache Wordpress integration.
+
+  
+Thank you for any insight.  
+Best",kaidonkaisen,1hdbw6y,https://reddit.com/r/webdev/comments/1hdbw6y/google_pagespeed_sees_way_outdated_version_of_my/,https://www.reddit.com/r/webdev/comments/1hdbw6y/google_pagespeed_sees_way_outdated_version_of_my/,2024-12-13 13:12:23,2,0.75,2,0,11,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/8_EIJA_HCM8lU-LF90BxU39u5BsvDexwMJ0KQrWFaLI.jpg,t3_1hdbw6y
+webdev,Looking for collaboration ,"Hello, everyone! I’m a front-end developer who loves creating unique and innovative websites. I’m looking for individuals or teams to collaborate on exciting projects.
+
+If you’re an artist, photographer, web designer, or anyone involved in the arts, please feel free to contact me!",Lost_Specific3614,1hdbugx,https://reddit.com/r/webdev/comments/1hdbugx/looking_for_collaboration/,https://www.reddit.com/r/webdev/comments/1hdbugx/looking_for_collaboration/,2024-12-13 13:09:48,2,1.0,2,0,1,0,0,False,False,True,False,False,Article,self,t3_1hdbugx
+webdev,What’s your go-to daily driver browser?,"Looking to cut Chrome the RAM destroyer out of my life other than as a x-browser compatibility tool
+
+I’m learning web dev stacks that aren’t Python based so one would imagine that I’ve got a metric shit-ton of tabs open (and I do, much more so than when I’m deving stuff that’s in my wheelhouse).
+
+HTOP has become a horror show. 
+
+What are you all using? I’m looking for opinions from mostly, but not limited to, folks who migrated away from Chrome. 
+
+Can I get some thoughts on your migration experience as well wrt passwords, bookmarks, etc? Any features you miss from Chrome? Anything else?",husky_whisperer,1hcrprv,https://reddit.com/r/webdev/comments/1hcrprv/whats_your_goto_daily_driver_browser/,https://www.reddit.com/r/webdev/comments/1hcrprv/whats_your_goto_daily_driver_browser/,2024-12-12 18:28:44,49,0.7,49,0,232,0,0,False,False,True,False,False,Question,self,t3_1hcrprv
+webdev,Help me estimate cost of an app,"Hi, I’m thinking to start creating a project, I’m not yet sure to begin.
+
+Anyway, I’ve experience in creating app with small audience (internal tools) so usually the cost of hosting and databse is very limited .
+
+The app that I’m thinking is an app that offer a service for a single city.
+
+The user can:
+- login
+- register
+
+The main feature is:
+- user open the app and see a map (like map box or Google maps ) but the map is restricted to show only one city
+-user can zoom in , zoom out and move around the map
+- user can add a marker to a street in the map and add some information (text only for now , images upload will be added maybe in the future but I don’t want to consider it for now)
+- user can see every marker created by other user
+- user can add a “like” on a marker 
+- user is not happy to pay for this, but the user expects that the app to be a free service payed by the city (so the user indirectly pays for this with taxes)
+
+My question is: how much monthly it will cost to have an app like this ? Development excluded.
+The things that need to be payed are:
+- hosting (VPs or serverless)
+- frontend (react for sure so next js or vite)
+- db (with only text I don’t think the disk space of the db will be higher that 1 go for a while
+- map service ( I never used for an app like this a service for map so I have no idea how to estimate it.user will zoom in,zoom out and move around the map
+so I presume a lot of requests are performed under the hood.
+- Auth service
+
+For sure the app will have an initial stage with super low traffic , then later it can increase highly but not sky rocket. 
+How to estimate these two stages?
+
+
+
+The city has 15000 people in the main area, and with interland it reaches 300000 people. It isn’t expected that every user will use that , so I think 10/15% of total people can spend 30 minute every month on the app.
+This when the app is in high traffic stage.
+
+Thanks ",tresorama,1hdevbh,https://reddit.com/r/webdev/comments/1hdevbh/help_me_estimate_cost_of_an_app/,https://www.reddit.com/r/webdev/comments/1hdevbh/help_me_estimate_cost_of_an_app/,2024-12-13 15:37:42,1,1.0,1,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hdevbh
+webdev,How to approach creating an infinite scrolling canvas of images?,"Here are some examples i found for this type of design:  
+[kirschberg.co.nz](http://kirschberg.co.nz/Archive) &amp; [public.work](https://public.work/)
+
+Any help is appreciated!  
+",cynical-cog,1hd6hxe,https://reddit.com/r/webdev/comments/1hd6hxe/how_to_approach_creating_an_infinite_scrolling/,https://www.reddit.com/r/webdev/comments/1hd6hxe/how_to_approach_creating_an_infinite_scrolling/,2024-12-13 06:42:54,4,0.75,4,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hd6hxe
+webdev,Grid 4 columns horizontal scroll ,"I want build a 4 columns content i use grid-template-columns: repeate(4, 1fr) to get columns eith same with and height. What i want to do is i get 4 columns woth same size and if there are more than 4 columns i get a horizontal scrollbar and use that to get what i want. I changed grid-auto-flow to column but then repeat(4, 1fr) not working and all items get same size in one row instead of 4 columns.
+
+So in short
+
+
+1. What i want
+
+[1] [2] [3] [4] // [5] ... [Last item]
+
+2. What i get
+
+
+[1] [2] [3] [4]
+[5] [6] [7] [8]",katakishi,1hdemsv,https://reddit.com/r/webdev/comments/1hdemsv/grid_4_columns_horizontal_scroll/,https://www.reddit.com/r/webdev/comments/1hdemsv/grid_4_columns_horizontal_scroll/,2024-12-13 15:26:48,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hdemsv
+webdev,PHP &gt; NTLM &gt; MSSQL,"I'm a LAMP guy, primarily a Drupal dev and themer ... but  I often develop glue apps to help business processes.
+
+This latest project has me connecting to a MSSQL database authenticating with NTLM.
+
+The first hurdle is finding a good solution for NTLM. I've tried a composer setup with robinpowered/php-ntlm ... issue with Guzzle
+
+Once authenticated (when I get there), what is everyone's experience with PHP and MSSQL? A simple PDO connection?",sgorneau,1hddqv0,https://reddit.com/r/webdev/comments/1hddqv0/php_ntlm_mssql/,https://www.reddit.com/r/webdev/comments/1hddqv0/php_ntlm_mssql/,2024-12-13 14:45:53,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1hddqv0
+webdev,Grey background on iOS with low brightness only,"Hello,
+
+I need some help with a strange issue.
+
+[On this page](https://www.upcomo.it/noleggio/), only on iOS with low brightness, a weird gray background shows up.  
+When I increase the brightness, it turns white.
+
+Here’s a video showing the problem: [https://streamable.com/orkxls](https://streamable.com/orkxls)
+
+Taking a screenshot or recording a video shows the background as white.
+
+Any idea how to fix this?
+
+**Details:**
+
+* iOS 18.2 (Safari, Chrome, Opera) - iPhone 15
+* WordPress 6.7.1
+* Avada 7.11.11
+
+A similar issue is described here:  
+[https://kidi.ng/wanna-see-a-whiter-white](https://kidi.ng/wanna-see-a-whiter-white)
+
+Thanks!",JayPigliamosche,1hd9rz4,https://reddit.com/r/webdev/comments/1hd9rz4/grey_background_on_ios_with_low_brightness_only/,https://www.reddit.com/r/webdev/comments/1hd9rz4/grey_background_on_ios_with_low_brightness_only/,2024-12-13 10:57:07,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1hd9rz4
+webdev,"ddev problems, any idea?","Hi all, this is a question to those who are familiar with ddev.
+
+I used opensuse for a long time and due to struggle with updates I ran an older version of ddev. Because I began with this several years ago I fix-messed my system in a way that I was able to just change the php-version in the config.yaml of each new project to my desired setup which worked like a charm or maybe it was just possible in the older ddev?
+
+Now I went to debian, set up a fresh new ddev and started working. This was fine for php8.3 but now I have a migration project where I have to run an older system under php7.4 locally.
+
+The problem, I can't just change the php-version in the config.yaml because it isn't available when I try to make ddev start on the project afterwards. Any idea how I get back to my old comfortable setup where I just have to change the version number in my yaml?",Fakedduckjump,1hddkuy,https://reddit.com/r/webdev/comments/1hddkuy/ddev_problems_any_idea/,https://www.reddit.com/r/webdev/comments/1hddkuy/ddev_problems_any_idea/,2024-12-13 14:37:59,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hddkuy
+webdev,How do you work remotely in your team?,"This is a long post, I apologize in advance, but background info if required and I am not sure how to TLDR it.
+
+I just joined a new company almost 4 months ago. In my previous company we had the following setup (prior to covid):: 
+
+Everyone had a work computer in the office with VirtualBox running a local copy of the codebase and the DB. (we also had VirtualBox with a local copy at home after covid when we went remote for 1 year).
+
+That local copy was a git repository connected to a BitBucket remote origin. We all worked on our own copy of the codebase because prior to 2014 we were not using git at all. We used Dreamweaver with it's checkin/checkout and we constantly were overwriting each other's changes. In comes git and we solved that problem.
+
+This new company I am working for now, also does not use git, and we all (4 devs) just remote into the dev server and work directly on it. So far in 4 months, it has happened 4 times where someone has been ""working on a new feature"" directly on the dev server, and it would break something for some other section that QA was working on. QA all have to stop and wait for it to be fixed before they can keep working. 
+
+On my second week there, I was told that 2 of the other devs use SFTP. So I also setup SFTP in order to at least create a local git repo to track my own changes locally. Of course now I have to sync my local with dev manually. Not ideal. So long story short, I get assigned a larger project that is a major overhaul of a single system within the application as a whole (which I am still working on today). So I setup a local development environment in docker, which involves tweaking some things in the application code in order to get it to run locally because hard coded redirects and forced https and whatnot.
+
+Everyone asks how I am working on stuff when they can't see my changes on dev... I work on a local setup with proper version control... ""OH THAT SOUNDS COOL!!!! WE WANT SCM TOO!!! CAN WE DO THAT TOO!!!"" why yes you can. Here is a docker compose file so you can mount your local files directly into the VM, and here is the remote repo so you can clone it. Have fun.
+
+They immediately go straight to the single devops guy who calls me and tells me that I am not authorized to have a local copy of the codebase, and is freaking out because he thinks we are running the DB locally as well. In fact, no one is authorized to have local copies. We all need to stop using it and docker immediately and work on dev directly like they have been doing for decades. After the new year we will look into setting up something else that is more inline with ""doing it the right way"".
+
+So I apologize for overstepping my role (Senior Frontend Architect - DevOps Engineer), and let him know it was not my intention to violate any non-existent, not-in-writing, never-explained-to-me-as-a-new-hire policies or procedures, and that I just wanted to get things moving in the direction of using SCM, since it is something we need to implement.
+
+Anyway, I thought about it for like 20 minutes after I got off the phone, and thought of the following setup:
+
+* Everything is already running on AWS
+* Setup 1 remote server with 4 user accounts, one for each dev
+* Each user account has it's own copy of the codebase that is a git repo on the server that only they and a single devops user can access (in case someone leaves and has not pushed code to the origin yet we can still get into it and not lose the code). (Possibly also running a remote VSCode IDE so we don't have to configure a local one as well - not really necessary, but would be a cool feature to have).
+* Each dev remotes into their account on the server and works on the server files in their account directly (no local copies).
+* The account based repos connect to a self-hosted git origin, and push/pull from there
+* The self-hosted git origin CI/CD pipelines into the current dev server (which now becomes staging) and the load balancer which pushes to 2 production servers.
+
+Thoughts?",averajoe77,1hddd5f,https://reddit.com/r/webdev/comments/1hddd5f/how_do_you_work_remotely_in_your_team/,https://www.reddit.com/r/webdev/comments/1hddd5f/how_do_you_work_remotely_in_your_team/,2024-12-13 14:27:40,1,1.0,1,0,6,0,0,False,False,True,False,False,,self,t3_1hddd5f
+webdev,Is Figma used when developing a custom storefront?  - For Ecoms web devs,"Hi there!
+
+I am new to the world of e-commerce (Senior Engineer here)  and have a few questions.
+
+Does the design-code process I've always seen in  the Front-End world applies also to working  on custom e-commerce projects or is the process different?
+
+Is Figma used?
+
+Thanks!",Sea-Blacksmith-5,1hddcvy,https://reddit.com/r/webdev/comments/1hddcvy/is_figma_used_when_developing_a_custom_storefront/,https://www.reddit.com/r/webdev/comments/1hddcvy/is_figma_used_when_developing_a_custom_storefront/,2024-12-13 14:27:21,0,0.33,0,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1hddcvy

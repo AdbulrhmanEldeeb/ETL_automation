@@ -1,0 +1,57 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,How do the foundations and philosophy of mathematics relate to each other? ,"Are there any philosophical views that encourage certain foundations? Are there any foundations that encourage certain philosophical views? If we take a set theoretical foundation using sets as a primitve object would a platonist differentiate between the existence of sets and objects which are constructed from sets or would they be treated the same? Are there any good articles on this relation? 
+",2Tryhard4You,1h4x0pk,https://reddit.com/r/math/comments/1h4x0pk/how_do_the_foundations_and_philosophy_of/,https://www.reddit.com/r/math/comments/1h4x0pk/how_do_the_foundations_and_philosophy_of/,2024-12-02 15:06:48,6,1.0,6,0,3,0,0,False,False,True,False,False,,,t3_1h4x0pk
+math,How monstrously long papers are made?,"Following the steps of a recent discussion in the community, I have read a Wiki page on the Feit–Thompson theorem. There I found the following:
+
+*The final paper is 255 pages long. &lt;...&gt;*
+
+*Perhaps the most revolutionary aspect of the proof was its length: before the Feit–Thompson paper, few arguments in group theory were more than a few pages long and most could be read in a day. Once group theorists realized that such long arguments could work, a series of papers that were several hundred pages long started to appear. Some of these dwarfed even the Feit–Thompson paper; the paper by Michael Aschbacher and Stephen D. Smith on quasithin groups was 1,221 pages long.*
+
+How do authors come up with such long proofs? I don't believe there are brilliant insights every few pages. If there were, these gigantic papers would be valued as high as FLT proof, but they are not. I imagine there should be some machinery that produces arguments more or less mechanically, but still,  these arguments are not so standard that they could be just omitted from the paper.
+
+But that's just my guess. If it is true, what does this machinery look like? If it is not, how are behemoth-long proofs actually made?
+
+",DrBiven,1h4v9yx,https://reddit.com/r/math/comments/1h4v9yx/how_monstrously_long_papers_are_made/,https://www.reddit.com/r/math/comments/1h4v9yx/how_monstrously_long_papers_are_made/,2024-12-02 13:45:03,65,0.98,65,0,20,0,0,False,False,True,False,False,,,t3_1h4v9yx
+math,Solution to the Moving Sofa Problem Claimed - Optimality of Gerver's Sofa,,areasofsimplex,1h4om4s,https://reddit.com/r/math/comments/1h4om4s/solution_to_the_moving_sofa_problem_claimed/,https://arxiv.org/abs/2411.19826,2024-12-02 06:19:39,122,0.99,122,0,20,0,0,False,False,False,False,False,,,t3_1h4om4s
+math,"i picked up this old calculus book, the previous owner seemed to cherish it and also left me with some wisdom.",,Konundrum_Is_God,1h4bpox,https://reddit.com/r/math/comments/1h4bpox/i_picked_up_this_old_calculus_book_the_previous/,https://www.reddit.com/gallery/1h4bpox,2024-12-01 19:48:27,405,0.98,405,0,29,0,0,False,False,False,False,False,Image Post,,t3_1h4bpox
+math,Does your mood crash in the days after an exam or assignment?,Been noticing this. I guess a lot of dopamine is rolling round in the build up and I just feel kind of lost the days after. Wonder if anyone has similar experiences and how you deal with it.,lipguy123,1h4qlro,https://reddit.com/r/math/comments/1h4qlro/does_your_mood_crash_in_the_days_after_an_exam_or/,https://www.reddit.com/r/math/comments/1h4qlro/does_your_mood_crash_in_the_days_after_an_exam_or/,2024-12-02 08:41:28,36,0.92,36,0,11,0,0,False,False,True,False,False,,,t3_1h4qlro
+math,What are some famous proofs that contained (major but corrigible) technical errors when first published? ,I’m thinking of proofs that were strictly speaking incorrect but were subsequently “patched-up” and we still attribute the proof to the original author,Scepticalignorant,1h4bfnj,https://reddit.com/r/math/comments/1h4bfnj/what_are_some_famous_proofs_that_contained_major/,https://www.reddit.com/r/math/comments/1h4bfnj/what_are_some_famous_proofs_that_contained_major/,2024-12-01 19:36:52,88,0.96,88,0,37,0,0,False,False,True,False,False,,,t3_1h4bfnj
+math,Give me your favorite bijections,,PM_TITS_GROUP,1h40nbg,https://reddit.com/r/math/comments/1h40nbg/give_me_your_favorite_bijections/,https://www.reddit.com/r/math/comments/1h40nbg/give_me_your_favorite_bijections/,2024-12-01 10:40:12,153,0.93,153,0,147,0,0,False,False,True,False,False,,,t3_1h40nbg
+math,Interesting counterexamples in analysis?,"When one first learns real analysis/rigorous calculus, part of the experience is coming up with pathological functions to act as counterexamples. For example:
+
+""Every function ℝ → ℝ is locally bounded somewhere.""  
+Counterexample: The function f(x) = 0 when x is irrational, and f(x) = q where x=p/q is rational and written in lowest terms.
+
+Even if the pathological function is well known, it can still be interesting to see what statements they are a counterexample for. For example:
+
+""Every removable discontinuity of a Riemann integrable function ℝ → ℝ is isolated.""  
+Counterexample: The removable discontinuities of [Thomae's function](https://en.wikipedia.org/wiki/Thomae's_function) are dense in the reals.
+
+What are your favorite counterexamples?",MorrowM_,1h42zur,https://reddit.com/r/math/comments/1h42zur/interesting_counterexamples_in_analysis/,https://www.reddit.com/r/math/comments/1h42zur/interesting_counterexamples_in_analysis/,2024-12-01 13:12:41,76,0.96,76,0,27,0,0,False,False,True,False,False,,,t3_1h42zur
+math,Names for two desired properties of classifcation schemes?,"Hello! Forgive the improper terminology. 
+
+If you are coming up with a system of classifying some set of things, you want the system to be: 
+
+1. Complete, meaning every item in the set falls into one class or category, i.e., there are no items that cannot fit into some category or another, and 
+
+2. Unambiguous, meaning every item falls into one and only one category; no item could be said to fit into more than one category. 
+
+I'm pretty sure there are actual mathematical terms for those two properties, but I don't know what they are. Any wisdom or me? 
+
+Incidentally, I'm sure this issue comes up in about a billion different settings, like library science, cladistics, law and legal statutes, etc. 
+
+Thanks! ",KokoTheTalkingApe,1h4eqr3,https://reddit.com/r/math/comments/1h4eqr3/names_for_two_desired_properties_of_classifcation/,https://www.reddit.com/r/math/comments/1h4eqr3/names_for_two_desired_properties_of_classifcation/,2024-12-01 21:57:29,12,0.81,12,0,17,0,0,False,False,True,False,False,,,t3_1h4eqr3
+math,How you understand something you can't visualize?,"I feel it is hard to distinguish real understanding from just being able to do symbolic manipulation and get the right answer consistently. For me, visualization is a big part of understanding, but so many concepts require higher dimensions to be able to ""seen"".  So sometimes, even if I can do a proof, I feel like there is not something I could explain about that proof.
+
+An example: Right now, I'm learning about duality in optimization. And it's interesting, and I can do some proofs, but I don't really see why two polyhedra would be dual to each other or what that means.",TYHVoteForBurr,1h41gow,https://reddit.com/r/math/comments/1h41gow/how_you_understand_something_you_cant_visualize/,https://www.reddit.com/r/math/comments/1h41gow/how_you_understand_something_you_cant_visualize/,2024-12-01 11:37:32,63,0.97,63,0,32,0,0,False,False,True,False,False,,,t3_1h41gow
+math,"In the Yoneda Lemma, in what ways can Hom(C,-) and Hom(D,-) fail to be naturally isomorphic? How do such failures correspond to failures in C and D being isomorphic?","The paragraph below is from [https://www.reddit.com/user/fredarietem/](https://www.reddit.com/user/fredarietem/) , who posted four years ago in ""Is it normal to be struggling to “get” the Yoneda lemma or is Category Theory just not for me?Is it normal to be struggling to “get” the Yoneda lemma or is Category Theory just not for me?"", [https://www.reddit.com/r/math/comments/n9a761/is\_it\_normal\_to\_be\_struggling\_to\_get\_the\_yoneda/](https://www.reddit.com/r/math/comments/n9a761/is_it_normal_to_be_struggling_to_get_the_yoneda/) . The post is archived, unfortunately, which means I can't discuss it with the original discussants. But the paragraph says exactly what I want to start from. To go further, I want to ask: in what way can Hom(C,-) and Hom(D,-) fail to be naturally isomorphic, and how do such failures correspond to failure in C and D being isomorphic?
+
+&gt;One way to appreciate the Yoneda lemma is through its corollaries. There's one particular special case which I find particularly enlightening: the Yoneda embedding. The idea is that we can think of an object C as being represented by a hom functor Hom(C,-), i. e. by all its relations to other objects in the category (in the form of arrows from C). Then, an arrow from C to D corresponds exactly to a natural transformation between the corresponding hom functors (this is because the Yoneda embedding is fully faithful, courtesy of the Yoneda lemma). In particular, if Hom(C,-) and Hom(D,-) are naturally isomorphic then C and D are isomorphic, which essentially justifies the ""it's the arrows that are important"" perspective of category theory. Note that we could just as well look at Hom(-,C) instead of Hom(C,-).
+
+I've never seen this discussed, but is there a concept of ""C and D are isomorphic except for these cases""? Of, as it were, defects or deformations in isomorphism? As a programmer, I find it natural (sorry!) to study such points of failure. If I could do so for Yoneda, I think it would be enlightening. Because it's easy to see how a natural transformation can fail. Some components may not be there. But what kind of damage does that do to the wanna-be isomorphism arrows between C and D?
+
+By the way, I attach a picture of a category with objects C and D in, also X, X', X'', etc. It also shows the functors Hom(C,-) and Hom(D,-), with just visible hom-sets indicating their effect on some of the X's, and a natural transformation. Maybe someone can see how to complete it to make the source of C and D's isomorphism obvious.
+
+https://preview.redd.it/sij3s1hm194e1.png?width=3432&amp;format=png&amp;auto=webp&amp;s=42ab78b0f129cb9973e0923305c9514e5ede0876
+
+",InfiniteCry3898,1h44qdm,https://reddit.com/r/math/comments/1h44qdm/in_the_yoneda_lemma_in_what_ways_can_homc_and/,https://www.reddit.com/r/math/comments/1h44qdm/in_the_yoneda_lemma_in_what_ways_can_homc_and/,2024-12-01 14:43:36,16,0.9,16,0,23,0,0,False,False,True,False,False,,,t3_1h44qdm

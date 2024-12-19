@@ -1,0 +1,91 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Default parameters and objects...,"I ran into this recently:
+
+  
+`class EvenStream:`  
+`def __init__(self):`  
+`self.current = 0`
+
+`def get_next(self):`  
+`self.current += 2`  
+`return self.current`
+
+`def print_from_stream(n, stream=EvenStream()):`  
+`for _ in range(n):`  
+`print(stream.get_next())`
+
+The default for stream is the `EventStream` object. However, it is only evaluated once. So unless you are aware of that, you might expect `EventStream()` to be fresh new object every time `print_from_stream()` is called. Well, it is not. `print_from_stream()` uses the exact same default object for stream upon every invocation.
+
+I think this is a serious wart in the language, especially if the object maintains state as `EventStream` does. You can pass in a new `stream` object on each call, of course, but it becomes complicated to reason about the code, especially if default objects are used everywhere.
+
+I am just coming back to Python from a long hiatus, and this aspect took me by surprise.
+
+Another aspect that also took me by surprise is that the expression `++n` in Python generates no errors, yet does not increment like it would in C++, C, and a number of other languages. I might forget that as I am banging out lots of Python code and introduce bugs that might be tricky to track down.
+
+Ruby has similar warts as well.
+
+I have become a strong advocate for strong typing, and Haskell is the best for that that I have seen thus far. Not even C++ comes close.
+
+Well, I may be paid to do Python, but it will be painful.",el_toro_2022,1hge5ee,https://reddit.com/r/Python/comments/1hge5ee/default_parameters_and_objects/,https://www.reddit.com/r/Python/comments/1hge5ee/default_parameters_and_objects/,2024-12-17 16:16:32,0,0.33,0,0,29,0,0,False,False,True,False,False,Discussion,self,t3_1hge5ee
+Python,Escape From Castle Black and the EverRogue game engine,"You are a prisoner in the dungeons of an evil king. Every day you hear the screams when the king's servants torture the prisoners. Today it's finally your turn.
+
+You knew this day would come, and luckily you prepared for it. You have a sharpened shiv you managed to make while you were waiting, and a friend smuggled you in a potion of stoneskin. But ready or not, it's time.
+
+# What My Project Does
+
+Escape From Castle Black is a text-based rogue-like game written in Python. The engine, EverRogue, is open source, and because it uses procedural generation it can be used to generate your own rogue-like games with only a minimal amount of coding. It's good for both beginner Python programmers or for advanced coders who will be able to edit the engine itself.
+
+# Target Audience
+
+Programmers and gamers, especially both! You can play through the included game, Escape From Castle Black, which is a fun game with some interesting twists. You can edit the game during runtime, because Python is awesome, so you can cheat in some very creative ways if you want to- really, everything is editable while you're playing. Or you can dive into game generation, which is well documented, and create your own game from scratch.
+
+# Comparison
+
+EverRogue is inspired by Kyle's Quest, an old palm pilot game that allowed you to create your own levels. It also takes a lot of inspiration from Dwarf Fortress, which is what got me into coding in the first place. The combat in particular is very reminiscent of the combat in Dwarf Fortress adventure mode. But what really makes it stand out is the ability to write your own games from scratch. The code required is closer to creating config files than writing actual code- the procedural generation is very powerful. I think you'll have a lot of fun with it.
+
+link to the source: [https://github.com/markemus/engine/tree/master](https://github.com/markemus/engine/tree/master)",Markemus,1hgml8m,https://reddit.com/r/Python/comments/1hgml8m/escape_from_castle_black_and_the_everrogue_game/,https://www.reddit.com/r/Python/comments/1hgml8m/escape_from_castle_black_and_the_everrogue_game/,2024-12-17 22:24:19,3,0.64,3,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1hgml8m
+Python,Python botting ? ,"Wondering if anyone here has coded a checkout bot on python? 
+I'm looking to see if someone can code me one before purchasing one online. It seems that there isn't any great options online really. And the difficulties of coding this i believe is out of my realm as I only ever took a high-school coding class.",Subiesaver107,1hh0a97,https://reddit.com/r/Python/comments/1hh0a97/python_botting/,https://www.reddit.com/r/Python/comments/1hh0a97/python_botting/,2024-12-18 12:14:36,0,0.24,0,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hh0a97
+Python,Spotify data visualizations,"* **What My Project Does**
+
+My project offers a visualization of spotify data through a web application.
+
+* **Target Audience**
+
+The project is aimed at anyone who uses Spotify and likes music
+
+* **Comparison**
+
+My project is different from a classic Spotify wrapped because it offers new features, is interactive and allows you to select the period of interest. Plus you can watch it more than once a year :)
+
+  
+Feel free to give me suggestions with pull requests and issues as I plan to expand the project further. [Github](https://github.com/marcobadiello/Esame-Sistemi-2.git)",Rich_Walrus_1648,1hgn2bu,https://reddit.com/r/Python/comments/1hgn2bu/spotify_data_visualizations/,https://www.reddit.com/r/Python/comments/1hgn2bu/spotify_data_visualizations/,2024-12-17 22:45:35,43,0.85,43,0,9,0,0,False,False,True,False,False,Showcase,self,t3_1hgn2bu
+Python,Coding Mini-Games For Cash,"Hello. I am working on my python coding and was offering to code small mini-games for some cash to put towards furthering my education. Leave a comment, I'll reply with a price.",nfent0n,1hgxsbd,https://reddit.com/r/Python/comments/1hgxsbd/coding_minigames_for_cash/,https://www.reddit.com/r/Python/comments/1hgxsbd/coding_minigames_for_cash/,2024-12-18 09:08:41,0,0.28,0,0,4,0,0,False,False,True,False,False,Resource,self,t3_1hgxsbd
+Python,LLM data I/O - for storing notes,Looking to build out a local LLM system to read in notes that get stored quickly for prompting after. What is the best directory or file format for this?,JollyShooter,1hh3dd4,https://reddit.com/r/Python/comments/1hh3dd4/llm_data_io_for_storing_notes/,https://www.reddit.com/r/Python/comments/1hh3dd4/llm_data_io_for_storing_notes/,2024-12-18 14:59:01,4,0.83,4,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hh3dd4
+Python,Wednesday Daily Thread: Beginner questions,"# Weekly Thread: Beginner Questions 🐍
+
+Welcome to our Beginner Questions thread! Whether you're new to Python or just looking to clarify some basics, this is the thread for you.
+
+## How it Works:
+
+1. **Ask Anything**: Feel free to ask any Python-related question. There are no bad questions here!
+2. **Community Support**: Get answers and advice from the community.
+3. **Resource Sharing**: Discover tutorials, articles, and beginner-friendly resources.
+
+## Guidelines:
+
+* This thread is specifically for **beginner questions**. For more advanced queries, check out our [Advanced Questions Thread](#advanced-questions-thread-link).
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **What is the difference between a list and a tuple?**
+2. **How do I read a CSV file in Python?**
+3. **What are Python decorators and how do I use them?**
+4. **How do I install a Python package using pip?**
+5. **What is a virtual environment and why should I use one?**
+
+Let's help each other learn Python! 🌟",AutoModerator,1hgon88,https://reddit.com/r/Python/comments/1hgon88/wednesday_daily_thread_beginner_questions/,https://www.reddit.com/r/Python/comments/1hgon88/wednesday_daily_thread_beginner_questions/,2024-12-18 00:00:10,3,0.68,3,0,4,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hgon88

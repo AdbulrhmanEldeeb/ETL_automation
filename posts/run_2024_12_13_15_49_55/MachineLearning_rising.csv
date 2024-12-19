@@ -1,0 +1,73 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] The winner of the NeurIPS 2024 Best Paper Award  sabotaged the other teams,"Presumably, the winner of the NeurIPS 2024 Best Paper Award (a guy from ByteDance, the creators of Tiktok) sabotaged the other teams to derail their research and redirect their resources to his own. Plus he was at meetings debugging his colleagues' code, so he was always one step ahead. There's a call to withdraw his paper.
+
+[https://var-integrity-report.github.io/](https://var-integrity-report.github.io/)
+
+I have not checked the facts themselves, so if you can verify what is asserted and if this is true this would be nice to confirm.",LelouchZer12,1hctf36,https://reddit.com/r/MachineLearning/comments/1hctf36/d_the_winner_of_the_neurips_2024_best_paper_award/,https://www.reddit.com/r/MachineLearning/comments/1hctf36/d_the_winner_of_the_neurips_2024_best_paper_award/,2024-12-12 19:41:41,513,0.97,513,0,60,0,0,False,False,True,False,False,Discussion,self,t3_1hctf36
+MachineLearning,[D] What makes TikTok's recommendation algorithm so strong?,"General Discussion - now that they are about to be banned in the US, I'm becoming fascinated by the strength of their For You recommendations. To try and put some guard rails on what I mean, TikTok has shown itself to be able to match content to relevant audience at greater frequency and scale than any other app (YouTube included). Many creators can join the platform, post a single video, and have millions of views in 24 hours. This does happen on other apps, but TikTok seems to be the most consistent at scaling audience incredibly fast.
+
+What models might they be basing their system on? What about their models creates their competitive advantage?",No_Collection_5509,1hcp4xw,https://reddit.com/r/MachineLearning/comments/1hcp4xw/d_what_makes_tiktoks_recommendation_algorithm_so/,https://www.reddit.com/r/MachineLearning/comments/1hcp4xw/d_what_makes_tiktoks_recommendation_algorithm_so/,2024-12-12 16:39:06,101,0.91,101,0,26,0,0,False,False,True,False,False,Discussion,self,t3_1hcp4xw
+MachineLearning,[D] Importance of HPO per field / model type / applications,"I’ve noticed that the time spent on hyperparameter optimization vary significantly, not just between industry and academia but also across different fields like NLP, computer vision, or reinforcement learning. I’m curious—what’s your experience?
+
+* Is tuning something you prioritize heavily, or do you often settle for “good enough” configurations to move faster?
+* What field / model type / applications do you think experience most(or least) bottleneck in workflow due to HPO?
+* Are there any industry dependency around choosing HPO tools? For example, everyone in xx industry would pick Optuna as a go-to or everyone running xx experiments would use Sigopt.
+
+Would love to hear your experiences! Thanks",Maleficent_Ad5541,1hd6pjv,https://reddit.com/r/MachineLearning/comments/1hd6pjv/d_importance_of_hpo_per_field_model_type/,https://www.reddit.com/r/MachineLearning/comments/1hd6pjv/d_importance_of_hpo_per_field_model_type/,2024-12-13 06:58:12,6,0.88,6,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hd6pjv
+MachineLearning,[R] Identifying Critical Decision Points in Neural Text Generation Through Token-Level Uncertainty Analysis,"This paper introduces a framework for analyzing and visualizing the branching decisions language models make during text generation. The key methodology involves tracking probability distributions across different sampling paths to understand how early choices affect downstream generation.
+
+Main technical points:
+- Developed metrics to quantify uncertainty at each generation step
+- Created visualization tools for mapping decision trees in generation
+- Analyzed how different sampling methods affect path divergence
+- Measured correlation between model confidence and generation quality
+- Identified clustering patterns in generation trajectories
+
+Key results:
+- Found that paths tend to cluster into 2-3 distinct trajectory groups
+- Early sampling decisions have outsized impact on final outputs
+- Uncertainty patterns vary significantly between sampling methods
+- Similar prompts can lead to dramatically different generation paths
+- Model confidence doesn't consistently predict output quality
+
+I think this work provides important insights into how we might better control text generation. The ability to map and understand generation paths could help develop more reliable sampling methods and better uncertainty estimates.
+
+I think the clustering of generation paths is particularly interesting - it suggests there may be ways to guide generation toward desired trajectory groups. This could be valuable for applications needing more predictable outputs.
+
+The methodology also reveals some concerning aspects about current sampling methods. The strong dependence on early decisions suggests we may need new approaches that better preserve generation flexibility throughout the sequence.
+
+TLDR: New framework for analyzing how language models make text generation choices. Shows that generation paths cluster into distinct groups and early decisions heavily influence outcomes. Could help develop better sampling methods and uncertainty estimates.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/forking-paths-neural-text-generation). Paper [here](https://arxiv.org/abs/2412.07961).",Successful-Western27,1hdd0kk,https://reddit.com/r/MachineLearning/comments/1hdd0kk/r_identifying_critical_decision_points_in_neural/,https://www.reddit.com/r/MachineLearning/comments/1hdd0kk/r_identifying_critical_decision_points_in_neural/,2024-12-13 14:10:21,1,1.0,1,0,1,0,0,False,False,True,False,False,Research,self,t3_1hdd0kk
+MachineLearning,[D] Training with synthetic data and model collapse. Is there progress?,"About a year ago, research papers talked about model collapse when dealing with synthetic data. Recently I’ve been hearing about some progress in this regard. I am not expert and would welcome your views on what’s going on. Thank you and have a fantastic day.",BubblyOption7980,1hd92mt,https://reddit.com/r/MachineLearning/comments/1hd92mt/d_training_with_synthetic_data_and_model_collapse/,https://www.reddit.com/r/MachineLearning/comments/1hd92mt/d_training_with_synthetic_data_and_model_collapse/,2024-12-13 10:03:43,1,0.53,1,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1hd92mt
+MachineLearning,[D] Agentic AI Design Patterns,"I was looking into design patterns for Agentic AI and I could need some help to grasp the concepts.
+
+I read about ReAct and ReWOO.
+
+From ReWOO, I really liked the idea of having a planner that creates a blueprint of the work that needs to be done. I can imagine that this works well for a lot of tasks, and it optimizes token usage compared to ReAct.
+
+From ReAct, I like that it has a reflection/observation LLM, to decide whether the output is good enough or needs another pass through the agents.
+
+What I don't understand:
+Why does ReWOO not have a reflection component??
+
+Wouldn't it be the best of both worlds to have the planner and the reflection?
+
+This was the first draft for my agentic AI prototype, and I think it has pretty obvious advantages.
+
+I think I am missing something here.",Mindless_Copy_7487,1hd8w3k,https://reddit.com/r/MachineLearning/comments/1hd8w3k/d_agentic_ai_design_patterns/,https://www.reddit.com/r/MachineLearning/comments/1hd8w3k/d_agentic_ai_design_patterns/,2024-12-13 09:49:22,1,0.67,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hd8w3k
+MachineLearning,"[D] ""Proper"" way to upload accepted conference paper to the ArXiv?","We recently had a paper accepted to a conference (AAAI). We found out that the conference does not publish appendices so they recommend we upload the full paper (with appendix) to arXiv. This is something we were considering doing anyway since the paper would be available before the conference proceedings come out.
+
+My concern is that if someone decides to cite our work, they may either become confused or cite the arXiv rather than AAAI ""version"".
+
+Is there a ""correct"" or common way to handle this? Do arXiv uploads with the same title get indexed to ""one manuscript"" on google scholar?
+
+Also, are we allowed to use the conference template to upload? (This part might be conference dependent I suppose).
+
+I know it is common these days to upload to arXiv before hearing back from a conference (usually with a different title) but I think this is a slightly different situation as the paper is accepted and the uploaded version will be identical to the conference paper (though with an Appendix).
+
+Thanks in advance!",baghalipolo,1hcupkm,https://reddit.com/r/MachineLearning/comments/1hcupkm/d_proper_way_to_upload_accepted_conference_paper/,https://www.reddit.com/r/MachineLearning/comments/1hcupkm/d_proper_way_to_upload_accepted_conference_paper/,2024-12-12 20:38:05,7,0.77,7,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hcupkm
+MachineLearning,[D] LSTM model implementation and approximation questions,"For a project I am currently trying to integrate an Autoencoder for feature extraction and an LSTM for classification of the reduced feature space. The problem I am encountering is on how to train the LSTM network. The AE produces 5 datapoints which is fed into the LSTM network. The trick now comes in on the training of the LSTM network and how the LSTM works. I want the LSTM to take into account the 5 parameters from the AE at time t as well as the parameters at t-1 and t-2. As far as I understand the LSTM does this automatically, or should it then be that the LSTM takes in a total of 15 parameters with each pair of 5 corresponding to one timestep of the AE?
+
+Any advice on LSTM would be great or how such training can be done in an efficient way. The AE is processing a time-series signal.",Sea_Onion41,1hcvh1c,https://reddit.com/r/MachineLearning/comments/1hcvh1c/d_lstm_model_implementation_and_approximation/,https://www.reddit.com/r/MachineLearning/comments/1hcvh1c/d_lstm_model_implementation_and_approximation/,2024-12-12 21:09:27,6,1.0,6,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hcvh1c
+MachineLearning,[D] help with evaluating model,"i am having an issue with evaluating my model because model.evaluate() returns an okay overall score in accuracy but the confusion matrix and classification report return 100% for one class and 0% for another, i am using cifar10 but only 2 classes from it. anyone know why this happens? is this overfitting i am not sure because i am getting a similar score as model.evaluate(0 in my training accuracy and same for loss (which is almost as high as the accuracy)",Affectionate_Pen6368,1hd5kht,https://reddit.com/r/MachineLearning/comments/1hd5kht/d_help_with_evaluating_model/,https://www.reddit.com/r/MachineLearning/comments/1hd5kht/d_help_with_evaluating_model/,2024-12-13 05:40:50,1,0.6,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hd5kht

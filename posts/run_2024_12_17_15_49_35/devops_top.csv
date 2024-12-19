@@ -1,0 +1,107 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Did 'vi' win the editor war?,I was just thinking that I haven't heard anyone talk about emacs for a few years. But all the new people I meet who need an editor that's present on 'any' system are using 'vi'. I think one of them had never even heard of emacs.,jacksbox,1hflvt6,https://reddit.com/r/devops/comments/1hflvt6/did_vi_win_the_editor_war/,https://www.reddit.com/r/devops/comments/1hflvt6/did_vi_win_the_editor_war/,2024-12-16 15:41:33,84,0.81,84,0,153,0,0,False,False,True,False,False,,self,t3_1hflvt6
+devops,CICD pipeline uses helm to deploy apps without packaging them in a OCI registry,"Am I the worst person alive? I have implemented helm deployment through our CICD pipeline, the build phase of the pipeline pulls the helm charts from the app's repository then makes an artifact from it. When its time to deploy the pipeline simply runs an helm upgrade command using the artifacted helm chart. I have seen a lot of oeople mentionning they instead package their helm charts and push them to an OCI registry which is fine but in our case I feel like its an additional step and aditional dependency (the OCI registry) which we don't really need.   Any thoughts?",Vonderchicken,1hfueg4,https://reddit.com/r/devops/comments/1hfueg4/cicd_pipeline_uses_helm_to_deploy_apps_without/,https://www.reddit.com/r/devops/comments/1hfueg4/cicd_pipeline_uses_helm_to_deploy_apps_without/,2024-12-16 21:41:58,28,0.86,28,0,24,0,0,False,False,True,False,False,,self,t3_1hfueg4
+devops,Migrating from Elasticsearch to Opensearch,"Hello all
+
+I am working on a project to migrate some elasticsearch clusters to opensearch. I would like to know if anyone here has done this and can recommend strategies to do this in production for a customer facing application. So far I've evaluated two options, option 1 would require a ""read-only"" downtime where any writes to the cluster would error out. This would give time to migrate all the relevant indexes using the \`reindex\` operation and to the code to point to the OS cluster instead of the ES one. Option 2 is more involved, it would require updating the application code to dual-write for a period of time, then doing reindexing of all the data prior to when the dual-write was enabled, and when we have confidence, doing a full cut over. Option 2 has a lot of issues in that the code changes are more complex and I don't yet know how to deal with data divergence, e.g. if a write fails in OS but succeeds in ES. However, I am getting word that a 0 downtime approach is strongly preferred.
+
+Any advice would be great!
+
+edit: ES 7.10, OS 2.15
+
+edit 2: for folks who have done or evaluated a no-downtime approach, I would love to hear more about this!",oneradsn,1hfmzdu,https://reddit.com/r/devops/comments/1hfmzdu/migrating_from_elasticsearch_to_opensearch/,https://www.reddit.com/r/devops/comments/1hfmzdu/migrating_from_elasticsearch_to_opensearch/,2024-12-16 16:29:33,17,0.95,17,0,17,0,0,False,False,True,False,False,,self,t3_1hfmzdu
+devops,How would you manage/automate this mess?,"I believe we use almost every possible way to host SQL Server: on AWS EC2 (as an FCI cluster), on AWS EC2 (as an AG cluster), on Multi-AZ RDS SQL Server, on Single-AZ RDS SQL Server, and we’re currently in the middle of a POC for RDS Custom for SQL Server.
+
+Our application follows a single-tenant database architecture, which means we host around 2000 databases—a number that is always changing:
+
+* We onboard new customers, which means creating new databases.
+* Customers terminate their subscriptions, which means we drop their database(s).
+* We receive a backup file from the implementation/support team or the customer directly to create a new database (yes, each customer can have anywhere from **1 to 20+ DBs**) or override an existing database with their backup file.
+
+At this point, even a simple restore operation is different across all our servers. For example, to override a database:
+
+* **On an AG cluster**: Remove the database from AG first, put the database in single-user mode, restore it, switch back to multi-user mode, and then add it back to the AG.
+* **On an FCI cluster**: Follow the same steps as AG, except for removing/adding it from/to AG.
+* **On Single-AZ RDS**: Use a stored procedure. If you’re overriding an existing database, you can add logic to check if the database exists, drop it, and then restore using the stored procedure.
+* **On Multi-AZ RDS**: Use the same stored procedure, but if you’re overriding an existing database, you need to drop it using different SQL commands (because it’s Multi-AZ) and then run the stored procedure for the restore operation.
+
+I’m not even diving into other tasks, like managing users/logins (each customer has their own login, used by our applications), read-only users, or performing some other updates/changes across every single database.
+
+So, how would you manage this mess?  
+Does anyone know of any third-party automation tools that could help?",victor_yanukovich,1hg28ff,https://reddit.com/r/devops/comments/1hg28ff/how_would_you_manageautomate_this_mess/,https://www.reddit.com/r/devops/comments/1hg28ff/how_would_you_manageautomate_this_mess/,2024-12-17 04:02:11,11,0.83,11,0,16,0,0,False,False,True,False,False,,self,t3_1hg28ff
+devops,Blameless culture?,"Does it really exist?
+What does it look like in reality?",Skill-Additional,1hg65pv,https://reddit.com/r/devops/comments/1hg65pv/blameless_culture/,https://www.reddit.com/r/devops/comments/1hg65pv/blameless_culture/,2024-12-17 08:20:29,7,0.77,7,0,27,0,0,False,False,True,False,False,,self,t3_1hg65pv
+devops,To version control or not to version control ,"I was assigned as a project manager to a team that has to migrate an mssql database to a Salesforce instance. 
+
+The project used to be in the hands of one developer. I used to ask if everything was progressing fine. For a couple of months he assured me it did. When we actually had to see results it didn't work out.
+
+Therefore higher management decided to add two developers to help him (and check on the work). I supported that.
+
+In my company they usually don't expect project managers to have a lot of technical knowledge. But I do have some development experience and I wanted to really understand what they were doing, as this migration was by this point a huge mess and I could never challenge them when they said something.
+
+The first thing I noticed was that they weren't using version control for their migration scripts. They use a combination of tsql scripts, ""SQL database procedures"" and ""Talend jobs"". 
+
+So my first reaction was: we have to put things in version control because our scripts are all over the place and we can't track changes.
+
+However they claimed that version control is not possible for the procedures and the Talend jobs.
+
+Based on a couple of Google searches I realized that isn't entirely true. So when I told them that, they told me (quite annoyed) that it also wouldn't be practical as they have to put the scripts on a secured server and can't easily transfer them from their local computer to the secured server.
+
+My reaction was that we then should find a way to fix that but the team unanimously concluded that version control really wasn't the biggest priority right now. We should urgently fix the bugs in the scripts and do this 'one time' migration. Although it isn't really one time as we have to do it for four offices.
+
+I was really confident that I was right at the start, but I'm starting to hesitate as I feel that the whole team doesn't agree. What's your opinion on this? Or do you need extra info to answer the question?",uh_sorry_i_dont_know,1hfvflj,https://reddit.com/r/devops/comments/1hfvflj/to_version_control_or_not_to_version_control/,https://www.reddit.com/r/devops/comments/1hfvflj/to_version_control_or_not_to_version_control/,2024-12-16 22:25:49,6,0.71,6,0,31,0,0,False,False,True,False,False,,self,t3_1hfvflj
+devops,Incident Response Metrics,"When I started driving incident response processes, I spent a ton of time building custom reporting and massaging data to report out and show that our incidents were becoming less impactful, resolved faster, or trending in the right direction. Eventually, I built an internal self-service ops platform to streamline it all. The incidents of year 1 differed from those we saw 3 years later, increasing in complexity.
+
+Given everyone's experience, I’m curious about the metrics you track on the operations side. I assume MTTR is one of them, but do you also monitor MTTD (detect)—the time between when an impactful change was executed (the actual start of the incident) and when it was declared? Is anyone creating SLOs and properly rolling the SLIs up to them?
+
+Do you look at DORA metrics, such as change failure rate, specifically changes that lead to incidents? Do you track anything related to team incident readiness?
+
+I’d love to hear which metrics you find most valuable and if there are others you wish you had.
+
+I'm always looking to learn from folks who’ve been through it.",socalbigpapi,1hg369y,https://reddit.com/r/devops/comments/1hg369y/incident_response_metrics/,https://www.reddit.com/r/devops/comments/1hg369y/incident_response_metrics/,2024-12-17 04:57:14,4,0.83,4,0,4,0,0,False,False,True,False,False,,self,t3_1hg369y
+devops,CICD pipeline uses helm to deploy apps without packaging them in a OCI registry,"Am I the worst person alive? I have implemented helm deployment through our CICD pipeline, the build phase of the pipeline pulls the helm charts from the app's repository then makes an artifact from it. When its time to deploy the pipeline simply runs an helm upgrade command using the artifacted helm chart. I have seen a lot of oeople mentionning they instead package their helm charts and push them to an OCI registry which is fine but in our case I feel like its an additional step and aditional dependency (the OCI registry) which we don't really need.   Any thoughts?",Vonderchicken,1hfueb7,https://reddit.com/r/devops/comments/1hfueb7/cicd_pipeline_uses_helm_to_deploy_apps_without/,https://www.reddit.com/r/devops/comments/1hfueb7/cicd_pipeline_uses_helm_to_deploy_apps_without/,2024-12-16 21:41:50,2,0.59,2,0,4,0,0,False,False,True,False,False,,self,t3_1hfueb7
+devops,🚀 Data-Driven Feedback Loops: How DevOps and Data Science Inform Product Iterations,"In today’s fast-paced digital landscape, continuous product iteration is key to staying competitive. By combining DevOps and data science, businesses can create data-driven feedback loops that accelerate product development, improve decision-making, and ensure that every update is grounded in real-world insights.
+
+Here’s how this powerful combination works:
+
+✅ Real-Time Data Collection &amp; Analysis: Automating data collection from user interactions, system performance, and customer feedback unlocks deeper insights and enables quicker action.
+
+✅ DevOps-Driven Speed: By automating deployment, monitoring, and incident response, DevOps ensures faster, more efficient iterations. Each release is optimized for performance and user experience when combined with data science.
+
+✅ Case Study – Netflix: Netflix is a prime example of this approach, continuously using real-time user behaviour data to refine its recommendation algorithms. They also leverage A/B testing to assess and improve features before scaling them.
+
+
+
+Looking ahead, AI and machine learning will supercharge these feedback loops, driving hyper-personalized experiences and real-time product iterations. As we embrace an increasingly automated and intelligent future, leveraging these technologies will be crucial to developing products that truly resonate with users.
+
+Let’s harness the power of data and automation to keep innovating and improving!",iamaproudnomad,1hgboxz,https://reddit.com/r/devops/comments/1hgboxz/datadriven_feedback_loops_how_devops_and_data/,https://www.reddit.com/r/devops/comments/1hgboxz/datadriven_feedback_loops_how_devops_and_data/,2024-12-17 14:23:13,0,0.31,0,0,2,0,0,False,False,True,False,False,,self,t3_1hgboxz
+devops,🚀 Accelerating Business Growth Using AIOps and DevOps,"As organizations increasingly rely on the digital economy, efficiency and speed are essential for driving business growth. Two modern strategies that are pivotal in operational effectiveness are AIOps and DevOps.
+
+Here’s how they complement each other:
+
+💡 AIOps combines AI, machine learning, and big data to optimize IT operations, providing real-time insights, predictive alerts, and automated remediation to reduce downtime and enhance security.
+
+⚙️ DevOps bridges development and operations, streamlining product development cycles through automation, CI/CD pipelines, and continuous integration.
+
+[https://www.linkedin.com/feed/update/urn:li:activity:7274474536102760449](https://www.linkedin.com/feed/update/urn:li:activity:7274474536102760449)
+
+",iamaproudnomad,1hgbn14,https://reddit.com/r/devops/comments/1hgbn14/accelerating_business_growth_using_aiops_and/,https://www.reddit.com/r/devops/comments/1hgbn14/accelerating_business_growth_using_aiops_and/,2024-12-17 14:20:38,0,0.2,0,0,0,0,0,False,False,True,False,False,,self,t3_1hgbn14
+devops,We Don't Need Perfect Code,[https://www.youtube.com/watch?v=al8KN5incV8](https://www.youtube.com/watch?v=al8KN5incV8),EyedApproximation,1hg82j2,https://reddit.com/r/devops/comments/1hg82j2/we_dont_need_perfect_code/,https://www.reddit.com/r/devops/comments/1hg82j2/we_dont_need_perfect_code/,2024-12-17 10:48:44,0,0.18,0,0,0,0,0,False,False,True,False,False,,self,t3_1hg82j2
+devops,Non-technical founder wanting to learn DevOps (what’s the best approach with all the new AI tools?),"Hey r/devops, I’m a non-technical founder who wants to better understand the DevOps landscape. I’ve got some experience running products and teams, but the hands-on technical side is a bit of a gap for me. With all the recent changes...especially the explosion of AI-driven tools and platforms. What’s the smartest way for someone in my position to get up to speed?
+
+Any recommendations on learning paths, must-read resources, courses, or even communities that focus on the fundamentals? If you were starting today, where would you invest your time and energy to quickly build a solid understanding? Any guidance is greatly appreciated!",Suitable_Goose3637,1hfq4kd,https://reddit.com/r/devops/comments/1hfq4kd/nontechnical_founder_wanting_to_learn_devops/,https://www.reddit.com/r/devops/comments/1hfq4kd/nontechnical_founder_wanting_to_learn_devops/,2024-12-16 18:42:03,0,0.31,0,0,11,0,0,False,False,True,False,False,,self,t3_1hfq4kd
+devops,Where to store JWTs,"I was curious about where to store JWTs and found this video that explains it pretty clearly. It’s a quick watch and gave me a better understanding of the best practices for handling tokens securely. If you're wondering the same, it might be worth checking out! [https://youtu.be/c7vsTXuwm8A](https://youtu.be/c7vsTXuwm8A)",Frosty-Champion7811,1hga7gw,https://reddit.com/r/devops/comments/1hga7gw/where_to_store_jwts/,https://www.reddit.com/r/devops/comments/1hga7gw/where_to_store_jwts/,2024-12-17 13:06:37,0,0.22,0,0,5,0,0,False,False,True,False,False,,self,t3_1hga7gw
+devops,"Get 3 ads in your inbox for free: Every week, I research &amp; break down high-performing ads so you can quickly identify what works, cut ad spending, and improve ad performance.
+","Hey Redditors, Every week, I dive deep into the world of digital advertising, analyzing top-performing ads to uncover their secrets. I break down these ads, highlighting the strategies and tactics that make them successful.
+
+With this, you can quickly identify what works, cut ad spending, and improve ad performance. I source this data from a variety of reliable channels, including Facebook Ad Library and premium subscription services.
+
+I have been 5 years in the advertising game, I know firsthand how tough it is to navigate the ever-evolving world of digital marketing and how the buyer-behaviour keeps changing.
+
+If you have any ads you want me to go through or need another pair of eyes to look at, please leave a comment below.
+
+If you want to read my write up, click [here](https://theadvault.co.uk/p/issue-8-travel-backpack-ad).
+
+if you want to get these in an email, click [here](https://theadvault.co.uk/subscribe).
+
+Cheers!",mrchef4,1hfutmb,https://reddit.com/r/devops/comments/1hfutmb/get_3_ads_in_your_inbox_for_free_every_week_i/,https://www.reddit.com/r/devops/comments/1hfutmb/get_3_ads_in_your_inbox_for_free_every_week_i/,2024-12-16 21:59:36,0,0.16,0,0,1,0,0,False,False,True,False,False,,self,t3_1hfutmb

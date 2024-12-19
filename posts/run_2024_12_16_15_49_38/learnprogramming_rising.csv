@@ -1,0 +1,283 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Quiting my job to go all in ,"Been thinking about quitting my current job in food service to go all in on my schooling and personal projects for programming. 
+
+I’m worried I may be making the wrong decision but also feel I’m making the right one because it is sacry and I do have financial backing to support this (I am 20 so I live with my parents) 
+
+Advice? ",Klutzy-Bug-9481,1hfln9i,https://reddit.com/r/learnprogramming/comments/1hfln9i/quiting_my_job_to_go_all_in/,https://www.reddit.com/r/learnprogramming/comments/1hfln9i/quiting_my_job_to_go_all_in/,2024-12-16 15:30:48,3,0.71,3,0,6,0,0,False,False,True,False,False,Topic,,t3_1hfln9i
+learnprogramming,note: each undeclared identifier is reported only once for each function it appears in for C.,"I am aware that the identifier is undeclared without a data type but what does this part of the note: `is reported only once for each function it appears in` means? I can't seem to find any information online to research this note.
+
+I intentionally caused this problem in my code on line 6:
+
+    #include &lt;stdio.h&gt;
+    
+    int main() {
+    
+       int myNum = 10;
+       printf(""Number: %d\n"", mynum); 
+     
+       return 0;
+    }",677075636f7265,1hfla44,https://reddit.com/r/learnprogramming/comments/1hfla44/note_each_undeclared_identifier_is_reported_only/,https://www.reddit.com/r/learnprogramming/comments/1hfla44/note_each_undeclared_identifier_is_reported_only/,2024-12-16 15:14:02,4,1.0,4,0,1,0,0,False,False,True,False,False,,,t3_1hfla44
+learnprogramming,C++ or Rust?,"This question has been asked a million times, but im still unsure which one i should pick. I am a 2nd year computer science student and i am pretty proficient in C. Ive also used java so i know about OOP. I have also taken a course on assembly, so im familiar with how the CPU works. I want to learn a ""higher"" level language but i cant pick which one i should go for. Which one would you recommend? C++ or Rust? I am looking for a general programming language where i can learn and use more abstract features, so not for any specific use case. I have heard a lot of hate for C++, and a lot of love for Rust but i want to get you guys two cents. What do you think?",Upper-Firefighter-21,1hfk8jb,https://reddit.com/r/learnprogramming/comments/1hfk8jb/c_or_rust/,https://www.reddit.com/r/learnprogramming/comments/1hfk8jb/c_or_rust/,2024-12-16 14:25:48,3,0.72,3,0,18,0,0,False,False,True,False,False,,,t3_1hfk8jb
+learnprogramming,"Is anybody taking the Udemy course ""The Complete 2024 Web Development Bootcamp"" by Angela Y","Hey guys! I'm a Product/UX Designer currently taking the Udemy course ""The Complete 2024 Web Development Bootcamp"" by Angela Yu. Two years ago, I taught myself UX Design using online resources, and what I realized is that learning is a lot slower without a partner to exchange notes with and hold each other accountable, even if you're disciplined.
+
+If you're in the same boat, learning web development and putting in at least one hour daily, feel free to comment below or reach out to me via DM. I'd love to partner up to accelerate our learning and solve problems faster when the course gets tougher.
+
+P.S. I mentioned one hour because that's my pace. I'm currently on section 2",Ok_Toe_465,1hfl0ab,https://reddit.com/r/learnprogramming/comments/1hfl0ab/is_anybody_taking_the_udemy_course_the_complete/,https://www.reddit.com/r/learnprogramming/comments/1hfl0ab/is_anybody_taking_the_udemy_course_the_complete/,2024-12-16 15:01:30,2,1.0,2,0,0,0,0,False,False,True,False,False,,,t3_1hfl0ab
+learnprogramming,I have no idea what to do with my programming knowledge ,"I am 17M, I've been coding in Java for 4 years doing Minecraft modding. I've contributed to some open source projects there, at this point I think I can accomplish any type of programming project quickly, Minecraft modding gave me ability to search across large code bases with no documentation and do what I want to do with them. Also I am really into linux stuff, I use Gentoo and DWM as my daily driver. But one and a half years ago I had a really bad burnout out of all of this because I lost interest in Minecraft community, and gaming in general, for straight up a year I wasn't able to even open IDE, yet write any code. Recently I kinda got out of it, started learning C++ and digging into lower level programming/reverse engineering just because I felt like it. I had a pet project coding my own digital synthsizer in C++ because in that year of programming burnout I taught myself electronic music production, tried out opengl too. For now what I try in programming doesn't have any goal, nor I want to seriously publish it or promote it, just for the sake of practice. I no longer have that much of a motivation and enthusiasm I had when I was starting, my main passion being music production nowadays. My programming knowledge feels really like an elephant in the room, it's big, it's always there, but I seem to hardly ignore it most of the time.
+
+I thought about video game development since I've chosen more artistic niche and already have done modding, but personally I don't play them at all, nor have any video game idea worth spending my time.
+
+I have a youtube channel about Minecraft modding which got popular by an accident. (1,3k subscribers, not that much but not too small, the most popular video has 20k views) but I literally make videos once half a year, and honestly I no longer want to make any videos for it because I am no longer interested in Minecraft, nor I want to be a youtuber, because I am definitely not a media/entertainment kind of person. I tried live streaming and even made some money off donations, but it's too exhausting for me.
+
+I think I'll get a programming job at some point just because it's what goes easy to me and plan to go into CS uni after finishing high school. Tho honestly I have absolutely no idea who I am and what I want to do in my life. Am I an artist? Am I a technical person? Am I a youtuber? I feel like none of them.
+
+Has anyone here had an experience similar to this? Did you just abandon programming, or suddenly found a programmig niche you are passionate about? What was it?",Different_Noise4936,1hffkf3,https://reddit.com/r/learnprogramming/comments/1hffkf3/i_have_no_idea_what_to_do_with_my_programming/,https://www.reddit.com/r/learnprogramming/comments/1hffkf3/i_have_no_idea_what_to_do_with_my_programming/,2024-12-16 09:38:03,15,0.68,15,0,24,0,0,False,False,True,False,False,,,t3_1hffkf3
+learnprogramming,"I feel sort of stuck. I enjoy solving problems, but I can't see which way can I go.","Hi, I've been learning python for a few years now, and casually use it to automate/solve personal tasks. Learned some basic algorithms and solved about 200 questions on leetcode, even some hard ones, and have to say some were really enjoyable to think about. But I don't see where to go from here, I know it's a good decision to join a group and contribute to an open source, but I can't seem to find the right people.",C_umputer,1hfilp6,https://reddit.com/r/learnprogramming/comments/1hfilp6/i_feel_sort_of_stuck_i_enjoy_solving_problems_but/,https://www.reddit.com/r/learnprogramming/comments/1hfilp6/i_feel_sort_of_stuck_i_enjoy_solving_problems_but/,2024-12-16 13:02:59,6,0.88,6,0,5,0,0,False,False,True,False,False,,,t3_1hfilp6
+learnprogramming,Coding for 4 years and feel like I know nothing.,"Looking for advice.
+
+I'm 16 yrs old and I've been coding since middle school and I feel like I know nothing. I've made so many projects across the years and I've won lots of hackathons but I feel like I still don't know anything. Everything I've learned so far depends on some library or abstraction some other guy made. For example, just because I know reactjs doesn't mean I'm a good programmer, it just means I understand some library but I don't know anything about how anything works. Is this a normal feeling? How can I actually start learning instead of just learning framework after framework? Any free computer science course you recommend?
+
+",ClassroomHopeful648,1hevope,https://reddit.com/r/learnprogramming/comments/1hevope/coding_for_4_years_and_feel_like_i_know_nothing/,https://www.reddit.com/r/learnprogramming/comments/1hevope/coding_for_4_years_and_feel_like_i_know_nothing/,2024-12-15 16:05:56,179,0.88,179,0,71,0,0,False,False,True,False,False,,,t3_1hevope
+learnprogramming,Best apps to teach younger sibling to learn?,"My younger sibling (under 10 years old) has recently shown a lot of interest in learning how to program, but they don’t have access to their own desktop or laptop yet. I’m looking for mobile or tablet-friendly apps that are engaging and beginner-friendly, particularly ones that focus on teaching the fundamentals of programming. They’ve told me they’d love to create games or interactive projects, so I’m hoping to find tools that allow them to learn coding concepts while also fostering creativity and problem-solving through building things like simple games or animations. If anyone has experience with apps that work well for younger kids, especially ones that make coding fun and accessible without being too overwhelming, I’d really appreciate your recommendations!",mrtommy-123,1hffej9,https://reddit.com/r/learnprogramming/comments/1hffej9/best_apps_to_teach_younger_sibling_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1hffej9/best_apps_to_teach_younger_sibling_to_learn/,2024-12-16 09:24:51,7,0.9,7,0,14,0,0,False,False,True,False,False,,,t3_1hffej9
+learnprogramming,Giving up programming after 5 years trying it.,"This is more of a vent than anything else, and maybe it will be useful to someone as to not give up too late as I did.
+
+You see, Programming is an ability that much like a Soccer Player, an Artist, etc, you either can do it or you can't. You see some people simply sit in front of the keyboard, and in less than 10 seconds they write 30 lines of code, whereas others like me, even trying so hard to dig in deep into the subject, couldn't even get past my 5th line. To have that level of understanding, in less than one year some people may do what you took 3 or 4 to make.
+
+Programming is an exceptional and amazing ability, maybe professional programmers don't see it as outsiders like me do, but if you can code, you do HAVE a really valuable ability that sooooo many people wish they had, so try not to stress that much over non important things, because you are amazing.
+
+Unfortunately, I won't be there with you guys. The competition is harsh, and I can no longer keep being left behind in a market I can't compete. Just wanted to let it all out.
+
+It's no shame if you're in doubt if you should quit or not. To lose a battle is natural, but as long as you can keep standing. I will still stand, but somewhere else that fits me more. It's not healthy either to keep doing something that clearly isn't giving results. It was a good (and LONG, long long) journey.
+
+printf(""Good Bye Programming World"");",BananaDressedRedMan,1henffh,https://reddit.com/r/learnprogramming/comments/1henffh/giving_up_programming_after_5_years_trying_it/,https://www.reddit.com/r/learnprogramming/comments/1henffh/giving_up_programming_after_5_years_trying_it/,2024-12-15 07:19:12,637,0.84,637,0,289,0,0,False,False,True,False,False,,,t3_1henffh
+learnprogramming, live coding youtubers,"Hey everyone,
+I’m looking for YouTube channels where devs do live coding, like building apps from scratch.
+
+I want to follow along and learn step by step, seeing how a senior developer approaches coding an app.
+
+I found a channel called “AsmrProg,” which is cool, but I’d prefer someone who explains things as they go.
+
+Any recommendations?
+
+Thanks a lot !",Haunting-Calendar20,1hfjv5l,https://reddit.com/r/learnprogramming/comments/1hfjv5l/live_coding_youtubers/,https://www.reddit.com/r/learnprogramming/comments/1hfjv5l/live_coding_youtubers/,2024-12-16 14:07:48,2,0.67,2,0,1,0,0,False,False,True,False,False,Resource,,t3_1hfjv5l
+learnprogramming,Wanna find a python learning pal,"I am not new in programming but havent done a systemetic practice, sincerely wanna find a friend to learn  python together including the __basic syntaxes and its several machine learning as well as AI pacages and the leetcode practice__, anyone has this intension to learn with me?",Haunting-Hand1007,1hfcubu,https://reddit.com/r/learnprogramming/comments/1hfcubu/wanna_find_a_python_learning_pal/,https://www.reddit.com/r/learnprogramming/comments/1hfcubu/wanna_find_a_python_learning_pal/,2024-12-16 06:11:11,8,0.83,8,0,10,0,0,False,False,True,False,False,,,t3_1hfcubu
+learnprogramming,Should the head of a linked list be first node or point to the first node?,"I'm aware that the answer may be ""it depends"" or ""it doesn't matter"", and I'm perfectly fine with those answers. But I don't know if one of those actually is the answer. Maybe there's a right and wrong answer. I guess I'm about to find out.
+
+Anyway, should a link list look like this
+
+    H -&gt; Node1 -&gt; Node2 -&gt; Node3 -&gt; T
+
+or this
+
+`Node1 -&gt; Node2 -&gt; Node3` (Node1 being the Head node and Node3 being the Tail node)",Hashi856,1hf7ftr,https://reddit.com/r/learnprogramming/comments/1hf7ftr/should_the_head_of_a_linked_list_be_first_node_or/,https://www.reddit.com/r/learnprogramming/comments/1hf7ftr/should_the_head_of_a_linked_list_be_first_node_or/,2024-12-16 01:07:14,20,0.85,20,0,39,0,0,False,False,True,False,False,,,t3_1hf7ftr
+learnprogramming,Still feeling meh witj my confidence ,"Hey I am 20 years old and I really do enjoy programming. I went into a school for 5 years where we learnt Java, flutter and some basics html and css. Now I made my diploma and I still wanna work in programming. Currently I improve my skills in html and css and Js. Didn’t start yet witj a framework xsuse I’m still working on my last normal Js project. 
+
+I still feel like I am not ready for anything. I still feel so stupid and I still feel like I am not ready for anytbing and never will. I feel like I’ll never be able to achieve anything cool… any advice? ",Aggressive-Storm9288,1hfgf6a,https://reddit.com/r/learnprogramming/comments/1hfgf6a/still_feeling_meh_witj_my_confidence/,https://www.reddit.com/r/learnprogramming/comments/1hfgf6a/still_feeling_meh_witj_my_confidence/,2024-12-16 10:42:43,3,0.67,3,0,3,0,0,False,False,True,False,False,Topic,,t3_1hfgf6a
+learnprogramming,Suggestion for ID strategy,"I have beed made software for decades, but I have never done performance testing for ID vs UUID. I am designing a pretty large C# project, and automatically I always used an int ID in the database, and IDs for relationships, but I have been wondering if it would be safer to use UUID?
+
+I was initially thinking to keep the auto inc integer ID for internal operations, then UUID for any requested interaction, but still having an ID I would assume \_could\_ in edge cases where for example a DTO mistakenly keeps an ID to be open to guessing an ID.
+
+So in 2024, whats the most accepted approach. 
+
+1. Keep both an ID and GUID, refer to ID internally, and UID externally
+
+2. Ditch the int ID and use GUID as primary key
+
+3. Other?",alekslyse,1hfm4t4,https://reddit.com/r/learnprogramming/comments/1hfm4t4/suggestion_for_id_strategy/,https://www.reddit.com/r/learnprogramming/comments/1hfm4t4/suggestion_for_id_strategy/,2024-12-16 15:52:41,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hfm4t4
+learnprogramming,I need help with a little code,"im programing in gamemaker and I'm trying to make a code for my character's jump, the jump animation only happens when I'm pressing the key, wen i stop pressing, the animation stop, but, the animation need to rool in the intaier time in the air ",Prdin69,1hflfn8,https://reddit.com/r/learnprogramming/comments/1hflfn8/i_need_help_with_a_little_code/,https://www.reddit.com/r/learnprogramming/comments/1hflfn8/i_need_help_with_a_little_code/,2024-12-16 15:21:10,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hflfn8
+learnprogramming,How to Get the thumbnail of a YouTube video with React Native,"I'm creating an app and I'm trying to extract the thumbnail of each youtube video and display them on a list, using a flatlist.
+
+This is the function I'm using to fetch the thumbnail data [I got the function from this article](https://medium.com/@louistrinh/get-the-thumbnail-url-from-a-youtube-video-551748da161d):
+
+    async function getThumbnailURL(videoId) {
+       const response = await fetch(`https://www.youtube.com/oembed?format=json&amp;url=${videoId}`);
+       const data = await response.json();
+       return data.thumbnail_url;
+    }
+
+  
+This is my renderItem function:
+
+    const renderItem =({item}) =&gt; {
+    const thumbnailURL =  getThumbnailURL(item.id);
+    console.log(typeof(thumbnailURL))
+    
+    return(
+    &lt;View style={styles.video}&gt; 
+                        &lt;Image
+                            source={{
+                              uri: thumbnailURL
+                            }}
+                           
+                        /&gt;
+                         &lt;View &gt;
+                            &lt;Text&gt;{item.desc}&lt;/Text&gt;
+                        &lt;/View&gt;
+                    &lt;/View&gt;
+    );
+    }
+
+
+
+What displays when 'console.log(thumbnailURL)' runs for the 9 youtube ID's is
+
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": null}
+    (NOBRIDGE) LOG  {""_h"": 0, ""_i"": 0, ""_j"": null, ""_k"": n
+
+  
+and this is the flatlist I'm using to display all the thumbnails
+
+
+
+    &lt;View&gt;
+      &lt;FlatList
+        data={VIDEOS}
+        renderItem={renderItem}
+        keyExtractor={item =&gt; item.id}
+       
+      /&gt;
+       &lt;Text&gt;&lt;/Text&gt;
+      &lt;/View&gt;
+
+When I run the app, this error shows:
+
+
+
+    Value for url cannot be cast from readablenativemap to string
+    
+     
+
+
+
+",styles__P,1hfky0w,https://reddit.com/r/learnprogramming/comments/1hfky0w/how_to_get_the_thumbnail_of_a_youtube_video_with/,https://www.reddit.com/r/learnprogramming/comments/1hfky0w/how_to_get_the_thumbnail_of_a_youtube_video_with/,2024-12-16 14:59:03,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hfky0w
+learnprogramming,Got marked wrong for saying SELECT is 'the SQL keyword for querying' in my DS exam - am I wrong?,"Quick sanity check needed regarding a Data Science exam question I'm disputing.
+
+Question asked: ""The SQL keyword for filtering after grouping is **(i)**, and the SQL keyword for querying is **(ii)**.""
+
+I correctly put HAVING for (i), and put SELECT for (ii) but was marked wrong. Prof says WHERE is correct because ""SELECT is for specifying a subset of columns; querying is the act of specifying a subset of rows.""
+
+However, PostgreSQL's documentation literally states: ""The process of retrieving or the command to retrieve data from a database is called a query. In SQL the SELECT command is used to specify queries.""
+
+When I disputed it, prof mentioned it was meant to parallel Pandas concepts from lecture, but the question itself made no mention of Pandas or specifically asking about row filtering.
+
+I get that WHERE filters rows. But if you're asked ""what's the SQL keyword for querying"" with no other context, isn't SELECT a valid answer? The question doesn't specify row filtering anywhere.
+
+I'm 1.3 exam points from an A in the course, so this isn't just me being pedantic. Would love to hear what other DS folks think.
+
+Additional context: This was in an intro DS course where we covered both Pandas and SQL.
+
+Edit: here's the conversation that ensued with a grader:
+
+ME: ""I believe this question is ambiguous. SELECT is fundamentally the main querying keyword in SQL, beginning every query statement. While WHERE filters rows, 'querying' isn't exclusively about row filtering in SQL terminology. Could you please reconsider this answer?""
+
+GRADER: ""Hi \*\*\*! I see where you're coming from. But, the idea behind this question was to identify the SQL equivalent of various ideas in pandas that we discussed at length. Filtering after grouping is an idea we know about in pandas. Similarly, querying was well-defined as a Thing in pandas in Lecture, and so we were looking for the SQL equivalent of that. I hope that clarifies things; sorry about that!""
+
+ME: ""Thank you for explaining the Pandas connection. However, the question only asks about 'the SQL keyword for querying' without mentioning Pandas. I interpreted it from a general SQL perspective, where SELECT would be a valid answer. I'm currently just 1.3 exam points away from an A in the course, so I'd really appreciate if you could reconsider this question. Thank you for your time.""
+
+GRADER: ""Unfortunately, even within a SQL context, select is for querying specific columns, not rows.""
+
+ME: ""From PostgreSQL docs 7.1: 'The process of retrieving or the command to retrieve data from a database is called a query. In SQL the SELECT command is used to specify queries.'
+
+If the question specified 'the SQL keyword for filtering rows' rather than 'the SQL keyword for querying,' then WHERE would be the clear answer. However, the question asked about querying, which according to standard SQL documentation, is explicitly performed using SELECT.""",twunny1,1hf5ucr,https://reddit.com/r/learnprogramming/comments/1hf5ucr/got_marked_wrong_for_saying_select_is_the_sql/,https://www.reddit.com/r/learnprogramming/comments/1hf5ucr/got_marked_wrong_for_saying_select_is_the_sql/,2024-12-15 23:48:47,14,0.75,14,0,33,0,0,False,False,True,False,False,,,t3_1hf5ucr
+learnprogramming,help with python code ,"I wanted to write a python code that modifies m3u8 files, I create these files on my android device and move em to my windows laptop so I could play those playlists using windows media player, but it doesn't work because the paths in the file are set to the android device paths and obviously won't work in windows because they are different paths. (keep in mind those are playlists of mp3 files that are locally on my phone and laptop) (same mp3 files of course) 
+I don't know anything in python so I asked google Gemini to do it and it obviously had so many errors. this is the code, or at least this is the final version that google gave me, it kept giving me codes and every time python showed me a different error I would give it back to google and it supposedly fixes it : 
+
+
+
+def modify_m3u8_file(C:\Users\Asus\Music\Playlists\ASTRO2.m3u8, /storage/emulated/0/Music/, C:\Users\Asus\Music\):
+  with open(C:\Users\Asus\Music\Playlists\ASTRO2.m3u8, 'r+') as f:
+    content = f.read()
+    content = content.replace(/storage/emulated/0/Music/, C:\Users\Asus\Music\)
+    f.seek(0)
+    f.write(content)
+    f.truncate()
+
+modify_m3u8_file(r""C:\Users\Asus\Music\Playlists\ASTRO2.m3u8"", ""/storage/emulated/0/Music/"", r""C:\Users\Asus\Music\"")
+
+it's not working and it's showing me : 
+IndentationError: unexpected indent
+
+can someone please be kind enough to correct the code so it could work 🙏🏻
+I would only have to change the name of the m3u8 file whenever I want to edit a different playlist.
+",blackbradb,1hfjted,https://reddit.com/r/learnprogramming/comments/1hfjted/help_with_python_code/,https://www.reddit.com/r/learnprogramming/comments/1hfjted/help_with_python_code/,2024-12-16 14:05:20,0,0.33,0,0,1,0,0,False,False,True,False,False,Debugging,,t3_1hfjted
+learnprogramming,How to manage data in backend,"I’m a high school student doing an app. This app is a long term project. It’s about management food systems. I developed it with React Native. And for the backend, I have know idea how to start. I don’t know where to store my data and call it when I need to processing in the frontend.
+
+Anyone have idea where I had to start study and how to manage data. And is it necessary to use database like cloud or something like 
+that. If it necessary, which one you would recommend?
+
+I come to ask here because I want go straight on point and don’t want waste time to search a lot of information.",KILLVader,1hfaxv0,https://reddit.com/r/learnprogramming/comments/1hfaxv0/how_to_manage_data_in_backend/,https://www.reddit.com/r/learnprogramming/comments/1hfaxv0/how_to_manage_data_in_backend/,2024-12-16 04:16:06,5,0.86,5,0,5,0,0,False,False,True,False,False,,,t3_1hfaxv0
+learnprogramming,Using Inno Setup. How to create an installer for a python exe file?,"I managed to create an exe file through VS Code for my project using ""pyinstaller --onefile --windowed"". What should I do to create an installer with Inno Setup? I decided to use the entire folder where the exe file resides (where python codes and other folders like build and app are included) as for the ""other application files"". However, as it started to compile, it aborted and gave me this error: ""Disk Spanning must be enabled in order to creste an installation larger than 2100000000 bytes in size.""",GehrmanHunt,1hfj8qs,https://reddit.com/r/learnprogramming/comments/1hfj8qs/using_inno_setup_how_to_create_an_installer_for_a/,https://www.reddit.com/r/learnprogramming/comments/1hfj8qs/using_inno_setup_how_to_create_an_installer_for_a/,2024-12-16 13:37:15,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1hfj8qs
+learnprogramming,Help! Help!     Wanna Build a Framework for ML Software to Predict Independent Variables Suggestions and Resources Needed!,"Hi everyone!
+
+I’m seeking advice on how to **build the framework for a machine learning software**. The goal is to create software where:
+
+1. A user inputs a **dependent variable** (e.g., Maths Score).
+2. The software predicts the **independent variables** (e.g., Classes Attended, Daily Practice Hours, etc.).
+3. The framework should allow for training models (e.g., Linear Regression or Random Forest) on a dataset (CSV) and then predict values based on the user input.
+
+Here’s what I want to focus on:
+
+* How to **design the framework** (frontend, backend, database).
+* Resources for **learning about modular and scalable architecture**.
+* Any tips on tools/libraries that can make this process easier for a beginner.
+
+**Background**: I'm new to this field.
+
+Would love your advice on:
+
+* Framework design (how to structure the software).
+* Best subreddits/resources for beginners tackling ML software development.
+* Any step-by-step guides/tutorials you recommend.
+
+Thanks in advance for any help!",ChampionshipSolid515,1hfe143,https://reddit.com/r/learnprogramming/comments/1hfe143/help_help_wanna_build_a_framework_for_ml_software/,https://www.reddit.com/r/learnprogramming/comments/1hfe143/help_help_wanna_build_a_framework_for_ml_software/,2024-12-16 07:37:57,3,1.0,3,0,1,0,0,False,False,True,False,False,,,t3_1hfe143
+learnprogramming,How to periodically take  screenshots of live webcams websites and Youtube livestreams?,"I've been wanting to create an app where users can take a picture of the view / skyline and it'll estimate the current air quality.
+
+To make this, I think I need to train a model that uses a dataset of images of view / skylines paired with a nearby air quality data.
+
+I'm thinking of using the live webcams on [SkylineWebcams](https://www.skylinewebcams.com/en/webcam/china/shanghai/shanghai/skyline-of-shanghai.html), [EarthCam](https://www.earthcam.com/usa/newjersey/weehawken/?cam=lincolnharbor), or even [Youtube](https://www.youtube.com/watch?v=a_bUVExv_Cg) and pair the screenshots with air quality data from nearby stations.
+
+I don't really have any experience with ML or meteorology but based on this [research](https://www.sciencedirect.com/science/article/pii/S2666498423000844?via%3Dihub) that I stumbled upon. It looks like it's accurate enough for the idea to be a low cost solution for places where ground stations aren't ideal. I don't need the model to be big and accurate either, just a fun thing to test out and learn about ML.
+
+
+
+Question is, how can I take screenshots of the live media player in these website and Youtube?
+
+And would this even be the ideal way?",PathonScript,1hfj5ae,https://reddit.com/r/learnprogramming/comments/1hfj5ae/how_to_periodically_take_screenshots_of_live/,https://www.reddit.com/r/learnprogramming/comments/1hfj5ae/how_to_periodically_take_screenshots_of_live/,2024-12-16 13:32:17,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1hfj5ae
+learnprogramming,Struggling to use git for personal projects,"Hey everyone,
+
+I’ve been trying to improve my skills in both frontend and backend development by working on personal projects. But there’s something that keeps getting in the way: Git.
+
+It’s not that I don’t understand Git. I know how branches work, how to write commit messages, and the basics of version control. The problem is when I actually try to use it for personal projects. My projects are usually super spontaneous, I just dive in and code without a clear plan.
+
+When I try to involve Git, I feel paralyzed. I overthink everything: *“How do I structure my code so I can commit it properly?”* or *“What if I change a component five times in one session, how do I organize that into meaningful commits?”* It’s like I can’t let myself commit anything less than perfect, and the pressure completely kills my flow.
+
+Sometimes I spend so much time worrying about *how* to commit that I stop coding altogether. I know Git is supposed to make things easier, but instead, it’s making me overthink everything.
+
+Has anyone else dealt with this?   
+How do you use Git in personal projects without feeling overwhelmed?  
+Would love to hear any tips or advice!
+
+Thanks in advance",Emotional-Plane3226,1hffncy,https://reddit.com/r/learnprogramming/comments/1hffncy/struggling_to_use_git_for_personal_projects/,https://www.reddit.com/r/learnprogramming/comments/1hffncy/struggling_to_use_git_for_personal_projects/,2024-12-16 09:44:47,1,0.57,1,0,20,0,0,False,False,True,False,False,Topic,,t3_1hffncy
+learnprogramming,"If you've been practicing and using Powershell, and your workplace uses Powershell, would learning Python in addition help, hurt, or have no effect on your Powershell skills?","I've been using Powershell for the better part of a year. I work as a performance engineer and eventually want to transition into the data-centric roles (like data sciences). 
+
+The reason I'm asking this question is because Python is seemingly used *everywhere* whereas Powershell is more often used in Microsoft-centric shops. Also, because everything is Microsoft where I'm at the scripts and automation tooling is using it so I will always be touching Powershell primarily.
+  
+That being said, if I wanted to use Python for other (smaller) scripts at my job, do you think this will hurt my growth or effectiveness in Powershell? I'm not yet an expert in Powershell, so I don't want to do be a jack of all trades but master of none, but I can't tell if using Python (for personal projects in addition to smaller work projects) would help or hurt my skills in Powershell.  Also, by smaller work projects, they will essentially be small scripts that fetch API data or something similar as my team does not work with or troubleshoot or know Python, they only know powershell (so in essence, I won't be getting the feedback like I do in powershell from seniors)
+ 
+What would you recommend?",grep212,1hf9eug,https://reddit.com/r/learnprogramming/comments/1hf9eug/if_youve_been_practicing_and_using_powershell_and/,https://www.reddit.com/r/learnprogramming/comments/1hf9eug/if_youve_been_practicing_and_using_powershell_and/,2024-12-16 02:50:18,9,0.74,9,0,8,0,0,False,False,True,False,False,Topic,,t3_1hf9eug
+learnprogramming,Dependency error,"Hi. I am a python newbie but I never had problems to install something. Now on my work-computer we face the following problem:
+
+We cannot install matplotlib and other programs because there is always some kind of dependency error. We can however still install numpy no problem.
+
+We formated the PC but there is still the same error. Installation via the wheel also does not work.
+
+Because of some measurement tools we have ro run python on 32bit.
+
+I would highly appreciate it if you could help me out. It is very stressful because I dont know what to do.",LucyThunder,1hfil1i,https://reddit.com/r/learnprogramming/comments/1hfil1i/dependency_error/,https://www.reddit.com/r/learnprogramming/comments/1hfil1i/dependency_error/,2024-12-16 13:02:04,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hfil1i

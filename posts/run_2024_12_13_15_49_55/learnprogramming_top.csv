@@ -1,0 +1,625 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,I just learned about the power of clean code – Here's a tip that helped me improve my coding habits!,"I recently started focusing on writing clean, readable code, and it’s been a game-changer for me. One tip that really helped was using meaningful variable names and breaking up complex functions into smaller, reusable ones. It’s amazing how much easier it is to debug and maintain code now. What are some of your best tips for clean coding? Would love to hear your experiences!",i2r3,1hcnxs3,https://reddit.com/r/learnprogramming/comments/1hcnxs3/i_just_learned_about_the_power_of_clean_code/,https://www.reddit.com/r/learnprogramming/comments/1hcnxs3/i_just_learned_about_the_power_of_clean_code/,2024-12-12 15:46:32,81,0.9,81,0,36,0,0,False,False,True,False,False,,,t3_1hcnxs3
+learnprogramming,"Singletons are bad, but dependency injection is good - why the difference?","Singletons are bad, but dependency injection is good - why the difference?
+
+Feels like in practice most dependency injection is just fancy singletons. So it kinda confuses me. ",FakePixieGirl,1hd1w5t,https://reddit.com/r/learnprogramming/comments/1hd1w5t/singletons_are_bad_but_dependency_injection_is/,https://www.reddit.com/r/learnprogramming/comments/1hd1w5t/singletons_are_bad_but_dependency_injection_is/,2024-12-13 02:14:49,35,0.84,35,0,48,0,0,False,False,True,False,False,,,t3_1hd1w5t
+learnprogramming,Which programming field shouldn’t be studied? ,I would like to know your opinion on which area of programming is not worth studying because it is unlikely to remain relevant.,Equivalent_West_9831,1hctxcv,https://reddit.com/r/learnprogramming/comments/1hctxcv/which_programming_field_shouldnt_be_studied/,https://www.reddit.com/r/learnprogramming/comments/1hctxcv/which_programming_field_shouldnt_be_studied/,2024-12-12 20:03:34,32,0.76,32,0,32,0,0,False,False,True,False,False,,,t3_1hctxcv
+learnprogramming,"5 years of experience, 4 months without a job, anxiety issues, and gaps in modern technologies – what should I do next?","Hey everyone,
+
+I’m facing a dilemma and need your advice. I have 5 years of experience as a full-stack developer, primarily in a small company where I was the sole programmer. I built websites (with custom CMS), CRM applications, and e-commerce systems from scratch. The main technologies I worked with were HTML, CSS, JS (formerly jQuery), GSAP, PHP, and MySQL. I would receive designs (from Figma/Adobe) and client requirements, and then complete the project from start to finish.
+
+However, for the past 4 months, I’ve been unemployed, and I suffer from anxiety, which adds a lot of stress. On top of that, programming is my passion, and I deeply miss it. The issue is that I never chased higher salaries, I just loved the work itself. Now I realize that technology has advanced, and I feel like I’m falling behind. I don’t have experience with tools like **React, Laravel, Next.js, Docker, Kubernetes** – and I’ve never even used **GitHub**. In my previous job, I worked alone, handling everything from code to deployment (FTP), and I did all my local work on my own computer using **XAMPP** instead of a proper Git or CI/CD workflow. Now I see that focusing on performance over learning new tools was a mistake.
+
+**My questions:**
+
+1. **What should I do next?** I’m lacking motivation and don’t know which path to take. Should I focus on learning **React**? Although I’ve done full-stack projects in the past, I don’t feel confident about keeping up with both frontend and backend simultaneously. I’ve always learned through practical experience – solving tasks rather than focusing on theory – and I’m worried I won’t perform well in technical interviews where they test theoretical knowledge. This is especially scary since I’ve never been through a formal job interview before.
+2. **Will 4 months off cause me to forget everything I know?** I feel like as I try to catch up on new frontend topics (like JS), I’m losing touch with backend skills (PHP). Is this just an illusion, or can you actually lose skills that fast?
+3. **How should I structure my learning?** I tend to be a perfectionist and have trouble knowing when to move on to the next topic. I feel like I can’t master both the frontend (React) and backend (PHP/Laravel) at the same time. I want to focus on frontend right now, but in the future, I still dream of building full applications from A to Z, as I’ve done in the past. However, with the current pressure to learn frameworks, I’m not sure how to manage both. How should I plan my learning for the next 3 months to maximize my chances on the job market?
+4. **Has anyone been in a similar situation?** How did you deal with job gaps, stress, and catching up on modern technologies? Is my perfectionism slowing me down, or is it actually a good strategy?
+
+# My Experience:
+
+**Frontend:** HTML, CSS (no experience with SASS/LESS, used Tailwind once but found it simple), jQuery, GSAP, ScrollTrigger, Swiper, JS (DOM manipulation, form validation, handling JSON returned from PHP, animations).
+
+**Backend:** PHP (no frameworks, mainly CRUD operations, database/file handling, generating PDFs, processing Excel data, managing user roles, handling forms and sending emails, payment gateway integration, API integration), MySQL (database design, query optimization, indexing).
+
+**What I’ve done:** Built websites, CMS systems, CRM apps, applications with payment gateways (PayU, parcel locker integration), PDF generation, database management, API creation.
+
+**Concerns:** I’m afraid that lacking modern technologies in my CV makes me unattractive in the current job market, and my anxiety only amplifies those concerns. Should I apply for jobs even if I don’t meet all the requirements? Or should I focus on catching up with new skills first? I feel stuck because I’ve never been through a recruitment process, and that scares me.
+
+Thanks in advance for any advice you can offer!",guffcio,1hcxw6r,https://reddit.com/r/learnprogramming/comments/1hcxw6r/5_years_of_experience_4_months_without_a_job/,https://www.reddit.com/r/learnprogramming/comments/1hcxw6r/5_years_of_experience_4_months_without_a_job/,2024-12-12 22:57:37,20,0.95,20,0,18,0,0,False,False,True,False,False,,,t3_1hcxw6r
+learnprogramming,Im 13 and looking to expand my very basic coding knowledge.,"I’ve been interested in programming from a really young age and i haven’t figured out what language to learn next. I would call myself intermediate with Node.js (specifically object oriented programming) and i have grasped Java for a short while. I really like the field of robotics and gaming, so a low-level programming language would fit my endeavours neatly, but i just dont know where to start or what language to learn next. C? C++? C#? All of those are some options im evaluating, i just need a little nudge in the right direction.",Thorminate11,1hcwuve,https://reddit.com/r/learnprogramming/comments/1hcwuve/im_13_and_looking_to_expand_my_very_basic_coding/,https://www.reddit.com/r/learnprogramming/comments/1hcwuve/im_13_and_looking_to_expand_my_very_basic_coding/,2024-12-12 22:09:47,15,0.66,15,0,32,0,0,False,False,True,False,False,,,t3_1hcwuve
+learnprogramming,Neetcode (its awesome),"Im graduating soon (cs major) and I feel very set up and confident for the future. I was talking to some younger peers who are really struggling finding their footing in the whole programming space and I recommended them to use NeetCode as a resource, and I recommend you do to!
+
+I, aswell as so many other students, CANNOT learn by just typing along with whatever the professor is coding. I found it impossible to learn like that, and unfortunately 99% of my courses were taught this way. I discovered NeetCode ~2 years ago and man. IT CHANGED MY LIFE! His DSA stuff in particular is awesome. I learned so much from him and I loved the way he would explain each concept and have you try and solve the problem on your own before moving on to the next topic. 
+
+His free stuff is great, but I really recommend you buy the full experience if you have skme extra cash to spend. 
+
+This has been one of my favorite resources ive come across and this would be great imo for anyone getting into programming and all that swe stuff! 
+
+
+
+",Kitchen_Possible7604,1hd1kjk,https://reddit.com/r/learnprogramming/comments/1hd1kjk/neetcode_its_awesome/,https://www.reddit.com/r/learnprogramming/comments/1hd1kjk/neetcode_its_awesome/,2024-12-13 01:58:38,11,0.75,11,0,1,0,0,False,False,True,False,False,,,t3_1hd1kjk
+learnprogramming,I just want to learn programing and I need a reason.,"I’ve always wanted to learn programing but I can’t find a good reason to. I did my BA in civil engineering but didn’t like it and I sucked at it. So I became an English teacher because I enjoyed it and it was the only other thing I was good at. 
+I’m 35 now and I’m full of passion for making things. For doing something fun and learning new things. 
+I really like music and I’m learning how to olay the electric guitar. I’m learning a new language other than English( First language is Farsi). I love playing video games and at one point wanted to learn C++ to make video games but I didn’t.
+Now, I’m thinking of learning how to make websites so I can promote and boost my wife’s business. 
+
+I’ve been learning Python for a few days and I’m really enjoying it. I’ve been told that Python is an easy and a very useful language to start with. But I just don’t know what I can do with it. How will it ever be useful for me? Should I just go for web development?  ",WeekendMagus_reddit,1hdbroi,https://reddit.com/r/learnprogramming/comments/1hdbroi/i_just_want_to_learn_programing_and_i_need_a/,https://www.reddit.com/r/learnprogramming/comments/1hdbroi/i_just_want_to_learn_programing_and_i_need_a/,2024-12-13 13:05:35,15,0.71,15,0,36,0,0,False,False,True,False,False,,,t3_1hdbroi
+learnprogramming,What’s the best way to stay consistent while learning to code?,"Hey everyone! I’m currently learning programming and enjoying the process, but I find it hard to stay consistent some days. Between work, school, and other responsibilities, it’s easy to lose momentum.
+
+For those of you who’ve been through this, what strategies or routines helped you stay consistent with your learning? Do you recommend sticking to a specific schedule, using apps, or maybe joining a community?",i2r3,1hcts0g,https://reddit.com/r/learnprogramming/comments/1hcts0g/whats_the_best_way_to_stay_consistent_while/,https://www.reddit.com/r/learnprogramming/comments/1hcts0g/whats_the_best_way_to_stay_consistent_while/,2024-12-12 19:57:17,8,0.78,8,0,12,0,0,False,False,True,False,False,,,t3_1hcts0g
+learnprogramming,What are some important Coding languages to start learning first ?,"Currently i just started to learn HTML I'm not sure how long it's gonna take before i can move on the next language which I'm thinking C++ and then JavaScript, i don't really have a  fix goal on what project i want to do, perhaps something like  web design or making apps or even cybersecurity which i know nothing on that other than i see it everywhere and that is it in high demand, i would also appreciate some resources where to learn for free that contains practice projects.",Rivenwes,1hd933j,https://reddit.com/r/learnprogramming/comments/1hd933j/what_are_some_important_coding_languages_to_start/,https://www.reddit.com/r/learnprogramming/comments/1hd933j/what_are_some_important_coding_languages_to_start/,2024-12-13 10:04:41,4,0.6,4,0,24,0,0,False,False,True,False,False,,,t3_1hd933j
+learnprogramming,What did I do wrong?,"I’m seriously considering of going to a coding bootcamp next year and just started learning python on the sololearn app. I’m currently stuck on a practice test just because it didn’t exactly teach me how to implementing the input().
+
+—To those learning on that app, be aware of spoiler/solution for the following!—
+
+I’ve tried everything. So how do I supposed to ask the user for input, storage it in the name variable, and display it on the screen?
+
+It provided two input examples
+“Tom”
+“Bob”
+With expected outputs being Tom and Bob, obviously.
+
+I wrote like this:
+
+#Ask the user for input and store it in a variable
+name = input()
+name2 = input()
+
+#Display the user input on the screen
+print(name)
+print(name2)
+
+I keep getting an EOF error. Help! 😅
+
+I even tried name = input(“Enter your name:”)
+
+Snake cases too
+
+Edit: These both input() and both print() are supposed to be in new string but Reddit arranged it wrongly. Also these large bold sentences were supposed to be statements lol",Oatsdbl,1hdce8y,https://reddit.com/r/learnprogramming/comments/1hdce8y/what_did_i_do_wrong/,https://www.reddit.com/r/learnprogramming/comments/1hdce8y/what_did_i_do_wrong/,2024-12-13 13:39:14,3,1.0,3,0,4,0,0,False,False,True,False,False,Tutorial,,t3_1hdce8y
+learnprogramming,"Looking for like-minded people in Python, Machine Learning and Flask to learn and create projects together","Hello everyone!
+
+My name is Nicholas, I am 18 years old and I live in England. I'm looking for people who want to learn, share knowledge and work on projects together. I am open to communicate with people from anywhere in the world, but it would be great if it was mostly people from England, as I would like to be able to meet in person in the future.
+
+I'm learning Python and want to improve my skills with others who already know a bit of the language. My goal is to create projects, share experiences and grow together.
+
+Besides Python, I am also interested in Machine Learning and am looking for people who want to get into this field or are already involved in it to work together on projects and share knowledge. I also want to learn and discuss statistics - would be happy if someone joins.
+
+If anyone is interested in Frontend or Backend (e.g. Flask), that's welcome too. This will give us the opportunity to create quality web interfaces for our projects.
+
+I would also like to add that I am not a native English speaker, and by working in this community I aim to improve my spoken English. I am open to communication, and I think it will help all of us to learn and grow together!
+
+I plan to use Discord for communication and collaboration, so if you want to improve your skills in Python, Machine Learning, Flask or statistics, we'd be happy to work together!
+
+If you're interested, drop me a line in the comments or private messages. I would be glad to meet you and start working on projects together!
+
+My discord channel: 
+https://discord.gg/P4BpbPhU",Nicholas_Semenov,1hdal1e,https://reddit.com/r/learnprogramming/comments/1hdal1e/looking_for_likeminded_people_in_python_machine/,https://www.reddit.com/r/learnprogramming/comments/1hdal1e/looking_for_likeminded_people_in_python_machine/,2024-12-13 11:53:27,3,0.8,3,0,1,0,0,False,False,True,False,False,,,t3_1hdal1e
+learnprogramming,Need some basic JS web dev project ideas!,"Hey everyone,
+
+I'm a beginner in JavaScript web development and I'm looking for some project ideas to practice my skills. I've covered the basics like HTML, CSS, and JavaScript fundamentals.
+
+**I'm looking for something that's not too complex but still challenging enough to learn new things.**
+
+Here are some of the things I'm interested in:
+
+* **Interactive web pages:** Creating dynamic pages with user input and real-time updates.
+* **Simple games:** Building small browser-based games like tic-tac-toe or a number guessing game.
+* **Data visualization:** Using libraries like Chart.js or D3.js to create visualizations.
+* **Web applications:** Developing basic web apps, like a to-do list or a simple note-taking app.
+
+**Any suggestions or ideas would be greatly appreciated!**
+
+**Please feel free to share any resources or tutorials that might be helpful.**
+
+Thanks in advance!",Specific-Company-354,1hda0rw,https://reddit.com/r/learnprogramming/comments/1hda0rw/need_some_basic_js_web_dev_project_ideas/,https://www.reddit.com/r/learnprogramming/comments/1hda0rw/need_some_basic_js_web_dev_project_ideas/,2024-12-13 11:14:17,3,1.0,3,0,7,0,0,False,False,True,False,False,,,t3_1hda0rw
+learnprogramming,How Can I Get a Head Start in Computer Science Before College?,"I'm about to graduate high school and want to get a head start in computer science, I have somewhat of a background when it comes to coding. Whether it's improving my math skills or learning coding, any advice would be helpful",overwatcher21412512,1hd49ba,https://reddit.com/r/learnprogramming/comments/1hd49ba/how_can_i_get_a_head_start_in_computer_science/,https://www.reddit.com/r/learnprogramming/comments/1hd49ba/how_can_i_get_a_head_start_in_computer_science/,2024-12-13 04:22:41,3,0.71,3,0,14,0,0,False,False,True,False,False,,,t3_1hd49ba
+learnprogramming,What is the weirdest tech stack you have heard a successful project be built with?,Takes more than just code to make a product successful but I wonder how astray devs have gone to what we are used to seeing. ,WynActTroph,1hd434s,https://reddit.com/r/learnprogramming/comments/1hd434s/what_is_the_weirdest_tech_stack_you_have_heard_a/,https://www.reddit.com/r/learnprogramming/comments/1hd434s/what_is_the_weirdest_tech_stack_you_have_heard_a/,2024-12-13 04:13:00,2,0.67,2,0,15,0,0,False,False,True,False,False,,,t3_1hd434s
+learnprogramming,"If you had to replace the default copy-paste behaviour so that when ctrl+v is held down you only paste once, how would you do that? (Python)","I have made an absolute abomination using low level keyboard handling after trying and failing to do it with the keyboard module. But it is very delicate and I can't add any functionality to it. If I do then the continual pasting is back. I've been working on this for days with no solution. The abomination in question will be in the comments. I am using python.
+
+
+
+Edit: I can't comment for some reason so I'll just put it here:
+
+So this works (I have removed some of it and am only showing the main functions for brevity):
+
+    def low_level_keyboard_handler(nCode, wParam, lParam):
+        """"""Low-level keyboard hook handler.""""""
+        if nCode == 0:  # If wParam is WM_KEYDOWN or WM_KEYUP
+            # Extract virtual key code from lParam
+            key_info = ctypes.cast(lParam, ctypes.POINTER(ctypes.c_long)).contents
+            vk_code = key_info.value  # Extract the virtual key code
+            isCtrlPressed = win32api.GetAsyncKeyState(win32con.VK_CONTROL) &lt; 0
+            # Check for only WM_KEYDOWN
+            if wParam == win32con.WM_KEYDOWN:
+                if vk_code == VK_V and isCtrlPressed:
+                    if block_os_paste:
+                        pyperclip.copy(""poop"")  # Copy the content to clipboard
+                        keyboard.write(pyperclip.paste())  # Paste the clipboard content
+                        return 1  # Block the Ctrl+V event
+            # Check for Esc key press to exit
+            if vk_code == VK_ESCAPE:
+                print(""Exiting..."")
+                ctypes.windll.user32.PostQuitMessage(0)  # Exit the message loop
+        return ctypes.windll.user32.CallNextHookEx(hHook, nCode, wParam, lParam)
+    
+    def set_keyboard_hook():
+        """"""Set a low-level keyboard hook.""""""
+        global hHook
+        WH_KEYBOARD_LL = 13
+        # Use ctypes.CFUNCTYPE to define the correct function pointer
+        LOW_LEVEL_KEYBOARD_HOOK = ctypes.WINFUNCTYPE(ctypes.c_long, ctypes.c_int, ctypes.c_int, ctypes.POINTER(ctypes.c_int))
+        low_level_handler = LOW_LEVEL_KEYBOARD_HOOK(low_level_keyboard_handler)
+        hHook = ctypes.windll.user32.SetWindowsHookExA(WH_KEYBOARD_LL, low_level_handler, None, 0)
+        print(f""Keyboard hook installed: {hHook}"")
+        msg = ctypes.wintypes.MSG()
+        while ctypes.windll.user32.GetMessageA(ctypes.byref(msg), 0, 0, 0) != 0:
+            print(""Message loop running."")
+            ctypes.windll.user32.TranslateMessage(ctypes.byref(msg))
+            ctypes.windll.user32.DispatchMessageA(ctypes.byref(msg))
+    if __name__ == ""__main__"":
+        keyboard.add_hotkey('f9', toggle_blocking)
+        print(""Press F9 to toggle blocking, Esc to exit."")
+        try:
+            set_keyboard_hook()  # Set the keyboard hook
+        except KeyboardInterrupt:
+            pass
+        finally:
+            if hHook is not None:
+                ctypes.windll.user32.UnhookWindowsHookEx(hHook)
+
+But if I want to add a clipboard history that I can scroll through, OS pasting is back. Then I added a dictionary of key states to check to check if ctrl+v is held before continuing but it doesn't work, still pastes. I added a is\_ctrl\_v\_pressed variable with if statements, it doesn't work, the pastes continue, on and on the pastes continue. I have tried using the keyboard library with the is\_pressed function, adding if statements, the pastes continue. I have tried pynput with keyboard listeners, the pastes continue. I am slipping.  
+",E-Gamma-102,1hd3o2j,https://reddit.com/r/learnprogramming/comments/1hd3o2j/if_you_had_to_replace_the_default_copypaste/,https://www.reddit.com/r/learnprogramming/comments/1hd3o2j/if_you_had_to_replace_the_default_copypaste/,2024-12-13 03:50:08,3,0.81,3,0,1,0,0,False,False,True,False,False,Debugging,,t3_1hd3o2j
+learnprogramming,How to decide folder structure / architecture for a project to scale?,"Hello all, 
+
+I'm a Backend Developer and trying to do some basic projects I've seen in [roadmap.sh](https://roadmap.sh/backend/projects) with Typescript/Node.
+
+Every time I start a project, I know what I can do to handle the program's logic flow. For example, I have to take arguments from the user from the CLI, transfer these arguments to the Business logic, and then transfer the data to the database/write them on a file. I usually approach it like the classical structure: 
+
+    src
+    -- config
+    -- models
+    -- services
+    -- utils
+    index.ts 
+
+The thing is, I don't know how to separate these logics to different services/ managers/ utilities/ functions etc. How can I learn this? Most of the project tutorials just simply says ""I'll create the ExpenseService"" but doesn't tell you why it's a service or a manager. God, I can't even seperate what's a manager and what's a service.
+
+I can't even create a folder structure, and the more I think about it, the more complex it gets. If you read this far, thanks in advance. ",batugkocak,1hdbjzw,https://reddit.com/r/learnprogramming/comments/1hdbjzw/how_to_decide_folder_structure_architecture_for_a/,https://www.reddit.com/r/learnprogramming/comments/1hdbjzw/how_to_decide_folder_structure_architecture_for_a/,2024-12-13 12:53:47,2,0.76,2,0,1,0,0,False,False,True,False,False,,,t3_1hdbjzw
+learnprogramming,How do I interpret duplicate?,"I have this homework ""problem no. 3"" and I have no clue  what the correct interpretation of duplicate should be.
+
+""The first number shall be duplicated according to the value of the second number.  
+A third number shall be created by multiplying the value of the second number to 6  
+Display the sum of all three numbers using f-strings. Follow the format of the output below:  
+The sum of all three numbers are sum., where sum is the sum of all three numbers.""
+
+if my input is 3,5. Should my output be
+
+3\*5+5+5\*6  
+or  
+33333+5+5\*6
+
+at first i thought it was the first one but they used ""third number shall be created by multiplying the value of the second number to 6"" If they already used ""multiply"" here why not also the first one instead of duplicate",Ok_Caterpillar_1086,1hdanev,https://reddit.com/r/learnprogramming/comments/1hdanev/how_do_i_interpret_duplicate/,https://www.reddit.com/r/learnprogramming/comments/1hdanev/how_do_i_interpret_duplicate/,2024-12-13 11:57:51,2,0.75,2,0,4,0,0,False,False,True,False,False,,,t3_1hdanev
+learnprogramming,Computer science club at school ,"So at school I randomly and spontaneously decided to start a computer science club. I know a few languages somewhat well, but I am NOT a super good coder, and I haven’t like been active programming recently or have ever made anything. For this club, I am sponsored by the CS teacher. 
+
+My main issue is what we should do within club. This is my first time in any leadership position or starting an academic activity. What sort of lessons should we do? Should we teach CS topics? Have people make things like games or websites? Work with hardware? I’m really lost; I want to make a fun club for people interested in and who want to learn more about computer science. Im not that experienced with making things or advanced CS topics. Does anyone have any ideas or recommendations for me? Thank You!",CraftMiner57,1hd3btg,https://reddit.com/r/learnprogramming/comments/1hd3btg/computer_science_club_at_school/,https://www.reddit.com/r/learnprogramming/comments/1hd3btg/computer_science_club_at_school/,2024-12-13 03:31:03,2,0.76,2,0,11,0,0,False,False,True,False,False,,,t3_1hd3btg
+learnprogramming,knapsack like problem,"I have a problem that seems to be a Knapsack problem, however  I find it hard to apply the Knapsack algorithm because all the weights change depending on what is already in the Knapsack.
+
+The problem is: I have a DB of movie directors and their movies. And I have a db of streaming providers. I want to select one or multiple movie directors and find the cheapest combination of streaming services that allows me to watch the most movies from those directors.
+
+Brute-forcing through all the possible streaming services is infeasible. Applying Knapsack doesn't work because one movie can be streamed by multiple platforms. So the value that putting streaming platform A into the Knapsack depends on all the items already in the Knapsack.
+
+Is there a way to transform this problem into a Knapsack problem or how can i approach this problem?",growndemon,1hd2ltz,https://reddit.com/r/learnprogramming/comments/1hd2ltz/knapsack_like_problem/,https://www.reddit.com/r/learnprogramming/comments/1hd2ltz/knapsack_like_problem/,2024-12-13 02:52:21,2,0.76,2,0,1,0,0,False,False,True,False,False,,,t3_1hd2ltz
+learnprogramming,Cannot get simple html site to initialise with Supabase database,"Hi, 
+
+I'm quite new to coding so may get some of the terminology wrong... 
+
+I am trying to make a web app utilising Google maps for the company I work at. That part is working okay but I am having trouble connecting the web app to the database. 
+
+I have a very basic program I am testing now that only attempts to connect to and display the data from the database. No matter what I do I get this error in the console: 
+
+Uncaught ReferenceError: Cannot access 'supabase' before initialization
+
+I do know that the Supabase Library has loaded, it just cannot initialise with my database.. 
+
+
+
+I would really appreciate some help, this is driving me mad!
+
+
+
+Here is the full code (I have removed my URL and API key but they are definitely correct in the actual code): 
+
+`&lt;!DOCTYPE html&gt;`
+
+`&lt;html&gt;`
+
+`&lt;head&gt;`
+
+`&lt;title&gt;Supabase Minimal Test&lt;/title&gt;`
+
+`&lt;!-- Supabase JS Library --&gt;`
+
+`&lt;script src=""https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2""&gt;&lt;/script&gt;`
+
+`&lt;/head&gt;`
+
+`&lt;body&gt;`
+
+`&lt;h1&gt;Testing Supabase Connectivity&lt;/h1&gt;`
+
+`&lt;p id=""output""&gt;Waiting for results...&lt;/p&gt;`
+
+
+
+`&lt;script&gt;`
+
+`// Supabase configuration`
+
+`const SUPABASE_URL = ""XXX"";`
+
+`const SUPABASE_KEY = ""XXX;`
+
+
+
+`// Initialize Supabase`
+
+`const supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);`
+
+
+
+`console.log(""Supabase Initialized:"", supabase);`
+
+
+
+`// Test fetching data`
+
+`async function testSupabase() {`
+
+`const { data, error } = await supabase.from(""surveyors"").select(""*"");`
+
+`const output = document.getElementById(""output"");`
+
+
+
+`if (error) {`
+
+`output.textContent = ""Error: "" + error.message;`
+
+`console.error(""Supabase Error:"", error);`
+
+`} else {`
+
+`output.textContent = ""Data: "" + JSON.stringify(data, null, 2);`
+
+`console.log(""Supabase Data:"", data);`
+
+`}`
+
+`}`
+
+
+
+`testSupabase();`
+
+`&lt;/script&gt;`
+
+`&lt;/body&gt;`
+
+`&lt;/html&gt;`
+
+
+
+",williewalters,1hcxm10,https://reddit.com/r/learnprogramming/comments/1hcxm10/cannot_get_simple_html_site_to_initialise_with/,https://www.reddit.com/r/learnprogramming/comments/1hcxm10/cannot_get_simple_html_site_to_initialise_with/,2024-12-12 22:44:26,2,1.0,2,0,1,0,0,False,False,True,False,False,Debugging,,t3_1hcxm10
+learnprogramming,I'm trying to create a C fille with multiple custom headers included. The 'top' header seems to turn other headers off and their function become uncallable. How do I fix this?,"Not sure how to pin an image or a ile to th post, so here is the text:
+
+main.c:  
+\#include ""probb.h""  
+\#include ""proba.h""  
+void main()  
+{  
+	int x=5;	  
+int y=6;  
+sum(x, y);  
+min(x, y);  
+}
+
+proba.c:  
+\#include &lt;stdio.h&gt;  
+\#include ""proba.h""  
+int sum(int n, int m)  
+{  
+	printf(""Summ = %d"", n+m);  
+}
+
+proba.h:  
+\#ifndef LIST\_HIL  
+\#define LIST\_HIL  
+int sum(int n, int m);  
+\#endif
+
+probb.c:  
+\#include &lt;stdio.h&gt;  
+\#include ""proba.h""  
+int min(int n, int m)  
+{  
+	printf(""Summ = %d"", n-m);  
+}
+
+  
+probb.h:  
+\#ifndef LIST\_HIL  
+\#define LIST\_HIL  
+int min(int n, int m);  
+\#endif
+
+  
+If I include only one of the headers in the main function, then it works as it's supposed to, but if I include both only the top header works, the compiler cannot 'see' the function of the 'bottom' header.:  
+For example : error: implicit declaration of function 'min';  
+Any ideas on ho to solve this? Could not find anything on this online.",Polish_Pigeon,1hcwuax,https://reddit.com/r/learnprogramming/comments/1hcwuax/im_trying_to_create_a_c_fille_with_multiple/,https://www.reddit.com/r/learnprogramming/comments/1hcwuax/im_trying_to_create_a_c_fille_with_multiple/,2024-12-12 22:09:07,2,0.75,2,0,6,0,0,False,False,True,False,False,Debugging,,t3_1hcwuax
+learnprogramming,I cannot seem to understand pseudocode or the assignments given to me.,"So for context I’m about to graduate from highschool but the only thing I need is an elective which is why I chose a course that had to do with advanced applications (pretty much teaching how to use word, excel, and PowerPoint.) I competed that one and I’m now on introduction to programming. I’ve read the text book that was provided to me and have turned in 3 projects and 2 out of the 3 were wrong, the ones that I thought were good were wrong but the one I felt was off and wrong was correct. My point to this little rant is I need help understanding how to create pseudocode, I understand loops and do-while statements but I don’t understand what they exactly want from my project to be correct. For the assignment I’m working on now I need to design a program with validation functions, and it has to validate that fat grams and calories aren’t less than 0 and ensure that the number of calories entered isn’t greater than fat grams * 9. 
+
+
+I completely understand that I have to do this assignment on my own and am not seeking someone to MAKE the pseudocode for me rather i am asking for someone to help me understand how to create pseudocode like this. I made a menu code that looked wrong but was correct and I received a hundred on it, but I also created a code that would mix colors and although it looked correct it was completely wrong. Help would be greatly appreciated. I would also like to say thank you for reading through this and taking the time out of your day to do so.",MartyPugPlayz,1hcqqjg,https://reddit.com/r/learnprogramming/comments/1hcqqjg/i_cannot_seem_to_understand_pseudocode_or_the/,https://www.reddit.com/r/learnprogramming/comments/1hcqqjg/i_cannot_seem_to_understand_pseudocode_or_the/,2024-12-12 17:47:07,2,1.0,2,0,17,0,0,False,False,True,False,False,,,t3_1hcqqjg
+learnprogramming,How to write great documentation for your project,"When I first started working on different projects, I really struggled with documentation. But after a lot of trial and error, I learned a lot about writing clear and helpful docs. Working on several open-source projects has also taught me just how essential good documentation is to the success of a project. So, I'd like to share with you some of the tips that have helped me improve (in the hope that they will save you the same headaches I've experienced😂):
+
+1️⃣ **Guide first**  
+Start with simple guides that focus on common use cases to help users get started quickly.
+
+2️⃣ **Show, don’t tell**  
+Use screenshots &amp; screencasts early &amp; often to visually demonstrate features.
+
+3️⃣ **More code than text**  
+Prioritize clear, working code examples over lengthy text explanations.
+
+4️⃣ **Use plausible data**  
+Craft realistic data in examples to help users better relate &amp; apply them to their projects. I use [faker.js](https://fakerjs.dev)for this.
+
+5️⃣ **Examples as stories**  
+Write examples in [Storybook](https://storybook.js.org) to ensure accuracy &amp; consistency between code &amp; visuals.
+
+6️⃣ **The reference follows the guide**  
+If an advanced user is looking for all possible options of a component, they can find them in the same place as the guide.
+
+7️⃣ **Pages can be scanned quickly**  
+Break content into short, digestible sections for quick navigation and easy reading.
+
+8️⃣ **Features have several names**  
+Use multiple terms for the same feature to improve searchability.
+
+9️⃣ **Document features multiple times**  
+Cover features in different contexts (guides, HowTos, references) to enhance discovery.
+
+🔟 **Overview section**s  
+Provide high-level summaries of feature groups to help users grasp concepts before diving into details.
+
+1️⃣1️⃣ **Beginner mode**  
+Offer a simplified view of the doc to avoid overwhelming new users.
+
+1️⃣2️⃣ Eat your own dog food  
+Regularly use your own doc to spot usability issues &amp; improve user experience.
+
+Here's a [doc example](https://marmelab.com/react-admin/documentation.html) where I've tried to implement these ‘best practices’.
+
+Feel free to share your tips for writing good documentation, so that we can collectively help other open-source projects!",React-admin,1hcpuq4,https://reddit.com/r/learnprogramming/comments/1hcpuq4/how_to_write_great_documentation_for_your_project/,https://www.reddit.com/r/learnprogramming/comments/1hcpuq4/how_to_write_great_documentation_for_your_project/,2024-12-12 17:09:45,2,1.0,2,0,0,0,0,False,False,True,False,False,Resource,,t3_1hcpuq4
+learnprogramming,How to import a function from a Javascript module and use it inside a HTML page?,"This is a seemingly simple problem but I don't know why I'm struggling with it. Could it be a syntax issue?
+
+I have a HTML page and a Javascript file. I have a function inside that Javascript file that simply returns a string. I want to print that string to the console on my html page.
+
+The html file is like this (simplified):
+
+    &lt;html&gt;
+     &lt;body&gt;
+       &lt;h1&gt;Title&lt;/h1&gt;
+       &lt;script type=""module""&gt;
+          import {sayHi} from ""./Robot.js"";
+    
+          console.log(sayHi());
+       &lt;/script&gt;
+     &lt;/body&gt;
+    &lt;/html&gt;
+
+And the Javascript file called Robot.js is like this:
+
+    function sayHi(){
+      console.log(""Hi"");
+      return ""Hi"";
+    }
+    
+    export sayHi;
+
+Nothing happens. My console is blank. As you can see the sayHi function is printing to the console as well as returning a string.
+
+I have also structured my Robot.js file like this:
+
+    export default function sayHi(){
+      console.log(""Hi"");
+      return ""Hi"";
+    }
+
+But it doesn't seem to work.
+
+Where am I going wrong? Also is it correct to surround ""sayHi"" with curly brackets within the script tag?",DrumsOfTheDragon,1hcozhq,https://reddit.com/r/learnprogramming/comments/1hcozhq/how_to_import_a_function_from_a_javascript_module/,https://www.reddit.com/r/learnprogramming/comments/1hcozhq/how_to_import_a_function_from_a_javascript_module/,2024-12-12 16:32:20,2,1.0,2,0,4,0,0,False,False,True,False,False,,,t3_1hcozhq
+learnprogramming,"I was given a Coursera subscription, are there any courses worth the time on there?","Looking for good resources related to programming (any languages), math or general software engineering subjects.",Snugglupagus,1hcnjo2,https://reddit.com/r/learnprogramming/comments/1hcnjo2/i_was_given_a_coursera_subscription_are_there_any/,https://www.reddit.com/r/learnprogramming/comments/1hcnjo2/i_was_given_a_coursera_subscription_are_there_any/,2024-12-12 15:28:35,2,0.76,2,0,2,0,0,False,False,True,False,False,Resource,,t3_1hcnjo2
+learnprogramming,Learn Python in 1 week?,"I’ve got an exam in 1 week that I haven't studied for enough in programming 2(python).
+
+I know there are plenty of AI tools made to help you learn things. But I’m not totally sure how to make the best use of them.
+
+Can you share how you would utilize AI tools to learn programming in 1 week? Canvas? Custom GPT's? Specific prompts? I am looking for something that helps you actively learn.
+
+  
+Thanks!",Trick_Ad_4388,1hde30o,https://reddit.com/r/learnprogramming/comments/1hde30o/learn_python_in_1_week/,https://www.reddit.com/r/learnprogramming/comments/1hde30o/learn_python_in_1_week/,2024-12-13 15:01:26,0,0.33,0,0,8,0,0,False,False,True,False,False,Resource,,t3_1hde30o
+learnprogramming,something like batch thatdoesn't require admin rights,I ve written code in R ( like python). I want non coders to execute it without accessing R through batch file. but we dont have admin right. is there another way?,Due-Duty961,1hde1id,https://reddit.com/r/learnprogramming/comments/1hde1id/something_like_batch_thatdoesnt_require_admin/,https://www.reddit.com/r/learnprogramming/comments/1hde1id/something_like_batch_thatdoesnt_require_admin/,2024-12-13 14:59:50,3,1.0,3,0,7,0,0,False,False,True,False,False,Topic,,t3_1hde1id
+learnprogramming,#define GPIO_PORTF_DATA_R    (*((volatile unsigned long *)0x400253FC)),"I hate pointers and need someone to explain this to me
+
+first of all this is pulled from tm4c123gh6pm.h file made by texas instruments for that tiva c model
+
+using Standard C 99
+
+this makes GPIO\_PORTF\_DATA\_R handled as a normal Variable in the code, my issue is, i dont understand how is this done through this pointer configuration
+
+and i want to know how to call suh an address Variable in a function
+
+like for example setBit( \* uint32\_t DeclarationMightBeWrong , uint8\_t shiftingBit){}
+
+
+
+and how do i assign it to another variable?   
+Register\* = &amp;GPIO\_PORTF\_DATA\_R; ? 
+
+again i hate pointers",Bebo991_Gaming,1hddqd7,https://reddit.com/r/learnprogramming/comments/1hddqd7/define_gpio_portf_data_r_volatile_unsigned_long/,https://www.reddit.com/r/learnprogramming/comments/1hddqd7/define_gpio_portf_data_r_volatile_unsigned_long/,2024-12-13 14:45:14,2,1.0,2,0,3,0,0,False,False,True,False,False,Tutorial,,t3_1hddqd7
+learnprogramming,Pulling my hair out with this Google API,"I’m building a webapp to create and issue digital passes, and so far i’ve got it set up to issue the passes but the custom fields I want to add are added to the back of the pass in the details, and not shown visibly on the front.
+
+Anyone dealt with creating passes with the Google Wallet API? Any pointers would be much appreciated!
+
+I release this is a long shot but I would really love some help! Claude and ChatGPT are both stuck in doom loops trying to figure it out.
+
+Thanks!",ComradeAdam7,1hddjhz,https://reddit.com/r/learnprogramming/comments/1hddjhz/pulling_my_hair_out_with_this_google_api/,https://www.reddit.com/r/learnprogramming/comments/1hddjhz/pulling_my_hair_out_with_this_google_api/,2024-12-13 14:36:09,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hddjhz
+learnprogramming,What’s your experience level and how often are you using Google/GenAI for questions?,"Recently started a new role as a data analyst. Although I’ve been writing code since 2020, I still sometimes feel like a newbie, especially when I go back to using a language I haven’t used in a long time. How often are you using Google, GenAI, and what are you generally looking for answers to?",siiiiiiilk,1hdcyi4,https://reddit.com/r/learnprogramming/comments/1hdcyi4/whats_your_experience_level_and_how_often_are_you/,https://www.reddit.com/r/learnprogramming/comments/1hdcyi4/whats_your_experience_level_and_how_often_are_you/,2024-12-13 14:07:34,2,0.75,2,0,4,0,0,False,False,True,False,False,,,t3_1hdcyi4
+learnprogramming,Frustrating doubt,"class Solution {
+
+   public:
+
+int hammingWeight(int n) {
+
+int count=0;
+
+while(n!=0){
+
+if((n|1)==n){
+
+count++; 
+
+n = n&gt;&gt;1; 
+
+}
+
+}
+
+return count;
+
+} 
+
+};
+
+  
+Please tell me why its not working, count + (n&amp;1) will work obviously but why not this? where's the problem? Is there any specific example or just somethinggggg....",ConfidenceMain9212,1hdbki4,https://reddit.com/r/learnprogramming/comments/1hdbki4/frustrating_doubt/,https://www.reddit.com/r/learnprogramming/comments/1hdbki4/frustrating_doubt/,2024-12-13 12:54:38,1,0.67,1,0,2,0,0,False,False,True,False,False,Debugging,,t3_1hdbki4
+learnprogramming,How do I make an optimized find primes before n algorithm?,"The Algorithm for finding if a number is prime is pretty easy, that one is just looping through all the numbers up to the square root of that number and checking if there’s a mod that returns 0. To find all primes up to n you just check each number before n 1 by 1 with our prime finding algo. This is O(n\^2) time. Seems easy enough. However, My friend has challenged me to possibly do it in O(n log n) or even O(n) time. I am not sure where to begin though. In order to improve the time to n log n which is what I’m aiming for, I need to find a way to either optimize the determine if prime algo, or the algo for looping through the numbers before n into log n time because both of that are O(n) right now. Anything you can tell me to get me started? Like I don’t want the whole algo I just want some hints if that makes sense.",ElegantPoet3386,1hd92fh,https://reddit.com/r/learnprogramming/comments/1hd92fh/how_do_i_make_an_optimized_find_primes_before_n/,https://www.reddit.com/r/learnprogramming/comments/1hd92fh/how_do_i_make_an_optimized_find_primes_before_n/,2024-12-13 10:03:18,1,0.67,1,0,4,0,0,False,False,True,False,False,,,t3_1hd92fh
+learnprogramming,Need advice on WhatsApp integration,"Every morning, I do a daily check on our systems to make sure they are up and running. I then send a message to a WhatsApp group.
+
+The checking of the system has been automated, but I now want to automate the sending of the WhatsApp message. From what I am reading, I need to use the WhatsApp Business API, but the process seems too overkill just for the one message to one group per day.
+
+What tool is best to use in this situation? I need something safe, that will send the message on the standby phone's number to the group. I don't think I need a business account for this. Can someone explain if there is anything that WhatsApp has for this use case?
+
+* No client interactions, just a notification to one group
+* No bot, it needs to seem like it is coming from the standby phone
+* Obviously nothing that would break WhatsApp's policies (no selenium)
+
+I have also heard that WhatsApp deprecated the functionality for sending messages on groups, so I am not sure if the WhatsApp official API would even fit my needs.
+
+  
+Any advice would be greatly appreciated (Hope this is the correct platform to ask it. Stack Overflow will destroy you for these kind of questions). ",roni-baloni,1hd6k6n,https://reddit.com/r/learnprogramming/comments/1hd6k6n/need_advice_on_whatsapp_integration/,https://www.reddit.com/r/learnprogramming/comments/1hd6k6n/need_advice_on_whatsapp_integration/,2024-12-13 06:47:28,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1hd6k6n
+learnprogramming,Angular Signals vs Observables? ,I'm still confused on when exactly to use signals in angular or use Observabeles from rxjs any ideas will help ,zeller0967,1hd1rlq,https://reddit.com/r/learnprogramming/comments/1hd1rlq/angular_signals_vs_observables/,https://www.reddit.com/r/learnprogramming/comments/1hd1rlq/angular_signals_vs_observables/,2024-12-13 02:08:19,1,0.67,1,0,1,0,0,False,False,True,False,False,,,t3_1hd1rlq
+learnprogramming,JavaScript ,"So I've been studying programming for a little over a month now. I started off with HTML and moved onto CSS, both were fun to learn and kind of get down but now I'm learning JavaScript and I feel like I'm moving at a snails pace. I'm working with fCC and going through their course but I was wondering if anyone here has some recommendations on how I can better absorb JavaScript and not feel so confused. Thank you!",00nlyhuman,1hd1kge,https://reddit.com/r/learnprogramming/comments/1hd1kge/javascript/,https://www.reddit.com/r/learnprogramming/comments/1hd1kge/javascript/,2024-12-13 01:58:31,1,0.6,1,0,8,0,0,False,False,True,False,False,,,t3_1hd1kge
+learnprogramming,Looking for a gui framework,"I'm currently working on a personal project that has a graphical interface, for that I'm using egui and egui_dock because egui looked really simple to use, since it's immediate mode it works about the same as tkinter. It's not that is difficult to do what I want to do in terms of inserting elements, but arranging them the way I want them to be arranged has been a pain, specially with having to recompile see changes.    
+In light of how much of a bottle neck the arranging of widgets on the interface have been, I wanted to find a different framework for future projects. I've been looking at Qt, which has QtDesigner and the workflow looked good, I also looked at .NET MAUI but didn't like it as much since it doesn't have a graphical editor, but at least doesn't require recompiling for each change to the UI, other option I saw was GTK, which seems to have (although unofficial) graphical editors and for last I thought maybe learning to use Godot (game engine) instead.",Fluffy-Craft,1hcy2rk,https://reddit.com/r/learnprogramming/comments/1hcy2rk/looking_for_a_gui_framework/,https://www.reddit.com/r/learnprogramming/comments/1hcy2rk/looking_for_a_gui_framework/,2024-12-12 23:05:55,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1hcy2rk
+learnprogramming,"Native TypeScript Data Structures: Zero Dependencies, Fast, Lightweight, and Fully Tested","Hi Everyone, I know there are tons of similar libraries out there, but I’ve implemented a [TypeScript data structure collections](https://github.com/baloian/typescript-ds-lib) that is **pure TypeScript with Comparator** for custom types, **fast**, and **fully tested** with **zero external dependencies**. Any kind of feedback is welcome!
+
+See: [https://github.com/baloian/typescript-ds-lib](https://github.com/baloian/typescript-ds-lib)",artiom_baloian,1hcww3l,https://reddit.com/r/learnprogramming/comments/1hcww3l/native_typescript_data_structures_zero/,https://www.reddit.com/r/learnprogramming/comments/1hcww3l/native_typescript_data_structures_zero/,2024-12-12 22:11:20,1,0.66,1,0,2,0,0,False,False,True,False,False,,,t3_1hcww3l
+learnprogramming,"For those working on a cloud service, how are your dev/staging/production environments organized?","Do you even have seperate dev staging and production environments?  How do you manage your team dev environements to keep costs down?  
+
+I'm not really asking about Terraform or AWS specifics (though that is what I use), more general organization SOP and overview for how you think about environments and testing pre-staging and testing pre-production.",1SweetChuck,1hcw1jr,https://reddit.com/r/learnprogramming/comments/1hcw1jr/for_those_working_on_a_cloud_service_how_are_your/,https://www.reddit.com/r/learnprogramming/comments/1hcw1jr/for_those_working_on_a_cloud_service_how_are_your/,2024-12-12 21:34:06,1,1.0,1,0,2,0,0,False,False,True,False,False,Infrastructure,,t3_1hcw1jr
+learnprogramming,Error: Expected identifier or '(' before numeric constant for C.,"I'm currently studying errors in C programming for variables and I intentionally caused this error:
+
+    error: Expected identifier or '(' before numeric constant
+
+Yes I know '1myNum' is a suffix error because the beginning starts with a numeric constant which is invalid but what does the opening parenthesis '(' before numeric constant mean? I couldn't find an answer on google... can anyone explain this to me? 
+
+    #include &lt;stdio.h&gt;
+    
+    int main() {
+    
+        int 1myNum = 10;
+    
+        printf(""Number: %d.\n"", 1myNum);
+    
+        return 0;
+    }",677075636f7265,1hct7ej,https://reddit.com/r/learnprogramming/comments/1hct7ej/error_expected_identifier_or_before_numeric/,https://www.reddit.com/r/learnprogramming/comments/1hct7ej/error_expected_identifier_or_before_numeric/,2024-12-12 19:32:17,1,1.0,1,0,7,0,0,False,False,True,False,False,,,t3_1hct7ej
+learnprogramming, Good libraries for automating logins on websites? ,"In my country (Sweden) we have lots of housing companies, some of them state owned, that build and own apartment complexes all over the country, many of which provide housing queues that allows anybody to queue for an apartment. Some of them charge a small fee every year for this but typically it's free and the only requirement is that you register your information on their website and ***log in regularly*** so that you don't loose your queue time. Basically, If you're inactive or forget to update your profile (by logging in) you loose your spot and accrued points/time.
+
+How would I go about creating a C++ script that automatically accesses various website and logs in with my credentials every so often to keep my queue active?
+
+I'm relatively new to C++ and programming in general and so far I've only used it for basic games with the SFML library but I'm curious if this is even doable with C++ or if I should turn elsewhere?",Boosty-McBoostFace,1hcsy76,https://reddit.com/r/learnprogramming/comments/1hcsy76/good_libraries_for_automating_logins_on_websites/,https://www.reddit.com/r/learnprogramming/comments/1hcsy76/good_libraries_for_automating_logins_on_websites/,2024-12-12 19:21:15,1,1.0,1,0,4,0,0,False,False,True,False,False,,,t3_1hcsy76
+learnprogramming,How to convert model.h5 to TensorFlow; tensorflowjs_converter: command not found,"I have a model.h5 and I want to use it on my site, so I want to convert it to TensorFlow JS. For this, I need to use the tensorflowjs\_converter. I tried installing tensorflowjs with the following command:
+
+`sudo pip install tensorflowjs --break-system-packages`
+
+But when I try to run the command to convert, this is what I get:
+
+`ice@ice-Mint-PC:~$ tensorflowjs_converter --input_format keras ""/home/ice/Downloads/handwritten (1).h5"" \`
+
+`/home/ice/Desktop`
+
+`tensorflowjs_converter: command not found`",AnEntirePeach,1hcre8w,https://reddit.com/r/learnprogramming/comments/1hcre8w/how_to_convert_modelh5_to_tensorflow_tensorflowjs/,https://www.reddit.com/r/learnprogramming/comments/1hcre8w/how_to_convert_modelh5_to_tensorflow_tensorflowjs/,2024-12-12 18:14:59,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1hcre8w
+learnprogramming,Multithreading Problem,when i run a project on 4 threads it takes 1minute and 25 seconds while on one thread it takes 25 second only,a_m74,1hcqa68,https://reddit.com/r/learnprogramming/comments/1hcqa68/multithreading_problem/,https://www.reddit.com/r/learnprogramming/comments/1hcqa68/multithreading_problem/,2024-12-12 17:27:36,1,1.0,1,0,11,0,0,False,False,True,False,False,,,t3_1hcqa68
+learnprogramming,Mastery in programming ,"
+Hey devs,
+
+I’m planning out the next three years of my development journey and aiming to achieve proficiency (if not mastery) in Flutter, Python, and React. My ultimate goal is to build apps that integrate AI/ML into both mobile and web projects.
+
+Here’s my rough timeline:
+	1.	Focus exclusively on Flutter for 8-10 months to build strong app development skills.
+	2.	Transition to React for web development and spend about a year mastering it.
+	3.	Dive into Python, focusing heavily on AI and ML in the final year.
+
+I’m currently dedicating 45+ hours per week to studying and building projects, so I have the time and drive to make this happen.
+
+My questions:
+	1.	Is this plan realistic for a three-year time frame?
+	2.	Should I overlap learning these technologies, or stick to sequential learning as outlined?
+	3.	What are some must-have resources or strategies for progressing efficiently in each of these areas?
+
+I’d love to hear from anyone who’s attempted a similar journey or has experience with these tech stacks. Any advice, roadmap tips, or personal stories would be greatly appreciated!
+
+Thanks in advance!",Just_Candy_7160,1hcom4b,https://reddit.com/r/learnprogramming/comments/1hcom4b/mastery_in_programming/,https://www.reddit.com/r/learnprogramming/comments/1hcom4b/mastery_in_programming/,2024-12-12 16:16:06,1,0.67,1,0,5,0,0,False,False,True,False,False,,,t3_1hcom4b
+learnprogramming,Need some guidance on web dev and AI,"I am starting my 4th semester as a comp science major soon; all I know is DSA in C/C++, mid-level Java, and Python. I have completed around 200 questions on leetcode but I've realized the importance of projects so I would like to get started on that. I am considering starting Web Dev this semester and working on some projects before the end of this sem, but I'm also considering starting some ML and GenAI for projects. I am not sure if that is the right move considering I'm in a pretty competitive college that loves giving a lot of workloads but I do want to build my resume with at least 2-3 good projects and a decent leetcode profile before starting my 5th semester so I can apply for on-campus internships and by the end of 6th sem apply for google stem 2026. I could use some advice on this should I do web dev first then shift to ML or do them simultaneously?",thegreenarrow03,1hco5ku,https://reddit.com/r/learnprogramming/comments/1hco5ku/need_some_guidance_on_web_dev_and_ai/,https://www.reddit.com/r/learnprogramming/comments/1hco5ku/need_some_guidance_on_web_dev_and_ai/,2024-12-12 15:56:09,1,1.0,1,0,1,0,0,False,False,True,False,False,Topic,,t3_1hco5ku
+learnprogramming,Odin and App Academy Open,"I have completed the foundation of both Odin and App Academy Open. I really like the structure of AAO, but it seems to lack in complex full-fledged projects.
+
+So is it a good idea to complete AAO, and then do all the projects in Odin for learning and portfolio purposes? Thanks.
+
+Also, opinions on App Academy Open are welcome from those who have completed it.",Repulsive-Weather122,1hdbf8q,https://reddit.com/r/learnprogramming/comments/1hdbf8q/odin_and_app_academy_open/,https://www.reddit.com/r/learnprogramming/comments/1hdbf8q/odin_and_app_academy_open/,2024-12-13 12:46:03,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1hdbf8q
+learnprogramming,Is it a good idea to start the Odin project when I am learning a different programming language in university ?,"I am in my first year of university and we are doing Java. It’s just a basic intro to comp sci course, nothing I have not already done in high school. I really want to start the Odin project as I have heard a lot of good things but I also often hear it’s not a good idea to learn 2 programming languages at the same time. Would it be a problem for me to be doing JavaScript html css on my own for the Odin project and personal projects when university will have me doing Java for school projects or Should I just stick to Java? ",Top-Home4452,1hd7xi9,https://reddit.com/r/learnprogramming/comments/1hd7xi9/is_it_a_good_idea_to_start_the_odin_project_when/,https://www.reddit.com/r/learnprogramming/comments/1hd7xi9/is_it_a_good_idea_to_start_the_odin_project_when/,2024-12-13 08:32:21,0,0.5,0,0,6,0,0,False,False,True,False,False,,,t3_1hd7xi9
+learnprogramming,From Programmer to Plumber and back to Programming ,"Hello Everyone , i moved in United States (New York) in December 2023 through green card .
+
+I was a software developer back at my country for 4 years with a very good paying job and a very good work life balance. I had a lot of time to do also side projects and learn new things even at work which was very nice and challenging because we were always implementing new stuff and it was very fun. 
+
+Fast forward leaving my country for US it was a hard decision but because of the experience i thought why not do it let me try and maybe i can find a job and make my dream come true to work on a high-rise building in Manhattan.
+
+4Months i didn't find a single thing applying and applying the same thing every day and so i decided to start plumbing for prevailing wage which i waås getting good money for. Approx 1800-1900$ every week 
+
+So i went from a programmer to a plumber . I know it's a funny stroy but you gotta do whatever to survive and anyways last month that job came to an end and i haven't found a new job yet. So basically i'm not liking United States that much anymore and i really wanna go back even though we might start a new prevailing wage job which pays a lot of money/per week. I just wanna go back at my country and do programming which i find interest on doing and have been doing so for weeks .   
+  
+I just wanna know what you guys think in general about this whole situtation ?  
+Would you go back and quit getting a passport you have an opportunity or  work something totally different like i did on plumbing to get some money but you don't like doing it at all and you feel like do are doing it just to survive ?   
+  
+I really want you to put yourselves in my position and think . Thank you !  ",Stiven_ballshi,1hcwnig,https://reddit.com/r/learnprogramming/comments/1hcwnig/from_programmer_to_plumber_and_back_to_programming/,https://www.reddit.com/r/learnprogramming/comments/1hcwnig/from_programmer_to_plumber_and_back_to_programming/,2024-12-12 22:00:51,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1hcwnig
+learnprogramming,Analyzing messages with algorithm (AI?),"Hello. I have a large JSON file with an array of text messages describing specific topic in a simmilar-ish format that looks something like this:
+
+    Date: 12.12.2024 15:00
+    Coordinates: ...
+    Model: ...
+    Status: ...
+
+It's written by different people and can be inconsistent, ""Date"" might be called ""Time"" or it might be split into 2 lines ""Date"" and ""Time"", there might be ""-"" intead of "":"", extra spaces, grammar mistakes ect.  
+  
+Is there a good way analyze texts to extract relevant data? It needs to be run locally.",vvav3_,1hd76mw,https://reddit.com/r/learnprogramming/comments/1hd76mw/analyzing_messages_with_algorithm_ai/,https://www.reddit.com/r/learnprogramming/comments/1hd76mw/analyzing_messages_with_algorithm_ai/,2024-12-13 07:33:15,0,0.33,0,0,16,0,0,False,False,True,False,False,,,t3_1hd76mw
+learnprogramming,How to work on a project in my free time?,"As the title says, where is a good place to find projects to work on in my free time to brush up on my coding skills? trying to get back into it after being on a bit of a haitus (been having some life issues) and i'm not sure where to start, is there a good open source project to work on or a list of projects to pick from or something? I'm not too great at working without a good reason (i blame my ADD/ADHD), but i would like to find something to work on and brush up my skills. I have worked/learned with Java, C#, some javascript and C++, i'd be fine with any of those or potentially learning something new, any suggestions/advice is appreciated.",lloydsmith28,1hcw26b,https://reddit.com/r/learnprogramming/comments/1hcw26b/how_to_work_on_a_project_in_my_free_time/,https://www.reddit.com/r/learnprogramming/comments/1hcw26b/how_to_work_on_a_project_in_my_free_time/,2024-12-12 21:34:50,0,0.4,0,0,11,0,0,False,False,True,False,False,Resource,,t3_1hcw26b
+learnprogramming,What is the proper way to align items in the Body? (CSS),"Every time I look up something related to coding, I get endless answers and endless arguments in the comments on a proper method. SO here is a VERY simple question: How do I align elements in a body/div to the center in the most simple and effective way? ",skeetermcbeater,1hcuoba,https://reddit.com/r/learnprogramming/comments/1hcuoba/what_is_the_proper_way_to_align_items_in_the_body/,https://www.reddit.com/r/learnprogramming/comments/1hcuoba/what_is_the_proper_way_to_align_items_in_the_body/,2024-12-12 20:36:33,0,0.33,0,0,4,0,0,False,False,True,False,False,,,t3_1hcuoba
+learnprogramming,creating image generator ,Is it possible to make a free ai generator app using a free api ?  Not sure how that would work ?,Pistolaa,1hd52tq,https://reddit.com/r/learnprogramming/comments/1hd52tq/creating_image_generator/,https://www.reddit.com/r/learnprogramming/comments/1hd52tq/creating_image_generator/,2024-12-13 05:10:54,0,0.43,0,0,1,0,0,False,False,True,False,False,,,t3_1hd52tq
+learnprogramming,why do i have 21849 objects when pushing to git?,"I am so confused, pushing to repository is taking so long and i dont know why. I added better-auth along with sqlite3 to my next.js project in WebStorm. Does anybody know what causes this or how to fix it?",RealisticSwim9327,1hcpyc5,https://reddit.com/r/learnprogramming/comments/1hcpyc5/why_do_i_have_21849_objects_when_pushing_to_git/,https://www.reddit.com/r/learnprogramming/comments/1hcpyc5/why_do_i_have_21849_objects_when_pushing_to_git/,2024-12-12 17:13:58,0,0.25,0,0,7,0,0,False,False,True,False,False,Debugging,,t3_1hcpyc5
+learnprogramming,What Udemy/Coursera courses worth buying?,I am looking forward to learn Deep learning and AI before getting into LLMs. I already know ML and Data Analysis using python. I wanted to know few good courses one can follow to get a good understanding of these concepts.,Stoned_Shikari,1hcwws2,https://reddit.com/r/learnprogramming/comments/1hcwws2/what_udemycoursera_courses_worth_buying/,https://www.reddit.com/r/learnprogramming/comments/1hcwws2/what_udemycoursera_courses_worth_buying/,2024-12-12 22:12:10,0,0.17,0,0,3,0,0,False,False,True,False,False,,,t3_1hcwws2
+learnprogramming,Best Language for integrating AI into a website,Im wanting to create a website that has an AI addition too it. I'm probably going to use the openAI API for this but I'm wondering what language would be best to implement it into?,Its-LaGG,1hcrvu7,https://reddit.com/r/learnprogramming/comments/1hcrvu7/best_language_for_integrating_ai_into_a_website/,https://www.reddit.com/r/learnprogramming/comments/1hcrvu7/best_language_for_integrating_ai_into_a_website/,2024-12-12 18:36:01,0,0.2,0,0,2,0,0,False,False,True,False,False,Topic,,t3_1hcrvu7
+learnprogramming,How long does it take to learn algorithms? ,"I would like to ask you how much time it takes to study algorithms and what level of mathematics is needed to masterfully solve algorithmic programming problems. I have recently started learning some algorithms, but I still find it difficult to solve certain problems. It would be interesting to know how much time you spent on this. I would be grateful for your advice!
+
+",Equivalent_West_9831,1hctsfr,https://reddit.com/r/learnprogramming/comments/1hctsfr/how_long_does_it_take_to_learn_algorithms/,https://www.reddit.com/r/learnprogramming/comments/1hctsfr/how_long_does_it_take_to_learn_algorithms/,2024-12-12 19:57:48,0,0.37,0,0,23,0,0,False,False,True,False,False,,,t3_1hctsfr

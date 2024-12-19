@@ -1,0 +1,78 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,"I’m afraid to open source the data for my website, should I be?","I have made a free price comparison website for SaaS dev tools. And as the different categories and all the providers keep growing it will reach a point where keeping this up to date stops scaling time wise for me alone.
+
+The project is still small-ish, but its growing and the requests for adding and updating data is growing as well.
+
+So I’m thinking of open sourcing the pricing data so others can contribute if they want to, to keep the data up to date, and letting people add new categories or providers themselves.
+
+But my worries is that in the day of AI assistants like v0 and bolt, the data source will be used to copy my little site and that it will be overtaken by others.
+
+Is this a legit worry, or is the potential upside of having the tool grow and be a good resource for the community too great?
+
+The target audience is developers so most of them can copy this pretty easily, its not complicated code. It’s the gathering of data that stops the copies I think.
+
+I’ve been thinking of adding APIs for adding data as well, but I dont really think people will use that, what do you think?
+
+The last resort would be to set up scraping to keep the data updated, not really a path I want to take.",skorpioo,1hbvi13,https://reddit.com/r/webdev/comments/1hbvi13/im_afraid_to_open_source_the_data_for_my_website/,https://www.reddit.com/r/webdev/comments/1hbvi13/im_afraid_to_open_source_the_data_for_my_website/,2024-12-11 15:06:28,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1hbvi13
+webdev,Audio not playing in safari below ios 17,I am trying to play audio using the following function. But it is not working for safari mobile. Please help ,LancersGaeBulge,1hbuzzy,https://reddit.com/r/webdev/comments/1hbuzzy/audio_not_playing_in_safari_below_ios_17/,https://i.redd.it/f3i7uzkxe86e1.jpeg,2024-12-11 14:44:16,1,0.6,1,0,8,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/xmH1E9ktPs4smzIb_g0RtHIaDjVNe_EX_nSCIS3pN_M.jpg,t3_1hbuzzy
+webdev,I wrote 7 javascript based AI games in 7 days and learnt a lot about whats possible,,cokeandcode,1hbt1mc,https://reddit.com/r/webdev/comments/1hbt1mc/i_wrote_7_javascript_based_ai_games_in_7_days_and/,https://developers.rune.ai/blog/7-ai-games-in-7-days,2024-12-11 13:06:45,28,0.65,28,0,9,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/CUc1MI_O0e_djBV0kcq-_DaDCwc1F6BLhGNIGiRjf0Q.jpg,t3_1hbt1mc
+webdev,Finally will no longer get charged if you go over your usage on netlify. ,,josephadam1,1hbq2gj,https://reddit.com/r/webdev/comments/1hbq2gj/finally_will_no_longer_get_charged_if_you_go_over/,https://www.netlify.com/blog/introducing-netlify-free-plan/?utm_medium=email&amp;_hsenc=p2ANqtz-8Uld1uCkVaoSg8h507NxrTFAWHuHMhORvZ6uuJfYFbf4L0HbnvFvkv5dFsq3EwQ8L7oLrJgR-UkXdcUdqa0VpoKnW7CCdNOLjidCpCb4n_kHmB1aA&amp;_hsmi=337928257&amp;utm_content=337928257&amp;utm_source=hs_email,2024-12-11 09:51:02,13,0.83,13,0,3,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/7va2OC01n-9cBICqaS5wtZ1emBeeu5RWOWUrmsGXfzY.jpg,t3_1hbq2gj
+webdev,Cognitive Load is what matters,,fagnerbrack,1hbm4f4,https://reddit.com/r/webdev/comments/1hbm4f4/cognitive_load_is_what_matters/,https://github.com/zakirullin/cognitive-load,2024-12-11 05:06:07,33,0.92,33,0,4,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/rNf3WcxHGMQeb9avziBSU4Rc5nv2HaOs20Hw3bDPt4s.jpg,t3_1hbm4f4
+webdev,What is the best place to buy a Domain?,"I'm guessing GoDaddy is out of the question, soo what would be the best place to register one? (good pricing, support, trusted, etc.)",mingoslingo92,1hbd8x8,https://reddit.com/r/webdev/comments/1hbd8x8/what_is_the_best_place_to_buy_a_domain/,https://www.reddit.com/r/webdev/comments/1hbd8x8/what_is_the_best_place_to_buy_a_domain/,2024-12-10 21:46:41,99,0.91,99,0,174,0,0,False,False,True,False,False,,self,t3_1hbd8x8
+webdev,What is best way to limit what users can see/do?  Via cookies?  Recording IP address?  Something else?,"For example, when a news site like The Athletic lets you see, say, 5 articles for free and then tells you you've run out and it's time to pay.  
+
+I imagine they don't do it by cookies since you could delete the cookies or use incognito browser to get around it.
+
+So do they record the IP address you came from and restrict using that?  
+
+Or is there another method I'm not aware of?",gabbysal,1hbioo5,https://reddit.com/r/webdev/comments/1hbioo5/what_is_best_way_to_limit_what_users_can_seedo/,https://www.reddit.com/r/webdev/comments/1hbioo5/what_is_best_way_to_limit_what_users_can_seedo/,2024-12-11 02:01:08,32,0.84,32,0,28,0,0,False,False,True,False,False,,self,t3_1hbioo5
+webdev,Heading tag space,"While adding CSS of margin to let 2 div elements touch at the vertices, it was only possible to do so using h1 tag. Tried to use h2 but there is some kind of ghost space with h2. 
+
+Can any one tell me is that the case?
+
+[with h1](https://preview.redd.it/qcdxopsq286e1.png?width=1223&amp;format=png&amp;auto=webp&amp;s=5511fb7449534fc3f32486bc0430686bfa7cd776)
+
+[with h2](https://preview.redd.it/k226irsq286e1.png?width=1097&amp;format=png&amp;auto=webp&amp;s=e81c14e28d63049be12133b5130673173039f7c5)
+
+",mallickaniket,1hbtltf,https://reddit.com/r/webdev/comments/1hbtltf/heading_tag_space/,https://www.reddit.com/r/webdev/comments/1hbtltf/heading_tag_space/,2024-12-11 13:36:19,3,0.81,3,0,2,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/FQVk_CJ2n-ShDOTklrQa6jEamj3XIYjoAvmNofUFk4k.jpg,t3_1hbtltf
+webdev,Where would you host a web app expecting only about ~100 visitors per month?,"Where would you suggest a relatively new dev host a django app expecting about \~100 users per month, with a postgres database containing about 100-200 entries? I have experience with Heroku and pythonanywhere but Heroku is a bit too expensive for now($5 hosting + $9 postgres). I've also used DO spaces but never hosted there and don't want to deal with DevOps right now. I've also seen Namecheap suggestions but not a lot of reviews.",Uranusistormy,1hb8meb,https://reddit.com/r/webdev/comments/1hb8meb/where_would_you_host_a_web_app_expecting_only/,https://www.reddit.com/r/webdev/comments/1hb8meb/where_would_you_host_a_web_app_expecting_only/,2024-12-10 18:32:05,75,0.91,75,0,73,0,0,False,False,True,False,False,Question,self,t3_1hb8meb
+webdev,Water animation,"I'm pretty new into the Three.js world and I'm curious as to what would be a good starting point in building this water animation from Gentlerain's Homepage.
+
+URL: [https://www.gentlerain.ai/](https://www.gentlerain.ai/)
+
+Any recommendations are highly appreciated!",Seoulites,1hbor2x,https://reddit.com/r/webdev/comments/1hbor2x/water_animation/,https://www.reddit.com/r/webdev/comments/1hbor2x/water_animation/,2024-12-11 08:06:56,5,1.0,5,0,8,0,0,False,False,True,False,False,,self,t3_1hbor2x
+webdev,Can one url/link/web-address go to different websites? ,"Read this in full:
+
+I am not a programmer so I don’t know much on Computer Science.
+
+I was wondering if when I enter a website address in the search bar, if I click enter I go to one website but if I type the same address on the same search bar on the same device, I would then go to a different website?
+
+
+So much so that it is up to random chance as to which website I will go to? What if the websites that the URL goes to alternate on timed intervals? ",PuzzleheadedThroat84,1hbwjwh,https://reddit.com/r/webdev/comments/1hbwjwh/can_one_urllinkwebaddress_go_to_different_websites/,https://www.reddit.com/r/webdev/comments/1hbwjwh/can_one_urllinkwebaddress_go_to_different_websites/,2024-12-11 15:53:24,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hbwjwh
+webdev,"Web technologies that were the ""future"", but instead burned bright for a bit and died rapidly?",,zovered,1hbwczu,https://reddit.com/r/webdev/comments/1hbwczu/web_technologies_that_were_the_future_but_instead/,https://i.redd.it/nt7n5xufp86e1.png,2024-12-11 15:45:02,0,0.5,0,0,9,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/pdpVRvk-dZ1LCNmKtnxO0b88bDa0HNSBBSOmJ2CZsZY.jpg,t3_1hbwczu
+webdev,Postman | What data is ACTUALLY stored in their cloud?,"Postmans verbiage on this seems intentionally convoluted so curious if anyone can clear the air lol. What do they ACTUALLY store in the cloud? Secrets/API Tokens? Or is it Secrets/tokens, response data, bodys etc. or just literally everything. So If I pull sensitive data out of a DB, they store it?",Pidz_,1hbbk6q,https://reddit.com/r/webdev/comments/1hbbk6q/postman_what_data_is_actually_stored_in_their/,https://www.reddit.com/r/webdev/comments/1hbbk6q/postman_what_data_is_actually_stored_in_their/,2024-12-10 20:35:18,34,0.89,34,0,20,0,0,False,False,True,False,False,,self,t3_1hbbk6q
+webdev,Attribute {%if is not allowed here? and Attribute filter_vak is not allowed here?,"Can somebody help me fix this error? When I run the code in [app.py](http://app.py) everything works just fine.
+
+https://preview.redd.it/6d3zuh37n86e1.png?width=2940&amp;format=png&amp;auto=webp&amp;s=f074785ea728e4cc055227cc41f67142a4cefa92
+
+",Available_Giraffe_36,1hbw1n6,https://reddit.com/r/webdev/comments/1hbw1n6/attribute_if_is_not_allowed_here_and_attribute/,https://www.reddit.com/r/webdev/comments/1hbw1n6/attribute_if_is_not_allowed_here_and_attribute/,2024-12-11 15:31:10,1,1.0,1,0,3,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/4ULs8RoKKI3yisS-WxeCp414XgLKRsgbzdyX1ukrY3o.jpg,t3_1hbw1n6
+webdev,How can I host a one page website for free/minimal cost?,"Hi there. I’m new to web dev.
+
+I‘m an artist who posts my artwork and I‘m going to create a one page mini “website” to link all of my socials, etsy, recent videos, etc.. entirely out of html/css &amp; JavaScript. (Think linktree or carrd).
+
+How can I host this so I can share the link to my socials and have people view it? Thanks!
+
+edit: spelling",Ok-Sector-4695,1hb4vfa,https://reddit.com/r/webdev/comments/1hb4vfa/how_can_i_host_a_one_page_website_for_freeminimal/,https://www.reddit.com/r/webdev/comments/1hb4vfa/how_can_i_host_a_one_page_website_for_freeminimal/,2024-12-10 15:53:45,78,0.93,78,0,89,0,0,False,False,True,False,False,Question,self,t3_1hb4vfa
+webdev,Trying to create animation of cursor clicking through UI flow,"I'm working on a landing page and want to create an animation that shows a cursor clicking and entering text into a search bar, clicking on results, and so on...
+
+I would like it to be vector illustrated so it looks sharp. 
+
+I'm not sure what tools are available to accomplish this. I was looking at Framer Motion, but it seems like I'll need to code the actual elements and animate them. Which is fine - since I'm a coder, I should be handle that. But I'm just wondering if there are easier ways.
+
+TIA",bttf88,1hbvtt0,https://reddit.com/r/webdev/comments/1hbvtt0/trying_to_create_animation_of_cursor_clicking/,https://www.reddit.com/r/webdev/comments/1hbvtt0/trying_to_create_animation_of_cursor_clicking/,2024-12-11 15:21:26,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hbvtt0
+webdev,How to achieve new test environemtn for every feature?,"Hi, I'd like to ask for help with how I can achieve different test environments for every feature. For example, if I have feature-1 and it is ready to be tested, I would like to have [feature-1.site.com](http://feature-1.site.com) as test environment, and so forth for every feature that is ready for testing.",LongjumpingLaugh8766,1hbtjmg,https://reddit.com/r/webdev/comments/1hbtjmg/how_to_achieve_new_test_environemtn_for_every/,https://www.reddit.com/r/webdev/comments/1hbtjmg/how_to_achieve_new_test_environemtn_for_every/,2024-12-11 13:33:07,0,0.5,0,0,5,0,0,False,False,True,False,False,,self,t3_1hbtjmg
+webdev,"Storing data per ""session""(?) on WordPress","Hi, working on a plugin that's meant to store the previous URL that a user was on. Headers didn't work for me as it would not persist if you say navigated straight to the login page rather than going to the home page -&gt; (optional) any other page -&gt; login.
+
+Here is the part of the plugin: [https://gist.github.com/cyrus01337/3fb366f421a6fffad166879b057a14b1](https://gist.github.com/cyrus01337/3fb366f421a6fffad166879b057a14b1)
+
+I've left my attempts at using cookies as comments, is there anything I could be missing?",TheWordBallsIsFunny,1hbpy4h,https://reddit.com/r/webdev/comments/1hbpy4h/storing_data_per_session_on_wordpress/,https://www.reddit.com/r/webdev/comments/1hbpy4h/storing_data_per_session_on_wordpress/,2024-12-11 09:41:49,2,1.0,2,0,5,0,0,False,False,True,False,False,Question,self,t3_1hbpy4h

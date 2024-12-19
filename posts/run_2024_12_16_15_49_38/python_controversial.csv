@@ -1,0 +1,315 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,"GOAL: let the code focus on the core business logic and easy to maintain, pydantic-resolve","Last time my readme was failed, the highest comment is ""I do not understand what it does ..."", I learned from comments and revamped the doc a lot, hope this time it is more readable.
+
+
+What My Project Does:
+
+https://github.com/allmonday/pydantic-resolve
+
+pydantic-resolve is a lightweight wrapper library based on pydantic. It adds resolve and post methods to **pydantic** and **dataclass** objects.
+
+Problems to solve
+
+If you have ever written similar code and felt unsatisfied, pydantic-resolve can come in handy.
+
+```python
+story_ids = [s.id for s in stories]
+tasks = await get_all_tasks_by_story_ids(story_ids)
+
+story_tasks = defaultdict(list)
+
+for task in tasks:
+    story_tasks[task.story_id].append(task)
+
+for story in stories:
+    tasks = story_tasks.get(story.id, [])
+    story.tasks = tasks
+    story.total_task_time = sum(task.time for task in tasks)
+    story.total_done_tasks_time = sum(task.time for task in tasks if task.done)
+    story.complex_result = ... calculation with many line
+```
+
+The problem is, this snippet mixed data fetching, traversal, variables and **business logic** together, which makes the core logic not easy to read.
+
+pydantic-resolve can help **split them apart**, let developer focus on the core business logic, and leave other jobs to `Resolver().resolve`
+
+it introduced `resolve_method` for data fetching and `post_method` for extra midification after fetched.
+
+and the TaskLoader can be reused like a common component to load tasks by story_id
+
+```python
+from pydantic_resolve import Resolver, LoaderDepend, build_list
+from aiodataloader import DataLoader
+
+
+# data fetching
+class TaskLoader(DataLoader):
+    async def batch_load_fn(self, story_ids):
+        tasks = await get_all_tasks_by_story_ids(story_ids)
+        return build_list(tasks, story_ids, lambda t: t.story_id)
+
+# core business logics
+class Story(Base.Story):
+    # fetch tasks
+    tasks: List[Task] = []
+    def resolve_tasks(self, loader=LoaderDepend(TaskLoader)):
+        return loader.load(self.id)
+
+    # calc after fetched
+    total_task_time: int = 0
+    def post_total_task_time(self):
+        return sum(task.time for task in self.tasks)
+
+    total_done_task_time: int = 0
+    def post_total_done_task_time(self):
+        return sum(task.time for task in self.tasks if task.done)
+    
+    complex_result: str = ''
+    def post_complex_result(self):
+        return  ... calculation with many line
+  
+# traversal and execute methods (runner)
+await Resolver().resolve(stories)
+```
+
+pydantic-resolve can easily be applied to more complicated scenarios, such as:
+
+A list of sprint, each sprint owns a list of story, each story owns a list of task, and do some modifications or calculations.
+
+```python
+# data fetching
+class TaskLoader(DataLoader):
+    async def batch_load_fn(self, story_ids):
+        tasks = await get_all_tasks_by_story_ids(story_ids)
+        return build_list(tasks, story_ids, lambda t: t.story_id)
+
+class StoryLoader(DataLoader):
+    async def batch_load_fn(self, sprint_ids):
+        stories = await get_all_stories_by_sprint_ids(sprint_ids)
+        return build_list(stories, sprint_ids, lambda t: t.sprint_id)
+
+# core business logic
+class Story(Base.Story):
+    tasks: List[Task] = []
+    def resolve_tasks(self, loader=LoaderDepend(TaskLoader)):
+        return loader.load(self.id)
+
+    total_task_time: int = 0
+    def post_total_task_time(self):
+        return sum(task.time for task in self.tasks)
+
+    total_done_task_time: int = 0
+    def post_total_done_task_time(self):
+        return sum(task.time for task in self.tasks if task.done)
+
+
+class Sprint(Base.Sprint):
+    stories: List[Story] = []
+    def resolve_stories(self, loader=LoaderDepend(StoryLoader)):
+        return loader.load(self.id)
+    
+    total_time: int = 0
+    def post_total_time(self):
+        return sum(story.total_task_time for story in self.stories)
+
+    total_done_time: int = 0
+    def post_total_done_time(self):
+        return sum(story.total_done_task_time for story in self.stories)
+    
+
+# traversal and execute methods (runner)
+await Resolver().resolve(sprints)
+```
+
+which equals to...
+
+```python
+sprint_ids = [s.id for s in sprints]
+stories = await get_all_stories_by_sprint_id(sprint_ids)
+
+story_ids = [s.id for s in stories]
+tasks = await get_all_tasks_by_story_ids(story_ids)
+
+sprint_stories = defaultdict(list)
+story_tasks = defaultdict(list)
+
+for story in stories:
+    sprint_stories[story.sprint_id].append(story)
+
+for task in tasks:
+    story_tasks[task.story_id].append(task)
+
+for sprint in sprints:
+    stories = sprint_stories.get(sprint.id, [])
+    sprint.stories = stories
+
+    for story in stories:
+        tasks = story_tasks.get(story.id, [])
+        story.total_task_time = sum(task.time for task in tasks)
+        story.total_done_task_time = sum(task.time for task in tasks if task.done)
+
+    sprint.total_time = sum(story.total_task_time for story in stories) 
+    sprint.total_done_time = sum(story.total_done_task_time for story in stories) 
+```
+
+&gt; dataloader can be optimized by ORM relationship if the data can be join internally. (dataloader is a more universal way)
+",TurbulentAd8020,1hf4i4v,https://reddit.com/r/Python/comments/1hf4i4v/goal_let_the_code_focus_on_the_core_business/,https://www.reddit.com/r/Python/comments/1hf4i4v/goal_let_the_code_focus_on_the_core_business/,2024-12-15 22:43:31,0,0.5,0,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1hf4i4v
+Python,Documenting my First 30 Days Of Programming Python,"Over the last 30 days i have been learning to programming and been doing a good job with consistently getting better and learning new things. Was just wondering if i can get anyones opinion  on what they think about my youtube channel i made to document my progress. If u do check i tout Please And Thank you.
+
+[https://www.youtube.com/watch?v=lh7\_GZ6W6Jo](https://www.youtube.com/watch?v=lh7_GZ6W6Jo)",Automatic-Ad-2580,1hewn0k,https://reddit.com/r/Python/comments/1hewn0k/documenting_my_first_30_days_of_programming_python/,https://www.reddit.com/r/Python/comments/1hewn0k/documenting_my_first_30_days_of_programming_python/,2024-12-15 16:49:35,0,0.41,0,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hewn0k
+Python,Replicating the MATLAB Workspace in Python?,"Hi experienced python users. I am here seeking your advice.
+
+INTRO/CONTEXT: I taught myself to code in MATLAB and R. I mostly use MATLAB because it does better with the larger array sizes I need for my research. I am trying to transfer over to Python to join the modern era. I know how to code for my purposes, but I am a novice to python, though I am learning quickly. 
+
+THE PROBLEM: The absence of a workspace bothers me. I am very used to monitoring defined variables and size of data structures in my workspace. I use it often to ensure my analysis code is doing what I want it to. Now that I don’t have it, I realize I am actually fairly reliant on it. Is there something that can replicate this in Python? If not, are there any coding practices that help you guys keep track of these things?
+
+Edit (Pertinent Information): I am using Jupityr Notebooks within Pycharm.
+
+Note - Scientific View is great, but it doesn’t give me the same basic information as a workspace as far as I can tell. I just want a list of defined variables and their sizes, maybe the ability to expand and view each one?
+
+Secondarily - is this a bad habit? I am self-taught, so I am definitely open to feedback.
+",adambarrack,1hf6uem,https://reddit.com/r/Python/comments/1hf6uem/replicating_the_matlab_workspace_in_python/,https://www.reddit.com/r/Python/comments/1hf6uem/replicating_the_matlab_workspace_in_python/,2024-12-16 00:37:39,10,0.65,10,0,34,0,0,False,False,True,False,False,Discussion,self,t3_1hf6uem
+Python,Summarized how the CIA writes Python,"I have been going through Wikileaks and exploring Python usage within the CIA.
+
+They have coding standards and write Python software with end-user guides.
+
+They also have some curious ways of doing things, tests for example.
+
+They also like to work in internet-disconnected environments.
+
+They based their conventions on a modified Google Python Style Guide, with practical advice.
+
+Compiled [my findings](https://compileralchemy.substack.com/p/how-the-cia-writes-python).
+
+",appinv,1hez6qa,https://reddit.com/r/Python/comments/1hez6qa/summarized_how_the_cia_writes_python/,https://www.reddit.com/r/Python/comments/1hez6qa/summarized_how_the_cia_writes_python/,2024-12-15 18:43:03,643,0.91,643,0,78,0,0,False,False,True,False,False,News,self,t3_1hez6qa
+Python,Python Subprocess BlockingIOError,"Hi Python developers,
+
+Anyone know about the issue. Please explain and how to solve it?
+
+
+
+with sync\_playwright() as p:  
+  File ""/usr/local/lib/python3.11/site-packages/playwright/sync\_api/\_context\_manager.py"", line 77, in \_\_enter\_\_  
+dispatcher\_fiber.switch()  
+  File ""/usr/local/lib/python3.11/site-packages/playwright/sync\_api/\_context\_manager.py"", line 56, in greenlet\_main  
+self.\_loop.run\_until\_complete(self.\_connection.run\_as\_sync())  
+  File ""/usr/local/lib/python3.11/asyncio/base\_events.py"", line 654, in run\_until\_complete  
+return future.result()  
+\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^  
+  File ""/usr/local/lib/python3.11/site-packages/playwright/\_impl/\_connection.py"", line 263, in run\_as\_sync  
+await self.run()  
+  File ""/usr/local/lib/python3.11/site-packages/playwright/\_impl/\_connection.py"", line 272, in run  
+await self.\_transport.connect()  
+  File ""/usr/local/lib/python3.11/site-packages/playwright/\_impl/\_transport.py"", line 133, in connect  
+raise exc  
+  File ""/usr/local/lib/python3.11/site-packages/playwright/\_impl/\_transport.py"", line 120, in connect  
+self.\_proc = await asyncio.create\_subprocess\_exec(  
+\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^  
+  File ""/usr/local/lib/python3.11/asyncio/subprocess.py"", line 223, in create\_subprocess\_exec  
+transport, protocol = await loop.subprocess\_exec(  
+\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^  
+  File ""/usr/local/lib/python3.11/asyncio/base\_events.py"", line 1708, in subprocess\_exec  
+transport = await self.\_make\_subprocess\_transport(  
+\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^  
+  File ""/usr/local/lib/python3.11/asyncio/unix\_events.py"", line 207, in \_make\_subprocess\_transport  
+transp = \_UnixSubprocessTransport(self, protocol, args, shell,  
+\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^  
+  File ""/usr/local/lib/python3.11/asyncio/base\_subprocess.py"", line 36, in \_\_init\_\_  
+self.\_start(args=args, shell=shell, stdin=stdin, stdout=stdout,  
+  File ""/usr/local/lib/python3.11/asyncio/unix\_events.py"", line 818, in \_start  
+self.\_proc = subprocess.Popen(  
+\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^\^  
+  File ""/usr/local/lib/python3.11/subprocess.py"", line 1026, in \_\_init\_\_  
+self.\_execute\_child(args, executable, preexec\_fn, close\_fds,  
+  File ""/usr/local/lib/python3.11/subprocess.py"", line 1885, in \_execute\_child  
+[self.pid](http://self.pid) = \_fork\_exec(  
+\^\^\^\^\^\^\^\^\^\^\^  
+BlockingIOError: \[Errno 11\] Resource temporarily unavailable  
+\[2024-12-14, 00:52:06 UTC\] {base\_events.py:1785} ERROR - Future exception was never retrieved  
+future: &lt;Future finished exception=BlockingIOError(11, 'Resource temporarily unavailable')&gt;  
+  
+",Particular_Young3797,1hfgjj2,https://reddit.com/r/Python/comments/1hfgjj2/python_subprocess_blockingioerror/,https://www.reddit.com/r/Python/comments/1hfgjj2/python_subprocess_blockingioerror/,2024-12-16 10:51:18,0,0.33,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hfgjj2
+Python,django-ngrok: One command to run your Django development server and tunnel to it with ngrok,"Hi everyone!
+
+I work with webhooks quite a lot in my professional life, which means I'm almost always running ngrok alongside my Django development server. So I created a package that simplifies launching and configuring ngrok for use with Django.
+
+## What my project does
+This package introduces a new Django command, `runserver_ngrok`, that launches ngrok after the Django development server boots. The command simply extends the built-in `runserver` command to launch ngrok using `ngrok-python`, meaning you don't even have to install the ngrok binary.
+
+## Target audience
+This is intended for Django developers who, like me, also use ngrok in their daily workflows.
+
+## Comparison
+I have yet to find a similar package that offers this functionality.
+
+Would love some feedback! Check it out on GitHub:
+
+https://github.com/samamorgan/django-ngrok",samamorgan,1hf0ci6,https://reddit.com/r/Python/comments/1hf0ci6/djangongrok_one_command_to_run_your_django/,https://www.reddit.com/r/Python/comments/1hf0ci6/djangongrok_one_command_to_run_your_django/,2024-12-15 19:34:39,14,0.89,14,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1hf0ci6
+Python,"A Satirical ""Enterprise-Grade"" Birthday Wishing Bot","https://github.com/Shredmetal/Enterprise-grade-birthday-wisher-bot-AWS-lambda
+
+**What My Project Does**
+
+I wanted to close off 2024 with a meme project in the spirit of FizzBuzzEnterpriseEdition, so I massively overengineered a birthday wishing bot and covered it in 2024 tropes like shoehorning AI in there together with serverless cloud architecture.
+
+Includes joke LICENSE and CODEOWNERS files.
+
+The architecture is actually cost-efficient and I pay $0.00 per month (AWS has a remarkably generous free tier for Lambda).
+
+It could be made more enterprise-grade with more design patterns and more unnecessarily complicated exception handling but it's December and nearly time for my vacation.
+
+**Target Audience**
+
+It's a joke project, so I hope it's funny to some of you.
+
+**Comparison**
+
+It's a joke project that doesn't solve a real problem. Can probably be compared with other satirical overengineering projects.",Dependent_Chard_498,1hfaswv,https://reddit.com/r/Python/comments/1hfaswv/a_satirical_enterprisegrade_birthday_wishing_bot/,https://www.reddit.com/r/Python/comments/1hfaswv/a_satirical_enterprisegrade_birthday_wishing_bot/,2024-12-16 04:08:13,28,0.89,28,0,3,0,0,False,False,True,False,False,Showcase,self,t3_1hfaswv
+Python,Monday Daily Thread: Project ideas!,"# Weekly Thread: Project Ideas 💡
+
+Welcome to our weekly Project Ideas thread! Whether you're a newbie looking for a first project or an expert seeking a new challenge, this is the place for you.
+
+## How it Works:
+
+1. **Suggest a Project**: Comment your project idea—be it beginner-friendly or advanced.
+2. **Build &amp; Share**: If you complete a project, reply to the original comment, share your experience, and attach your source code.
+3. **Explore**: Looking for ideas? Check out Al Sweigart's [""The Big Book of Small Python Projects""](https://www.amazon.com/Big-Book-Small-Python-Programming/dp/1718501242) for inspiration.
+
+## Guidelines:
+
+* Clearly state the difficulty level.
+* Provide a brief description and, if possible, outline the tech stack.
+* Feel free to link to tutorials or resources that might help.
+
+# Example Submissions:
+
+## Project Idea: Chatbot
+
+**Difficulty**: Intermediate
+
+**Tech Stack**: Python, NLP, Flask/FastAPI/Litestar 
+
+**Description**: Create a chatbot that can answer FAQs for a website.
+
+**Resources**: [Building a Chatbot with Python](https://www.youtube.com/watch?v=a37BL0stIuM)
+
+# Project Idea: Weather Dashboard
+
+**Difficulty**: Beginner
+
+**Tech Stack**: HTML, CSS, JavaScript, API
+
+**Description**: Build a dashboard that displays real-time weather information using a weather API.
+
+**Resources**: [Weather API Tutorial](https://www.youtube.com/watch?v=9P5MY_2i7K8)
+
+## Project Idea: File Organizer
+
+**Difficulty**: Beginner
+
+**Tech Stack**: Python, File I/O
+
+**Description**: Create a script that organizes files in a directory into sub-folders based on file type.
+
+**Resources**: [Automate the Boring Stuff: Organizing Files](https://automatetheboringstuff.com/2e/chapter9/)
+
+Let's help each other grow. Happy coding! 🌟",AutoModerator,1hf62db,https://reddit.com/r/Python/comments/1hf62db/monday_daily_thread_project_ideas/,https://www.reddit.com/r/Python/comments/1hf62db/monday_daily_thread_project_ideas/,2024-12-16 00:00:10,4,0.71,4,0,1,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hf62db

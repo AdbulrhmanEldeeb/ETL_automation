@@ -1,0 +1,745 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Being different from the programming stereotype: is it possible to be successful in the field? ,"I'm a 17-year-old girl who's going to graduate soon and really wants to pursue a career in technology and programming. My big dilemma is that my profile doesn't match the image that people have of people who work in technology (in fact, I'd say I'm the opposite). 
+
+I didn't grow up playing video games, watching anime or immersed in geek culture. I was never that student who excelled in exact sciences at school, I even had a lot of difficulty in some subjects, despite never having to recover or anything like that.
+
+Even so, every day I become more interested, I bought books, took courses (Gustavo Guanabara was a great find in my life) and I participate in groups of programmers and students, which helps a lot, in fact, there they talk about their daily lives and their experience. in programming, on the other hand, I even feel embarrassed to join these groups because of the huge number of men, and even the girls, I haven't seen any that really look like me, they also follow a pattern.
+
+ I tried to read a lot and research about all the difficulties and challenges, and I really believe that it really is my dream, not because of the false illusions of absurd salaries, I really love the idea of ​​working with this.
+
+What makes me so fearful and fearful, in fact, is that the impression is becoming stronger and stronger that those who are successful have always had a natural talent for technology and exact sciences, something that I don't have even remotely, I barely know how to use it. I disagree to this day. 
+
+This makes me wonder if I can really fit into a college (I want a federal one), for example. I would probably be overwhelmed both by the subjects I tried to learn at school and by the students and teachers who wouldn't take me seriously. Everyone I talk to about my desire takes a long time to believe, they say it “doesn't suit me” or that I should look for something else, but it's something I truly believe I love.
+
+Anyone who has experience in the area, have you ever seen someone with a more “non-standard” profile in the area still do well? Sometimes I wonder if actually following this stereotype would make that much of a difference, but I also feel like I would be chopped into little pieces when entering a federal college, for example (I'm from Brasília, so on top of that it would be UNB). I wanted to better understand how things work in practice, I definitely don't want to be the type of person who gives up in the first semester. Does anyone know what they would do in my place?",MissLovelyMess,1heroa4,https://reddit.com/r/learnprogramming/comments/1heroa4/being_different_from_the_programming_stereotype/,https://www.reddit.com/r/learnprogramming/comments/1heroa4/being_different_from_the_programming_stereotype/,2024-12-15 12:33:29,0,0.46,0,0,52,0,0,False,False,True,False,False,,,t3_1heroa4
+learnprogramming,what does Senior programmer?,"Hey!
+
+5 years ago i finished my school as a junior programmer as a web developer, backend+frontend. 
+
+Ive been programming since then, codes like php, react, css. But now im looking around to get apply for other jobs and i see, 80% are asking for senior programmers. Its insane, not even mid but senior.
+
+So i am wondering, what makes a senior programmer? How can i identify myself as a senior programmer when i apply for developer jobs?
+
+as a note, i am talking about web development, i'm very good with, php/laravel, react and css/tailwind.",The-Music-God,1hefjic,https://reddit.com/r/learnprogramming/comments/1hefjic/what_does_senior_programmer/,https://www.reddit.com/r/learnprogramming/comments/1hefjic/what_does_senior_programmer/,2024-12-14 23:30:31,0,0.5,0,0,15,0,0,False,False,True,False,False,Topic,,t3_1hefjic
+learnprogramming,Is IT just not for me? [Ranting],"TL;DR: I feel miserable studying IT. Should I quit it and do something else? What can I pursue?
+
+Howdie!
+
+I'm a 16 years old guy living in Russia (becoming 17 yo in 5 days). I'm in my 10'th year of school (out of 11) and in the 10'th year of school in my city (just the city, not the country), a student must pick what they want to study in order to do specialized preparation for state exams and university enrollment. The choice is: medicine, engineering, IT, business/economics, media and psychology/teaching. There is no middle ground for those who can't decide; to add more, our schools don't have any kind of guidance counselling, nor any sort of career guidance at all! We must just know what we want to do in the future already.
+
+I knew about this system since I was 10 and I've been desperately trying to figure out what I'm good at for more than 6 years already. I had been reading tons of articles for years, tried learning natural sciences, game developing, writing literature (fictional and non fictional), learning languages, translating and localizing, drawing, composing music, 3D modeling, video editing and so many other things I can't even remember all of them. That's how I found Reddit, by the way. I learned English mostly by reading the discussions here.
+
+However, instead of finding something I want to do as a career, I gained even more doubts because what I liked and became passionate about (reading and writing, composing music, translating and localizing) are either low-paying or dying careers.
+
+The only things I became certain about are:
+
+1. I have bad spatial reasoning. I have tough time imagining and visualing even basic figures in 3D.
+2. I work better with abstract, non-visual concepts and information (texts, maths outside of geometry, tables, theoretical informatics)
+3. I do everything slowly, but carefully. If someone rushes me, I become even slower and my work becomes way worse due to the stress. I've been rushed by my teachers and classmates through my whole school life.
+4. The subjects at school I do the best and enjoy the most are english, russian, literature, algebra and informatics (we didn't study programming, only abstract theory about how information works, not even in computers).
+
+I picked IT because I enjoyed informatics and it could lead to a better career than, say, media. It's been the 4'th month and I'm devastated.
+
+First of all, we're already expected to know how to programm in C++ with Arduino and in Python with libraries (numpy, pandas, matplotlib, pyQT and Flask). Nobody's teaching us programming at school at all, but whenever we're failing, the teachers reply 'But you're programmers! You must know it already!' and refuse to help. I'm using ChatGPT to complete the tasks and I feel very guilty for it. I wanted to learn how to programm, but instead of explaining a bit, we're just thrown to practice immediately.
+
+Second of all, we're studying in person for 48 hours a week (from monday to friday). We must attend a college every tuesday and university every wednesday.
+
+Moreover, we have loads of homework from the school, university, college, and we must make 2 individual projects with a deadline in a month. The projects must be complex, absolutely new and demanded, they should contain at least a thousand of lines of code in Python without any empty lines. We must also watch and read online lectures from school and university and complete tests after them. We do a lot of statics, dynamics and 3D mechanical drawing besides the main curriculum and I suck at it (bad spatial reasoning).
+
+That's definetely not what I expected and including the fact I'm not burning with a passion for computers and programming in general, this led me to a miserable life. I just had some sort of interest, but it's not enough to bear all of the pressure from school. I experience insane amounts of stress, having mental breakdowns and weeping in horror every week, my head and spine constantly hurt, even though I was in great health just half a year ago. I started forgetting things after several minutes (my memory's been good throughout my life). I feel how I'm going insane and it terrifies me. My grades at maths, informatics and physics are getting worse and worse.
+
+My classmates, on the other hand, are mostly chill and enjoy doing what we're told to do. A lot of them are really passionate about programming and computers. Some were taking programming courses and made personal projects before. They're not only able to keep up with the pace, they're even asking for more tasks and lessons.
+
+This has brought me to think if I should quit studying IT if I'm not passionate about it. Should I do it? If so, what else could I study, considering my self-assessment?
+
+Thank you for reading!",SubnRelay,1he5qak,https://reddit.com/r/learnprogramming/comments/1he5qak/is_it_just_not_for_me_ranting/,https://www.reddit.com/r/learnprogramming/comments/1he5qak/is_it_just_not_for_me_ranting/,2024-12-14 15:51:47,0,0.5,0,0,14,0,0,False,False,True,False,False,,,t3_1he5qak
+learnprogramming,Giving up programming after 5 years trying it.,"This is more of a vent than anything else, and maybe it will be useful to someone as to not give up too late as I did.
+
+You see, Programming is an ability that much like a Soccer Player, an Artist, etc, you either can do it or you can't. You see some people simply sit in front of the keyboard, and in less than 10 seconds they write 30 lines of code, whereas others like me, even trying so hard to dig in deep into the subject, couldn't even get past my 5th line. To have that level of understanding, in less than one year some people may do what you took 3 or 4 to make.
+
+Programming is an exceptional and amazing ability, maybe professional programmers don't see it as outsiders like me do, but if you can code, you do HAVE a really valuable ability that sooooo many people wish they had, so try not to stress that much over non important things, because you are amazing.
+
+Unfortunately, I won't be there with you guys. The competition is harsh, and I can no longer keep being left behind in a market I can't compete. Just wanted to let it all out.
+
+It's no shame if you're in doubt if you should quit or not. To lose a battle is natural, but as long as you can keep standing. I will still stand, but somewhere else that fits me more. It's not healthy either to keep doing something that clearly isn't giving results. It was a good (and LONG, long long) journey.
+
+printf(""Good Bye Programming World"");",BananaDressedRedMan,1henffh,https://reddit.com/r/learnprogramming/comments/1henffh/giving_up_programming_after_5_years_trying_it/,https://www.reddit.com/r/learnprogramming/comments/1henffh/giving_up_programming_after_5_years_trying_it/,2024-12-15 07:19:12,198,0.78,198,0,159,0,0,False,False,True,False,False,,,t3_1henffh
+learnprogramming,Logical mobile games,Is there any good apps on App Store  to improve logical thinking and overall get a better programming mindset? Don’t necessarily need to be a “game” ,Cruxx222,1hectsl,https://reddit.com/r/learnprogramming/comments/1hectsl/logical_mobile_games/,https://www.reddit.com/r/learnprogramming/comments/1hectsl/logical_mobile_games/,2024-12-14 21:21:01,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1hectsl
+learnprogramming,I am desperate. Please give me some advice or your opinion,"I joined the university this year to study Computer Science, and the first semester is almost over. I was surprised to find that most of the students already had a background in programming, and many of them had even participated in creating software or games before joining the university. As for me, I am not exaggerating when I say that I saw programming code for the first time in my life when I entered the university. I had no background in computers because I never owned one before, and worse, when I was in school, I didn't learn anything about computers (my school didn't have a computer curriculum). So, I can say that when I joined the university, my background was zero (and it's not an exaggeration—it was the first time I worked on a computer). Now, after the first semester, I am feeling scared and hesitant about continuing my journey. You might say that I'm rushing, but in university, it's like I’m competing with monsters, and I feel like I have no chance against them... I don’t know what to do now. I don't like feeling so far behind. I really don’t know what to do... I don’t know how long it will take for me to catch up. I want your opinion, without emotion or encouragement: should I continue, or is it better to look for another university major before it's too late?",Charlotte_009_OSHM,1hess01,https://reddit.com/r/learnprogramming/comments/1hess01/i_am_desperate_please_give_me_some_advice_or_your/,https://www.reddit.com/r/learnprogramming/comments/1hess01/i_am_desperate_please_give_me_some_advice_or_your/,2024-12-15 13:40:50,1,0.6,1,0,23,0,0,False,False,True,False,False,,,t3_1hess01
+learnprogramming,"How to ""get"" a language on a device","I'm not new to computers, I understand the basics of software, but I am much more learned in hardware and hardware level software i.e machine code. I want to expand my knowledge and bridge the gap between the two by learning some high-level mainstream languages like Java, Python, some or any of the Cs, you name it. I did try to get Python on my laptop, but it was on the command prompt and you enter it one line at a time. Never really went anywhere with that. Any pointers as to how to actually ""get"" one?",Effective_Fish_857,1hel3xj,https://reddit.com/r/learnprogramming/comments/1hel3xj/how_to_get_a_language_on_a_device/,https://www.reddit.com/r/learnprogramming/comments/1hel3xj/how_to_get_a_language_on_a_device/,2024-12-15 04:42:05,0,0.4,0,0,5,0,0,False,False,True,False,False,,,t3_1hel3xj
+learnprogramming,Data Structure and Algorithim,"I have been learning python for about 4 months and I realize I need to learn algorithim.
+
+I learned that it is a set of step by step instructions on how to perform a task.
+
+Basically a set of steps on how to solve a problem.
+
+When I code I find myself solving the problems inefficiently or not knowing why th code is right or wrong.
+
+Now I do have some understanding when doing simple projects but as I start to do more advanced projects I do not know where to start and even when I look it up I don't understand why they use those methods or why they used that process to code. Also, I want to escape tutorial hell.
+
+**My question is how can I learn algorithms also do I need to learn data strucure along with?**
+
+**Do I learn both at the same time or can I do one at a time?**
+
+Right now I am watching Youtube Videos on this subject, but are there other resources out that are helpful?
+",TheEyebal,1hejumo,https://reddit.com/r/learnprogramming/comments/1hejumo/data_structure_and_algorithim/,https://www.reddit.com/r/learnprogramming/comments/1hejumo/data_structure_and_algorithim/,2024-12-15 03:25:37,0,0.4,0,0,2,0,0,False,False,True,False,False,,,t3_1hejumo
+learnprogramming,Suggested path to Android helloworld for experienced coder,"Greetings!  Been coding in Fortran/Pascal/APL/C/Matlab/Python since 1975. My preferred toolchain is all Linux/open source.  Have never written an Android app, and my first plan would be a calculator for a specialized application. Would consider to develop directly on my (unrooted) phone annoying as that might be, but perhaps should develop on my linux boxes and upload (i barely know how to upload an app that isnt on google play).  I never learned java,  can I develop in python for android? Should i use Kotlin? Something else?  My goal is quick spin up.
+
+Lots of questions here ... all input welcome.",bertrand_franklin,1he6zcf,https://reddit.com/r/learnprogramming/comments/1he6zcf/suggested_path_to_android_helloworld_for/,https://www.reddit.com/r/learnprogramming/comments/1he6zcf/suggested_path_to_android_helloworld_for/,2024-12-14 16:50:34,1,0.6,1,0,6,0,0,False,False,True,False,False,,,t3_1he6zcf
+learnprogramming,How do I solve issues in my code ,"Hey, I am beginner in the proraming world. I hade followed some python and kivy (Ui framework) courses, and now I want to make my own game. I'm making the game to start to actually become a programmer (but also because it is for school). But the thing is that I keep having issues and needing help structuring my code. Before I used chatgpt to help me, but it was basically writting the code for me (I want to learn), so I stopped. 
+
+I was trying to read documentation, but they it seems like it does nto adress my specific problem. And I don't want to keep copying code from chatgpt or other online sources. Whay should I do? Should I continue reading documentation? if yes, how am I supposed to find the answer I look for? Or do you think that there is other ways that would teach me to learn from the issues I get ?
+
+  
+ps: I do not have anyone that can help on codding isssues. Also, I'm scarred that the issues I get are way deeper than just the function I was trying to use. Like maybe it because of smt esle, and dont think it very feasible for me, or any beginner, to find the solution if the issue is deeply rooted in the language. ",Evening_Leader_1409,1he5736,https://reddit.com/r/learnprogramming/comments/1he5736/how_do_i_solve_issues_in_my_code/,https://www.reddit.com/r/learnprogramming/comments/1he5736/how_do_i_solve_issues_in_my_code/,2024-12-14 15:26:12,0,0.43,0,0,2,0,0,False,False,True,False,False,,,t3_1he5736
+learnprogramming,Read some code before making your first project ,Let us say that you have learned all basic (let us say Python) syntax. You know how to use classes and have some idea of how code to make modular code ( classes and modules). There seems to be a general consensus that the next step is to make a project. I do not disagree but I also learn a lot from reading code ( quality code). I learn smart patterns and solutions I will never come up with myself. Why is not looking at other solutions an advice?,Wise-Ad-7492,1heorok,https://reddit.com/r/learnprogramming/comments/1heorok/read_some_code_before_making_your_first_project/,https://www.reddit.com/r/learnprogramming/comments/1heorok/read_some_code_before_making_your_first_project/,2024-12-15 09:01:10,11,0.74,11,0,7,0,0,False,False,True,False,False,,,t3_1heorok
+learnprogramming,Common Misconceptions About Open-Source,"I work in OSS based company, have my own popular OSS projects, and contribute to OSS, for last 15 years. So no BS.
+
+1\. ""If I share my code, someone will steal my idea""
+
+The success of a project depends on people, not just the code. You can also protect yourself legally by choosing the right license.
+
+2. ""Open-source equals free""
+
+Open-sourcing simply means sharing your work with the public. It doesn't dictate anything about the commercial aspects of your project.
+
+3. ""If I open-source my product, no one will buy it""
+
+There are many ways to legally protect your product from unauthorized use. Companies take licensing seriously because violating licenses can create significant problems during audits, investments, or certifications. The risks of abusing licenses aren't worth it.
+
+In fact, being open-source can be a major selling point, as it reduces vendor lock-in risks and helps with security audit processes.
+
+4. ""Open-sourcing means giving away control to the community""
+
+It's perfectly acceptable to reject community contributions that don't align with your vision. You're not obligated to build a community around your project.
+
+5. ""Only developers can contribute to open-source""
+
+Many projects actually struggle with user interfaces, design, documentation, and community support. Whatever your skills are, you can likely contribute meaningfully to open-source projects.
+
+6. ""Open-source is all about code""
+
+Open-source is fundamentally about sharing, not just code. For example, projects like [undraw.co](http://undraw.co) demonstrate how designers can contribute to the open-source community.
+
+Remember: Open-source is a development philosophy and licensing approach that promotes transparency and collaboration. It doesn't mean giving up control, losing commercial opportunities, or limiting contributions to just code.",leonidbugaev,1hepxuq,https://reddit.com/r/learnprogramming/comments/1hepxuq/common_misconceptions_about_opensource/,https://www.reddit.com/r/learnprogramming/comments/1hepxuq/common_misconceptions_about_opensource/,2024-12-15 10:31:02,6,0.71,6,0,3,0,0,False,False,True,False,False,Resource,,t3_1hepxuq
+learnprogramming,hi what do if this is shown when i deploy ,"# The install worked successfully! Congratulations!
+
+You are seeing this page because [DEBUG=True](https://docs.djangoproject.com/en/4.2/ref/settings/#debug) is in your settings file and you have not configured any URLs.",wiw_a,1heu0kz,https://reddit.com/r/learnprogramming/comments/1heu0kz/hi_what_do_if_this_is_shown_when_i_deploy/,https://www.reddit.com/r/learnprogramming/comments/1heu0kz/hi_what_do_if_this_is_shown_when_i_deploy/,2024-12-15 14:46:46,1,0.67,1,0,2,0,0,False,False,True,False,False,,,t3_1heu0kz
+learnprogramming,Errors in using integrations,"Hello, I am trying to integrate my server with [sentry.io](http://sentry.io) data  
+Why do I get an error every time I want to declare an integration? 
+
+    &lt;script&gt;
+      Sentry.init({
+        dsn: """",
+        integrations: [
+           new Sentry.BrowserTracing({
+            tracingOrigins: [""localhost"", ""your-domain.com""],
+          }),
+        ],
+        tracesSampleRate: 1.0
+      });
+    &lt;/script&gt;
+    
+
+Uncaught TypeError: Sentry.BrowserTracing is not a constructor
+
+    &lt;script&gt;
+      Sentry.init({
+        dsn: """",
+        integrations: [
+           Sentry.BrowserTracing({
+            tracingOrigins: [""localhost"", ""your-domain.com""],
+          }),
+        ],
+        tracesSampleRate: 1.0
+      });
+    &lt;/script&gt;
+
+Uncaught TypeError: Sentry.BrowserTracing is not a function
+
+    &lt;script&gt;
+      Sentry.init({
+        dsn: """",
+        integrations: [
+           Sentry.BrowserTracing
+        ],
+        tracesSampleRate: 1.0
+      });
+    &lt;/script&gt;
+
+Uncaught TypeError: Cannot read properties of undefined (reading 'name')
+
+at integration.ts:37:67
+
+at Array.every (&lt;anonymous&gt;)
+
+at integration.ts:37:26
+
+at Array.filter (&lt;anonymous&gt;)
+
+at integration.ts:36:23
+
+at on (integration.ts:75:3)
+
+at t.setupIntegrations (baseclient.ts:236:28)
+
+at t.bindClient (hub.ts:133:14)
+
+at sdk.ts:33:7
+
+at t.init (sdk.ts:97:3)
+
+Then I don't understand at all how I should use these integrations if there is an error every time...",Tough_Pride4428,1hetokb,https://reddit.com/r/learnprogramming/comments/1hetokb/errors_in_using_integrations/,https://www.reddit.com/r/learnprogramming/comments/1hetokb/errors_in_using_integrations/,2024-12-15 14:29:11,0,0.5,0,0,0,0,0,False,False,True,False,False,Debugging,,t3_1hetokb
+learnprogramming,Im 38 and wondering if i am too old to start programming as i am not looking to go to my previous job.,"Started with fundamentals of the odin project and after that i have no idea how to continue, should i go with js or ruby on rails or look for something else? Any guidance will be highly appreciated. ",Diligent_Elephant_88,1hesxm7,https://reddit.com/r/learnprogramming/comments/1hesxm7/im_38_and_wondering_if_i_am_too_old_to_start/,https://www.reddit.com/r/learnprogramming/comments/1hesxm7/im_38_and_wondering_if_i_am_too_old_to_start/,2024-12-15 13:49:17,11,0.87,11,0,13,0,0,False,False,True,False,False,,,t3_1hesxm7
+learnprogramming,What could I use that is like WebObjects on server-side that would work on the modern web today?,What server-side products could I potentially use that work a lot like WebObjects workflows? ,shirimpu,1hemltf,https://reddit.com/r/learnprogramming/comments/1hemltf/what_could_i_use_that_is_like_webobjects_on/,https://www.reddit.com/r/learnprogramming/comments/1hemltf/what_could_i_use_that_is_like_webobjects_on/,2024-12-15 06:19:34,0,0.5,0,0,2,0,0,False,False,True,False,False,,,t3_1hemltf
+learnprogramming,What is the best inside-view perfect maze generation algorithm?,"What is the best inside-view perfect rectangular maze gen algorithm/the best maze generation algorithm with one solution that takes the longest to get through if you are inside of it(not top-view). I don't care how long it takes to generate or if it looks appealing.
+
+Example: long passages could be bad because you could easily see dead ends and rush through the correct paths. Many long corridors with twisting corners would be better as you would have to explore each path in-depth. Also, maze generation algorithms with common patterns such as the binary tree algorithm which makes obvious diagonal paths are bad.
+
+Many posts and videos that went over the best maze generation algorithm included how good it was from the top-view(not inside-view), generation speed, and live generation/finished look or satisfaction, making them not reasonable rankings for my requirements.",DaRealNoteed,1he9zsr,https://reddit.com/r/learnprogramming/comments/1he9zsr/what_is_the_best_insideview_perfect_maze/,https://www.reddit.com/r/learnprogramming/comments/1he9zsr/what_is_the_best_insideview_perfect_maze/,2024-12-14 19:10:38,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1he9zsr
+learnprogramming,"I want to create apps with a 10-foot user interface for use on the Steam Deck, where should I start?","Any tips or directions I could follow are greatly appreciated, Thank You!",agoe1179,1he7l9y,https://reddit.com/r/learnprogramming/comments/1he7l9y/i_want_to_create_apps_with_a_10foot_user/,https://www.reddit.com/r/learnprogramming/comments/1he7l9y/i_want_to_create_apps_with_a_10foot_user/,2024-12-14 17:18:58,0,0.5,0,0,7,0,0,False,False,True,False,False,,,t3_1he7l9y
+learnprogramming,Finding a free tutor to learn c# or c++,"Hello, i want to code and when i tried free websites that teach coding they were outdated or very hard to understand and as someone who only knows how to type Hello world I couldn't understand so i ended up here. :)",Suitable-Seesaw3164,1hep4cr,https://reddit.com/r/learnprogramming/comments/1hep4cr/finding_a_free_tutor_to_learn_c_or_c/,https://www.reddit.com/r/learnprogramming/comments/1hep4cr/finding_a_free_tutor_to_learn_c_or_c/,2024-12-15 09:28:33,0,0.22,0,0,7,0,0,False,False,True,False,False,,,t3_1hep4cr
+learnprogramming,Learn Functional Programming - free online book,"I wrote a book dedicated to helping beginners truly understand the functional programming concepts. It's been available for purchase on Leanpub for a while, but recently I decided to make it free for everyone on this URL: [https://learn-functional-programming.com/](https://learn-functional-programming.com/) (no registration or any such thing required)
+
+Most examples are in JavaScript, as it is probably the single most widely recognized programming language, but there is also some Clojure and many others here and there. My focus was on explaining \_what\_ the concepts are and \_why\_ we even use them rather than to delve too deeply into any particular area, so you'll even find pseudo-code.
+
+I really hope this will be helpful to anyone here who is new to functional programming or programming in general. Let me know in the comments. Happy coding!",Feeling_Huckleberry6,1heoqmk,https://reddit.com/r/learnprogramming/comments/1heoqmk/learn_functional_programming_free_online_book/,https://www.reddit.com/r/learnprogramming/comments/1heoqmk/learn_functional_programming_free_online_book/,2024-12-15 08:59:04,5,0.69,5,0,3,0,0,False,False,True,False,False,,,t3_1heoqmk
+learnprogramming,Beyond motivation,I think we've taken a big step towards success once we've really understood that programming is above all a question of logic and problem-solving rather than memorization.,Super_Letterhead381,1heqfqp,https://reddit.com/r/learnprogramming/comments/1heqfqp/beyond_motivation/,https://www.reddit.com/r/learnprogramming/comments/1heqfqp/beyond_motivation/,2024-12-15 11:07:36,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1heqfqp
+learnprogramming,Beginner project suggestion,I am coding in CPP since 4 months now and I want to build some projects to improve my proficiency in CPP. Can  someone suggest me some beginner level projects ? What about building a compiler in CPP?,Background-Duty-8577,1hektd2,https://reddit.com/r/learnprogramming/comments/1hektd2/beginner_project_suggestion/,https://www.reddit.com/r/learnprogramming/comments/1hektd2/beginner_project_suggestion/,2024-12-15 04:23:52,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1hektd2
+learnprogramming,Fastest Path?,"I know that programming, like any skill, takes a lot or time and work to learn but i would like to ask what is the fastest and adequately comprehensive route to learn javascript and react. I would like to get to a level that lets me build fullstack websites - or apps with react native.
+
+I don't care about the time and money i need to put in, at the end of the day an initial investment now will save a lot later.",RadiantVermicelli827,1heju8l,https://reddit.com/r/learnprogramming/comments/1heju8l/fastest_path/,https://www.reddit.com/r/learnprogramming/comments/1heju8l/fastest_path/,2024-12-15 03:24:58,11,0.79,11,0,24,0,0,False,False,True,False,False,,,t3_1heju8l
+learnprogramming,"I want to work in software engineering/machine learning in the future, but I cannot study pure CS as it is hard to transfer into. Should I study Linguistics and CS, Applied Math, or Data Science if there is a possibility I will do a bootcamp in the future? What downsides are there?","For context, I am currently in my last year of transferring with three classes of math and two classes of CS already finished. I want to transfer to only UCLA or UCB. My end goal is to become a software engineer at a FAANG company or any high-paying corporation and hopefully make my own startup. However, CS is 1. Way too hard to transfer into for these college as it is only a 5% acceptance rate, and 2. I struggle with learning physics and I am not good with the hardware aspects of CS. (A separate question could be if it is better to just lock in and tackle those physics classes despite how difficult it is for me)
+
+I know that the CS market right now is hard for new grads, especially with finding internships, so going to a boot camp after college is not out of the realm for me, in order to obtain more practical skills and apply for mid-senior level positions. However, I have heard that going to a boot camp kills your ability to understand a lot of the theoretical knowledge for CS that may not always be used, but is important for some positions and for making your own company.
+
+Right now I am leaning towards the Ling + CS major, as I am able to learn all the courses in the CS department if I wish to, as well as learn some NLP programming which is a field that I would be happy to have more opportunities in. Right now my only concern is that if I end up learning a boot camp anyways, would it not be more useful to learn another major like Applied Math or DS that will prepare me for problem solving and ML better than a Ling + CS degree?
+
+I guess a more broad question is this, **if my goal is to transfer into a college in the hopes of eventually working as a software engineer/machine learning or making my own startup, what would be the best major for me to pick to study with/without a boot camp?**",Kitchen_Client_8067,1helrh5,https://reddit.com/r/learnprogramming/comments/1helrh5/i_want_to_work_in_software_engineeringmachine/,https://www.reddit.com/r/learnprogramming/comments/1helrh5/i_want_to_work_in_software_engineeringmachine/,2024-12-15 05:23:40,0,0.38,0,0,7,0,0,False,False,True,False,False,,,t3_1helrh5
+learnprogramming,I've put off coding/programming learning due to lack of in school classes.,"So I'm a little old school - in my late 40's. I'm used to learning the BASICS in a class. I was great with programming when I was 18 but fell short of continuing school. So I've put off doing anything due to not being able to actually find the introductory class physically at a school. So if definitely looks like it's not even an option anymore. and I'm not really even near a school anymore anyways. I know there is freecodecamp and many other similar sites out there. I think freecodecamp is great once you have the basics down. Is there such thing as an actual class online for the basics:  HTML CSS and Java?  With more of a class structure?  I recently took Chemistry online (HS prep at a college) - I was shocked I was able to do Chemistry online and do well!  I was just looking at MIT opencourseware, the only online free courses I see are for more advanced  computer science courses. Nothing for beginners.  Anyone have some suggestions?",RVKelly,1hehuqy,https://reddit.com/r/learnprogramming/comments/1hehuqy/ive_put_off_codingprogramming_learning_due_to/,https://www.reddit.com/r/learnprogramming/comments/1hehuqy/ive_put_off_codingprogramming_learning_due_to/,2024-12-15 01:30:58,2,0.67,2,0,3,0,0,False,False,True,False,False,,,t3_1hehuqy
+learnprogramming,Struggling with Math for Algorithms,"Hey everyone, I’m 24 and heading back to school next semester after not touching math seriously for over six years. I’ve done about 90% of CS50x and nearly finished CS50 Python, plus some background in C and Python. I’m really enjoying Python lately, but I’m noticing that a lot of algorithm courses assume a strong math background—especially for complex problems, induction proofs, and more advanced techniques.
+
+I picked up “Everything You Need to Ace Pre-Algebra and Algebra 1” but feel overwhelmed. I learn best through videos and hands-on practice, and while “Grokking Algorithms” is a great, simplified start, it’s not digging into the deeper math or theory. The most complex data structure I’ve handled was a linked list in C (which felt more tangible with malloc and all), but in Python it’s straightforward to just use lists without understanding the lower-level details. I really want to build a solid foundation so I can confidently tackle more complex algorithmic challenges, but my weak math background is holding me back.
+
+Has anyone else been in this situation? How did you strengthen your math skills and connect them to tougher algorithm problems? Any advice or resources would be super appreciated!",ghostarty,1hea4fq,https://reddit.com/r/learnprogramming/comments/1hea4fq/struggling_with_math_for_algorithms/,https://www.reddit.com/r/learnprogramming/comments/1hea4fq/struggling_with_math_for_algorithms/,2024-12-14 19:16:24,0,0.33,0,0,3,0,0,False,False,True,False,False,Resource,,t3_1hea4fq
+learnprogramming,PYTHON FINAL PDF,"I have a final for cmpsc 132 coming up. It's
+basically 2nd course of Python. I will post the list
+of topics below. It's heavy on 7-14 but is
+cumulative. I am allowed to use any PDF files i
+want for notes or whatever as long as its a pdf.
+Are there any ideas for what I could use to do
+well?
+1.Intro CMPSC132
+2.Basic data structure in python
+3. Dictionary and Function in python
+4.00P
+5. Methods
+6. Message Passing Type
+7. Algorithm and Data Structure
+8. Stack
+9. Queue and Dequeue
+10. Linked List
+11. Recursion
+12.Tree-Basic
+13. Tree-heap
+14. Graph.paf",kingkamikaze69,1he9y25,https://reddit.com/r/learnprogramming/comments/1he9y25/python_final_pdf/,https://www.reddit.com/r/learnprogramming/comments/1he9y25/python_final_pdf/,2024-12-14 19:08:26,0,0.25,0,0,5,0,0,False,False,True,False,False,,,t3_1he9y25
+learnprogramming,Coding for a waste oil heater,"I am fairly computer savvy but know absolutely nothing about coding, so that being said, I’ve got a diy waste oil heater and am wanting to run either a pump with PWM, or a positive displacement pump with a PWM solenoid running like a fuel injector, I would like to run a device that can be coded to increase flow or decrease flow depending on temperature of the heater to avoid melt down or insufficient burn using a thermistor. 
+My question, what kind of device can be coded to do such, and will I likely have to have it running them at 12/24 DC, and will they be able to run it ",Sly_d3ath,1hef0px,https://reddit.com/r/learnprogramming/comments/1hef0px/coding_for_a_waste_oil_heater/,https://www.reddit.com/r/learnprogramming/comments/1hef0px/coding_for_a_waste_oil_heater/,2024-12-14 23:04:50,6,0.88,6,0,10,0,0,False,False,True,False,False,Topic,,t3_1hef0px
+learnprogramming,I can't seem to fully grasp the concept of the return function,"So I've been trying to grasp this concept for a while and it just won't stick for me. All I know is that the Return function basically returns a value to its original caller. I get that. What I don't get is how to utilize that new information effectively. 
+
+  
+The 2 methods provided below is a snippet from a course I'm learning. I understand everything except return. Where does the value that is returned go? How could I further utilize it? 
+
+        void GenerateQuestion()
+        { 
+            var qa = GenerateAddSubtract(1,100);
+          
+            _messageBoxTextField.text = qa.question;
+            ClearInputField();
+        }
+    
+        private (string question, int answer) GenerateAddSubtract(int min, int max)
+        {
+            int operand1 = Random.Range(min, max);
+            int operand2 = Random.Range(min, max);
+    
+            string question = """";
+            //Convert Random Value into a 50/50 to determine ""Add or Subtract""
+            if (Random.value &lt; 0.5f)
+            {
+                question = $""{operand1} + {operand2} = ?"";
+                answer = operand1 + operand2;
+            }
+            else
+            {
+                question = $""{operand1} - {operand2} = ?"";
+                answer = operand1 - operand2;
+            }
+    
+            return (question, answer);
+        }",Certain_Ad_9366,1hejht1,https://reddit.com/r/learnprogramming/comments/1hejht1/i_cant_seem_to_fully_grasp_the_concept_of_the/,https://www.reddit.com/r/learnprogramming/comments/1hejht1/i_cant_seem_to_fully_grasp_the_concept_of_the/,2024-12-15 03:04:37,9,0.91,9,0,20,0,0,False,False,True,False,False,,,t3_1hejht1
+learnprogramming,"I want to create a web app. Is learning HTML, CSS and JavaScript enough?","Hi everybody!
+
+I would like to create a web app. My problem is I only studied some C at university 20+ years ago. 
+
+Needless to say I don't know anything. I know it would be easier, faster and most likely better to hire someone to create the app, but I really want to learn.
+
+My app would be a game to help people learn a skill (diabolo juggling), giving them a list of things they can work on next (linked to a tutorial) dependent on what they already learned. I would like to be able to add to the skill tree whenever I want (ie when I create more tutorials).
+
+My questions are:
+
+What do I need to learn/use to create this app? 
+
+Is learning HTML, CSS and JavaScript enough or do I need to know more?",DiaboloClo,1he6amn,https://reddit.com/r/learnprogramming/comments/1he6amn/i_want_to_create_a_web_app_is_learning_html_css/,https://www.reddit.com/r/learnprogramming/comments/1he6amn/i_want_to_create_a_web_app_is_learning_html_css/,2024-12-14 16:18:11,79,0.94,79,0,46,0,0,False,False,True,False,False,,,t3_1he6amn
+learnprogramming,What’s is your favorite way to learn programming?,Just curious as I would like to hear some different perspectives.,Basic-Love1427,1heddf6,https://reddit.com/r/learnprogramming/comments/1heddf6/whats_is_your_favorite_way_to_learn_programming/,https://www.reddit.com/r/learnprogramming/comments/1heddf6/whats_is_your_favorite_way_to_learn_programming/,2024-12-14 21:46:24,65,0.94,65,0,45,0,0,False,False,True,False,False,,,t3_1heddf6
+learnprogramming,Should I Learn a Database Language While Learning Backend?,"I'm learning Spring. Should I be learning a database language at the same time, or should I first focus on Spring?",GladRefrigerator7285,1he4rz1,https://reddit.com/r/learnprogramming/comments/1he4rz1/should_i_learn_a_database_language_while_learning/,https://www.reddit.com/r/learnprogramming/comments/1he4rz1/should_i_learn_a_database_language_while_learning/,2024-12-14 15:06:05,16,0.94,16,0,24,0,0,False,False,True,False,False,,,t3_1he4rz1
+learnprogramming,I am 24 ...I own a small business but want to learn coding.,"I have learned basics of python and want to learn more of it....but there is a big fuss about coding is going to be irrelevant in the future because of AI....
+I don't want to spend time on a skill that would be irrelevant .....or am I missing something here ?....can anyone please help me.
+",_siham_,1heubn3,https://reddit.com/r/learnprogramming/comments/1heubn3/i_am_24_i_own_a_small_business_but_want_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1heubn3/i_am_24_i_own_a_small_business_but_want_to_learn/,2024-12-15 15:02:01,1,0.52,1,0,8,0,0,False,False,True,False,False,,,t3_1heubn3
+learnprogramming,How to get better at designing your systems and splitting up functionality in clean ways?,"Hi! I've been a professional developer for 3 years but I find myself running into this pretty often. Any time I need to make a new system, I find myself struggling to decide where to draw the line inside how the program functions, to split things up ""correctly"". 
+
+I'm familiar with design principles like single use and DRY and ""orthogonality"", but I tend to struggle to put it into real use. For example, I'm making a sort of Oregon Trail text game for fun right now, and I'm always asking myself when trying to insert a new function to the program ""where should this go?"". If I have a class that handles text (dealing with flow of dialogue, moving in the correct order, pausing where needed, inserting variables like player names and player inventory) and a class that handles the game flow (starting, exiting, saving, loading, etc) which one should get the ability to prompt the player for an option? Should they *both* have this ability, and should I make another class that handles all forms of user input? The menu to choose dialogue and the menu to exit the game may be pretty different, or they could be very similar. 
+
+And then I end up in a seemingly endless loop of trying to rearrange things, only to stumble into a different weakness of the design. Anytime I add something new, it's a major question of ""where does this fit?"", which tends to change a lot of other things, which I know is a big sign that I'm doing some things pretty wrong with designing my programs. 
+
+It's honestly possible I'm just overthinking (maybe I'm too early in the program because it's not at any kind of functional state at the moment, so all these ARE major design decisions that SHOULD be hard), or maybe I'm underthinking (should I graph this out instead?) or something else. I'd just love some tips on tackling this in the future. ",mellow_cellow,1heu71j,https://reddit.com/r/learnprogramming/comments/1heu71j/how_to_get_better_at_designing_your_systems_and/,https://www.reddit.com/r/learnprogramming/comments/1heu71j/how_to_get_better_at_designing_your_systems_and/,2024-12-15 14:55:52,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1heu71j
+learnprogramming,Best websites to offer services,"Hope yall having a great day,
+
+Im a student hoping to make some money on the side, i have some web developing experiance and i would like to offer services to make some money and experiance, what platfoem would you suggest for me to use, and what tips should i know while setting up my profile and lastly how do i calculate the pricing?
+
+Thank you in advance",CorgiRecent7132,1heu6f5,https://reddit.com/r/learnprogramming/comments/1heu6f5/best_websites_to_offer_services/,https://www.reddit.com/r/learnprogramming/comments/1heu6f5/best_websites_to_offer_services/,2024-12-15 14:54:57,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1heu6f5
+learnprogramming, I am learning programming and I want to get a job at Toptal. What are your opinions about it? ,"Hi everyone!
+I'm currently learning programming, data science and artiificial intelligence and my goal is to eventually land a job with Toptal. I’ve heard a lot about how selective they are and the rigorous process they have for hiring developers. I would love to hear from people who have gone through the process or have experience working there.
+
+What skills should I focus on to increase my chances of getting hired? Are there any resources or tips you would recommend to help me prepare? How challenging is the interview process, and how long does it typically take?
+
+Looking forward to your insights and advice!
+
+
+ why I want to work in toptal, I don't have graduation and I live far from the City so I have to travel everyday for 3 hours to go to the office and the same for the coming (average).everyday 6 hours average for just travelling.
+
+And why not other platforms than toptal,because toptal provides  projects for a long time better than fiver upwork",JuniorGround62,1hetaqq,https://reddit.com/r/learnprogramming/comments/1hetaqq/i_am_learning_programming_and_i_want_to_get_a_job/,https://www.reddit.com/r/learnprogramming/comments/1hetaqq/i_am_learning_programming_and_i_want_to_get_a_job/,2024-12-15 14:08:59,3,1.0,3,0,2,0,0,False,False,True,False,False,,,t3_1hetaqq
+learnprogramming,Learning programming from different resources is amazing.,"The information never ends.
+I'm using the best places like mozilla ,  React and node course by Maximillian , fullstackopen and they all connect.
+I learn useEffect in the react course, next thing I see in the fso that useEffect is perfect for communicating with the server. If you're constantly reading different resources you develop an Idea of what to use when. So if you're feeling stuck as a newcomer just try to look at different things to get a broader idea of what's going on.",AriGT25,1hesnrd,https://reddit.com/r/learnprogramming/comments/1hesnrd/learning_programming_from_different_resources_is/,https://www.reddit.com/r/learnprogramming/comments/1hesnrd/learning_programming_from_different_resources_is/,2024-12-15 13:34:10,1,1.0,1,0,2,0,0,False,False,True,False,False,Resource,,t3_1hesnrd
+learnprogramming,BIG legacy monolith: how to deploy it securely?,"Hi!
+
+Anyone working here with big (and by big I mean really big) legacy monolith? And with a lot of devs with various levels of experience... And most of them fresh in the company?
+
+I wonder how do you approach deployment in such kind of cases? Is everyone allowed to do this? How do you train new people so they can also feel welcomed to deploy it? What processes have you built around it? Do you prefer Big Bang but well tested releases once a week or continuous integration with small, easy to rollback features?
+
+Happy to hear all kind of stories: scary stories about Monoliths which barely had any monitoring and tests and cheerful ones about fully automated workflows. ",IndividualSecret1,1hesbim,https://reddit.com/r/learnprogramming/comments/1hesbim/big_legacy_monolith_how_to_deploy_it_securely/,https://www.reddit.com/r/learnprogramming/comments/1hesbim/big_legacy_monolith_how_to_deploy_it_securely/,2024-12-15 13:13:37,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1hesbim
+learnprogramming,What database should I use for my app? ,"I'm building an app with Flutter that right now is fairly basic regarding data but will definitely grow in complexity in the future. 
+
+
+It has documents of text that are associated with results from an already existing search engine that creates uniqueIDs for each result. So I just need to save the uniqueID to the document and it should be easy to get from the database. 
+
+
+Each text document is broken into paragraphs, in the future users should be able to comment on each paragraph, which will be visible to other users.  
+
+
+There will also be multiple translations of each document. 
+
+
+I would like to be able to search by key phrases and words, which seems doable. In the future I would also like to be able to search by grammatical structures, verb tenses, etc. I think this will require pre-analyzing the text and adding tags to it and then searching the tags.  
+
+
+Users should be able to access these text documents and then create new versions of them into a new document (while preserving the original) and saving that to a personal library + to a public directory if they desire. 
+
+
+It may at some point become more of a social app where users can message and add friends, etc. but that is extremely far off. 
+
+
+I am somewhat new to development, so I'm hoping to find an intuitive solution. I've used Firebase in the past and it was pretty easy, plus the built in user authentication was nice. ",gn-04,1hes863,https://reddit.com/r/learnprogramming/comments/1hes863/what_database_should_i_use_for_my_app/,https://www.reddit.com/r/learnprogramming/comments/1hes863/what_database_should_i_use_for_my_app/,2024-12-15 13:07:47,1,0.67,1,0,1,0,0,False,False,True,False,False,,,t3_1hes863
+learnprogramming,How advanced would I have to be to code my project?,"I’ve been learning python for a few months now and get the basics to some extent. 
+
+My end goal is to make my own marketplace discord notification bots for Vinted or FB marketplace.
+
+Are these projects fairly simple or too advanced for me?",Few-Chipmunk-5957,1hes3vl,https://reddit.com/r/learnprogramming/comments/1hes3vl/how_advanced_would_i_have_to_be_to_code_my_project/,https://www.reddit.com/r/learnprogramming/comments/1hes3vl/how_advanced_would_i_have_to_be_to_code_my_project/,2024-12-15 13:00:47,2,1.0,2,0,1,0,0,False,False,True,False,False,Topic,,t3_1hes3vl
+learnprogramming,AppleScript: How to preserve email formatting when duplicating drafts in Apple Mail?,"HI!!
+
+I'm creating a Python-based mail merge tool that uses Apple Mail drafts as templates. The goal is to duplicate the drafts, replace placeholders like \[Name\] with data from an Excel file, and retain the original formatting (bold, italics, etc.).
+
+What’s going wrong:
+
+The issue is that when the draft is duplicated and modified using AppleScript, the formatting of the original draft is lost. Instead, the new drafts appear in plain text.
+
+When I run the script, the generated drafts do not contain the formatted text.
+
+thank you very much in advance for your help
+
+    import pandas as pd
+    import tkinter as tk
+    from tkinter import filedialog, messagebox, ttk
+    import subprocess
+    import os
+    
+    def list_drafts():
+        """"""Fetches all drafts' subjects from Apple Mail using AppleScript.""""""
+        script = """"""
+        tell application ""Mail""
+            set draftSubjects to {}
+            repeat with aMessage in (messages of drafts mailbox)
+                set end of draftSubjects to subject of aMessage
+            end repeat
+            return draftSubjects
+        end tell
+        """"""
+        try:
+            result = subprocess.check_output([""osascript"", ""-e"", script]).decode().strip()
+            return result.split("", "") if result else []
+        except subprocess.CalledProcessError as e:
+            messagebox.showerror(""Error"", f""Failed to fetch drafts:\n{e.output.decode().strip()}"")
+            return []
+    
+    def generate_csv(excel_path):
+        """"""Reads an Excel file and converts it to a DataFrame.""""""
+        try:
+            df = pd.read_excel(excel_path)
+            if df.empty or ""Name"" not in df.columns or ""Email"" not in df.columns:
+                raise ValueError(""The Excel file must have at least two columns: 'Name' and 'Email'."")
+            return df
+        except Exception as e:
+            messagebox.showerror(""Error"", f""Failed to process Excel file: {e}"")
+            raise e
+    
+    def create_and_run_applescript(selected_draft, df):
+        """"""Generates and runs AppleScript to create email drafts in Apple Mail, preserving formatting.""""""
+        script_header = f""""""
+        tell application ""Mail""
+            set selectedDraft to (first message of drafts mailbox whose subject is ""{selected_draft}"")
+        """"""
+        script_body = """"
+    
+        # Build the AppleScript dynamically for each row in the Excel file
+        for _, row in df.iterrows():
+            recipient_name = row['Name']
+            recipient_email = row['Email']
+            script_body += f""""""
+            set draftBody to content of selectedDraft -- Preserve the original formatting
+            set newBody to my replace_text(draftBody, ""[Name]"", ""{recipient_name}"") -- Replace only the placeholder
+    
+            set newMessage to make new outgoing message with properties {{subject:""{selected_draft}"", content:newBody, visible:false, sender:""info@nathaliedecoster.com""}}
+            tell newMessage
+                make new to recipient at end of to recipients with properties {{address:""{recipient_email}""}}
+                save
+            end tell
+            """"""
+    
+        script_footer = """"""
+        end tell
+    
+        on replace_text(theText, theSearch, theReplace)
+            -- Replace text carefully while preserving formatting
+            set AppleScript's text item delimiters to theSearch
+            set theItems to every text item of theText
+            set AppleScript's text item delimiters to theReplace
+            set theText to theItems as text
+            set AppleScript's text item delimiters to """"
+            return theText
+        end replace_text
+        """"""
+    
+        full_script = script_header + script_body + script_footer
+    
+        # Save and execute AppleScript
+        try:
+            applescript_path = os.path.join(os.getcwd(), ""mail_merge_preserve_formatting.scpt"")
+            with open(applescript_path, ""w"") as f:
+                f.write(full_script)
+            subprocess.check_output([""osascript"", applescript_path])
+            messagebox.showinfo(""Success"", ""Drafts created successfully in Apple Mail!"")
+        except subprocess.CalledProcessError as e:
+            messagebox.showerror(""Error"", f""AppleScript execution failed:\n{e.output.decode().strip()}"")
+    
+    def browse_excel_file():
+        """"""Opens a file dialog to select an Excel file.""""""
+        file_path = filedialog.askopenfilename(title=""Select Excel File"", filetypes=[(""Excel files"", ""*.xlsx"")])
+        if file_path:
+            excel_path_var.set(file_path)
+    
+    def generate_drafts():
+        """"""Processes the selected draft and Excel file to generate drafts.""""""
+        excel_path = excel_path_var.get()
+        selected_draft = draft_var.get()
+        if not excel_path or not selected_draft:
+            messagebox.showerror(""Error"", ""Please select an Excel file and a draft!"")
+            return
+    
+        try:
+            df = generate_csv(excel_path)
+            create_and_run_applescript(selected_draft, df)
+        except Exception as e:
+            messagebox.showerror(""Error"", f""Failed to generate drafts: {e}"")
+    
+    def refresh_drafts():
+        """"""Refreshes the list of drafts in the dropdown menu.""""""
+        drafts = list_drafts()
+        draft_dropdown['values'] = drafts
+        if drafts:
+            draft_var.set(drafts[0])
+        else:
+            draft_var.set(""No drafts found"")
+    
+    # GUI Setup
+    root = tk.Tk()
+    root.title(""Mail Merge App"")
+    
+    # Dropdown for Draft Selection
+    tk.Label(root, text=""Select Draft from Apple Mail:"").pack(pady=5)
+    draft_var = tk.StringVar()
+    draft_dropdown = ttk.Combobox(root, textvariable=draft_var, width=50, state=""readonly"")
+    draft_dropdown.pack(pady=5)
+    refresh_button = tk.Button(root, text=""Refresh Drafts"", command=refresh_drafts)
+    refresh_button.pack(pady=5)
+    
+    # Excel File Selection
+    tk.Label(root, text=""Excel File (with 'Name' and 'Email' columns):"").pack(pady=5)
+    excel_path_var = tk.StringVar()
+    tk.Entry(root, textvariable=excel_path_var, width=50).pack(pady=5)
+    browse_button = tk.Button(root, text=""Browse"", command=browse_excel_file)
+    browse_button.pack(pady=5)
+    
+    # Generate Button
+    generate_button = tk.Button(root, text=""Generate Drafts"", command=generate_drafts)
+    generate_button.pack(pady=20)
+    
+    # Initial Load of Drafts
+    refresh_drafts()
+    
+    root.mainloop()",Least_Locksmith_5139,1herxmw,https://reddit.com/r/learnprogramming/comments/1herxmw/applescript_how_to_preserve_email_formatting_when/,https://www.reddit.com/r/learnprogramming/comments/1herxmw/applescript_how_to_preserve_email_formatting_when/,2024-12-15 12:50:01,1,1.0,1,0,4,0,0,False,False,True,False,False,,,t3_1herxmw
+learnprogramming,"During my winter break off work, how should I spend it learning programming more efficiently? I'm really struggling imo","I have a little bit of programming knowledge, like I know how to assign variables in languages such as VB, Python, JS, but that's about it really. I can write simple logic code for say a basic calculator and that's about it sadly, list's and for &amp; if loops also I almost have them down but yeah, very basic.
+
+I've been trying to learn for a little while now and I don't really have much to show for it which is really annoying. I have just under 2 weeks off of work now for the christmas break and I was wondering, how should I spend this time to 'get' programming down, so that I can actually start outputting something.. I'm considering learning C# so I can finally understand object orientated programming (OOP), but also I'd really love to learn how to solve leetcode problems.. 
+
+  
+There just seems like so much I need to do / learn and it's overwhelming me and I can't focus on just one thing.. I really want to make some leaps in my programming this winter break so does anyone have any advice on how I should spend this time?
+
+  
+Say for example I spend x hours / days learning this, y learning that etc etc, anything any advice please! Haha, cheers :) ",greatmeaning,1hermhp,https://reddit.com/r/learnprogramming/comments/1hermhp/during_my_winter_break_off_work_how_should_i/,https://www.reddit.com/r/learnprogramming/comments/1hermhp/during_my_winter_break_off_work_how_should_i/,2024-12-15 12:30:19,1,1.0,1,0,2,0,0,False,False,True,False,False,Resource,,t3_1hermhp
+learnprogramming,"Authorization header not sent in fetch request, resulting in undefined token and 401 error","I'm working on a Node.js and Express project with frontend and backend using vanilla JavaScript. My goal is to fetch orders from a protected backend API route `/admin/orders`, but I'm running into issues with the `Authorization` header. Even though I'm retrieving the token from `localStorage` and including it in the `Authorization` header when I check the `req.headers` in my backend, the `Authorization` header is missing, and the token is undefined.
+
+* Here's the output from my backend logs when trying to fetch orders:
+* Token: undefined GET /admin/orders 401
+* **What I've Tried:**
+   * I've confirmed the token is correctly stored in `localStorage` using: `console.log(localStorage.getItem('token');`
+   * The token is included in the headers for the `fetch` request: `const response = await fetch('http://localhost:3000/admin/orders', { method: 'GET', headers: { 'Authorization': \Bearer ${token}\`,         'Content-Type': 'application/json',     }, });\`\`
+   * But the backend logs show the `Authorization` header is missing when navigating to `/admin/orders`.
+* **What I Need Help With:**
+   * Why isn't the `Authorization` header being sent when I fetch the orders?
+   * How can I ensure the header is included, especially when navigating to `/admin/orders`?
+* **Additional Context:**
+   * The frontend and backend are running on separate ports:
+      * Frontend: `localhost:3001`
+      * Backend: `localhost:3000`
+   * I'm using vanilla JavaScript on the frontend and `fetch` for API calls.
+* full code block
+
+&amp;#8203;
+
+    document.addEventListener('DOMContentLoaded', async () =&gt; {
+        const token = localStorage.getItem('token');
+    
+        if (!token) {
+            alert('Please log in.');
+            window.location.href = '/login';
+            return;
+        }
+    
+        const headers = {
+            'Authorization': `Bearer ${token}`,
+            'Content-Type': 'application/json',
+        };
+        try {
+            const response = await fetch('http://localhost:3000/admin/orders', {
+                method: 'GET',
+                headers,
+            });
+    
+            if (response.ok) {
+                const data = await response.json();
+                console.log('Orders:', data);
+                renderOrders(data.data.orders); 
+            } else {
+                const errorData = await response.json();
+                console.error('Error fetching orders:', errorData.message);
+                alert(errorData.message || 'Failed to fetch orders.');
+            }
+        } catch (error) {
+            console.error('Error fetching orders:', error);
+            alert('An error occurred while fetching orders.');
+        }
+    });
+    
+    function renderOrders(orders) {
+        const tableBody = document.querySelector('#ordersTableBody');
+        tableBody.innerHTML = ''; 
+    
+        orders.forEach((order) =&gt; {
+            tableBody.innerHTML += `
+                &lt;tr&gt;
+                    &lt;td&gt;${order.orderNumber}&lt;/td&gt;
+                    &lt;td&gt;${order.status}&lt;/td&gt;
+                    &lt;td&gt;$${order.totalAmount.toFixed(2)}&lt;/td&gt;
+                    &lt;td&gt;
+                        &lt;button class=""btn btn-warning btn-sm"" onclick=""updateOrderStatus('${order.id}', 'Completed')""&gt;Mark as Completed&lt;/button&gt;
+                        &lt;button class=""btn btn-info btn-sm"" onclick=""updateOrderStatus('${order.id}', 'In progress')""&gt;Mark as In Progress&lt;/button&gt;
+                        &lt;button class=""btn btn-primary btn-sm"" onclick=""updateOrderStatus('${order.id}', 'Ordered')""&gt;Mark as Ordered&lt;/button&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            `;
+        });
+    }
+    
+    window.updateOrderStatus = async (id, newStatus) =&gt; {
+        const token = localStorage.getItem('token');
+    
+        if (!token) {
+            alert('Please log in.');
+            window.location.href = '/login';
+            return;
+        }
+    
+        try {
+            const response = await fetch(`http://localhost:3000/orders/${id}/status`, {
+                method: 'PUT',
+                headers: {
+                    'Authorization': `Bearer ${token}`,
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ newStatus }),
+            });
+    
+            if (response.ok) {
+                alert('Order status updated successfully.');
+                document.location.reload(); 
+            } else {
+                const errorData = await response.json();
+                alert(errorData.message || 'Failed to update order status.');
+            }
+        } catch (error) {
+            console.error('Error updating order status:', error);
+            alert('An error occurred while updating order status.');
+        }
+    };
+    
+    
+    
+
+",Mother_Sir_2264,1heqyst,https://reddit.com/r/learnprogramming/comments/1heqyst/authorization_header_not_sent_in_fetch_request/,https://www.reddit.com/r/learnprogramming/comments/1heqyst/authorization_header_not_sent_in_fetch_request/,2024-12-15 11:45:45,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1heqyst
+learnprogramming,Why am I getting this no instance of constructor matches the argument list error?,"In my header:  
+`Card();`
+
+`Card(const std::string&amp; name, const std::string&amp; design, int&amp; health);`
+
+`~Card();`
+
+My Implementation:  
+`Card::Card()` 
+
+	`:name(""name""), design(""design""), health(0)`
+
+`{};`
+
+`Card::Card(const std::string&amp; name, const std::string&amp; design, int&amp; health)` 
+
+	`:name(name), design(design), health(health)`
+
+`{}`  
+Main:  
+	`Card* zombieGuy = new Card(""Zombie"", ""( * &gt;*)"", 12);`
+
+The error appears under the parenthesis, and states exactly this: 
+
+""no instance of constructor ""Card::Card"" matches the argument list argument types are (const char \[7\], const char \[8\], int).""
+
+there's no specific error code. #include&lt;string&gt; is in the header file #include ""Card.h"" is in main and the implementation file. Am I missing something?",Paisable,1hekhdg,https://reddit.com/r/learnprogramming/comments/1hekhdg/why_am_i_getting_this_no_instance_of_constructor/,https://www.reddit.com/r/learnprogramming/comments/1hekhdg/why_am_i_getting_this_no_instance_of_constructor/,2024-12-15 04:03:34,1,1.0,1,0,7,0,0,False,False,True,False,False,,,t3_1hekhdg
+learnprogramming,Help with some setup for a project,"So I am no pro by any means when it comes to web development but I want to code a blog page. However, where I am stuck is the setup part. I have a few questions which I hope you guys can help me out with.
+
+1. Is it better to code a blog page or use something like Wordpress (planning on using react with firebase for coding)?
+2. If I can code it out, would firebase pricing get crazy high to run the website with a lot of daily visits?
+3. Are there any other recommendations for storage?
+4. Planning on using Vercel for deploying the website, are there any other recommendations?
+5. In terms of coding, I was planning on using firebase to upload info about each blog like the title, the content and stuff. From there I would fetch this from firbase and display it. Is this a good way to go about this blog page? 
+
+  
+Sorry if all these questions are trash, by no means am I a pro or anything, just trying to learn. Any form of help would be great. Thank you :)",madarauchiha6996,1hekbml,https://reddit.com/r/learnprogramming/comments/1hekbml/help_with_some_setup_for_a_project/,https://www.reddit.com/r/learnprogramming/comments/1hekbml/help_with_some_setup_for_a_project/,2024-12-15 03:53:50,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1hekbml
+learnprogramming,Would appreciate some advice on structuring my 6-month period.,"I'm in a situation and I would really appreciate some advice.
+
+Over the past couple months I've built the habit of working deeply for long hours and I want to translate that into learning programming- specifically C.
+
+I have no experience programming and I've gone through this sub for a while to learn what mistakes people usually make when starting to learn. Unrealistic expectations, underestimating the workload or the time it takes to be good and not being patient. Overall, I found it usually boiled down to these factors.
+
+Before I get started I want to make sure that I'm doing it right. And I don't mean looking for the perfect resource but making sure the way I'm going about it is not the worst.
+
+I’ll lay out some important points regarding my situation-
+
+\- I'm in no rush to get good at programming. I'm currently 17 years old and starting next summer i would get approximately 6 months to do whatever i want and i really want to learn the absolute basics of programming and how computers work. This of course doesn't mean I'll stop after 6 months but  I’d be joining university and i wouldn't be able to provide my undivided attention to programming. 
+
+\- In terms of my career, I'm not really interested in being a software developer or a professional programmer. I'm interested in Data Science but it's not concrete. Either way, I think what I spend these couple months learning would help me a great deal. According to what I've read, understanding how a computer works on the most basic level- dealing with memory and storage and energy, is an important part of being a data scientist, and having a complete root fundamental understanding of how a computer works is extremely important.
+
+\-As mentioned, over the last couple months I’ve built the habit of working consistently  everyday and as of now I'm able to dedicate around 6-7 hours of focus into whatever I'm doing. I plan to keep this up for the 6 month duration.
+
+\- I've chosen C as being one of the first true languages, it's extremely basic (in its working not in complexity) and it gives one a pretty good understanding of how things actually go down in a computer.
+
+\- I’m not particularly interested in learning as quickly as possible, as long as I'm understanding what I'm doing. I could for example spend weeks on a fundamental concept  that's extremely important but often gets overlooked. I don't want to take shortcuts as I'm doing this for the long run.
+
+\- I don't particularly want to ask for the best resource , but I do appreciate recommendations of resources that specialize on the basic understanding aspect, rather than getting me job ready as fast as possible. Currently I'm finding K&amp;R to be the best option but I'm open to suggestions.
+
+\-I have experienced tutorial hell in other spheres and it absolutely drained the life out of me. I have no intention of going through that again. I want to get committed to only a couple resources which are great that I can rely on throughout the period. I shouldn’t be switching resources and I don't want to. As a side note-  What’s the right balance between sticking to figuring out a problem yourself even if it takes a long time, to knowing when to give up and just google it?
+
+\-I’d like to preface that all of the above is tentative and subject to change, keeping my ultimate goal of being knowledgeable about the inner workings of a computer system in mind (and eventually a data scientist/analyst), is there anything specific i should really focus on early in the process? Maybe a soft skill or a mindset shift while learning. Maybe I should focus more on hands-on stuff like breaking down an old laptop and building physical things which use code.
+
+\- I'm aware that my entire approach could be wrong so I'm open to suggestions regarding how I should go about learning this. What is the right balance between understanding everything fundamentally from the get go and just keep messing around until you understand it eventually?
+
+\-Although it's not a priority, i’d prefer having something tangible to show for at the end of the 6 months because this entire thing is also a way for me to show my parents that im capable and i can handle studying on my own (I eventually want to leave the country for my education but it's a hard sell. I do NOT want to study in my home country for obvious-to-everyone reasons but my parents only listen to proof of capabilities. They need external validation from a third party telling them I can actually do something). So maybe something like partaking in a competition or contributing to a project? I'm not sure how to go about it.
+
+\-Considering I have complete control over my time,there's room for basically any routine, habit or schedule. If you have advice that might seem niche and very prerequisite-y, I would still ask for it as there's a good chance I might be able to implement it(assuming it's useful.) It doesn't even have to be directly related to programming, but a habit which would indirectly help me with my goals.
+
+All of this has been on my mind for quite some time now, and I'm very excited at its prospect. As you could probably guess, it's not exactly set in stone. I really do believe that I can accomplish a significant amount within this time period and I'm proud of myself for that. Genuinely THANK YOU SO MUCH for reading all this way and i can't wait to get started.",Calm-Tip-326,1hej30t,https://reddit.com/r/learnprogramming/comments/1hej30t/would_appreciate_some_advice_on_structuring_my/,https://www.reddit.com/r/learnprogramming/comments/1hej30t/would_appreciate_some_advice_on_structuring_my/,2024-12-15 02:40:52,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1hej30t
+learnprogramming,Is CS50x Right for Me? (Need Advice Based on My Situation),"Hi everyone,
+
+I’m considering diving into CS50x to improve my programming skills, but I wanted to get some advice to see if it’s the right fit for my situation. Here’s a bit about me:
+
+* **Background:** I’m a 20-year-old university student majoring in Informatics, but I currently know little about programming. While I’ve taken some classes in the past, I’ve forgotten most of the content and relied heavily on AI tools for assignments, so I feel like I’m starting from scratch.
+* **Current Goal:** I want to give programming one final attempt, committing fully to it with the aim of securing an internship quickly. I plan to dedicate about 6 hours a day during my winter break (Dec 15–Jan 5) to learning and building my skills.
+* **Concerns:**
+   1. I’m not sure if CS50x is too basic or too advanced for someone in my position.
+   2. Since I’m under a time crunch, I’m wondering if CS50x is the best way to build foundational skills quickly or if I should explore other resources (e.g., The Odin Project, LeetCode, or specific internship prep courses).
+   3. I’ll be juggling a heavy course load after my break, so I want to use my free time wisely.
+
+For those who’ve taken CS50x, do you think it’s a good fit for someone with my background and goals? Would it help me build a strong enough foundation to start applying for internships after completing it, or should I pair it with other resources?
+
+Thanks in advance for your advice!",No-Mousse5653,1heindu,https://reddit.com/r/learnprogramming/comments/1heindu/is_cs50x_right_for_me_need_advice_based_on_my/,https://www.reddit.com/r/learnprogramming/comments/1heindu/is_cs50x_right_for_me_need_advice_based_on_my/,2024-12-15 02:15:13,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1heindu
+learnprogramming,Cool and applicable python network automation project? ,"Hi all, 
+
+I'd like to take on a project that involves these elements, but I have hard time working on things that I can't interface or benefit from directly. Following a tutorial for how to make a socket for instance would bore me unless I can use said socket to actually do something. 
+
+I do also own a domain I'd like to do something with, I am just looking for some direction. Thank you for reading. ",prvncikitty,1hei5on,https://reddit.com/r/learnprogramming/comments/1hei5on/cool_and_applicable_python_network_automation/,https://www.reddit.com/r/learnprogramming/comments/1hei5on/cool_and_applicable_python_network_automation/,2024-12-15 01:47:54,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1hei5on
+learnprogramming,Programming struggles ,"Hi, new programmer here, or at least trying to be! I'm enjoying it but still struggling, can you share what you struggled the most with when you started? And maybe how you overcame it? I'm still making progress but not as fast as thought and sometimes I feel like my learning kinda plateaued",elimoods,1heex1y,https://reddit.com/r/learnprogramming/comments/1heex1y/programming_struggles/,https://www.reddit.com/r/learnprogramming/comments/1heex1y/programming_struggles/,2024-12-14 23:00:01,10,0.92,10,0,8,0,0,False,False,True,False,False,,,t3_1heex1y
+learnprogramming,Web dev student,"I’m a beginner in this programming stuff. I am taking a course to learn full stack web dev and my instructor had us create a simple price chart/plan. I spent hours trying to figure out why my flexbox wasn’t working properly. I finally looked at her code after two days and was highly irritated at how simple her solution was. 
+
+I know it’s “only” css but why does it feel so difficult? Something that could’ve been created in 30 minutes has taken hours over a few days. I wanted to create a project (simple site) by the end of the week but this was a little discouraging. Does it get better? How do I adjust? How do I write simple code? I want to be further than where I am and it’s pissing me off how I’m messing up something so simple. I don’t have others around me to guide me and give me assistance. I’m trying to figure this out on my own but it’s a challenge when you don’t have experience or know best practices. 
+
+And I feel pressure because my family needs income and an obvious mistake is thinking I could learn this easily/quickly.
+
+Help. Advice. Please! ",Worried-Dig-5242,1hee2h9,https://reddit.com/r/learnprogramming/comments/1hee2h9/web_dev_student/,https://www.reddit.com/r/learnprogramming/comments/1hee2h9/web_dev_student/,2024-12-14 22:18:40,1,0.67,1,0,4,0,0,False,False,True,False,False,,,t3_1hee2h9
+learnprogramming,What can I do next? ,"20 years old. Not a comp sci student but got very fascinated by programming earlier this year. I started by learning C++ (really the basics) and jumped to Leetcode.
+
+I have been solving questions on it since then while learning about Data Structures and Algorithms (while taking breaks in between for college). But I realised I wasn't building any actual projects.
+
+So my question is, what can I do next and how do I go about it? I am fairly interested in doing 'low-level' stuff. Do I need to self study a Comp Sci course? Do I need to go through books?
+
+(I also learnt some HTML and CSS recently and thus practicing designing websites with it, while that is fun I am still very attracted to 'low-level' programming) ",Beginning_Spell1818,1he8r8y,https://reddit.com/r/learnprogramming/comments/1he8r8y/what_can_i_do_next/,https://www.reddit.com/r/learnprogramming/comments/1he8r8y/what_can_i_do_next/,2024-12-14 18:13:20,1,0.67,1,0,4,0,0,False,False,True,False,False,,,t3_1he8r8y
+learnprogramming,Stick to MERN or learn Next.js,"I learned MERN stack a couple months ago and got internship where i built a project using the stack and kinda feel confident using MERN rn, now i wanna start freelancing and building bigger projects maybe even integrating AI or sth not sure, should i stick to react or learn next.js. like i get that next.js offers slightly more features than react such as routing, SSR and better SEO and stuff but i just don't get the hype and don't know if i should learn it since i already learnt typescript. Also i keep hearing about tools like supabase which handles the backend. I guess i'm a little lost and some guidance can someone help me out",KeyChoice4669,1he8afl,https://reddit.com/r/learnprogramming/comments/1he8afl/stick_to_mern_or_learn_nextjs/,https://www.reddit.com/r/learnprogramming/comments/1he8afl/stick_to_mern_or_learn_nextjs/,2024-12-14 17:51:55,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1he8afl
+learnprogramming,Struggling to learn coding,"I love the idea of programming and coding. However, I feel like I'm having difficulty learning on what TO code vs the core concepts. 
+
+I feel like I have an average understanding of the fundamentals but I still struggle to code on even the basic concepts. 
+
+What advice do you recommend for someone who's just started their coding journey, having roadblocks and do you personally learn best by watching videos or gets better to learn while coding? ",Beneficial-Delay-513,1he872t,https://reddit.com/r/learnprogramming/comments/1he872t/struggling_to_learn_coding/,https://www.reddit.com/r/learnprogramming/comments/1he872t/struggling_to_learn_coding/,2024-12-14 17:47:31,20,0.93,20,0,12,0,0,False,False,True,False,False,Topic,,t3_1he872t
+learnprogramming,any easy to learn visual languages for creating stuff?,"i want to learn game development but unity is too hard and gamemaker is a bit too confusing (at least for someone with no gamemaker experience)
+
+and not scratch btw
+
+prefferably has a visual thing like gamemaker or unity to manipulate your game's world without editing manual x and y's and z's",Epic-User-123,1he85ll,https://reddit.com/r/learnprogramming/comments/1he85ll/any_easy_to_learn_visual_languages_for_creating/,https://www.reddit.com/r/learnprogramming/comments/1he85ll/any_easy_to_learn_visual_languages_for_creating/,2024-12-14 17:45:40,3,0.81,3,0,2,0,0,False,False,True,False,False,,,t3_1he85ll
+learnprogramming,Resilient Coders as College Student,"Hey, I’m in interested in joining Resilient Coders but I’m a sophomore in college majoring in statistics. Am I going to die if I join this and am also a full time student? I heard it’s 12 hours a day and I’ll also have class lol",Fast_Performer_1126,1he7g10,https://reddit.com/r/learnprogramming/comments/1he7g10/resilient_coders_as_college_student/,https://www.reddit.com/r/learnprogramming/comments/1he7g10/resilient_coders_as_college_student/,2024-12-14 17:12:08,1,0.67,1,0,2,0,0,False,False,True,False,False,,,t3_1he7g10

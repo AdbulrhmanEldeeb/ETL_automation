@@ -1,0 +1,163 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Python binary which runs everwhere,"I wanted to share some insights about an interesting project called [python-build-standalone](https://github.com/indygreg/python-build-standalone) that I've been exploring.
+
+# What is python-build-standalone?
+
+The **python-build-standalone** project produces fully usable Python installations that include most extension modules from the standard library. The key feature here is that it minimizes runtime dependencies.
+
+# Why Use It?
+
+1. **Portability**: The distributions are designed to work on any system for the targeted architecture, making it easier to deploy Python applications in diverse environments.
+2. **Customizability**: Users can include build artifacts and rich metadata, which allows for downstream repackaging. This means you can create a custom Python distribution tailored to specific needs—great for embedding Python in larger binaries.
+3. **Sister Project - PyOxy**: For those interested in enhancing their Python interpreter with Rust code, there's a related project called PyOxy that builds on these standalone distributions to create single-file executables.
+
+# Getting Started
+
+If you’re interested in trying out python-build-standalone, you can find the documentation [here](https://gregoryszorc.com/docs/python-build-standalone/main/). The documentation provides detailed instructions on how to build your own standalone Python distributions and includes examples of how to customize your builds.
+
+# Use Cases
+
+This tool is particularly beneficial for:
+
+* Developers who need to distribute applications without requiring users to install Python or additional libraries.
+* Projects that aim for a minimal footprint on user systems.
+* Scenarios where embedding Python within other applications is necessary.
+
+Happy coding!
+
+P.S :- (I am building Origins AI, If you are facing some hard tech issues, DM me)",rava-dosa,1h78av5,https://reddit.com/r/Python/comments/1h78av5/python_binary_which_runs_everwhere/,https://www.reddit.com/r/Python/comments/1h78av5/python_binary_which_runs_everwhere/,2024-12-05 12:42:16,8,0.63,8,0,9,0,0,False,False,True,False,False,Tutorial,self,t3_1h78av5
+Python,What are dataclasses so famous?,"As the title says, I've read the whole documentation more than once and have used them plenty of times. But in practice for me it's just a way to avoid writing an __init__ method. This is a good QL improvement, I guess, but now means that my code uses another dependency and extra complexity for what?
+I won't argue the merits of options like hash and frozen, but i don't find myself needing that functionality that often. So I return to my genuine question, why has the community so quickly adopted and recommended the use of dataclasses? I'm referring to articles and YouTube videos about them.
+
+In what use cases are you finding success with them?",Smash-Mothman,1h76er3,https://reddit.com/r/Python/comments/1h76er3/what_are_dataclasses_so_famous/,https://www.reddit.com/r/Python/comments/1h76er3/what_are_dataclasses_so_famous/,2024-12-05 10:44:12,0,0.38,0,0,27,0,0,False,False,True,False,False,Discussion,self,t3_1h76er3
+Python,need to work with someone for free to learn dev environment,"Hi,
+
+I am a working professional with the experience of 12 years. I started learning C and python for quite a time now, i have studied a lot but not getting any hands on . if someone needs my support , I will work with them for free just to learn and i will really appreciate it.
+
+regards ",Ok_Reference1975,1h6n48d,https://reddit.com/r/Python/comments/1h6n48d/need_to_work_with_someone_for_free_to_learn_dev/,https://www.reddit.com/r/Python/comments/1h6n48d/need_to_work_with_someone_for_free_to_learn_dev/,2024-12-04 18:22:29,0,0.42,0,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h6n48d
+Python,PydanticAI: AI Agent framework for using Pydantic with LLMs,"PydanticAI is a trending GitHub repo which helps you to use Pydantic with LLM applications &amp; AI Agents, hence a great release considering production deployment and API developments. It can also help in structuring your output based on a certain format. Checkout this tutorial on how to use it and a demo app using PydanticAI: https://youtu.be/vnBcowFaQyU?si=0Bz6V2o5I2YWurRz",mehul_gupta1997,1h7aduu,https://reddit.com/r/Python/comments/1h7aduu/pydanticai_ai_agent_framework_for_using_pydantic/,https://www.reddit.com/r/Python/comments/1h7aduu/pydanticai_ai_agent_framework_for_using_pydantic/,2024-12-05 14:27:57,0,0.4,0,0,1,0,0,False,False,True,False,False,News,self,t3_1h7aduu
+Python,BAD PYTHON wrong calc,"Python error on first code. There was wrong calculation. 881/12=6.75
+Same code was pasted and gave actual result of 73.4... 
+
+https://imgur.com/a/bap4g49
+&gt;picture of error ",Suspicious_Speed_938,1h773ym,https://reddit.com/r/Python/comments/1h773ym/bad_python_wrong_calc/,https://www.reddit.com/r/Python/comments/1h773ym/bad_python_wrong_calc/,2024-12-05 11:31:44,0,0.2,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1h773ym
+Python, 💥 Tech Talks Weekly #40: newly uploaded videos from PyCon AU 2024,"Hello again r/Python. I'm sharing an excerpt from the latest issue of Tech Talks Weekly with the newest PyCon AU 2024 talks, ordered by the view count for your convenience. Let me know what you think!
+
+1. [**""""Switching to MongoDB: The challenges of translating database schemas"" - Katie Bell (Pycon AU 2024)""**](https://youtube.com/watch?v=cESAbE_orVU) ⸱ **+600 views** ⸱ 28 Nov 2024 ⸱ 00h 29m 00s
+2. [**""""How we used Python to try and save lives"" - Anthony Baxter (Pycon AU 2024)""**](https://youtube.com/watch?v=hfCkGNV5iLI) ⸱ **+300 views** ⸱ 01 Dec 2024 ⸱ 00h 30m 56s
+3. [**""""Time and Time Again"" - Yaakov (Pycon AU 2024)""**](https://youtube.com/watch?v=vWc2D-xQgtc) ⸱ **+300 views** ⸱ 30 Nov 2024 ⸱ 00h 28m 10s
+4. [**""""Student showcase"" - Education Track (Pycon AU 2024)""**](https://youtube.com/watch?v=xVjlVYFrJj4) ⸱ **+300 views** ⸱ 29 Nov 2024 ⸱ 01h 40m 15s
+5. [**""Failsafes and Safety Fails: How to crash a train and other lessons for software engineers""**](https://youtube.com/watch?v=Rscgum-aVTY) ⸱ **+200 views** ⸱ 29 Nov 2024 ⸱ 00h 31m 03s
+6. [**""Space Django: Migrating and Redesigning a Database while Hunting for Satellites.""**](https://youtube.com/watch?v=XcOybozDk_0) ⸱ **+200 views** ⸱ 28 Nov 2024 ⸱ 00h 31m 16s
+7. [**""Where am I? What am I doing? Mobile App development in Python""**](https://youtube.com/watch?v=cLNWwNHgTco) ⸱ **+200 views** ⸱ 30 Nov 2024 ⸱ 00h 29m 38s
+8. [**""How to confirm that the index you added actually improves query performance""**](https://youtube.com/watch?v=MlCQAaL6V3U) ⸱ **+200 views** ⸱ 01 Dec 2024 ⸱ 00h 28m 47s
+9. [**""ML ain’t your only hammer: adding mathematical optimisation to the data scientist’s toolbox""**](https://youtube.com/watch?v=G0tlyC9Sr3w) ⸱ **+200 views** ⸱ 01 Dec 2024 ⸱ 00h 19m 14s
+10. [**""""Quantifying Nebraska"" - Adam Harvey (Pycon AU 2024)""**](https://youtube.com/watch?v=9HQOTIqP6KM) ⸱ **+100 views** ⸱ 29 Nov 2024 ⸱ 00h 26m 06s
+
+See the remaining list here: [https://www.techtalksweekly.io/i/152513751/pycon-au](https://www.techtalksweekly.io/i/152513751/pycon-au)",TechTalksWeekly,1h75wv7,https://reddit.com/r/Python/comments/1h75wv7/tech_talks_weekly_40_newly_uploaded_videos_from/,https://www.reddit.com/r/Python/comments/1h75wv7/tech_talks_weekly_40_newly_uploaded_videos_from/,2024-12-05 10:08:08,11,0.77,11,0,0,0,0,False,False,True,False,False,News,self,t3_1h75wv7
+Python,"Looking at Investing in Quantum processing, Python Question.","RGTI)  Rigetti quantum states Python is language of choice for users of their ""processing cloud""... Is Python easy enough to figure out, the AI through language models, could learn to code itself?
+
+Sorry, Social Science degree here... Lol",TimeGrifter,1h781xt,https://reddit.com/r/Python/comments/1h781xt/looking_at_investing_in_quantum_processing_python/,https://www.reddit.com/r/Python/comments/1h781xt/looking_at_investing_in_quantum_processing_python/,2024-12-05 12:28:22,0,0.2,0,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1h781xt
+Python,Agent-Based Modeling library Mesa releases version 3.1,"Hi everyone! After our huge [Mesa 3.0](https://www.reddit.com/r/Python/comments/1gn5q8z/mesa_30_a_major_update_to_pythons_agentbased/) release, we're proud to announce Mesa 3.1 less than a month later. It contains some major spatial improvements and groundwork for new control and data collection features.
+
+- https://github.com/projectmesa/mesa/releases/tag/v3.1.0
+
+### What's Agent-Based Modeling?
+
+Ever wondered how bird flocks organize themselves? Or how traffic jams form? Agent-based modeling (ABM) lets you simulate these complex systems by defining simple rules for individual ""agents"" (birds, cars, people, etc.) and then watching how they interact. Instead of writing equations to describe the whole system, you model each agent's behavior and let patterns emerge naturally through their interactions. It's particularly powerful for studying systems where individual decisions and interactions drive collective behavior.
+
+### What's Mesa?
+
+Mesa is Python's leading framework for agent-based modeling, providing a comprehensive toolkit for creating, analyzing, and visualizing agent-based models. It combines Python's scientific stack (NumPy, pandas, Matplotlib) with specialized tools for handling spatial relationships, agent scheduling, and data collection. Whether you're studying epidemic spread, market dynamics, or ecological systems, Mesa provides the building blocks to create sophisticated simulations while keeping your code clean and maintainable.
+
+### What's new in Mesa 3.1?
+
+This release adds experimental support for Observables and Computed, enabling a more reactive and responsive programming model for agent-based simulations. The new `Observable` and `Computable` classes allow developers to declaratively define attributes that automatically emit signals when their values change, and compute derived values that update dynamically. This lays the groundwork for more advanced event handling and data visualization features in future releases (#2291).
+
+The experimental cell space module has been updated with full support for n-dimensional property layers. These allow agents to easily interact with and modify spatial properties of the environment, such as terrain, resources, or environmental conditions. The new implementation provides a more intuitive attribute-based API and ensures tight integration with the cell space architecture (#2512).
+
+Mesa now includes built-in support for logging using the standard Python `logging` module. This provides developers with a flexible and powerful way to add structured diagnostic and debug output to their simulations, without the need for custom logging solutions. The logging system is integrated throughout the library, including the new SolaraViz visualization system (#2506).
+
+Creating multiple agents with varying initialization parameters is now significantly easier with the new `Agent.create_agents` class method. This factory function supports both uniform and per-agent parameters, simplifying the code required to set up a simulation with a large number of heterogeneous agents (#2351).
+
+In addition to the major new features, this release includes a number of smaller enhancements and bug fixes that improve the overall developer experience. These include removing deprecated functionality, cleaning up examples, and addressing various edge cases reported by the community. Mesa 3.1 requires Python 3.11 or higher.
+
+### Talk with us!
+
+We always love to hear what you think:
+
+- Join our Matrix chat: https://matrix.to/#/#project-mesa:matrix.org
+- Checkout our Discussions: https://github.com/projectmesa/mesa/discussions",Balance-,1h6pwdn,https://reddit.com/r/Python/comments/1h6pwdn/agentbased_modeling_library_mesa_releases_version/,https://www.reddit.com/r/Python/comments/1h6pwdn/agentbased_modeling_library_mesa_releases_version/,2024-12-04 20:13:37,64,0.95,64,0,1,0,0,False,False,True,False,False,News,self,t3_1h6pwdn
+Python,HandiRokuRemote (Open Source) - Control your Roku with only your hand gestures,"###What My Project Does
+This is a Python application that lets you control your Roku device with nothing but hand gestures! Using Mediapipe's Hand Landmark Detector, it tracks your hand, identifies gestures, and sends commands to your Roku via its External Control Protocol.
+
+Check out the [demo gif](https://imgur.com/zVbX1T6)
+
+Features:
+
+*Real-time hand tracking: Gestures like ""thumbs up"" control volume or navigation.
+
+*Cross-device support: Works with any Roku device on the same network.
+
+*Easy setup: Plug in a camera, and you’re ready to go.
+
+###Target Audience
+The target audience is anyone who's ever lost their TV remote, but probably more likely fellow tinkerers and anyone interested in computer-vision.
+
+###Comparison
+As far as I can tell, there is no comparison. I've looked around and haven't found anything that does what this does. I guess the only comparison is a regular remote (but you lost that earlier, remember?)
+
+Check out the code on [Github](https://github.com/BBelk/HandiRokuRemote/)
+
+Or download the .exe and try it out! [PC only - Download](https://github.com/BBelk/HandiRokuRemote/releases/tag/v1)
+
+Let me know what you think!",BB_dev,1h7acxc,https://reddit.com/r/Python/comments/1h7acxc/handirokuremote_open_source_control_your_roku/,https://www.reddit.com/r/Python/comments/1h7acxc/handirokuremote_open_source_control_your_roku/,2024-12-05 14:26:45,3,1.0,3,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h7acxc
+Python,Built a tool to step through LeetCode Python solutions—feedback welcome! 🐛✨,"Hey everyone! 👋
+
+\# What my project does
+
+This tool allows you to step through Python code for LeetCode problems line-by-line. It highlights the current line being executed and shows the real-time values of variables and sub-expressions. It's designed to help visualize code execution and understand the logic flow more easily.
+
+check it our : [https://github.com/roshixyz/StepThrough](https://github.com/roshixyz/StepThrough)
+
+# # Target Audience
+
+anyone trying to understand code behaviour (specifically Leetcode problems)
+
+\# Comparison
+
+Unlike standard IDEs or debuggers, this tool focuses on simplifying the debugging process for LeetCode-style coding challenges. It provides a clear, visual breakdown of what’s happening under the hood, making it easier to spot issues and understand how each line affects the program’s state.
+
+Demo : [https://x.com/roshi\_xyz/status/1864257060042330455](https://x.com/roshi_xyz/status/1864257060042330455)",aman167k,1h79tdf,https://reddit.com/r/Python/comments/1h79tdf/built_a_tool_to_step_through_leetcode_python/,https://www.reddit.com/r/Python/comments/1h79tdf/built_a_tool_to_step_through_leetcode_python/,2024-12-05 14:00:56,5,0.86,5,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1h79tdf
+Python,"Thursday Daily Thread: Python Careers, Courses, and Furthering Education!","# Weekly Thread: Professional Use, Jobs, and Education 🏢
+
+Welcome to this week's discussion on Python in the professional world! This is your spot to talk about job hunting, career growth, and educational resources in Python. Please note, this thread is **not for recruitment**.
+
+---
+
+## How it Works:
+
+1. **Career Talk**: Discuss using Python in your job, or the job market for Python roles.
+2. **Education Q&amp;A**: Ask or answer questions about Python courses, certifications, and educational resources.
+3. **Workplace Chat**: Share your experiences, challenges, or success stories about using Python professionally.
+
+---
+
+## Guidelines:
+
+- This thread is **not for recruitment**. For job postings, please see r/PythonJobs or the recruitment thread in the sidebar.
+- Keep discussions relevant to Python in the professional and educational context.
+  
+---
+
+## Example Topics:
+
+1. **Career Paths**: What kinds of roles are out there for Python developers?
+2. **Certifications**: Are Python certifications worth it?
+3. **Course Recommendations**: Any good advanced Python courses to recommend?
+4. **Workplace Tools**: What Python libraries are indispensable in your professional work?
+5. **Interview Tips**: What types of Python questions are commonly asked in interviews?
+
+---
+
+Let's help each other grow in our careers and education. Happy discussing! 🌟",AutoModerator,1h6vb5l,https://reddit.com/r/Python/comments/1h6vb5l/thursday_daily_thread_python_careers_courses_and/,https://www.reddit.com/r/Python/comments/1h6vb5l/thursday_daily_thread_python_careers_courses_and/,2024-12-05 00:00:09,3,0.72,3,0,0,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1h6vb5l

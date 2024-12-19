@@ -1,0 +1,115 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] What do you do while your model is training?,"I am bascilly baby sitting my model while it is training, watch some *House M.D.* or play some minecraft. I have done all my literture review and paper writting, what should I do now while my model is training?",Striking-Warning9533,1hemhil,https://reddit.com/r/MachineLearning/comments/1hemhil/d_what_do_you_do_while_your_model_is_training/,https://www.reddit.com/r/MachineLearning/comments/1hemhil/d_what_do_you_do_while_your_model_is_training/,2024-12-15 06:11:22,53,0.85,53,0,39,0,0,False,False,True,False,False,Discussion,self,t3_1hemhil
+MachineLearning,[D] What happened at NeurIPS?,,howtorewriteaname,1hdxbru,https://reddit.com/r/MachineLearning/comments/1hdxbru/d_what_happened_at_neurips/,https://i.redd.it/k0q9frsuir6e1.jpeg,2024-12-14 07:00:07,544,0.93,544,0,505,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/-xSH1Mpa62Tf46vUqQSb2RCTHhGdGGFO4WLolSj0-WI.jpg,t3_1hdxbru
+MachineLearning,[P] Curated list of LLM papers 2024,,seraschka,1he4htl,https://reddit.com/r/MachineLearning/comments/1he4htl/p_curated_list_of_llm_papers_2024/,https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list,2024-12-14 14:52:26,120,0.93,120,0,11,0,0,False,False,False,False,False,Project,https://b.thumbs.redditmedia.com/p02HYYoPj_p-xBwJelLubWz-Tz9jT7FTYlhXB71RrBo.jpg,t3_1he4htl
+MachineLearning,[D] What are the (un)written rules of deep learning training ,"Disclaimer: I posted this in r/learnmachinelearing first, but the sub seems to be more concerned with very basic questions, courses and hiring, so feel free to remove it if it doesn't fit here (tho I think that also fits this sub as a discussion).
+
+I now have a few years of experience building and training different model architectures, I know most of the basic theory and am able to follow most papers. So my question goes into a more methodological direction. While I am able to successfully build models for a number of applications, a lot of the time this is to a large extend guesswork. I try out different stuff and see what sticks. I know there is a lot of research in the direction of interpretability going on, but this is not directly the direction I want to go with this. Instead I want to ask you all what general advice you have on the training process, what are some practical observations, rules of thumb, approaches you take that are not described in a paper or theoretical ml class. For example:
+
+- How do you analyze gradients in your model. I know how to do some very basic plots in this regard, but would be interested in your methods and how you read them from a practical perspective?
+
+- How do you visualize temporal instabilities between optimizer steps resulting from e.g. a too large learning rate?
+
+- How do you determine appropriate regularization?
+
+- What are your rules of thumb for diminisheing returns during a training run?
+
+- How do you tune your hyperparameters? I eyeballed them more or less and also used optuna for this in the past.
+
+- What are some important intuitions, unwritten rules and pitfalls during training in your opinion?
+
+- What are your debugging steps when a model does not perform as expected?
+
+- What tricks do you actually use? There are lots of small tricks (EMA, obscure activation functions, ...) that promise some gains, but what do you actually use?
+
+- How does your approach differ when you do a transformer, CNN, diffusion model, ...
+
+- Some general opinions or tips that I might have missed above. 
+
+University classes and online resources mostly teach the basics or theoretical foundation, which is very important, but in practice only part of the story. Real world experience also helps, but you only get so far with trial and error and might miss something useful.
+I am aware of the blog posts by Karpathy on the training of neural networks and look for more resources in this direction.
+
+I am happy to here your replies on this arguably broad topic. ",floriv1999,1he07vr,https://reddit.com/r/MachineLearning/comments/1he07vr/d_what_are_the_unwritten_rules_of_deep_learning/,https://www.reddit.com/r/MachineLearning/comments/1he07vr/d_what_are_the_unwritten_rules_of_deep_learning/,2024-12-14 10:29:02,125,0.93,125,0,29,0,0,False,False,True,False,False,Discussion,self,t3_1he07vr
+MachineLearning,"[Project] Matrix Recurrent States, a Attention Alternative","[https://github.com/mikayahlevi/mru-lm](https://github.com/mikayahlevi/mru-lm)  
+Hi, I'm posting here to share a project I just published on GitHub. I'll start with a description, some of which will be copy/pasted from the GitHub repo.  
+The idea of a matrix recurrent unit is dictated by the update rule H\_t = H\_{t-1} X\_{t-1} and H\_1 = X\_1 where X and H are s×n×n sequences of square matrices. The primary difference between this and a traditional RNN is that no initial vector is passed through the linears, instead the first state is a matrix, leading to the output also being a matrix. My motivation for coming up with this idea are based on the following reasons:
+
+* Matrix multiplication is associative but not commutative. The associativity means I can compute the cumulative matrix product using an (inclusive) parallel scan. The lack of commutativity means that the order of tokens is automatically incorporated into the MRU.
+* When you try to do this scan on an traditional RNN, the number of operations scales cubically with the amount of elements in the output state, meaning that limited information is retained compared to the amount of computation. On the other hand, if the states are matrices, the number of operations as a function of elements in the output state is (n\^2)\^(3/2), where n\^2 is the number of elements in the square n×n matrix state. Here's a paper including some information about this: &lt;https://arxiv.org/abs/1709.04057&gt;.
+* When processing the tokens sequentially or in parallel with the (not-yet implemented) Brent-Kung parallel scan the network scales linearly with time, in contrast to attention which scales quadratically with time.
+
+I tried generating matrix X by different methods in the different branches. All of the ways to generate X and fold the output hidden state back into a vector, are arbitrary combinations of linears and reshapes and just based on what I found worked well.
+
+[Loss vs Steps for a Transformer and an MRU-LM on shakespeare-char](https://preview.redd.it/6zyiw7g9vu6e1.png?width=640&amp;format=png&amp;auto=webp&amp;s=34fd01cc5bacde21148fd324203aa40e7c977bf7)
+
+This approach seems to work pretty well based on the toy dataset shakespeare-char, so if anyone wants to help me out, I would like to benchmark it on more informative datasets and see how it works out.",IonizedPro,1he8vhw,https://reddit.com/r/MachineLearning/comments/1he8vhw/project_matrix_recurrent_states_a_attention/,https://www.reddit.com/r/MachineLearning/comments/1he8vhw/project_matrix_recurrent_states_a_attention/,2024-12-14 18:19:00,21,0.86,21,0,5,0,0,False,False,True,False,False,Project,https://b.thumbs.redditmedia.com/QO78Dz0iVD9wN_jkpkCxx5uWxligKnT0E3y7iq97aPA.jpg,t3_1he8vhw
+MachineLearning,"[D] Last Week in Medical AI: Top LLM Research Papers/Models (December 7 - December 14, 2024)","[\[D\] Last Week in Medical AI: Top LLM Research Papers\/Models \(December 7 - December 14, 2024\)](https://preview.redd.it/o23fp3csj07e1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=69e19fc351b3aa5e34c4c00e66245583f88bd9bb)
+
+  
+**Medical LLM &amp; Other Models**
+
+* PediaBench: Chinese Pediatric LLM
+   * This paper introduces PediaBench, the first Chinese pediatric dataset for evaluating Large Language Model (LLM) question-answering performance, containing 4,565 objective and 1,632 subjective questions across 12 disease groups.
+* BiMediX: Bilingual Medical LLM
+   * This paper introduces BiMediX, the first bilingual (English-Arabic) medical Mixture of Experts LLM, along with BiMed1.3M, a 1.3M bilingual medical instruction dataset with over 632M tokens used for training.
+* Diverse medical knowledge integration
+   * This paper introduces BiMediX2, a bilingual (Arabic-English) Large Multimodal Model (LMM) based on Llama3.1 architecture, trained on 1.6M medical interaction samples.
+* BRAD: Digital Biology Language Model
+   * This paper introduces BRAD (Bioinformatics Retrieval Augmented Digital assistant), an LLM-powered chatbot and agent system integrating various bioinformatics tools.
+* MMedPO: Vision-Language Medical LLM
+   * This paper introduces MMedPO, a multimodal medical preference optimization approach to improve factual accuracy in Medical Large Vision-Language Models (Med-LVLMs) by addressing modality misalignment.
+
+**Frameworks &amp; Methodologies**  
+\- TOP-Training: Medical Q&amp;A Framework  
+\- Hybrid RAG: Secure Medical Data Management  
+\- Zero-Shot ATC Clinical Coding  
+\- Chest X-Ray Diagnosis Architecture  
+\- Medical Imaging AI Democratization
+
+**Benchmarks &amp; Evaluations**  
+\- KorMedMCQA: Korean Healthcare Licensing Benchmark  
+\- Large Language Model Medical Tasks  
+\- Clinical T5 Model Performance Study  
+\- Radiology Report Quality Assessment  
+\- Genomic Analysis Benchmarking
+
+**LLM Applications**
+
+\- TCM-FTP: Herbal Prescription Prediction  
+\- LLaSA: Activity Analysis via Sensors  
+\- Emergency Department Visit Predictions  
+\- Neurodegenerative Disease AI Diagnosis  
+\- Kidney Disease Explainable AI Model
+
+**Ethical AI &amp; Privacy**  
+\- Privacy-Preserving LLM Mechanisms  
+\- AI-Driven Digital Organism Modeling  
+\- Biomedical Research Automation  
+\- Multimodality in Medical Practice
+
+Full thread in detail: [https://x.com/OpenlifesciAI/status/1867999825721242101](https://x.com/OpenlifesciAI/status/1867999825721242101)",aadityaura,1hecwvp,https://reddit.com/r/MachineLearning/comments/1hecwvp/d_last_week_in_medical_ai_top_llm_research/,https://www.reddit.com/r/MachineLearning/comments/1hecwvp/d_last_week_in_medical_ai_top_llm_research/,2024-12-14 21:25:08,5,0.78,5,0,0,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/NIqGY7RUVe___1Rm4Sj_tvO_aD1SrmnLgeCdd3lQb6c.jpg,t3_1hecwvp
+MachineLearning,[D] Are We Okay With This? Questionable Poster Behavior at NeurIPS,"This was my first year at NeurIPS. It’s inspiring to see so much cutting-edge research being presented, but something troubling caught my attention during the poster sessions that I feel compelled to share, especially given [the recent incident with Rosalind Picard](https://www.reddit.com/r/MachineLearning/comments/1hdxbru/d_what_happened_at_neurips/).
+
+Getting a paper accepted at NeurIPS is a huge achievement. Each poster spot represents so much hard work and is highly coveted.
+
+I saw two posters that *shouldn’t* have been there, and it has left me wondering about the exploitation of these spaces.
+
+**Illegal Poster #1:** [Generative Boba](https://x.com/BoyuanChen0/status/1778565953627775453). This was a “cute, look at me” poster, but it also featured a QR code linking to the creator’s X/Twitter. While the poster itself was placed on a side wall in the exhibition hall and not in an official poster spot (when I saw it anyway), it still felt odd. Why did they make this poster? Was this about sparking joy, or gaining attention and followers?
+
+[Illegal Poster #1: Generative Boba.](https://preview.redd.it/u3vfvszkoy6e1.jpg?width=3363&amp;format=pjpg&amp;auto=webp&amp;s=8c09ddda45e0ac002223dadf0eac4165bfdc0433)
+
+**Illegal Poster #2:** [Benchmarkthing](https://x.com/xdotli/status/1867823150068535797)**.** This was far more concerning. It blatantly promoted a new AI startup, mentioning funding by a prominent figure in our field, Jeff Dean. Unlike the boba poster, this could visually pass as a real NeurIPS poster. Probably most passersby didn’t give it a second thought, but the poster's presenter (who is also the company’s founder) was essentially promoting his new startup, sometimes to a significant audience size AND across *multiple* poster sessions. This feels deceptive and exploitative — gaming the trust of the community to cheatingly gain visibility in a sacred academic space.
+
+[Illegal Poster #2: Benchmarkthing.](https://preview.redd.it/qn7vpos4py6e1.jpg?width=2646&amp;format=pjpg&amp;auto=webp&amp;s=4cfd1aa535bdf74cdb57ba8e44f1fa813b9d28a7)
+
+A different type of gaming involves authors putting up their poster at unused spots while leaving a sign in their formally assigned location that says “See poster at #{better spot}”. If the authors for the unused spot arrived, they’d just move their poster back — but if not, they would presumably revel in the extra attention from being located, for example, closer to the hall’s entrance with more foot traffic.
+
+Relocating posters still seems problematic, but at least the posters *belong* at the conference. On the other hand, I feel much more strongly that unauthorized posters for personal or commercial promotion hurts the integrity of the space, disrespects the presenters whose posters truly belong there, and undermines the conference overall.
+
+Questions for the community:
+
+1. Should there be stricter policies or better enforcement for poster sessions?
+2. How do we differentiate between minor gaming (e.g. relocating posters) and outright exploitation (e.g. unauthorized posters)?
+3. Is it fair to tolerate some flexibility as long as the intentions are lighthearted or still academic? 
+4. How do we address these behaviors moving forward? Should there be consequences?",Positive_Lychee6904,1heo36q,https://reddit.com/r/MachineLearning/comments/1heo36q/d_are_we_okay_with_this_questionable_poster/,https://www.reddit.com/r/MachineLearning/comments/1heo36q/d_are_we_okay_with_this_questionable_poster/,2024-12-15 08:08:41,0,0.4,0,0,15,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/r9cEQ2e72Zhy6nH9XkcERYWkKB8X-saXhRtgLnKAF2I.jpg,t3_1heo36q
+MachineLearning,Curated Corpus for U.S. Health Insurance Applications [P] [R],,tpafs,1he14fo,https://reddit.com/r/MachineLearning/comments/1he14fo/curated_corpus_for_us_health_insurance/,https://github.com/TPAFS/hicric,2024-12-14 11:36:37,5,0.73,5,0,0,0,0,False,False,False,False,False,Research,https://b.thumbs.redditmedia.com/neXQ6PQq1HS-6BASsO31cD98vX-av52hINTe9GUR5kI.jpg,t3_1he14fo

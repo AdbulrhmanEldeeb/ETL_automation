@@ -1,0 +1,173 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] What’s stopping you from using foundation models for time series forecasting?,"I’ve been experimenting with foundation models like [Sulie](https://github.com/wearesulie/sulie), [Granite TTM](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r1), and [Amazon Chronos](https://github.com/amazon-science/chronos-forecasting), and each one has its own strengths. What’s really fascinating is how much faster you can get accurate forecasts with a zero-shot approach. However, as much as these models improve forecasting, explainability remains a major challenge compared to more traditional methods like ARIMA, which are simpler to interpret.
+
+I’m curious—do you think explainability is a dealbreaker, or is there another reason why foundation models for forecasting aren’t gaining wider adoption? Would love to hear what’s been your biggest blocker or challenge in using these models.",Queasy_Emphasis_5441,1hb7ur1,https://reddit.com/r/MachineLearning/comments/1hb7ur1/d_whats_stopping_you_from_using_foundation_models/,https://www.reddit.com/r/MachineLearning/comments/1hb7ur1/d_whats_stopping_you_from_using_foundation_models/,2024-12-10 18:00:23,0,0.48,0,0,19,0,0,False,False,True,False,False,Discussion,self,t3_1hb7ur1
+MachineLearning,[D] Should I avoid pursuing a Radiology Residency because of AI?,"I am a medical student from India and wanted to know if radiologists will become less valuable in the future. I am currently waiting to be matched into a residency program. In India, there is a shortage of radiologists, which is why they have a higher salary compared to other postgraduate specialties. How long will it take before AI could replace radiologists' jobs?(I am sure that hospitals would like to reduce the staff in the radiology department if they could)Will it happen in the next 10-15 years?",Consistent-Key-1566,1hbtc6f,https://reddit.com/r/MachineLearning/comments/1hbtc6f/d_should_i_avoid_pursuing_a_radiology_residency/,https://www.reddit.com/r/MachineLearning/comments/1hbtc6f/d_should_i_avoid_pursuing_a_radiology_residency/,2024-12-11 13:22:15,3,0.54,3,0,57,0,0,False,False,True,False,False,Discussion,self,t3_1hbtc6f
+MachineLearning,[R] How difficult is this dataset REALLY?,"New Paper Alert!
+
+Class-wise Autoencoders Measure Classification Difficulty and Detect Label Mistakes
+
+We like to think that the challenge in training a classifier is handled by hyperparameter tuning or model innovation, but there is rich inherent signal in the data and their embeddings.  Understanding how hard a machine learning problem is has been quite elusive.  Not any more.
+
+Now you can compute the difficulty of a classification dataset without training a classifier, and requiring only 100 labels per class.  And, this difficulty estimate is surprisingly independent of the dataset size.
+
+Traditionally, methods for dataset difficulty assessment have been time and/or compute-intensive, often requiring training one or multiple large downstream models. What's more, if you train a model with a certain architecture on your dataset and achieve a certain accuracy, there is no way to be sure that your architecture was perfectly suited to the task at hand — it could be that a different set of inductive biases would have led to a model that learned patterns in the data with far more ease.
+
+Our method trains a lightweight autoencoder for each class and uses the ratios of reconstruction errors to estimate classification difficulty. Running this dataset difficulty estimation method on a 100k sample dataset takes just a few minutes, and doesn't require tuning or custom processing to run on new datasets!
+
+How well does it work? We conducted a systematic study of 19 common visual datasets, comparing the estimated difficulty from our method to the SOTA classification accuracy. Aside from a single outlier, the correlation is 0.78. It even works on medical datasets!
+
+
+
+Paper Link:  https://arxiv.org/abs/2412.02596
+
+GitHub Repo Linked in Arxiv pdf",ProfJasonCorso,1hb54nd,https://reddit.com/r/MachineLearning/comments/1hb54nd/r_how_difficult_is_this_dataset_really/,https://www.reddit.com/r/MachineLearning/comments/1hb54nd/r_how_difficult_is_this_dataset_really/,2024-12-10 16:04:41,26,0.76,26,0,19,0,0,False,False,True,False,False,Research,self,t3_1hb54nd
+MachineLearning,[R] Evaluating the world model implicit in a generative model,,jsonathan,1hbra2d,https://reddit.com/r/MachineLearning/comments/1hbra2d/r_evaluating_the_world_model_implicit_in_a/,https://arxiv.org/pdf/2406.03689,2024-12-11 11:19:06,5,0.78,5,0,3,0,0,False,False,False,False,False,Research,default,t3_1hbra2d
+MachineLearning,[D] Why are the Stella embedding models so much smaller than other models of similar quality?,"On the [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard), `stella_en_v5` is currently ranked 3rd overall, while using *one fifth* the memory of all non-Stella models in the top 10.
+
+`stella_en_400M_v5` is ranked 10th, while using *15-20 times less memory* than the models ranked near it. This appears to be relatively consistent across several subtasks of the benchmark (for English).
+
+What is the secret sauce here? Alternatively, what is the catch? There is no paper yet. Anyone know details?",-p-e-w-,1hbkww5,https://reddit.com/r/MachineLearning/comments/1hbkww5/d_why_are_the_stella_embedding_models_so_much/,https://www.reddit.com/r/MachineLearning/comments/1hbkww5/d_why_are_the_stella_embedding_models_so_much/,2024-12-11 03:58:01,21,0.84,21,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hbkww5
+MachineLearning,Where to find Llama 3 initialisation [R] ,"Title basically says it all, I want a good transformer baseline and I imagine that the initialisation can matter quite a bit. I can find the llama 3 model, but I can find how they init parameters. Does anyone know where I can find this?",idkwhatever1337,1hbudg3,https://reddit.com/r/MachineLearning/comments/1hbudg3/where_to_find_llama_3_initialisation_r/,https://www.reddit.com/r/MachineLearning/comments/1hbudg3/where_to_find_llama_3_initialisation_r/,2024-12-11 14:14:14,1,0.6,1,0,0,0,0,False,False,True,False,False,Research,self,t3_1hbudg3
+MachineLearning,[D] Question about heating system machine learning,"Hello, in conventional heating processes you control when to start heating and when to stop with target values. Once reached it'll stop and start the whole process over and over again, alongside some pump valves (how much water to go through the circulation).
+
+I've captured several room temperatures, all start/stops and pump valve adjustments made by the heating automation software in a time series database for the last 5 years (every minute).
+
+I'm trying to create a model which has a constant target value of e.g. 23 °C. The inputs for the model are the heating system status (on/off), pump valve positions and current room temperatures. Output should be how to set the heating system status and adjust the valve positions to achieve and hold the target value of the room temperatures. In the best case scenario it should replace the heating automation software completely. Other is to just advise or supervise the process.
+
+A few problems come to my mind, where I'm not sure on how to approach these:
+
+1. The process is slow and once heating starts the results can be seen 1 hour later as the temperature changes slowly. So the evaluation of the actions must be done with some delay?
+2. My captured data contains historical temperatures, but I think it might be flawed. The temperature in the data is already influenced by the existing heating system. I don't have temperature data which show how the room temperatures realistically change without any heating systems. Is this a problem for learning? Do I need to create synthetic data?
+3. Would it be better to train a model to output ""start heating / stop heating"" (leave the rest for the conventional heating automation) or to control the heating status and the pump valves itself?
+4. What would be the best machine learning technique, e.g. un-/supervised, reinforcement learning?",QuickYogurt2037,1hb5dty,https://reddit.com/r/MachineLearning/comments/1hb5dty/d_question_about_heating_system_machine_learning/,https://www.reddit.com/r/MachineLearning/comments/1hb5dty/d_question_about_heating_system_machine_learning/,2024-12-10 16:15:47,1,0.67,1,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hb5dty
+MachineLearning,[R] Continuous Latent Space Reasoning: Enhancing LLM Performance Through Chain of Continuous Thought,"This paper introduces **COCONUT** (Chain of Continuous Thought), which transforms language model reasoning from discrete token space into continuous latent space. The key idea is encoding reasoning steps as continuous vectors rather than text tokens, allowing for more flexible and precise intermediate computations.
+
+Main technical points:
+• Encoder-decoder architecture that maps text↔continuous vectors
+• Novel continuous reasoning module operating on latent vectors
+• Parallel processing of reasoning steps in continuous space
+• Gradient-based optimization during the reasoning process
+• Special loss function combining reconstruction and reasoning objectives
+
+Key results:
+• **20%** improvement on reasoning benchmarks vs traditional methods
+• Reduced computational steps needed for complex problems
+• More consistent performance across different reasoning tasks
+• Better handling of mathematical and logical reasoning
+• Enhanced ability to maintain coherent reasoning chains
+
+I think this approach could meaningfully advance how language models handle complex reasoning tasks. By moving beyond discrete tokens, models may better capture the continuous nature of human-like reasoning. The ability to optimize in continuous space during reasoning is particularly promising for improving reliability.
+
+I think the main challenge will be scaling this to very large models while managing computational costs. The translation between discrete and continuous spaces adds overhead that needs to be addressed.
+
+TLDR: New method transforms language model reasoning into continuous vector space instead of discrete tokens, showing 20% better performance on reasoning tasks through more flexible computation.
+
+[Full summary here](https://aimodels.fyi/papers/arxiv/training-large-language-models-to-reason-continuous). Paper [here](https://arxiv.org/abs/2412.06769).",Successful-Western27,1hbto1w,https://reddit.com/r/MachineLearning/comments/1hbto1w/r_continuous_latent_space_reasoning_enhancing_llm/,https://www.reddit.com/r/MachineLearning/comments/1hbto1w/r_continuous_latent_space_reasoning_enhancing_llm/,2024-12-11 13:39:26,2,0.75,2,0,0,0,0,False,False,True,False,False,Research,self,t3_1hbto1w
+MachineLearning,[D] Any 3D reconstruction method that can be used for multiple scenes (i.e. not use and throw),"NeRFs are unique for every scene and thus, need to be trained from scratch. Gaussian splats are scene unique too. I understand that scenes are complex and thus there is very little chance for there to be a neural network that can output multiple scenes once trained. But still are there any scene representations that to some caliber are not use and throw completely?",deathmaster2011,1hbreb4,https://reddit.com/r/MachineLearning/comments/1hbreb4/d_any_3d_reconstruction_method_that_can_be_used/,https://www.reddit.com/r/MachineLearning/comments/1hbreb4/d_any_3d_reconstruction_method_that_can_be_used/,2024-12-11 11:27:15,2,0.75,2,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hbreb4
+MachineLearning,[D] From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler,"A couple months ago I found myself unemployed, uncertain about what to do next. I wanted to learn more about deep learning, but from a systems prespective. Coming from Andrew's Ng course on supervised learning, I was eager to learn more about how deep learning frameworks (or deep learning compilers) like Pytorch or Tinygrad.
+
+I started to poke around Tinygrad, learning from the tutorials I found online, and I found it fascinating because it was an actual compiler, it took conventional python code and translated them into an Abstract Syntax Tree that was parsed into UOps and ScheduleItems, to finally have a codegen layer. While the design was interesting, the code was hard to read.
+
+That's when I stumbled across something completly unexpected, A deep learning compiler built on Common Lisp, maintained by a Japanese 18-year-old during his gap year. And currently we have acomplished something great, it can run gpt2!
+
+For now, it just generates C-kernels, but in the future we would like to support cuda codegen as well as many other features, and serve as a learning tool for anyone who would like to get to work on deep learning compilers in Common Lisp.
+
+This is an open source project and anyone is welcome to contribute!
+
+[https://github.com/hikettei/Caten](https://github.com/hikettei/Caten)
+
+Edit: add an example of how it works.
+
+Here's an example i wrote in a different forum:
+
+Hello! Thanks for your question.
+
+First of all, there are three layers of abstraction within Caten:
+
+1. caten/apis | High-Level Graph Interface 2. caten/air | Low-Level Graph Interface 3. caten/codegen | AIR Graph =&gt; Kernel Generator
+
+The inputs of the compiler are just Common Lisp classes (similar to torch modules). For example, in Common Lisp, we could create a module that does SinCos:
+
+        (defclass SinCos (Func) nil
+          (:documentation ""The func SinCos computes sin(cos(x))""))
+    
+        ;; Forward creates a lazy tensor for the next computation.
+        ;; You can skip this process by using the `st` macro.
+        (defmethod forward ((op SinCos) &amp;rest tensors)
+          (st ""A[~] -&gt; A[~]"" (tensors)))
+    
+        ;; Backward is optional (skipped this time)
+        (defmethod backward ((op SinCos) &amp;optional prev-grad)
+          (declare (ignore prev-grad))
+          nil)
+    
+        ;; Lower describes the lowered expression of `SinCos`
+        (defmethod lower ((op SinCos) &amp;rest inputs)
+          (let ((x (car inputs)))
+            (with-context
+              (a (%sin (%add x (%fconst (/ pi 2)))))
+              (b (%sin a)))))
+
+The \`apis\` layer is the high-level interface, while the \`lower\` method is the lower-level step before code generation.
+
+Next, the framework generates an Abstract VM (AVM) representation:
+
+        #S(AVM :GRAPH Graph[seen=NIL, outputs=(STC6466_1)] {
+          &lt;ALLOCATE : TID6464 &lt;- (shape=(1), stride=(1)) where :dtype=FLOAT32&gt;
+          &lt;Node[BUFFER] ALLOCATE(NID6480) : SID6479* &lt;- ()&gt;
+          &lt;Node[BINARYOPS] ADD(NID6484) : BID6483* &lt;- (TID6464, LID6481)&gt;
+          &lt;Node[UNARYOPS] SIN(NID6486) : UID6485* &lt;- (BID6483)&gt;
+          &lt;Node[UNARYOPS] SIN(NID6488) : UID6487* &lt;- (UID6485)&gt;
+          &lt;Node[SPECIAL/VM] PAUSE/BACKWARD(NID6501) : STC6466_1* &lt;- (UID6487)&gt;
+        })
+
+Then, the computation graph is translated into schedule items:
+
+        FastGraph[outputs=(val_6)] {
+          { Allocate } : [ val_0 &lt;- (1) ]
+          { KERNEL } : [ val_5 &lt;- val_1, val_0 :name=FUSED_SIN_SIN_ADD_LOAD6511]
+        }
+
+Finally, the code generation step produces the following C code:
+
+        void fused_sin_sin_add_load6511(float* val_5, const float* restrict val_0);
+        void fused_sin_sin_add_load6511(float* val_5, const float* restrict val_0) {
+            val_5[0] = sin(sin((val_0[0] + 1.5707964)));
+        }
+
+This C code is compiled by a C compiler and executed.
+
+So to answer your question: the compiler takes Common Lisp code and generates C functions.",yCuboy,1hb7v5h,https://reddit.com/r/MachineLearning/comments/1hb7v5h/d_from_unemployment_to_lisp_running_gpt2_on_a/,https://www.reddit.com/r/MachineLearning/comments/1hb7v5h/d_from_unemployment_to_lisp_running_gpt2_on_a/,2024-12-10 18:00:45,73,0.91,73,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hb7v5h
+MachineLearning,[R] When do authors have access to ICLR Meta-Reviews ?,"Hello everyone,
+
+This is my first time submitting to ICLR. On the ICLR website, it says that Meta-Reviews are due today (in a few hours). Will the authors have access to those reviews at the same time as the decision notification or right after the Meta-Reviews due date ?
+
+Thanks !",Glaze_anetha42,1hbqc75,https://reddit.com/r/MachineLearning/comments/1hbqc75/r_when_do_authors_have_access_to_iclr_metareviews/,https://www.reddit.com/r/MachineLearning/comments/1hbqc75/r_when_do_authors_have_access_to_iclr_metareviews/,2024-12-11 10:10:57,3,0.72,3,0,1,0,0,False,False,True,False,False,Research,self,t3_1hbqc75
+MachineLearning,[D] Resources to get up to the speed with the state of the art evolutionary optimization,"There're plenty of good books letting you get close to the state of the art in the field, on Machine Learning, and Deep Learning in particular. However, are there any good modern books on evolutionary optimization? Are there any good courses?",ArtisticHamster,1hbt986,https://reddit.com/r/MachineLearning/comments/1hbt986/d_resources_to_get_up_to_the_speed_with_the_state/,https://www.reddit.com/r/MachineLearning/comments/1hbt986/d_resources_to_get_up_to_the_speed_with_the_state/,2024-12-11 13:17:59,7,0.89,7,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hbt986
+MachineLearning,[D] Visual Language models for object detection and depth perception in 3D environment,"I want to run a VLM for object detection and depth perception in 3D simulation engine (Unity). What are some good vlms for this use case considering factors like accuracy, speed and ease of fine-tuning?
+
+Example use case:  
+In Unity, I have an environment with 2 rooms. A camera is setup which captures image/video feed of the scene. The VLM should find a specific object (say a black bottle) in the environment, judge where it is in 3D scene and generate coordinates for it.
+
+Basically I want to find out exactly where the object is in the Unity environment. How can this be done? ",reso_ams,1hbs52u,https://reddit.com/r/MachineLearning/comments/1hbs52u/d_visual_language_models_for_object_detection_and/,https://www.reddit.com/r/MachineLearning/comments/1hbs52u/d_visual_language_models_for_object_detection_and/,2024-12-11 12:15:00,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hbs52u
+MachineLearning,[D] Review process incentives and competition,"One of my labmates showed me a comment by an AC asking reviewers in an ACM conference to engage in the ICLR rebuttal and discussion period. This alone is funny (and sad) to me, but what got me was when one of the reviewers responded saying that the review process incentivizes reviewers to score papers low in order to gatekeep competing papers from being accepted.
+
+I want to believe that this happens but its effect is not significant. However, I have heard that this is very common in fields like recommender systems. How prevalent is it in ML in general?",like_a_tensor,1hbf2gs,https://reddit.com/r/MachineLearning/comments/1hbf2gs/d_review_process_incentives_and_competition/,https://www.reddit.com/r/MachineLearning/comments/1hbf2gs/d_review_process_incentives_and_competition/,2024-12-10 23:07:02,4,1.0,4,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hbf2gs
+MachineLearning,[D] Inverse Neural Network,"Hi everyone, I wanna ask you guys if you know what's the current best **supervised** Inverse Neural Network? I know GAN, VAE, and conditional VAE.
+
+Basically, my aim is to determine the input values of a multivariate function that satisfy an output value, e.g., find x=\[x1,...,xN\] so that 0.2=f(x).
+
+My main major is engineering (not machine learning) and my knowledge about the field is quite limited. However, I'm good with reading any research papers that you suggested.
+
+Thank you all,
+
+Edit: sorry the for confusing example. f is NOT multivariate pdf but a ""multivariate function"" f : R\^N -&gt; R. Specifically, f is a ""univariate"" pdf with N-1 parameters.",zonanaika,1hbbj5o,https://reddit.com/r/MachineLearning/comments/1hbbj5o/d_inverse_neural_network/,https://www.reddit.com/r/MachineLearning/comments/1hbbj5o/d_inverse_neural_network/,2024-12-10 20:34:05,5,0.86,5,0,32,0,0,False,False,True,False,False,Discussion,self,t3_1hbbj5o
+MachineLearning,[R] Articulate Anything: automatic generation of 3D interactable assets from any input modalities,"📦 Can frontier AI transform ANY physical object from ANY input modality into a high-quality digital twin that also MOVES? Excited to share our work,Articulate-Anything, exploring how large vision-language models (VLMs) can bridge the gap between the physical and digital worlds.
+
+Articulate-Anything 🐵 is a state-of-the-art method for automatic interactable 3D asset creation from any input modalities including text, images, or videos.  
+  
+Website: [articulate-anything.github.io](https://t.co/y3fNE8Lb7X)  
+Paper: [https://arxiv.org/abs/2410.13882](https://t.co/8m3gu5zTD7)  
+Code: [https://github.com/vlongle/articulate-anything](https://github.com/vlongle/articulate-anything)  
+Please see my twitter thread: [https://x.com/int64\_le/status/1866519866934714623](https://x.com/int64_le/status/1866519866934714623) a deep dive into the method",Prudent_Fly_1004,1hb82am,https://reddit.com/r/MachineLearning/comments/1hb82am/r_articulate_anything_automatic_generation_of_3d/,https://www.reddit.com/r/MachineLearning/comments/1hb82am/r_articulate_anything_automatic_generation_of_3d/,2024-12-10 18:08:50,1,1.0,1,0,0,0,0,False,False,True,False,False,Research,self,t3_1hb82am

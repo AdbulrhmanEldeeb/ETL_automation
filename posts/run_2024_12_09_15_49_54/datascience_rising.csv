@@ -1,0 +1,48 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Thoughts? Please enlighten us with your thoughts on what this guy is saying. ,,httpsdash,1ha78te,https://reddit.com/r/datascience/comments/1ha78te/thoughts_please_enlighten_us_with_your_thoughts/,https://i.redd.it/osj8h2a61t5e1.png,2024-12-09 11:00:26,274,0.89,274,0,96,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/Hze2vTLMgpiAo-i2bM-EFnfAY3TQgp6n18X0d0_mfrk.jpg,t3_1ha78te
+datascience,Is your org treating the rollout of LLMs as an IT or data science problem? ,"Our org has given all resource (and limited all API access) to LLMs to a dedicated team in the IT department, which has no prior data experience. So far no data scientist has been engaged for feedback on design or practicality of use-cases. I'm wondering is this standard in other orgs? ",theAbominablySlowMan,1h9v7pe,https://reddit.com/r/datascience/comments/1h9v7pe/is_your_org_treating_the_rollout_of_llms_as_an_it/,https://www.reddit.com/r/datascience/comments/1h9v7pe/is_your_org_treating_the_rollout_of_llms_as_an_it/,2024-12-08 22:54:00,63,0.9,63,0,29,0,0,False,False,True,False,False,ML,self,t3_1h9v7pe
+datascience,Are certifications even worth it these days?,"So, I’m a cs major stats minor undergrad, and I’ve done a couple of certifications—AWS Cloud Practitioner and IBM Data Science. Honestly, I’m not sure if they added much value. In one interview, I mentioned my certifications right at the end, and they didn’t even seem to notice.
+
+From what I’ve seen, well-defined projects seem to carry more weight than a cert. Projects show real skills, while certs sometimes feel like just ticking a box.
+
+What’s your take? Are there any certs you’ve done that actually helped you stand out, or do you think the focus should shift more toward solid project work?
+
+Also, which one is more valuable or more worth it, AWS, Azure, GCP or Databricks for Data Science/ML??",No-Brilliant6770,1h9m492,https://reddit.com/r/datascience/comments/1h9m492/are_certifications_even_worth_it_these_days/,https://www.reddit.com/r/datascience/comments/1h9m492/are_certifications_even_worth_it_these_days/,2024-12-08 16:10:30,117,0.96,117,0,53,0,0,False,False,True,False,False,Discussion,self,t3_1h9m492
+datascience,entering parameters+executing R without accessing R,"I am preparing a script for my team  (shiny or rmarkdown) where they have to enter some parameters then execute it ( and have maybe executions steps shown). I don t want them to open R or access the script.
+1) How can I do that?
+2) is it dangerous security wise with a markdown knit to html? and with shiny is it safe? I don t know exactly what happens with the online, server thing?
+3) is it okay to have a password passed in the parameters, I know about the Rprofile, but what are the risks?
+thanks",Due-Duty961,1hacmoc,https://reddit.com/r/datascience/comments/1hacmoc/entering_parametersexecuting_r_without_accessing_r/,https://www.reddit.com/r/datascience/comments/1hacmoc/entering_parametersexecuting_r_without_accessing_r/,2024-12-09 15:45:38,1,1.0,1,0,0,0,0,False,False,True,False,False,Tools,self,t3_1hacmoc
+datascience,Timeseries pattern detection problem,"I've never dealt with any time series data - please help me understand if I'm reinventing the wheel or on the right track.
+
+I'm building a little hobby app, which is a habit tracker of sorts. The idea is that it lets the user record things they've done, on a daily basis, like ""brush teeth"", ""walk the dog"", ""go for a run"", ""meet with friends"" etc, and then tracks the frequency of those and helps do certain things more or less often.
+
+Now I want to add a feature that would suggest some cadence for each individual habit based on past data - e.g. ""2 times a day"", ""once a week"", ""every Tuesday and Thursday"", ""once a month"", etc.
+
+My first thought here is to create some number of parametrized ""templates"" and then infer parameters and rank them via MLE, and suggest the top one(s).
+
+Is this how that's commonly done? Is there a standard name for this, or even some standard method/implementation I could use?",ilyanekhay,1h9o1r5,https://reddit.com/r/datascience/comments/1h9o1r5/timeseries_pattern_detection_problem/,https://www.reddit.com/r/datascience/comments/1h9o1r5/timeseries_pattern_detection_problem/,2024-12-08 17:36:09,9,0.85,9,0,2,0,0,False,False,True,False,False,ML,self,t3_1h9o1r5
+datascience,"Weekly Entering &amp; Transitioning - Thread 09 Dec, 2024 - 16 Dec, 2024"," 
+
+Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",AutoModerator,1ha28aj,https://reddit.com/r/datascience/comments/1ha28aj/weekly_entering_transitioning_thread_09_dec_2024/,https://www.reddit.com/r/datascience/comments/1ha28aj/weekly_entering_transitioning_thread_09_dec_2024/,2024-12-09 05:01:21,1,0.67,1,0,0,0,0,False,False,True,False,False,,self,t3_1ha28aj
+datascience,How to find freelance opportunities - what is the most typical troupe of project you do as freelance ,"Hi all,
+
+I have 5+ years of experience. I’m based in Europe
+
+Lately I’m thinking switch from full time employee to contractor, doing freelancing and working for different companies at the same time.
+
+I think that freelancing for data scientists is harder than freelancing for software developers. I imagine a front end developer can easily get a project to build form scratch a website, or add a functionality to the existent one. Data scientists instead need already data and infrastructure to perform their job.
+
+
+- How do data scientists find freelance jobs, I’m based in Europe which platform/website do you use?
+- What is the most typical project you worked on?
+- How is the market now, is there a good demand? ",rr_eno,1h9f8hr,https://reddit.com/r/datascience/comments/1h9f8hr/how_to_find_freelance_opportunities_what_is_the/,https://www.reddit.com/r/datascience/comments/1h9f8hr/how_to_find_freelance_opportunities_what_is_the/,2024-12-08 09:27:41,25,0.88,25,0,11,0,0,False,False,True,False,False,Career | Europe,self,t3_1h9f8hr
+datascience,Is the data job market as badly affected as software engineering?,Everyone knows the market is bad right now for software engineers. Probably as bad as it's every been. What is the consensus on the job market for data professionals right now?,Will_Tomos_Edwards,1h8xo0m,https://reddit.com/r/datascience/comments/1h8xo0m/is_the_data_job_market_as_badly_affected_as/,https://www.reddit.com/r/datascience/comments/1h8xo0m/is_the_data_job_market_as_badly_affected_as/,2024-12-07 17:38:42,245,0.95,245,0,92,0,0,False,False,True,False,False,Career | US,self,t3_1h8xo0m

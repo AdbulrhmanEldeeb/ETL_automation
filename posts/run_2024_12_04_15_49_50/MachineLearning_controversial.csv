@@ -1,0 +1,69 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] Results for IBM PhD Fellowship ,"Anyone know when the results will come out?
+Google and NVIDIA have already released the results.",International-Rip958,1h5yz5s,https://reddit.com/r/MachineLearning/comments/1h5yz5s/d_results_for_ibm_phd_fellowship/,https://www.reddit.com/r/MachineLearning/comments/1h5yz5s/d_results_for_ibm_phd_fellowship/,2024-12-03 21:39:15,0,0.5,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h5yz5s
+MachineLearning,[D] Comparing Multiple Large Language Models in one Pass,"I wrote an article on streamlining the process of comparing and selecting Large Language Models (LLMs) for various tasks:
+
+[Comparing Multiple Large Language Models in one Pass](https://dezoito.github.io/2024/03/28/comparing-from-multiple-LLMs.html)
+
+Hopefully this is useful to help folks trying to make the best model selection for their use case (which can take a lot of time).
+
+I'm also looking forward to discussing different techniques and tools to automate the process.
+
+Thank you!",grudev,1h6evdt,https://reddit.com/r/MachineLearning/comments/1h6evdt/d_comparing_multiple_large_language_models_in_one/,https://www.reddit.com/r/MachineLearning/comments/1h6evdt/d_comparing_multiple_large_language_models_in_one/,2024-12-04 12:30:58,0,0.5,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h6evdt
+MachineLearning,[R] Forecasting and Mitigating Security Threats from Malicious AI Applications,"This paper provides a systematic analysis of potential malicious applications of AI systems across digital, physical and political security domains. The methodology involves:
+
+- Surveying dual-use AI capabilities that could enable attacks
+- Mapping specific attack vectors and required technical capabilities  
+- Analyzing the evolution of attacker/defender dynamics
+- Developing a framework for threat assessment and mitigation
+
+Key technical findings:
+
+- ML advances in areas like NLP and computer vision lower barriers to sophisticated attacks
+- Automated systems can significantly scale up traditional attack vectors
+- Transfer learning and GANs enable rapid adaptation of attack techniques
+- Technical countermeasures alone are insufficient - policy/governance frameworks needed
+
+The researchers provide a detailed assessment framework examining:
+
+- Technical requirements for different attack types
+- Estimated timeline for capability development
+- Difficulty of execution and potential impact
+- Proposed defensive measures and their limitations
+
+I think this work is important for helping the ML community get ahead of security risks before they materialize. The framework provides a structured way to evaluate emerging threats, though I expect the specific attack vectors will evolve significantly as capabilities advance.
+
+I think we need much more research on measuring the effectiveness of proposed countermeasures and understanding the co-evolution of offensive/defensive capabilities. The policy recommendations are a good start but will require ongoing refinement.
+
+TLDR: Systematic analysis of how ML advances could enable new attack vectors across security domains. Provides framework for assessing and mitigating threats through both technical and policy measures.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/malicious-use-artificial-intelligence-forecasting-prevention-mitigation). Paper [here](https://arxiv.org/abs/1802.07228).",Successful-Western27,1h6fbgg,https://reddit.com/r/MachineLearning/comments/1h6fbgg/r_forecasting_and_mitigating_security_threats/,https://www.reddit.com/r/MachineLearning/comments/1h6fbgg/r_forecasting_and_mitigating_security_threats/,2024-12-04 12:55:47,2,0.67,2,0,0,0,0,False,False,True,False,False,Research,self,t3_1h6fbgg
+MachineLearning,[D] Do lots of metadata really help in semantic search?,"I'm on my second week in learning AI and I was thinking of preprocessing biography data by including lots of metadata like city, date of birth, key events, education, hobbies, etc, and then generating embeddings and adding them together into a vector database. Perhaps by using NLP API or LLM. But is it necessary? Or should I just use OpenAI model to dynamically extract this metadata from the bios prior to storing them? Will having lots of metadata dramatically help to improve the quality of the search results?
+
+I thought maybe the semi-automatic preprocessing step would allow me to check and clean the metadata.
+
+*P/S: I posted this at* [*https://www.reddit.com/r/learnmachinelearning*](https://www.reddit.com/r/learnmachinelearning) *but didn't get much response. Thought of trying it out here.*",tjthomas101,1h6f39a,https://reddit.com/r/MachineLearning/comments/1h6f39a/d_do_lots_of_metadata_really_help_in_semantic/,https://www.reddit.com/r/MachineLearning/comments/1h6f39a/d_do_lots_of_metadata_really_help_in_semantic/,2024-12-04 12:43:11,2,0.67,2,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1h6f39a
+MachineLearning,[D] Best alternatives to BERT - NLU Encoder Models ,"I'm looking for alternatives to BERT or distilBERT for multilingual proposes.
+
+I would like a bidirectional masked encoder architecture similar to what BERT is, but more powerful and with more context for task in Natural Language Understanding.
+
+Any recommendations would be much appreciated.",mr_house7,1h6gtxh,https://reddit.com/r/MachineLearning/comments/1h6gtxh/d_best_alternatives_to_bert_nlu_encoder_models/,https://www.reddit.com/r/MachineLearning/comments/1h6gtxh/d_best_alternatives_to_bert_nlu_encoder_models/,2024-12-04 14:07:40,2,0.67,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h6gtxh
+MachineLearning,[R] The Multimodal Universe: Enabling Large-Scale Machine Learning with 100TB of Astronomical Scientific Data,"https://openreview.net/forum?id=EWm9zR5Qy1#discussion
+
+Abstract: We present the Multimodal Universe, a large-scale multimodal dataset of scientific astronomical data, compiled specifically to facilitate machine learning research. Overall, our dataset contains hundreds of millions of astronomical observations, constituting 100TB of multi-channel and hyper-spectral images, spectra, multivariate time series, as well as a wide variety of associated scientific measurements and metadata. In addition, we include a range of benchmark tasks representative of standard practices for machine learning methods in astrophysics. This massive dataset will enable the development of large multi-modal models specifically targeted towards scientific applications. All codes used to compile the dataset, and a description of how to access the data is available at https://github.com/MultimodalUniverse/MultimodalUniverse
+
+What can you guys see the uses of this dataset being?",blabboy,1h5x146,https://reddit.com/r/MachineLearning/comments/1h5x146/r_the_multimodal_universe_enabling_largescale/,https://www.reddit.com/r/MachineLearning/comments/1h5x146/r_the_multimodal_universe_enabling_largescale/,2024-12-03 20:19:26,67,0.97,67,0,2,0,0,False,False,True,False,False,Research,self,t3_1h5x146
+MachineLearning,[D] How to customize an attention mechanism in GNN?,"
+I’m looking for some base code or algorithm in order to create a new mechanism attention while working with graphs with the task of node prediction. I’ve seen there was some documentation in stellar graph but I wonder if there are another pieces of material that would be helpful.
+Thank you!!!",Whole_Hat_4852,1h6hxu8,https://reddit.com/r/MachineLearning/comments/1h6hxu8/d_how_to_customize_an_attention_mechanism_in_gnn/,https://www.reddit.com/r/MachineLearning/comments/1h6hxu8/d_how_to_customize_an_attention_mechanism_in_gnn/,2024-12-04 14:56:15,2,1.0,2,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h6hxu8
+MachineLearning,How to best finetune a CNN? [P],"I'm currently training a CNN on 3D binary arrays for regression (4 conv layers then 3 linear layers with 1 output). I find that performance overall of the CNN is good, but not amazing due to the lower target values being predicted having much poorer performance. I want to try finetuning the model on samples with lower values such that performance for it improves, but when I do so the overall performance of the model decreases. I freeze the first couple of layers of my CNN and only retrain on the last few with a low learning rate. Is there a optimal method for finetuning, or should I go about improving performance on lower values a different way.  
+Data augmentation wouldn't really work in my case since the binary arrays are direction dependent and the target values would then be inaccurate.
+
+I've attached a picture of my parity plot with performance before finetuning.
+
+https://preview.redd.it/bcodzfh4hu4e1.png?width=476&amp;format=png&amp;auto=webp&amp;s=3d3ae8116a92dfeab88c73b82068308cca3938f4
+
+",Tupaki14,1h6hs4q,https://reddit.com/r/MachineLearning/comments/1h6hs4q/how_to_best_finetune_a_cnn_p/,https://www.reddit.com/r/MachineLearning/comments/1h6hs4q/how_to_best_finetune_a_cnn_p/,2024-12-04 14:49:19,1,0.67,1,0,0,0,0,False,False,True,False,False,Project,https://b.thumbs.redditmedia.com/aTNMnjzYZIbKT4tgdd3bQjj_yR3IlZr-bw7SoTWPu4o.jpg,t3_1h6hs4q
+MachineLearning,[D] Linear Regression but with Binary Output for wide range predictions with better precision,"A neural network tends to find it difficult to predict data that ranges between very large and small numbers on the output. My application requires the NN to predict between -1000 and 1000 ∈ Z. I could make this possible by scaling up the output by 1000 hence allowing the model to predict between -1 and 1, but a loss between 2e-2 (prediction) and 3e-2 (target) with L1Loss (worse case L2Loss) would be negligible (1e-2 in this case, 1e-4 in the worse case). It is imperative for the model to be very precise with the predictions, when the target is 5e-2 it should be so and not even at least deviating by +-0.1e-2. This precision is very difficult to achieve when it comes to linear regression, so i thought of a more systematic approach to defining the prediction and criterion. Again, i wanted the model to predict between -1000 and 1000. These numbers can be represented using a minimum of 11 bits (binary), so i redesigned the model output to contain 22 neurons, arranged as ∈ R (11x2) 11 outputs with two classes, the classes being a binary representation of 1 or 0. CrossEntropy could be used as a criterion here but im using multimarginloss instead for specific reasons. Otherwise a different approach could be a sigmoided output of 11 neurons to represent the binary number. Whats you guys' take on this? Is this considered good (if not better) practice? Is there any research similar to this that i can look into?
+
+",Relevant-Twist520,1h6azcu,https://reddit.com/r/MachineLearning/comments/1h6azcu/d_linear_regression_but_with_binary_output_for/,https://www.reddit.com/r/MachineLearning/comments/1h6azcu/d_linear_regression_but_with_binary_output_for/,2024-12-04 07:55:43,1,0.67,1,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1h6azcu

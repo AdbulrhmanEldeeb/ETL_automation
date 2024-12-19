@@ -1,0 +1,40 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Physics,CERN offering free Particle Physics course aimed at High School students,,kevosauce1,1h62sr2,https://reddit.com/r/Physics/comments/1h62sr2/cern_offering_free_particle_physics_course_aimed/,https://ppc.web.cern.ch,2024-12-04 00:23:22,191,0.98,191,0,12,0,0,False,False,False,False,False,,default,t3_1h62sr2
+Physics,Nuclear shape transitions visualized for the first time,,BiggieTwiggy1two3,1h60e54,https://reddit.com/r/Physics/comments/1h60e54/nuclear_shape_transitions_visualized_for_the/,https://physicsworld.com/a/nuclear-shape-transitions-visualized-for-the-first-time/,2024-12-03 22:37:59,59,0.96,59,0,2,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/VrJO8eqGVr04avTuXC_UEUkRN--pYNd5ST1VTeSB8V0.jpg,t3_1h60e54
+Physics,"Even if a quantum computer that surpasses a classical computer is never successfully built, what are some useful research that has/will bear fruit along the way? ","This is similar to a previous question on [fusion energy](https://www.reddit.com/r/Physics/s/J4Ot4aPgq8), which I'm really curious about the answers for quantum computing too.
+
+I believe there's always some nuance involved in these fields dedicated to building these technologies that're hailed as breakthroughs, it's not all or nothing.
+
+With all this research going into it, there's bound to be at least some useful research done that could benefit other fields right? Be it on the experimental or theoretical side?",AbstractAlgebruh,1h5ppfn,https://reddit.com/r/Physics/comments/1h5ppfn/even_if_a_quantum_computer_that_surpasses_a/,https://www.reddit.com/r/Physics/comments/1h5ppfn/even_if_a_quantum_computer_that_surpasses_a/,2024-12-03 15:15:58,49,0.8,49,0,98,0,0,False,False,True,False,False,Question,self,t3_1h5ppfn
+Physics,"Physics Questions - Weekly Discussion Thread - December 03, 2024","This thread is a dedicated thread for you to ask and answer questions about concepts in physics.
+
+Homework problems or specific calculations may be removed by the moderators. We ask that you post these in /r/AskPhysics or /r/HomeworkHelp instead.
+
+If you find your question isn't answered here, or cannot wait for the next thread, please also try /r/AskScience and /r/AskPhysics.",AutoModerator,1h5o0kx,https://reddit.com/r/Physics/comments/1h5o0kx/physics_questions_weekly_discussion_thread/,https://www.reddit.com/r/Physics/comments/1h5o0kx/physics_questions_weekly_discussion_thread/,2024-12-03 14:00:13,12,0.89,12,0,9,0,0,False,False,True,False,False,Meta,self,t3_1h5o0kx
+Physics,What made you interested in physics? ,"My reason for getting into and being interested in physics is quite odd now i look back on it, but i got interested in physics when a truck went past me going quite fast which generated a gust of air/wind
+
+Then i started to think about how and why that happens, so i went home that day and started doing some research, and from that point on, i was hooked.",NoSun6378,1h4cuqs,https://reddit.com/r/Physics/comments/1h4cuqs/what_made_you_interested_in_physics/,https://www.reddit.com/r/Physics/comments/1h4cuqs/what_made_you_interested_in_physics/,2024-12-01 20:36:46,47,0.86,47,0,66,0,0,False,False,True,False,False,Question,self,t3_1h4cuqs
+Physics,Accelerated Structure Formation: The Early Emergence of Massive Galaxies and Clusters of Galaxies,"Paper is open access - [link to paper](https://iopscience.iop.org/article/10.3847/1538-4357/ad834d)
+
+Great Blog by Prof. Stacy McGaugh - The most recent post is about his and collaborators recent paper about JWST results and structure formation.
+[Link to blog](https://tritonstation.com/new-blog-page/)
+
+Highly recommend the blog, whether you are interested in Galaxy dynamics or not, simply because it is great and McGaugh has all the hallmarks of a good guy and great communicator. As ever, judge the physics for yourself. 
+
+",listen_algaib,1h4d92u,https://reddit.com/r/Physics/comments/1h4d92u/accelerated_structure_formation_the_early/,https://www.reddit.com/r/Physics/comments/1h4d92u/accelerated_structure_formation_the_early/,2024-12-01 20:54:04,20,0.9,20,0,4,0,0,False,False,True,False,False,,self,t3_1h4d92u
+Physics,"What is the Main Motivation for Weak Scale Supersymmetry (SUSY) After the Negative Results from the LHC, XENONnT, Searches for Proton Decay, EDM, etc.?","SUSY is an attractive (and natural) property to have for our world especially if we want to build a theory of quantum gravity (vis-a-vis, superstring theory, supergravity etc.). And I understand the basic motivation behind it too, why would nature, after all, not utilize spin 3/2 when she already utilizes the others (0, 1/2, 1, 2). However, for quantum gravity we only need SUSY at the Planck scale NOT at the Weak scale. So massively broken SUSY is not an issue for quantum gravity.
+
+From my understanding the original motivation some 40 years ago for expecting Weak scale (slightly broken) SUSY was as follows:
+1. The so-called WIMP miracle, a candidate for dark matter,
+2. Exact unification of the coupling constants at GUT scale,
+3. Fixing the Heirarchy problem and the Higgs mass,
+4. 'Improving' the discrepancy in the cosmological constant problem.
+
+(If I have understood these incorrectly or if you want to add more reasons, feel free to correct me!)
+
+Now, from what I understand the non-detection of SUSY or WIMPs at the LHC and dark matter experiments (with XENONnT, LZ, etc., now hitting the neutrino floor), along with the growing limits on proton decay and EDM for SUSY models, we are reaching the limits of what SUSY was intended to fix in the first place!
+
+So, my question is, am I missing something from this picture? Is there still any good motivation for Weak scale SUSY?",[deleted],1h40qte,https://reddit.com/r/Physics/comments/1h40qte/what_is_the_main_motivation_for_weak_scale/,https://www.reddit.com/r/Physics/comments/1h40qte/what_is_the_main_motivation_for_weak_scale/,2024-12-01 10:47:24,36,0.85,36,0,11,0,0,False,False,True,False,False,Question,self,t3_1h40qte
+Physics,I graduated 8 years ago with a B.Sc and M.Sc in Physics and Chemistry Honours. ,"Graduated 8 years ago with a B.Sc and M.Sc in Physics and Chemistry Honours. I still reminisce about the late nights in labs, study groups, and the joy of learning with friends. I wanted to do a PhD but couldn’t stand the 7-year slog of academic bureaucracy. Recently, I’ve been diving back into my undergrad notes to relearn and keep my mind sharp. Feels good to reconnect with what I love.",zacky2004,1h3slwk,https://reddit.com/r/Physics/comments/1h3slwk/i_graduated_8_years_ago_with_a_bsc_and_msc_in/,https://www.reddit.com/r/Physics/comments/1h3slwk/i_graduated_8_years_ago_with_a_bsc_and_msc_in/,2024-12-01 02:08:39,116,0.87,116,0,27,0,0,False,False,True,False,False,,self,t3_1h3slwk
+Physics,Dual Vectors: Definition and Intuition,,voteLOUUU,1h3tbju,https://reddit.com/r/Physics/comments/1h3tbju/dual_vectors_definition_and_intuition/,https://youtu.be/wZ2G-b-Ttww,2024-12-01 02:47:32,22,0.76,22,0,2,0,0,False,False,False,False,False,Video,https://b.thumbs.redditmedia.com/JyQAvn4JMok9TjXcWDJOHH1vZFCulGLB5M0HcFia_uc.jpg,t3_1h3tbju
+Physics,A Tale of Two Experiments,,kzhou7,1h3r5m2,https://reddit.com/r/Physics/comments/1h3r5m2/a_tale_of_two_experiments/,https://4gravitons.com/2024/11/29/a-tale-of-two-experiments/,2024-12-01 00:53:30,13,0.72,13,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/xlJnmbaV5_HTqyt4C5CutpCk1OfrT0377HGNCfxZzLc.jpg,t3_1h3r5m2

@@ -1,0 +1,696 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Best place to hire U.S. based web devs?,"I've tried options like Indeed but just get flooded with candidates who are poor fits.  I've heard Craigslist can be a good resource, but never had much luck with it.  
+  
+It seems like there are a lot of devs out there looking for work, and I'm just not sure what the best way is to connect with them.
+
+I have a small Shopify agency, and we need someone to lead our dev efforts, mostly involving working with Liquid, TailwindCSS, various JS frameworks (Vue, AlpineJS, etc), building out custom Shopify apps, working with APIs, etc.
+
+I really want someone U.S. based who speaks English natively.  Is there a site or service out there that can help me find that person?",friendofron,1haf5iy,https://reddit.com/r/webdev/comments/1haf5iy/best_place_to_hire_us_based_web_devs/,https://www.reddit.com/r/webdev/comments/1haf5iy/best_place_to_hire_us_based_web_devs/,2024-12-09 17:31:04,0,0.5,0,0,44,0,0,False,False,True,False,False,,self,t3_1haf5iy
+webdev,Please give AdonisJS a shot,"As someone who was fatigued by the influx of JS frameworks, I did the smart thing and... learned another JS framework...
+
+But no no trust me, this one's different. It breaks all of the JavaScript rules and allows you to write a Rails-like app using TypeScript.
+
+Ive always wanted to try RoR and Laravel, but couldn't get past having to learn another language. Adonis was the perfect solution for that.
+
+It's an incredible framework, one that I really hope will gain some steam. Please give it a shot, its worth your time.",Practical_Race_3282,1haxnkj,https://reddit.com/r/webdev/comments/1haxnkj/please_give_adonisjs_a_shot/,https://www.reddit.com/r/webdev/comments/1haxnkj/please_give_adonisjs_a_shot/,2024-12-10 08:58:22,49,0.64,49,0,87,0,0,False,False,True,False,False,Discussion,self,t3_1haxnkj
+webdev,I made a new programming language to simplify web development - would love your feedback!,"Hey everyone! 👋
+
+I wanted to share a project I'm really excited about - a new programming language called BuckshotPlusPlus that aims to make web development more intuitive.  
+Here's how a simple component looks:
+
+    view button {
+        type = ""button""
+        content = ""Click me!""
+        background-color = ""#007bff""
+        color = ""white""
+        padding = ""10px 20px""
+    }
+
+  
+The language includes built-in session handling, data caching, and component management. I'm working on video tutorials on [youtube ](https://www.youtube.com/watch?v=j0k22uoR9Bc&amp;list=PLttkrjVo_pZoPMCZgw_ByK6Y9Yb_r--oA&amp;index=3)to help people get started , and I'd love your input on what topics to cover!  
+The project is open source: [https://github.com/BuckshotPlusPlus/BuckshotPlusPlus](https://github.com/BuckshotPlusPlus/BuckshotPlusPlus)
+
+  
+I'm actively working on improving it and would love to hear your thoughts on what would make this truly useful for your web development needs. Feel free to share your ideas or ask any questions!
+
+",JhonnyVerse,1half2r,https://reddit.com/r/webdev/comments/1half2r/i_made_a_new_programming_language_to_simplify_web/,https://www.reddit.com/r/webdev/comments/1half2r/i_made_a_new_programming_language_to_simplify_web/,2024-12-09 21:48:49,61,0.67,61,0,77,0,0,False,False,True,False,False,,self,t3_1half2r
+webdev,Heatmaps are coolest effect ever!,"https://i.redd.it/pldq0d5ikv5e1.gif
+
+Hey all,   
+  
+I've recently discovered that heatmap.js exits. I was working on eyetracker and it is perfect effect for my website! Hope you will enjoy it!",TraditionalDistrict9,1hai59v,https://reddit.com/r/webdev/comments/1hai59v/heatmaps_are_coolest_effect_ever/,https://www.reddit.com/r/webdev/comments/1hai59v/heatmaps_are_coolest_effect_ever/,2024-12-09 19:32:41,0,0.42,0,0,6,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/pdOolDmOrHDEUEiyRF7szB1e1OfSxHB491LEXNzRYXU.jpg,t3_1hai59v
+webdev,Looking to create a web store - Can anyone point me into the right direction as to what platform this website is using? Seems popular,,nicholaspham,1harnn6,https://reddit.com/r/webdev/comments/1harnn6/looking_to_create_a_web_store_can_anyone_point_me/,https://i.redd.it/yoerixqapx5e1.png,2024-12-10 02:42:55,0,0.38,0,0,6,0,0,False,False,False,False,False,Question,https://a.thumbs.redditmedia.com/Wozg6vPP_RxkuBIZrTWGLivx3IQdzeszdtP6ajZJaV0.jpg,t3_1harnn6
+webdev,How this website is developed?,"Hi, I tried to search source code of  https://www.coffeefriend.co.uk/. 
+
+It has a smart way to integrate WP with Vue.js and I can't figure out what they use. I had made headless websites in the past but this one is so nice. 
+
+  
+I know that WP part is hosted in /wp/ but if I try to login as a guest through /wp/wp-admin it transfers to /my-account/
+
+Theme is loaded through /app/themes/coffeefriend
+
+Maybe this is some sort of WP + Vue integration that could be found online?",Polarmesh,1hagofs,https://reddit.com/r/webdev/comments/1hagofs/how_this_website_is_developed/,https://www.reddit.com/r/webdev/comments/1hagofs/how_this_website_is_developed/,2024-12-09 18:32:37,0,0.38,0,0,3,0,0,False,False,True,False,False,,self,t3_1hagofs
+webdev,"First Month Update - $6K in revenue, here is what I learned","Hey fellow web developers,
+
+Hope you’re all doing amazing! I wanted to share a bit about what the past month has been like for me.
+
+I'm pretty sure you are all familiar with my product - ChatGPT Toolbox, I posted about it here before, But in case you missed it, it’s a Chrome extension designed to supercharge your ChatGPT experience. It bridges all the gaps and adds tons of useful features, like creating folders, pinning chats, saving and reusing prompts, exporting conversations, and even downloading messages as MP3 files with 9 different voice options. And that’s just scratching the surface—there are plenty more cool tools packed in!
+
+you can read more about it here:
+
+www.ai-toolbox.co
+
+ Last Saturday marks a full month since my extension officially became a paid product, and wow, what a ride it’s been. It’s been a month packed with lessons, challenges, and a few wins that I’m really proud of. To celebrate hitting 5,500 users and $6,000 in revenue in just the first month, I wanted to share 5 big lessons I’ve learned along the way.
+
+1️⃣ A great product isn’t enough.
+This one hit me hard. You can have the most amazing product ever, but if you can’t clearly explain its value to people, it’s not going anywhere. I had to work on really understanding what my audience needed and how to communicate that effectively.
+
+2️⃣ Marketing isn’t optional.
+Honestly, I thought the product would ""sell itself"" at first. Big mistake. Even if it’s great, no one will buy it if they don’t know it exists. Marketing has been a steep learning curve for me, but I’ve realized just how critical it is to make some noise about your product.
+
+3️⃣ Customer support = magic.
+I answered 97% of customer emails within 3 minutes (the other 3%? I was asleep 😅). People were blown away by the quick responses. If email didn’t solve their issue, I jumped on a Google Meet with them. The reaction was always the same: pure shock and gratitude. Those moments reminded me how much a little extra effort can make a huge difference.
+
+4️⃣ I shine in live interactions, not on social media.
+I was invited to present my extension in front of 700 people during a webinar, and it was such a rush. People loved it, and the feedback I got afterward was unreal.
+
+What stood out to me, though, was that I connect much better with people live than through social media. Whenever I try posting videos or updates, they don’t seem to land the same way. But when I’m live? That’s where I thrive. Definitely something I’ll need to figure out moving forward.
+
+5️⃣ Organic growth is the real MVP.
+Every single user so far has come from organic traffic. I hired a marketing agency to help scale, but honestly, they haven’t brought in even one new customer yet. It’s frustrating, but I’m staying patient.
+
+Meanwhile, I’ve been focusing on rolling out cool new features. I have about 70,000 ideas buzzing in my head 🤯, and this month, I pushed out updates like crazy. I just ran a quick poll in my community, and the top-voted feature was live within 24 hours. That was such a fun win!
+
+So, what’s next?
+I’ve realized that for my next product, I really need to build a personal brand to make this process easier. But that’s easier said than done—what language do I use? what platform? Still trying to figure that out.
+
+It’s been a wild month, and I feel like things are just getting started. Would love to hear your thoughts or any questions you might have—let’s chat in the comments!",john2219,1hajki5,https://reddit.com/r/webdev/comments/1hajki5/first_month_update_6k_in_revenue_here_is_what_i/,https://i.redd.it/b0pvquu0vv5e1.jpeg,2024-12-09 20:31:19,0,0.31,0,0,19,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/LWDKOp2yHZwvPqsU1WOu3fV02h1UddWyO9Xf1nEQMZM.jpg,t3_1hajki5
+webdev,I am new in web dev but cant figure out which project to build,I can help you make your website for free with nodejs express mysql and react ,Right-Key-4310,1hawqu9,https://reddit.com/r/webdev/comments/1hawqu9/i_am_new_in_web_dev_but_cant_figure_out_which/,https://www.reddit.com/r/webdev/comments/1hawqu9/i_am_new_in_web_dev_but_cant_figure_out_which/,2024-12-10 07:47:48,1,0.55,1,0,7,0,0,False,False,True,False,False,,self,t3_1hawqu9
+webdev,You heard of a website builder allowing NSFW? ,"I got mixed opinions. I heard Wix, they don’t allow much. And also on Weebly. I read on their TOS. 
+Even after I was told Weebly does allow; and Wix too; simply don’t. They state”no adult themes, even if it is dating; absolutly no porn.” 
+
+Edit: my goal is mainly a neutral, grey zone; stating I am just a former worker at“consulting”. Lmao. It is all SFW.
+
+I do NSFW only outside the website. Indo video calls/ sexting, ONLY outside the website.
+If someone wants to report it, they can not say I am doing NSFW there.",tnybrunette,1hb01h6,https://reddit.com/r/webdev/comments/1hb01h6/you_heard_of_a_website_builder_allowing_nsfw/,https://www.reddit.com/r/webdev/comments/1hb01h6/you_heard_of_a_website_builder_allowing_nsfw/,2024-12-10 11:51:34,0,0.29,0,0,11,0,0,False,False,True,True,False,Question,nsfw,t3_1hb01h6
+webdev,we get lots of great feedback but not much traffic,"We created a recordable doll that allows you to send stories from anywhere in the world. I fill like we have great SEO for things like deployment doll, military doll, and daddy doll. My site is not seeing much traffic. Please just a little advice to point me in the right direction. [umbobooks.com](http://umbobooks.com/)",atcmatt18,1hasv5j,https://reddit.com/r/webdev/comments/1hasv5j/we_get_lots_of_great_feedback_but_not_much_traffic/,https://www.reddit.com/r/webdev/comments/1hasv5j/we_get_lots_of_great_feedback_but_not_much_traffic/,2024-12-10 03:47:09,1,0.6,1,0,3,0,0,False,False,True,False,False,,self,t3_1hasv5j
+webdev,GitHub pages won't load css but local mac will,"Hey yall, I'm just wondering if somebody can help me understand why github pages won't load my css files? Everything is running correctly locally however when I try to do it on GitHub pages nothing works correctly. I'm trying to make a python version of the building java programs website for my senior project and I'm trying just to get a live version of what I have so far so I can show my teacher.   
+ChatGPT told me to use GitHub actions instead of the default deployment but that didn't fix anything, my repo is located [here](https://github.com/25Braeden/bpp) and any help would be appreciated. ",Debtz,1hanjrw,https://reddit.com/r/webdev/comments/1hanjrw/github_pages_wont_load_css_but_local_mac_will/,https://www.reddit.com/r/webdev/comments/1hanjrw/github_pages_wont_load_css_but_local_mac_will/,2024-12-09 23:22:10,1,0.57,1,0,10,0,0,False,False,True,False,False,Question,self,t3_1hanjrw
+webdev,What resources do you use to make your web designs?,"I am looking for some expert advice on the resources and inspirations that they use to build some awesome web designs.
+
+Reply about your resources and inspirations ",ysuraj,1habsbe,https://reddit.com/r/webdev/comments/1habsbe/what_resources_do_you_use_to_make_your_web_designs/,https://www.reddit.com/r/webdev/comments/1habsbe/what_resources_do_you_use_to_make_your_web_designs/,2024-12-09 15:07:53,8,0.7,8,0,39,0,0,False,False,True,False,False,,self,t3_1habsbe
+webdev,What website builders use Masspay?,I wonder what website builders accept Masspay to be there integrated. ,tnybrunette,1hawlxp,https://reddit.com/r/webdev/comments/1hawlxp/what_website_builders_use_masspay/,https://www.reddit.com/r/webdev/comments/1hawlxp/what_website_builders_use_masspay/,2024-12-10 07:37:34,0,0.33,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hawlxp
+webdev,Ecommerce choice for almost 500k monthly visitors?,"Hey, I am currently in process of building a rather heavy ecommerce that will have a lot of features ( including all normal ecommerce features such as shipping, stock management, order status types, user registration, loyalty features etc). And I will likely need something really strong and customizable, I will also need something that I can go headless route which will allow me to decouple front from back.
+
+Shipping and order management should be something I can fully customize though (like offer free shipping after a certain amount, set order status to what shipping method is used).
+
+There will also be recurring payments, which will be monthly, bi weekly or weekly depending on user package (they will be just a small part of the shop though, I can set the recurring payments via stripe or paypal if needed).
+
+Shop will be operating in Europe and will likely end up being a multi store type shop (different for every country it will operate in, not many countries max 4).
+
+So far I have checked out Shopify Plus, Shopware 6, Medusajs etc.
+
+Shopify Plus while good doesn't really seem to fit the criteria for my project considering client doesn't want to pay monthly for addons and such so I've ruled it out. 
+
+I did look at Medusajs but to be honest it seems like it lacks so many features out of box that most shops have, it lacks category nesting (based on what I have seen) which is something I really need to have.
+
+Shopware 6 to me seems like a good choice, since it is customizable enough for it to work for me and headless seems like a good enough option for it. 
+
+I have ruled out some things like Woocommerce (too slow and can't rely on its security), Magento 2 (too much dev time) and PrestaShop.
+
+My question is, is there anything better and faster considering project scope than Shopware 6? 
+
+Thank you very much for reading.
+
+Edit: I do have the option of going for custom solution backend which is indeed likely the best choice when it comes to this project? ",NDragneel,1hany2y,https://reddit.com/r/webdev/comments/1hany2y/ecommerce_choice_for_almost_500k_monthly_visitors/,https://www.reddit.com/r/webdev/comments/1hany2y/ecommerce_choice_for_almost_500k_monthly_visitors/,2024-12-09 23:40:40,0,0.38,0,0,16,0,0,False,False,True,False,False,Question,self,t3_1hany2y
+webdev,"Is contenteditable=""true"" bad to use?","Hey everyone,
+
+I'm a high school student and working on building a web app. I am trying to enable users to be able to edit an item's text by clicking directly on it and update it in the backend when they tap a save button. **Currently, I'm using contenteditable on an h2** (I'm also using contenteditable on multiple &lt;p&gt; tags)**.** When the user clicks on the text, a div with buttons cancel-edit and save-edit in it will appear. Once the cancel or save button is clicked, the div disaperas and js runs a function that changes the backend. 
+
+Is using contenteditable fine? If it isn't, what are some other ways I can allow users to change text? (Preferably not another modal)
+
+If anyone needs clarification feel free to ask, I can provide more information.
+
+Ty in advance!",Cyb3rPhantom,1hajheh,https://reddit.com/r/webdev/comments/1hajheh/is_contenteditabletrue_bad_to_use/,https://www.reddit.com/r/webdev/comments/1hajheh/is_contenteditabletrue_bad_to_use/,2024-12-09 20:27:48,8,0.75,8,0,15,0,0,False,False,True,False,False,,self,t3_1hajheh
+webdev,First time website creator,"I have worked really hard to get my website up and performing well. I am a bit confused with the difference in my websites performance score on lighthouse and page speed insights. I’m focusing on mobile performance as my desktop performance is consistent. Currently I have a 90 for performance on lighthouse, yet my performance rating on Page speed insights is 64. Which is a more accurate representation of what users in the US will experience? I’m located in the southeast US, and my service area is limited to the northern half of one state. Any insight would be greatly appreciated as I continue to learn about website development.",Legal_Personality617,1hb1nte,https://reddit.com/r/webdev/comments/1hb1nte/first_time_website_creator/,https://www.reddit.com/r/webdev/comments/1hb1nte/first_time_website_creator/,2024-12-10 13:24:41,0,0.5,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hb1nte
+webdev,How to use jwt with http-only cookies?(particularly in django rest),"So, I read that using http-only cookies is more secure against XSS attacks.
+
+But, - how to refresh access token if can\`t take refresh token from cookies for api call?
+
+How to set Authorization header in js when make api call?
+
+Thanks!",mikhailo_k,1haxtxr,https://reddit.com/r/webdev/comments/1haxtxr/how_to_use_jwt_with_httponly_cookiesparticularly/,https://www.reddit.com/r/webdev/comments/1haxtxr/how_to_use_jwt_with_httponly_cookiesparticularly/,2024-12-10 09:11:25,0,0.5,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1haxtxr
+webdev,Has anyone found PR review bot that can be configured using AI prompts?,"The way I would imagine this works, is that we'd have a file like conventions.yaml, that file will have prompts that we want to uphold, e.g.
+
+```
+convention: use build_json_object for grouping related SQL
+rule: If a SQL query is returning multiple fiels from a joined table, require that json_build_object is used to group those fields under a single object
+```
+
+... and every time a PR is raised, bot evaluates changes against these conventions and adds comments when it sees a drift happening.
+
+Anyone found anything like this?",gajus0,1haffmg,https://reddit.com/r/webdev/comments/1haffmg/has_anyone_found_pr_review_bot_that_can_be/,https://www.reddit.com/r/webdev/comments/1haffmg/has_anyone_found_pr_review_bot_that_can_be/,2024-12-09 17:42:24,0,0.5,0,0,0,0,0,False,False,True,False,False,Question,self,t3_1haffmg
+webdev,"Warning, Smartrmail app contains 'bad' automatic permissions in the terms &amp; conditions, and will plant your business's email in everyones' spam.","I recently made a giant mistake by downloading this one Shopify add-on app... right from that wholesome official Shopify app store.
+
+I recently decided to try out this marketing app, Smartrmail (bad idea). I have to say... the experience was so negative, that I felt the need to protect fellow store owners.
+
+Once you download the app, you'll notice the option to create a password for your account (recommended by the app for ""security purposes"" lol). Once you create a password, you'll never be able to delete your account or change the email attached. Not kidding.
+
+The option to delete your account isn't available. You cannot remove your important business-email from this account profile. The option isn't available. You will be stuck.
+
+Next, they'll start sending shitty emails from a shitty template from your email address, because you agreed to 'let' them by checking the box that says ""I agree to these terms and conditions."" They will send emails to every single one of your customers, and the emails look TERRIBLE.
+
+This is so heinous, I had to dig deeper. The company was active about three years ago in late 2020, and then closed it's doors. The application business, Smartrmail, was acquired in 2023 by new owners. At the bottom of the page, the app claims to be owned by Intercom (Google showed it as an AI chat bot business for retail), however, there isn't any proof anywhere else on the web that shady ass Smartrmail is ACTUALLY owned by Intercom. The Shopify app store says it's owned by a company called Relay. So, who is who? We just don't know yet.
+
+Worse, this app has received 500+ 5 star reviews... yet their official youtube channel has less than 100 views total for the three half-ass AI videos they have up. All of them use AI voices. Why on earth wouldn't anybody want their actual name/face or voice affiliated with Smartrmail. Is there something wrong with it? I'm still seriously considering calling the US &amp; Australian FBI, this app is sooooo effing shady. It blows my mind the Shopify app store approved it... yikes
+
+I care about this community, so that's why I'm recommending you stay away from this super-scam Smartrmail app on Shopify. You deserve better. We all do. I love Shopify as much as the rest of us. I can't believe Shopify is letting this app continue... so embarrassing for them.
+
+Don't believe me? Log-out, and open a separate, free 30-day Shopify trial using a dummy email address, and see for yourself. You'll see what I'm talking about. This app is designed to hurt sellers. I'm honestly not sure what can be done about this.",AutumnLeaves420,1hau8mv,https://reddit.com/r/webdev/comments/1hau8mv/warning_smartrmail_app_contains_bad_automatic/,https://www.reddit.com/r/webdev/comments/1hau8mv/warning_smartrmail_app_contains_bad_automatic/,2024-12-10 05:02:56,22,0.83,22,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hau8mv
+webdev,"As a front-end developer, do I need to learn any AI-related skills?",Can you suggest any certifications related to AI in web development to help me prepare for the AI revolution?,Vedavyas7,1haiuu8,https://reddit.com/r/webdev/comments/1haiuu8/as_a_frontend_developer_do_i_need_to_learn_any/,https://www.reddit.com/r/webdev/comments/1haiuu8/as_a_frontend_developer_do_i_need_to_learn_any/,2024-12-09 20:02:01,0,0.22,0,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1haiuu8
+webdev,"why most mainstream backend framework rely heavily on OOP, can't it be done with other programming paradigms?","I really got curious how come most if not all mainstream frameworks used in web were built using oop pattern, why no one attempted to make a procedural or functional pattern of a  framework???",Hzk0196,1hb3ihb,https://reddit.com/r/webdev/comments/1hb3ihb/why_most_mainstream_backend_framework_rely/,https://www.reddit.com/r/webdev/comments/1hb3ihb/why_most_mainstream_backend_framework_rely/,2024-12-10 14:53:44,0,0.13,0,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1hb3ihb
+webdev,Is Programmatic Review Flagging Possible via Google API?,"Hi,
+
+I work for a marketing company that manages multiple businesses, and one of my responsibilities is flagging Google reviews that breach Google's policies and following up with Google based on the outcome.
+
+The main challenge is that this is a manual process—we have to log in to each client account and perform this task individually. I’ve noticed that some other platforms offer a dashboard where users can flag specific reviews and receive feedback on Google’s response regarding those reviews. If Google’s reply is negative, these platforms allow users to provide additional information through the same dashboard to support their reason for flagging the review.
+
+I know this process can be done manually via a business’s Google My Business (GMB) account and the Google Reviews Management Tool to submit more information for a review. However, I’ve searched extensively and can’t find any information in the Google API that would enable the above scenario programmatically.
+
+This makes me wonder if these other companies are falsely marketing their dashboards and actually have someone manually performing the process in the background, while simply updating the dashboard with Google’s feedback.",startup4you,1haol26,https://reddit.com/r/webdev/comments/1haol26/is_programmatic_review_flagging_possible_via/,https://www.reddit.com/r/webdev/comments/1haol26/is_programmatic_review_flagging_possible_via/,2024-12-10 00:10:21,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1haol26
+webdev,How to Build a Subscription-Based API System with Request Limits ? ,"
+Hey ,
+
+I'm working on a project to build a subscription system that tracks API requests and enforces limits based on user plans (e.g., free users get 1,000 requests/month). On Oracle 
+
+Here’s what I’m trying to figure out:
+
+1. Any recommendations for a free open source API I can use to test and implement the system?
+
+
+2-  What security risks should I be aware of (e.g., API key exposure), and how can I mitigate them?
+
+
+3- How can I ensure scalability in tracking requests and maintaining uptime? 
+
+
+4- Any tips for managing API limits and DevOps processes for a system like this?
+
+
+I’d appreciate any advice or resources. Thanks!
+
+",Murky-Principle6255,1hanytg,https://reddit.com/r/webdev/comments/1hanytg/how_to_build_a_subscriptionbased_api_system_with/,https://www.reddit.com/r/webdev/comments/1hanytg/how_to_build_a_subscriptionbased_api_system_with/,2024-12-09 23:41:35,0,0.4,0,0,3,0,0,False,False,True,False,False,Question,self,t3_1hanytg
+webdev,Is headless ecommerce a good way to build a fast site?,"My experience with static sites has improved a lot since I started using Astro. 
+
+I am enthusiastically interested in reading about best practices in ecommerce web development and headless architecture.",salbertengo,1hanmhj,https://reddit.com/r/webdev/comments/1hanmhj/is_headless_ecommerce_a_good_way_to_build_a_fast/,https://www.reddit.com/r/webdev/comments/1hanmhj/is_headless_ecommerce_a_good_way_to_build_a_fast/,2024-12-09 23:25:43,1,0.67,1,0,4,0,0,False,False,True,False,False,,self,t3_1hanmhj
+webdev,Cloudflare 2024 Year in Review,,magenta_placenta,1hagtvr,https://reddit.com/r/webdev/comments/1hagtvr/cloudflare_2024_year_in_review/,https://blog.cloudflare.com/radar-2024-year-in-review/,2024-12-09 18:38:48,1,0.67,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/2_ywqh-3Dwx9sINq0xVHlL-qbG2BH3cySq9HlBMlOnw.jpg,t3_1hagtvr
+webdev,Launched an Open Source Tool on Product Hunt. Want to share why I built it.,"Over the past year of building AI-enabled SaaS applications, I kept hitting the same wall. Going from a Jupyter notebook full of AI RAG techniques to something usable in my app was a nightmare. I'm sure if anyone here has taking a look at llama-index or langchain cookbook sections you might understand what I'm talking about.  
+  
+I came to the conclusion that this is the problem:  
+\- Notebooks are great for testing ideas, but they’re not meant for building applications around them.  
+\- I had to manually dissect notebooks, build a proof-of-concept API server, integrate it into my app, and pray it worked.  
+\- The feedback loop was \*painfully\* long—and most of the time, I canned the project because it didn’t quite fit.  
+  
+This frustration comes from a gap in roles:  
+1. Data Scientists/AI Devs want notebooks to experiment with methods and techniques—but it's not their main focus to also create an API for other applications to use.  
+2. App Developers just want simple APIs to test and integrate quickly to see if it actually enhances their app.
+
+This is where KitchenAI comes in. A tool that bridges this gap by transforming your AI Jupyter notebooks into production-ready API server in minutes.  
+  
+But why??  
+\- Shorter Development Cycles  
+Test, iterate, and deploy AI techniques faster and cut the feedback loop in half.  
+\- Vendor and Framework Agnostic  
+Use the libraries you’re comfortable with, no lock-ins.  
+\- Plugin Architecture  
+Extend functionality with plugins for evaluation frameworks, observability, prompt management, and more.  
+\- Open Source and Local-First  
+Built on trusted technologies like Django, so you stay in control—no 3rd-party dependencies required.  
+\- Docker-Ready  
+Share your API server as a lightweight container for easy collaboration.  
+  
+We’ve released KitchenAI as an Apache-licensed open-source tool, so anyone can use it. Up next is a managed cloud version with deeper integrations, metrics, analytics, and workflows for teams with more complex needs. One short term goal is to go straight from colab to a KitchenAI cloud hosted API so development can be absolutely seamless.  
+  
+Give it a spin and a star: [https://github.com/epuerta9/kitc...](https://github.com/epuerta9/kitchenai)
+
+The product hunt profile as well, a demo video is included: [https://www.producthunt.com/posts/kitchenai-2?utm\_source=other&amp;utm\_medium=social](https://www.producthunt.com/posts/kitchenai-2?utm_source=other&amp;utm_medium=social)",wait-a-minut,1haoavw,https://reddit.com/r/webdev/comments/1haoavw/launched_an_open_source_tool_on_product_hunt_want/,https://www.reddit.com/r/webdev/comments/1haoavw/launched_an_open_source_tool_on_product_hunt_want/,2024-12-09 23:57:17,8,0.83,8,0,4,0,0,False,False,True,False,False,Resource,self,t3_1haoavw
+webdev,Supabase vs T3 stack for MVP AI app,"Hi there,
+
+Interested in hearing opinions on whether you would choose Supabase + Nextjs or the T3 stack for generic AI products such as a PDF Chat app with authentication, free and paid tiers, file storage, etc.
+
+I've used the T3 stack, and I like it, but I want to build an MVP as quickly as possible and Supabase seems like it includes basically everything infrastructure-wise, and for cheap
+
+What would you use, and why?",Ukpersfidev,1hat7ku,https://reddit.com/r/webdev/comments/1hat7ku/supabase_vs_t3_stack_for_mvp_ai_app/,https://www.reddit.com/r/webdev/comments/1hat7ku/supabase_vs_t3_stack_for_mvp_ai_app/,2024-12-10 04:05:53,0,0.25,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hat7ku
+webdev,Looking for 10 freelance devs,"Hello everyone, If you're here you're probably looking to get new clients and times are tough in this market with AI programming and low interest rates.
+
+I'm a freelancer myself and sometimes you get a client for a short period of time or a small gig but you fail to convert it into a long-term opportunity that would generate you a comfortable income. Sometimes clients can be very annoying and ask for constant updates, meetings, phone calls, etc..
+
+I'm looking for 10 devs who have good experience of freelancing platforms (Upwork, Freelancer, etc..) and help you:
+
+- Boost your proposals and stand out from competition to get more clients on autopilot
+- Provide clients with automated communication and updates on the project at any time.
+- Ensure absolute client satisfaction for long-term opportunites and more dollars.
+
+If you're interested, hmu in DMs.
+
+For your help and feedback, I'm willing to offer you gift cards or cash via bank wire or we can have a small $30 contract on any freelancing platform of your choice for an easy 5 stars review.
+
+Thanks for reading and I hope you guys get more opportunities in the future.",walegfr,1halvmh,https://reddit.com/r/webdev/comments/1halvmh/looking_for_10_freelance_devs/,https://www.reddit.com/r/webdev/comments/1halvmh/looking_for_10_freelance_devs/,2024-12-09 22:08:15,0,0.18,0,0,3,0,0,False,False,True,False,False,,self,t3_1halvmh
+webdev,Is it possible to repeatedly click a static button to show social media videos?,"[https://CaneFreestyle.com](https://CaneFreestyle.com) allows users to click the home page and see cane videos randomly.
+
+PROBLEM:
+
+The user clicks the home page, watches a random link, and must navigate back to the home page.
+
+Sites like Instagram, TikTok, and Youtube pages contain have Javascript that breaks frames.
+
+They also detect if their page is embedded in frames and prevent their page from displaying.
+
+Worse, if the mobile apps are installed, the user is redirected to see the link in the app.
+
+SOLUTION:
+
+I would like to change the website so that:
+
+1. he user can click a button that does not move
+2. the user can click the button repeatedly
+3. each time they click, they see a random video
+4. the site avoids violating the terms of services
+5. it works using frontend Javascript, HTML, &amp; CSS
+
+It will be nicer if the user can simply ***click one button repeatedly*** and see random links.
+
+Is there a way to make it so that the user can watch 100 videos only by clicking 100 times?",DealDeveloper,1haqsp0,https://reddit.com/r/webdev/comments/1haqsp0/is_it_possible_to_repeatedly_click_a_static/,https://www.reddit.com/r/webdev/comments/1haqsp0/is_it_possible_to_repeatedly_click_a_static/,2024-12-10 01:58:56,0,0.17,0,0,3,0,0,False,False,True,False,False,,self,t3_1haqsp0
+webdev,Self hosted solution for monetizing websites,"For years have used AdSense and other ad networks to monetize my blogs. Lately their rules are so tight and it is almost impossible to get approved and you'll be banned without any warning even if you don't do nothing against the rules just don't respond to a recently updated policy you didn't comply.
+
+I'm tired of this and wrote my simple solution to host my own ads and sell ad space on my web sites.
+
+It is on GitHub now: [https://github.com/ColeNikol/Random-Ads-Manager](https://github.com/ColeNikol/Random-Ads-Manager)",Cheap-Picks,1haicq5,https://reddit.com/r/webdev/comments/1haicq5/self_hosted_solution_for_monetizing_websites/,https://www.reddit.com/r/webdev/comments/1haicq5/self_hosted_solution_for_monetizing_websites/,2024-12-09 19:41:16,3,0.8,3,0,0,0,0,False,False,True,False,False,Resource,self,t3_1haicq5
+webdev,"High-level architecture of my point-of-sales app (Vue, IndexedDB, Electron &amp; React Native + Laravel)","I've been building a point-of-sales app that works on iPads, Android devices and Windows systems, and I drew up a high-level architecture diagram to show you.
+
+At the core sits a Vue SPA, that gets wrapped in:
+
+* Electron for Windows/MacOS builds
+* React Native for Android and iOS builds
+
+[High-level architecture of our POS app](https://preview.redd.it/n3s58yejau5e1.png?width=2304&amp;format=png&amp;auto=webp&amp;s=6912edbafd36ace6bfe35d1c68efeb39de887fbf)
+
+Both the React Native app, and the Electron app have a shared NodeJS component, that allows the SPA to communicate with devices on the network using TCP for example.
+
+This way, our app can communicate with peripherals like thermal printers and payment terminals.
+
+Since React Native doesn't come with a NodeJS runtime, we ship [NodeJS mobile](https://nodejs-mobile.github.io/) with it, and this entire setup allows me to share \~95% of my entire codebase for all platforms.
+
+[https://youtu.be/TAUAza\_n-6k](https://youtu.be/TAUAza_n-6k)",SabatinoMasala,1hac1h3,https://reddit.com/r/webdev/comments/1hac1h3/highlevel_architecture_of_my_pointofsales_app_vue/,https://www.reddit.com/r/webdev/comments/1hac1h3/highlevel_architecture_of_my_pointofsales_app_vue/,2024-12-09 15:19:10,4,0.75,4,0,12,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/oCCQsWbMnVx8RWEea3PRpg38oFkPTB9ZGljowvtjTUI.jpg,t3_1hac1h3
+webdev,The slow death of the hands-on engineering manager,,mmaksimovic,1haxzvi,https://reddit.com/r/webdev/comments/1haxzvi/the_slow_death_of_the_handson_engineering_manager/,https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering,2024-12-10 09:24:56,28,0.92,28,0,2,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/IxIUCTTaum_kh5CwRdzEwfsOlYqf58Xp_PPPI1k7bl4.jpg,t3_1haxzvi
+webdev,Do you add —fix to your eslint script in package.json?,In some ways it feels like a no-brainer but I’d wonder in some cases if there would be unintended code changes that you actually might not want?,redditindisguise,1habxbz,https://reddit.com/r/webdev/comments/1habxbz/do_you_add_fix_to_your_eslint_script_in/,https://www.reddit.com/r/webdev/comments/1habxbz/do_you_add_fix_to_your_eslint_script_in/,2024-12-09 15:14:06,7,0.74,7,0,10,0,0,False,False,True,False,False,,self,t3_1habxbz
+webdev,Partially finished sveltekit site,"Good morning! Hoping I’m in the right space- I am in no way a developer myself, just a business owner. I’ve hired a developer for a website who seems to be experiencing some personal challenges that are preventing getting the site launched. Life happens and there are things in the world more important than my website, but I am starting to think I may need to find someone else to get this across the finish line. I know that the code has been done on sveltekit. My questions, if the group may be so kind to guide me: How should I ask for the work product that’s been completed so far to be provided to me such that I can pass it along to another developer? Is this something where someone can even reasonably step in, or am I looking at starting over? What would be a fair resolution financially here- I have no ability to look at code and see how close to the completed product it is as far as how much of the total payment has been earned at this point between the initial and final payments. Any input would be welcome! ",gracetw22,1hb1yne,https://reddit.com/r/webdev/comments/1hb1yne/partially_finished_sveltekit_site/,https://www.reddit.com/r/webdev/comments/1hb1yne/partially_finished_sveltekit_site/,2024-12-10 13:40:06,1,1.0,1,0,4,0,0,False,False,True,False,False,Question,self,t3_1hb1yne
+webdev,Preferred method for creating 3rd party embeddable widgets?,"What is the preferred method for creating widgets that other sites can embed into their websites? I have seen examples of iframes and others using div/script elements (e.g. embedding Disqus). From a styling perspective, does one have an advantage over the other? What about from a browser performance/loading/interoperability  perspective?
+
+My use-case would be a widget that is full browser width and with a variable length of content, fairly interactive (e.g. 'like' and comment functionality) instead of a simple display.
+
+Other than Disqus, what would be some other examples of embedded widgets worth learning from?",sesamesesayou,1hb0kw6,https://reddit.com/r/webdev/comments/1hb0kw6/preferred_method_for_creating_3rd_party/,https://www.reddit.com/r/webdev/comments/1hb0kw6/preferred_method_for_creating_3rd_party/,2024-12-10 12:24:46,2,1.0,2,0,9,0,0,False,False,True,False,False,,self,t3_1hb0kw6
+webdev,How to make a range slider work on iOS drag?,"I'm building a small habit tracker and want the tiles to have a background that scales with their corresponding progress, when i drag it on chrome(mac or android), it works totally fine but draging the range slider on my IPhone doesn't work i can only click at the desired position which would be a bad user experience :(
+
+working on macos: [https://youtube.com/shorts/elm-CNSKkz8?feature=share](https://youtube.com/shorts/elm-CNSKkz8?feature=share)
+
+  
+Not working on iOS: [https://youtube.com/shorts/rKdBe5l\_kAM?feature=share](https://youtube.com/shorts/rKdBe5l_kAM?feature=share)",SleepAffectionate268,1hazl9q,https://reddit.com/r/webdev/comments/1hazl9q/how_to_make_a_range_slider_work_on_ios_drag/,https://www.reddit.com/r/webdev/comments/1hazl9q/how_to_make_a_range_slider_work_on_ios_drag/,2024-12-10 11:21:27,1,1.0,1,0,4,0,0,False,False,True,False,False,,self,t3_1hazl9q
+webdev,Is it possible to reference a swagger schema but omit some fields?,"\* components:
+
+\*   schemas:
+
+\*     CombinedResource:
+
+\*       allOf:
+
+\*         - $ref: '#/components/schemas/MainSchema'
+
+\*         - $ref: '#/components/schemas/AdditionalSchema'
+
+While referencing to the MainSchema here I want to remove some fields from that and exclude them from the final schema.  In a way that they are also not shown on the Swagger API Dashboard. Thanks!",mmddev,1haykfv,https://reddit.com/r/webdev/comments/1haykfv/is_it_possible_to_reference_a_swagger_schema_but/,https://www.reddit.com/r/webdev/comments/1haykfv/is_it_possible_to_reference_a_swagger_schema_but/,2024-12-10 10:08:24,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1haykfv
+webdev,Handshake for internships?,"Hi everyone, just curious if anybody landed web dev internships through handshake platform. Or if you know good platform to search/apply for internships. Handshake accepts only college students and this just makes me think, if there are more chances to get into the job through this platform (I know it’s pretty tough in current market anyway)
+
+Thank you in advance!",FluffyKL,1hawi6d,https://reddit.com/r/webdev/comments/1hawi6d/handshake_for_internships/,https://www.reddit.com/r/webdev/comments/1hawi6d/handshake_for_internships/,2024-12-10 07:29:50,2,0.67,2,0,2,0,0,False,False,True,False,False,Question,self,t3_1hawi6d
+webdev,Developing a program to create a grocery list for a store a user selects.,"Hello, I am developing a program that will allow a user to generate recipes and a grocery list for a store of their choice. The problem I am running into is I want to be able to display actual products that are at the store they select and the products pricing. I can not for the life of me figure out if there is a way to do this, any api's or do I need to resort to webscrapping for the time being until I can get in contact with these chains? 
+",EliteJ0ker,1havuyp,https://reddit.com/r/webdev/comments/1havuyp/developing_a_program_to_create_a_grocery_list_for/,https://www.reddit.com/r/webdev/comments/1havuyp/developing_a_program_to_create_a_grocery_list_for/,2024-12-10 06:44:49,1,1.0,1,0,5,0,0,False,False,True,False,False,Question,self,t3_1havuyp
+webdev,Bypass white overlay on website,"https://sg.usehurrier.com/app/rooster/web/shifts
+
+Hi I have been using this weblink for work but however I hasn’t been able to access the web link. Seems like the link still works but there’s a white overlay over it which blocks out everything? Is there any way to bypass the white overlay? Cheers. ",bastjanlee,1hauzl5,https://reddit.com/r/webdev/comments/1hauzl5/bypass_white_overlay_on_website/,https://www.reddit.com/r/webdev/comments/1hauzl5/bypass_white_overlay_on_website/,2024-12-10 05:47:59,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hauzl5
+webdev,"YACPD question: I know this has been asked many many times over the last decade or so, but I'm going to ask it again. I'm curious about your experiences with the current cross-platform SDKs","Disclaimer: I intend to build POC apps in my short list to come to my own conclusion, but I would like your opinions in case i've over looked something.
+
+I've always had a native-firsts stance, so I haven't needed a cross-platform solution for a while so i am a bit out of date on the current state of affairs, so i'd like any constructive feedback
+
+I'm currently considering:
+
+- flutter
+- kotlin compose/native
+- nativescript
+
+My thoughts so far:
+
+**Flutter**
+
+Pros: 
+
+- I've always loved flutter from the pre-beta version
+- Their rendering model is very interesting
+- Dart is perfectly boring in the best sense of the way. It is familiar whether you're coming from java, javascript, or some other algol-inspired language. it can be quickly adopted by other developers in an afternoon or so
+- It is a very opinionated language which eliminates unnecessary conversations about how to do things
+- Their web output is finally stable
+
+
+Cons: 
+
+- State management and design patterns have been questionable in the past and change often. 
+- Using canvas for the web output feels icky but that's a knee-jerk reaction and they seem to have addressed accessibility issues
+
+**kotlin**
+
+Pros: 
+
+- Jetbrains understands developer needs and have vastly improved the android ecosystem. 
+- Kotlin fixes java and is a fun language
+
+Cons: 
+
+- Kotlin has a large learning curve for new devs because there are so many features. 
+- Web and iOS are not yet to a stable state
+
+**nativescript**
+
+Pros:
+
+- It seems robust and stable
+- It supports many FE tools
+
+Cons:
+
+- I have no experience with it
+
+
+**Things i've ruled out (but can be convinced otherwise)**
+
+- react native
+- ionic
+- anything that uses a web view",anus-the-legend,1haogom,https://reddit.com/r/webdev/comments/1haogom/yacpd_question_i_know_this_has_been_asked_many/,https://www.reddit.com/r/webdev/comments/1haogom/yacpd_question_i_know_this_has_been_asked_many/,2024-12-10 00:04:27,1,1.0,1,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1haogom
+webdev,Can somebody help? Node.js and PSQL,"My front end works fine, but this exact part about updating a client's info is getting over my head and I really need some guidance. I hope some life saver could help. 
+
+This is my clients table on my DB: 
+
+    CREATE TABLE IF NOT EXISTS clients (
+      id_number VARCHAR(50) PRIMARY KEY,
+      name VARCHAR(255) NOT NULL,
+      birth_date DATE,
+      id_document VARCHAR(50),
+      id_expiry DATE,
+      phone VARCHAR(15),
+      email VARCHAR(255),
+      address TEXT,
+      license VARCHAR(50),
+      license_expiry DATE,
+      note TEXT
+    );
+
+And I have this controller for updating a client's info: 
+
+    const updateClient = async (req, res) =&gt; {
+      const id = req.params.id_number;
+    
+      const { name, birth_date, id_document, id_expiry, phone, email, address, license, license_expiry, note } = req.body;
+    
+      const responseReturn = new ResponseClass();
+    
+      const query = `UPDATE clients SET name = $1, birth_date = $2, id_document = $3, id_expiry = $4, phone = $5, email = $6, address = $7, license = $8, license_expiry = $9, note = $10 WHERE id_number = $11`;
+    
+      const params = [name, birth_date, id_document, id_expiry, phone, email, address, license, license_expiry, note, id];
+    
+      try {
+        const { rows } = await queryDatabase(query, params);
+        if (rows.length === 0) {
+          responseReturn.status = false;
+          responseReturn.code = 404;
+          responseReturn.message = ""Client not found"";
+          return res.status(404).json(responseReturn);
+        }
+    
+        responseReturn.status = true;
+        responseReturn.code = 200;
+        responseReturn.message = ""Client updated successfully"";
+        res.status(200).json(responseReturn);
+      }
+    
+     catch (error) {
+        responseReturn.status = false;
+        responseReturn.code = 500;
+        responseReturn.message = ""Error updating client"";
+        responseReturn.data = error.message;
+        res.status(500).json(responseReturn);
+      }
+    };
+
+I also have the other CRUD functions and they are working perfectly, but when it comes to updating a client and clicking the modify button, A server error 500 keeps logging on my console and nothing is updated. 
+
+This is how I'm handling the form submit: 
+
+    const handleSubmit = async (e) =&gt; {
+        e.preventDefault();
+    
+        console.log(formData);
+    
+        try {
+          const response = await fetch(""http://localhost:8080/api/clients"", {
+            method: ""POST"",
+            headers: {
+              ""Content-Type"": ""application/json"",
+            },
+            body: JSON.stringify(formData),
+          });
+    
+          const data = await response.json();
+    
+          if (response.ok) {
+            MessageToast(data.message);
+            onSubmit(formData);
+          }
+        } catch (error) {
+          console.error(error);
+        }
+      };
+
+You may stop here but, here are some additional helpful code: 
+
+routes/clients,js
+
+    const express = require('express');
+    const router = express.Router();
+    
+    const {
+      getClients,
+      getClientById,
+      createClient,
+      updateClient,
+      deleteClient
+    } = require('../controllers/clients');
+    
+    router.get('/clients', getClients);
+    router.get('/clients/:id_number', getClientById); 
+    router.post('/clients', createClient);
+    router.put('/clients/:id_number', updateClient);
+    router.delete('/clients/:id', deleteClient);
+    
+    module.exports = router;
+
+index.js
+
+    const express = require('express');
+    const app = express();
+    const cors = require('cors');
+    const initializeDb = require('./config/db_init'); 
+    const clientRoutes = require('./routes/clients');
+    
+    initializeDb().then(() =&gt; {
+      console.log('Database initialized successfully!');
+    }).catch(err =&gt; {
+      console.error('Error initializing database:', err);
+      process.exit(1); 
+    });
+    
+    app.use(cors());
+    app.use(express.json());  
+    
+    app.use('/api', clientRoutes);
+    
+    app.use((err, req, res, next) =&gt; {
+      console.error(err.stack);
+      res.status(500).json({
+        status: false,
+        message: 'Something went wrong, please try again later',
+        error: err.message,
+      });
+    });
+    
+    const PORT = process.env.PORT || 8080;
+    app.listen(PORT, () =&gt; {
+      console.log(`Server is running on port ${PORT}`);
+    });
+
+If there are any other info I should include please let me know. Thanks for your help! ",WadieZN,1han0rc,https://reddit.com/r/webdev/comments/1han0rc/can_somebody_help_nodejs_and_psql/,https://www.reddit.com/r/webdev/comments/1han0rc/can_somebody_help_nodejs_and_psql/,2024-12-09 22:58:22,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1han0rc
+webdev,I Built a WordPress Plugin to Solve My Own Problem—Looking for Feedback on How to Share It ,"Hey Reddit!
+
+I’ve recently built a WordPress plugin, and I’m at the stage where I could really use your advice on how to productize and share it with others.
+
+Here’s the backstory: I was developing a WordPress plugin, and every time I made a small change, I had to:  
+1️ Zip the folder  
+2️ Upload it to WordPress  
+3️ Install it  
+4️ Activate it  
+5️ Test
+
+And I was doing this *every 2-3 minutes.*
+
+Coming from modern frameworks like Vue, where **hot reloads** are standard, this felt painfully outdated. So, I decided to create something that would let me just push my changes to GitHub and have it automatically sync and deploy.
+
+That’s how **RepoSync** was born—a plugin that simplifies WordPress development workflows. It’s functional and ready to go! Here’s what it does:
+
+* **Auto-syncs with GitHub** so you can skip the zip-upload madness. Just push ti Github and your plugin will be updated automatically
+* Supports **private repos**, even on the free tier
+* Lets you connect to **specific branches**
+* Keeps the setup super simple so anyone can use it (no setting up web hooks, just a simple oauth approval with read permissions)
+
+There are other tools on the market, but I found them either missing key features (like auto-sync or private repo support), were too tedious to set up, or too expensive for what they offer.
+
+**Here’s where I need your help:**
+
+* **How should I productize it?** I’m considering a **generous free tier** (maybe limiting to 1-2 plugins/themes but including private repos) and offering both **recurring and one-time payment options**. Most of the others only have a subscription which I hate. I'd rather pay a one-time fee.
+* **What’s the best way to share it with the community?** Should I go all in on the WordPress marketplace, or are there other avenues I should explore?
+
+I’m also looking for **beta testers**, so if this sounds like something you’d use, let me know—I’d be happy to share the full version with you for free.
+
+Would love to hear your thoughts, advice, or experiences with similar projects!",ILooveMangoes,1hambig,https://reddit.com/r/webdev/comments/1hambig/i_built_a_wordpress_plugin_to_solve_my_own/,https://www.reddit.com/r/webdev/comments/1hambig/i_built_a_wordpress_plugin_to_solve_my_own/,2024-12-09 22:26:56,2,1.0,2,0,5,0,0,False,False,True,False,False,,self,t3_1hambig
+webdev,Manifest - A Whole Backend That Fits Into 1 YAML file,,fagnerbrack,1haka0r,https://reddit.com/r/webdev/comments/1haka0r/manifest_a_whole_backend_that_fits_into_1_yaml/,https://manifest.build/,2024-12-09 21:01:16,3,1.0,3,0,2,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/UIcp3Uo0RMTaEjqp7pDWrrTzirNkdl8KelPyRMd5qMg.jpg,t3_1haka0r
+webdev,Questions about interfacing with OAuth and Azure,"Hey all! Will be posting this to an Azure subreddit too, but since half of the problem is mine as a dev, thought somebody here might be able to help...
+
+For the past 3 years, have been providing single sign-on to a site I run for a client who uses Azure for their employee logins. That was a big learning curve for me as a dev (first work with Azure SSO), but it's been going great since. The expiry for the original certificates is coming up quickly, though, and the closer we get the more I feel like rollover is a situation of ""the blind leading the blind"". Hoping somebody here might have experience from the admin and developer side and be able to provide some perspective.
+
+My understanding is that the usual rollover goes like this... They add a new cert with a later expiry, and add it as a secondary in Azure. They send it my way (they sent it in an XML document). When I'm set, I swap out the old cert for the new, things for the site continue unabated, and once everything's stable they can make the new cert primary and delete the old.
+
+It appears that on their end they've only got ""active/inactive"" for certs, though. They're saying that I can't use the new cert while it's inactive, and activating the new one will deactivate the current one. Apparently they usually do the switch with a scheduled, simultaneous change on both ends. That sounds nuts to me.
+
+So, first question is am I missing something here? I'd be happy to support their system by keeping a primary and fallback cert on my end, and trying the fallback if the primary fails, but in that case could use a little guidance on what going to a fallback looks like for OAuth (in particular, how to deal with the fact that trying the primary I believe consumes the authorization code). Any resources would be greatly appreciated.
+
+Second question... When we started this whole thing the admin on their end had me send a PFX including the certificate for the key we're signing the client assertion with. That will also be expiring soon, so I assumed I'd need to get a new cert to them as well. They're saying there's no ""spot"" for that and they don't think they need an updated certificate. Can that be right?",base736,1hak8ue,https://reddit.com/r/webdev/comments/1hak8ue/questions_about_interfacing_with_oauth_and_azure/,https://www.reddit.com/r/webdev/comments/1hak8ue/questions_about_interfacing_with_oauth_and_azure/,2024-12-09 21:00:06,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hak8ue
+webdev,"Stream Postgres changes to AWS SQS, GCP Pub/Sub in real-time","Hey all,
+
+We just added AWS SQS and GCP Pub/Sub support to Sequin. I'm a big fan of both systems so I'm very excited about this release. Check out the quickstarts here:
+
+* [https://sequinstream.com/docs/quickstart/sqs](https://sequinstream.com/docs/quickstart/sqs)
+* [https://sequinstream.com/docs/quickstart/gcp-pubsub](https://sequinstream.com/docs/quickstart/gcp-pubsub)
+
+**What is Sequin?**
+
+Sequin is an open source tool for change data capture (CDC) in Postgres. Sequin makes it easy to stream Postgres rows and changes to streaming platforms and queues (e.g. SQS, Pub/Sub, Kafka):
+
+[https://github.com/sequinstream/sequin](https://github.com/sequinstream/sequin)
+
+**Sequin + SQS or Pub/Sub**
+
+So, you can backfill all or part of a Postgres table into SQS or Pub/Sub. Then, as inserts, updates, and deletes happen, Sequin will send those changes as JSON messages to your SQS queue or Pub/Sub topic in real-time.
+
+**FIFO consumption**
+
+We have full support for FIFO/ordered consumption. By default, we group/order messages by the source row's primary key (so if \`order\` \`id=1\` changes 3 times, all 3 change events will be strictly ordered). This means your downstream systems can know they're processing Postgres events in order.
+
+For SQS FIFO queues, that means setting `MessageGroupId`. For Pub/Sub, that means setting the `orderingKey`.
+
+You can set the `MessageGroupId`/`orderingKey` to any combination of the source row's fields.
+
+**What can you build with Sequin + SQS or Pub/Sub?**
+
+* **Event-driven workflows**: For example, triggering side effects when an order is fulfilled or a subscription is canceled.
+* **Replication**: You have a change happening in Service A, and want to fan that change out to Service B, C, etc. Or want to replicate the data into another database or cache.
+* **Kafka alt:** One thing I'm really excited about is that if you combine a Postgres table with SQS or Pub/Sub via Sequin, you have a system that's comparable to Kafka. Your Postgres table can hold historical messages/records. When you bring a new service online (in Kafka parlance, consumer group) you can use Sequin to backfill all the historical messages into that service's SQS queue or Pub/Sub Topic. So it makes these systems behave more like a stream, and you get to use Postgres as the retention layer.
+
+**Example**
+
+You can setup a Sequin sink easily with [sequin.yaml](https://sequinstream.com/docs/reference/sequin-yaml#sequin-yaml) (a lightweight Terraform – Terraform support coming soon!)
+
+Here's an example of an SQS sink:
+
+    # sequin.yaml
+    databases:
+      - name: ""my-postgres""
+        hostname: ""your-rds-instance.region.rds.amazonaws.com""
+        database: ""app_production""
+        username: ""postgres""
+        password: ""your-password""
+        slot_name: ""sequin_slot""
+        publication_name: ""sequin_pub""
+        tables:
+          - table_name: ""orders""
+            sort_column_name: ""updated_at""
+    
+    sinks:
+      - name: ""orders-to-sqs""
+        database: ""my-postgres""
+        table: ""orders""
+        batch_size: 1
+        # Use order_id for FIFO message grouping
+        group_column_names: [""id""]
+        # Optional: only stream fulfilled orders
+        filters:
+          - column_name: ""status""
+            operator: ""=""
+            comparison_value: ""fulfilled""
+        destination:
+          type: ""sqs""
+          queue_url: ""https://sqs.us-east-1.amazonaws.com/123456789012/orders-queue.fifo""
+          access_key_id: ""AKIAXXXXXXXXXXXXXXXX""
+          secret_access_key: ""your-secret-key""
+
+**Does Sequin have what you need?**
+
+We'd love to hear your feedback and feature requests! We want our SQS and Pub/Sub sinks to be amazing, so let us know if they are missing anything or if you have any questions about it.",accoinstereo,1hahxa6,https://reddit.com/r/webdev/comments/1hahxa6/stream_postgres_changes_to_aws_sqs_gcp_pubsub_in/,https://www.reddit.com/r/webdev/comments/1hahxa6/stream_postgres_changes_to_aws_sqs_gcp_pubsub_in/,2024-12-09 19:23:31,3,1.0,3,0,0,0,0,False,False,True,False,False,,self,t3_1hahxa6
+webdev,Resources to learn about images,"Greetings, 
+
+After just making a super basic SPA I found working regards to images to be quite frustrating. I am familiar with the myriad of devices and screen sizes that need to be accommodated, but I am quite rusty. I am now thinking that for my portfolio I should start with a few websites that dont even have subjects in their images, but instead are just big colored X's that pertain to a certain image size so I can get the hang of this again. Thats practical right? I am rediscovering how switching from one content pane with images, to another with form inputs, will expand and contract the parent container and I need to revisit my understanding on this topic. 
+
+On the other hand, I was also wondering if anyone knows of any resources or tutorials that do a deep focus on web development with respect to working with just images? It would be nice to learn more about how the web isnt all JPG, PNGs, SVGs, anymore, and whatever else has changed over the last 4 years since I have been in school. I did a search on this forums but I didnt find any resources that truly focused on this subject with great emphasis. 
+
+Backstory- I used to manage a PHP/HTML/CSS/JQuery/WP website for a medium sized non-profit before COVID shutdown the company. I went back to school to earn a degree, landed a backend dev job, but then that company started hemorrhaging money and I am now seeking to go into Full Stack development by making a portfolio of projects using React/Node with BS5.
+
+Thank you!",Zongrang,1hagmsx,https://reddit.com/r/webdev/comments/1hagmsx/resources_to_learn_about_images/,https://www.reddit.com/r/webdev/comments/1hagmsx/resources_to_learn_about_images/,2024-12-09 18:30:52,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hagmsx
+webdev,ada compliance checker ,"Hello,
+
+I am investigating ada compliance checker tools.
+
+I saw one a few years ago.  It was an add in to chrome.  It kept a log of changes that were fixed.  For compliance.
+
+Now after years I am sure better tools have been built.
+
+What do people recommend?  Could be paid.
+
+thanks
+
+
+
+  
+",rocky_balboa202,1hagek3,https://reddit.com/r/webdev/comments/1hagek3/ada_compliance_checker/,https://www.reddit.com/r/webdev/comments/1hagek3/ada_compliance_checker/,2024-12-09 18:21:45,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1hagek3
+webdev,What do the State of CSS and HTML surveys tell us?,,feross,1hafjkm,https://reddit.com/r/webdev/comments/1hafjkm/what_do_the_state_of_css_and_html_surveys_tell_us/,https://web.dev/blog/state-of-css-html-2024?hl=en,2024-12-09 17:46:51,1,1.0,1,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/WZ64UyyvKUNDsuX5wkU0iEVk5rORuYSSMr168yH03Nw.jpg,t3_1hafjkm
+webdev,Hosting issues,"Hello all,
+I'm very new in the hosting of web apps so i need some help...
+I have vue.js for front-end and Java springboot for backend. When i set everything on the server i get 'net::ERR_SSL_PROTOCOL_ERROR'. I have ssl for the domain, i can access it through the web but when a call is made to get something from the backend i get the mentioned issue. Does anyone have any idea what to do?",Icy-Age-,1hads2y,https://reddit.com/r/webdev/comments/1hads2y/hosting_issues/,https://www.reddit.com/r/webdev/comments/1hads2y/hosting_issues/,2024-12-09 16:34:31,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1hads2y
+webdev,Need advice and guide for amateur web development,"To keep it to the point, I'm looking for a solution to a problem I'm having with the hosting of my multiple WordPress websites
+
+Basically, currently, my relative, who is a professional dev developer has been managing these for me by hosting them on his own server. There are 4 websites and are all wordpress. I've learnt how to use WordPress too now so the daily working of the websites was never an issue. The relative out of his own goodwill bought these and pays for them, however they are only for my small businesses and non profits
+
+Unfortunately, since the last few weeks, he has gone AWOL and his server has completely crashed with none of the websites online. This has obviously caused me a lot of loss already, and due to me having no clues how hosting works, i am unaware of what to do
+
+I have already informed him that I'll be taking over the hosting from him, and he has agreed to that. However, I would really appreciate any guide or help on how this process works, and even any guidance on which hosting service should I use, considering I have 4 websites out of which only 1 is heavy
+
+Any help is appreciated.",bobandsvagene,1had5sq,https://reddit.com/r/webdev/comments/1had5sq/need_advice_and_guide_for_amateur_web_development/,https://www.reddit.com/r/webdev/comments/1had5sq/need_advice_and_guide_for_amateur_web_development/,2024-12-09 16:08:31,1,1.0,1,0,11,0,0,False,False,True,False,False,Question,self,t3_1had5sq
+webdev,How to implement multiple pages into iframe using srcdoc,"Hello! (Apologies for the horrible title, couldn't figure out how else to phrase it) I'm working on a website editor, and one of the roadblocks I'm running into is how to implement multiple pages
+
+I'm currently taking the user provided HTML, CSS, and JS, and then jamming it all into a single iframe using srcdoc (which already isn't very practical), however this won't work with implementing multiple pages, so I'm trying to find solutions or alternatives
+
+Any ideas?",Labbo-lab,1hacljy,https://reddit.com/r/webdev/comments/1hacljy/how_to_implement_multiple_pages_into_iframe_using/,https://www.reddit.com/r/webdev/comments/1hacljy/how_to_implement_multiple_pages_into_iframe_using/,2024-12-09 15:44:15,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hacljy

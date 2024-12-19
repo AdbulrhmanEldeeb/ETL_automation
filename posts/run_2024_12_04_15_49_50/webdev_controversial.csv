@@ -1,0 +1,384 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Need browser extension to save the CSS edits I lose when I accidentally hit refresh,As the title says. Does anything exist like this? Can we make one?,pywrite,1h5y78t,https://reddit.com/r/webdev/comments/1h5y78t/need_browser_extension_to_save_the_css_edits_i/,https://www.reddit.com/r/webdev/comments/1h5y78t/need_browser_extension_to_save_the_css_edits_i/,2024-12-03 21:07:19,0,0.48,0,0,5,0,0,False,False,True,False,False,,self,t3_1h5y78t
+webdev,"Want to move away from chrome, suggestions for a web dev?",Im getting annoyed with chrome but I've always used it both day to day and developing. Best alternative? Is chrome actually the best bet? I use the dev tools a lot so any suggestions?,Destroyer_The_Great,1h60y2k,https://reddit.com/r/webdev/comments/1h60y2k/want_to_move_away_from_chrome_suggestions_for_a/,https://www.reddit.com/r/webdev/comments/1h60y2k/want_to_move_away_from_chrome_suggestions_for_a/,2024-12-03 23:01:27,0,0.44,0,0,63,0,0,False,False,True,False,False,Question,self,t3_1h60y2k
+webdev,Post your personal portfolio (and rate the others)!,"# I start: [https://www.antoniopelusi.com](https://www.antoniopelusi.com)
+
+Made everythings from scratch, just HTML, CSS and JS. Source code available here: [https://github.com/antoniopelusi/antoniopelusi.com](https://github.com/antoniopelusi/antoniopelusi.com)",antoniopelusi,1h5q8xf,https://reddit.com/r/webdev/comments/1h5q8xf/post_your_personal_portfolio_and_rate_the_others/,https://www.reddit.com/r/webdev/comments/1h5q8xf/post_your_personal_portfolio_and_rate_the_others/,2024-12-03 15:39:10,2,0.6,2,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1h5q8xf
+webdev,This Website is Hosted on Bluesky,,warkollons0,1h6el09,https://reddit.com/r/webdev/comments/1h6el09/this_website_is_hosted_on_bluesky/,https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/,2024-12-04 12:14:03,3,0.67,3,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/F6ENu7iHCVp4QIsYb2NhM8bb_CsKg7uuO_j8gsx6tdA.jpg,t3_1h6el09
+webdev,Free &amp; Open Source Plugin for all JetBrains IDEs: AutoSave on Typing,"Hey guys,
+
+I created a **free and open-source** **plugin** called **AutoSave on Typing** for **all JetBrains/IntelliJ IDEs**.
+
+As a front-end developer who moved from VSCode to Webstorm, I missed the **autosave feature** and got tired of constantly pressing **Cmd/Ctrl+S** to see UI changes. So, I built this plugin, especially for front-end/full-stack developers like me.
+
+If you have the same motivation, you can also use it to automate your tiresome saving process.
+
+[Plugin Demo](https://i.redd.it/mqrvksk9ds4e1.gif)
+
+🔗 **Plugin:** [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/25981-autosave-on-typing/)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/suhatanriverdi/autosave-on-typing-plugin-for-jetbrains-ides)
+
+It’s completely free (and will remain so forever).
+
+If you find it helpful, I’d appreciate your stars and reviews.
+
+Let me know your thoughts or if you have any feature suggestions.",genesismelo,1h6ayzm,https://reddit.com/r/webdev/comments/1h6ayzm/free_open_source_plugin_for_all_jetbrains_ides/,https://www.reddit.com/r/webdev/comments/1h6ayzm/free_open_source_plugin_for_all_jetbrains_ides/,2024-12-04 07:54:57,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1h6ayzm
+webdev,How do you find problems to solve?,"A common phrase has been repeated to me whenever I ask the questions “how did you learn to do thing X” or “how did thing Y become successful”. That phrase is: *solve a problem*. 
+
+I entered into a hackathon and my team and I tried to assist with a wide range of problems teachers and students face in classrooms. Our solution was deemed very broad during the elevator pitch and that we needed to focus on solving a specific problem. My team and I were very discouraged until we spoke to a teacher who gave us a specific problem they wish was fixed so we focused on that and we won the hackathon. 
+
+Since then I’ve been trying to find a problem to fix but it isn’t easy. When I was struggling at my lowest during that hackathon the solution LITERALLY walked through the door and gave me the problem to solve. That doesn’t happen too often. 
+
+So my question to you all is, how do you find your problems to solve? ",dvjar,1h5v5sy,https://reddit.com/r/webdev/comments/1h5v5sy/how_do_you_find_problems_to_solve/,https://www.reddit.com/r/webdev/comments/1h5v5sy/how_do_you_find_problems_to_solve/,2024-12-03 19:04:21,0,0.5,0,0,15,0,0,False,False,True,False,False,Discussion,self,t3_1h5v5sy
+webdev,What’s the Best Way to Transition from WordPress to a Custom CMS?,I have a few clients interested in moving from WordPress to something more tailored to their needs. What’s the best way to approach this without disrupting their workflow?,beamoflight321,1h5pli2,https://reddit.com/r/webdev/comments/1h5pli2/whats_the_best_way_to_transition_from_wordpress/,https://www.reddit.com/r/webdev/comments/1h5pli2/whats_the_best_way_to_transition_from_wordpress/,2024-12-03 15:11:24,0,0.5,0,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1h5pli2
+webdev,How do you host a full stack application for free?,"Where would you host:
+
+\- A frontend
+
+\- A backend
+
+\- A database
+
+  
+For free, in 2024? 
+
+I know Vercel can host next.js applications but I hate the super low max response time you have in the free tier. ",NorthBat2171,1h6ephs,https://reddit.com/r/webdev/comments/1h6ephs/how_do_you_host_a_full_stack_application_for_free/,https://www.reddit.com/r/webdev/comments/1h6ephs/how_do_you_host_a_full_stack_application_for_free/,2024-12-04 12:21:29,0,0.32,0,0,38,0,0,False,False,True,False,False,Question,self,t3_1h6ephs
+webdev,"New research: AI struggles with open-source test maintenance challenges
+",,BruceW,1h5sqsl,https://reddit.com/r/webdev/comments/1h5sqsl/new_research_ai_struggles_with_opensource_test/,https://i.redd.it/el1854194o4e1.jpeg,2024-12-03 17:24:48,36,0.76,36,0,26,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/eXjzwp6Q5cvfg-X6I_rdCh0n-j08SVa5JHZJcEQM9uk.jpg,t3_1h5sqsl
+webdev,"I've been developing this scheduling SAAS for 3 months, I'd love to hear your thoughts",,Gabeciii,1h5vy65,https://reddit.com/r/webdev/comments/1h5vy65/ive_been_developing_this_scheduling_saas_for_3/,https://app.schedise.dev/app/sign-up,2024-12-03 19:36:11,0,0.38,0,0,4,0,0,False,False,False,False,False,Discussion,default,t3_1h5vy65
+webdev,Can anyone explain how scrollbars  determine which element they get attached to? Mine is getting attached to the body for whatever reason and don't really understand it...,"I have encountered the worst problem in my web dev project. **SCROLLBARS**
+
+Imagine implementing a *simple* chat system and you know nothing about websockets and broadcasting yet the **worst roadblock** is getting the scrollbar to go down in a react app.. I can get it to go down when I set `h-[some value]` but it won't go down otherwise...
+
+So I throw in some `overflow` magic. Nah uh, the scrollbar ain't moving an inch.. I do all my scrollbar effecting witchcraft (looking at you **tailwind**) on the element that I think is managing the scrollbar. It did not move one inch. Then I change the potions, seems like `useEffect` ain't cutting it, so my truth sayer (**chat gpt**) recommended `useLayoutEffect`  and it still did not work. Then I go on a hunt for the element which the scroll bar is getting attached to.
+
+Turns out it is getting attached to the body element. I was able to confirm this by adding overflow-hidden to the parent components one by one and it only worked on the body element!!
+
+Now the realization hit me, I know nothing of scrollbars. I can't seem to find a resource to actually learn what it is relevant to my current **context**. I have spent hours on this problem and can't seem to figure it out.
+
+EDIT: Did not add code because idk if it is allowed here
+
+EDIT: Further context: In a chat app, the scrollbar should be at the bottom coz you want to see the latest message not the oldest. ",Necessary_Hope8316,1h5s8ps,https://reddit.com/r/webdev/comments/1h5s8ps/can_anyone_explain_how_scrollbars_determine_which/,https://www.reddit.com/r/webdev/comments/1h5s8ps/can_anyone_explain_how_scrollbars_determine_which/,2024-12-03 17:03:53,0,0.29,0,0,9,0,0,False,False,True,False,False,Question,self,t3_1h5s8ps
+webdev,Abstract background images,"This is more of a general question on landing pages. What do you call the background images on a site to give it some pop - like the yellow blotches behind the main images here [Home Page 06 | Divi Layouts Extended](https://divilayoutsextended.com/pages/home/home-page-06/) and is there a site where I can download similar images?
+
+Or what is the best way to create them?",trainermade,1h5toz5,https://reddit.com/r/webdev/comments/1h5toz5/abstract_background_images/,https://www.reddit.com/r/webdev/comments/1h5toz5/abstract_background_images/,2024-12-03 18:03:42,1,0.6,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h5toz5
+webdev,The Rise of Retro Tech: Why We Love the 90s,"[Built with Tailwind CSS XDLMAO - https:\/\/play.tailwindcss.com\/ZtJibtMnfd](https://preview.redd.it/gc0q447u1s4e1.png?width=627&amp;format=png&amp;auto=webp&amp;s=38f471e7b22810fe77cfef2ab1df767c68a22f4a)
+
+",Whalefisherman,1h69y0k,https://reddit.com/r/webdev/comments/1h69y0k/the_rise_of_retro_tech_why_we_love_the_90s/,https://www.reddit.com/r/webdev/comments/1h69y0k/the_rise_of_retro_tech_why_we_love_the_90s/,2024-12-04 06:41:27,5,0.73,5,0,1,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/6kxIHxeVTwIh8ICZrXiOAnNpmtTKAU7Sq-3-sc5sw5I.jpg,t3_1h69y0k
+webdev,how to host images ,"hello, I’m building a website in react hosted on Netlify that will contain an image gallery with hundreds of images.. I don’t want to store these images in the project folder to not impact the bundle size and build time.
+
+- what is the best way to handle this? where would you store the images? 
+- when the user opens the gallery, do you know how to lazy load them to not download them all at once?
+
+thanks ",ProfessionalPaint964,1h5q06y,https://reddit.com/r/webdev/comments/1h5q06y/how_to_host_images/,https://www.reddit.com/r/webdev/comments/1h5q06y/how_to_host_images/,2024-12-03 15:28:48,10,0.74,10,0,41,0,0,False,False,True,False,False,,self,t3_1h5q06y
+webdev,My chrome extension for TailwindCSS developers just reached 10000 users 🎉,[Extension link](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl),JHjertvik,1h6e6q6,https://reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/,https://www.reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/,2024-12-04 11:49:24,56,0.84,56,0,16,0,0,False,False,True,False,False,,self,t3_1h6e6q6
+webdev,Backend dev with devops knowledge,"At my current company I was hired as a backend developer. It's a startup, so we had just one devops engineer. Who eventually left. I've transitioned into handling devops for our team, and doing backend work as well. Everything from building pipelines to various types of infrastructure to bash scripting etc is being done by me. My question is will this knowledge help me in landing a higher pay backend role, than what a regular backend might get?",Ill_Fisherman8352,1h5s6uf,https://reddit.com/r/webdev/comments/1h5s6uf/backend_dev_with_devops_knowledge/,https://www.reddit.com/r/webdev/comments/1h5s6uf/backend_dev_with_devops_knowledge/,2024-12-03 17:01:42,2,0.63,2,0,9,0,0,False,False,True,False,False,,self,t3_1h5s6uf
+webdev,"New Employer doesn't use any Source control, or Task Tracking Tools","I've been out of work for a whole year and barely getting by on freelance work. But hooray for me, I finally got a new job! Day 2 I learn that a team of 3 ""Seniors"" are working in the same projects without Git, and using staging for as a dev site \*pikachu face\*. One of them has already mentioned that his work has been overwritten by another developer. Next, I learn that the team coordinates their tasks via email and Gchat. I struggle to see how this team could be productive at all without these tools. I'm skeptical they want me to come in and fix all their bullshit. I need the money desperately and I can't quit. No clue what I'm gonna do, but this place appears to be career death.",Armitage1,1h6ggun,https://reddit.com/r/webdev/comments/1h6ggun/new_employer_doesnt_use_any_source_control_or/,https://www.reddit.com/r/webdev/comments/1h6ggun/new_employer_doesnt_use_any_source_control_or/,2024-12-04 13:51:31,23,0.79,23,0,35,0,0,False,False,True,False,False,,self,t3_1h6ggun
+webdev,AI search engine for specific frameworks and libraries - useful or nah?,"I find that gpt, claude and other ai tools lack latest information on the latest frameworks and libraries, like react, and vue. I am thinking of making a unified search engine that has all the most popular frameworks and libraries indexed and ready to be searched. This way you can specify the versions of technologies you would like to work with and thus prevent hallucination. 
+
+My question to you guys is that do you think this will be useful?
+
+Do you guys as AI coders also face this problem when working with specific frameworks and libraries? 
+
+Would you pay for a service that reduced hallucination and increased accuracy on specific frameworks and technologies? ",repmadness,1h6dliw,https://reddit.com/r/webdev/comments/1h6dliw/ai_search_engine_for_specific_frameworks_and/,https://www.reddit.com/r/webdev/comments/1h6dliw/ai_search_engine_for_specific_frameworks_and/,2024-12-04 11:09:58,0,0.3,0,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1h6dliw
+webdev,Built a Fun Web App: TypeTheAlphabet – Give It a Try and See How Fast your fingers move! 🚀,"[TypeTheAlphabet.Online](https://preview.redd.it/74k5tu15qs4e1.png?width=1898&amp;format=png&amp;auto=webp&amp;s=2166028e7327a1400660c9be483f020584adcf35)
+
+Hey everyone,
+
+I just created a fun and simple web app called [TypeTheAlphabet](https://typethealphabet.online/)! 🎉 The challenge is simple: type A to Z as fast as you can, record your best time, and see if your friends can beat it! 🕒🔥.
+
+Give it a try and let me know your best time! 🖱️⌨️
+
+Feedback are always welcome!🫡
+
+P.S. App Idea Inspired from [Matt Ramos](https://x.com/mttrms)",muisloth,1h6brlo,https://reddit.com/r/webdev/comments/1h6brlo/built_a_fun_web_app_typethealphabet_give_it_a_try/,https://www.reddit.com/r/webdev/comments/1h6brlo/built_a_fun_web_app_typethealphabet_give_it_a_try/,2024-12-04 08:55:56,0,0.33,0,0,0,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/18wTqTzBCBLDMWFbaHY7Dg6MuIXUv7ptolMe6i5hDTU.jpg,t3_1h6brlo
+webdev,Can't get everything recolored correctly for custom css.,"\[SOLVED\]
+
+I am trying to learn css by creating a general custom css that works for all website in the nord theme. I took the solarized-everything project and tried to add a generic nord theme for all site.
+
+In some websites, e.g. reddit, this bit from the pictures for replies don't seem to get recolored.
+
+Other things in reddit that doesn't get recolored is the markdown editor box for post. Home popular, explore tabs when they are highlighted etc. Others relatively blend in but the subsequent thread line for replies and hide replies area are very jarring to see.
+
+How do I fix this?
+
+\[SOLUTION\]
+
+It was taking a global variable `--color-neutral-background`
+
+However setting the variable in `:root` didn't work but setting it to `*` worked
+
+\[[Here](https://github.com/jojowakaki/dots/blob/main/config/qutebrowser/solarized-everything-css/css/nord-dark-all-sites.css)\] is the css just in case somone is interested.
+
+    :root{
+    --color-neutral-background: #xxxxxxxx !important;
+    } /*doesn't work */
+    
+    * {
+    --color-neutral-background: #xxxxxxx !important;
+    } /*worked*/
+
+[Before](https://preview.redd.it/f2ejzuq2it4e1.png?width=603&amp;format=png&amp;auto=webp&amp;s=5841c849e9e4de7dbe5f2a2b0bf6a7e99f0e1760)
+
+[After](https://preview.redd.it/mvpz2in9it4e1.png?width=603&amp;format=png&amp;auto=webp&amp;s=2804d1fcd135a8f549db15d7bc67cdace3f4a61f)",ZoWakaki,1h5sdwf,https://reddit.com/r/webdev/comments/1h5sdwf/cant_get_everything_recolored_correctly_for/,https://www.reddit.com/r/webdev/comments/1h5sdwf/cant_get_everything_recolored_correctly_for/,2024-12-03 17:09:54,0,0.5,0,0,2,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/hT-DLIvVZjNnoC11hdMiRcwEke-F7SnVmO4_QQJb3yg.jpg,t3_1h5sdwf
+webdev,The Ringer's new website. Thoughts?,,asamshah,1h5x2gg,https://reddit.com/r/webdev/comments/1h5x2gg/the_ringers_new_website_thoughts/,https://theringer.com/,2024-12-03 20:20:56,16,0.81,16,0,12,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/mdK9abscqeGNOjs9iPoZB6tEUprvQq6sBKNE2loCnT8.jpg,t3_1h5x2gg
+webdev,Which variables helped you succeed in cold-calling businesses for dev-related work?,"I'm looking into beginning some cold-calling (emailing, potentially sms and/or physical mail) marketing for some web-related work and am curious what area(s) helped you the most in finding success here.
+
+I'm curious about things like the following were taken into account and showed any effect in overall success in finding work:  
+  
+\- Business type (plumbing, banking, etc.)  
+\- Location (city, rural, international, etc.)  
+\- Focus of message (quick, witty, analytic, etc.)  
+\- Method of contacting (email, call, sms, mail, other)
+
+I'm tinkering with modern AI tools for data collection and web page critique as well as email/sms generation and sending. I'm close to the actual messaging part an am unsure of what to optimize for. My goal is to automate as much as possible.",Bonteq,1h68n1e,https://reddit.com/r/webdev/comments/1h68n1e/which_variables_helped_you_succeed_in_coldcalling/,https://www.reddit.com/r/webdev/comments/1h68n1e/which_variables_helped_you_succeed_in_coldcalling/,2024-12-04 05:20:26,12,0.78,12,0,8,0,0,False,False,True,False,False,,self,t3_1h68n1e
+webdev,Best Practices for Synchronizing Supabase Auth and Local Database in a NestJS App,"Hey everyone,
+
+I'm building a NestJS app and using **Supabase** for authentication, but I also want to save user data in my **local PostgreSQL database** for extended functionality and to keep full control over my app's data. Here's my current setup and the challenges I’m working through:
+
+# Setup:
+
+1. **Auth Provider**: Supabase handles user authentication (sign-up, login, etc.).
+2. **Local Database**: I save additional user data in my local PostgreSQL database for more advanced app features.
+3. **NestJS Backend**: Acts as the bridge between Supabase and my local database, ensuring synchronization.
+
+# Use Case:
+
+Whenever a user signs up, updates their profile, or deletes their account, I need to:
+
+1. **Create/Update/Delete the user in Supabase** (for authentication).
+2. **Create/Update/Delete the user in my local database** (for app-specific data).
+3. Ensure that both systems remain synchronized (handle errors, retries, rollbacks, etc.).
+
+# Questions for the Community:
+
+* Have you worked on a similar use case? What’s the best way to ensure synchronization between two systems like Supabase and a local database?
+* How do you handle rollbacks or retries in case of partial failures?
+* Any tips for optimizing this flow for scalability and maintaining clean code?",Aymsep,1h6f2g6,https://reddit.com/r/webdev/comments/1h6f2g6/best_practices_for_synchronizing_supabase_auth/,https://www.reddit.com/r/webdev/comments/1h6f2g6/best_practices_for_synchronizing_supabase_auth/,2024-12-04 12:41:55,1,0.6,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h6f2g6
+webdev,Anyone Using the New Datastar Real-Time Web App Tool?,"I’ve been evaluating whether Datastar would be a good fit for our application, but I have some concerns regarding the global data store, particularly if it contains a large amount of data. 
+
+[https://data-star.dev/](https://data-star.dev/)
+
+From what I understand, Datastar uses Server-Sent Events (SSE) to efficiently send individual signals to the browser. However, when the browser submits data back to the server, it seems like the entire data store is transmitted.",SoCalSurferDude,1h636vr,https://reddit.com/r/webdev/comments/1h636vr/anyone_using_the_new_datastar_realtime_web_app/,https://www.reddit.com/r/webdev/comments/1h636vr/anyone_using_the_new_datastar_realtime_web_app/,2024-12-04 00:41:18,1,0.67,1,0,1,0,0,False,False,True,False,False,,self,t3_1h636vr
+webdev,Free app hosting?,"Sorry if this has been asked recently. I am starting out and want to learn how to code. I wanted to try putting an app out there but since I don't really intend on using it for much, I want to start somewhere with a free tier. The app will be extremely simple, if I ever create one, but I will want it to have access to a database (probably postgres, but I am learning everything as I go).
+
+I read in a post on this forum (from 2 years ago) about fly.io. I signed up and magically was able to deploy a development DB last night. I thought this was free, but today my charges are already $0.07.
+
+Does anyone know how to either (a) not get charged on [fly.io](http://fly.io), or (b) how to find another hosting provider that I can get a free tier with absolute bare bones?",diySoSerious,1h5u7kl,https://reddit.com/r/webdev/comments/1h5u7kl/free_app_hosting/,https://www.reddit.com/r/webdev/comments/1h5u7kl/free_app_hosting/,2024-12-03 18:25:04,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1h5u7kl
+webdev,Media Queries and responsiveness? ,"Hey Dev’s, I honestly find Media Queries a bit of a pain. It takes me hours to fix the website to look on multiple resolution, mobile and tablet. I find the whole processes tedious and slow. 
+
+I’m completely self taught, so sometimes I question if I’m doing it the most efficient way. Am I using the correct media queries? I often place media quarries after each section of my website, is this right?
+
+Please give some advice and suggestions on how I can improve making my sites responsive, spend less time on this process and be more efficient? If you can help in anyway, I appreciate it. ",PrincipleLazy3383,1h5t99d,https://reddit.com/r/webdev/comments/1h5t99d/media_queries_and_responsiveness/,https://www.reddit.com/r/webdev/comments/1h5t99d/media_queries_and_responsiveness/,2024-12-03 17:46:16,1,0.67,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1h5t99d
+webdev,Simple approach to setting up a monorepo for a Next.js app and Chrome extension with shared codebase?,"I'm currently working on a project that includes a Next.js web app and a Chrome extension, both written in TypeScript and React. I want to create a `/shared` folder that contains TypeScript and React components, which can be used by both the web app and the extension.
+
+I'm also using \`pnpm\` and ESLint with the \`@typescript-eslint/parser\`, so I need a setup that works well with these tools.
+
+What would be the simplest approach to set up a monorepo for this kind of project? Thanks in advance.",jerrygoyal,1h6denl,https://reddit.com/r/webdev/comments/1h6denl/simple_approach_to_setting_up_a_monorepo_for_a/,https://www.reddit.com/r/webdev/comments/1h6denl/simple_approach_to_setting_up_a_monorepo_for_a/,2024-12-04 10:57:29,2,0.75,2,0,2,0,0,False,False,True,False,False,Question,self,t3_1h6denl
+webdev,Wordpress pricing,"Hello, I was researching wordpress pricing and came across a hosting company for wordpress. Upon seeing it's plans I found out that they are VERY cheap ($2.99 a month) and they have unlimited bandwith?
+
+Is there any catch?
+Can I upload all my S3 files in there and deliver data without any bandwith extra cost?
+
+Seems too good to be true",Fdeblasro,1h6c1dd,https://reddit.com/r/webdev/comments/1h6c1dd/wordpress_pricing/,https://www.reddit.com/r/webdev/comments/1h6c1dd/wordpress_pricing/,2024-12-04 09:16:57,0,0.17,0,0,9,0,0,False,False,True,False,False,,self,t3_1h6c1dd
+webdev,How to dynamically switch between object-fit: cover and object-fit: contain based on image aspect ratio?,,pastiorangbatakasli,1h65d2c,https://reddit.com/r/webdev/comments/1h65d2c/how_to_dynamically_switch_between_objectfit_cover/,https://i.redd.it/klpbpz3hrq4e1.gif,2024-12-04 02:25:48,1,0.57,1,0,13,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/z_afnQ5guN78ZJFJclEaG--Sc7Y_Do8Dn9CWE-DQ78M.jpg,t3_1h65d2c
+webdev,Simpliest tool to send a few HTML emails,"Hi!
+
+We are in the need of sending a few HTML emails every now and then, to send the instructions of workshops to previously registered attendants.
+
+My client is already using ActiveCampaign, but it doesn't suit us since people can unsubscribe. And it seems that Mautic and PHPLists are too complex (I'm still fighting with the hosting company to see if they allow to use them). Also tested a couple of Wordpress plugins, but the basic stuff costs too much clicks and are packed with useless functions.
+
+Is there a simple tool (online or self-hosted, PHP if possible) that can help my client to send a few HTML mails once a month, and maybe probably see a preview of them?
+
+Thanks a lot!",kram08980,1h6dqiv,https://reddit.com/r/webdev/comments/1h6dqiv/simpliest_tool_to_send_a_few_html_emails/,https://www.reddit.com/r/webdev/comments/1h6dqiv/simpliest_tool_to_send_a_few_html_emails/,2024-12-04 11:19:44,0,0.38,0,0,27,0,0,False,False,True,False,False,Question,self,t3_1h6dqiv
+webdev,First fully planned out and thought through website. Lemme know what you think ,"Hi all. I've played around with websites before but this is the first one i've actually thought out and planned. I make websites solely as a hobby/for fun. Not deployed yet bc there's still a lot of tweaks to make and small things to add/fix but most of it is done so I just have a video of me going through it lol. Lemme know what yall think. THanks!   
+[https://www.youtube.com/watch?v=A7C0UdDd7PU](https://www.youtube.com/watch?v=A7C0UdDd7PU) ",KardTarben,1h67ycu,https://reddit.com/r/webdev/comments/1h67ycu/first_fully_planned_out_and_thought_through/,https://www.reddit.com/r/webdev/comments/1h67ycu/first_fully_planned_out_and_thought_through/,2024-12-04 04:41:38,5,0.73,5,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h67ycu
+webdev,Will this work without an enterprise account?,,OriginalPlayerHater,1h5t8uy,https://reddit.com/r/webdev/comments/1h5t8uy/will_this_work_without_an_enterprise_account/,https://i.redd.it/tawowc1y7o4e1.png,2024-12-03 17:45:51,0,0.11,0,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/KShfEgVrsXhzMbHTS1pWYir9yuUWZbgtDviv8y-id5M.jpg,t3_1h5t8uy
+webdev,Made a directory of opensource boilerplates,,sadekships,1h5pmn9,https://reddit.com/r/webdev/comments/1h5pmn9/made_a_directory_of_opensource_boilerplates/,https://i.redd.it/yh1gnjiyfn4e1.png,2024-12-03 15:12:38,241,0.95,241,0,35,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/POe2nYbG9xUVNgwDGIHk5mxCjz5XAxDyHw-6f1CZaqE.jpg,t3_1h5pmn9
+webdev,"How do server-sent event ""streams"" work on a lower level?","Hi, and sorry for the lack of a tl;dr; - I'm not sure how to get away from providing the context. Basically I'm interested in connecting to a web server and consuming [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events) using a lower level HTTP API and am hoping somebody can explain how the push vs pull of these events might work at a lower level.
+
+I'm working on a hardware project (ESP32-S3 / espressif ESP-IDF based) where I'm writing C with a bit of higher level abstraction to support HTTP interactions. For example, the methods I might call are:
+
+* `esp_http_client_open()`: Open the HTTP connection with write_len parameter (content length that needs to be written to server), set write_len=0 for read-only connection.
+* `esp_http_client_fetch_headers()`: Read the HTTP Server response headers, after sending the request headers and server data (if any). 
+* `esp_http_client_read()`: Read the HTTP stream
+* `esp_http_client_close()`: Close the connection.
+
+([more examples / docs are here if you're currious](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/protocols/esp_http_client.html#http-stream))
+
+Now what I'm trying to figure out is what `esp_http_client_read()` actually is doing in terms of the server to client communication. When I connect to a server over HTTP, and assuming `keep-alive`, I can call `esp_http_client_read()` every millisecond, or I can wait 100 milliseconds and call it. Both ""work"" in that if there is no data being sent from the server, nothing will happen, and if there is data, I'll read it and be able to do something with it. _edit: for clarity because it may be non-obvious, my intention is to have my hardware device connect to a server and stay connected to it indefinitely, waiting for the server to send data using server-sent events - so picture a while(true) loop, but I'm responsible myself for checking when new data comes in_
+
+But I don't have a good sense of what it means to ""read data"" in an already open HTTP stream. As far as I'm aware, for this type of connection (which is similar as far as I understand to a chunked response), nothing is communicated to the server asking for more data for example, it's certainly not like an additional HTTP request is being made. I'm guessing ""read data"" just checks some sort of lower level buffer handled by the WiFi chip or some lower subsystem. I'm guessing if I chose to ""read data"" from an HTTP connection the server is none the wiser. 
+
+That said, I also might 100% wrong, and perhaps (like other forms of communication) part of the underlying protocol is a message to the server that you've read data. This might not be important to the server, but perhaps it acts as a sort of heartbeat. 
+
+My end goal here is to understand how often I should call ""read data"" in my code optimizing for quickly getting updates from the server but also not having any negative impact on the server or taking up needless CPU cycles by reading data every millisecond when once every 50ms would suffice for my needs. 
+
+I'm hoping somebody in the web dev community who perhaps has more experience or a better understanding of lower level HTTP ""stuff"" might be able to understand the spirit of what I'm asking and help me understand.
+
+Thanks a ton!",kevysaysbenice,1h67euz,https://reddit.com/r/webdev/comments/1h67euz/how_do_serversent_event_streams_work_on_a_lower/,https://www.reddit.com/r/webdev/comments/1h67euz/how_do_serversent_event_streams_work_on_a_lower/,2024-12-04 04:11:47,10,0.86,10,0,8,0,0,False,False,True,False,False,Question,self,t3_1h67euz
+webdev,How can I possibly calculate how much Vercel will charge me?,"I am thinking about re-writing an app for one of my clients which I am hosting right now on a Cloudways server. In fact, my client pays for the server and I have access to it.
+
+The costs are right now $350 for 960GB, 48GB RAM and 12 Core CPU.
+
+I checked Vercel website but I have no clue how much I need and how much it will be. 
+
+The monthly bandwidth of the Cloudways server is 2.3TB. We have around 700 daily active users, 400GB of data in the database and filesystem and we add around 1GB per day in data. 
+
+Can I even calculate it somehow? What do I need to know from the current server in order to estimate the costs? I am afraid that the costs will go through the roof! 🤯",TelephoneCool5490,1h66q3x,https://reddit.com/r/webdev/comments/1h66q3x/how_can_i_possibly_calculate_how_much_vercel_will/,https://www.reddit.com/r/webdev/comments/1h66q3x/how_can_i_possibly_calculate_how_much_vercel_will/,2024-12-04 03:34:44,15,0.87,15,0,20,0,0,False,False,True,False,False,,self,t3_1h66q3x
+webdev,I was wrong about GraphQL,,Savram8,1h6hzr7,https://reddit.com/r/webdev/comments/1h6hzr7/i_was_wrong_about_graphql/,https://wundergraph.com/blog/six-year-graphql-recap,2024-12-04 14:58:35,0,0.33,0,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/MRLm2rccGBDOkW3O0eOcrc5cCQy-GMStzJqHFXpB5Ts.jpg,t3_1h6hzr7
+webdev,HTML email not displaying correctly on GMAIL,"Hi everyone,
+
+I am preparing a HTML email for a campaign, however when I sent it and open the email on the Gmail app for mobile it does not display correctly. The layout is completely broken.
+
+This does not happen on other app (Apple mail, Outlook, etc) where the email is perfect.
+
+I noticed that when I click the 3 dots next to the sender and ""Revert auto-sizing"" it displays correctly. I would like the email to open directly with the correct format without the recipient having to click this.
+
+Any ideas on how to fix this? Is there a specific code I can use?
+
+Any help would be truly appreciated.",username90856,1h6h0s6,https://reddit.com/r/webdev/comments/1h6h0s6/html_email_not_displaying_correctly_on_gmail/,https://www.reddit.com/r/webdev/comments/1h6h0s6/html_email_not_displaying_correctly_on_gmail/,2024-12-04 14:16:04,1,1.0,1,0,4,0,0,False,False,True,False,False,,self,t3_1h6h0s6
+webdev,auto deploying docker via github actions but requirements.txt are having extra dependencies installed?!,"I am deploying to dockerhub using github actions. I write my web app API in python, and using requirements.txt for installing dependencies of my web app API. The thing is that I have 2 repositories for 2 different version of the API. Even when I am using another repo, my docker image created, is having dependencies being installed like (tensor, nvidia, networkx etc) which were mentioned in the requirements.txt of the first repository. Why is this happening? (I know these dependency libraries are NOT some interdependant dependencies of my existing library)
+
+[https://github.com/SaiFUllaH-KhaN1/main\_async](https://github.com/SaiFUllaH-KhaN1/main_async)
+
+Please find the dockerfile and the main.yml inside the .github/workflows folder. The req.txt file has the requirements of the dependencies installed.",aviation_expert,1h6gxqj,https://reddit.com/r/webdev/comments/1h6gxqj/auto_deploying_docker_via_github_actions_but/,https://www.reddit.com/r/webdev/comments/1h6gxqj/auto_deploying_docker_via_github_actions_but/,2024-12-04 14:12:23,1,0.67,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1h6gxqj
+webdev,How do you deal with Caching in development?,"Hi All,
+
+  
+I'm not a dev by any stretch but I do dabble. Lately I've been working on a project and I'm testing on a dev. server. When I make changes to JS files or CSS files, the browser always shows me the cached version of the file!
+
+This is so frustrating! How do you guys deal with this in development? I know it doesn't impact too much in production because the files won't change in production as often but this seems very frustrating to develop with.
+
+  
+Thank you,",roblu001,1h6fcra,https://reddit.com/r/webdev/comments/1h6fcra/how_do_you_deal_with_caching_in_development/,https://www.reddit.com/r/webdev/comments/1h6fcra/how_do_you_deal_with_caching_in_development/,2024-12-04 12:57:45,8,1.0,8,0,9,0,0,False,False,True,False,False,,self,t3_1h6fcra
+webdev,"Perplexity Pro 1 Year Vouchers (activate first, pay after)
+","Get a 1-Year Perplexity Pro Voucher for just $29 (regular price $200) through my service provider.
+
+This includes access to advanced models like:
+
+* Claude 3.5 Sonnet, Claude 3.5 Haiku (Opus Removed), Grok-2
+* GPT-4o, o1 Mini for Reasoning &amp; Llama 3.1
+* Image generators: Flux.1, DALL-E 3, Playground v3 Stable Diffusion XL
+
+Works globally and payments are accepted via PayPal for buyer protection.
+
+# How It Works:
+
+1. Join the 👉[Discord](https://discord.gg/h2HUMpKxhn) of 230+ Members
+2. Pay via PayPal
+3. Promo link redeemed, (activate first, pay after so if you don't pay then you're the scammer?)
+
+[Vouch from Buyers](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1gv38zi),  [Feedback 2](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1gv3g3d),  [Feedback 3](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1gu0bkm),  [Feedback 4](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1g510cq),  [Feedback 5](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1g6ilkh)",AICentralZA,1h6dohf,https://reddit.com/r/webdev/comments/1h6dohf/perplexity_pro_1_year_vouchers_activate_first_pay/,https://www.reddit.com/r/webdev/comments/1h6dohf/perplexity_pro_1_year_vouchers_activate_first_pay/,2024-12-04 11:15:47,1,0.6,1,0,0,0,0,False,False,True,False,False,Resource,self,t3_1h6dohf
+webdev,How did you develop your eye for web design? (looking for ressources),"Hello everyone,
+
+While I'm comfortable translating designs (e.g. from Figma) into code, I'm struggling with the creative side of web design. Whenever I attempt to create designs from scratch, they end up looking flat, minimalistic (and not in the good way), or old school.
+
+I'd love to improve my design skills - nothing fancy, just aiming to create clean, professional-looking sites for now. **What resources helped you level up your design game?** I'm interested in everything:
+
+* Online courses
+* Web design focused YouTube channels
+* Websites/blogs
+* Design systems or case studies you find inspiring
+
+I figure other developers making the transition into design might find this valuable too. Would really appreciate any guidance from those who've made this journey!",Michel1846,1h6brod,https://reddit.com/r/webdev/comments/1h6brod/how_did_you_develop_your_eye_for_web_design/,https://www.reddit.com/r/webdev/comments/1h6brod/how_did_you_develop_your_eye_for_web_design/,2024-12-04 08:56:06,9,1.0,9,0,9,0,0,False,False,True,False,False,Resource,self,t3_1h6brod
+webdev,What's the best way to handle video processing on a social site?,"I want to process videos with ABR using HLS, MPEG-DASH. I'm using NextJS and having trouble getting ffmpeg to work. Long story short, it's not setting up the ffmpeg-static path properly when I did an npm install.
+
+I want to process video that a user selects via file input, preferably on the client side, then take the processed video with all the quality variants and upload it to my S3 bucket. Everyone is recommending ffmpeg, but I spent 2 days trying to get it to work and couldn't. Since it's server side I think it would cause performance issues down the line. Honestly whatever works at this point I'm willing to do and worry about performance optimization later. ",clit_or_us,1h6b3ib,https://reddit.com/r/webdev/comments/1h6b3ib/whats_the_best_way_to_handle_video_processing_on/,https://www.reddit.com/r/webdev/comments/1h6b3ib/whats_the_best_way_to_handle_video_processing_on/,2024-12-04 08:03:46,3,1.0,3,0,3,0,0,False,False,True,False,False,Question,self,t3_1h6b3ib
+webdev,"Hosting an API for payments, what options are available?","To be fair it's for a non profit site, and the API is using Paypal stuff.  Does this go against most terms and regulations for the 'free tier' of most companies that hosts API (eg; Rail, Render, etc)? I can't seem to find anything on it but I might be overlooking something. If that's the case, any suggestions? ",badboyzpwns,1h6a27f,https://reddit.com/r/webdev/comments/1h6a27f/hosting_an_api_for_payments_what_options_are/,https://www.reddit.com/r/webdev/comments/1h6a27f/hosting_an_api_for_payments_what_options_are/,2024-12-04 06:49:20,3,0.81,3,0,2,0,0,False,False,True,False,False,,self,t3_1h6a27f
+webdev,Recommendations for User-Friendly Data Analytics Tools Compatible with Google Cloud SQL,"Hello everyone,I'm looking for recommendations on data analytics tools or online platforms that can support Google Cloud SQL. My primary requirement is that these tools should be user-friendly, as I have non-technical users who need to visualize and analyze data easily.
+
+# Here are the specific requirements I have in mind:
+
+1. **Support Writing Code**: I want to write code(SQL/other programming languages) to transform the data and then use it in data visualization
+2. **Data Visualization**: It should allow the creation of interactive charts and graphs (like line graphs and bar charts) to represent the data effectively.
+3. **Data Source Integration**: The tool must support connecting to Google Cloud SQL as a data source.
+4. **Interactive Features**: Users should be able to filter data by date ranges or other dimensions and explore the data interactively.
+5. **Calculation Features**: The ability to perform calculations (like daily volume or volume within specific periods) without requiring coding skills.
+
+If you have any suggestions or experiences with tools that meet these criteria, I would greatly appreciate your input!",More-Ad-5258,1h6631p,https://reddit.com/r/webdev/comments/1h6631p/recommendations_for_userfriendly_data_analytics/,https://www.reddit.com/r/webdev/comments/1h6631p/recommendations_for_userfriendly_data_analytics/,2024-12-04 03:02:40,5,1.0,5,0,2,0,0,False,False,True,False,False,,self,t3_1h6631p
+webdev,Standard SSL to AutoSSL in cPanel?,"  
+i decided to go with godaddy for webhosting (already regretting this after scrolling through this sub) and i got standard SSL and my website wont work (im getting the connection is not private message). I chatgpt'd it and its saying i need **AutoSSL**. I recently purchased a **Standard SSL certificate** from GoDaddy,  and i called the help desk and they told me to switch to **AutoSSL** because it automatically handles SSL installations and renewals, and I’d rather not manage SSL certificates manually.... 
+
+Here's what I've done so far:
+
+1. **Purchased a Standard SSL** from GoDaddy.
+2. Installed the certificate manually via **cPanel**.
+3. I saw that my certificate is self-signed in cPanel.
+
+# What I want to do:
+
+  
+Make my website work.
+
+I want **AutoSSL** to take over and automatically install and renew my SSL certificates. I’ve checked my cPanel, but I **don’t see an option for AutoSSL** anywhere in the **SSL/TLS Manager** or **SSL/TLS Status** sections. I also don’t see an option to **enable AutoSSL** in cPanel.
+
+# Questions:
+
+1. **Am I missing something?** Should AutoSSL be available by default, or is it something that needs to be enabled by GoDaddy?
+2. **How do I get AutoSSL working for my domain?** Do I need to enable it manually, or does GoDaddy handle that?
+3. **Is AutoSSL only available on specific hosting plans?** I'm on a basic hosting plan, so I’m wondering if AutoSSL is available for my plan.
+
+If anyone has had similar issues with GoDaddy and cPanel, I’d really appreciate any advice on how to get AutoSSL up and running.
+
+Thank you so much for the help. ",computer21,1h6324w,https://reddit.com/r/webdev/comments/1h6324w/standard_ssl_to_autossl_in_cpanel/,https://www.reddit.com/r/webdev/comments/1h6324w/standard_ssl_to_autossl_in_cpanel/,2024-12-04 00:35:05,4,0.84,4,0,1,0,0,False,False,True,False,False,,self,t3_1h6324w
+webdev,8-bit-like UI component library?,"I’ve done some searching but haven’t come across what I’m looking for. Maybe someone here can help?
+
+I’m making a web app for my fantasy football league. Nothing groundbreaking, just a place to see info and stats for our league and teams, some charts, some graphs, etc. 
+
+I think it would be cool to give it a sort of Tecmo-Bowl, retro 8-bit gaming feel.  Does anyone know of any React component libraries that already exist, or something close I can fork and modify to my needs?
+
+Thanks in advance!",PM_ME_YER_BOOTS,1h5xxhh,https://reddit.com/r/webdev/comments/1h5xxhh/8bitlike_ui_component_library/,https://www.reddit.com/r/webdev/comments/1h5xxhh/8bitlike_ui_component_library/,2024-12-03 20:56:13,1,1.0,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h5xxhh
+webdev,"navigator.storage.estimate().usageDetails.indexedDb increases with more than expected, please explain"," I insert into indexeddb this row, and then I measure the useageDetails of indexeddb:   
+
+
+{ userId: ""1"", temp: new ArrayBuffer(0), }  
+
+
+`(await navigator.storage.estimate()).usageDetails.indexedDB` outputs `1797257`, then I update the row with userId: ""1"" to be equal to this now:   
+
+
+{ userId: ""1"", temp: new ArrayBuffer(300), }   
+
+
+I would expect the usageDetails.indexedDb number to grow with 300 but instead it grows by 720 and is now equal to `1797977`
+
+How does that make sense? ",Reasonable-Road-2279,1h5v3l1,https://reddit.com/r/webdev/comments/1h5v3l1/navigatorstorageestimateusagedetailsindexeddb/,https://www.reddit.com/r/webdev/comments/1h5v3l1/navigatorstorageestimateusagedetailsindexeddb/,2024-12-03 19:01:51,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1h5v3l1
+webdev,Burnout / Career transition,"Hi everyone, 
+
+recently I have been feeling pretty shit. I work at a big office corporation as a software engineer. Work is not that exciting. I am definitelly burning out and starting to hate sitting in front of a monitor in order to pay rent. 
+
+So I've been trying to manage this feeling by doing something tactile after work, like knitting and fixing stuff around the house. One evening it dawned on me that I could get like another 'fallback' skill just in case I decide to ditch my developer career. 
+
+I am looking for suggestions on what I could currently handle in my situation and what I could develop as a skill that could maybe one day be my fulltime gig. For contex - I'm male, living in eastern europe, mid twenties.   
+  
+The limitations are:
+
+* it must be something I could get good at just by learning/practicing at home; 
+* preferably not involving staring at a screen;
+* is paid fairly well; 
+* will not be redundant in 5-10 years; 
+* doesn't cost a lot of financial investment immediately; 
+
+So far I've considered, tufting custom rugs, working with silver jewelry, woodworking handyman (shelves, cutting boards ect), bathroom tiling, nail technitian, massagist and aromatherapy.  
+  
+If you've got any suggestions or ideas I would be very very greatful! Looking for new skills and opportunities! ",gogo1520180,1h5tvwv,https://reddit.com/r/webdev/comments/1h5tvwv/burnout_career_transition/,https://www.reddit.com/r/webdev/comments/1h5tvwv/burnout_career_transition/,2024-12-03 18:11:33,1,0.67,1,0,5,0,0,False,False,True,False,False,Question,self,t3_1h5tvwv
+webdev,how to work as a team,"Me and my friend are working in a simple full stack project .he is backend and Iam doing frontend.I need suggestion how we can both work parallel.I am already done with design in figma.
+
+We don't have much experience working in a proper full stack app in a team. 
+
+What we agreed on yesterday's meeting was:
+
+I will do skeleton website without css then with that skeleton website he will do the backend stuff while I will work on css and animation.then we will merge them maybe idk 😂.
+
+
+
+Please can someone senior help me with understanding a workflow a bit better.or any books or videos you can recommend on how to work like they do in companies .Thank you 
+
+",lampochipre,1h5qzp8,https://reddit.com/r/webdev/comments/1h5qzp8/how_to_work_as_a_team/,https://www.reddit.com/r/webdev/comments/1h5qzp8/how_to_work_as_a_team/,2024-12-03 16:10:41,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1h5qzp8
+webdev,Best setup for endpoint testing of HTTP requests using Node?,"Update: I ended up using jest and supertest and it is awesome! If I ever have to make a backend again in Node, I am going to try and write the tests first maybe even. Original post below:  
+  
+Beforehand, I am still on the local machine development phase of my project. I am not a webdev pro and the interaction between expressjs and mongo I am being asked to develop are getting more involved and I have only been using postman so far to test the http requests and it is getting tedious. I would like to write a test suite instead that I can slowly build upon during development.
+
+ChatGPT mentions Jest, Mocha and SuperTest. In your experience, what is the best way to go about it?",setdelmar,1h5prz0,https://reddit.com/r/webdev/comments/1h5prz0/best_setup_for_endpoint_testing_of_http_requests/,https://www.reddit.com/r/webdev/comments/1h5prz0/best_setup_for_endpoint_testing_of_http_requests/,2024-12-03 15:19:02,1,1.0,1,0,4,0,0,False,False,True,False,False,,self,t3_1h5prz0

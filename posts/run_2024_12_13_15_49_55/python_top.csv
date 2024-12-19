@@ -1,0 +1,149 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Is full stack django or full stack fastapi better startup web apps?,"Wanting to build mvp for idea I have, Python has been my first language of choice. Need to have ability for rapid development but scale and performance is priority.",WynActTroph,1hd3vvm,https://reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/,https://www.reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/,2024-12-13 04:02:15,46,0.77,46,0,43,0,0,False,False,True,False,False,Discussion,self,t3_1hd3vvm
+Python,Need Python contributors for an open-source top-down survival game with rogue lite/like elements.,"If anyone is interested, you can contribute or download the source code here [Poppadomus/pygameTDS](https://github.com/Poppadomus/pygameTDS) 
+
+(yes, I know you shouldn't make games in python).",BornTailor6583,1hd3pnu,https://reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/,https://www.reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/,2024-12-13 03:52:35,14,0.68,14,0,7,0,0,False,False,True,False,False,Resource,self,t3_1hd3pnu
+Python,Friday Daily Thread: r/Python Meta and Free-Talk Fridays,"# Weekly Thread: Meta Discussions and Free Talk Friday 🎙️
+
+Welcome to Free Talk Friday on /r/Python! This is the place to discuss the r/Python community (meta discussions), Python news, projects, or anything else Python-related!
+
+## How it Works:
+
+1. **Open Mic**: Share your thoughts, questions, or anything you'd like related to Python or the community.
+2. **Community Pulse**: Discuss what you feel is working well or what could be improved in the /r/python community.
+3. **News &amp; Updates**: Keep up-to-date with the latest in Python and share any news you find interesting.
+
+## Guidelines:
+
+* All topics should be related to Python or the /r/python community.
+* Be respectful and follow Reddit's [Code of Conduct](https://www.redditinc.com/policies/content-policy).
+
+## Example Topics:
+
+1. **New Python Release**: What do you think about the new features in Python 3.11?
+2. **Community Events**: Any Python meetups or webinars coming up?
+3. **Learning Resources**: Found a great Python tutorial? Share it here!
+4. **Job Market**: How has Python impacted your career?
+5. **Hot Takes**: Got a controversial Python opinion? Let's hear it!
+6. **Community Ideas**: Something you'd like to see us do? tell us.
+
+Let's keep the conversation going. Happy discussing! 🌟",AutoModerator,1hcz7n3,https://reddit.com/r/Python/comments/1hcz7n3/friday_daily_thread_rpython_meta_and_freetalk/,https://www.reddit.com/r/Python/comments/1hcz7n3/friday_daily_thread_rpython_meta_and_freetalk/,2024-12-13 00:00:46,2,0.76,2,0,1,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hcz7n3
+Python,CommanderAI / LLM-Driven Action Generation on Windows with Langchain (openai),"Hey everyone,
+
+I’m sharing a project I worked on some time ago: a LLM-Driven Action Generation on Windows with Langchain (openai). An automation system powered by a Large Language Model (LLM) to understand and execute instructions. The idea is simple: you give a natural language command (e.g., “Open Notepad and type ‘Hello, world!’”), and the system attempts to translate it into actual actions on your Windows machine.
+
+**Key Features:**
+
+* **LLM-Driven Action Generation:** The system interprets requests and dynamically generates Python code to interact with applications.
+* **Automated Windows Interaction:** Opening and controlling applications using tools like pywinauto and pyautogui.
+* **Screen Analysis &amp; OCR:** Capture and analyze the screen with Tesseract OCR to verify UI states and adapt accordingly.
+* **Speech Recognition &amp; Text-to-Speech:** Control the computer with voice commands and receive spoken feedback.
+
+**Current State of the Project:**  
+This is a proof of concept developed a while ago and not maintained recently. There are many bugs, unfinished features, and plenty of optimizations to be done. Overall, it’s more a feasibility demo than a polished product.
+
+**Why Share It?**
+
+* If you’re curious about integrating an LLM with Windows automation tools, this project might serve as inspiration.
+* You’re welcome to contribute by fixing bugs, adding features, or suggesting improvements.
+* Consider this a starting point rather than a finished solution. Any feedback or assistance is greatly appreciated!
+
+**How to Contribute:**
+
+* The source code is available on GitHub (link in the comments).
+* Feel free to fork, open PRs, file issues, or simply use it as a reference for your own projects.
+
+**In Summary:**  
+This project showcases the potential of LLM-driven Windows automation. Although it’s incomplete and imperfect, I’m sharing it to encourage discussion, experimentation, and hopefully the emergence of more refined solutions!
+
+Thanks in advance to anyone who takes a look. Feel free to share your thoughts or contributions!  
+
+
+[https://github.com/JacquesGariepy/CommanderAI](https://github.com/JacquesGariepy/CommanderAI)
+
+",Outrageous-Pea9611,1hcwn3h,https://reddit.com/r/Python/comments/1hcwn3h/commanderai_llmdriven_action_generation_on/,https://www.reddit.com/r/Python/comments/1hcwn3h/commanderai_llmdriven_action_generation_on/,2024-12-12 22:00:24,2,0.76,2,0,1,0,0,False,False,True,False,False,Resource,self,t3_1hcwn3h
+Python,Turtle text engine without the write function,"*I created a python text engine, but just recently realised it was a huge waste of time due to the write functions existence*
+
+[*https://github.com/MunHammer/Turtle-text-engine-without-the-write-function*](https://github.com/MunHammer/Turtle-text-engine-without-the-write-function)
+
+***What my project does***
+
+*It can write letters using turtle without the write function*
+
+**Target Audience**
+
+Just something to play with I guess
+
+**Comparison**
+
+no other projects like this have been seen by me",RichRoof7927,1hcvyf3,https://reddit.com/r/Python/comments/1hcvyf3/turtle_text_engine_without_the_write_function/,https://www.reddit.com/r/Python/comments/1hcvyf3/turtle_text_engine_without_the_write_function/,2024-12-12 21:30:17,2,0.56,2,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1hcvyf3
+Python,Essential Python web security,"# Found this resource, thought others may appreciate it - [https://opensource.net/essential-python-web-security/](https://opensource.net/essential-python-web-security/)
+
+  
+*This is the first post in a series*: *“The absolute minimum every Python web application developer must know about security.”*",PhilipLGriffiths88,1hdd76m,https://reddit.com/r/Python/comments/1hdd76m/essential_python_web_security/,https://www.reddit.com/r/Python/comments/1hdd76m/essential_python_web_security/,2024-12-13 14:19:31,1,0.6,1,0,0,0,0,False,False,True,False,False,Resource,self,t3_1hdd76m
+Python,News Article Scrapper - Telegram automation,"Hey guys,
+
+
+
+I wanted to share a project I’ve been working on for the past few days. Using Scrapy, I’m scraping news websites to extract English-language articles. I’m storing the articles in an SQLite3 database and posting them on a Telegram channel: GeorgiaNewsDaily.
+
+**What My Project Does**
+
+Recent events unfolding in Georgia (the country) made me realize how important it is to share information from trusted sources with a foreign audience.
+
+Before starting this project, I was completely unfamiliar with Scrapy or the Telegram Python library. The learning curve wasn’t super steep, but it definitely had its challenges. Each website had its own quirks, which made the scraping logic tricky. One of the biggest issues was avoiding duplicate articles that had already been extracted and posted. To solve this, I used hashing for article URLs. In the database, there’s a field to check whether an article has been posted—POSTED = 0 means “not posted,” and POSTED = 1 means “posted.” When the spider stores the articles in the database, the default value is 0. After the script responsible for posting to Telegram finishes, it updates the field to 1.
+
+For deployment, I used PythonAnywhere. It’s fairly easy to use, though I had a hard time figuring out how to properly schedule the spiders.
+
+**Target Audience**
+
+Anyone who is interested in the similar project.
+
+**Comparison**
+
+I don't know any similar project to compare it to.
+
+
+
+Anyway, feel free to check out the Telegram channel (GeorgiaNewsDaily) if you’re curious about how it works or just want to see the content.
+
+And here’s the GitHub link: [https://github.com/nodri09/codespaces-blank](https://github.com/nodri09/codespaces-blank)",Shmlack,1hcnhnv,https://reddit.com/r/Python/comments/1hcnhnv/news_article_scrapper_telegram_automation/,https://www.reddit.com/r/Python/comments/1hcnhnv/news_article_scrapper_telegram_automation/,2024-12-12 15:25:55,1,0.57,1,0,5,0,0,False,False,True,False,False,Showcase,self,t3_1hcnhnv
+Python,Cloud-Based Python Libraries: Does This Exist Already?,"Hey everyone! I had an idea and wanted to see if something like this exists or get your thoughts.
+
+What if Python libraries like `pandas` or `numpy` could be accessed directly from the cloud, instead of installing them locally? You’d just fetch and use them dynamically, like:
+
+    from cloudlib import LibraryClient
+    
+    pandas = LibraryClient.get(""pandas"", version=""2.0.0"")
+    df = pandas.read_csv(""https://example.com/data.csv"")
+
+This could solve issues like:
+
+* Reducing the need for virtual environments.
+* Saving local storage.
+* Making onboarding and CI/CD pipelines faster.
+
+The cloud would handle library installation, execution, and versioning, while you just write code.
+
+Does something like this already exist? Would you use it? Let me know your thoughts!",nilipilo,1hddjx5,https://reddit.com/r/Python/comments/1hddjx5/cloudbased_python_libraries_does_this_exist/,https://www.reddit.com/r/Python/comments/1hddjx5/cloudbased_python_libraries_does_this_exist/,2024-12-13 14:36:45,0,0.29,0,0,21,0,0,False,False,True,False,False,Discussion,self,t3_1hddjx5
+Python,Free Python IDE for Android 🤩,"Blaze IDE for Python on Android is now released!
+Play Store 
+https://play.google.com/store/apps/details?id=com.blaze.code&amp;hl=en_IN
+
+**Target Audience**
+Many students across the world have an interest for coding but they are not able to fulfill their dreams because they don't own a laptop or a computer.
+But no need to worry, because Blaze is here to solve the problem!
+
+Features of Blaze
+Runs via web so minimal ram requirements
+Pypi modules are supported (except gui)
+Fast code compiler
+Less than 15 mb app size
+
+Download &amp; Support
+Please support the initiative by giving ⭐⭐⭐⭐⭐ reviews! Hope you will love Blaze!
+
+**Comparisions**
+Other projects have atleast 300 mb storage while this is Just 15mb
+
+Projects for blaze https://github.com/techxsarthak/Blaze-code",blaze-code,1hd69vj,https://reddit.com/r/Python/comments/1hd69vj/free_python_ide_for_android/,https://www.reddit.com/r/Python/comments/1hd69vj/free_python_ide_for_android/,2024-12-13 06:27:15,0,0.42,0,0,2,0,0,False,False,True,False,False,Showcase,self,t3_1hd69vj

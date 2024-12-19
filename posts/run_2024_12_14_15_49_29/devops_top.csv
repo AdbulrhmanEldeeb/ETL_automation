@@ -1,0 +1,310 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Terraform or OpenTofu?,"Hello there!
+
+I'm back into devops after a few years doing other stuff. I'll be managing AWS infrastructure and will be back to using terraform.
+
+However in the meantime Terraform got forked into OpenTofu, and now I'm not sure which one I should install.
+
+Our work use case is pretty simple:
+
+- we don't resell terraform or other hashicorp stuff, in any way
+- we ""just"" need to manage our infrastructure via IAC
+- we really DON'T want to switch tool at some point
+- we want to stay on amazon's blessed version of the tool
+
+So, which way to go? Terraform or OpenTofu?
+
+EDIT: No, we are not going to evaluate other tools to manage infrastructure via code. No, we won't consider CloudFormation.",znpy,1hdhlrx,https://reddit.com/r/devops/comments/1hdhlrx/terraform_or_opentofu/,https://www.reddit.com/r/devops/comments/1hdhlrx/terraform_or_opentofu/,2024-12-13 17:37:52,77,0.93,77,0,80,0,0,False,False,True,False,False,,self,t3_1hdhlrx
+devops,I made a lightweight VPS security and performance audit script and open-sourced it,"I am sharing a Bash script I created to automate security and performance audits in your infrastructure. Perfect for CI/CD pipelines, monitoring, or pre-deployment checks.
+
+**Key Features for DevOps Workflows:**
+
+\- Automation-friendly output format
+
+\- Non-interactive execution
+
+\- Detailed report generation for compliance/documentation
+
+\- Lightweight (no external dependencies)
+
+\- Easy integration with monitoring systems
+
+\- Suitable for Infrastructure as Code pipelines
+
+**Core Checks:**
+
+**Infrastructure Security:**
+
+\- SSH hardening validation
+
+\- Firewall configuration
+
+\- Brute force protection (fail2ban)
+
+\- Security updates status
+
+\- Service enumeration
+
+\- Port scanning
+
+\- SUID file detection
+
+\- Password policies
+
+**Resource Monitoring:**
+
+\- Disk metrics (used/available/total)
+
+\- Memory allocation details
+
+\- CPU utilization and load
+
+\- System uptime
+
+\- Process analysis
+
+\- Network connections
+
+**Sample Output:**
+
+\`\`\`
+
+\[PASS\] SSH Root Login - Root login is properly disabled in SSH configuration
+
+\[WARN\] Memory Usage - Moderate usage (65% used - Used: 6.5GB of 10GB, Available: 3.5GB)
+
+\[FAIL\] Firewall Status - UFW firewall is not active - system exposed to network attacks
+
+\`\`\`
+
+Repository: [https://github.com/vernu/vps-audit](https://github.com/vernu/vps-audit)
+
+**Roadmap:**
+
+\- JSON/YAML output format
+
+\- metrics export
+
+\- Container-specific checks
+
+\- Custom threshold configurations
+
+\- AWS/GCP/Azure specific validations
+
+**Installation:**
+
+\`\`\`bash
+
+wget [https://raw.githubusercontent.com/vernu/vps-audit/main/vps-audit.sh](https://raw.githubusercontent.com/vernu/vps-audit/main/vps-audit.sh)
+
+chmod +x [vps-audit.sh](http://vps-audit.sh)
+
+sudo ./vps-audit.sh
+
+\`\`\`
+
+Looking for contributors! Feel free to:
+
+\- Open issues for feature requests
+
+\- Submit PRs for improvements
+
+\- Share integration examples
+
+\- Suggest cloud platform specific checks
+
+[https://github.com/vernu/vps-audit](https://github.com/vernu/vps-audit)
+
+Would love to hear how you integrate this into your DevOps workflows!
+
+The project is under active development, and every contribution helps make it better for the DevOps community. Whether it's a star ⭐, an issue report 🐛, or a pull request 🔄, your support is appreciated!
+
+[https://github.com/vernu/vps-audit](https://github.com/vernu/vps-audit)",Anxious_Situation_60,1hdpn5p,https://reddit.com/r/devops/comments/1hdpn5p/i_made_a_lightweight_vps_security_and_performance/,https://www.reddit.com/r/devops/comments/1hdpn5p/i_made_a_lightweight_vps_security_and_performance/,2024-12-13 23:41:09,12,0.75,12,0,0,0,0,False,False,True,False,False,,self,t3_1hdpn5p
+devops,What other job titles should I be looking at?,"On the hunt to leave my current devops role for a new one (fuck you, acquisitions). Seems like there could be other job titles that fit what we do (or I can squeeeeze all of my experience in to). The only one that I can think of is SRE. Is there another title I should be searching for thag isn't ""DevOps"" or ""SRE""? Sorry if obvious, I've been in DevOps for 3 years and still have much more to learn :)
+
+Thanks yall!",aumanchi,1hdpqel,https://reddit.com/r/devops/comments/1hdpqel/what_other_job_titles_should_i_be_looking_at/,https://www.reddit.com/r/devops/comments/1hdpqel/what_other_job_titles_should_i_be_looking_at/,2024-12-13 23:45:31,9,0.85,9,0,8,0,0,False,False,True,False,False,,self,t3_1hdpqel
+devops,[K8s] Good practices for sharing files between nodes in HA Kubernetes Cluster,"Hi guys, I self-host a 4-node Kubernetes cluster where three nodes have only their boot drives for storage, and one node hosts a RAID array that provides an NFS share. On the three nodes, I mount this NFS share, and I use `hostPath` in my service configurations to map each pod's files to its corresponding subdirectory on the share. However, I’ve encountered significant issues with NFS during network interruptions or power outages, where it becomes unreliable or unstable.
+
+I’m aware of \`nfs-provisioner\` for Kubernetes, but it doesn’t seem to allow me to specify a particular subdirectory in the share. This limitation forces me to configure separate shares for each service, which is cumbersome.
+
+1. Since most of my pods don’t require multiple instances (and therefore doesn't need multi-reader/multi-writer capabilities), what are the best practices to ensure data persistence between pod rescheduling to another node/deletion and recreation while minimizing data loss or corruption during network outages or when the NFS server goes down?
+2. Is there a way to configure Kubernetes to automatically evict all pods if the NFS server becomes unavailable?
+3. For deployments that require multiple instances (e.g. Caddy), what would be the best practices for sharing data between pods?
+
+Additionally, I strongly prefer that data remains directly on the filesystem in the RAID array so that I can manually edit configurations or access files directly when needed.
+
+EDIT: Keeping nfs or similar as a provisioning option is very much preferred! Thanks!",lifeequalsfalse,1he104q,https://reddit.com/r/devops/comments/1he104q/k8s_good_practices_for_sharing_files_between/,https://www.reddit.com/r/devops/comments/1he104q/k8s_good_practices_for_sharing_files_between/,2024-12-14 11:27:26,5,0.86,5,0,6,0,0,False,False,True,False,False,,self,t3_1he104q
+devops,Resources to get into DevOps?,"Hello everyone. I need some good resources (Free or Paid) and guidance on how to start learning concepts and tools required for DevOps. 
+
+",zopxi,1hdvwum,https://reddit.com/r/devops/comments/1hdvwum/resources_to_get_into_devops/,https://www.reddit.com/r/devops/comments/1hdvwum/resources_to_get_into_devops/,2024-12-14 05:25:25,4,0.6,4,0,17,0,0,False,False,True,False,False,,self,t3_1hdvwum
+devops,Giving up a dev career to move into DevOps: Any regrets?,"I’m an older developer who got into the field in my 30s and my tech stack of specialization is losing favor in the marketplace.
+
+I’ve been job searching for about 3 months and have found the current dev hiring market extremely challenging. It isn’t clear yet if and when it will rebound.
+
+I have an opportunity to move into DevOps (an area I a have a good deal of experience and interest in) for about a 10% pay decrease. My current development position is likely going away next year.
+
+Has anyone else made a similar transition and had any regrets about it? I am thinking that the skills may remain more transferrable and less likely to be offshored, but that could be wishful thinking as well. Is there less ageism in DevOps?",Responsible-Egg-6043,1he2sv5,https://reddit.com/r/devops/comments/1he2sv5/giving_up_a_dev_career_to_move_into_devops_any/,https://www.reddit.com/r/devops/comments/1he2sv5/giving_up_a_dev_career_to_move_into_devops_any/,2024-12-14 13:24:57,4,0.64,4,0,19,0,0,False,False,True,False,False,,self,t3_1he2sv5
+devops,After graduation how do you get to work on really challenging projects to learn? ,"All the startups hire for DevOps but they all want experienced people. For the juniors, where can one go to learn? 
+
+IMHO, if you want to become a decent devops you need experience working in challenging real projects and there are not many places to learn, because they look for someone with 5 years of experience.
+
+For the great DevOps engineers on this group, how did you learn? Who opens their door for junior people to learn and also has challenging project",oana77oo,1he1vbg,https://reddit.com/r/devops/comments/1he1vbg/after_graduation_how_do_you_get_to_work_on_really/,https://www.reddit.com/r/devops/comments/1he1vbg/after_graduation_how_do_you_get_to_work_on_really/,2024-12-14 12:29:06,0,0.5,0,0,10,0,0,False,False,True,False,False,,self,t3_1he1vbg
+devops,"Asking for feedback - Cyberbro - Analyze observable (IP, hash, domain) with ease - (CTI / Cybersecurity project)","Hello there,
+
+I am a junior cybersecurity engineer and I am trying to develop an open source project in Python Flask.
+
+Any feedback would be appreciated.
+
+My project currently lacks real tests cases but it has a build workflow that executes pytests.
+
+I am wondering how to manage properly API Keys and maybe push the automation to automatically build and run the docker workflow to a registry / hosting service.
+
+This project is a simple application that extracts your IoCs from garbage input (using regex) and checks their reputation using multiple services.
+
+It is mainly Inspired by existing projects Cybergordon and IntelOwl.
+
+I am convinced that this project is useful for SOC analysts or CTI professionnals (I use it daily for my job).
+
+**Features**
+
+* **Effortless Input Handling**: Paste raw logs, IoCs, or fanged IoCs, and let our regex parser do the rest.
+* **Multi-Service Reputation Checks**: Verify observables (IP, hash, domain, URL) across multiple services like VirusTotal, AbuseIPDB, IPInfo, Spur\[.\]us, IP Quality Score, MDE, Google Safe Browsing, Shodan, Abusix, Phishtank, ThreatFox, Github, Google...
+* **Detailed Reports**: Generate comprehensive reports with advanced search and filter options.
+* **High Performance**: Leverage multithreading for faster processing.
+* **Automated Observable Pivoting**: Automatically pivot on domains, URL and IP addresses using reverse DNS and RDAP.
+* **Accurate Domain Info**: Retrieve precise domain information from ICANN RDAP (next generation whois).
+* **Abuse Contact Lookup**: Accurately find abuse contacts for IPs, URLs, and domains.
+* **Export Options**: Export results to CSV and **autofiltered well formatted** Excel files.
+* **MDE Integration**: Check if observables are flagged on your Microsoft Defender for Endpoint (MDE) tenant.
+* **Proxy Support**: Use a proxy if required.
+* **Data Storage**: Store results in a SQLite database.
+* **Analysis History**: Maintain a history of analyses with easy retrieval and search functionality.
+
+This project is available on Github at : [https://github.com/stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro)
+
+Thank you for reading :)",stan_frbd,1he1nxz,https://reddit.com/r/devops/comments/1he1nxz/asking_for_feedback_cyberbro_analyze_observable/,https://www.reddit.com/r/devops/comments/1he1nxz/asking_for_feedback_cyberbro_analyze_observable/,2024-12-14 12:15:01,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1he1nxz
+devops,"[Open Source] VPS Audit Script: Automate security &amp; performance checks in your infrastructure
+","Sharing a Bash script I created for automating security and performance audits in your infrastructure. Perfect for CI/CD pipelines, monitoring, or pre-deployment checks.
+
+**Key Features for DevOps Workflows:**
+
+\- Automation-friendly output format
+
+\- Non-interactive execution
+
+\- Detailed report generation for compliance/documentation
+
+\- Lightweight (no external dependencies)
+
+\- Easy integration with monitoring systems
+
+\- Suitable for Infrastructure as Code pipelines
+
+
+
+**Core Checks:**
+
+**Infrastructure Security:**
+
+\- SSH hardening validation
+
+\- Firewall configuration
+
+\- Brute force protection (fail2ban)
+
+\- Security updates status
+
+\- Service enumeration
+
+\- Port scanning
+
+\- SUID file detection
+
+\- Password policies
+
+
+
+**Resource Monitoring:**
+
+\- Disk metrics (used/available/total)
+
+\- Memory allocation details
+
+\- CPU utilization and load
+
+\- System uptime
+
+\- Process analysis
+
+\- Network connections
+
+
+
+**Sample Output:**
+
+\`\`\`
+
+\[PASS\] SSH Root Login - Root login is properly disabled in SSH configuration
+
+\[WARN\] Memory Usage - Moderate usage (65% used - Used: 6.5GB of 10GB, Available: 3.5GB)
+
+\[FAIL\] Firewall Status - UFW firewall is not active - system exposed to network attacks
+
+\`\`\`
+
+
+
+Repository: [https://github.com/vernu/vps-audit](https://github.com/vernu/vps-audit)
+
+
+
+**Roadmap:**
+
+\- JSON/YAML output format
+
+\- metrics export
+
+\- Container-specific checks
+
+\- Custom threshold configurations
+
+\- AWS/GCP/Azure specific validations
+
+
+
+**Installation:**
+
+
+
+\`\`\`bash
+
+wget [https://raw.githubusercontent.com/vernu/vps-audit/main/vps-audit.sh](https://raw.githubusercontent.com/vernu/vps-audit/main/vps-audit.sh)
+
+chmod +x [vps-audit.sh](http://vps-audit.sh)
+
+sudo ./vps-audit.sh
+
+\`\`\`
+
+Looking for contributors! Feel free to:
+
+\- Open issues for feature requests
+
+\- Submit PRs for improvements
+
+\- Share integration examples
+
+\- Suggest cloud platform specific checks
+
+[https://github.com/vernu/vps-audit](https://github.com/vernu/vps-audit)
+
+Would love to hear how you integrate this into your DevOps workflows!
+
+The project is under active development, and every contribution helps make it better for the DevOps community. Whether it's a star ⭐, an issue report 🐛, or a pull request 🔄, your support is appreciated!
+
+[https://github.com/vernu/vps-audit](https://github.com/vernu/vps-audit)",Anxious_Situation_60,1hdk6wm,https://reddit.com/r/devops/comments/1hdk6wm/open_source_vps_audit_script_automate_security/,https://www.reddit.com/r/devops/comments/1hdk6wm/open_source_vps_audit_script_automate_security/,2024-12-13 19:30:23,0,0.25,0,0,0,0,0,False,False,True,False,False,,self,t3_1hdk6wm
+devops,Should Git Tag Should Be Identical to Artifact Version,"Let's say we release a project and as part of the release process we create a Git tag and an artifact. If the Git tag is some-project-v1.0.0, but the artifact version is 1.0.0 do we care?",jameshearttech,1hdm7e5,https://reddit.com/r/devops/comments/1hdm7e5/should_git_tag_should_be_identical_to_artifact/,https://www.reddit.com/r/devops/comments/1hdm7e5/should_git_tag_should_be_identical_to_artifact/,2024-12-13 21:01:10,0,0.36,0,0,25,0,0,False,False,True,False,False,,self,t3_1hdm7e5
+devops,I'm just a beginner and I like learning new things from quick videos! ,"Anyone here who is learning AWS security on youtube? I just saw this video on youtube. I’m still getting the hang of AWS but this was a nice and easy way to learn things. Sharing you the link of the video I watched [https://youtube.com/shorts/v8JsY0eVi3g?feature=share](https://youtube.com/shorts/v8JsY0eVi3g?feature=share)
+
+  
+Let me know what you think or do you recommend some videos to watch!",Frosty-Champion7811,1hdtbhh,https://reddit.com/r/devops/comments/1hdtbhh/im_just_a_beginner_and_i_like_learning_new_things/,https://www.reddit.com/r/devops/comments/1hdtbhh/im_just_a_beginner_and_i_like_learning_new_things/,2024-12-14 02:52:51,0,0.29,0,0,3,0,0,False,False,True,False,False,,self,t3_1hdtbhh

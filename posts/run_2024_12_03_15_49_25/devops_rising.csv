@@ -1,0 +1,197 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Where to learn networking?,I keep reading posts emphasizing the need for newbies to have good knowledgeable of networking so can u guys share any resources/guideline to learn ?thanks.,coobop332,1h5olw8,https://reddit.com/r/devops/comments/1h5olw8/where_to_learn_networking/,https://www.reddit.com/r/devops/comments/1h5olw8/where_to_learn_networking/,2024-12-03 14:27:39,3,0.8,3,0,2,0,0,False,False,True,False,False,,self,t3_1h5olw8
+devops,Just another DevOps Rant,"Hey r/devops,
+
+I wanted to share my recent experience as a DevOps professional navigating the job market, in hopes it resonates with some of you and maybe even sparks a conversation.
+
+Currently, I’m employed as a DevOps Engineer and have been working in the field for about 1.5 years. Due to recent circumstances, I decided to explore new opportunities and aim higher. I even cleared an interview for a role that required 3 years of experience—a milestone that felt validating for my skills and growth.
+
+I made it through multiple rounds of interviews for a promising role, only to get rejected at the final stage. What stings more is that I was honest about my unconventional background—pursuing a BSCS while already working in DevOps. My technical skills and experience were enough to pass every challenge they threw at me, but in the end, my degree (or lack thereof) became the deal-breaker.
+
+Here’s a bit of my background: Before transitioning into tech, I was pursuing Chartered Accountancy (CA). Life took unexpected turns, and I had to pivot. The skills I gained from that journey—discipline, analytical thinking, and resilience—have shaped who I am today.
+
+But for some companies, that time doesn’t count as ""relevant experience."" It’s frustrating because by the time I graduate, I’ll have around 3 years of solid hands-on DevOps experience, yet many organizations may still see me as a “fresher.”
+
+Despite the setback, I’m not giving up but tbh it stings. Rejections like these remind me why I chose this field in the first place—continuous learning, problem-solving, and the thrill of building scalable systems but sincerely, rejection hurts. I know my worth, and I sincerley hope there’s a company out there that values skills and grit over paperwork.
+
+To my fellow DevOps enthusiasts: Have any of you faced similar challenges? How do you navigate hiring processes when your path isn’t “traditional”? I’d love to hear your stories or any advice you have to share.
+
+Thanks for reading. Here’s to bouncing back stronger and finding the right fit!",xheavenx1,1h5m20r,https://reddit.com/r/devops/comments/1h5m20r/just_another_devops_rant/,https://www.reddit.com/r/devops/comments/1h5m20r/just_another_devops_rant/,2024-12-03 12:14:46,13,0.7,13,0,8,0,0,False,False,True,False,False,,self,t3_1h5m20r
+devops,Just another DevOps rant ,"I'm a DevOps engineer with 6 years of experience and +4 SysAdmin/Cloud background.
+
+During the final round of a four-stage job interview, one of the interviewers looked at my resume and said:
+
+***""Six years and this many technologies? It's impossible that you've been able to focus and specialize in anything.""***
+
+And I thought to myself: *""Don't you know what a DevOps engineer is? 4 rounds and then this?""*
+
+It doesn't matter what kind of technology or programming language you throw at me. If it's needed, I'll learn it, solve the problem you present, and maintain the solution.
+
+If that technology becomes irrelevant, I'll move on to learning the next one and migrate the whole thing.
+
+*That's what I love about this job, and I believe it's a key factor in our success as DevOps engineers.*
+
+What exactly are all these ""old CS dinosaurs"" expecting about us?
+
+For me, there's a gap between how the IT world was viewed in the past, how people are interviewed, and **what the actual job entails today.**
+
+What's the point of asking me the difference between a tuple and a list?
+
+What's the point of asking me the difference between a public and private method?
+
+You have my resume, my GitHub, my references. I've described to you how I would build a complete API for a blue/green deployment, A/B testing, or whatever else you need, we talked about core concepts related to CICD, hexagonal architechture, Kubernetes, AWS, IaC, whatever.
+
+Why do they feel the need to ask me dumb CS, leetcode and very specific yaml key questions like that?
+
+God! It's frustrating,
+
+**I build things; I’m not in college taking exams.**
+
+**Well, just another rant, tech interviews are really broken imo,** I'm not going to specialize in tools that will become obsolete in a few years.
+
+My answer was something like:
+
+*""My value lies in understanding the problems presented and figuring out how to tackle them. The technology I use depends more on the consensus regarding the architecture, as long as I’m not the one responsible for designing the solution. For me, the technology itself is not as relevant as being able to adapt to whatever requirements are necessary.""*
+
+I didn’t feel like he was very convinced.
+
+**It's like they are trying to assess if you know how to add when what you're actually doing is building airplanes. I don't add with my fingers; I use a calculator.**
+
+Edit:
+
+One of my main tasks is building deployment APIs, Traefik plugins, and developing in Go, Java, Python, or whatever is needed. It just doesn’t make sense to me—this wasn’t a junior position, and those questions don’t truly reflect what I’m capable of.
+
+To all those in the comments doubting my abilities simply because I’m not a walking textbook:
+
+ You’re exactly the kind of people this post is directed at—you don’t understand where the role is going, I wish you good luck in the generative, agents and self-fixing code era! I hope, for everyones sake, you never sit at the interviewer’s table.
+
+-----
+
+I’ll have the final answer next week; I’ll update the post.
+
+
+
+
+
+
+",nettrotten,1h5156p,https://reddit.com/r/devops/comments/1h5156p/just_another_devops_rant/,https://www.reddit.com/r/devops/comments/1h5156p/just_another_devops_rant/,2024-12-02 17:58:11,319,0.93,319,0,134,0,0,False,False,True,False,False,,self,t3_1h5156p
+devops,Where can I learn Puppet?,"It's just as the the title says, I'm looking for some resources to learn and gain some hands-on experience in puppet. Please suggest some good resources and roadmaps.
+
+Thank you!",Exact-Marionberry936,1h5mume,https://reddit.com/r/devops/comments/1h5mume/where_can_i_learn_puppet/,https://www.reddit.com/r/devops/comments/1h5mume/where_can_i_learn_puppet/,2024-12-03 13:00:32,6,0.8,6,0,10,0,0,False,False,True,False,False,,self,t3_1h5mume
+devops,"Landed a role recently, Offering help to anyone looking that might need some advice or pointers?","As the title says, I've been in the industry about 14 years now. Left my last position unexpectedly due to some restructuring. Landed a new role as a Manager for a DevOps/Platform team initiative the company is expanding out.   
+  
+Here to offer questions or advice to anyone that might need it, or feels dissuaded from their search.  
+  
+To put into perspective. I'm 37, and have 0 experience as a manager, my last two roles were senior and lead roles. I've worked in multiple industries (healthcare, media, fintech, retail sales, msp). I'm not particularly ""amazing"" at anything, but have a pretty wide, skill set and learn things very quickly when self tasked.
+
+Got some questions? Need some pointers or advice? Ask away, ill see if i can help.
+
+",Xophishox,1h5qc5z,https://reddit.com/r/devops/comments/1h5qc5z/landed_a_role_recently_offering_help_to_anyone/,https://www.reddit.com/r/devops/comments/1h5qc5z/landed_a_role_recently_offering_help_to_anyone/,2024-12-03 15:42:56,3,1.0,3,0,3,0,0,False,False,True,False,False,,self,t3_1h5qc5z
+devops,Google Cloud SLA promises 100% vailability of Authoritative Name Servers.,What other cloud services have 100% SLA?,moneyppt,1h5qhc9,https://reddit.com/r/devops/comments/1h5qhc9/google_cloud_sla_promises_100_vailability_of/,https://www.reddit.com/r/devops/comments/1h5qhc9/google_cloud_sla_promises_100_vailability_of/,2024-12-03 15:49:09,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h5qhc9
+devops,How do you successfully apply for Software Developer roles but be considered as a senior as someone who has done DevOps historically?,"like most of you, I consider myself a jack of all trades.
+
+The market is terrible and it's been hard finding DevOps jobs, so I figured that maybe I could just pivot into a regular Software Developer gig.
+
+However, this has been difficult and I don't know why, but it appears that DevOps Developers are no longer considered software developers - it seems like if a job posting says ""Senior Software Developer (c++)"", they strictly want to hire someone who has done ONLY that as their primary skill.
+
+Has this been the case for everyone?",V3Qn117x0UFQ,1h55az9,https://reddit.com/r/devops/comments/1h55az9/how_do_you_successfully_apply_for_software/,https://www.reddit.com/r/devops/comments/1h55az9/how_do_you_successfully_apply_for_software/,2024-12-02 20:46:48,26,0.88,26,0,27,0,0,False,False,True,False,False,,self,t3_1h55az9
+devops,How does the first day usually go?  ,I’m starting tomorrow and have to go in person to get my laptop too. What usually happens during a first day as a devops engineer? Do you get straight into work or is it more of a set up day? ,No-Veterinarian-349,1h56w56,https://reddit.com/r/devops/comments/1h56w56/how_does_the_first_day_usually_go/,https://www.reddit.com/r/devops/comments/1h56w56/how_does_the_first_day_usually_go/,2024-12-02 21:51:19,14,0.74,14,0,27,0,0,False,False,True,False,False,,self,t3_1h56w56
+devops,Where do you keep your helm charts?,"also, what do you think about having each app's helm chart in the app source repo (so with the app source code).",Vonderchicken,1h52a8f,https://reddit.com/r/devops/comments/1h52a8f/where_do_you_keep_your_helm_charts/,https://www.reddit.com/r/devops/comments/1h52a8f/where_do_you_keep_your_helm_charts/,2024-12-02 18:43:37,16,0.88,16,0,18,0,0,False,False,True,False,False,,self,t3_1h52a8f
+devops,"Intervewing lead DORA report investigator tomorrow, question suggestions?",,shivamchhuneja,1h5i3k0,https://reddit.com/r/devops/comments/1h5i3k0/intervewing_lead_dora_report_investigator/,/r/devops/comments/1gu2c2j/questions_i_can_ask_the_lead_dora_report/,2024-12-03 07:30:28,0,0.5,0,0,1,0,0,False,False,False,False,False,,default,t3_1h5i3k0
+devops,Incase someone forgot - The Linux Foundation Cyber Monday deals,https://training.linuxfoundation.org/cyber-monday-2024/,Yourwaterdealer,1h4q2ki,https://reddit.com/r/devops/comments/1h4q2ki/incase_someone_forgot_the_linux_foundation_cyber/,https://www.reddit.com/r/devops/comments/1h4q2ki/incase_someone_forgot_the_linux_foundation_cyber/,2024-12-02 08:01:11,71,0.93,71,0,9,0,0,False,False,True,False,False,,self,t3_1h4q2ki
+devops,"Large-Scale, Cheap, Cloud Storage - Recommendations?","Hi there - looking for some recommendations. We're looking to move a large amount of our storage to the cloud and would like to split it up across 2, 3 or even 4 physical locations (globally). Looking at nearly .5 PB in total.
+
+Due to the very active nature of the data being stored, products like AWS Glazier are not an option.
+
+Azure, AWS and similar vendors seem to be very, very expensive at this level, so I'm looking for alternatives. Could be a single global operation, or a couple smaller regional. Really just need Linux VMs with limited compute, but access to large amounts of cheap but relatively fast storage.
+
+Any vendor recommendations?",SladeTennen,1h5bf8k,https://reddit.com/r/devops/comments/1h5bf8k/largescale_cheap_cloud_storage_recommendations/,https://www.reddit.com/r/devops/comments/1h5bf8k/largescale_cheap_cloud_storage_recommendations/,2024-12-03 01:12:23,3,1.0,3,0,2,0,0,False,False,True,False,False,,self,t3_1h5bf8k
+devops,Fraud detection data pipeline (ETL) on GCP,"# [How to create a scalable fraud detection steaming data pipeline](https://medium.com/@rasvihostings/fraud-detection-data-pipeline-etl-on-gcp-2b15b8f3d65b)
+
+When we think about large volume streaming data pipeline three things come to our mind
+
+* **Scalability and resilience**
+* **Cost**
+* **Infrastructure maintenance**
+
+I designed a solution which can scale easily, use much as possible GCP managed services and finally reducing the cloud cost 😉  
+[https://medium.com/@rasvihostings/fraud-detection-data-pipeline-etl-on-gcp-2b15b8f3d65b](https://medium.com/@rasvihostings/fraud-detection-data-pipeline-etl-on-gcp-2b15b8f3d65b)",rasvi786,1h5hd60,https://reddit.com/r/devops/comments/1h5hd60/fraud_detection_data_pipeline_etl_on_gcp/,https://www.reddit.com/r/devops/comments/1h5hd60/fraud_detection_data_pipeline_etl_on_gcp/,2024-12-03 06:38:40,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h5hd60
+devops,"Does it make sense to set up a docker image to be used as a sidecar for all applications, in order to set up continuous validation for zero-trust architecture with JWT?","I’m looking to set up a “zero trust” cloud system for managing and working with data on AWS. I’m hoping someone who’s implemented “zero trust” system architecture before can levy in on my idea here. Is it reasonable? Is it ideal for a small team?
+
+I’m imagining that something like this:
+- I set up an EC2 profile for every service I want to host on EC2 machines. Each profile has its own security group that strictly allows for communication only with the resources the service needs.
+- I set up authc with SSO, using RBAC. Maybe Cognito. Have it issue JWT.
+- I set up an API gateway in front of the network. The API gateway validates JWT before routing to any resources, or redirects to an authc portal.
+- Every node hosting a service has a local reverse proxy sitting in front of the service—let’s say Traefik. Its job will be to validate all JWT before routing requests to the service process, or deny the request.
+
+I also want to implement Open Policy Agent for “higher level authorization.” Rather than JWT validation, OPA would be responsible for enforcing RBAC and ABAC. This would either be set up as a service on the network, that all nodes can reach, or as a local library on each node with a centralized policy configuration.
+
+ I don’t know what I’m asking really—as I’m still a bit new to some of this. Is my plan reasonable, is it overdoing things? What are the right questions?
+
+Appreciate any insights!",DuckDatum,1h4yc4v,https://reddit.com/r/devops/comments/1h4yc4v/does_it_make_sense_to_set_up_a_docker_image_to_be/,https://www.reddit.com/r/devops/comments/1h4yc4v/does_it_make_sense_to_set_up_a_docker_image_to_be/,2024-12-02 16:03:37,13,0.85,13,0,5,0,0,False,False,True,False,False,,self,t3_1h4yc4v
+devops,Paid training suggestion ,"Hi everyone, 
+
+  
+I have some funding left from my company and I am not sure where should I spend on. I realize the tech world has been shifted to almost everything in kubernetes for microservices, less and less are deployed via systems for the trend.
+
+I am planning to get the CKAD next year (I already had the CKA) by using those fund but I think I would still have around 500CAD left to be used. 
+
+May I know if there is any good course I can take to learn cilium/argocd? I played with it at homelab before. By any chance if there is some good enterprise-level courses I could take to learn more like the 'right' way to so?
+
+Thank you for your suggestion!",hippymolly,1h5gxl0,https://reddit.com/r/devops/comments/1h5gxl0/paid_training_suggestion/,https://www.reddit.com/r/devops/comments/1h5gxl0/paid_training_suggestion/,2024-12-03 06:09:59,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1h5gxl0
+devops,LinuxFoundations Kubernetes for Developers (LFD259) + Certified Kubernetes Application (CKAD) Exam bundle,"Probably a stupid question
+
+I'm looking at 
+
+[https://trainingportal.linuxfoundation.org/orders?cart=%5B%7B%22purchasableId%22%3A%22d34d1bb0-f9ce-461b-8056-005b7bbd7dbf%22%2C%22purchasableType%22%3A%22discountGroup%22%2C%22quantity%22%3A1%2C%22isBulkPurchase%22%3Afalse%2C%22priceInCents%22%3A59500%7D%5D](https://trainingportal.linuxfoundation.org/orders?cart=%5B%7B%22purchasableId%22%3A%22d34d1bb0-f9ce-461b-8056-005b7bbd7dbf%22%2C%22purchasableType%22%3A%22discountGroup%22%2C%22quantity%22%3A1%2C%22isBulkPurchase%22%3Afalse%2C%22priceInCents%22%3A59500%7D%5D)
+
+But am I purchasing the CKAD exam, or something called LFD259.
+
+I want to do the CKAD, and want to make sure this is actually the CKAD and not something else.
+
+Could someone let me know if this is actually the CKAD, or is it just training for it, or something else?",solteranis,1h57ev2,https://reddit.com/r/devops/comments/1h57ev2/linuxfoundations_kubernetes_for_developers_lfd259/,https://www.reddit.com/r/devops/comments/1h57ev2/linuxfoundations_kubernetes_for_developers_lfd259/,2024-12-02 22:12:51,3,0.81,3,0,0,0,0,False,False,True,False,False,,self,t3_1h57ev2
+devops,Full stack or Back end which is higher paying? ,"I have 4 months off work due to childbirth. I found a bootcamp that I wanted to do. I’ve done sql, python, JavaScript before.
+
+Should I sign up for a boot camp? I have full stack or back end as options… OR as someone with experience with this should I just:
+
+Get on code academy, do a bunch of classes and build my own portfolio?
+
+Thanks y’all.
+
+And I’ve been in tech for 4 years but the past two years it’s been more like networking and cloud infrastructure..
+
+Just trying to figure out what to do with my brain while I’m off. ",Myjourneytopeace321,1h5e0uv,https://reddit.com/r/devops/comments/1h5e0uv/full_stack_or_back_end_which_is_higher_paying/,https://www.reddit.com/r/devops/comments/1h5e0uv/full_stack_or_back_end_which_is_higher_paying/,2024-12-03 03:23:00,0,0.44,0,0,6,0,0,False,False,True,False,False,,self,t3_1h5e0uv
+devops,Free resources for Jenkins??,Can someone suggest any popular or recommended resources that is FREE to learn Jenkins?,Annual-Buddy-4021,1h5fijd,https://reddit.com/r/devops/comments/1h5fijd/free_resources_for_jenkins/,https://www.reddit.com/r/devops/comments/1h5fijd/free_resources_for_jenkins/,2024-12-03 04:45:41,0,0.38,0,0,13,0,0,False,False,True,False,False,,self,t3_1h5fijd
+devops,lost my job last year and I'm finding it quite difficult to find local job postings specifically looking for build/release engineers. am i pigeonholing myself in my career into something that's just an IT role? What exactly HAS my role become now? What skills am I missing?,"i graduated out of school 3 years ago, did software dev for 1 year and then i was lucky enough to pivot into another job where the shop was c++.
+
+they had no CI/CD pipelines, so I spent two years there architecting the ci/cd pipelines, spending most of my time maintaining their on-premise linux build stations, CMake/python/bash scripting. I didn't code, but I would apply the same sofware engineering principles to YAML to build complex DAG pipelines, used Docker (didn't touch Kubernetes though).
+
+i was lucky enough to have a manager teach me about Release processes, versioning, and I was managing complex git branches between various teams and merging them. during my time there I barely touched upon c++.
+
+i lost my job for reasons and I'm looking for a new job and I'm struggling to find anything related to build/release engineering. 
+
+When I look for DevOps roles, most of them involve cloud AWS/azure which I have no experience in which makes it very difficult to even score an interview. most ""devops"" job postings seems to cast an incredibly wide net that ranges from IT to mostly cloud architecture.
+
+Typically I try to keep myself a generalist while specializing in something and my approach is that I would be a generalist software developer while specializing in DevOps. 
+
+I have 3 years of experience under my belt, but because I am a generalist I think it's pretty tough to ever apply for senior jobs where they ask that an individual has **specifically 10 years in x/y/z programming language**, so many places I'm applying to are looking at me as a junior - for example, i applied for a C# 3D programmer job and the person who interviewed me for the role was Senior C# but he would maintain the CI/CD pipelines, so even if I tried to sell myself that I have extensive CI/CD experience it didn't seem to impress him much.
+
+
+There's a part of me that wants to become an expert in C++ and be a software architect but i tend to get really anxious when dealing with data structures and algoritms, but I also find joy in being able to work as ""a developer for developers"", maintaining infrastructure and scaling automations (which I feel is absolutely crucial to setup before working on development).
+
+Anyways, I guess I'm still new in my career and I'm trying to find myself.  I thought that being a DevOps engineer, I could also sell myself equally as a Software Engineer, but it seems that there's a splitting path and I might have to choose.
+
+Just wondering if anyone has gone through this and what would you suggest for me to pick up in terms of skills to ensure that I am employable?",V3Qn117x0UFQ,1h544to,https://reddit.com/r/devops/comments/1h544to/lost_my_job_last_year_and_im_finding_it_quite/,https://www.reddit.com/r/devops/comments/1h544to/lost_my_job_last_year_and_im_finding_it_quite/,2024-12-02 19:59:01,2,0.58,2,0,2,0,0,False,False,True,False,False,,self,t3_1h544to
+devops,"Trying to find a git log to mermaid diagram script, searching is failing me","Does anyone know of a script to turn the history/log of a given git repository into a mermaidJS diagram?
+
+https://mermaid.js.org/syntax/gitgraph.html has a couple of examples of git diagrams, but it's all manually created.",vale_fallacia,1h50gt7,https://reddit.com/r/devops/comments/1h50gt7/trying_to_find_a_git_log_to_mermaid_diagram/,https://www.reddit.com/r/devops/comments/1h50gt7/trying_to_find_a_git_log_to_mermaid_diagram/,2024-12-02 17:31:06,3,1.0,3,0,1,0,0,False,False,True,False,False,,self,t3_1h50gt7
+devops,"In the Terraform world, why is there hate with Terragrunt?","Hello all. I have been digging deeper into the realm of Terraform and have dabbled with Terragrunt in my current company. We are beginning to branch into using multiple regions in AWS and even looking into using GCP wayyy in the future. I have used Terraform AND Terragrunt for 5+ years and I must say I like Terragrunt. Terragrunt is painful if the architecture is wrong or hasn't been well thought out but if it is done right, it works awesome with Atlantis!
+
+  
+Now back to my question: Why the hate for Terragrunt? (Especially in the r/Terraform group?) I am told just use Terraform Workspaces but in my experience, Terraform Workspaces was a pain in switching to each workspace to make changes especially when it comes to version upgrades.
+
+  
+This make me look into alternatives such as Atmos, Terraspace, and Terramate; however, I really don't see any BIG differences to switching. Would like to have a discussion on this and thanks for reading.
+
+  
+And btw, we use to use TFC until they changed their rates on pricing which was CRAZY! We got quotes from TFC, Spacelift, and Env0 which was comparable. We are happy with Atlantis using OPA and would like to better improve the infrastructure :)",DopeyMcDouble,1h4gmwi,https://reddit.com/r/devops/comments/1h4gmwi/in_the_terraform_world_why_is_there_hate_with/,https://www.reddit.com/r/devops/comments/1h4gmwi/in_the_terraform_world_why_is_there_hate_with/,2024-12-01 23:20:08,81,0.94,81,0,53,0,0,False,False,True,False,False,,self,t3_1h4gmwi

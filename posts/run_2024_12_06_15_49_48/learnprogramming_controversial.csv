@@ -1,0 +1,1472 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,"This java code is working on windows but not on linux, what might be the issue?","void clearConsole() {
+        try {
+            final String os = System.getProperty(""os.name"");
+            if (os.contains(""Windows"")) {
+                new ProcessBuilder(""cmd"", ""/c"", ""cls"").inheritIO().start().waitFor();
+            } else {
+                Runtime.getRuntime().exec(""clear"");
+            }
+        } catch (final Exception e) {
+            e.printStackTrace();
+        }
+    }",godel-the-man,1h7jx16,https://reddit.com/r/learnprogramming/comments/1h7jx16/this_java_code_is_working_on_windows_but_not_on/,https://www.reddit.com/r/learnprogramming/comments/1h7jx16/this_java_code_is_working_on_windows_but_not_on/,2024-12-05 21:09:23,1,0.53,1,0,17,0,0,False,False,True,False,False,Code Review,,t3_1h7jx16
+learnprogramming,Is linux mint or any arch base distro a bad choice for machine learning? ,I use pop os and i am learning machine learning but suddenly i am thinking about distro hopping to linux mint or something arch based but are these two viable option? ,godel-the-man,1h7bepa,https://reddit.com/r/learnprogramming/comments/1h7bepa/is_linux_mint_or_any_arch_base_distro_a_bad/,https://www.reddit.com/r/learnprogramming/comments/1h7bepa/is_linux_mint_or_any_arch_base_distro_a_bad/,2024-12-05 15:14:41,0,0.42,0,0,3,0,0,False,False,True,False,False,,,t3_1h7bepa
+learnprogramming,"I am getting a wrong answer on HackerRank, even though the output is the same as the expected output","I also looped each character as int in result, but everything seemed right.
+
+I also tried to put a newline after result, but it still did not work.
+
+Any help is appreciated.
+
+Compiler Message Wrong Answer
+
+Input (stdin)
+
+10101
+
+00101
+
+Your Output (stdout)
+
+10000
+
+Expected Output
+
+10000
+
+  
+[https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem?isFullScreen=true&amp;h\_l=interview&amp;playlist\_slugs%5B%5D=preparation-kits&amp;playlist\_slugs%5B%5D=one-month-preparation-kit&amp;playlist\_slugs%5B%5D=one-month-week-one](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem?isFullScreen=true&amp;h_l=interview&amp;playlist_slugs%5B%5D=preparation-kits&amp;playlist_slugs%5B%5D=one-month-preparation-kit&amp;playlist_slugs%5B%5D=one-month-week-one)
+
+    int main() { char number_one[64], number_two[64];
+        fgets(number_one, 64, stdin);
+        fgets(number_two, 64, stdin);
+    
+        char result[64];
+    
+        for(size_t i = 0; ; i++) {
+            if(number_one[i] == '\0') {
+                result[i] = '\0';
+                break;
+            } else {
+                if((number_one[i] == '0' &amp;&amp; number_two[i] == '0') || (number_one[i] == '1' &amp;&amp; number_two[i] == '1')) {
+                    result[i] = '0';
+                } else if((number_one[i] == '0' &amp;&amp; number_two[i] == '1') || (number_one[i] == '1' &amp;&amp; number_two[i] == '0')) {
+                    result[i] = '1';
+                }
+            }
+        }
+    
+        printf(""%s"", result);
+        
+        return 0;
+    }",deadlightreal,1h7lk53,https://reddit.com/r/learnprogramming/comments/1h7lk53/i_am_getting_a_wrong_answer_on_hackerrank_even/,https://www.reddit.com/r/learnprogramming/comments/1h7lk53/i_am_getting_a_wrong_answer_on_hackerrank_even/,2024-12-05 22:18:58,0,0.45,0,0,7,0,0,False,False,True,False,False,,,t3_1h7lk53
+learnprogramming,Is it possible to build a automated bot that downloads the recent image on Instagram and auto uploads to another web service?,"I primarily use Instagram to follow artists whose work I admire, and I use Pinterest as a platform to create mood boards of the artwork that inspires me. I was wondering if it's possible to develop a bot that can scrape the most recent image from an Instagram account and automatically upload it to a Pinterest board.
+
+I have already built a Pinterest bot using the Selenium framework with Python, which uploads local images from your file path onto a Pinterest board. However, I'd like to enhance it by enabling the bot to download the latest image from an artist’s Instagram account and upload it to my Pinterest board. Ideally, I would like to keep this program running without it stopping (until a curtain issue/bug occurs). I want the program to have some sort of timestamp and check if the Instagram account has uploaded a new image.
+
+I am still quite new to all of this so please give me some advice or recommendations to learn on where I can start.",SniperDragon06,1h7viyl,https://reddit.com/r/learnprogramming/comments/1h7viyl/is_it_possible_to_build_a_automated_bot_that/,https://www.reddit.com/r/learnprogramming/comments/1h7viyl/is_it_possible_to_build_a_automated_bot_that/,2024-12-06 06:52:48,2,0.6,2,0,10,0,0,False,False,True,False,False,,,t3_1h7viyl
+learnprogramming,Do you know every method in JS?,Found out there are about 240 methods in Javascript. How does this work? Do you know every method? Do you know every function of that method but not excatly its syntax? ,Simple-Alternative28,1h7w48m,https://reddit.com/r/learnprogramming/comments/1h7w48m/do_you_know_every_method_in_js/,https://www.reddit.com/r/learnprogramming/comments/1h7w48m/do_you_know_every_method_in_js/,2024-12-06 07:34:24,30,0.72,30,0,34,0,0,False,False,True,False,False,,,t3_1h7w48m
+learnprogramming,How can I make sure that every single input has the same time complexity?,"How do I account that from worst to best case, they all have the same time complexity?",Pinzonspiinzper,1h7lir1,https://reddit.com/r/learnprogramming/comments/1h7lir1/how_can_i_make_sure_that_every_single_input_has/,https://www.reddit.com/r/learnprogramming/comments/1h7lir1/how_can_i_make_sure_that_every_single_input_has/,2024-12-05 22:17:19,0,0.27,0,0,11,0,0,False,False,True,False,False,,,t3_1h7lir1
+learnprogramming,How to focus in classes,"Hi everyone,
+
+I'm a student currently learning programming at one of the top schools in my country. I'm doing really well in my programming classes and consider myself one of the best in my group. However, I feel like classes in subjects like biology, chemistry, and geography are a waste of time for me.
+
+The good part is that many of my teachers are pretty chill and don’t mind if I’m on my phone during class. So, I’ve been using that time to focus on programming. I think I'm pretty good in frontend development, and right now, I’m learning Java through MOOC.fi.
+
+The problem is that I can’t focus properly while reading the course material on my phone during class. The teacher talking and the noise from other students make it hard for me to concentrate and fully understand what I’m reading.
+
+TL;DR: How can I stay productive and better understand what I’m learning when reading programming material on my phone during noisy classes?",GladRefrigerator7285,1h7xcm9,https://reddit.com/r/learnprogramming/comments/1h7xcm9/how_to_focus_in_classes/,https://www.reddit.com/r/learnprogramming/comments/1h7xcm9/how_to_focus_in_classes/,2024-12-06 09:06:54,1,0.6,1,0,3,0,0,False,False,True,False,False,,,t3_1h7xcm9
+learnprogramming,"3rd year student, what should i do ? Plzz help 🥺","I am a 3rd year student and placements will start in about 6 months (top state govt. College). I wasn't able to explore or brush up my skills till now due to health issues. 
+
+I know c++ and python enough to do codeforces div 2 first problem(and sometimes 2nd too)
+What should i do rn ? 
+
+I have learned that DSA is very important and i should do some good project but Web dev is too crowdy rn, i have more interest in ml (i haven't done anything in it yet).
+I am considering taking some courses for fast paced distraction free learning(and it will might save my exploration time too but i can't afford much).. 
+
+What is the most efficient way of doing these things ? Is this a good approach?
+What can i do better ?? ",West_Search1943,1h7lo9h,https://reddit.com/r/learnprogramming/comments/1h7lo9h/3rd_year_student_what_should_i_do_plzz_help/,https://www.reddit.com/r/learnprogramming/comments/1h7lo9h/3rd_year_student_what_should_i_do_plzz_help/,2024-12-05 22:23:58,4,0.67,4,0,7,0,0,False,False,True,False,False,,,t3_1h7lo9h
+learnprogramming,I ask 'why' too often and always end up in rabbit holes making me feel inadequate,"I am a programming student for 4 years now and i still feel like i lack basic knowledge. I made an .NET API which uses signalR for realtime communication, Docker to containerize it, and MongoDb as database. I use onion architecture to connect everything together. I feel like those things are somewhat more advanced topics, but at the same time i feel like i dont understand the depth of it. I know the abstracts and why to use them, but i wouldn't be able to create it without the use of Google.   
+  
+An example was creating the db connection. Those are two lines of the code i used:  
+`var settings = MongoClientSettings.FromConnectionString(connectionString);`
+
+`_client = new MongoClient(settings);`  
+It gets a connection string from the methods params, and creates ClientSettings. Then is creates a new MongoClient with those settings. This is when i ask 'why?' as in 'why do i need to create a settings object?', 'why do i need a MongoClient?' et cetera. The answer to those questions dont really matter for further developing. Trying to understand those 'why's' I always end up in rabbit holes to the point i just accept that this is how it has to be done. But this makes me feel inadequate because i feel like im supposed to know 'why'. 
+
+Im not looking for an actual answer to the example above. I'm interested how others handle situations where thing become a bit more complex when you question it.   
+  
+I kinda have this mentality: ""To drive a car you dont need to know how a car works internally you only need to know how to use it."". Do you think this is how you should approach coding as wel?
+
+",kwans97,1h7z7mi,https://reddit.com/r/learnprogramming/comments/1h7z7mi/i_ask_why_too_often_and_always_end_up_in_rabbit/,https://www.reddit.com/r/learnprogramming/comments/1h7z7mi/i_ask_why_too_often_and_always_end_up_in_rabbit/,2024-12-06 11:22:38,10,0.78,10,0,4,0,0,False,False,True,False,False,,,t3_1h7z7mi
+learnprogramming,Am I cooked ,"I’m so behind on python I don’t understand and idk how to code yet by myself. I have a big exam one week left can I cram all this material?
+
+
+The text has been extracted successfully. Here’s the content of the study guide from the images:
+
+COMP 171: Final Exam Study Guide
+
+This study guide notes the topics that will be covered by the exam, and offers some breakdown of the topics into important sub-topics to keep in mind.
+
+For all topics listed, you should be able to write code, understand/trace code, and answer open-ended questions relying on these topics (as you’ve seen on the quizzes).
+
+Design
+
+	•	Important components of software design:
+	•	Input, Output, Examples
+	•	Domain Knowledge, Algorithm
+	•	Know how to write a complete design from a client request.
+	•	Design as related to functions (see Testing/Designing Functions).
+
+Creating and Using Variables
+
+Primitive Data Types
+
+	•	int, float, str, bool
+	•	How to convert between data types.
+
+Expressions
+
+	•	Math operators: +, -, *, /, //, %
+	•	Boolean Expressions:
+	•	Getting True or False with ==, !=, &gt;, &lt;, &gt;=, &lt;=.
+	•	Combining Booleans with and, or, not.
+	•	Order of operations.
+
+Control Structures
+
+	•	if, elif, else statements, while loops.
+	•	How these structures make use of Boolean Expressions.
+	•	for loop:
+	•	range function (1, 2, or 3 arguments).
+	•	for loops vs. while loops:
+	•	Why choose one over the other.
+	•	How to convert between them.
+	•	Nested control structures (e.g., if inside while, nested for loops, etc.).
+
+Functions
+
+	•	Calling functions, passing arguments, saving return values.
+	•	Built-in functions: print, input, range.
+	•	Defining your own functions:
+	•	docstrings, parameters, returning values, side effects (see also: collections).
+	•	Tracing functions:
+	•	Tracing variables, arguments, parameters, return values, and side effects in programs with function calls.
+
+Testing/Designing Functions
+
+	•	Test Driven Development (TDD): Writing tests before writing the code for the function.
+	•	Tests and function stubs as designs:
+	•	docstrings show input/output from functions.
+	•	Tests show examples.
+	•	Choosing good test cases, writing several different tests to check different behavior.
+
+Strings as Collections
+
+	•	Simple actions to use strings as collections:
+	•	Creating, indexing, looping, concatenating.
+	•	Using these simple actions to make more complex functions:
+	•	find, count, slice, remove, etc.
+
+Lists
+
+	•	Common actions on lists:
+	•	Creating, indexing, looping, appending.
+	•	Searching for an item in a list (find function).
+	•	Indexing to access/change items in lists.
+	•	Using a for loop to:
+	•	Access/change items in a list.
+	•	Passing lists as parameters, and returning lists.
+	•	Tracing how lists are stored differently in memory, and the results.
+	•	Side effects:
+	•	How/why passing lists is different than other data types.
+	•	When/how side effects are possible with lists.
+
+Here is the extracted content from the latest image:
+
+2D Collections
+
+	•	2D lists: Lists of lists, lists of strings.
+	•	Accessing, creating, changing individual items in 2D lists.
+
+Dictionaries
+
+	•	Putting key-value pairs into dictionaries.
+	•	Checking if a key is in a dictionary.
+	•	Accessing values with a key from dictionaries.
+	•	Iterating through all keys and values in a dictionary.
+	•	Side effects on dictionaries.
+
+Lists vs. Dictionaries
+
+	•	When to use a dictionary over a list?
+	•	When to use a list over a dictionary?
+
+Reading Information from Files
+
+	•	Opening and closing files.
+	•	Getting data from text files using readlines().
+	•	Cleaning up data:
+	•	Changing strings into lists (split function).
+	•	Removing \n.
+	•	Turning strings into integers or floats.
+
+Let me know if you’d like further clarification or additional formatting! ￼
+",stonecoldcig,1h7dut7,https://reddit.com/r/learnprogramming/comments/1h7dut7/am_i_cooked/,https://www.reddit.com/r/learnprogramming/comments/1h7dut7/am_i_cooked/,2024-12-05 16:59:05,0,0.21,0,0,20,0,0,False,False,True,False,False,,,t3_1h7dut7
+learnprogramming,Comparing String with lines in .csv files  in C,"I am trying to read an .csv file with C and compare each line with an string (""# begin of data""). The line does exist in the csv-file but my programm just wont recognize it. I tried adding \\n or \\0  ind the strcmp-function but it wont return a 0.
+
+    fgets(line, MAX_LINE, file);
+    printf(""Read line: %s \n"", line);
+    
+    
+    int cmp = strcmp(line, ""# begin of data\n"");
+    printf(""CMP: %d \n"", cmp);
+    
+    
+    if (cmp == 0){
+        printf(""found:\n"");
+        sleep(2);
+        //code
+        return 1;
+    }
+    ",Ok-Organization6236,1h7mk2k,https://reddit.com/r/learnprogramming/comments/1h7mk2k/comparing_string_with_lines_in_csv_files_in_c/,https://www.reddit.com/r/learnprogramming/comments/1h7mk2k/comparing_string_with_lines_in_csv_files_in_c/,2024-12-05 23:02:18,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1h7mk2k
+learnprogramming,Replacing Kruskal's Algorithm with Prim's Algorithm,"Hello,  
+I’m a beginner in C++ and am currently working on an exercise where I’m trying to replace the example of Kruskal’s algorithm from the textbook with Prim’s algorithm.  
+Would anyone be kind enough to help me review the code below and let me know if it’s correct?
+
+Thank you!
+
+    // input.txt
+    7
+    0 1 17
+    1 4 83
+    4 6 37
+    6 5 27
+    5 2 8
+    2 0 1
+    0 5 3
+    1 6 21
+    0 3 9
+    1 3 30
+    5 3 15
+    6 3 40
+    
+    
+    // test.cpp
+    #include &lt;iostream&gt;
+    #include &lt;vector&gt;
+    #include &lt;limits&gt;
+    #include &lt;iomanip&gt;
+    #include &lt;fstream&gt;
+    
+    using namespace std;
+    
+    const int V = 80;
+    const int E = 80;
+    const int MAX = 10000;
+    const int INIT = -1;
+    const int CYCLE = 1;
+    const int GIVEUP = 0;
+    const int FOUND = 1;
+    const int NOT_FOUND = 0;
+    const int SELECTED = 1;
+    
+    struct Edge {
+        int vx, vy, cost, order, selected;
+    };
+    
+    vector&lt;Edge&gt; edges(E);
+    int e, s, t, tot_cost;
+    vector&lt;int&gt; Tset(V);
+    int vertices;
+    vector&lt;vector&lt;int&gt;&gt; adj_matrix(V, vector&lt;int&gt;(V, MAX));
+    vector&lt;vector&lt;int&gt;&gt; span_tree(V, vector&lt;int&gt;(V, MAX));
+    
+    void inputGraph();
+    void inputEdge(int i, int j, int cost);
+    void spanningTree_Kruskal();
+    void spanningTree_Prim();
+    int isCycle(int ee);
+    void outputGraph();
+    void outputSpanTree();
+    
+    void inputGraph() {
+        ifstream inputFile(""input.txt"");
+        if (!inputFile) {
+            cerr &lt;&lt; ""Unable to open file input.txt"" &lt;&lt; endl;
+            exit(1);
+        }
+    
+        int i, j, cost;
+    
+        e = -1;
+        s = -1;
+        t = -1;
+        tot_cost = 0;
+    
+        inputFile &gt;&gt; vertices; // Read the number of vertices
+        cout &lt;&lt; ""\nPlease enter the number of vertices in the undirected graph: "" &lt;&lt; vertices &lt;&lt; endl;
+        cout &lt;&lt; ""Please enter the edges of the undirected graph (0 &lt;= edge number &lt;= "" &lt;&lt; vertices - 1 &lt;&lt; "")...\n"";
+        if (vertices &gt; 0) {
+            adj_matrix.assign(vertices, vector&lt;int&gt;(vertices, MAX));
+            span_tree.assign(vertices, vector&lt;int&gt;(vertices, MAX));
+    
+            while (inputFile &gt;&gt; i &gt;&gt; j &gt;&gt; cost) { // Read edge data
+                cout &lt;&lt; ""Edge connects vertices (-1: end): "" &lt;&lt; i &lt;&lt; endl;
+                cout &lt;&lt; ""         and vertex: "" &lt;&lt; j &lt;&lt; endl;
+                cout &lt;&lt; ""         cost (or distance): "" &lt;&lt; cost &lt;&lt; endl;
+                adj_matrix[i][j] = cost;
+                adj_matrix[j][i] = cost;
+                inputEdge(i, j, cost);
+            }
+        }
+    
+        inputFile.close();
+    }
+    
+    void inputEdge(int i, int j, int cost) {
+        e++;
+        edges[e] = { i, j, cost, 0, INIT };
+    }
+    
+    void spanningTree_Kruskal() {
+        int order = 0, select_edge = 0;
+    
+        cout &lt;&lt; ""\nBuilding the minimum spanning tree using Kruskal's algorithm...\n\n"";
+        while (select_edge &lt; vertices - 1) {
+            int ee = -1, min = MAX;
+    
+            for (int j = 0; j &lt;= e; j++) {
+                if (edges[j].selected == INIT &amp;&amp; edges[j].cost &lt; min) {
+                    min = edges[j].cost;
+                    ee = j;
+                }
+            }
+    
+            order++;
+            int cycle = isCycle(ee);
+            if (!cycle) {
+                select_edge++;
+                edges[ee].order = order;
+                edges[ee].selected = SELECTED;
+                tot_cost += edges[ee].cost;
+                cout &lt;&lt; ""Step "" &lt;&lt; order &lt;&lt; "" ==&gt; Select edge (v"" &lt;&lt; edges[ee].vx &lt;&lt; "", v"" &lt;&lt; edges[ee].vy &lt;&lt; "") "";
+                cout &lt;&lt; ""distance="" &lt;&lt; edges[ee].cost &lt;&lt; "" total distance="" &lt;&lt; tot_cost &lt;&lt; endl;
+    
+                span_tree[edges[ee].vx][edges[ee].vy] = edges[ee].cost;
+                span_tree[edges[ee].vy][edges[ee].vx] = edges[ee].cost;
+            }
+            else {
+                edges[ee].order = order;
+                edges[ee].selected = GIVEUP;
+                cout &lt;&lt; ""Step "" &lt;&lt; order &lt;&lt; "" ==&gt; Give up edge (v"" &lt;&lt; edges[ee].vx &lt;&lt; "", v"" &lt;&lt; edges[ee].vy &lt;&lt; "") "";
+                cout &lt;&lt; ""distance="" &lt;&lt; edges[ee].cost &lt;&lt; "" total distance="" &lt;&lt; tot_cost &lt;&lt; endl;
+            }
+        }
+    }
+    
+    void spanningTree_Prim() {
+        vector&lt;bool&gt; inMST(vertices, false);  // Mark whether a vertex is in the MST
+        vector&lt;int&gt; key(vertices, MAX);  // Store the current vertex's minimum edge weight
+        vector&lt;int&gt; parent(vertices, -1);  // Store the starting vertex of the minimum edge
+        int start = 0;  // Start from vertex 0
+        key[start] = 0;  // Set the key value of the start vertex to 0
+        tot_cost = 0;
+    
+        cout &lt;&lt; ""\nBuilding the minimum spanning tree using Prim's algorithm...\n\n"";
+        int step = 1;
+        for (int count = 0; count &lt; vertices; ++count) {
+            // Find the vertex not yet in the MST with the smallest key value
+            int u = -1, minKey = MAX;
+            for (int v = 0; v &lt; vertices; ++v) {
+                if (!inMST[v] &amp;&amp; key[v] &lt; minKey) {
+                    minKey = key[v];
+                    u = v;
+                }
+            }
+    
+            // If a valid vertex is found, add it to the MST
+            if (u != -1) {
+                inMST[u] = true;
+    
+                // Record the selected edge and accumulated cost
+                if (parent[u] != -1) {
+                    tot_cost += adj_matrix[u][parent[u]];
+                    span_tree[u][parent[u]] = adj_matrix[u][parent[u]];
+                    span_tree[parent[u]][u] = adj_matrix[u][parent[u]];
+                    cout &lt;&lt; ""Step "" &lt;&lt; step++ &lt;&lt; "" ==&gt; Select edge (v"" &lt;&lt; parent[u] &lt;&lt; "", v"" &lt;&lt; u &lt;&lt; "") "";
+                    cout &lt;&lt; ""distance="" &lt;&lt; adj_matrix[u][parent[u]] &lt;&lt; "" total distance="" &lt;&lt; tot_cost &lt;&lt; endl;
+                }
+    
+                // Update the key values of all adjacent vertices not yet in the MST
+                for (int v = 0; v &lt; vertices; ++v) {
+                    if (adj_matrix[u][v] != MAX &amp;&amp; !inMST[v]) {
+                        // Update the key if a smaller edge is found
+                        if (adj_matrix[u][v] &lt; key[v]) {
+                            key[v] = adj_matrix[u][v];
+                            parent[v] = u;
+                        }
+                        // If a discarded edge is found, show it's discarded
+                        else if (adj_matrix[u][v] &gt; key[v] &amp;&amp; parent[v] != u) {
+                            cout &lt;&lt; ""Step "" &lt;&lt; step++ &lt;&lt; "" ==&gt; Give up edge (v"" &lt;&lt; u &lt;&lt; "", v"" &lt;&lt; v &lt;&lt; "") "";
+                            cout &lt;&lt; ""distance="" &lt;&lt; adj_matrix[u][v] &lt;&lt; "" total distance="" &lt;&lt; tot_cost &lt;&lt; endl;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    int isCycle(int ee) {
+        bool vx_found = false, vy_found = false;
+    
+        for (int i = 0; i &lt;= t; i++) {
+            if (edges[ee].vx == Tset[i]) vx_found = true;
+            if (edges[ee].vy == Tset[i]) vy_found = true;
+        }
+    
+        if (vx_found &amp;&amp; vy_found) {
+            return CYCLE;
+        }
+        else {
+            if (!vx_found) Tset[++t] = edges[ee].vx;
+            if (!vy_found) Tset[++t] = edges[ee].vy;
+            return !CYCLE;
+        }
+    }
+    
+    void outputGraph() {
+        cout &lt;&lt; ""\nThe adjacency matrix representation of the undirected graph is: \n\n    "";
+        for (int i = 0; i &lt; vertices; i++) cout &lt;&lt; setw(6) &lt;&lt; ""v"" &lt;&lt; i;
+        cout &lt;&lt; endl;
+    
+        for (int i = 0; i &lt; vertices; i++) {
+            cout &lt;&lt; ""v"" &lt;&lt; i &lt;&lt; ""  "";
+            for (int j = 0; j &lt; vertices; j++) {
+                if (adj_matrix[i][j] != MAX)
+                    cout &lt;&lt; setw(7) &lt;&lt; adj_matrix[i][j];
+                else
+                    cout &lt;&lt; setw(7) &lt;&lt; ""x"";
+            }
+            cout &lt;&lt; endl;
+        }
+    }
+    
+    void outputSpanTree() {
+        cout &lt;&lt; ""\nThe minimum spanning tree of the undirected graph is: \n\n    "";
+        for (int i = 0; i &lt; vertices; i++) cout &lt;&lt; setw(6) &lt;&lt; ""v"" &lt;&lt; i;
+        cout &lt;&lt; endl;
+    
+        for (int i = 0; i &lt; vertices; i++) {
+            cout &lt;&lt; ""v"" &lt;&lt; i &lt;&lt; ""  "";
+            for (int j = 0; j &lt; vertices; j++) {
+                if (span_tree[i][j] != MAX)
+                    cout &lt;&lt; setw(7) &lt;&lt; span_tree[i][j];
+                else
+                    cout &lt;&lt; setw(7) &lt;&lt; ""x"";
+            }
+            cout &lt;&lt; endl;
+        }
+    }
+    
+    int main() {
+        inputGraph();
+        outputGraph();
+        //spanningTree_Kruskal();
+        spanningTree_Prim();
+        outputSpanTree();
+        return 0;
+    }",Dismal_Tadpole_1008,1h7lwqt,https://reddit.com/r/learnprogramming/comments/1h7lwqt/replacing_kruskals_algorithm_with_prims_algorithm/,https://www.reddit.com/r/learnprogramming/comments/1h7lwqt/replacing_kruskals_algorithm_with_prims_algorithm/,2024-12-05 22:34:22,0,0.5,0,0,3,0,0,False,False,True,False,False,Debugging,,t3_1h7lwqt
+learnprogramming,Should I Get An AA In CS Or Self Teach? ,"Hey guys, so pretty much what the titile says. I want to get a job as a software developer.
+
+(I know the market sucks right now but it can’t last forever)
+
+I don’t have any experience in tech or coding. I was just thinking about going down the self taught route but i was looking at some courses I could take at my community college that i graduated from a few years ago and saw that I can pretty much get an AA in computer science in 3 semesters due to me already completing all of my gen-eds and electives. 
+
+My question is, is it worth going for an AA for this or just stick to self teaching and maybe a boot camp? 
+
+Would me having this associates degree look good for getting a job? 
+
+Thank you  ",shhsuan,1h7qzd9,https://reddit.com/r/learnprogramming/comments/1h7qzd9/should_i_get_an_aa_in_cs_or_self_teach/,https://www.reddit.com/r/learnprogramming/comments/1h7qzd9/should_i_get_an_aa_in_cs_or_self_teach/,2024-12-06 02:34:32,22,0.8,22,0,31,0,0,False,False,True,False,False,,,t3_1h7qzd9
+learnprogramming,Complete newbie. whats the problem here?,"    Name = ""John""
+    Age = ""45""
+    if Name == ""Vanessa"" or ""Lisa"":
+        Gender = ""She""
+        Is_Male = False
+    else:
+        Gender = ""He""
+        Is_Male = True
+    if Name == ""Vanessa"" or ""Lisa"":
+        Hobb1 = ""sucking""
+        Hobb2 = ""spreading""
+    else :
+        Hobb1 = ""Investing in stocks""
+        Hobb2 = ""NTR""
+    print(Name + "" Is "" + Age + "" years old"")
+    print(Gender + "" likes the name "" + Name + "", but Doesn't like being "" + Age + "" years"")
+    print(Name + "" enjoys "" + Hobb1 + "" and "" + Hobb2)
+    if Is_Male == True :
+        print(Gender + "" likes going around"")
+    else:
+        print(Gender + "" likes getting ran"")
+
+",IgotHacked092,1h82xfx,https://reddit.com/r/learnprogramming/comments/1h82xfx/complete_newbie_whats_the_problem_here/,https://www.reddit.com/r/learnprogramming/comments/1h82xfx/complete_newbie_whats_the_problem_here/,2024-12-06 14:46:08,0,0.11,0,0,6,0,0,False,False,True,False,False,,,t3_1h82xfx
+learnprogramming,Scaling Up My Shopify Store Without a Developer,"Hi, I have a Shopify store I designed myself after taking a course, and it’s been great—sales are picking up! But I’m thinking of opening a standalone website where I can blog about my products, share customer stories, and maybe host some exclusive deals to connect with my audience better. I want to do it myself to stay hands-on and keep costs down, plus I like learning these things. Does anyone have suggestions for easy-to-use platforms where I can build it without hiring a developer?",minemateinnovation,1h7yleb,https://reddit.com/r/learnprogramming/comments/1h7yleb/scaling_up_my_shopify_store_without_a_developer/,https://www.reddit.com/r/learnprogramming/comments/1h7yleb/scaling_up_my_shopify_store_without_a_developer/,2024-12-06 10:40:02,1,0.6,1,0,4,0,0,False,False,True,False,False,,,t3_1h7yleb
+learnprogramming,Connecting to Public Databases,"I have very little coding knowledge, but I have a really interesting idea that I can’t seem to advance further.
+
+I used chat gpt to create a basic user interface using html, css, and js. The interface is essentially a calculator, which uses a user input value and returns a list of calculated values based on other data.
+
+Given my extremely novice knowledge on how all this shit works, I “hard coded” the other data needed for the calculations into the code. This data needs to be updated regularly for the calculations to be accurate, which is a very tedious process, but it is open source data found on the web. I understand there’s a way to automate this, but chat gpt and my online research hasn’t really helped.
+
+Basically, I’m looking for a way to connect a public data source to my code so the most recent data will be used in the calculations. If I understand the process right, I think I need some kind of “crawling”? application to pull the data, a database to store it in, and a function within my html/css/js to call the data into the calculations. So the flow would be:
+
+Public DB -&gt; personal DB (backend static data) -&gt; interface (front end calculated data)
+
+Can anyone help me get started with the right services to try this out on for free? I really don’t know what I’m doing so I can’t justify spending money on some of the services I’ve found, especially since I don’t know if it’s right. Any other guidance or advice is greatly appreciated!",Mountain-Bus-8985,1h7qp8y,https://reddit.com/r/learnprogramming/comments/1h7qp8y/connecting_to_public_databases/,https://www.reddit.com/r/learnprogramming/comments/1h7qp8y/connecting_to_public_databases/,2024-12-06 02:20:04,1,0.67,1,0,5,0,0,False,False,True,False,False,,,t3_1h7qp8y
+learnprogramming,How to Learn Web Design as a Developer?,"Hi,
+
+I’m a fullstack software engineer with 10 years of experience. I’m comfortable with coding, but I always get stuck when it comes to web design (devs, you know what I mean).
+
+I don’t aim to become an expert, but I want to be self-sufficient in web design as quickly as possible. How would you achieve this goal? Any recommendations for YouTube channels, books, or other resources?
+
+Thanks!",D0pameene,1h808ol,https://reddit.com/r/learnprogramming/comments/1h808ol/how_to_learn_web_design_as_a_developer/,https://www.reddit.com/r/learnprogramming/comments/1h808ol/how_to_learn_web_design_as_a_developer/,2024-12-06 12:27:57,3,0.72,3,0,7,0,0,False,False,True,False,False,,,t3_1h808ol
+learnprogramming,Learning On-The-Job,"Hi all.
+
+  
+I'm curious about the percentage of coding knowledge you all had before getting a programming job vs after? Were you hired just having a foundational knowledge, with the rest coming while working in the position?
+
+Another way of asking: Given how much you know now, what percentage of that knowledge you already had before getting your first programming job and what percentage was gained after?",Immediate-Annual4505,1h7qoht,https://reddit.com/r/learnprogramming/comments/1h7qoht/learning_onthejob/,https://www.reddit.com/r/learnprogramming/comments/1h7qoht/learning_onthejob/,2024-12-06 02:18:58,2,0.75,2,0,5,0,0,False,False,True,False,False,Career Question,,t3_1h7qoht
+learnprogramming,"If I want to create a Python SDK for example, what stacks of tools are needed to make it fast?","I see Stainless API, Scalar API, Speakeasy, etc.
+
+I want to know the standards developers take in 2024
+
+I know I can build a Python SDK without those tools but I just wanna see what's out there and which is used for which... 
+
+If you could help me out, I would really appreciate it.",happy-frog-1,1h7hdvn,https://reddit.com/r/learnprogramming/comments/1h7hdvn/if_i_want_to_create_a_python_sdk_for_example_what/,https://www.reddit.com/r/learnprogramming/comments/1h7hdvn/if_i_want_to_create_a_python_sdk_for_example_what/,2024-12-05 19:23:46,0,0.25,0,0,0,0,0,False,False,True,False,False,,,t3_1h7hdvn
+learnprogramming,Hardware design to software engineering path?,"I'm wondering if anyone has any experience transitioning from logic design (writing in Verilog and Systemverilog) to software engineering. From a distance Systemverilog looks like any other programming language but of course it's quite different conceptually.
+
+I wonder how easy, or difficult the switch would be.",scrooooooooooge,1h7hd41,https://reddit.com/r/learnprogramming/comments/1h7hd41/hardware_design_to_software_engineering_path/,https://www.reddit.com/r/learnprogramming/comments/1h7hd41/hardware_design_to_software_engineering_path/,2024-12-05 19:22:48,2,0.67,2,0,1,0,0,False,False,True,False,False,,,t3_1h7hd41
+learnprogramming,Looking for Learning Buddies for Programming(.NET MVC and SQL) Practice Online!,"Hi everyone,
+
+I have a basic understanding of programming, but I’m looking to improve my **logic-building skills** while learning **.NET MVC** and **SQL**. I’d love to team up with others who are also eager to learn or practice together!
+
+We can work either **one-on-one** or form a **small group (3-5 people)** for a more collaborative and engaging experience.
+
+Here’s what I’m aiming for:
+
+* Strengthening logic-building with practical examples.
+* Sharing resources and discussing concepts.
+* Building small projects or solving problems collaboratively.
+* Keeping each other motivated and accountable.
+
+I’m flexible with timings and open to different formats, whether it’s calls, chats, or shared coding platforms like GitHub.
+
+If you’re interested, Please let me know. Let’s learn and grow together! 😊",PretendPlastic8536,1h7g2f1,https://reddit.com/r/learnprogramming/comments/1h7g2f1/looking_for_learning_buddies_for_programmingnet/,https://www.reddit.com/r/learnprogramming/comments/1h7g2f1/looking_for_learning_buddies_for_programmingnet/,2024-12-05 18:29:29,0,0.25,0,0,1,0,0,False,False,True,False,False,,,t3_1h7g2f1
+learnprogramming,"What is the difference between ""Divide and Conquer"" and ""Top Down"" algorithms","Both type of algorithms are dividing problem on smaller problems until problem is small enough to be easily solved.
+
+It seems that **Divide and Conquer** is combining solutions of small problems to get final solution.
+
+Can we assume that **Divide and Conquer** algorithms are basically **Top Down** and **Bottom Up** algorithms combined?",Impossible_Visit2810,1h7edtz,https://reddit.com/r/learnprogramming/comments/1h7edtz/what_is_the_difference_between_divide_and_conquer/,https://www.reddit.com/r/learnprogramming/comments/1h7edtz/what_is_the_difference_between_divide_and_conquer/,2024-12-05 17:20:36,2,0.67,2,0,6,0,0,False,False,True,False,False,algorithms,,t3_1h7edtz
+learnprogramming,How do I get started building a “tech portfolio” to show hiring companies once I feel ready? ,"
+I am pretty new to all of this and starting from scratch. But quite lost when it comes to the “building my portfolio” realm. 
+
+I am starting off with saving my homework and projects from classes I am taking for free right now. (cannot afford to pay for classes but edx.org is great for this atm.) currently just taking the mere basics: intro to CS, have done basic python, and scratch so far. Then will take intro to prog with python. I’ve done a project for HTML5 already so I’ll be adding that too. 
+
+1) should I save the homework and projects I am doing with the classes I’m taking rn? 
+
+2) how am I able to build a website for free? I see a lot of portfolios have their own domain… how can I do this? 
+
+3) is a “portfolio” basically a domain where you attach all your work in there? If so, how can I make it where all my work is cohesive in there to show candidates once I do finish some classes? 
+
+4) have any of you started from scratch, no degree in CS, but learned the skillset, got your portfolio right, and got entry level positions? 
+
+5) would internships be applicable to me even if I am not enrolled in an institution but rather taking free classes that teaches you how to code? 
+
+Currently using edx.org 
+
+Professor David Malan from Harvard University is teaching these classes. Pre recorded ofc. just in case anyone needs then information. Completely free and pretty much feels like you’ve paid for the course itself. 
+
+6) how would I go about adding these skills? In my resume? Would I be able to add the institution I took it with regardless if I paid for it but am currently enrolled  except it’s free? 
+
+I am pretty lost in this and prob not asking the right questions but I hope I can find some clarity on here. Thank you. ",Flowergirlypop,1h7e7d1,https://reddit.com/r/learnprogramming/comments/1h7e7d1/how_do_i_get_started_building_a_tech_portfolio_to/,https://www.reddit.com/r/learnprogramming/comments/1h7e7d1/how_do_i_get_started_building_a_tech_portfolio_to/,2024-12-05 17:13:07,12,0.76,12,0,4,0,0,False,False,True,False,False,,,t3_1h7e7d1
+learnprogramming,"Forget about visualisation, do you guide yourself throught the code with self talk?",Or do you act fully intuetively? My problem is that when i talk to myself in my head i feel like im stupid or going insane or both.,Simple-Alternative28,1h7y5ib,https://reddit.com/r/learnprogramming/comments/1h7y5ib/forget_about_visualisation_do_you_guide_yourself/,https://www.reddit.com/r/learnprogramming/comments/1h7y5ib/forget_about_visualisation_do_you_guide_yourself/,2024-12-06 10:07:52,16,0.78,16,0,16,0,0,False,False,True,False,False,,,t3_1h7y5ib
+learnprogramming,Could I learn coding through programming rc cars? ,I did do some in 6th grade robotics and I loved it but I don’t go towards that direction up until now. It’s my first year in college and I’m doing comp science. I have cis 150 next semester but I wanted to learn some coding in my own time as well. Should I buy a programmable rc car? If so which one would you guys recommend? Appreciate the response ,Additional_Ship_9472,1h7d7bu,https://reddit.com/r/learnprogramming/comments/1h7d7bu/could_i_learn_coding_through_programming_rc_cars/,https://www.reddit.com/r/learnprogramming/comments/1h7d7bu/could_i_learn_coding_through_programming_rc_cars/,2024-12-05 16:31:55,16,0.85,16,0,16,0,0,False,False,True,False,False,,,t3_1h7d7bu
+learnprogramming,umm.. help this noob ! 🐢😊,"soooo i am a very very noob guy and i joined a college (fresher, but late because failed a lot) which is not at all related to computer science but I still want to continue programming and cs as it is my passion (not just saying out of blue cuz i liked tony stark) . I was very good at maths but somehow lost the track for past 4 years (failed a lot lol) , currently i want to regain my mathematical powers too. Also I forgot to mention I am in an engineering college so it's not like I am totally disconnected with maths academically . Nowwwww what I need ! , There are tons of Youtube tutorials on how one should proceed and roadmaps (afterall i have to learn from youtube right?) , the reason I am here (again , changed) is to ask what should be the best
+
+1)source
+
+2)roadmap
+
+3)suggestion of language and projects
+
+I umm do not believe there is something best which i would follow and get all einsteined!! but what i need is from y'all experts that a noob like me who can use is hibernating brain and wake it up again and get going into what he really wants. Some other questions which i want to be answered is after this AI effect and all this machine learning being a necessity what should i target from a financial point of view and some good job prospective. I stated above that cs is my passion but to say it in a more broader way about my passion I like Quants , business and shit and programming and AI are like a addon to them which i also like .  It's like years before when i was in the game i had targeted i would do sql , data science , quants and all but now after being brain rotted all these years I have no ffin clue so I am here. :)
+
+PS: Was a fulltime reddit rot (thankfully deleted that) , one of the reasons for downfall , should've controlled . sheeshhhhh not going down the memory lane       past is past , i don't wanna look back and even if i do wanna look back it would be a moment where i think of it as a good time spent posting skibidi memes lol (still got the humor i guess , will continue but not the same way as it was)
+
+Now I am yapping a lot sorry (There is no purpose of this post to get excessive upvotes or smtg , i just want your genuine help for a believer like me) , i think i have yapped much and framed my questions well .  Will check all yours suggestions after my sem exams are over (prolly 3 weeks at most) , old me wouldn't had did this but i don't wanna repeat the same mistake of wasting time at time of exams lol which if i utilized i would've been a mod here rather than being a mod for some brain rot meme page ( no hate , laughing is life) . Sayonara",Adventurous_Coat_210,1h7ja2g,https://reddit.com/r/learnprogramming/comments/1h7ja2g/umm_help_this_noob/,https://www.reddit.com/r/learnprogramming/comments/1h7ja2g/umm_help_this_noob/,2024-12-05 20:42:44,7,0.88,7,0,2,0,0,False,False,True,False,False,HELP,,t3_1h7ja2g
+learnprogramming,Should I continue learning game dev?,"I'm a high school student that has been interested in programming video games since I was around 7-8, but I've only recently been actually trying to get into it, outside of messing around and learning Scratch &amp; Tynker when I was younger. I was originally learning Godot and the GDScript that came with it, however I've heard Godot isn't exactly a good engine for landing jobs. I've also heard that game development doesn't pay as much as something like web dev alongside being more stressful and unstable, so I've been wondering if I should look at other careers like web development, mobile app development, ect.
+
+Also would python be a good language to learn that's applicable to a lot of careers? I liked GDScript a lot and apparently python is very similar to it.
+
+I am really interested in game development but I would like your takes and some advice.",PotPotted,1h7tb3p,https://reddit.com/r/learnprogramming/comments/1h7tb3p/should_i_continue_learning_game_dev/,https://www.reddit.com/r/learnprogramming/comments/1h7tb3p/should_i_continue_learning_game_dev/,2024-12-06 04:38:04,6,0.72,6,0,4,0,0,False,False,True,False,False,,,t3_1h7tb3p
+learnprogramming,"I need help with a project for esp8266 found online / Ho bisogno di aiuto per un progetto per esp8266 trovato online
+","Here’s the English translation:
+
+Hi everyone, I found a project online to create a Dasai Mochi, but the compiler is giving me an error, and I don’t know how to fix it since I’ve never programmed with Arduino and I’m also a beginner in the programming world. Could someone give me a hand? Thanks in advance for your support. Attached here are the error and the code.
+
+One more thing, I found the project in a YouTube tutorial where a Russian guy provided the code. However, he was going too fast, so I understood very little, and he’s also using a different board, not the NODEMCU ESP8266. [Video link below](https://www.youtube.com/watch?v=KQAs1E4PgZI).
+
+For additional details, feel free to ask me in DM or in the comments ❤️
+
+Here the italian translation:
+
+Ciao ragazzi ho trovato online un progetto per crearsi un Dasai Mochi tuttavia il compilatore mi da un errore e non so come risolvere il problema dato che non ho mai programmato in arduino e sono anche un neofita nel mondo della programmazione. Qualcuno saprebbe darmi una mano? Ringrazio in anticipo per il supporto. Quì allegati errore e codice. Altra cosa, il progetto l'ho trovato su un tutorial su youtube dove questo ragazzo russo forniva il codice, tuttavia andando troppo veloce ci ho capito poco e niente e soprattutto usa un'altra scheda e non il NODEMCU esp8266 [Link video](https://www.youtube.com/watch?v=KQAs1E4PgZI). Per altri dettagli non esitate a chiedere in DM o nei commenti ❤️
+
+
+
+    //THE ERROR ON MY COMPILER:
+    
+    In file included from c:\Users\carlo\Documents\Arduino\libraries\OneBitDisplay\src\OneBitDisplay.cpp:58:
+    c:\Users\carlo\Documents\Arduino\libraries\OneBitDisplay\src\obd.inl:1064:15: error: section of 'st7302_wenting' conflicts with previous declaration
+     1064 | const uint8_t st7302_wenting[] PROGMEM PROGMEM = {
+          |               ^~~~~~~~~~~~~~
+    
+    exit status 1
+    
+    Compilation error: exit status 1
+    
+    ///////////////////////////////////////////////////////////////////////////////////
+    
+    //COMPLETE CODE:
+    
+    #include &lt;SPI.h&gt;
+    #include &lt;Wire.h&gt;
+    
+    
+    #include &lt;BitBang_I2C.h&gt;
+    #include &lt;OneBitDisplay.h&gt;
+    #include &lt;AnimatedGIF.h&gt;
+    
+    #include ""animation.h""           
+    
+    
+    OBDISP obd;
+    AnimatedGIF gif;
+    static uint8_t ucOLED[4096]; // holds current frame for 128x64 OLED
+    
+    // M5Atom Matrix ESP32
+    #define RESET_PIN -1
+    #define SDA_PIN -1
+    #define SCL_PIN -1
+    #define OLED_ADDR -1
+    #define MY_OLED OLED_128x64
+    #define USE_HW_I2C 1
+    #define FLIP180 0
+    #define INVERT 0
+    
+    #define DISPLAY_WIDTH 128
+    #define DISPLAY_HEIGHT 64
+    
+    //
+    // This doesn't have to be super efficient
+    // 
+    void DrawPixel(int x, int y, uint8_t ucColor)
+    {
+        uint8_t ucMask;
+        int index;
+    
+        if (x &gt;= DISPLAY_WIDTH || y &gt;= DISPLAY_HEIGHT)
+            return;
+        ucMask = 1 &lt;&lt; (y &amp; 7);
+        index = x + ((y &gt;&gt; 3) &lt;&lt; 7);
+        if (ucColor)
+            ucOLED[index] |= ucMask;
+        else
+            ucOLED[index] &amp;= ~ucMask;
+    }
+    
+    // Draw a line of image directly on the LCD
+    void GIFDraw(GIFDRAW* pDraw)
+    {
+        uint8_t* s;
+        int x, y, iWidth;
+        static uint8_t ucPalette[4096]; // thresholded palette
+    
+    
+        if (pDraw-&gt;y == 0) // first line, convert palette to 0/1
+        {
+            for (x = 0; x &lt; 256; x++)
+            {
+                uint16_t usColor = pDraw-&gt;pPalette[x];
+                int gray = (usColor &amp; 0xf800) &gt;&gt; 8; // red
+                gray += ((usColor &amp; 0x7e0) &gt;&gt; 2); // plus green*2
+                gray += ((usColor &amp; 0x1f) &lt;&lt; 3); // plus blue
+                //ucPalette[x] = (gray &gt;&gt; 9); // 0-&gt;511 = 0, 512-&gt;1023 = 1
+                if (gray&gt;800) ucPalette[x]=1; else ucPalette[x]=0;
+            }
+        }
+        y = pDraw-&gt;iY + pDraw-&gt;y; // current line
+        iWidth = pDraw-&gt;iWidth;
+        if (iWidth &gt; DISPLAY_WIDTH)
+            iWidth = DISPLAY_WIDTH;
+    
+        s = pDraw-&gt;pPixels;
+        if (pDraw-&gt;ucDisposalMethod == 2) // restore to background color
+        {
+            for (x = 0; x &lt; iWidth; x++)
+            {
+                if (s[x] == pDraw-&gt;ucTransparent)
+                    s[x] = pDraw-&gt;ucBackground;
+            }
+            pDraw-&gt;ucHasTransparency = 0;
+        }
+        // Apply the new pixels to the main image
+        if (pDraw-&gt;ucHasTransparency) // if transparency used
+        {
+            uint8_t c, ucTransparent = pDraw-&gt;ucTransparent;
+            int x;
+            for (x = 0; x &lt; iWidth; x++)
+            {
+                c = *s++;
+                if (c != ucTransparent)
+                    DrawPixel(pDraw-&gt;iX + x, y, ucPalette[c]);
+            }
+        }
+        else
+        {
+            s = pDraw-&gt;pPixels;
+            // Translate the 8-bit pixels through the RGB565 palette (already byte reversed)
+            for (x = 0; x &lt; pDraw-&gt;iWidth; x++)
+                DrawPixel(pDraw-&gt;iX + x, y, ucPalette[*s++]);
+        }
+        if (pDraw-&gt;y == pDraw-&gt;iHeight - 1) // last line, render it to the display
+            obdDumpBuffer(&amp;obd, ucOLED);
+    
+            
+    } /* GIFDraw() */
+    
+    
+    uint8_t last_animation = 0; // to prevent 2 animation loop after idle. just make it feels , more ""random""??
+    
+    
+    void playWrapper(uint8_t* gifinput, int size)
+    {
+    
+        if (gif.open(gifinput, size, GIFDraw))
+        {
+            //    Serial.printf(""Successfully opened GIF; Canvas size = %d x %d\n"", gif.getCanvasWidth(), gif.getCanvasHeight());
+            while (gif.playFrame(true, NULL))
+            {
+            }
+            gif.close();
+        }
+    
+    }
+    
+    struct Anime {
+        uint8_t* ptr;
+        int size;
+    };
+    
+    
+    #define NUMBEROFANIMATION 32
+    Anime anime;
+    
+    int n = NUMBEROFANIMATION;
+    
+    int r;
+    int debugRandom = 0;  //choose between random or i++ animation  (0 = random / 1 = i++)
+    int counter = 99;
+    
+    
+    
+    void setup() {
+    
+        // sorry for ths long hard code, just to make simple I want to put the animation inside array , as the library fn is using ptr and size I cant just put the addresses I also need the size
+      // as i dont know how to read sizeof a pointer .  bear with ths :(
+        //anime[0].ptr = (uint8_t*)_1;
+        //anime[0].size = sizeof(_1);
+        /*
+        anime[1].ptr = (uint8_t*)_2;
+        anime[1].size = sizeof(_2);
+        anime[2].ptr = (uint8_t*)_3;
+        anime[2].size = sizeof(_3);
+        anime[3].ptr = (uint8_t*)_4;
+        anime[3].size = sizeof(_4);
+        anime[4].ptr = (uint8_t*)_5;
+        anime[4].size = sizeof(_5);
+        anime[5].ptr = (uint8_t*)_6;
+        anime[5].size = sizeof(_6);
+        anime[6].ptr = (uint8_t*)_7;
+        anime[6].size = sizeof(_7);
+        anime[7].ptr = (uint8_t*)jojos;
+        anime[7].size = sizeof(jojos);
+        anime[8].ptr = (uint8_t*)_9;
+        anime[8].size = sizeof(_9);
+        anime[9].ptr = (uint8_t*)_10;
+        anime[9].size = sizeof(_10);
+    
+        anime[10].ptr = (uint8_t*)_11;
+        anime[10].size = sizeof(_11);
+        anime[11].ptr = (uint8_t*)_12;
+        anime[11].size = sizeof(_12);
+        anime[12].ptr = (uint8_t*)_13;
+        anime[12].size = sizeof(_13);
+        
+        anime[13].ptr = (uint8_t*)_14;
+        anime[13].size = sizeof(_14);
+        
+        anime[14].ptr = (uint8_t*)_15; 
+        anime[14].size = sizeof(_15);
+    
+        anime[15].ptr = (uint8_t*)_16;
+        anime[15].size = sizeof(_16);
+    
+        anime[16].ptr = (uint8_t*)_17;
+        anime[16].size = sizeof(_17);
+       
+        anime[17].ptr = (uint8_t*)_18;
+        anime[17].size = sizeof(_18);
+       
+        anime[18].ptr = (uint8_t*)_19;
+        anime[18].size = sizeof(_19);
+        
+        anime[19].ptr = (uint8_t*)_20;
+        anime[19].size = sizeof(_20);
+        
+        
+        anime[20].ptr = (uint8_t*)_21;
+        anime[20].size = sizeof(_21);
+        anime[21].ptr = (uint8_t*)_22;
+        anime[21].size = sizeof(_22);
+        anime[22].ptr = (uint8_t*)_23;
+        anime[22].size = sizeof(_23);    
+        anime[23].ptr = (uint8_t*)_24;
+        anime[23].size = sizeof(_24);    
+        anime[24].ptr = (uint8_t*)_25; 
+        anime[24].size = sizeof(_25);
+        anime[25].ptr = (uint8_t*)_26;
+        anime[25].size = sizeof(_26);
+        anime[26].ptr = (uint8_t*)_27;
+        anime[26].size = sizeof(_27);   
+        anime[27].ptr = (uint8_t*)_28;
+        anime[27].size = sizeof(_28);   
+        anime[28].ptr = (uint8_t*)_29;
+        anime[28].size = sizeof(_29);    
+        anime[29].ptr = (uint8_t*)_30;
+        anime[29].size = sizeof(_30);*/
+        
+    
+        Serial.begin(115200);
+    
+    
+        int rc = obdI2CInit(&amp;obd, MY_OLED, OLED_ADDR, FLIP180, INVERT, USE_HW_I2C, SDA_PIN, SCL_PIN, RESET_PIN, 800000L); // use standard I2C bus at 400Khz
+        Serial.print(rc);
+       
+        obdFill(&amp;obd, 0, 1);
+        
+        gif.begin(LITTLE_ENDIAN_PIXELS);
+    // obdWriteString(&amp;obd,0,0,0,(char *)""GIF Demo"", FONT_NORMAL, 0, 1);
+      //delay(1000);
+    if (gif.open((uint8_t*)_31, sizeof(_31), GIFDraw))
+        {
+                 Serial.printf(""Successfully opened GIF; Canvas size = %d x %d\n"", gif.getCanvasWidth(), gif.getCanvasHeight());
+    
+        while (gif.playFrame(true, NULL))
+           {
+              
+           }
+            gif.close();
+        }
+         
+    }
+    
+    void loop() {
+    
+    
+    
+        r = random(1, 3) * 10000;
+        Serial.println(r);
+        delay(r);
+    
+        if (debugRandom == 0)
+        {
+            //randomSeed(esp_random());
+            r = random(0, n)+1;
+            Serial.println(r);
+    
+            while (r == last_animation) {
+                delay(10);
+                //randomSeed(esp_random());
+                r = random(0, n)+1;
+    
+                if (r != last_animation)
+                {
+                    last_animation = r;
+                    break;
+                }
+            }
+    
+            Serial.println(r);
+        }
+        else
+        {
+            counter++;
+            if (counter &gt; NUMBEROFANIMATION)
+            {
+                counter = 1;
+            }
+            r = counter;
+        }
+        Serial.println(r);
+        /*
+        switch (r)
+        {
+          case 0:
+            anime.ptr = (uint8_t*)_1;
+            anime.size = sizeof(_1);
+            break;
+          case 1:
+            anime.ptr = (uint8_t*)_2;
+            anime.size = sizeof(_2);
+            break;
+          case 2:
+            anime.ptr = (uint8_t*)_3;
+            anime.size = sizeof(_3);
+            break;
+          case 3:
+            anime.ptr = (uint8_t*)_4;
+            anime.size = sizeof(_4);
+            break;
+          case 4:
+            anime.ptr = (uint8_t*)_5;
+            anime.size = sizeof(_5);
+            break;
+          case 5:
+            anime.ptr = (uint8_t*)_6;
+            anime.size = sizeof(_6);
+            break;
+          case 6:
+            anime.ptr = (uint8_t*)_7;
+            anime.size = sizeof(_7);
+            break;
+          case 7:
+            //anime.ptr = (uint8_t*)jojos;
+            //anime.size = sizeof(jojos);
+            break;  
+          case 8:
+            anime.ptr = (uint8_t*)_9;
+            anime.size = sizeof(_9);
+            break;
+          case 9:
+            anime.ptr = (uint8_t*)_10;
+            anime.size = sizeof(_10);
+            break;
+          case 10:
+            anime.ptr = (uint8_t*)_11;
+            anime.size = sizeof(_11);
+            break;
+          case 11:
+            anime.ptr = (uint8_t*)_12;
+            anime.size = sizeof(_12);
+            break;
+          case 12:
+            anime.ptr = (uint8_t*)_13;
+            anime.size = sizeof(_13);
+            break;
+          case 13:
+            anime.ptr = (uint8_t*)_14;
+            anime.size = sizeof(_14);
+            break;
+          case 14:
+            anime.ptr = (uint8_t*)_15;
+            anime.size = sizeof(_15);
+            break;
+          case 15:
+            anime.ptr = (uint8_t*)_16;
+            anime.size = sizeof(_16);
+            break;
+          case 16:
+            anime.ptr = (uint8_t*)_17;
+            anime.size = sizeof(_17);
+            break;
+          case 17:
+            anime.ptr = (uint8_t*)_18;
+            anime.size = sizeof(_18);
+            break;
+          case 18:
+            anime.ptr = (uint8_t*)_19;
+            anime.size = sizeof(_19);
+            break;
+         case 19:
+            anime.ptr = (uint8_t*)_20;
+            anime.size = sizeof(_20);
+            break;
+         case 20:
+            anime.ptr = (uint8_t*)_21;
+            anime.size = sizeof(_21);
+            break;   
+         case 21:
+            anime.ptr = (uint8_t*)_22;
+            anime.size = sizeof(_22);
+            break;   
+         case 22:
+            anime.ptr = (uint8_t*)_23;
+            anime.size = sizeof(_23);
+            break;   
+         case 23:
+            anime.ptr = (uint8_t*)_24;
+            anime.size = sizeof(_24);
+            break;   
+        case 24:
+            anime.ptr = (uint8_t*)_25;
+            anime.size = sizeof(_25);
+            break;   
+        case 25:
+         //   anime.ptr = (uint8_t*)_26;
+          //  anime.size = sizeof(_26);
+            break;  
+        case 26:
+          //  anime.ptr = (uint8_t*)_27;
+           // anime.size = sizeof(_27);
+            break;    
+        }
+        playWrapper(anime.ptr, anime.size);
+        */
+       
+    switch (r)  
+    {
+      case 1:
+      playWrapper((uint8_t*)_1, sizeof(_1));
+      break;
+      case 2:
+      playWrapper((uint8_t*)_2, sizeof(_2));
+      break;
+      case 3:
+      playWrapper((uint8_t*)_3, sizeof(_3));
+      break;
+      case 4:
+      playWrapper((uint8_t*)_4, sizeof(_4));
+      break;
+        case 5:
+      playWrapper((uint8_t*)_5, sizeof(_5));
+      break;
+        case 6:
+      playWrapper((uint8_t*)_6, sizeof(_6));
+      break;
+        case 7:
+      playWrapper((uint8_t*)_40, sizeof(_40));
+      break;
+        case 8:
+      playWrapper((uint8_t*)_8, sizeof(_8));
+      break;
+        case 9:
+      playWrapper((uint8_t*)_9, sizeof(_9));
+      break;
+        case 10:
+      playWrapper((uint8_t*)_10, sizeof(_10));
+      break;
+        case 11:
+      playWrapper((uint8_t*)_36, sizeof(_36));
+      break;
+        case 12:
+      playWrapper((uint8_t*)_41, sizeof(_41));
+      break;
+        case 13:
+      playWrapper((uint8_t*)_13, sizeof(_13));
+      break;
+        case 14:
+      playWrapper((uint8_t*)_14, sizeof(_14));
+      break;
+        case 15:
+      playWrapper((uint8_t*)_34, sizeof(_34));
+      break;
+        case 16:
+      playWrapper((uint8_t*)_16, sizeof(_16));
+      break;
+        case 17:
+      playWrapper((uint8_t*)_35, sizeof(_35));
+      break;
+        case 18:
+      playWrapper((uint8_t*)_18, sizeof(_18));
+      break;
+        case 19:
+      playWrapper((uint8_t*)_19, sizeof(_19));
+      break;
+        case 20:
+      playWrapper((uint8_t*)_33, sizeof(_33));
+      break;
+      case 21:
+      playWrapper((uint8_t*)_21, sizeof(_21));
+      break;
+      case 22:
+      playWrapper((uint8_t*)_22, sizeof(_22));
+      break;
+      case 23:
+      playWrapper((uint8_t*)_23, sizeof(_23));
+      break;
+      case 24:
+      playWrapper((uint8_t*)_24, sizeof(_24));
+      break;
+      case 25:
+      playWrapper((uint8_t*)_25, sizeof(_25));
+      break;
+      case 26:
+      playWrapper((uint8_t*)_32, sizeof(_32));
+      break;
+      case 27:
+      playWrapper((uint8_t*)_37, sizeof(_37));
+      break;
+      case 28:
+      playWrapper((uint8_t*)_28, sizeof(_28));
+      break;
+      case 29:
+      playWrapper((uint8_t*)_29, sizeof(_29));
+      break;
+      case 30:
+      playWrapper((uint8_t*)_30, sizeof(_30));
+      break;
+      case 31:
+      playWrapper((uint8_t*)_42, sizeof(_42));
+      break;
+      case 32:
+      playWrapper((uint8_t*)_39, sizeof(_39));
+      break;
+    }
+    
+    
+    }",Carlojtv000,1h830xm,https://reddit.com/r/learnprogramming/comments/1h830xm/i_need_help_with_a_project_for_esp8266_found/,https://www.reddit.com/r/learnprogramming/comments/1h830xm/i_need_help_with_a_project_for_esp8266_found/,2024-12-06 14:50:28,1,1.0,1,0,0,0,0,False,False,True,False,False,Debugging,,t3_1h830xm
+learnprogramming,How do I practice C so I can get better at my cs course in uni,"I'm trying to get better at coding in C, but as the lessons go on I'm finding it harder and harder, especially when it comes to pointers with struct and linked lists. Does anyone have any suggestions on how I can get better, any websites I can practice C? also I think I'm stuck in tutorial hell so I might need help to get out too. ",Blesko222,1h82wyk,https://reddit.com/r/learnprogramming/comments/1h82wyk/how_do_i_practice_c_so_i_can_get_better_at_my_cs/,https://www.reddit.com/r/learnprogramming/comments/1h82wyk/how_do_i_practice_c_so_i_can_get_better_at_my_cs/,2024-12-06 14:45:30,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1h82wyk
+learnprogramming,Cronjobs not working on MacOS Sequoia after 15.1.1 (24B91) update,"I’ve been using `crontab` to run a Python script every 15 minutes, logging the output to a text file. This setup was working fine until December 4, 2024. Here’s the cron job I was using:
+
+`*/15 * * * * /Users/strife/Desktop/daily/.mimu/bin/python3 /Users/strife/Desktop/daily/script.py &gt;&gt; /Users/strife/Desktop/daily/cron.log 2&gt;&amp;1`
+
+On Dec 4, I removed the crontab entry, **but after updating macOS to 15.1.1 (24B91)** this morning, I tried adding the same cron job back (from my backup), but it's no longer working.
+
+Here’s what’s happening:
+
+* After I add the cron job, it shows the message `crontab: installing new crontab`.
+* However, the script does not run as expected, and no new logs have been written after Dec 4, 2024.
+* I even tried some simple cron jobs like these:
+
+`* * * * * echo ""Hi from Cron"" &gt;&gt; /Users/strife/Desktop/log.txt` and `* * * * * /bin/date &gt;&gt; /Users/strife/Desktop/log.txt`  
+but none of them worked either. These scripts do work when I run them manually.
+
+Has anyone else noticed this issue after the macOS 15.1.1 update? Could there be a compatibility issue with cron on this version, or maybe it’s being deprecated altogether?
+
+Any help or suggestions would be greatly appreciated",Careless-Volume-8670,1h82g61,https://reddit.com/r/learnprogramming/comments/1h82g61/cronjobs_not_working_on_macos_sequoia_after_1511/,https://www.reddit.com/r/learnprogramming/comments/1h82g61/cronjobs_not_working_on_macos_sequoia_after_1511/,2024-12-06 14:23:09,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h82g61
+learnprogramming,VS Code Extension For Code Searching,"I would like to increase the functionality of the built in code search function of vs code. For example, I'm using a regular expression search term to filter all the test cases in the project. But I can't sort the results based on line counts in each of the test cases. I need a vs code extension that does that. 
+
+Thx",RapaxMaxima,1h82dyl,https://reddit.com/r/learnprogramming/comments/1h82dyl/vs_code_extension_for_code_searching/,https://www.reddit.com/r/learnprogramming/comments/1h82dyl/vs_code_extension_for_code_searching/,2024-12-06 14:20:12,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h82dyl
+learnprogramming,why is this program not working ?,"this function is supposed to compare two strings through their pointers to check if one of them is the substring of the other , but it's not working . i tried adding `printf`  inside and i noticed that the loops aren't even iterating and i couldn't find the reason.
+
+`int is_substring( char *str1, char *str2) {`
+
+`int i = 0, j, k, mismatch = 0;`
+
+`while (*(str1 + i) != '\0') {`
+
+`// If the first character of \`str2\` matches \`str1\[i\]\`\`
+
+`if (*(str1 + i) == *str2) {`
+
+`j = 0;`
+
+`k = i;`
+
+`mismatch = 0;`
+
+`// Traverse \`str2\` and \`str1\` to check if \`str2\` is a substring of \`str1\`\`
+
+`while (*(str2 + j) != '\0' &amp;&amp; *(str1 + k) != '\0') {`
+
+`if (*(str2 + j) != *(str1 + k)) {`
+
+`mismatch = 1;`
+
+`break; // If a difference is found, stop the comparison`
+
+`}`
+
+`j++;`
+
+`k++;`
+
+}
+
+`if (mismatch == 0) {`
+
+`return 1;`
+
+`}`
+
+`}`
+
+`i++;`
+
+`}`
+
+`return 0; // \`str2\` is not a substring of \`str1\`\`
+
+`}`
+
+`main(){`
+
+`char ADN1[30] = ""AAGCAGTACCTAATG"";`
+
+`char sADN1[5]=""GTA"";`
+
+`int x;`
+
+`char *p1 = ADN1;`
+
+`char *sp1= sADN1;`
+
+`x = is_substring(p1, sp1);`
+
+`if (x == 1) {`
+
+`printf(""\nsADN1 is a substring of ADN1\n"");`
+
+`} else if (x == 0) {`
+
+`printf(""\nsADN1 is not a substring of ADN1\n"");`
+
+`}`
+
+}",Desperate-Effort4748,1h8203k,https://reddit.com/r/learnprogramming/comments/1h8203k/why_is_this_program_not_working/,https://www.reddit.com/r/learnprogramming/comments/1h8203k/why_is_this_program_not_working/,2024-12-06 14:01:33,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h8203k
+learnprogramming,I want to start learning web development but I am confused which course I should take ? Please help me so I can focus on learning.,"Hello everyone,
+
+I found two courses that are good for web development
+
+1. The web developer boot camp 2024 by (Colt Steele)
+2. The Odin Project",Icy-capt_sid,1h81rzt,https://reddit.com/r/learnprogramming/comments/1h81rzt/i_want_to_start_learning_web_development_but_i_am/,https://www.reddit.com/r/learnprogramming/comments/1h81rzt/i_want_to_start_learning_web_development_but_i_am/,2024-12-06 13:50:44,1,1.0,1,0,4,0,0,False,False,True,False,False,,,t3_1h81rzt
+learnprogramming,My Progress bar isn't functioning properly,"Hi all, I am so stuck on how to make this progression bar work. I want it to move with the cards but I don't want it showing in the cards on the top and just want the orange bar and numbers changing but it's also transitioning at the moment. I got it to work without the bars in the cards but it was still transitioning. Please can someone help as I feel I'm making the code so much worse as I've been doing trail and error for 2 days. You'll find the code below. If you need anything else let me know : )
+
+[https://github.com/A33ie/Expanding-cards](https://github.com/A33ie/Expanding-cards)",Smooth-Gene3612,1h7zdeh,https://reddit.com/r/learnprogramming/comments/1h7zdeh/my_progress_bar_isnt_functioning_properly/,https://www.reddit.com/r/learnprogramming/comments/1h7zdeh/my_progress_bar_isnt_functioning_properly/,2024-12-06 11:33:47,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h7zdeh
+learnprogramming,New Undergrad graduate wanting some post graduation advice?,"So i’m graduating on december 13th and changed my major last year during my junior semester from Biomedical Sciences to Interdisciplinary Studies with a focus on IT and since then i’ve honed down on what i see myself doing career wise which is full stack engineering but being that im still fairly new in tech I would love some advice on what’s the best steps for me to take in regards to if i should get some certs under my belt bc currently i have just focused on doing mini projects but i have had no luck in getting a full time position at all . I’ve been going to career fairs , reaching out to alumni for some advice ,and taking in so many different opinions but i just wanna make sure im on the right track .",Worried-Bear-9935,1h7yxew,https://reddit.com/r/learnprogramming/comments/1h7yxew/new_undergrad_graduate_wanting_some_post/,https://www.reddit.com/r/learnprogramming/comments/1h7yxew/new_undergrad_graduate_wanting_some_post/,2024-12-06 11:03:13,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h7yxew
+learnprogramming,"If you had to start learning Angular for the first time for a greenfield project, how do you start with the latest version (19) way of things?","I'm asking this because whenever languages are transitioning most tutorials are either outdated, or default to the old mode, or have a lot of extra explanations that go either ""there are two ways you should know"" or for those with prev experience.
+
+I don't want the extra load on my brain, it's like when a lot of React tutorials had both class components and functional components side by side.",Valuable_Charity1,1h7yntc,https://reddit.com/r/learnprogramming/comments/1h7yntc/if_you_had_to_start_learning_angular_for_the/,https://www.reddit.com/r/learnprogramming/comments/1h7yntc/if_you_had_to_start_learning_angular_for_the/,2024-12-06 10:44:57,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h7yntc
+learnprogramming,Would like a few pointers,"Hey yall,
+I'm in the middle of changing subject from maths to software development and landed a students job as a developer. I now got a project to write a webpage with a form to simplify data collection for another department. I shall code it with Vue.js with a .NET Core backend. Problem being I don't know any html or js and am kinda overwhelmed with the task. They know the scope of my knowledge and that I don't know js and barely know C#.
+I'm up for the challenge but feel the expectations weighing me down so I would like to ask for some pointers. Nothing like code examples but more like a roadmap what to focus on and how to approach this project.
+Thanks in advance nerdarmy ✌🏻️",MagneyPrime,1h7ycxm,https://reddit.com/r/learnprogramming/comments/1h7ycxm/would_like_a_few_pointers/,https://www.reddit.com/r/learnprogramming/comments/1h7ycxm/would_like_a_few_pointers/,2024-12-06 10:22:50,2,0.75,2,0,5,0,0,False,False,True,False,False,,,t3_1h7ycxm
+learnprogramming,How to tell if a matrix can be made symmetric by reordering the rows and columns?,Is there an efficient way to tell if a matrix can be made symmetric by reordering its rows and columns?,MrMrsPotts,1h7y9wy,https://reddit.com/r/learnprogramming/comments/1h7y9wy/how_to_tell_if_a_matrix_can_be_made_symmetric_by/,https://www.reddit.com/r/learnprogramming/comments/1h7y9wy/how_to_tell_if_a_matrix_can_be_made_symmetric_by/,2024-12-06 10:16:49,1,0.66,1,0,0,0,0,False,False,True,False,False,,,t3_1h7y9wy
+learnprogramming,Developing your own app ,"What does developing your own app obtain. Ofc write working code for my app but what other things ? I started on this project of my own, selling app(something like vinted, blablacar, some car sales sites). Where people could just post their things to sell/to look for. My first goal is to bring app to PoC stage from where i could look for sponsors. But i have huuge lack of skill. I am learning to code so i can code everything by myself but thats all. Are there some resources or course where i could learn what everything it obtains developing my own app. I know in some stage ill need to hire people working for me, but i really want to know at least theoretical way what all it needs to be properly done. For all who thinks it is fail for 99%, ik but i want to try it anyway, learn new things and see what i am capable of. This app wont need any special features, it wont obtain paying through app, just post advertisement, ask for advertisement, write reviews, create profile with option to verify, in app chat. Paying only for posting advertisment. Same concept as blablacar id say. Thanks yall so much. ",Article_Prior,1h7xy92,https://reddit.com/r/learnprogramming/comments/1h7xy92/developing_your_own_app/,https://www.reddit.com/r/learnprogramming/comments/1h7xy92/developing_your_own_app/,2024-12-06 09:53:02,2,0.75,2,0,3,0,0,False,False,True,False,False,Tutorial,,t3_1h7xy92
+learnprogramming,Opinions on beginner Full Stack tech Stack,"I'm entering my second year of studying Software Engineering at university and want to get serious about creating projects for my resume. Would the following technologies be considered to be futureproof + will they appeal to employers?
+
+* **Front end:** React.js
+* **Styling:** Tailwind CSS
+* **Framework:** Spring boot
+* **Database**: H2 ",Courageous_Carrot557,1h7wxtg,https://reddit.com/r/learnprogramming/comments/1h7wxtg/opinions_on_beginner_full_stack_tech_stack/,https://www.reddit.com/r/learnprogramming/comments/1h7wxtg/opinions_on_beginner_full_stack_tech_stack/,2024-12-06 08:35:53,1,0.66,1,0,1,0,0,False,False,True,False,False,,,t3_1h7wxtg
+learnprogramming,What to study / do with 9 months before college?,"Hi! I've applied to college for computer science, and I'm especially interested in machine learning, so I'll probably be doing cs major stats minor or something similar. I’ve done CS50 Python and Intro to CS, as well as an intro to ML course. I'm wondering what I should start doing or studying today. I know *how* to learn anything, so my question isn't where to start, I just want some advice on what to use my time for. I'm torn between AI-focused study like linear algebra &amp; ML, or something more broad for coing as a whole, since I'm not 100% committed to AI/ML. And I don't want to waste time self-studying something that I'll just re-learn in college, though I know for many of these things prior knowledge is very helpful. Also, I want to make sure I'm not missing any opportunities to start working today toward an early intership and strong path to a career, so any advice for the path to a job would be greately appreciated as well. Thanks!
+
+",AItyAccount,1h7uhfa,https://reddit.com/r/learnprogramming/comments/1h7uhfa/what_to_study_do_with_9_months_before_college/,https://www.reddit.com/r/learnprogramming/comments/1h7uhfa/what_to_study_do_with_9_months_before_college/,2024-12-06 05:46:20,3,0.72,3,0,5,0,0,False,False,True,False,False,,,t3_1h7uhfa
+learnprogramming,C vs python/webdev,"Hey r/learnprogramming,
+
+I’m a first-year B.Tech student facing a dilemma: Should I focus on mastering C first, or jump straight into Python and web development to start building projects and participating in hackathons?
+
+Here’s where I’m at:
+
+I’ve completed up to Week 3 of CS50x a while ago, but I don’t remember much now. I’ve been considering revisiting it and combining it with K.N. King’s C Programming: A Modern Approach to really solidify my C skills.
+However, I’m feeling stuck because I want to participate in hackathons and other events, but I currently don’t have the skills to create projects or implement my ideas.
+Many of my friends are already learning Python and web dev (HTML, CSS, JavaScript) and are actively participating in events, building projects, and showcasing their work. I’m eager to do the same, but I feel held back because C is not as easy to work with for project-building. I’m struggling to master C as it’s a more complex language compared to Python, and I can’t seem to make as much progress.
+On top of this, I have to eventually move to C++ because it’s part of my college curriculum.
+So now I’m wondering:
+
+Is it worth the hassle to go back and fully master C through CS50x and K.N. King's book, or should I focus on Python and web dev to get started on projects faster?
+If I skip C for now, will that hurt me later when it comes to understanding core programming concepts or low-level development, especially since I have to learn C++?
+Is there a way to balance learning C for the long-term with diving into Python or web dev for immediate application and project building?
+I’d love to hear from anyone who has been in a similar position. Did learning C first pay off for you in the long run, or would you recommend focusing on Python and web development to get results quicker?
+
+Thanks for your advice!",Arceus_17,1h7sn9o,https://reddit.com/r/learnprogramming/comments/1h7sn9o/c_vs_pythonwebdev/,https://www.reddit.com/r/learnprogramming/comments/1h7sn9o/c_vs_pythonwebdev/,2024-12-06 04:00:40,2,1.0,2,0,7,0,0,False,False,True,False,False,,,t3_1h7sn9o
+learnprogramming,Working on a ECS for 2D game engine. Trying to figure out the way to take it.,"
+
+Working on a 2D game engine.  
+With a Entity component system for the game objects that's defined in C#.  
+Then transformed for C++/CLI, which'll goto C++ through DLL. In a way that updates the original pointer data when modified in C++.  
+But because of the way I'm doing it, I have to have the parent object to each component. So right now trying to get the parent object of each component through a void\* sent to C++/CLI.  
+Then converting back to the CLI container class to get each individual component ptr then look up the list get the C# pointer to update the parent object ptr for the C# container to update the data and interact with the other components.
+
+Maybe I'm over thinking this a bit?  
+It is fun working with memory on this level though.",Environmental-Egg-50,1h7r1hl,https://reddit.com/r/learnprogramming/comments/1h7r1hl/working_on_a_ecs_for_2d_game_engine_trying_to/,https://www.reddit.com/r/learnprogramming/comments/1h7r1hl/working_on_a_ecs_for_2d_game_engine_trying_to/,2024-12-06 02:37:41,1,0.66,1,0,1,0,0,False,False,True,False,False,,,t3_1h7r1hl
+learnprogramming,Is there a way to fetch data or webscrape a Chrome extension?,"I am a recovering tab hoarder. I have a little more than 5,000 tabs open on my old PC and I know this because there is a tab counter Chrome extension that I have been using. I’ve decided to have a little fun with it and make a project out of this and make a C++ based app with QT that’s counts the daily change in tabs as I view and close them all. 
+
+I am struggling with receiving the tab information from the Chrome extension. I tried googling and looking through the stack overflow forums but I haven’t had any luck.
+
+My question is do I need to set up API calls or do I need to webscrape the browser and get the data that way?
+
+Thank you.",jsalvatto,1h7qqbb,https://reddit.com/r/learnprogramming/comments/1h7qqbb/is_there_a_way_to_fetch_data_or_webscrape_a/,https://www.reddit.com/r/learnprogramming/comments/1h7qqbb/is_there_a_way_to_fetch_data_or_webscrape_a/,2024-12-06 02:21:32,2,0.75,2,0,2,0,0,False,False,True,False,False,Topic,,t3_1h7qqbb
+learnprogramming,Finding programming friends.,"I saw a post earlier that said that someone was looking for friends in programming. I would like to have programmer friends. I'm a teen and I've programmed for about a year, with python being main and a little c++ on the side. I'm into tech like arch linux, I use neovim, alt keyboard layout etc.I'm looking for like minded individuals who are into programming, preferably python or C++ to make a project together or something. Disclaimer, I don't know how to use git for a project. You can reach out in the comments and we can go from there, thanks.",Iammethatisyou,1h7nhfx,https://reddit.com/r/learnprogramming/comments/1h7nhfx/finding_programming_friends/,https://www.reddit.com/r/learnprogramming/comments/1h7nhfx/finding_programming_friends/,2024-12-05 23:44:16,16,0.91,16,0,6,0,0,False,False,True,False,False,Resource,,t3_1h7nhfx
+learnprogramming,Pulling weekly fuel costs in Europe,"Hello! 
+
+I am working on my thesis project, and I need real-time ( or at the very least weekly , or maybe monthly if I get desperate ) data updates on the average fuel price ( diesel, gas ) in every country in the European Union and if possible the United Kingdom.
+
+Does anyone know of such an API? Ideally if it is open-source and free, or has many free calls per month, or if it has an affordable pricing plan for a student.
+
+  
+Thanks!",SaltyIsaac,1h7n7gc,https://reddit.com/r/learnprogramming/comments/1h7n7gc/pulling_weekly_fuel_costs_in_europe/,https://www.reddit.com/r/learnprogramming/comments/1h7n7gc/pulling_weekly_fuel_costs_in_europe/,2024-12-05 23:32:12,1,0.66,1,0,1,0,0,False,False,True,False,False,,,t3_1h7n7gc
+learnprogramming,How can you further optimize graph traversal algorithms?,Like dfs and bfs aside from using dp. Any other common techniques?,Pinzonspiinzper,1h7lhqm,https://reddit.com/r/learnprogramming/comments/1h7lhqm/how_can_you_further_optimize_graph_traversal/,https://www.reddit.com/r/learnprogramming/comments/1h7lhqm/how_can_you_further_optimize_graph_traversal/,2024-12-05 22:16:06,1,0.66,1,0,1,0,0,False,False,True,False,False,,,t3_1h7lhqm
+learnprogramming,In the woods and I can't see the trees. Need some help with this CS Lab,"Hello. I've been stuck on this Lab program for my CS course for the past 2 days and I am so deep in the forest I can't see the trees around me anymore.
+
+I was wondering if anyone could take a look and help me determine the issue in my logic for why I am returning the wrong node when I ""check an invalid tree with a right child linking to it's ancestor node.""
+
+Missing code breakdown:
+
+\- The ""Node.java"" file provides the Node class with access to the node value using getData, and the  left and right node values through getLeft and getRight methods.
+
+\- The ""Main.java"" file breaks apart the input through a ""tuple-based"" representation of a binary search tree.
+
+The input looks like this:
+
+(50, (25, None, (60)), (75))
+
+Here, the program would return 60, because that node violates a BST because the node 60 would be on the left side of the tree, and 60 is greater than the root node 50.
+
+           50
+       /          \
+    25             75
+       \
+         60
+    
+    
+    
+    
+    import java.util.*;
+    public class BSTChecker {
+    public static Node checkBSTValidity(Node rootNode) {
+    // helper method with null boundaries and an empty set for ancestors
+      return checkBSTHelper(rootNode, null, null, new HashSet&lt;&gt;());
+    }
+    
+    private static Node checkBSTHelper(Node node, Integer nodeMin, Integer nodeMax, Set&lt;Node&gt; ancestors) {
+    // base case: if the node is null, the subtree is valid
+      if (node == null) {
+        return null;
+      }
+    
+    // if node is not null and less than min, then violation and return node
+    // or
+    // if node is not null and greater than max, then violation and return node
+      if ((nodeMin != null &amp;&amp; node.key &lt;= nodeMin) || (nodeMax != null &amp;&amp; node.key &gt;= nodeMax)) {
+        return node;
+      }
+    
+    // check ancestor set for violation
+      if (ancestors.contains(node)) {
+        return node;
+      }
+    
+    // return the current node causing the left child violation
+      if (node.left != null &amp;&amp; ancestors.contains(node.left)) {
+        return node;
+      }
+    
+    // return the current node causing the right child violation
+      if (node.right != null &amp;&amp; ancestors.contains(node.right)) {
+        return node;
+      }
+    // add current node in traversal to ancestor hash set
+      ancestors.add(node);
+    
+    // recusively check left side
+      Node leftViolation = checkBSTHelper(node.left, nodeMin, node.key, ancestors);
+      
+      if (leftViolation != null) {
+          return leftViolation;
+      }
+    
+    // recursively check right side
+      Node rightViolation = checkBSTHelper(node.right, node.key, nodeMax, ancestors);
+    
+      if (rightViolation != null) {
+        return rightViolation;
+      }
+    
+    // remove node once traversed
+      ancestors.remove(node);
+    
+    // return null if no violation detected in subtree
+      return null;
+      }
+    }
+
+The criteria for this program:
+
+\`\`\`Java  
+A violating node X will meet one or more of the following conditions:
+
+* X is in the left subtree of ancestor Y, but X's key is &gt; Y's key
+* X is in the right subtree of ancestor Y, but X's key is &lt; Y's key
+* X's left or right child references an ancestor
+
+\`\`\`
+
+All of my unit tests pass except # 9, where ""X's left or right child references an ancestor"" is not returning the correct node.
+
+Here are my unit tests:
+
+1: Input
+
+    (10, (20), (30, (29), (31)))
+
+Your output
+
+    20
+
+2: Input
+
+    (20, (10), (30, (29), (31)))
+
+Your output
+
+    No violation
+
+3: Input
+
+    (80, (60, (40, (20, None, (50)), None), None), None)
+
+Your output
+
+    50
+
+4: Valid tree with 10 nodes  
+Test feedback
+
+    BSTChecker.checkBSTValidity() correctly returned null
+
+5: Invalid tree with right child's key less than parent's key  
+Test feedback
+
+    checkBSTValidity() correctly returned the rule-violating node.
+
+6: Invalid tree with left child's key greater than parent's key  
+Test feedback
+
+    checkBSTValidity() correctly returned the rule-violating node.
+
+7: Invalid tree with lesser key in right subtree  
+Test feedback
+
+    checkBSTValidity() correctly returned the rule-violating node.
+
+8: Invalid tree with right child linking to ancestor  
+Test feedback
+
+    checkBSTValidity() returned a node that is not the BST rule-violating node. The node with either the left or right child pointing to an ancestor must be returned.
+
+9: Invalid tree with left child linking to parent  
+Test feedback
+
+    checkBSTValidity() correctly returned the rule-violating node.
+
+10: Invalid tree with left child linking to ancestor  
+Test feedback
+
+checkBSTValidity() correctly returned the rule-violating node.",FourKicks17,1h7jw3d,https://reddit.com/r/learnprogramming/comments/1h7jw3d/in_the_woods_and_i_cant_see_the_trees_need_some/,https://www.reddit.com/r/learnprogramming/comments/1h7jw3d/in_the_woods_and_i_cant_see_the_trees_need_some/,2024-12-05 21:08:18,6,0.8,6,0,12,0,0,False,False,True,False,False,Code Review,,t3_1h7jw3d
+learnprogramming,Help with direction to take for new job,"I currently install/program point of sale software but would like to get a full time programming gig.
+
+What language should I try to learn? I use SQL every so often for simple query's and updates.
+
+Are their programming jobs for SQL and are they worth pursuing?",Z3r0x7,1h7jjwi,https://reddit.com/r/learnprogramming/comments/1h7jjwi/help_with_direction_to_take_for_new_job/,https://www.reddit.com/r/learnprogramming/comments/1h7jjwi/help_with_direction_to_take_for_new_job/,2024-12-05 20:54:13,1,0.67,1,0,2,0,0,False,False,True,False,False,Resource,,t3_1h7jjwi

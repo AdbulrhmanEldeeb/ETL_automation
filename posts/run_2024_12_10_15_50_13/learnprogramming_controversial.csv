@@ -1,0 +1,524 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming, Is DSA the only way to become a software engineer? 🤔,"Imagine someone who doesn’t even like DSA but still spends years grinding it, just because everyone says it’s the key to cracking software engineering interviews. And then, after all that, they don’t even make it as a software engineer—because they never actually enjoyed it and only did it due to peer pressure.  
+Wouldn’t it make more sense to spend that time on something else?  
+For people from Tier 2/3 colleges who aren’t great at DSA:
+
+\--How much DSA is enough to get by?
+
+\--What other fields can they focus on to become software engineers?
+
+\--Is DSA really the only way to break into software engineering, or are there better alternatives?
+
+Just curious about your thoughts!",captainS21,1hayh2k,https://reddit.com/r/learnprogramming/comments/1hayh2k/is_dsa_the_only_way_to_become_a_software_engineer/,https://www.reddit.com/r/learnprogramming/comments/1hayh2k/is_dsa_the_only_way_to_become_a_software_engineer/,2024-12-10 10:01:37,0,0.48,0,0,33,0,0,False,False,True,False,False,,,t3_1hayh2k
+learnprogramming,Is Test Driven Development(TDD) worth it?,"If TDD is worth it why and how much faster does the workflow go? How long did it take you to learn it, and from which resource? What should I know about it?",GladRefrigerator7285,1hachsp,https://reddit.com/r/learnprogramming/comments/1hachsp/is_test_driven_developmenttdd_worth_it/,https://www.reddit.com/r/learnprogramming/comments/1hachsp/is_test_driven_developmenttdd_worth_it/,2024-12-09 15:39:31,0,0.47,0,0,14,0,0,False,False,True,False,False,,,t3_1hachsp
+learnprogramming,What steps should I follow to switch careers into programming and get a foot in the door?,"I am looking to change careers into programming and i am looking for advice on what steps i need to take give my self the best chance of getting a foot in the door. Should i complete online courses and get certificates or should i just start working on my own projects and build a website??
+
+I have no qualifications and my experience is only the online certificate courses i have been doing over the past couple months in Python and MySQL. I have also dabbled in CSS, HTML, Java
+
+Also how long does this transition normally take for you guys?
+
+Any help much appreciated",Ok_Conference_6244,1hasa5w,https://reddit.com/r/learnprogramming/comments/1hasa5w/what_steps_should_i_follow_to_switch_careers_into/,https://www.reddit.com/r/learnprogramming/comments/1hasa5w/what_steps_should_i_follow_to_switch_careers_into/,2024-12-10 03:15:21,3,0.56,3,0,28,0,0,False,False,True,False,False,,,t3_1hasa5w
+learnprogramming,"Looking for Python advice , delete if not allowed ","Hi , I hope this is allowed here and sorry if not. 
+
+Basically I really want a career change , I’m 30 years old , started college at 18 as web developer but less than a month later got offered a payed apprenticeship as a mechanic (I know very different) but I regretted taking that route… now unemployed as I can’t see myself working any longer as a mechanic, 
+
+Ive a huge interest and always did in everything with technology and computers , building PC’s ect. 
+
+I’ve been offered a course in python development, seems a lot of career opportunities upon googling it and just wanted to know would it be a good idea to go down this route ? Thanks for help in advance and sorry if this type of post not allowed ",BarryK1994,1hb11dv,https://reddit.com/r/learnprogramming/comments/1hb11dv/looking_for_python_advice_delete_if_not_allowed/,https://www.reddit.com/r/learnprogramming/comments/1hb11dv/looking_for_python_advice_delete_if_not_allowed/,2024-12-10 12:51:08,0,0.4,0,0,17,0,0,False,False,True,False,False,,,t3_1hb11dv
+learnprogramming,If you had to pick between HTMX or Svelte/Sveltekit which one would you choose and why?,What has less of a learning curve also?,WynActTroph,1hatlsx,https://reddit.com/r/learnprogramming/comments/1hatlsx/if_you_had_to_pick_between_htmx_or/,https://www.reddit.com/r/learnprogramming/comments/1hatlsx/if_you_had_to_pick_between_htmx_or/,2024-12-10 04:27:17,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hatlsx
+learnprogramming,How much more difficult is a compiled language (such as C or Java) compared to an interpreted?,Literally just what the title says. How much harder is it to learn something like C as opposed to something like Python?,DippingDots81,1hadjtl,https://reddit.com/r/learnprogramming/comments/1hadjtl/how_much_more_difficult_is_a_compiled_language/,https://www.reddit.com/r/learnprogramming/comments/1hadjtl/how_much_more_difficult_is_a_compiled_language/,2024-12-09 16:24:59,0,0.31,0,0,37,0,0,False,False,True,False,False,Topic,,t3_1hadjtl
+learnprogramming,How to get back on the right track? ,"Hey guys so I saw that post where the guy was talking about a lot of new programmers are relying on chatgpt to code. I thought for a moment and realized this was me. For all my final projects, I relied heavily on chatgpt, if it didn't exist, I genuinely do not know how I would pass. 
+
+I'm looking for guidance on how to move forward with this. I'm currently in my 4th semester and so far I've learnt java, c#, html, css and js. If you asked me to build something  using any of these, I would struggle real bad. What can I do to amend this especially now that I am currently on break?
+
+I'm really scared because I don't want to become that guy in my last year who still doesn't know how to build a simple calculator or how to do basic things. I know theory, I just really suck at planning and building things...
+
+Any help would be greatly appreciated, thank you!",NoedigYeet,1haunj3,https://reddit.com/r/learnprogramming/comments/1haunj3/how_to_get_back_on_the_right_track/,https://www.reddit.com/r/learnprogramming/comments/1haunj3/how_to_get_back_on_the_right_track/,2024-12-10 05:27:25,0,0.4,0,0,2,0,0,False,False,True,False,False,,,t3_1haunj3
+learnprogramming,Mid/advanced coding buddies?,Pls dm me on discord i want to find someone to code with im pretty mod mainly using python for data analysis and android app dev. Discord: staarmaster23,Otherwise_Road8651,1hap43m,https://reddit.com/r/learnprogramming/comments/1hap43m/midadvanced_coding_buddies/,https://www.reddit.com/r/learnprogramming/comments/1hap43m/midadvanced_coding_buddies/,2024-12-10 00:35:31,1,0.56,1,0,1,0,0,False,False,True,False,False,,,t3_1hap43m
+learnprogramming,i want to get better,hey guys i am young “web developer” not yet i know css html and little bit of js but im currently learning so i need your help how to get experience or what to do to practice and where can i learn js the best online free thanks everyone i hope you help me🙏🏻❤️,Intelligent_Loan494,1hahtr9,https://reddit.com/r/learnprogramming/comments/1hahtr9/i_want_to_get_better/,https://www.reddit.com/r/learnprogramming/comments/1hahtr9/i_want_to_get_better/,2024-12-09 19:19:35,0,0.29,0,0,8,0,0,False,False,True,False,False,,,t3_1hahtr9
+learnprogramming,Am I limiting myself by using Vanilla PHP as my main language?,"To start off, I’m not a programmer by trade. I work in IT, but I like to make stuff in my spare time.
+
+I’ve been programming for about 7 years now, and my main language has been PHP. I’ve never touched Laravel, or any of those other frameworks. I’ve pretty much made my own library of reusable code over the years.
+
+Things like routing and database integration.
+
+My question is, am I limiting myself by only using vanilla PHP? This is asking should I be using Laravel, or should I be using a different language even?
+
+I see a lot of hype around Node.js.
+
+Also, if your main opinion of PHP comes from when it used to be a bad language, get over yourself before commenting.",AnnualLiterature997,1hai9zm,https://reddit.com/r/learnprogramming/comments/1hai9zm/am_i_limiting_myself_by_using_vanilla_php_as_my/,https://www.reddit.com/r/learnprogramming/comments/1hai9zm/am_i_limiting_myself_by_using_vanilla_php_as_my/,2024-12-09 19:38:08,16,0.78,16,0,41,0,0,False,False,True,False,False,,,t3_1hai9zm
+learnprogramming,My future,"Hi everyone, I want to share with you, I am 33 years old and I have entered the university for computer engineering, before that I worked IT Heldesk in a foreign company and did very well, I like to sit for hours at the computer, solve some problems, tasks, thanks to experience in Helpdesk, so tell me where to go next, what to delve into, if I like to solve problems, I have perseverance and determination. 
+P.S of course I'm afraid that age is a barrier, but I put everything in the future. 
+Thank you all and good luck. ",Lazy-Date-102,1havbxi,https://reddit.com/r/learnprogramming/comments/1havbxi/my_future/,https://www.reddit.com/r/learnprogramming/comments/1havbxi/my_future/,2024-12-10 06:09:28,8,0.79,8,0,6,0,0,False,False,True,False,False,,,t3_1havbxi
+learnprogramming,Can You Transition from Data Scientist to SWE/MLE?,"
+I’m currently studying data science at university, where I’ve worked with R and Python. I also have done a couple of fundamental courses in C and object-oriented programming in Java.
+
+I’m wondering if it’s possible to transition from data scientist to software engineer. If I were to independently study more advanced topics in object-oriented programming, algorithms, and data structures, could I aim to start as a junior software engineer?
+
+Alternatively, if my goal is to transition into a machine learning engineer role after one or two years, can i do it from data scientist role? ",Filippo295,1hb32on,https://reddit.com/r/learnprogramming/comments/1hb32on/can_you_transition_from_data_scientist_to_swemle/,https://www.reddit.com/r/learnprogramming/comments/1hb32on/can_you_transition_from_data_scientist_to_swemle/,2024-12-10 14:33:28,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1hb32on
+learnprogramming,DSA,"Can anyone recommend me a good course or a guide on how to learn DSA. I want to enhance my problem solving skills so i figured that i will learn some of DSA and grind leetcode or something. Thanks in advance!
+
+Edit: Please recommend me free courses.",FairBandicoot8721,1hb02i3,https://reddit.com/r/learnprogramming/comments/1hb02i3/dsa/,https://www.reddit.com/r/learnprogramming/comments/1hb02i3/dsa/,2024-12-10 11:53:25,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1hb02i3
+learnprogramming,Integration test - what is this?,"I have to wrote integration test in xUnit as my homework. I need 3 positive and 1 negative tests. I can't find any information what integration tests are and how to write it. Can anyone help ASAP?   
+My code here:
+
+  
+using System;
+
+using System.Collections.Generic;
+
+namespace Aplikacja\_do\_testowania
+
+{
+
+public class Sortowanie
+
+{
+
+public static void BucketSort(int\[\] arr)
+
+{
+
+if (arr == null || arr.Length &lt;= 1)
+
+return;
+
+
+
+int minValue = int.MaxValue;
+
+int maxValue = int.MinValue;
+
+
+
+foreach (int num in arr)
+
+{
+
+if (num &lt; minValue) minValue = num;
+
+if (num &gt; maxValue) maxValue = num;
+
+}
+
+
+
+int n = arr.Length;
+
+int bucketCount = (int)Math.Sqrt(n);
+
+List&lt;int&gt;\[\] buckets = new List&lt;int&gt;\[bucketCount\];
+
+
+
+for (int i = 0; i &lt; bucketCount; i++)
+
+{
+
+buckets\[i\] = new List&lt;int&gt;();
+
+}
+
+
+
+foreach (int num in arr)
+
+{
+
+int bucketIndex = (num - minValue) \* (bucketCount - 1) / (maxValue - minValue + 1);
+
+buckets\[bucketIndex\].Add(num);
+
+}
+
+
+
+int index = 0;
+
+foreach (var bucket in buckets)
+
+{
+
+bucket.Sort();
+
+foreach (int num in bucket)
+
+{
+
+arr\[index++\] = num;
+
+}
+
+}
+
+}
+
+}
+
+}
+
+",Ok-Scheme-1855,1hajc3m,https://reddit.com/r/learnprogramming/comments/1hajc3m/integration_test_what_is_this/,https://www.reddit.com/r/learnprogramming/comments/1hajc3m/integration_test_what_is_this/,2024-12-09 20:21:43,0,0.36,0,0,5,0,0,False,False,True,False,False,,,t3_1hajc3m
+learnprogramming, Is DSA Overrated? Should We Focus on Emerging Fields Instead? 🤔,"Someone recently told me that **DSA is overrated**—very few actually end up making it as software engineers through this path. The competition is intense; almost **everyone** is grinding DSA or doing development projects.
+
+They suggested that instead of solely focusing on DSA and traditional software engineering roles, we should shift our attention to **emerging fields** like:
+
+* **AI/ML**
+* **Data Science**
+* **DevOps**
+
+Is DSA really overrated in 2024, or is it still the best way to break into software engineering roles?
+
+\#DSA #AI #DataScience #Career",captainS21,1haxqo7,https://reddit.com/r/learnprogramming/comments/1haxqo7/is_dsa_overrated_should_we_focus_on_emerging/,https://www.reddit.com/r/learnprogramming/comments/1haxqo7/is_dsa_overrated_should_we_focus_on_emerging/,2024-12-10 09:04:22,0,0.21,0,0,9,0,0,False,False,True,False,False,,,t3_1haxqo7
+learnprogramming,What should I learn as a skill which would help me in search for jobs (AI or IOT or Blockchain or Web development or Cybersecurity or Cloud computing or Big data analysis)?,Help me choose the best 3 out of them. And yes i don't have any personal preference just got offered by a free course and I can select 3 from this list.,SHADOW-AXE,1hb0sgj,https://reddit.com/r/learnprogramming/comments/1hb0sgj/what_should_i_learn_as_a_skill_which_would_help/,https://www.reddit.com/r/learnprogramming/comments/1hb0sgj/what_should_i_learn_as_a_skill_which_would_help/,2024-12-10 12:36:49,1,0.6,1,0,5,0,0,False,False,True,False,False,,,t3_1hb0sgj
+learnprogramming,"not sure if this is the right subreddit, but how do i... compile?","hello. i downloaded an old test version of fortnite from 2015 and the game needs me to put in my account info, and that isnt an option. so, i downloaded [something called fortalpha from github](https://github.com/notsamicc/FortAlpha) which will supposedly fix it i guess. however, the instructions written arent very detailed enough for me because i dont know what a compiling is. it says to ""compile as x86 because alpha is 32 bit"" and ""setup the responses"" . okay, this post probably doesnt give enough context Butt im willing to give more info about this in the comments. sorry if im stupid guys i dont wanna learn programming nor do i know much about it i just wanna get this game running. thx for everyone that helpd and will help 🙏🙏",i_get_zero_bitches,1haz8x2,https://reddit.com/r/learnprogramming/comments/1haz8x2/not_sure_if_this_is_the_right_subreddit_but_how/,https://www.reddit.com/r/learnprogramming/comments/1haz8x2/not_sure_if_this_is_the_right_subreddit_but_how/,2024-12-10 10:58:29,0,0.33,0,0,1,0,0,False,False,True,False,False,uhh... le help please?,,t3_1haz8x2
+learnprogramming,Progress bar displays over confirmation dialog in Java swing- how do I fix this?,"So the confirmation dialog(ok or cancel) is supposed to be displayed over the progress bar dialog when I do a delete action.This seems to work fine the first few times.
+  After multiple tries and sometimes after I do a drag and drop the progress dialog gets displayed over the confirmation dialog and then I have to terminate the whole application.
+   And this only happens after multiple(20 or 30) tries.Any idea why this happens and how do I fix this",sh1ne_muscat,1hay0yk,https://reddit.com/r/learnprogramming/comments/1hay0yk/progress_bar_displays_over_confirmation_dialog_in/,https://www.reddit.com/r/learnprogramming/comments/1hay0yk/progress_bar_displays_over_confirmation_dialog_in/,2024-12-10 09:27:20,0,0.33,0,0,1,0,0,False,False,True,False,False,Debugging,,t3_1hay0yk
+learnprogramming,OSSU pass?,"Good day friends, I have two questions.
+- Is there anyone who has completed the entire course? Can you tell me about your experience and how it has affected your career?
+- What is the difference between teachyourself?",z4dr1ng,1hawdzw,https://reddit.com/r/learnprogramming/comments/1hawdzw/ossu_pass/,https://www.reddit.com/r/learnprogramming/comments/1hawdzw/ossu_pass/,2024-12-10 07:21:12,0,0.33,0,0,0,0,0,False,False,True,False,False,Topic,,t3_1hawdzw
+learnprogramming,I don't know how to improve,"Hello, I'm hoping all you're doing fine, Okay, so let's suppose I have knowledge about web development, some frameworks, java and python for the backend. I already know how to apply states and concurrency and all stuff that is supposed to be understood before working environment etc... I already know some things about algorithm and about how (in basics) a PC works. Well, I'm trying to re-teaching myself with more concept emphasis. So I want to learn design patterns deeply, I want to learn why a browser works (because I'm mainly foscused on web), I want to learn all this kind of weird concepts (how react works internalyy, why react works, why the angular framework works, why the javascript itself works) I want to understand how to do complex async functions and... You know I just want to keep it better, but I don't have a plan, I don't know how to start to understand all those things, because I know they are all concepts that probably would work in other environments. And also I'm interested in develop (why not?) libraries, frameworks maybe, and all this cool stuff that help me improving my day to day as a developer. Or at least I want to learn how to modify it to do the exact stuff I desire if I'm in an edge case of use. 
+
+I'm not afraid of books, I really like to read, I'm not afraid of videos, I'm not afraid of any cool stuff or tip you could handle me.
+
+Any help would be very appreciated. God bless you all. ",A_A_Ary,1hatcen,https://reddit.com/r/learnprogramming/comments/1hatcen/i_dont_know_how_to_improve/,https://www.reddit.com/r/learnprogramming/comments/1hatcen/i_dont_know_how_to_improve/,2024-12-10 04:13:14,1,0.67,1,0,6,0,0,False,False,True,False,False,,,t3_1hatcen
+learnprogramming,Resources for learning about utilizing hardware in code (stuff like cpu/gpu multithreading),"I've spent the last few months working on a computational project and become obsessed over making it run as fast as possible. I am a student learning physics and have not focused on programming and was unaware that multithreading was a thing and realized I was severely limiting myself. I also recently learned that GPUs can be used to perform basic calculations and now realize that the programming I have learned through class has only covered a small amount of techniques that can be used to improve code performance.
+
+I am assuming that there are many other ways to utilize hardware that I am unaware of. I am wondering if there is a good resource that covers material like this (preferably applied to C/C++). Thanks for any recommendations",throwingstones123456,1hasfl0,https://reddit.com/r/learnprogramming/comments/1hasfl0/resources_for_learning_about_utilizing_hardware/,https://www.reddit.com/r/learnprogramming/comments/1hasfl0/resources_for_learning_about_utilizing_hardware/,2024-12-10 03:23:27,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1hasfl0
+learnprogramming,How does interacting with digital camera work?,"Let's say I want to create something like Bird Buddy. Which programming languages would I need to know to interact with a camera like that?
+
+There are Arduino projects kind of like this, so I assume c or c++ could work. I'm a programming beginner tho so if there were a python library that would be helpful. 
+
+Any info would be helpful thank you for your time",Equivalent-Battle-68,1halsnc,https://reddit.com/r/learnprogramming/comments/1halsnc/how_does_interacting_with_digital_camera_work/,https://www.reddit.com/r/learnprogramming/comments/1halsnc/how_does_interacting_with_digital_camera_work/,2024-12-09 22:04:36,1,0.6,1,0,0,0,0,False,False,True,False,False,,,t3_1halsnc
+learnprogramming,Christmas gift for a coder,"Hi there🥹 The Christmas is almost here and I don’t have any idea for a gift. My brother is a programmer, who studies data science in uni right now. I want to give him smth related to all that stuff, maybe some code books or idk nice headphones and keyboard? 
+I desperately need an advice :…)",Urmoms_dream,1hazkpb,https://reddit.com/r/learnprogramming/comments/1hazkpb/christmas_gift_for_a_coder/,https://www.reddit.com/r/learnprogramming/comments/1hazkpb/christmas_gift_for_a_coder/,2024-12-10 11:20:23,2,0.75,2,0,39,0,0,False,False,True,False,False,,,t3_1hazkpb
+learnprogramming,Need Help with AI-Powered Automated Interviewing Platform for College Project ,"Hi everyone,
+
+I'm working on a college project to build an AI-powered automated interviewing platform. The goal is to evaluate candidates' coding skills, behavioral traits, and overall abilities, and generate a comprehensive candidate profile.
+
+Here are the main features I need help with:
+
+Programming Question Management: Allow interviewers to post questions and evaluate code submissions.
+Code Editor: Provide an editor with features like syntax highlighting and auto-formatting.
+Code Evaluation: Evaluate correctness, performance, and error handling.
+AI-Driven Analysis: Automatically analyze code quality and assess behavioral responses.
+Candidate Profile: Generate a detailed profile with technical and behavioral insights.
+I’m a beginner and need help figuring out how to implement this in 24 hours. I can use AI tools, GitHub, and other resources.
+
+Can anyone share advice, tools, or guidance on how to approach this?
+
+Thanks a lot in advance!",Pitiful-Box6092,1haw8rp,https://reddit.com/r/learnprogramming/comments/1haw8rp/need_help_with_aipowered_automated_interviewing/,https://www.reddit.com/r/learnprogramming/comments/1haw8rp/need_help_with_aipowered_automated_interviewing/,2024-12-10 07:10:51,0,0.25,0,0,6,0,0,False,False,True,False,False,,,t3_1haw8rp
+learnprogramming,How to keeping going....,"I am learning c and I completed bunch of big topics and practice a little bit like maths question in loops, array,if else,function and recursion. I have questions now where to go?
+Also I want to master c fundamental and built logic without DSA.
+Help me I am so much confused 🤔😔.
+",sniperpics,1hahze4,https://reddit.com/r/learnprogramming/comments/1hahze4/how_to_keeping_going/,https://www.reddit.com/r/learnprogramming/comments/1hahze4/how_to_keeping_going/,2024-12-09 19:25:53,2,0.75,2,0,10,0,0,False,False,True,False,False,,,t3_1hahze4
+learnprogramming,Recursion in Python,"Hi guys, 
+
+I’m preparing my next exam: fundamentals of programming with Python.
+
+I would like to understand if I understand recursion function: 
+
+Example with factorial 
+
+def factorial (n): 
+      If n&lt;2: 
+          return 1
+      return n*(factorial(n-1))
+
+how it works recursion in my opinion:
+
+When n is 2, the functions stop. If n&gt;= 2, the code execute n* every n-1 until a when n is &lt;2.
+
+Is it correct? 
+",CSguy1997,1hact3v,https://reddit.com/r/learnprogramming/comments/1hact3v/recursion_in_python/,https://www.reddit.com/r/learnprogramming/comments/1hact3v/recursion_in_python/,2024-12-09 15:53:46,2,0.75,2,0,6,0,0,False,False,True,False,False,,,t3_1hact3v
+learnprogramming,"The more I learn, the larger the world seems.","When I come up with a solution, Most of the time, there is always a better one. When I first learned programming, I thought it would be easy, but hell no it was not. ",Standard_Topic_1013,1harnvq,https://reddit.com/r/learnprogramming/comments/1harnvq/the_more_i_learn_the_larger_the_world_seems/,https://www.reddit.com/r/learnprogramming/comments/1harnvq/the_more_i_learn_the_larger_the_world_seems/,2024-12-10 02:43:18,66,0.91,66,0,15,0,0,False,False,True,False,False,,,t3_1harnvq
+learnprogramming,Programming Class in School,"Hopefully this is the best place to ask this question.
+
+I am a high school math teacher, with a coding background.  If I'm being honest, I haven't coded in almost 20 years, and my main coding language was C++ and Visual Basic, so my background doesn't really mean a lot at this point.
+
+Our school is looking to implement a coding class into the curriculum, in the upcoming semester.  I'm looking at about 5 weeks to prepare a 18 week course, and I'm hoping you can help.  I have talked to my brother, who is a programmer, and he suggests emphasizing in either Python, C# or Java.  So looks like I'll be learning with them for at least the first year.
+
+Anyway, for those who are a little more advanced at programming, do you have any other suggestions?  (I am aware of the CS50 that Harvard offers, I might use that for the class as well)
+
+Thanks!
+
+  
+Edit: Thanks for the feedback everyone!  I should also add that the school used to utilize a program called [code.org](http://code.org) .  I don't know anything about it, and haven't had time yet to check it out.  Anyone have experience with this?  Thanks again!",montana_dude_84,1hagfs0,https://reddit.com/r/learnprogramming/comments/1hagfs0/programming_class_in_school/,https://www.reddit.com/r/learnprogramming/comments/1hagfs0/programming_class_in_school/,2024-12-09 18:23:10,11,0.78,11,0,30,0,0,False,False,True,False,False,,,t3_1hagfs0
+learnprogramming,How many languages do i need to learn? ,"I've been learning Javascript, React and Node as well as TypeScript. Is that enough to get a job? Do I need Python or Java? 
+
+For web dev ",alisekazah,1hb296j,https://reddit.com/r/learnprogramming/comments/1hb296j/how_many_languages_do_i_need_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1hb296j/how_many_languages_do_i_need_to_learn/,2024-12-10 13:54:29,0,0.29,0,0,10,0,0,False,False,True,False,False,,,t3_1hb296j
+learnprogramming,What to Start with when programming?,"So I am newer to programming. The only thing I’m really having an issue with is where to start on a project.
+A little context: my brother and I made a board game and are now trying to make it into a digital game. 
+ The thing we’ve been wrestling with, is what to start with? Do we start with the piece movement, or menu, or asset creation or with something else?
+This has been my main problem with programming in general so far.
+Is there a general guide for this stuff  to give me some idea of where to begin?
+Any guidance on this will be greatly appreciated.",mista_A_,1ham5kc,https://reddit.com/r/learnprogramming/comments/1ham5kc/what_to_start_with_when_programming/,https://www.reddit.com/r/learnprogramming/comments/1ham5kc/what_to_start_with_when_programming/,2024-12-09 22:19:51,3,0.8,3,0,8,0,0,False,False,True,False,False,,,t3_1ham5kc
+learnprogramming,Raspberry Pi 5 for begginer,"Hello,
+
+I have bought Raspberry Pi 5 couple months ago and i connected it and installed system on it but i dont know what do to with it  so i wanted to ask how to get started and what can i do with Raspberry Pi 5?
+
+Thanks for the help.",Initial_Confection_7,1hansvp,https://reddit.com/r/learnprogramming/comments/1hansvp/raspberry_pi_5_for_begginer/,https://www.reddit.com/r/learnprogramming/comments/1hansvp/raspberry_pi_5_for_begginer/,2024-12-09 23:33:57,3,0.67,3,0,7,0,0,False,False,True,False,False,Tutorial,,t3_1hansvp
+learnprogramming,"School teaches c++, interested in web dev?","Hello, I start at ASU in a month and am expected to be using C++ heavily, especially in my DSAA class. I know I should get better at these algorithms, but at the same time I have been wanting to make CRUD web apps; do you think its ok to balance the C++ stuff at school and a little bit of web dev on the side?",Rain_Apart,1hao9jx,https://reddit.com/r/learnprogramming/comments/1hao9jx/school_teaches_c_interested_in_web_dev/,https://www.reddit.com/r/learnprogramming/comments/1hao9jx/school_teaches_c_interested_in_web_dev/,2024-12-09 23:55:31,6,0.88,6,0,9,0,0,False,False,True,False,False,,,t3_1hao9jx
+learnprogramming,Translation of .exe gibberish (Binary Machine Language) into English?,"Hello there. I have a question. Would it be possible to translate Binary Machine Language (“#Ç\[\]|Ω†ƒ) or something like that into readable English? I would need it for a school project, so i would be happy if there would be a fast response. ",ApprehensiveFox1782,1hac90z,https://reddit.com/r/learnprogramming/comments/1hac90z/translation_of_exe_gibberish_binary_machine/,https://www.reddit.com/r/learnprogramming/comments/1hac90z/translation_of_exe_gibberish_binary_machine/,2024-12-09 15:28:39,0,0.13,0,0,27,0,0,False,False,True,False,False,Solved,,t3_1hac90z
+learnprogramming,Would it look bad listing beginners programming projects I’ve done on internship resume? When I’m still not fully proficient in that programming language? ,Title says it all.,serena_moo,1hap9al,https://reddit.com/r/learnprogramming/comments/1hap9al/would_it_look_bad_listing_beginners_programming/,https://www.reddit.com/r/learnprogramming/comments/1hap9al/would_it_look_bad_listing_beginners_programming/,2024-12-10 00:42:19,30,0.92,30,0,11,0,0,False,False,True,False,False,,,t3_1hap9al
+learnprogramming,What is the best practise to design a REST endpoint that allows the caller to delete a table. ,"1. Should it be a DELETE with the name of the table passed as parameter?
+2. Should it be a GET dedicated to the specific table?
+3. You should never allow such a destructive action to be called by an API, no matter what.
+
+What are your opinions on that? I believe the question is debatable than it looks.",sterconium,1hb3n9v,https://reddit.com/r/learnprogramming/comments/1hb3n9v/what_is_the_best_practise_to_design_a_rest/,https://www.reddit.com/r/learnprogramming/comments/1hb3n9v/what_is_the_best_practise_to_design_a_rest/,2024-12-10 14:59:50,4,1.0,4,0,9,0,0,False,False,True,False,False,,,t3_1hb3n9v
+learnprogramming,Request for Feedback on My Coursera Project (Graded Assignment),"Hi everyone,
+
+I recently completed a project as part of a Coursera course but couldn't afford the certification, so I uploaded the graded assignment on GitHub. I want to improve my skills and would really appreciate your feedback on the project.
+
+Here’s the link to the project: [https://github.com/ronny-gans/front-end-development-course.git](https://github.com/ronny-gans/front-end-development-course.git)
+
+It’s Meta Front End Professional Certificate Course and was developed to meet the course requirements. Specifically, I’d love feedback on:
+
+* Code structure and readability
+* Best practices I might have missed
+* Any areas for improvement I’m eager to learn and grow as a developer, so any constructive criticism is welcome!
+
+Thank you for your time and support!",Go-Boyz,1hb3fyp,https://reddit.com/r/learnprogramming/comments/1hb3fyp/request_for_feedback_on_my_coursera_project/,https://www.reddit.com/r/learnprogramming/comments/1hb3fyp/request_for_feedback_on_my_coursera_project/,2024-12-10 14:50:31,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hb3fyp
+learnprogramming,Why is stepping through in Release so fickle?,"I'm working on a project where atm it doesn't work properly in debug (not ideal, but not really within the scope of my task to resolve it). Since I can set breakpoints in Release, I just do that. But it behaves so weirdly. Like it will visually skip over code that actually *is* executing; or I can hover and see the contents of a variable that's passed to the function as an argument but I can't see the contents of a variable that was given a value within the function (and adding the variable to the watched variables also doesn't work--says ""variable is undefined"")
+
+I don't understand why stepping through in Release behaves so inexplicably. If the answer is ""you should use Debug to step through code"", then why does everything else about VS indicate that you can use Release to do it? Or is there another reason?",Missing_Back,1hb339l,https://reddit.com/r/learnprogramming/comments/1hb339l/why_is_stepping_through_in_release_so_fickle/,https://www.reddit.com/r/learnprogramming/comments/1hb339l/why_is_stepping_through_in_release_so_fickle/,2024-12-10 14:34:15,1,0.67,1,0,2,0,0,False,False,True,False,False,,,t3_1hb339l
+learnprogramming,BOOKS,"Can you guys suggest me some books for learning Java and Python Programming(as a beginner)?  
+Previously, I've learnt C, OOPS Concept in C++, Data Structures and Algorithms in C from different sources like books, videos. I find it very easy to learn Programming through books than videos. I learnt C Programming from my College book and it was a bit helpful and learnt C++(OOPS) and DSA through Videos.",lazyae,1hb2rgt,https://reddit.com/r/learnprogramming/comments/1hb2rgt/books/,https://www.reddit.com/r/learnprogramming/comments/1hb2rgt/books/,2024-12-10 14:18:30,1,0.99,1,0,2,0,0,False,False,True,False,False,,,t3_1hb2rgt
+learnprogramming,Interview Preparation Resources,"I have an interview on December 18 for a role involving Security Frameworks, Application Security Tools, Web Security, API Security, and Vulnerability Assessment (with a focus on Java and Python). Could you suggest resources to prepare for this specific field?",AnandGriffin,1hazq71,https://reddit.com/r/learnprogramming/comments/1hazq71/interview_preparation_resources/,https://www.reddit.com/r/learnprogramming/comments/1hazq71/interview_preparation_resources/,2024-12-10 11:30:40,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hazq71
+learnprogramming,Looking for an Android App to Learn,"Hi all,
+
+I want to learnd CSS &amp; JavaScript and Python. So I am looking for an android app (preferably on web too) to practice &amp; learnd similar concept to Duoling. Any suggestion beside SoloLearn &amp; Mimo?
+
+  
+I am okay to pay a small fee.",ilneminis,1haynmp,https://reddit.com/r/learnprogramming/comments/1haynmp/looking_for_an_android_app_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1haynmp/looking_for_an_android_app_to_learn/,2024-12-10 10:15:13,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1haynmp
+learnprogramming,"Eslint, Prettier and VSCode config","Hello, I am trying to convert my old eslint configuration file into the new eslint configuration, however I can't get it to work.
+
+I am suing VScode and my old setup works that it underlines the wrongly formted code and in the context menu ALT + Enter it shows Fix all auto-fixable options. However the new version doesnt do this.
+
+My old .exlintrc.cjs config:
+
+    const fs = require(""fs"");
+    const path = require(""path"");
+    
+    const prettierOptions = JSON.parse(fs.readFileSync(path.resolve(__dirname, "".prettierrc.json""), ""utf8""));
+    
+    module.exports = {
+        root: true,
+        env: { browser: true, es2021: true, es6: true },
+        overrides: [
+            {
+                files: [""**/*.ts?(x)""],
+                rules: {
+                    ""@typescript-eslint/explicit-function-return-type"": ""off"",
+                    ""max-lines"": ""off"",
+                    ""max-lines-per-function"": ""off"",
+                    ""no-magic-numbers"": ""off"",
+                    ""no-undef"": ""off"",
+                },
+            },
+        ],
+        extends: [""airbnb-base"", ""eslint:recommended"", ""plugin:@typescript-eslint/recommended"", ""prettier""],
+        ignorePatterns: [""dist"", "".eslintrc.cjs""],
+        parser: ""@typescript-eslint/parser"",
+        parserOptions: {
+            ecmaFeatures: {
+                jsx: true,
+            },
+            ecmaVersion: ""latest"",
+            sourceType: ""module"",
+            project: ""./tsconfig.json"",
+        },
+        plugins: [""prettier"", ""unused-imports""],
+        settings: {
+            ""import/resolver"": {
+                node: {
+                    extensions: ["".js"", "".ts""],
+                    moduleDirectory: [""src"", ""node_modules""],
+                },
+            },
+        },
+        rules: {
+            ""@typescript-eslint/no-non-null-assertion"": ""error"",
+            ""prettier/prettier"": [""warn"", { prettierOptions }],
+            ""@typescript-eslint/no-explicit-any"": ""off"",
+            ""no-unused-vars"": ""off"",
+            ""no-use-before-define"": ""off"",
+            ""import/no-default-export"": 0,
+            ""@typescript-eslint/no-use-before-define"": [""error""],
+            ""import/no-unresolved"": ""off"",
+            ""no-shadow"": ""off"",
+            ""@typescript-eslint/no-shadow"": ""off"",
+            ""no-loop-func"": ""off"",
+            ""no-param-reassign"": ""off"",
+            ""no-nested-ternary"": ""off"",
+            ""import/no-extraneous-dependencies"": ""off"",
+            ""no-useless-constructor"": ""off"",
+            ""max-classes-per-file"": ""off"",
+            ""no-empty-function"": ""off"",
+            ""import/prefer-default-export"": ""off"",
+            ""import/extensions"": [""error"", ""ignorePackages"", { ""js"": ""never"", ""jsx"": ""never"", ""ts"": ""never"", ""tsx"": ""never"" }],
+            ""import/order"": [
+                ""warn"",
+                {
+                    groups: [
+                        [""builtin"", ""external""],
+                        ""internal"",
+                        [""parent"", ""sibling"", ""index""],
+                        ""object"",
+                        ""type"",
+                    ],
+                    ""newlines-between"": ""always"",
+                    alphabetize: {
+                        order: ""asc"",
+                    },
+                    pathGroups: [
+                        {
+                            pattern: ""./**/*.less"",
+                            group: ""object"",
+                        },
+                        {
+                            pattern: ""**/*.less"",
+                            group: ""object"",
+                        },
+                        {
+                            pattern: ""./**/*.{jpg,jpeg,png,gif,svg,ico}"",
+                            group: ""type"",
+                        },
+                        {
+                            pattern: ""**/*.{jpg,jpeg,png,gif,svg,ico}"",
+                            group: ""type"",
+                        },
+                    ],
+                },
+            ],
+        },
+    };
+    
+
+
+
+    My old setup in .prettierrc.json:
+    
+    {
+        ""arrowParens"": ""always"",
+        ""bracketSpacing"": true,
+        ""jsxSingleQuote"": true,
+        ""quoteProps"": ""as-needed"",
+        ""htmlWhitespaceSensitivity"": ""css"",
+        ""singleQuote"": false,
+        ""semi"": true,
+        ""printWidth"": 120,
+        ""useTabs"": true,
+        ""tabWidth"": 8,
+        ""trailingComma"": ""all"",
+        ""endOfLine"": ""auto"",
+        ""proseWrap"": ""never""
+    }
+
+This is the new config file generated by the vite:
+
+    import js from '@eslint/js'
+    import globals from 'globals'
+    import reactHooks from 'eslint-plugin-react-hooks'
+    import reactRefresh from 'eslint-plugin-react-refresh'
+    import tseslint from 'typescript-eslint'
+    
+    export default tseslint.config(
+      { ignores: ['dist'] },
+      {
+        extends: [js.configs.recommended, ...tseslint.configs.recommended],
+        files: ['**/*.{ts,tsx}'],
+        languageOptions: {
+          ecmaVersion: 2020,
+          globals: globals.browser,
+        },
+        plugins: {
+          'react-hooks': reactHooks,
+          'react-refresh': reactRefresh,
+        },
+        rules: {
+          ...reactHooks.configs.recommended.rules,
+          'react-refresh/only-export-components': [
+            'warn',
+            { allowConstantExport: true },
+          ],
+        },
+      },
+    )
+
+I tried to pass the rules, but VSCode either completely ignores the rules and doesnt format the code or just throws an error in the ouput terminal for Eslint.
+
+  
+Anybody knows how to reconfigure it ?",BluesyPompanno,1hayelh,https://reddit.com/r/learnprogramming/comments/1hayelh/eslint_prettier_and_vscode_config/,https://www.reddit.com/r/learnprogramming/comments/1hayelh/eslint_prettier_and_vscode_config/,2024-12-10 09:56:53,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hayelh
+learnprogramming,Best approach to store data values in the database from an OCR scan for a rule-based system?,"I'm using OCR to scan a document and compile all findings in a single field in a JSON-like structure (e.g. ""gender: male, age: 2, country: Yemen""). It should be noted that it is necessary to use the OCR to scan the findings, so it is expected that the scanned results will always be different/inaccurate.
+
+The reason for compiling all in a single field is because the findings from the OCR are inconsistent or unstructured, like different amount of info/fields in every document, or different kinds of info/fields in every document. And most importantly, I'm using a rule-based system to filter records based on the findings (e.g. input:""get me all males aged 20-40 that live in Yemen""). 
+
+Is storing all findings in a single field a good approach for a rule-based system? BTW i'm using a non-relational database (MongoDB).
+
+Thank you.",bluesilvergrass,1hauwdr,https://reddit.com/r/learnprogramming/comments/1hauwdr/best_approach_to_store_data_values_in_the/,https://www.reddit.com/r/learnprogramming/comments/1hauwdr/best_approach_to_store_data_values_in_the/,2024-12-10 05:42:26,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1hauwdr
+learnprogramming,Tips to enter this world. I have only taken basic courses. ,"Hello, I am a 14-year-old teenager and I would like to delve deeper into the world of advanced computing, software engineering, cybersecurity, programming, etc. I am very passionate and want to learn about various topics.
+
+I would also like to know how far you think it could progress in 4 years. I've heard that some people take a long time to get out of the basics, but my goal is to know, more or less, how far I could go so I have realistic expectations. It is not to know if it is worth it, but to know how far it could go.
+
+Could you recommend guides, books, resources, etc.? I also want to learn more about hardware or whatever you suggest for the future. Please tell me what you think as realistically as possible.
+
+Thank you very much in advance.",ImGirooh,1haqp9s,https://reddit.com/r/learnprogramming/comments/1haqp9s/tips_to_enter_this_world_i_have_only_taken_basic/,https://www.reddit.com/r/learnprogramming/comments/1haqp9s/tips_to_enter_this_world_i_have_only_taken_basic/,2024-12-10 01:53:56,3,0.81,3,0,8,0,0,False,False,True,False,False,,,t3_1haqp9s
+learnprogramming,Merging two Arrays together in C. Why does this work?,"Hi, for learning i tried to program c code, that merges two monotonically increasing arrays into a new one inside of a function. I tried for hours, did one approach with pointers (didn't went that good) and this one. It works, but i can't wrap my head around why. Here is the code of the function (look for the comments): 
+
+    unsigned merge(int array_1[], int array_2[], int length_1, int length_2) {
+    
+      int array_3[length_1 + length_2];
+      int *ptr_1 = array_1;
+      int *ptr_2 = array_2;
+    
+      for (int i = 0; i &lt; length_1 + length_2; i++) {
+    
+        if ( i &gt; length_1 + 3) { //Why does this work?
+          array_3[i] = *ptr_2++;
+        } else if ( i &gt; length_2 + 3) { //Why does this work?
+          array_3[i] = *ptr_1++;
+        } else {
+          array_3[i] = *ptr_1 &lt;= *ptr_2 ? *ptr_1++ : *ptr_2++;
+        }
+      }
+    
+      int length_3 = sizeof(array_3) / sizeof(*array_3);
+    
+      for (int j = 0; j &lt; length_3; j++) {
+    
+        printf(""[%d]: %d\n"", j, array_3[j]);
+      }
+    
+      return length_3;
+    }
+
+I know now how to program it more readable but why does this if-condition i &gt; length + 3 work? Initially the idea behind those conditions was to stop getting values from the shorter array, when the pointer is at the end of the array. I tried several things but this + 3 made it work, but that doesn't seem to make any sense. Maybe someone can explain this to me.  
+Thanks!",SadLandscape1312,1haoz5s,https://reddit.com/r/learnprogramming/comments/1haoz5s/merging_two_arrays_together_in_c_why_does_this/,https://www.reddit.com/r/learnprogramming/comments/1haoz5s/merging_two_arrays_together_in_c_why_does_this/,2024-12-10 00:28:56,4,0.76,4,0,7,0,0,False,False,True,False,False,Code Review,,t3_1haoz5s
+learnprogramming,Python unittest module resources ,"Hi,
+
+I have an exam on Thursday where we have been told that we will need to use the unittest module to build tests for our code.
+I presume we will be required to test repr functions, csv reader/writer or json load/dump and some custom class methods.
+I have been really struggling to learn the unit test stuff, mainly because it is pytest that David Malan uses in the cs50p course which is the main resource I've been using as I find the lecturer at my university doesn't really explain things that well.
+Thus, I was wondering if anyone could recommend some good resources for learning how to do testing with the unittest module?
+Many thanks for any help in advance. 
+",garmin230fenix5,1haott2,https://reddit.com/r/learnprogramming/comments/1haott2/python_unittest_module_resources/,https://www.reddit.com/r/learnprogramming/comments/1haott2/python_unittest_module_resources/,2024-12-10 00:21:52,2,0.76,2,0,0,0,0,False,False,True,False,False,,,t3_1haott2
+learnprogramming,Any resources where there are a ton of practice prompts to write code to fit?,"I’m in my first year of a computer science degree and I want to go far in this. In other hobbies where I’ve reached a high level, I would grind out practice questions based on the fundamentals for hours at a time (ex. if I were learning multiplication, I would work on times tables for an hour, then 2-digit multiplication for an hour, then 3 digits, etc.). I want to do the same thing for coding (particularly Python or Java), however the only thing that I’ve found that has been close is Leetcode, but that seems to revolves the more advanced Systems and Algorithms concepts, and my bate fundamentals are nowhere near close to being good enough to tackle those problems yet. Are there any resources that give seemingly endless prompts for the bare basic concepts like loops, booleans, variables, functions, if/then statements, etc. ?",STONKS_,1haj9nn,https://reddit.com/r/learnprogramming/comments/1haj9nn/any_resources_where_there_are_a_ton_of_practice/,https://www.reddit.com/r/learnprogramming/comments/1haj9nn/any_resources_where_there_are_a_ton_of_practice/,2024-12-09 20:18:53,14,0.9,14,0,7,0,0,False,False,True,False,False,Resource,,t3_1haj9nn
+learnprogramming,Kotlin/CMP vs JavaScript/React Native vs Dart/Flutter ,"Hey everyone,
+
+Just looking for some input. I am a new hobbyist programmer and am looking to eventually build a mobile app. 
+
+I am looking for advice on a good first language and framework to learn. Through my research I have found these 3 frameworks that do well with cross platform support. 
+
+Wanted to know everyone's experience with them and what everyone thought a good first option would be. 
+
+Thanks! 
+
+",Budget-Pollution-391,1haht3u,https://reddit.com/r/learnprogramming/comments/1haht3u/kotlincmp_vs_javascriptreact_native_vs_dartflutter/,https://www.reddit.com/r/learnprogramming/comments/1haht3u/kotlincmp_vs_javascriptreact_native_vs_dartflutter/,2024-12-09 19:18:49,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1haht3u
+learnprogramming,Is there any workaround for using PyCharm CE on a remote machine (ssh)? Or do I need to switch to VSCode?,"I've been using PyCharm for many many years and I absolutely love it. I mainly code (99%) in Python, so PyCharm has always been the easy choice. I recently started doing some work where I have to ssh into a machine to run my scripts and while I can write the code locally, there's no way in PycharmCE to run a debugger onto a remote machine and see all the steps locally. I'm aware of the [remote development](https://www.jetbrains.com/help/pycharm/remote-development-starting-page.html) from the professional edition of Pycharm, but my work does not allow for it, I can only use the community edition.
+
+I know that VSCode has a similar option to work on a remote machine and it's free, so I could switch to that, but my muscle memory is so tied to the Pycharm workflow that switching to VSCode is going to affect my productivity for at least a few months, until I learn it all from scratch.
+
+So, before I switch to VSCode for good, is there any workaround for using PyCharm remotely using the community edition? Oh, I can't simply install PyCharm on the remote machine because it doesn't have a graphic server (it's container stuff), so I can only use ssh.
+
+Thank you for your advice!",FishDontFlyOnMars,1haeqta,https://reddit.com/r/learnprogramming/comments/1haeqta/is_there_any_workaround_for_using_pycharm_ce_on_a/,https://www.reddit.com/r/learnprogramming/comments/1haeqta/is_there_any_workaround_for_using_pycharm_ce_on_a/,2024-12-09 17:14:21,1,1.0,1,0,4,0,0,False,False,True,False,False,,,t3_1haeqta

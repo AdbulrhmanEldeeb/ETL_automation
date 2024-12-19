@@ -1,0 +1,126 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+programming,The Cloud Container Iceberg - At least 105 ways to run a container in the cloud,,agbell,1h6i64w,https://reddit.com/r/programming/comments/1h6i64w/the_cloud_container_iceberg_at_least_105_ways_to/,https://www.pulumi.com/blog/cursed-container-iceberg/,2024-12-04 15:05:38,243,0.91,243,0,54,0,0,False,False,False,False,False,,,t3_1h6i64w
+programming,MercifulStalinSort: An experimental new sorting algorithm inspired by the notorious Stalin Sort.,,r-kataria,1h6kgxt,https://reddit.com/r/programming/comments/1h6kgxt/mercifulstalinsort_an_experimental_new_sorting/,https://github.com/r-kataria/MercifulStalinSort,2024-12-04 16:38:34,124,0.87,124,0,4,0,0,False,False,False,False,False,,,t3_1h6kgxt
+programming,Tried Explaining ML Concepts using Animations... How's it,,python4geeks,1h73si9,https://reddit.com/r/programming/comments/1h73si9/tried_explaining_ml_concepts_using_animations/,https://youtu.be/-TA7orMJuJ4?si=2BS1Bs2GpYukM35P,2024-12-05 07:30:08,49,0.76,49,0,6,0,0,False,False,False,False,False,,,t3_1h73si9
+programming,Certificate Authorities and the Fragility of Internet Safety,,ketralnis,1h6mv35,https://reddit.com/r/programming/comments/1h6mv35/certificate_authorities_and_the_fragility_of/,https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html,2024-12-04 18:12:24,30,0.83,30,0,1,0,0,False,False,False,False,False,,,t3_1h6mv35
+programming,How Chrome doubled its Speedometer scores on Android,,feross,1h6jjou,https://reddit.com/r/programming/comments/1h6jjou/how_chrome_doubled_its_speedometer_scores_on/,https://blog.chromium.org/2024/12/doubling-speedometer-scores-android.html,2024-12-04 16:01:40,26,0.76,26,0,1,0,0,False,False,False,False,False,,,t3_1h6jjou
+programming,"Cerbos PDP – OSS scalable authorization (ABAC/RBAC, language-agnostic, stateless, self-hosted + many updates)",,West-Chard-1474,1h79e2p,https://reddit.com/r/programming/comments/1h79e2p/cerbos_pdp_oss_scalable_authorization_abacrbac/,https://github.com/cerbos/cerbos,2024-12-05 13:39:59,23,0.87,23,0,3,0,0,False,False,False,False,False,,,t3_1h79e2p
+programming,8 months of OCaml after 8 years of Haskell in production,,ketralnis,1h6mv9u,https://reddit.com/r/programming/comments/1h6mv9u/8_months_of_ocaml_after_8_years_of_haskell_in/,https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html,2024-12-04 18:12:38,17,0.83,17,0,3,0,0,False,False,False,False,False,,,t3_1h6mv9u
+programming,Interviews with over 20 teams revealed that the main issue is cognitive load,,RobinCrusoe25,1h7a0hl,https://reddit.com/r/programming/comments/1h7a0hl/interviews_with_over_20_teams_revealed_that_the/,https://github.com/zakirullin/cognitive-load,2024-12-05 14:10:15,26,0.93,26,0,9,0,0,False,False,False,False,False,,,t3_1h7a0hl
+programming,Analyzing APT36’s ElizaRAT: Evolution of Espionage Techniques,,matbaylaw,1h762w2,https://reddit.com/r/programming/comments/1h762w2/analyzing_apt36s_elizarat_evolution_of_espionage/,https://www.reco.ai/blog/how-apt36-elizarat-redefines-cyber-espionage,2024-12-05 10:20:18,9,0.8,9,0,0,0,0,False,False,False,False,False,,,t3_1h762w2
+programming,End User Programming Reading List,,schlagetown,1h6k7aa,https://reddit.com/r/programming/comments/1h6k7aa/end_user_programming_reading_list/,https://leaflet.pub/432296e1-ca35-4222-bdab-f7a6cab814e8,2024-12-04 16:27:58,8,0.85,8,0,3,0,0,False,False,False,False,False,,,t3_1h6k7aa
+programming,Homography Explained with Code,,ketralnis,1h6mqmf,https://reddit.com/r/programming/comments/1h6mqmf/homography_explained_with_code/,https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html,2024-12-04 18:07:26,6,0.73,6,0,0,0,0,False,False,False,False,False,,,t3_1h6mqmf
+programming,Lessons learned from running Redis at scale,,qu33ksilver,1h791hk,https://reddit.com/r/programming/comments/1h791hk/lessons_learned_from_running_redis_at_scale/,https://mattermost.com/blog/lessons-learned-running-redis-at-scale/,2024-12-05 13:21:50,10,0.86,10,0,0,0,0,False,False,False,False,False,,,t3_1h791hk
+programming,Am I Stuck in Shiny Object Syndrome?,"I’ve been learning programming for a while and wanted some advice.
+
+I started with JavaScript and spent about 6 months learning it and building projects. Recently, I started learning C to understand low-level concepts like memory management and pointers. My goal is to reach an intermediate level, build some projects, and then eventually move on to learning Rust (though I’m still figuring out exactly why I want to learn it).
+
+At the same time, I plan to keep improving my JavaScript/TypeScript skills and continue building web projects.
+
+Does this sound like a solid learning path, or am I just jumping around too much? How do you balance learning new languages while deepening your skills in the ones you already know?",fizzy-piss42,1h7ao53,https://reddit.com/r/programming/comments/1h7ao53/am_i_stuck_in_shiny_object_syndrome/,https://en.m.wikipedia.org/wiki/Shiny_object_syndrome,2024-12-05 14:41:25,1,0.53,1,0,11,0,0,False,False,False,False,False,,,t3_1h7ao53
+programming,Zip archives creation in 219 loc of JavaScript (no dependencies),,paulcap,1h77mum,https://reddit.com/r/programming/comments/1h77mum/zip_archives_creation_in_219_loc_of_javascript_no/,https://github.com/PaulCapron/pwa2uwp/blob/master/src/zip.js,2024-12-05 12:03:39,5,0.73,5,0,0,0,0,False,False,False,False,False,,,t3_1h77mum
+programming,Designing Wild's incremental linking,,ketralnis,1h6mvz1,https://reddit.com/r/programming/comments/1h6mvz1/designing_wilds_incremental_linking/,https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html,2024-12-04 18:13:27,2,0.63,2,0,0,0,0,False,False,False,False,False,,,t3_1h6mvz1
+programming,Complexity is the Gotcha of Event-driven Architecture • David Boyne,,goto-con,1h6msuv,https://reddit.com/r/programming/comments/1h6msuv/complexity_is_the_gotcha_of_eventdriven/,https://youtu.be/gjPdHVMNfb0,2024-12-04 18:10:00,2,0.63,2,0,0,0,0,False,False,False,False,False,,,t3_1h6msuv
+programming,The Art of the Propagator,,ketralnis,1h6msu5,https://reddit.com/r/programming/comments/1h6msu5/the_art_of_the_propagator/,https://dspace.mit.edu/handle/1721.1/44215,2024-12-04 18:09:59,2,0.75,2,0,1,0,0,False,False,False,False,False,,,t3_1h6msu5
+programming,Distributed Erlang,,ketralnis,1h6mqwa,https://reddit.com/r/programming/comments/1h6mqwa/distributed_erlang/,https://vereis.com/posts/disterl_inbox,2024-12-04 18:07:46,2,0.76,2,0,1,0,0,False,False,False,False,False,,,t3_1h6mqwa
+programming,Drawbacks and solutions for the Meilisearch document indexer,,ketralnis,1h6mpc1,https://reddit.com/r/programming/comments/1h6mpc1/drawbacks_and_solutions_for_the_meilisearch/,https://blog.kerollmops.com/meilisearch-is-too-slow,2024-12-04 18:06:02,2,1.0,2,0,0,0,0,False,False,False,False,False,,,t3_1h6mpc1
+programming,Google app-script help,"Hi, I want to take a piece of data from a google sheets cell and then post it to discord- this part I have working- its the moving down 1/2 rows each time the program is run(e.g when I click run it outputs data in cell a in row 1, program ends then click the run button again outputs cell a in row 2 etc etc - I tried coding a counter which didn’t work- I have no experience in JavaScript - got some experience in Python and Lua… please can someone help me with this probably simple task?
+
+
+I have posted the code below obviously removed the discord webhook- there are indented lines - probably not showing as this is a copy and paste on a phone…
+Thanks
+
+
+function postToDiscord(paradenightuniform) {
+
+  const url=""CLASSIFIED""
+
+
+
+  const formData = {
+
+      content: ""The uniform tonight is "" + paradenightuniform
+
+    }
+
+  
+
+
+  const options = {
+
+  'method' : 'post',
+
+  'payload' : formData
+
+  }
+
+
+  const res= UrlFetchApp.fetch(url,options)
+
+
+}
+
+
+function postfromspreadsheet() {
+
+
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+
+  var sheet = ss.getSheets()[1];
+
+  var cell = sheet.getRange(""D3"");
+
+  var paradenightuniform = cell.getValue()
+
+   console.log(paradenightuniform)
+
+  
+
+  postToDiscord(paradenightuniform)
+
+
+}
+
+
+Ive attached a screenshot of the code",Infiniteplanes,1h7ahe8,https://reddit.com/r/programming/comments/1h7ahe8/google_appscript_help/,https://drive.google.com/file/d/1hNs1rWh0efR_PRBxCoD4CsC_PpHCIP2C/view?usp=drivesdk,2024-12-05 14:32:24,0,0.4,0,0,0,0,0,False,False,False,False,False,,,t3_1h7ahe8
+programming,Native dual-range input,,LinearArray,1h797v0,https://reddit.com/r/programming/comments/1h797v0/native_dualrange_input/,https://muffinman.io/blog/native-dual-range-input/,2024-12-05 13:30:57,1,1.0,1,0,0,0,0,False,False,False,False,False,,,t3_1h797v0
+programming,Thoughts on DuckDB's Grammar Patching Thing,,ketralnis,1h6mutg,https://reddit.com/r/programming/comments/1h6mutg/thoughts_on_duckdbs_grammar_patching_thing/,https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/,2024-12-04 18:12:05,1,1.0,1,0,0,0,0,False,False,False,False,False,,,t3_1h6mutg
+programming,"Introducing flirt, a CLI file-browser, read-only interaction tool to compose within your UNIX workflow!",,phaazon_,1h6murr,https://reddit.com/r/programming/comments/1h6murr/introducing_flirt_a_cli_filebrowser_readonly/,https://strongly-typed-thoughts.net/blog/introducing-flirt,2024-12-04 18:12:01,1,0.67,1,0,0,0,0,False,False,False,False,False,,,t3_1h6murr
+programming,"MemoryDB: Speed, Durability, and Composition",,ketralnis,1h6mtpg,https://reddit.com/r/programming/comments/1h6mtpg/memorydb_speed_durability_and_composition/,https://brooker.co.za/blog/2024/04/25/memorydb.html,2024-12-04 18:10:55,1,1.0,1,0,0,0,0,False,False,False,False,False,,,t3_1h6mtpg
+programming,The Return of Procedural Programming [video],,ketralnis,1h6mt61,https://reddit.com/r/programming/comments/1h6mt61/the_return_of_procedural_programming_video/,https://www.youtube.com/watch?v=vQPHtAxOZZw,2024-12-04 18:10:19,1,0.54,1,0,6,0,0,False,False,False,False,False,,,t3_1h6mt61
+programming,A Brief Introduction to OCI Containers on FreeBSD,,ketralnis,1h6mrxg,https://reddit.com/r/programming/comments/1h6mrxg/a_brief_introduction_to_oci_containers_on_freebsd/,https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers,2024-12-04 18:08:58,1,0.67,1,0,0,0,0,False,False,False,False,False,,,t3_1h6mrxg
+programming,Build a Quiz App with Django Rest Framework &amp; Streamlit | Beginner-Friendly Tutorial | Brokly Master,,Possible-Horror-4741,1h7au1x,https://reddit.com/r/programming/comments/1h7au1x/build_a_quiz_app_with_django_rest_framework/,https://youtu.be/JhquwDXRz9I,2024-12-05 14:49:05,0,0.33,0,0,0,0,0,False,False,False,False,False,,,t3_1h7au1x
+programming,"Custom C++ allocators to improve cache locality for lists, maps, …",,hmoein,1h79xuc,https://reddit.com/r/programming/comments/1h79xuc/custom_c_allocators_to_improve_cache_locality_for/,https://github.com/hosseinmoein/Cougar,2024-12-05 14:06:43,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h79xuc
+programming,The Future of Building in Open Source,,briandfoy,1h79r6s,https://reddit.com/r/programming/comments/1h79r6s/the_future_of_building_in_open_source/,https://www.youtube.com/watch?v=HHvk3auwz2g,2024-12-05 13:58:06,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h79r6s
+programming,Creating a RESTful API with Node.js and Express,,Latter-Dust8587,1h74q6w,https://reddit.com/r/programming/comments/1h74q6w/creating_a_restful_api_with_nodejs_and_express/,https://makemychance.com/creating-a-restful-api-with-node-js-and-express/,2024-12-05 08:39:06,0,0.5,0,0,1,0,0,False,False,False,False,False,,,t3_1h74q6w
+programming,Linux TCP SO_REUSEPORT: Usage and Implementation,,ketralnis,1h6mub0,https://reddit.com/r/programming/comments/1h6mub0/linux_tcp_so_reuseport_usage_and_implementation/,https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html,2024-12-04 18:11:32,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h6mub0
+programming,Kth: High-Performance Selection Algorithms for Go,,ketralnis,1h6mp15,https://reddit.com/r/programming/comments/1h6mp15/kth_highperformance_selection_algorithms_for_go/,https://github.com/tsenart/kth,2024-12-04 18:05:44,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h6mp15
+programming,Speeding up Ruby by rewriting C in Ruby,,ketralnis,1h6mokr,https://reddit.com/r/programming/comments/1h6mokr/speeding_up_ruby_by_rewriting_c_in_ruby/,https://jpcamara.com/2024/12/01/speeding-up-ruby.html,2024-12-04 18:05:14,0,0.5,0,0,1,0,0,False,False,False,False,False,,,t3_1h6mokr
+programming,Building a Regex Engine in Motoko Part 4: Matcher,,Demali876,1h6kwmr,https://reddit.com/r/programming/comments/1h6kwmr/building_a_regex_engine_in_motoko_part_4_matcher/,https://medium.com/@demaligregg123/building-a-regex-engine-in-motoko-part-4-matcher-b613973622bb,2024-12-04 16:56:03,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h6kwmr
+programming,CLI tool for collecting file contents and writing them to one file,,0xideas,1h77orp,https://reddit.com/r/programming/comments/1h77orp/cli_tool_for_collecting_file_contents_and_writing/,https://crates.io/crates/dirscribe,2024-12-05 12:06:55,0,0.33,0,0,1,0,0,False,False,False,False,False,,,t3_1h77orp
+programming,The State Of Vue.js 2025 survey is live! Vue developers–your moment has arrived!,,estatarde,1h76ryx,https://reddit.com/r/programming/comments/1h76ryx/the_state_of_vuejs_2025_survey_is_live_vue/,https://forms.gle/52j8BorbGyidJp4q9,2024-12-05 11:09:12,0,0.4,0,0,0,0,0,False,False,False,False,False,,,t3_1h76ryx
+programming,Top Trends Shaping the Future of Web and Mobile App Development Companies,,Disastrous_Toe6656,1h76bvx,https://reddit.com/r/programming/comments/1h76bvx/top_trends_shaping_the_future_of_web_and_mobile/,https://www.reddit.com/user/Disastrous_Toe6656/comments/1h76aoa/top_trends_shaping_the_future_of_web_and_mobile/?utm_source=post_insights&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button,2024-12-05 10:38:24,0,0.44,0,0,0,0,0,False,False,False,False,False,,,t3_1h76bvx
+programming,Best 5 Frameworks To Build Multi-Agent AI Applications,,thewritingwallah,1h751l1,https://reddit.com/r/programming/comments/1h751l1/best_5_frameworks_to_build_multiagent_ai/,https://getstream.io/blog/multiagent-ai-frameworks/,2024-12-05 09:02:44,0,0.47,0,0,0,0,0,False,False,False,False,False,,,t3_1h751l1
+programming,Temp-mail.org API,,Significant_Load_411,1h74suu,https://reddit.com/r/programming/comments/1h74suu/tempmailorg_api/,https://rapidapi.com/dishis-technologies-maildrop/api/temp-mail-org4,2024-12-05 08:44:53,0,0.43,0,0,0,0,0,False,False,False,False,False,,,t3_1h74suu
+programming,JDK HTTP Server: RealWorld Backend Demo,,bowbahdoe,1h6xmj1,https://reddit.com/r/programming/comments/1h6xmj1/jdk_http_server_realworld_backend_demo/,https://github.com/bowbahdoe/jdk-httpserver-realworld,2024-12-05 01:47:29,0,0.4,0,0,3,0,0,False,False,False,False,False,,,t3_1h6xmj1
+programming,senior developer agents,,prospero,1h6t4bp,https://reddit.com/r/programming/comments/1h6t4bp/senior_developer_agents/,https://explaining.software/archive/senior-developer-agents/,2024-12-04 22:25:20,0,0.47,0,0,1,0,0,False,False,False,False,False,,,t3_1h6t4bp
+programming,Introducing Uniffi for React Native: Rust-Powered Turbo Modules,,feross,1h6qcb6,https://reddit.com/r/programming/comments/1h6qcb6/introducing_uniffi_for_react_native_rustpowered/,https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/,2024-12-04 20:31:42,0,0.5,0,0,0,0,0,False,False,False,False,False,,,t3_1h6qcb6
+programming,Exploring How Protobuf OneOfs Are Represented,,Kaylors,1h76c64,https://reddit.com/r/programming/comments/1h76c64/exploring_how_protobuf_oneofs_are_represented/,https://badgerbadgerbadgerbadger.dev/posts/misc/2024-12-05-oneofs-in-protobuf/,2024-12-05 10:38:58,0,0.36,0,0,0,0,0,False,False,False,False,False,,,t3_1h76c64
+programming,"Everyone Loves Policy as Code, No One Wants to",,Permit_io,1h72hbm,https://reddit.com/r/programming/comments/1h72hbm/everyone_loves_policy_as_code_no_one_wants_to/,https://www.permit.io/blog/no-one-wants-to-write-rego,2024-12-05 06:01:58,0,0.48,0,0,12,0,0,False,False,False,False,False,,,t3_1h72hbm
+programming,Mastering Design Patterns in JavaScript: Part 9 — The Mediator Pattern,,HolidayCartoonist323,1h789ur,https://reddit.com/r/programming/comments/1h789ur/mastering_design_patterns_in_javascript_part_9/,https://medium.com/javascript-in-plain-english/mastering-design-patterns-in-javascript-part-9-the-mediator-pattern-62969be077c5?sk=165125830ba0d092b23e55c11a83031c,2024-12-05 12:40:46,0,0.17,0,0,0,0,0,False,False,False,False,False,,,t3_1h789ur
+programming,Evolution of software architecture with the co-creator of UML (Grady Booch),,leif-e,1h75sn4,https://reddit.com/r/programming/comments/1h75sn4/evolution_of_software_architecture_with_the/,https://youtu.be/u7WaC429YcU?si=ygZY5JVs4kJr-BPv,2024-12-05 09:59:54,0,0.38,0,0,0,0,0,False,False,False,False,False,,,t3_1h75sn4
+programming,This repository contains a comprehensive summary of foundational Linux concepts and core tasks,,AhmedOsamaMath,1h71m9j,https://reddit.com/r/programming/comments/1h71m9j/this_repository_contains_a_comprehensive_summary/,https://github.com/AhmedOsamaMath/linux-basics,2024-12-05 05:11:07,0,0.17,0,0,0,0,0,False,False,False,False,False,,,t3_1h71m9j
+programming,New to the web platform in November,,feross,1h6j5l2,https://reddit.com/r/programming/comments/1h6j5l2/new_to_the_web_platform_in_november/,https://web.dev/blog/web-platform-11-2024?hl=en,2024-12-04 15:46:05,0,0.17,0,0,0,0,0,False,False,False,False,False,,,t3_1h6j5l2
+programming,ML Trading Bot that uses Ensemble Learning to trade while also training at the same time,,Inevitable-Air-1712,1h702qt,https://reddit.com/r/programming/comments/1h702qt/ml_trading_bot_that_uses_ensemble_learning_to/,https://github.com/yeonholee50/AmpyFin,2024-12-05 03:48:38,0,0.27,0,0,0,0,0,False,False,False,False,False,,,t3_1h702qt
+programming,Java 17 Coding Interview Questions &amp; Solutions,,erdsingh24,1h70pyp,https://reddit.com/r/programming/comments/1h70pyp/java_17_coding_interview_questions_solutions/,https://javatechonline.com/java-17-coding-interview-questions-and-solutions/,2024-12-05 04:22:33,0,0.17,0,0,0,0,0,False,False,False,False,False,,,t3_1h70pyp
+programming,"💥 Tech Talks Weekly #40: EDA, Streaming in React, Writing a Toy Language, Passwordless Future, Switching to MongoDB, I/O in Rust, Wrangling Data with Python + DuckDB, Debugging and Testing in C++, ...",,TechTalksWeekly,1h6ojuk,https://reddit.com/r/programming/comments/1h6ojuk/tech_talks_weekly_40_eda_streaming_in_react/,https://www.techtalksweekly.io/p/ttw-40-eda-streaming-in-react-writing,2024-12-04 19:19:15,0,0.13,0,0,1,0,0,False,False,False,False,False,,,t3_1h6ojuk
+programming,help trying to get past programming lock on wheelchair,"don’t click on the YouTube link it’s just blank screen for 10 hours
+
+my wheelchair has a programming section, but I can’t get past it without a programming key and I don’t have that. Is there any way to bypass it? I would add a photo, but it doesn’t allow images.",spacemanpilot,1h793n3,https://reddit.com/r/programming/comments/1h793n3/help_trying_to_get_past_programming_lock_on/,https://youtu.be/XIMLoLxmTDw?si=lHfF-srVf3xt3CXD,2024-12-05 13:25:02,0,0.2,0,0,2,0,0,False,False,False,False,False,,,t3_1h793n3
+programming,Can anyone here figure out what's wrong with this game file?,"There's this really old game called rollerball I had on a computer as a kid. I tried downloading it and it wouldn't run on my Windows 11 laptop. It just shows a white screen, flashing black very briefly a few times, while playing the menu music for a few seconds. Then the music just stops. The window also is labeled ""MainForm"" for some reason. I even tried running it on a Windows XP virtual machine (I used VirtualBox) and it did the same thing, except the music was much slower and very corrupt. The issue is exactly the same no matter where I download it from. This game came out in 2001 and 3D pinball space cadet, which came out in 1995, works just fine. 
+
+If someone could figure out how to run this game that would be great! It's a great game and I hate to see it completely inaccessible like this and I don't want it to be lost to history.
+",TurphM4ster,1h784ks,https://reddit.com/r/programming/comments/1h784ks/can_anyone_here_figure_out_whats_wrong_with_this/,https://archive.org/details/rollerball_202303,2024-12-05 12:32:29,0,0.2,0,0,0,0,0,False,False,False,False,False,,,t3_1h784ks
+programming,📷 Leetcode 154. Search in Rotated Sorted Array II  (hard made easy),,xAconitex,1h6jqte,https://reddit.com/r/programming/comments/1h6jqte/leetcode_154_search_in_rotated_sorted_array_ii/,https://youtu.be/EhjzO8mGmDI,2024-12-04 16:09:46,0,0.22,0,0,0,0,0,False,False,False,False,False,,,t3_1h6jqte
+programming,Can't Press A Website buttons.,"I have a blogger website, it works well outside. But when I click on a post, some buttons at the end of the page doesn't work no matter how hard I try to press it. It's just like it can't be pressed. While the other buttons at the top of the page works fine. Is there a solution? ",lreizo,1h78a66,https://reddit.com/r/programming/comments/1h78a66/cant_press_a_website_buttons/,https://theominousnovel.blogspot.com/2024/12/blog-post_3.html,2024-12-05 12:41:16,0,0.25,0,0,2,0,0,False,False,False,False,False,,,t3_1h78a66
+programming,Never imagined we can make our own custom web browsers in python. Check out the GitHub repository and customize the code according to your needs. The python library used are - PyQt5 and PyQtWebEngine.,,Mean_Option_7459,1h6ri7d,https://reddit.com/r/programming/comments/1h6ri7d/never_imagined_we_can_make_our_own_custom_web/,https://github.com/Hrishavvv/Browser-X,2024-12-04 21:19:07,0,0.08,0,0,17,0,0,False,False,False,False,False,,,t3_1h6ri7d

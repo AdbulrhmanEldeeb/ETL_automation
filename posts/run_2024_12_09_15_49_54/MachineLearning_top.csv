@@ -1,0 +1,106 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,"[R] Diffusion Models, Image Super-Resolution, and Everything: A Survey","We are thrilled to share with you guys our latest survey paper on diffusion models applied to image super-resolution. You are welcome to take a look. It is also open access and published in IEEE TNNLS :) 
+
+
+
+arXiv: [https://arxiv.org/abs/2401.00736](https://arxiv.org/abs/2401.00736)",Maleficent_Stay_7737,1h9wrv6,https://reddit.com/r/MachineLearning/comments/1h9wrv6/r_diffusion_models_image_superresolution_and/,https://www.reddit.com/r/MachineLearning/comments/1h9wrv6/r_diffusion_models_image_superresolution_and/,2024-12-09 00:09:15,86,0.96,86,0,0,0,0,False,False,True,False,False,Research,self,t3_1h9wrv6
+MachineLearning,[P] Text-to-Video leaderboard: Compare State-Of-The-Art Text-To-Video Models,"Unlike text generation, text-to-video generation involves balancing realism, alignment, and artistic expression. But which one is the most important in terms of output quality?
+
+We don’t know, that’s why we created a voting-based Text-to-Video Model Leaderboard inspired by the LLM Leaderboard lmarena.ai.
+
+Currently, the leaderboard features five open-source models: HunyuanVideo, Mochi1, CogVideoX-5b, Open-Sora 1.2 and PyramidFlow, but we’re aiming to also include notable proprietary models from Kling AI, LumaLabs.ai and Pika.art.
+
+Here’s a link to the leaderboard: [link](https://t2vleaderboard.lambdalabs.com/leaderboard/).  
+We’d love to hear your thoughts, feedback, or suggestions. How do you think video generation models should be evaluated?",lambda-research,1ha54m0,https://reddit.com/r/MachineLearning/comments/1ha54m0/p_texttovideo_leaderboard_compare_stateoftheart/,https://www.reddit.com/r/MachineLearning/comments/1ha54m0/p_texttovideo_leaderboard_compare_stateoftheart/,2024-12-09 08:17:05,12,0.93,12,0,1,0,0,False,False,True,False,False,Project,self,t3_1ha54m0
+MachineLearning,[D] Context-aware entity recognition using LLMs,"Can anybody suggest some good models that can perform entity recognition but using LLM-level context? Such models are generally LLMs fine-tuned for Entity Recognition.
+Usually, using traditional NER/ER pipelines, such as SpaCy's NER model, can only tag words that it has been trained on. Using LLMs fine-tuned for Entity Recognition (models such as GLiNER) can tag obscure entities, and not just basic entities such as Name, Place, Org, etc.",Ashwiihii,1h9stfq,https://reddit.com/r/MachineLearning/comments/1h9stfq/d_contextaware_entity_recognition_using_llms/,https://www.reddit.com/r/MachineLearning/comments/1h9stfq/d_contextaware_entity_recognition_using_llms/,2024-12-08 21:05:35,9,0.74,9,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1h9stfq
+MachineLearning,[R] Monet: Mixture of Monosemantic Experts for Transformers,"**Paper**: [https://arxiv.org/abs/2412.04139](https://arxiv.org/abs/2412.04139)  
+**GitHub**: [https://github.com/dmis-lab/Monet](https://github.com/dmis-lab/Monet)
+
+**Monet** presents a novel approach to enhancing mechanistic interpretability in large language models (LLMs) through an innovative Sparse Mixture-of-Experts (SMoE) architecture. By directly incorporating sparse dictionary learning into end-to-end pretraining, **Monet** addresses the fundamental challenge of polysemanticity - where individual neurons respond to multiple unrelated concepts - while maintaining model performance.
+
+**Key Highlights:**
+
+* **Scalable Expert Architecture**: **Monet** introduces parameter-efficient expert decomposition methods that enable scaling to 262,144 experts per layer while ensuring total parameters scale proportionally to the square root of expert count.
+* **Monosemantic Experts**: Through fine-grained expert specialization, **Monet** achieves monosemantic experts that demonstrate mutual exclusivity of knowledge, allowing transparent observation of model behavior and parametric knowledge.
+* **Robust Knowledge Control**: The architecture enables precise manipulation of domain-specific knowledge, language capabilities, and toxicity mitigation without compromising general performance.
+
+**Why Monet?**
+
+Unlike traditional approaches using post-hoc reconstruction (like Sparse Autoencoders), **Monet** integrates interpretability directly into its architecture. This enables both transparent understanding of model internals and fundamental behavior control. By scaling monosemantic experts, Monet paves the way for more transparent and controllable language models.
+
+We’d love to hear your feedback, questions, or any other inquiries you may have!",affjljoo3581,1ha4inl,https://reddit.com/r/MachineLearning/comments/1ha4inl/r_monet_mixture_of_monosemantic_experts_for/,https://www.reddit.com/r/MachineLearning/comments/1ha4inl/r_monet_mixture_of_monosemantic_experts_for/,2024-12-09 07:31:34,6,0.75,6,0,0,0,0,False,False,True,False,False,Research,self,t3_1ha4inl
+MachineLearning,"[D] Is there such a thing as ""integrable programming""?","I come from a pure math background and have been getting up to speed at a new job in scientific AI/ML where I've been working a lot with JAX. JAX is great, love it, but I see a super common pattern where researchers will have a fully differentiable simulation and a couple of neural net architectures or something, but then there will be a bunch of relatively imprecise numerical estimations of integral values. Obviously I'm reading up on numerical methods and doing my best to restructure problems to solve more algebraically, but for my own curiosity, is there an equivalent of ""differentiable"" programming where you're handling ""integrable"" entities instead?
+
+Obviously, this would be a much harder class of problems since you can integrate...well, everything. And that's how you end up solving PDEs on compact supports with weird ugly Holder bounds. But are there computational approaches (or hell, differentiable programming strategies I should be aware of) that move in this direction? Are there nice natural algebraic properties to be leveraged? Can you use a computational graph the same sort of way? How about, like, valid ways to extend to ""weakly-differentiable"" functional programming?
+
+Hope this is relevant enough since it's learning JAX inspired...",redwingviking,1h9ty31,https://reddit.com/r/MachineLearning/comments/1h9ty31/d_is_there_such_a_thing_as_integrable_programming/,https://www.reddit.com/r/MachineLearning/comments/1h9ty31/d_is_there_such_a_thing_as_integrable_programming/,2024-12-08 21:56:30,8,1.0,8,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1h9ty31
+MachineLearning,[D] Offline AI/ML activity for high school students?,"Next week, I am giving an hour of code presentation at a local high school. Since I run my university's artificial intelligence club, I'd like to center it around AI. I've done some AI focused activities with high schoolers with various levels of success in the past, but haven't found ""the one"" yet. Any ideas on what I could try next? I'll list what I've done so far as well as the restrictions are this particular event.
+
+Restrictions:
+
+1. These are random students in grades 9-12, so I can't rely on any prior computer science knowledge
+2. We don't have access to computers so everything has to be offline. I *may* be able to get ipads for them though
+3. We have 1 hour for the event. Filling around 45 minutes would be ideal so we don't go over and we don't end up with too much extra time.
+
+Things I've tried before:
+
+1. AI Kahoot + Simple lecture explaining neural networks - The students liked the kahoot, but I dramatically overestimated their knowledge (and interest) in AI. Stupidly thought at least a handful of them would have at least heard of a neural net, but not a single student had lmao
+2. Wordle AI pseudocode and code along - I had the students get into groups and brainstorm how they would make an algorithm to solve the wordle. Then I coded their solutions on the projector and we competed against my algorithm. This one was cool, but I think it only really works if the students are *really engaged* and I really don't think this group will be that engaged.
+3. Image classification code along - I've done this by myself on the projector (bad) and as a group with students with some CS experience (decent). But this one wouldn't work for this event I just thought I'd include it
+4. Turing test activity - Have the students guess which answer came from ChatGPT and which came from a student volunteer. The volunteer will leave the room and the rest of the students will ask a question (like ""what is the meaning of life"" or something). I'll write the volunteer's answer and ChatGPT's answer on a powerpoint slide and have the student guess which was GPT. This has been really successful with middle school students in the past, but I worry it's a bit too childish for high schoolers.
+
+\---
+
+I tend to struggle to figure out activities for high school students because I don't want to undermine their intelligence but I don't want to throw a complicated activity at them that they don't understand.",j0ngle6421,1h9ks8v,https://reddit.com/r/MachineLearning/comments/1h9ks8v/d_offline_aiml_activity_for_high_school_students/,https://www.reddit.com/r/MachineLearning/comments/1h9ks8v/d_offline_aiml_activity_for_high_school_students/,2024-12-08 15:08:37,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h9ks8v
+MachineLearning,[P] Looking for daily keyword search database (any platform),"Hey there,
+
+  
+After exhaustively searching Google and trying to find APIs that would allow me to generate keyword search or post or comment frequency on any platform on a *daily* basis, I have been unable to find any providers of this type of data. Considering that this is kind of a niche request, I am dropping this inquiry here for the ML Gods of Reddit to assist.
+
+Basically, I'm trying to create an ML model that can predict future increases/decreases in keyword usage (whether that be on Google Search or X posts; dosen't matter) on a daily basis. I've found plenty of monthly average keyword search providers but I cannot find any way to access more granulated, daily search totals for any platform. If you know of any sources for this kind of data, please drop them here... Or just tell me to give up if this is an impossible feat.",Appropriate-Touch515,1ha465g,https://reddit.com/r/MachineLearning/comments/1ha465g/p_looking_for_daily_keyword_search_database_any/,https://www.reddit.com/r/MachineLearning/comments/1ha465g/p_looking_for_daily_keyword_search_database_any/,2024-12-09 07:06:32,0,0.5,0,0,0,0,0,False,False,True,False,False,Project,self,t3_1ha465g
+MachineLearning,[Project] Simulating Kubernetes Monitoring Data for a Deep Learning Prototype—Any Thoughts?,"
+We aim to build a prototype project using Deep Learning, but we require a dataset containing Kubernetes deployment metrics. I initially tried sourcing data from my company, but—spoiler alert—we obviously can’t use it.
+
+Our current idea is to create a virtual lab with a small Kubernetes cluster running a custom app. Using JMeter, we plan to simulate random scenarios to generate traffic similar to the microservices deployments in our company.
+
+The synthetic data generated will be used to train our prototype. Afterward, we’ll test the model by slightly modifying the JMeter scenarios and evaluating its performance against Kubernetes’ default algorithm.
+
+What are your thoughts? I know there’s existing literature on this, but I’d love to hear your expert opinion.
+
+Thanks!",Ok-Consequence-8863,1h9vru3,https://reddit.com/r/MachineLearning/comments/1h9vru3/project_simulating_kubernetes_monitoring_data_for/,https://www.reddit.com/r/MachineLearning/comments/1h9vru3/project_simulating_kubernetes_monitoring_data_for/,2024-12-08 23:20:46,0,0.4,0,0,0,0,0,False,False,True,False,False,Project,self,t3_1h9vru3
+MachineLearning,[R] O1 replication paper,"Hi Everyone,
+
+Just released a paper that I think hints at how OpenAI might have developed some of O1's remarkable reasoning capabilities. TLDR- you need a small dataset of really high quality human paired with a little bit of RL
+
+Here are some of they key take ways from the research
+
+* Reasoning data is extremely scarce on the internet. It's very difficult to find data that really shows the problem solving process e.g hypothesis testing, backtracking etc
+* RL although important is overrated by the general community. It's really the cherry on top. The human data does most of the heavy lifting. See deep-seek math for more info on this
+
+Paper can be found here: [https://arxiv.org/abs/2412.04645](https://arxiv.org/abs/2412.04645)
+
+Not saying this is definitively how o1 works but results suggest that this method can be used to create very similar behaviour
+
+Paper a preprint so happy to clarify anything that's not clear.
+
+Happy to answer any questions on the paper.",Brosarr,1h9zjf1,https://reddit.com/r/MachineLearning/comments/1h9zjf1/r_o1_replication_paper/,https://www.reddit.com/r/MachineLearning/comments/1h9zjf1/r_o1_replication_paper/,2024-12-09 02:31:35,0,0.4,0,0,6,0,0,False,False,True,False,False,Research,self,t3_1h9zjf1
+MachineLearning,[P] I got too frustrated trying to test all these AI cookbooks and recipes,"Over the last year of building AI enabled SaaS applications I became increasingly frustrated at the developer experience of going from AI RAG cookbooks authored in jupyter notebooks to integrating it into my application. Notebooks are great and all but it's incredibly hard to test which part of it was actually important for my app. This led me down the road of having to understand every piece of code in each notebook, deciphering what was important, somehow build an API server as a POC to then hook it into my app. The feedback loop was excruciatingly long, painful, and most of the time I canned the POC because it wasn't quite what I wanted.
+
+this is when it dawned on me that the roles in the AI developer world are fractured into two. Data Scientists and AI devs want easy notebooks to test methods and techniques but do not care to ship something that can be easily be consumed by applications.
+
+In the other camp lies application devs, they just want simple API's that they can use to test quickly and verify these AI methods enhance their application.
+
+Enter KitchenAI.
+
+A way to bridge the gap between the two by converting AI related Jupyter notebooks into a ready made production API server so that it becomes easy to test various cookbooks, recipes, and techniques. Shortening the development cycle in half while giving users a complete local experience with the ability to share them as docker containers.
+
+Completely vendor agnostic and framework agnostic, the goal is to give developers the most about of freedom to use the libraries they already feel most comfortable using.
+
+It comes with a plugin architecture so I envision our team and the community building all sorts of llmops type plugins like evaluation frameworks, observability, prompt management and more.
+
+A lot of hard work was put to provide something that is totally open source, local, and with battle tested technology like Django so that developers didn't have to rely on 3rd party providers.
+
+We’ve launched this repo under Apache license so any developer can use the tool. We're working hard to provide a managed cloud version with much deeper integrations, metrics, analytics, and workflows for those that want have more complex demands
+
+Give it a spin: [https://github.com/epuerta9/kitchenai.](https://github.com/epuerta9/kitchenai) Let us know what you think!",wait-a-minut,1h9wcdo,https://reddit.com/r/MachineLearning/comments/1h9wcdo/p_i_got_too_frustrated_trying_to_test_all_these/,https://www.reddit.com/r/MachineLearning/comments/1h9wcdo/p_i_got_too_frustrated_trying_to_test_all_these/,2024-12-08 23:48:32,0,0.4,0,0,2,0,0,False,False,True,False,False,Project,self,t3_1h9wcdo

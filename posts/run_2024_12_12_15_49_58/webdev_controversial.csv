@@ -1,0 +1,323 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,"I'm new, Pragmatic-Drag-and-Drop in Vanilla JS?","I saw pragmatic-dnd yesterday, and i was like whoa, i need this. The nested list drag-n-drop example is like, perfect for what I want. So I go to the examples, and they're .tsx files and .jsx files. I didn't even know what modules are until today. 
+
+Supposedly, it can support vanilla javascript... I just can't figure out how. All the samples are written in React and use typescript, both things I don't use. I guess it would help if I had my own server to test this on, originally I thought i could just plop in pragmatic-dnd from jsdelivr's CDN and have it work immediately
+
+(working on getting an oracle cloud free-tier instance setup)",xThomas,1hc8vsg,https://reddit.com/r/webdev/comments/1hc8vsg/im_new_pragmaticdraganddrop_in_vanilla_js/,https://www.reddit.com/r/webdev/comments/1hc8vsg/im_new_pragmaticdraganddrop_in_vanilla_js/,2024-12-12 00:44:20,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1hc8vsg
+webdev,Can you recommend a terminal (linux),"I'm using Linux mint and default terminal looks very ugly, I use `&amp; exit` after every command just to make it go away lol
+
+I've tried warp but people started saying it's bad (steals data or is a malware, I forgot what it was) so I removed it. Any other suggestions? Preferably not AI powered, looks nice, and doesn't freak out when I split terminal screen",mekmookbro,1hchidi,https://reddit.com/r/webdev/comments/1hchidi/can_you_recommend_a_terminal_linux/,https://www.reddit.com/r/webdev/comments/1hchidi/can_you_recommend_a_terminal_linux/,2024-12-12 09:35:26,0,0.4,0,0,28,0,0,False,False,True,False,False,,self,t3_1hchidi
+webdev,Which browser is James Q. Quick using,"I know this is a weird question, but recently I’ve been seeing this browser in his videos, just curious what it is because I’d like to use it. Thank you!!!",princepangaea,1hcdny5,https://reddit.com/r/webdev/comments/1hcdny5/which_browser_is_james_q_quick_using/,https://i.redd.it/guyn4qfpnc6e1.jpeg,2024-12-12 05:00:35,2,0.6,2,0,7,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/tW9ITV4e_5DcOP3qK3jM31jMmeiwlnF6L9Wem3bIRBA.jpg,t3_1hcdny5
+webdev,Question about sites like Steam.,What kind of software or service is used by sites like Steam to accurately document the purchasing and usage of the 3rd party games it offers access to?,setdelmar,1hc621b,https://reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/,https://www.reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/,2024-12-11 22:31:26,0,0.42,0,0,6,0,0,False,False,True,False,False,,self,t3_1hc621b
+webdev,"Web technologies that were the ""future"", but instead burned bright for a bit and died rapidly?",,zovered,1hbwczu,https://reddit.com/r/webdev/comments/1hbwczu/web_technologies_that_were_the_future_but_instead/,https://i.redd.it/nt7n5xufp86e1.png,2024-12-11 15:45:02,295,0.82,295,0,342,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/pdpVRvk-dZ1LCNmKtnxO0b88bDa0HNSBBSOmJ2CZsZY.jpg,t3_1hbwczu
+webdev,"I've been creating a gaming website recently, but I've realized that making games for the website isn't worth it.","I'm creating a gaming website, but I realized how tiring it is to create just one game, I have a total of 6 different projects in alpha that I don't think anyone would play for hours. 
+
+My question is, where can I find free games safely that I can use on my website without the risk of being sued?",argrun,1hc93v8,https://reddit.com/r/webdev/comments/1hc93v8/ive_been_creating_a_gaming_website_recently_but/,https://www.reddit.com/r/webdev/comments/1hc93v8/ive_been_creating_a_gaming_website_recently_but/,2024-12-12 00:55:30,81,0.8,81,0,72,0,0,False,False,True,False,False,Question,self,t3_1hc93v8
+webdev,How I got out of tutorial hell,"Don't get me wrong, tutorials are important when you are first starting your web development journey. They should not be where/how you build the majority of your projects from.
+
+This took me a long time to realize, I thought hiring managers and recruiters would find these projects interesting enough to give me a shot... I was very wrong.
+
+This realization is what got me out of tutorial hell, I realized that re-building an already made product that showcased no effective problem-solving skills of my own was going to get me no where.
+
+As someone who was in tutorial hell myself for a long time, I know how hard it is to think of what to build; it seems like everything that has a chance of being successful is already built.
+
+What I found best to building a successful project was fulfilling these requirements:
+
+1. I needed to be passionate enough to finish the project
+2. It needed to serve a particular unpopular niche to have the best chance with establishing presence for SEO to eventually have organic growth.
+
+What I landed on was a platform, similar to dribbble, where developers could easily find images from developers portfolios for inspiration.
+
+This was:
+
+✅ Something I was passionate about
+
+✅ Serving a purpose within a particular untouched niche
+
+Unfortunately, at the end I was left with a project with no users (of course) like a lot of projects we make. So I decided to take a leap and do what is known as ""building in public"".
+
+I made an X account, started to find users apart of the niche and directly messaged them about my project. This did not work at first as everyone's always a little skeptical being the first user on a new website.
+
+As I continued to publicly market my product on X, I decided to find ways to market my product directly to users email inboxes.
+
+Where I struck gold was finding this GitHub repository: [https://github.com/emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+
+This single repository got me my first 20+ users that helped establish the foundation of my site.
+
+The repository is filled with developers who uploaded their portfolio link, along with their name, to be publicly showcased. This was my niche served to me with no fluff.
+
+The approach I took was sincere when emailing users from this repository, clearly stating how I came across their email address, and portfolio site and why I thought they would be interested in my site.
+
+Within the email, I also included positive feedback I had from their site as I did have to browse it to find their email address.
+
+From this, I was then able to continue ""building in public"" with a decent enough level of success by eventually getting 80+ users and about 20k monthly visitors for my first month after launching my project.",yeahimjtt,1hc2fv1,https://reddit.com/r/webdev/comments/1hc2fv1/how_i_got_out_of_tutorial_hell/,https://www.reddit.com/r/webdev/comments/1hc2fv1/how_i_got_out_of_tutorial_hell/,2024-12-11 19:57:35,46,0.77,46,0,31,0,0,False,False,True,False,False,Discussion,self,t3_1hc2fv1
+webdev,Is there any way to efficiently query Firestore documents using both where() and limit() in React?,"I'm trying to optimize the read/writes from my restaurant management project, and I think I've run into a brick wall as they say.
+
+I'm using Firebase as my backend, and right now I'm working on the process of fetching and displaying items on a Menu to customers. It's easy enough to get all documents in the 'items' collection. And if I wanted the customers to be able to sort by categories I can simply use filter() for client side field validation.
+
+But what if I wanted to further optimize the reads I'm using up? I've thought about using limit() to either paginate or lazy load items in the menu so that at least the customer won't be getting all documents at once. However, since only the first *n* documents are loaded in, I can't properly use filter() since it will only show, say, items with a category of ""meat"" within the first *n* documents currently loaded as opposed to the first *n* items in the collection with category == ""meat"".
+
+I've also thought about combining where() and limit() to get items of a specific category and maybe incrementally adding those objects to a variable within React. But wouldn't restaurant menus usually start by displaying all items, and give customers the option to sort after? Besides, if I get the first *n* items with no specific category first and then add the first *n i*tems of one category after, won't that run the risk of duplicating objects within the variable? Checking if the document id already exists before adding it in the variable would also defeat the purpose of optimizing my reads as much as possible since we'd still be getting, say, 20 documents for 14 items (if 6 items in the second query already exists in the variable).
+
+I'm sure there are tools meant to solve this exact problem out there and Firebase even recommends services (albeit not free) in acknowledgement of their product's limitations, but I'm curious if anyone in this sub has any ideas or solutions that could help me.
+
+I should also maybe add that this is merely a practice project, so this is really just me seeing if there's anything I missed before I give up and move on.",niye,1hc3usx,https://reddit.com/r/webdev/comments/1hc3usx/is_there_any_way_to_efficiently_query_firestore/,https://www.reddit.com/r/webdev/comments/1hc3usx/is_there_any_way_to_efficiently_query_firestore/,2024-12-11 20:56:39,1,0.6,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1hc3usx
+webdev,"I’m afraid to open source the data for my website, should I be?","I have made a free price comparison website for SaaS dev tools. And as the different categories and all the providers keep growing it will reach a point where keeping this up to date stops scaling time wise for me alone.
+
+The project is still small-ish, but its growing and the requests for adding and updating data is growing as well.
+
+So I’m thinking of open sourcing the pricing data so others can contribute if they want to, to keep the data up to date, and letting people add new categories or providers themselves.
+
+But my worries is that in the day of AI assistants like v0 and bolt, the data source will be used to copy my little site and that it will be overtaken by others.
+
+Is this a legit worry, or is the potential upside of having the tool grow and be a good resource for the community too great?
+
+The target audience is developers so most of them can copy this pretty easily, its not complicated code. It’s the gathering of data that stops the copies I think.
+
+I’ve been thinking of adding APIs for adding data as well, but I dont really think people will use that, what do you think?
+
+The last resort would be to set up scraping to keep the data updated, not really a path I want to take.",skorpioo,1hbvi13,https://reddit.com/r/webdev/comments/1hbvi13/im_afraid_to_open_source_the_data_for_my_website/,https://www.reddit.com/r/webdev/comments/1hbvi13/im_afraid_to_open_source_the_data_for_my_website/,2024-12-11 15:06:28,0,0.4,0,0,6,0,0,False,False,True,False,False,,self,t3_1hbvi13
+webdev,How do you check which button on a previous page redirected you to the current page you’re on?,"Say I am on a page that has a couple different buttons, x, y, z. Each redirects me to the same page. If I click one, and the next page is rendered, how do I check which button was clicked to bring me there?
+
+  
+I know there is the [history API](https://developer.mozilla.org/en-US/docs/Web/API/History_API) but that doesnt solve my problem since tells me the previous page we were on, not the button on that page that was clicked.
+
+**Note**: I'd like to identify it programmatically, e.g. I don't want to go to the chrome dev tools or anything of the sort.",Tech-Cowboy,1hc0xf1,https://reddit.com/r/webdev/comments/1hc0xf1/how_do_you_check_which_button_on_a_previous_page/,https://www.reddit.com/r/webdev/comments/1hc0xf1/how_do_you_check_which_button_on_a_previous_page/,2024-12-11 18:54:40,4,0.7,4,0,8,0,0,False,False,True,False,False,,self,t3_1hc0xf1
+webdev,What are your favorite ways to build a landing page these days?,What are your fave ways to do this these days other than outsourcing it to an agency? V0? HTML lol? ,ApprehensiveTruth729,1hcf13i,https://reddit.com/r/webdev/comments/1hcf13i/what_are_your_favorite_ways_to_build_a_landing/,https://www.reddit.com/r/webdev/comments/1hcf13i/what_are_your_favorite_ways_to_build_a_landing/,2024-12-12 06:27:42,7,0.67,7,0,24,0,0,False,False,True,False,False,,self,t3_1hcf13i
+webdev,The Disappearance of an Internet Domain,,fagnerbrack,1hch608,https://reddit.com/r/webdev/comments/1hch608/the_disappearance_of_an_internet_domain/,https://every.to/p/the-disappearance-of-an-internet-domain,2024-12-12 09:08:21,31,0.81,31,0,10,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/nSnp8Zd8JLvKKgLi3-1Ar816ff8gdgzEn7rIcvkI2tE.jpg,t3_1hch608
+webdev,Text color is not changing,"I am trying to change the color of my text to white for `title1` and green for `title2`.
+
+here is my HTML
+
+        &lt;div id=""title""&gt;
+            &lt;div id=""title1""&gt;&lt;h1&gt;Generate a&lt;/h1&gt;&lt;/div&gt;
+            &lt;div id=""title2""&gt;&lt;h1&gt;Random Password&lt;/h1&gt;&lt;/div&gt;
+        &lt;/div&gt; 
+
+I want to able to change the color for the specific heading
+
+Here is my CSS of what I have done so far
+
+    #title1
+    {
+        margin: 0%;
+        width: 270px;
+        height: 60px;
+        display: flex;
+        justify-content: left;
+    }
+    
+    #title2
+    {
+        margin: 0%;
+        width: 270px;
+        height: 60px;
+        display: flex;
+        justify-content: left;
+    }
+    
+    #tite1#h2
+    {
+       color: white;
+    }
+
+The color will not change am I naming it right?
+
+Also is there a way I can adjust the space between title 1 and title 2?
+
+https://preview.redd.it/iiqzi80u1b6e1.png?width=674&amp;format=png&amp;auto=webp&amp;s=2777085c12aa69aff595747051d10bda555c7f66
+
+    #title2
+    {
+        margin: 0%;
+        width: 270px;
+        height: 60px;
+        display: flex;
+        justify-content: left;
+        border: 2px solid red;
+    }
+
+https://preview.redd.it/z4eja80u1b6e1.png?width=708&amp;format=png&amp;auto=webp&amp;s=ae27405825ac9f3a1cd6d9e597d474bc65217f48
+
+    #title2
+    {
+        margin: 0%;
+        width: 270px;
+        height: 60px;
+        display: flex;
+        justify-content: left;
+        border: 2px solid red;
+        position: relative;
+        bottom: 15px;
+    }
+
+https://preview.redd.it/2vrq67f12b6e1.png?width=694&amp;format=png&amp;auto=webp&amp;s=b6b2d8bb4f5adc59fb93c5c0dc6ac09de25094e9
+
+",TheEyebal,1hc7j9o,https://reddit.com/r/webdev/comments/1hc7j9o/text_color_is_not_changing/,https://www.reddit.com/r/webdev/comments/1hc7j9o/text_color_is_not_changing/,2024-12-11 23:38:35,0,0.27,0,0,7,0,0,False,False,True,False,False,,https://a.thumbs.redditmedia.com/k5l3xCeQID9aNz0GqpgKdtPi6orzr-wwvyk-EQ9BKt0.jpg,t3_1hc7j9o
+webdev,Cloudflare pages vs GitHub pages vs GitLab pages,These are 3 services I'm aware of that allow you to host a static site for free. Is there any reason to use one of them over the others?,citrus1330,1hc039k,https://reddit.com/r/webdev/comments/1hc039k/cloudflare_pages_vs_github_pages_vs_gitlab_pages/,https://www.reddit.com/r/webdev/comments/1hc039k/cloudflare_pages_vs_github_pages_vs_gitlab_pages/,2024-12-11 18:20:06,3,0.62,3,0,19,0,0,False,False,True,False,False,Question,self,t3_1hc039k
+webdev,"I don't produce optimal algorithms, how crucial is this in web dev? (Junior)","Junior full stack dev (back-end oriented) with 1.5 years of experience in freelancing.   
+I've recently started applying for full-time jobs, and they assess using coding problems. I get to the solution, but it is not optimal. In my little work experience, I've always been focused on getting things done in an appropriate time and resource, but not on optimizing them to the fullest.
+
+I've started recently to improve that by working on Leetcode problems but I still struggle with the output optimality, and I take a long time to solve even with easy problems.
+
+My question is:
+
+1- Is algorithm optimality a crucial factor in full-stack/back-end positions? Should my focus be targeted at something more important like working more on the languages/frameworks?
+
+2- Through practice, does this get better? My brain seems to get lost in working on complex algorithms and resort to brute force when blacked out. And, I still never got the hang of dynamic programming.
+
+  
+Appreciate your insights!
+
+",iAhMedZz,1hbwmca,https://reddit.com/r/webdev/comments/1hbwmca/i_dont_produce_optimal_algorithms_how_crucial_is/,https://www.reddit.com/r/webdev/comments/1hbwmca/i_dont_produce_optimal_algorithms_how_crucial_is/,2024-12-11 15:56:21,3,0.71,3,0,9,0,0,False,False,True,False,False,Question,self,t3_1hbwmca
+webdev,"This is the ideal server error message page. You may not like it, but this is what peak web design looks like.",,neutrino-weave,1hc8k39,https://reddit.com/r/webdev/comments/1hc8k39/this_is_the_ideal_server_error_message_page_you/,https://i.redd.it/jn48cuk3bb6e1.png,2024-12-12 00:28:11,129,0.86,129,0,52,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/WMgk9acjwdOcLAoubBHG5uon7h4G4fxHeClDK4Po9o4.jpg,t3_1hc8k39
+webdev,SOP for Exiting Clients,I am wondering what is a good uniform procedure that you guys use for clients that leave your services for hosting/website management/and Domain/DNS. Do you put them on another server for them to pay for and manage? Do you just hand them a copy of their website and give them 30-90 days to move it? Curious how everyone handles this. These are WordPress sites on Green Geeks,OkCompetition23,1hc53l0,https://reddit.com/r/webdev/comments/1hc53l0/sop_for_exiting_clients/,https://www.reddit.com/r/webdev/comments/1hc53l0/sop_for_exiting_clients/,2024-12-11 21:50:06,0,0.5,0,0,1,0,0,False,False,True,False,False,,self,t3_1hc53l0
+webdev,Testing reliability of HTML form,"How can I test the reliability of an HTML form handler? I have been using [formspree](https://formspree.io/) for my static HTML site to handle client inquiries, but I have been finding it quite unreliable. I tested it myself, and some emails do not go through, some are logged by formspree analytics as received at different days than when they actually were, and when I reply to the ones that do arrive, I often (but not always) get a ""failure"" notification regarding the formspree address that accompanies the actual address (of which may or may not be sending correctly). I have double checked the endpoint and it looks as it should, and I have contacted formspree support, but it seems I might be missing potential clients (and how could I know what I am missing?) I am not a tech-savy person. Are there simple ways to test the reliability of formspree? Can anyone recommend a better service or method of embedding a contact form? If this doesn't work out I will have to use Squarespace or some other overpriced clunky site-builder, which I'd prefer to avoid.
+
+Thanks in advance.",stockdizzle,1hc2lno,https://reddit.com/r/webdev/comments/1hc2lno/testing_reliability_of_html_form/,https://www.reddit.com/r/webdev/comments/1hc2lno/testing_reliability_of_html_form/,2024-12-11 20:03:43,0,0.5,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hc2lno
+webdev,Web based Code Editor for jQuery,"I had already build web based code editor for python and I used pyright as my LSP server.
+But I am trying to do some for jQuery code editor but it's not working as planned, I am trying to include in .addExtraLib in Monaco editor but it's not responding to the jQuery.ds.t .
+Can anyone help or is there someone who has done something like this that would mean a lot.
+
+Edit: jquery.d.ts *",peach_grandson_,1hci7v7,https://reddit.com/r/webdev/comments/1hci7v7/web_based_code_editor_for_jquery/,https://www.reddit.com/r/webdev/comments/1hci7v7/web_based_code_editor_for_jquery/,2024-12-12 10:29:07,0,0.33,0,0,1,0,0,False,False,True,False,False,Question,self,t3_1hci7v7
+webdev,"Alignment to a ""global"" grid?","I haven't ""laid out"" a website in some time and I'm starting work on a web app. A question popped up in my head: is it worth trying to align as much content as possible to a multiple of some base width/height (say 12px)? I.e., to a global grid of dividing the page up into multiples of 12, both horizontally and vertically? 
+
+Traditionally, I've tried to align as best as possible but acknowledge that outside of more controlled layout contexts like cards and lists that relative alignment and spacing between elements would suffice. 
+
+Honestly, I think it looks great when the content of the page seems to be universally aligned; it makes it much easier to parse and partition the page in my mind. 
+
+One caveat is that the width of the viewport isn't guaranteed or likely to be a multiple of 12, but this isn't a complete deal breaker when you see that most elements could still be aligned and that the only elements touching the left/right borders would likely be containers and it's sufficient if their content is aligned.
+
+My plan is to lay the page out with a combination of grid and flexbox, using grid for elements where there is a need for unambiguous arrangement, and then use multiples of the base unit (12) to space, pad or position things as best I can.
+
+Please feel free to discuss and let me know if I'm way off track; I'd appreciate it. I've been out of the web development ""game"" for a moment.",kizerkizer,1hc9g9s,https://reddit.com/r/webdev/comments/1hc9g9s/alignment_to_a_global_grid/,https://www.reddit.com/r/webdev/comments/1hc9g9s/alignment_to_a_global_grid/,2024-12-12 01:12:24,1,0.67,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1hc9g9s
+webdev,Looking for an open source project to support,"Hi guys I'm currently unemployed, and looking for a job, but while I am in the search I wanna know if there is any good open source project, that I can support with some code, I want to do something that makes me feel you know useful to avoid feeling alone and useless during the week. I am a developer of back-end in python Django/Flask and full stack in nodeJS, mainly  with React for front, and express for back and databases in SQL. If you know of some open source project something interesting, like blockchain, decentralized networks or edge to edge networks, I am specially curious about that kind of technologies. If you know any project, I would appreciate any information.",maxkalavera,1hc425f,https://reddit.com/r/webdev/comments/1hc425f/looking_for_an_open_source_project_to_support/,https://www.reddit.com/r/webdev/comments/1hc425f/looking_for_an_open_source_project_to_support/,2024-12-11 21:05:05,1,0.67,1,0,6,0,0,False,False,True,False,False,,self,t3_1hc425f
+webdev,pinterest marketing yay or nay?,"Is Pinterest marketing effective for promoting my web development business? I understand that Pinterest is primarily focused on areas like fashion, design, and food. However, I’d like to know if I can successfully promote my web development company on this platform. Will it generate leads into my website?",Open-Measurement9037,1hbybeg,https://reddit.com/r/webdev/comments/1hbybeg/pinterest_marketing_yay_or_nay/,https://www.reddit.com/r/webdev/comments/1hbybeg/pinterest_marketing_yay_or_nay/,2024-12-11 17:07:04,0,0.33,0,0,7,0,0,False,False,True,False,False,,self,t3_1hbybeg
+webdev,Are Microservices Feasible for a Budget-Conscious SaaS Project?,"Hi all,
+
+I’m building a SaaS platform and considering whether to use a microservices architecture or stick to a monolithic approach for the initial release. The platform involves several domains, such as user accounts, profiles, search, bookings, notifications, and payments, each of which could theoretically be its own service.
+
+**The Challenge:**  
+I’m working with a tight budget, and I also plan to set up multiple environments (e.g., development, staging, production), meaning hosting costs will multiply for databases and services. Additionally, I’m currently a solo developer, so while I see microservices as a great learning opportunity, I recognize they might not be strictly necessary for my initial launch.
+
+For context, I expect the launch period to handle no more than 10000 users, and that's if things go absurdly well. I’m not sure at what scale microservices actually make sense in terms of benefits outweighing the added complexity.
+
+One idea I’m exploring is using a single shared database backing domain-based services split into an ECS cluster. This could help me reduce hosting costs while still giving me a microservices-style structure. However, I want to avoid building myself into a corner where a future refactor to full microservices becomes unnecessarily painful.
+
+**Questions:**
+
+1. Is a monolithic architecture a better starting point for a SaaS project with budget constraints and modest user expectations?
+2. If I go with a single database backing multiple services, are there pitfalls I should watch out for?
+3. If full microservices are worth pursuing, what are the most cost-effective options for hosting databases for each service?
+   * Managed cloud databases like AWS RDS or Cloud SQL seem ideal but expensive for multiple services.
+4. Are there any platforms or tools that can help simplify managing a hybrid or microservices-based architecture while keeping costs low, especially for someone working solo?
+
+If you’ve faced similar trade-offs or have insights on balancing cost, complexity, and scalability, I’d love to hear your thoughts. Thanks!",troubleBreathin,1hby622,https://reddit.com/r/webdev/comments/1hby622/are_microservices_feasible_for_a_budgetconscious/,https://www.reddit.com/r/webdev/comments/1hby622/are_microservices_feasible_for_a_budgetconscious/,2024-12-11 17:01:11,1,0.67,1,0,10,0,0,False,False,True,False,False,,self,t3_1hby622
+webdev,Attribute {%if is not allowed here? and Attribute filter_vak is not allowed here?,"Can somebody help me fix this error? When I run the code in [app.py](http://app.py) everything works just fine.
+
+https://preview.redd.it/6d3zuh37n86e1.png?width=2940&amp;format=png&amp;auto=webp&amp;s=f074785ea728e4cc055227cc41f67142a4cefa92
+
+",Available_Giraffe_36,1hbw1n6,https://reddit.com/r/webdev/comments/1hbw1n6/attribute_if_is_not_allowed_here_and_attribute/,https://www.reddit.com/r/webdev/comments/1hbw1n6/attribute_if_is_not_allowed_here_and_attribute/,2024-12-11 15:31:10,1,0.67,1,0,9,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/4ULs8RoKKI3yisS-WxeCp414XgLKRsgbzdyX1ukrY3o.jpg,t3_1hbw1n6
+webdev,Is using &lt;canvas&gt; to render H5 elements the next level in web development?,,Kevin_Dong_cn,1hcdbq5,https://reddit.com/r/webdev/comments/1hcdbq5/is_using_canvas_to_render_h5_elements_the_next/,https://hightopo.com/demo/demo-lighting/,2024-12-12 04:40:32,0,0.25,0,0,2,0,0,False,False,False,False,False,Discussion,default,t3_1hcdbq5
+webdev,Developer (from a non web background) looking for framework suggestions for a side project,"Hey folks,
+
+I'm a developer, however my experience is not in the world of web development. I have a number of years of professional experience using Java/Javascript/C#/SQL/Bash and random other bits along the way.
+
+  
+This project falls outside of my career and is more of a pet hobby project. What I'm trying to do is just build a simple website/web app used to pull and filter various information from a Mysql database. The data is just membership data for a student organization I was involved with more than a decade ago. I've been keeping up with it as a favor since then as the individual who used to do it before is very senior at this point and has been relegated to an assisted living facility.
+
+  
+The original site was built using Drupal 7 ages ago and I've kept it up to date with whatever version they are on now I think its Drupal 10. But this variant of the site is just using static pages and is a pain in the ass to update when I have all of the data in a database anyway that has all of the appropriate relationships to generate any dataset with just a sql query.
+
+  
+I think most people who would be using it would be accessing from mobile devices and only using a desktop when they wanted to print off information so it needs to display well on mobile.
+
+  
+As of now the webhost which is being provided free of charge does not support Node.js. I can of course switch the host but free is a great price so if I can get something decent enough without moving that would be ideal.
+
+Looking for framework suggestions that ideally don't require node. I'm certain that I will not be creating the most fantastic site ever seen but I have enough development experience that I expect I can get something that works and does what I need once I fight with it for a bit. To set myself up with the best chance of success, I figured the professionals who actually exist in this world might be able to give me some good advice on some options to look at.",PineappleTuesday,1hcab2f,https://reddit.com/r/webdev/comments/1hcab2f/developer_from_a_non_web_background_looking_for/,https://www.reddit.com/r/webdev/comments/1hcab2f/developer_from_a_non_web_background_looking_for/,2024-12-12 01:55:35,2,0.75,2,0,14,0,0,False,False,True,False,False,,self,t3_1hcab2f
+webdev,Visual Studio Code November 2024,,feross,1hc12v9,https://reddit.com/r/webdev/comments/1hc12v9/visual_studio_code_november_2024/,https://code.visualstudio.com/updates/v1_96,2024-12-11 19:00:53,4,0.71,4,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/6IB_CZTKZbuzRyQXFwiBjf_ZxaHIcXGIItIwQrukqfs.jpg,t3_1hc12v9
+webdev,Talk me out of / into using an AI code bot,"Context: I run a small business as an acoustician (building acoustics) and currently have a simple wordpress site. For a long time I’ve been mind sketching a new site and have now landed in a design concept, which is extremely simple and minimalistic. However there seems to be no way to get there using the wordpress blocks etc. 
+
+The design includes one simple animation but other than that it’s just text and images. No fancy shopping carts and check out systems. I don’t even want a nav bar!
+
+Am I in a good position to jump on the AI coding train? The options I’ve seen so far all seem to circle around a design concept that’s not far from the standard wp themes but a bit fancier. But surely they should also be able to master something much more simplistic, although customisable? Roast please, thank you. ",Ok-Preparation5078,1hc3p83,https://reddit.com/r/webdev/comments/1hc3p83/talk_me_out_of_into_using_an_ai_code_bot/,https://www.reddit.com/r/webdev/comments/1hc3p83/talk_me_out_of_into_using_an_ai_code_bot/,2024-12-11 20:50:06,0,0.22,0,0,12,0,0,False,False,True,False,False,,self,t3_1hc3p83
+webdev,How do I make an “interactive” website?,"I won’t get into too many unnecessary details, but I will say it shares certain functionalities with websites like Letterboxd (e.g. friends/friend activity). What are the necessary steps to make something like that? I have essentially zero experience, so any and all tips are helpful and greatly appreciated. (Let me know if you need more information to give better advice.)",Fabulous_Quote_3634,1hc3ief,https://reddit.com/r/webdev/comments/1hc3ief/how_do_i_make_an_interactive_website/,https://www.reddit.com/r/webdev/comments/1hc3ief/how_do_i_make_an_interactive_website/,2024-12-11 20:42:15,0,0.14,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hc3ief
+webdev,Quote estimator with AI for a company.,"Hey Guys I’m training an AI in this case using chatgpt 4o for a Precast company. Since I lack of knowledge I may need some ideas to make a PHP website for them to be use for every user and work with the previously trained model for them to capture or taking screenshots (Snipping) for every structure inside a blueprint and them to autofill specific  details for estimation prices to be send it trough an email client. 
+
+Now like I said I’m still learning and I may miss some details but is it possible to do that? 
+
+Note: I’m able to read blueprints from chatgpt and chat is able to estimate the structure, but don’t know how to integrate that information for a PHP site.
+",Puzzled_Wasabi9288,1hc0v76,https://reddit.com/r/webdev/comments/1hc0v76/quote_estimator_with_ai_for_a_company/,https://www.reddit.com/r/webdev/comments/1hc0v76/quote_estimator_with_ai_for_a_company/,2024-12-11 18:52:05,0,0.14,0,0,7,0,0,False,False,True,False,False,Question,self,t3_1hc0v76
+webdev,Can one url/link/web-address go to different websites? ,"Read this in full:
+
+I am not a programmer so I don’t know much on Computer Science.
+
+I was wondering if when I enter a website address in the search bar, if I click enter I go to one website but if I type the same address on the same search bar on the same device, I would then go to a different website?
+
+
+So much so that it is up to random chance as to which website I will go to? What if the websites that the URL goes to alternate on timed intervals? ",PuzzleheadedThroat84,1hbwjwh,https://reddit.com/r/webdev/comments/1hbwjwh/can_one_urllinkwebaddress_go_to_different_websites/,https://www.reddit.com/r/webdev/comments/1hbwjwh/can_one_urllinkwebaddress_go_to_different_websites/,2024-12-11 15:53:24,0,0.14,0,0,12,0,0,False,False,True,False,False,Question,self,t3_1hbwjwh
+webdev,What is the name of this UI design style,"I came across this image and I'm curious about the name of the style it represents.
+
+Also, what do you think of the design itself? I’d love to hear your thoughts on it.
+
+[Sample image](https://preview.redd.it/56g73b75jd6e1.png?width=920&amp;format=png&amp;auto=webp&amp;s=a2cc082af484d99e4df08ed6fbee0ff355030940)
+
+",QuirkierLurker,1hcg94u,https://reddit.com/r/webdev/comments/1hcg94u/what_is_the_name_of_this_ui_design_style/,https://www.reddit.com/r/webdev/comments/1hcg94u/what_is_the_name_of_this_ui_design_style/,2024-12-12 07:57:25,37,0.93,37,0,19,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/ciIhg4EgCrlQJOL9Xk6kIOMC1deY9P8hjVko1GjJLjY.jpg,t3_1hcg94u
+webdev,WordPress CEO Rage Quits Community Slack After Court Injunction,,devolute,1hbzzyo,https://reddit.com/r/webdev/comments/1hbzzyo/wordpress_ceo_rage_quits_community_slack_after/,https://www.404media.co/wordpress-wp-engine-preliminary-injunction/,2024-12-11 18:16:16,544,0.97,544,0,133,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/PHE5moMjkjyaPmYBLGE40dQPtpE-ETB9Ax3iwBGKvwM.jpg,t3_1hbzzyo
+webdev,Need some help with website generators frameworks. ,"I have a pretty big project that is used to create websites based on existing templates  
+It consumes config, uses html/js/css templates and creates a static multi-page site
+
+The problem is that I am using Hugo  
+A couple of years ago it was sufficient for my purposes  
+But now I've run into a problem: I need more flexibility. The logic has gotten complex and threatens to get even more complex, and what I have is very tightly extended
+
+Are there any modern solutions for website generators that use the same scheme as I do (config + templates = a set of html, css and js)? I've heard something about React Templates, but I'm not sure about this thing
+
+I need something that: 
+
+* Can work with npm packages
+* Supports TS out of the box 
+* Can create multiple html, css and js files based on a given config based on given templates ",SomeFreakyName,1hcgttd,https://reddit.com/r/webdev/comments/1hcgttd/need_some_help_with_website_generators_frameworks/,https://www.reddit.com/r/webdev/comments/1hcgttd/need_some_help_with_website_generators_frameworks/,2024-12-12 08:41:54,4,1.0,4,0,1,0,0,False,False,True,False,False,,self,t3_1hcgttd
+webdev,Best method to add compression to photos?,"Were trying to have a image hosting website built for our small business and we're wanting how we can implement compression on our website. In idea world, the user can upload images with a limit (say, 20) and compress them to 2-5MB. This will help us save on storage and egress. 
+
+Does anyone have good examples of implementing this transformation/compression? Does it typically have a cost with it? ",IHateHPPrinters,1hc8gca,https://reddit.com/r/webdev/comments/1hc8gca/best_method_to_add_compression_to_photos/,https://www.reddit.com/r/webdev/comments/1hc8gca/best_method_to_add_compression_to_photos/,2024-12-12 00:23:06,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hc8gca
+webdev,Resolving circular dependencies programmatically? ,"I am working on a huge monorepo (800+ packages), which has a few thousand circular dependencies between projects. The whole thing compiles, so that mean, there are no file-level circular dependencies, but on the project level it is a different story. 
+
+Resolving everything by hand is impossible at that scale, so I am thinking of strategies that could make my life easier. I would like to have some programmatic approach to resolving circular dependencies, even if it is not a silver bullet, just some kind of script that I can write that would help me with the low hanging fruits.
+
+One issue I was thinking of, that would probably be the reason for the project level circular dependencies, is that there is too much unrelated code in a library, and it could indicate that certain packages should be decomposed further.
+
+Any thoughts on this or experience with resolving circular dependencies, especially at scale and maybe even programmatically?",haasilein,1hc6q8s,https://reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/,https://www.reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/,2024-12-11 23:01:03,4,0.84,4,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hc6q8s
+webdev,Newbie questions,"Okay so I want to build a website but know nothing about how any of this works.
+
+I have the domain all bought and everything, but now i need to actually apply the domain to a site.
+From the research I've done, WordPress is a great option, but from what I gather WordPress is only for design and not for hosting??
+
+So not only do I need the domain, but I need a hosting provider AND a website designer (like wordpress)? 
+
+It's all so confusing. If I sound like a dumbfuck, let me know and explain why cause I can't seem to get any clear answers online",ncxaesthetic,1hc4dy6,https://reddit.com/r/webdev/comments/1hc4dy6/newbie_questions/,https://www.reddit.com/r/webdev/comments/1hc4dy6/newbie_questions/,2024-12-11 21:19:14,1,1.0,1,0,7,0,0,False,False,True,False,False,Question,self,t3_1hc4dy6
+webdev,Responsive Image Carousel doing something funky with buttons - help!,"Here's a link to my files I'm working on:
+https://1drv.ms/f/c/e2ea1bda4edfd7d0/EtDX307aG-oggOJSzgIAAAABom_WPWh4D26_H3QyCXOs9w?e=MU1dp3
+
+I'm clearly not a pro developer, and haven't built anything since the days of Netscape Navigator. So here's my situation:
+
+- Responsive site, with an image carousel just below the navigation. I've used the carousel here: https://codepen.io/andrewchaika/pen/mEqRPz. And then modified/added to, etc. to fit my needs.
+- Placed on top of the carousel are a headline/subhead and a button link. These work great on desktop sizes. Since they don't fit on mobile, I moved them to underneath the carousel.
+- There are three images in the carousel. On image 1 &amp; 2, the buttons seem to be covered by something invisible. Changing the z-index doesn't help. On image 3, the button works fine!
+- [Check out this screenshot of the Firefox inspector.](https://1drv.ms/i/c/e2ea1bda4edfd7d0/Eau-iq7jgrZLkli1NRSG8b0BZd9WH0ItjtScxGj6pZGx7A?e=cPgrvI). The second and third carousel item seem to be anchored below the first, but invisible.
+
+Things I've tried:
+
+- Adjusting the z-index for the buttons. No effect.
+- Using a display: none on the other two carousel states, but that seems to just make the entire thing invisible.
+
+Any ideas and suggestions are very welcome!",GoatTnder,1hc3il1,https://reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/,https://www.reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/,2024-12-11 20:42:27,2,1.0,2,0,2,0,0,False,False,True,False,False,Question,self,t3_1hc3il1
+webdev,WebKit Features in Safari 18.2,,feross,1hc0ds4,https://reddit.com/r/webdev/comments/1hc0ds4/webkit_features_in_safari_182/,https://webkit.org/blog/16301/webkit-features-in-safari-18-2/,2024-12-11 18:32:04,4,0.76,4,0,3,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/t_9G9e6_21Ltl_7iHdRQnXe1a2dIr-KTSQg7Ej9wdD0.jpg,t3_1hc0ds4
+webdev,Trying to create animation of cursor clicking through UI flow,"I'm working on a landing page and want to create an animation that shows a cursor clicking and entering text into a search bar, clicking on results, and so on...
+
+I would like it to be vector illustrated so it looks sharp. 
+
+I'm not sure what tools are available to accomplish this. I was looking at Framer Motion, but it seems like I'll need to code the actual elements and animate them. Which is fine - since I'm a coder, I should be handle that. But I'm just wondering if there are easier ways.
+
+TIA",bttf88,1hbvtt0,https://reddit.com/r/webdev/comments/1hbvtt0/trying_to_create_animation_of_cursor_clicking/,https://www.reddit.com/r/webdev/comments/1hbvtt0/trying_to_create_animation_of_cursor_clicking/,2024-12-11 15:21:26,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1hbvtt0

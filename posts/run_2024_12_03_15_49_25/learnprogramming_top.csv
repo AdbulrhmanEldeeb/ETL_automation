@@ -1,0 +1,822 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,From Tutorial Hell to Subscription Hell to AI Hell: My Journey of Learning Nothing,"They said: ""Leave YouTube tutorials and learn from well-structured paid courses."" So, I left tutorial hell and felt relieved—finally, some direction! However, I soon found myself in a new trap: subscription hell. These courses were indeed well-structured but offered no practical or real-life projects. Tic-Tac-Toe, calculators, hangman games—basic syntax and logic, but nothing that felt like genuine progress.
+
+Frustrated, I sought out more serious and professional paid subscriptions, believing they would provide profound and comprehensive knowledge. Yet, I was met with courses spanning 80 hours of videos (seriously?) and still no meaningful success. Desperate for progress, I turned to platforms like DataCamp, only to find their content too shallow and overly simplistic. Real-life problems are vastly different from what these resources cover.
+
+Seeing no progress and feeling increasingly unmotivated, I found myself drowning in an endless sea of YouTube tutorials, paid subscriptions, and shallow content. Then came ChatGPT. At first, it felt like a breakthrough—it solved my problems on demand. But even then, I found myself struggling to truly understand the code or grasp the deeper concepts. It felt like I was forgetting what programming was even supposed to be.
+
+Now, I’m still determined to learn programming but plagued by confusion. Should I start with Java and then move to Python? Or begin with Python because it's supposedly easy and ubiquitous? And yet, Python's syntax feels clunky and unbearable to me. Why am I stuck in this endless cycle of `if`, `else`, and first-class syntax?
+
+Am I missing something? Why can’t I break out of this loop?",Prestigious_Flow_465,1h51yoc,https://reddit.com/r/learnprogramming/comments/1h51yoc/from_tutorial_hell_to_subscription_hell_to_ai/,https://www.reddit.com/r/learnprogramming/comments/1h51yoc/from_tutorial_hell_to_subscription_hell_to_ai/,2024-12-02 18:30:45,110,0.9,110,0,22,0,0,False,False,True,False,False,Resource,,t3_1h51yoc
+learnprogramming,Just wanna be a great programmer,"I know this question might seem a bit silly and ordinary, but I really want to ask it. I'm genuinely passionate about software, programming, and especially game development. I believe I have a good understanding of these areas and that I'm quite detail-oriented. Before starting to learn programming, it makes sense to evaluate career opportunities first. Which programming language would you recommend starting with to become a game developer? (Some people say Rust will be very promising in the future. Do you think I should start with Rust?) If breaking into the gaming industry is too challenging, which other language or sector in programming should I focus on?
+
+I'd appreciate it if you could also recommend some resources to help me get started learn effectively.
+",Lermoni,1h57uza,https://reddit.com/r/learnprogramming/comments/1h57uza/just_wanna_be_a_great_programmer/,https://www.reddit.com/r/learnprogramming/comments/1h57uza/just_wanna_be_a_great_programmer/,2024-12-02 22:31:42,94,0.87,94,0,69,0,0,False,False,True,False,False,,,t3_1h57uza
+learnprogramming,How do i make Programming fun and my addiction  ,"hello there this may sound idoitic but for some reason i am not finding programming engaging and im getting lazy over it. I have good knowledge over some of the programming language like C++,C, python and little bit in java. so can you suggest me to make programming more addicting for me i want to make it my addiction..   ",PhewSucks,1h5kjid,https://reddit.com/r/learnprogramming/comments/1h5kjid/how_do_i_make_programming_fun_and_my_addiction/,https://www.reddit.com/r/learnprogramming/comments/1h5kjid/how_do_i_make_programming_fun_and_my_addiction/,2024-12-03 10:34:32,50,0.8,50,0,46,0,0,False,False,True,False,False,,,t3_1h5kjid
+learnprogramming,I want to know. What exactly is a Framework ?,"Hello everybody.  
+I'm a beginner in programming. I did some novice web development in my life but nothing crazy. I like to watch web development related content, and one word I hear a lot is ""Framework"", followed by examples such as React, Laravel, Next.js, Spring, etc...
+
+I have several questions regarding that :
+
+* What's the main purpose of framework ?
+* What happened if we code a project without a framework ?
+* What's the difference between a Front/Back-end framework and meta framework ?
+* Are there frameworks for a framework ?
+
+Thanks.  
+ ",DonCABASH,1h5ifnr,https://reddit.com/r/learnprogramming/comments/1h5ifnr/i_want_to_know_what_exactly_is_a_framework/,https://www.reddit.com/r/learnprogramming/comments/1h5ifnr/i_want_to_know_what_exactly_is_a_framework/,2024-12-03 07:55:18,49,0.93,49,0,34,0,0,False,False,True,False,False,,,t3_1h5ifnr
+learnprogramming,Programming and coding for kids.,What are some things I can buy my 9 year old who is very smart with tech? He wants to learn coding. His teacher told me he is very smart with technology and I should start him now.,EducationalYear5095,1h5arki,https://reddit.com/r/learnprogramming/comments/1h5arki/programming_and_coding_for_kids/,https://www.reddit.com/r/learnprogramming/comments/1h5arki/programming_and_coding_for_kids/,2024-12-03 00:41:30,11,0.82,11,0,33,0,0,False,False,True,False,False,,,t3_1h5arki
+learnprogramming,Where are these weird numbers coming from? (simple C adding program),"Hi all
+
+So I'm just beginning to dip my toes into C here, and after my obligatory Hello World program I decided to try something a little more ambitious using `scanf` and a simple function. Well, after a frustrating couple of hours of weeding the syntax errors out of an ostensibly stupid simple add-two-numbers program (that I came up with *without* referring to a tutorial) I got something that successfully compiled. I'm sure I did everything wrong anyway, but the results are particularly peculiar. Here's the program:
+
+    #include &lt;stdio.h&gt;
+    int sum (int a, int b, int answer);
+    int main ()
+    {
+        int a;
+        int b;
+        int answer;
+        printf (""Enter two numbers dammit: "");
+        scanf (""%d, %d"", &amp;a, &amp;b);
+        printf (""The two numbers are: %d, %d"", a, b);
+        printf (""The answer is: %d"", answer);
+        printf (""\n"");
+        return 0;
+    }
+    int sum (int a, int b, int answer)
+    {
+        answer = a + b;
+        return answer;
+    }
+
+And here is what I get:
+
+    Enter two numbers dammit: 3 5
+    The two numbers are: 3, 708928112The answer is: 32766
+
+Wtf?
+
+I'm guessing it has to do with either a poorly written function or something having to do with `scanf` . Specifically something about the variables and the `&amp;a / &amp;b` variables vs `a / b` as I understand that the &amp; signifies that they're pointers to the actual variable values. I still don't understand a lot of that stuff, so please feel free to pick this piece of crud apart and tell me where I screwed up, I'd be most appreciative. Thx",Professional-Poem-73,1h584ej,https://reddit.com/r/learnprogramming/comments/1h584ej/where_are_these_weird_numbers_coming_from_simple/,https://www.reddit.com/r/learnprogramming/comments/1h584ej/where_are_these_weird_numbers_coming_from_simple/,2024-12-02 22:42:50,9,0.75,9,0,15,0,0,False,False,True,False,False,,,t3_1h584ej
+learnprogramming,At a point in my programming learning career where I’m starting to dream in code,"Not kidding, what does this mean. Should I be medicated? ",Dahvoun,1h4xwrz,https://reddit.com/r/learnprogramming/comments/1h4xwrz/at_a_point_in_my_programming_learning_career/,https://www.reddit.com/r/learnprogramming/comments/1h4xwrz/at_a_point_in_my_programming_learning_career/,2024-12-02 15:45:33,10,0.66,10,0,15,0,0,False,False,True,False,False,,,t3_1h4xwrz
+learnprogramming,Does anyone else do this?,"I’m learning to code through a course on udemy and when the instructor tells me to try to tackle a coding problem by myself, I immediately look at the solution then type the code by memory… when I get stuck again, I go back to the solution and back to the task. I even practice on previous coding challenges; doing them by memory, but I don’t look at the solution because the coding makes sense.
+
+Is this an effective or ineffective way to learn programming?",a_mangia17,1h5f4h3,https://reddit.com/r/learnprogramming/comments/1h5f4h3/does_anyone_else_do_this/,https://www.reddit.com/r/learnprogramming/comments/1h5f4h3/does_anyone_else_do_this/,2024-12-03 04:22:22,9,0.67,9,0,40,0,0,False,False,True,False,False,,,t3_1h5f4h3
+learnprogramming,Should someone with a good job start to learn programming?,"Well as the title says I’m 24 years old mechanical engineer, I currently work within my major so far it’s good fair payments etc,
+Since my graduation project has been ML related I got briefly introduced to python which i liked alot, I always read articles when I have the time about AI/ML/DATASCIENCE etc 
+Is it worth it to self-learn those things with only 2-4 hours on my hand or will i be too late for the field by the time I get good at medium level concepts? or is there any other approach? ",JJZ124434,1h5ipxd,https://reddit.com/r/learnprogramming/comments/1h5ipxd/should_someone_with_a_good_job_start_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h5ipxd/should_someone_with_a_good_job_start_to_learn/,2024-12-03 08:16:21,7,0.74,7,0,21,0,0,False,False,True,False,False,,,t3_1h5ipxd
+learnprogramming,Is programming really for me?,"I've been pursuing a Computer Information Science degree since last fall, and I'm starting to lose motivation. This degree would be my second, and I started coding because it piqued my interest, and seemed like a good career change opportunity. I don't code for fun, I don't work on side projects. The extent of coding I get done is almost entirely schoolwork (and now work) based.
+
+I recently landed a job as a Data Analyst and I get to code a bit at work which is satisfying, but I find my motivation for school and coding is gone. I worry that I wasn't in love with coding, I was in love with the idea of adding skillsets until I found a new job. How can I find out if coding/software development is truly for me?",P0L4Rraps,1h5nmec,https://reddit.com/r/learnprogramming/comments/1h5nmec/is_programming_really_for_me/,https://www.reddit.com/r/learnprogramming/comments/1h5nmec/is_programming_really_for_me/,2024-12-03 13:40:41,9,0.85,9,0,10,0,0,False,False,True,False,False,,,t3_1h5nmec
+learnprogramming,Automate PDF Processing,"In my job, I often have to work with a booklet that is 11x17, folded in half. I often will scan the full 11x17 pages double sided through the document feeder, then crop them in Adobe Reader and rearrange them in the proper order. This can be very time consuming, but is till better than stapling the booklet back together, folding the pages and scanning them one at a time on the glass.
+
+Theoretically, I'd like to create a program that will automate this. Taking the 11x17 pages, dividing them in half along the x axis, and arranging them in a given order.
+
+I do not have any programming knowledge at all, just a nagging sense that there has got to be an easier way to do this. Do you have any advice, or very basic steps to get me started?",losisco,1h5a5e7,https://reddit.com/r/learnprogramming/comments/1h5a5e7/automate_pdf_processing/,https://www.reddit.com/r/learnprogramming/comments/1h5a5e7/automate_pdf_processing/,2024-12-03 00:12:43,6,0.81,6,0,4,0,0,False,False,True,False,False,,,t3_1h5a5e7
+learnprogramming,Why is game written in Assembly faster that game written in other compiled langauge?,"I saw a video about [RollerCoaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)) video game that is written Assembly, where the video creator stated that it's very fast due to this. If all compiled languages that are compiled into machine code and note some intermediary code like Java bytecode, why there are differences in performance between them?",4r73m190r0s,1h5nand,https://reddit.com/r/learnprogramming/comments/1h5nand/why_is_game_written_in_assembly_faster_that_game/,https://www.reddit.com/r/learnprogramming/comments/1h5nand/why_is_game_written_in_assembly_faster_that_game/,2024-12-03 13:23:40,8,0.73,8,0,16,0,0,False,False,True,False,False,,,t3_1h5nand
+learnprogramming,Help with protection against CSRF and XSS attacks,"    builder.Services.AddControllersWithViews(options =&gt;
+    {
+        options.Filters.Add(new Microsoft.AspNetCore.Mvc.AutoValidateAntiforgeryTokenAttribute());
+    });
+
+If I have this code in my Program.cs-file \^\^.  Will all my Controller-methods automatically be protected from CSRF and XSS attacks by default? Or do I have to add:
+
+    [ValidateAntiForgeryToken]
+
+... infront of all my methods?",mgfvn,1h5m1yb,https://reddit.com/r/learnprogramming/comments/1h5m1yb/help_with_protection_against_csrf_and_xss_attacks/,https://www.reddit.com/r/learnprogramming/comments/1h5m1yb/help_with_protection_against_csrf_and_xss_attacks/,2024-12-03 12:14:39,3,1.0,3,0,2,0,0,False,False,True,False,False,,,t3_1h5m1yb
+learnprogramming,Question about storing data,I'm trying to store many mp3 files into a website's database. Is there a more efficiency way to do this?,UnViandanteSperduto,1h5lx0c,https://reddit.com/r/learnprogramming/comments/1h5lx0c/question_about_storing_data/,https://www.reddit.com/r/learnprogramming/comments/1h5lx0c/question_about_storing_data/,2024-12-03 12:06:12,3,1.0,3,0,8,0,0,False,False,True,False,False,Solved,,t3_1h5lx0c
+learnprogramming,is it possible to create DATA STRUCTURE CONCEPTS from scratch without prior knowledge?,"# conclusion
+
+Edit2: I've worded many parts of this post in a bad way, so now this is basically my conclusion/decision to hopefully clear up my question.  
+\--How should I go about creating my own implementations of ""data structures, methods, and algorithms""  
+before learning them?--  
+the main purpose of my post was to figure what I wanted. I thought I wanted to learn basic functions in C to try recreate data structures.  
+I've now come to realize that I only want to create my own implementations of existing data structs, algorithms, and methods.  
+I've decided to roughly to follow idea 2, and along with some suggestions/guides from others.
+
+**Yapp** (this is just me yapping)  
+honestly the rest of my post from here has become a mess and confusion to anyone trying to read and know what I'm asking. I'm considering restructuring the whole thing to clean it up but that will probably make it worse.  
+I have my answer now and my post is \[**SOLVED**\] so I will just leave it alone.  
+thanks to everyone for the help, and suggestions. my wishes have been fulfilled and my gratitude shall be.., for as long as I remember.  
+\---
+
+Edit1: After reading some of the replies I have a better idea of my question  
+\-what fundamentals (in C or other lang) like **pointers, memory allocation, etc..**  
+do I need to know to try create my own implementations of common **data structures.**
+
+I will be learning them in my own time I would just like a rough list of which functions and concepts are used to make the data structures without learning the data structures themselves.
+
+# original question:
+
+I know what I want but I don't know the right question but basically..
+
+I want to try and create data structures (in C),  
+Without learning them or following a tutorial.
+
+so no prior knowledge on how to make them but I know generally what they are (lists, arrays, dicts, ...) and the basic methods (append, insert, delete, etc..).
+
+Sort of like re-inventing the wheel,, maybe?(idk).
+
+If anyone (that's learnt data structures and such) thinks this is a fools errand and has an alternative suggestion they think is better please write. I'm open to suggestions and not absolutely set on this path.
+
+# Disclaimer
+
+I will be searching for materials and thinking of ways to do this. I'm just posting in here because it will be a lot easier for someone who already knows the structure and insights of data structures to tell me what is needed **before** I learn the data structures.
+
+# Idea 1
+
+My first idea of navigating this is to learn the things you need to know to make/write data structures..  
+(pointers, the stack, and functions that work with those)  
+*I don't know much of the things (functions, structures, etc) needed to write them,*  
+*because learning about those would probably include learning a data structure which I want to try*  
+*create myself without prior knowledge.*
+
+*I will do some searching for those after this post.*  
+\- then choose a data structure and see what it does on the surface, basic input and output  
+and try to recreate the 'inner' code for the data struct and then the methods for that struct
+
+# Idea 2
+
+edit1()  
+learn 1 or two of the basic data structures then look at a 3rd one and how it works but not how to implement it.  
+and create my own implementation  
+~~and what it does from a surface level perspective and try to recreate the inner workings~~ .
+
+# --
+
+\-some may think it's 'better' (more efficient) to just learn them and focus on how to utilise them. But this is just something I think will be fun..
+
+If anyone would be so kind to humor me. I would be much obliged. ;)
+
+**side notes**
+
+programming is a hobby for me. I've briefly learned the basics of python3, and have done a handful of scripting projects(AHKv2). So I'm not really worried about trouble learning the fundamentals of C but more-so focused on knowing what I need to learn.
+
+I am considering to do the same with sorting-algorithms and the like. if anyone has any comment on that but I think I'll save that for another time/post.",xtyzii,1h5jpot,https://reddit.com/r/learnprogramming/comments/1h5jpot/is_it_possible_to_create_data_structure_concepts/,https://www.reddit.com/r/learnprogramming/comments/1h5jpot/is_it_possible_to_create_data_structure_concepts/,2024-12-03 09:32:53,3,1.0,3,0,18,0,0,False,False,True,False,False,,,t3_1h5jpot
+learnprogramming,What should i cover to do good on C programming exam,"What should i cover to do good on c programming exam
+
+Tomorrow 10am is my exam and i have covered syllabus till 1d array and basics of string and this Is syllabus 
+
+Final Examination Information
+Duration – 2 to 2:30 hours
+Format – Closed book in two parts
+Part-I (50% weightage)
+MCQ –covers the material from the whole course. Negative marking (+3, -1 for each question)
+Part-II (50% weightage)
+Questions in the
+form of writing short codes, fill in the blanks, compute the output of the code fragment, find error in the code, and a few descriptive questions.
+Topics: 
+
+*Pointers, arrays, strings, relationship between pointers and arrays, array of strings, 2-d arrays, pointer to pointers. Structures. Functions, command line arguments, recursion, linked list. File handling, bitwise operators, function pointers, dynamic memory allocation*
+
+I’m planning on covering syllables first from college wallah playlist….should i?? And I don’t have any source for questions or should i just focus on covering syllables ",anime_hentai__,1h5i5k7,https://reddit.com/r/learnprogramming/comments/1h5i5k7/what_should_i_cover_to_do_good_on_c_programming/,https://www.reddit.com/r/learnprogramming/comments/1h5i5k7/what_should_i_cover_to_do_good_on_c_programming/,2024-12-03 07:34:33,3,1.0,3,0,7,0,0,False,False,True,False,False,,,t3_1h5i5k7
+learnprogramming,Can't solve certain types of problems no matter how much i try to think,How to get good at recursions and backtracking questions? like the ones where you generate some particular permutations and combinations based off some conditions already given cuz there's no way i can picture every step in my brain ,Ambitious_Meeting219,1h5htpx,https://reddit.com/r/learnprogramming/comments/1h5htpx/cant_solve_certain_types_of_problems_no_matter/,https://www.reddit.com/r/learnprogramming/comments/1h5htpx/cant_solve_certain_types_of_problems_no_matter/,2024-12-03 07:10:35,3,1.0,3,0,6,0,0,False,False,True,False,False,Topic,,t3_1h5htpx
+learnprogramming,Internship interview question,"I have an interview coming up next week for an internship interview for e commerce for a company. It says it’s a 30 minute interview, what should I expect? Will this be a real technical interview or a more “let’s get to know you.” Kind of thing?",B-Rythm,1h50emo,https://reddit.com/r/learnprogramming/comments/1h50emo/internship_interview_question/,https://www.reddit.com/r/learnprogramming/comments/1h50emo/internship_interview_question/,2024-12-02 17:28:45,2,0.67,2,0,8,0,0,False,False,True,False,False,Topic,,t3_1h50emo
+learnprogramming,Setting a general template for a class of buttons in WPF,"Hi, I've created a class of button and want to apply a style to every button within this class. However, I'm a beginner with C# and XAML, and so I'm quite clueless as to how to create a style template that can be applied to the class as a whole, then built upon individually. Each of my attempts hasn't resulted in any build errors, but when the program is run, the button is just displayed in the default format.
+
+If possible, I'd be really grateful for any suggestions as to what I can do, thanks!!",VeryFunnyFrog,1h5o37u,https://reddit.com/r/learnprogramming/comments/1h5o37u/setting_a_general_template_for_a_class_of_buttons/,https://www.reddit.com/r/learnprogramming/comments/1h5o37u/setting_a_general_template_for_a_class_of_buttons/,2024-12-03 14:03:18,3,1.0,3,0,0,0,0,False,False,True,False,False,Tutorial,,t3_1h5o37u
+learnprogramming,Best Way to Start Mobile App Development as a 3rd Year CS Student ?,"Hi everyone! I'm in my 3rd year of CS and looking to dive into mobile app development. I have moderate experience building web projects using React, Node, and Express. What would be a good tech stack to start with for mobile apps? Any frameworks, tools, or tips you’d recommend for a beginner? Appreciate any guidance !",LegitimateBoy6042,1h5nfoc,https://reddit.com/r/learnprogramming/comments/1h5nfoc/best_way_to_start_mobile_app_development_as_a_3rd/,https://www.reddit.com/r/learnprogramming/comments/1h5nfoc/best_way_to_start_mobile_app_development_as_a_3rd/,2024-12-03 13:30:52,2,1.0,2,0,4,0,0,False,False,True,False,False,,,t3_1h5nfoc
+learnprogramming,Is there a leetcode like set of problems with a smoother difficulty curve?,"I'm luckily not interested in using leetcode to get a job, I did like just hopping on once or twice a day and solving a small problem for a short amount of time.
+
+My issue with leetcode is the difficulty ranges from 'this is a trivial problem' to 'oh if you know this trick its easy i guess, but who would know something so esoteric?', for example:
+
+https://leetcode.com/problems/roman-to-integer/description/
+
+is classified as an easy, but if you take a look at the solutions / commentary, I think the sentinment agrees this was far from easy, I found this out after about an hour+ of sinking into the problem.
+
+Either way, what I'm asking for likely doesn't exist, but would be neat if it did.",oreosss,1h5lzuv,https://reddit.com/r/learnprogramming/comments/1h5lzuv/is_there_a_leetcode_like_set_of_problems_with_a/,https://www.reddit.com/r/learnprogramming/comments/1h5lzuv/is_there_a_leetcode_like_set_of_problems_with_a/,2024-12-03 12:10:59,2,1.0,2,0,9,0,0,False,False,True,False,False,Resource,,t3_1h5lzuv
+learnprogramming,PRNG in X: Getting used to a new language's essential syntax.,"Hi there! I'm mostly a C and x86\_64 assembly dev who's been dabbling in Rust, but I had a random idea - write a very small project which I'm very familiar with, an LCG PRNG, once in a bunch of different languages.
+
+A PRNG, if you don't know already, is a pseudo-random number generator, and is essentially a group of algorithms which define how computers generate ""random"" numbers. Note the quotes and the word *pseudo* because they aren't really random - they start with a seed value, which is often the time, then generate the next random number based on that, the next one based on that previous one, and so on. LCG, or linear congruential generator, is a very very simple algorithm for PRNGs (see the wikipedia page here: https://en.wikipedia.org/wiki/Linear\_congruential\_generator).
+
+My concept is this: A very very simple program, a PRNG, implemented in various different languages (so far: x86\_64 NASM assembly, C, C++, Rust, Java, Go, JavaScript, and Python), which makes for a very easy way to learn the syntax. No heavy commenting besides one at the start of the file and at the start of each function, no huge explanation, no complicated concepts of the language. Just the essential syntax.
+
+Hopefully this is useful to at least one person. **Please note** that I am not an expert at all these languages, and as I've said near the start, most of my knowledge is in C and Assembly, meaning that some of the implementations in other languages may not be perfect. If you see something wrong, feel free to leave a comment or open a pull request.
+
+Here's the link btw: [https://github.com/UnmappedStack/PRNG-in-X](https://github.com/UnmappedStack/PRNG-in-X)
+
+Sorry if this sounded spammy, that genuinely wasn't the goal and I believe I have complied with all the server rules.",UnmappedStack,1h5lo45,https://reddit.com/r/learnprogramming/comments/1h5lo45/prng_in_x_getting_used_to_a_new_languages/,https://www.reddit.com/r/learnprogramming/comments/1h5lo45/prng_in_x_getting_used_to_a_new_languages/,2024-12-03 11:51:14,2,0.75,2,0,0,0,0,False,False,True,False,False,,,t3_1h5lo45
+learnprogramming,Breaking into ML/DL: Advice and Guidance Needed!,"I want to start studying Python, but I'm also really interested in Machine Learning and Deep Learning, and I'm not sure where to begin. I don't know what resources to use or what topics to focus on first. I'm feeling a bit overwhelmed by all the online tutorials and courses out there. To be honest, I'm also intimidated by the vast online communities and forums - I'm scared of asking 'dumb' questions and being left alone in the crowd. I'm really interested in applying my knowledge by working on projects, but I don't really know what kind of projects to start with or what problems to try and solve. Can anyone suggest a good starting point for a beginner like me? What are some essential Python libraries or ML/DL concepts that I should focus on first? Are there any online communities or forums that are welcoming to newcomers? Any advice or recommendations on project ideas or resources would be greatly appreciated.",DeMarcus_C,1h5buei,https://reddit.com/r/learnprogramming/comments/1h5buei/breaking_into_mldl_advice_and_guidance_needed/,https://www.reddit.com/r/learnprogramming/comments/1h5buei/breaking_into_mldl_advice_and_guidance_needed/,2024-12-03 01:32:54,2,0.75,2,0,1,0,0,False,False,True,False,False,,,t3_1h5buei
+learnprogramming,Songwriter application ...,"I want to create my own application for writing songs and am not sure what tools to use. App just needs to allow input of lyrics, with Chord above. Several apps like this on the market but as a new developer, I'd like to use this as a way to learn. Thoughts?",ML-1890,1h4xt8r,https://reddit.com/r/learnprogramming/comments/1h4xt8r/songwriter_application/,https://www.reddit.com/r/learnprogramming/comments/1h4xt8r/songwriter_application/,2024-12-02 15:41:18,2,0.75,2,0,7,0,0,False,False,True,False,False,,,t3_1h4xt8r
+learnprogramming,Help beginners develop their frontend skills (CSS tutorials),"CSS tutorials.....  
+✔️ Source code provided  
+✔️ Design with beautiful, responsive CSS  
+✔️ Beginner friendly  
+📌 Watch now and start creating: [https://youtu.be/0j8SkdI4720?si=a4vb5Ub0saJwye2J](https://youtu.be/0j8SkdI4720?si=a4vb5Ub0saJwye2J)  
+👉 Don’t forget to like, share, and subscribe for more frontend tutorials! 💻 #FrontendDevelopment #HTML #CSS #WebDesign #CodingTutorials #ResponsiveDesign",MORAX9,1h5pchf,https://reddit.com/r/learnprogramming/comments/1h5pchf/help_beginners_develop_their_frontend_skills_css/,https://www.reddit.com/r/learnprogramming/comments/1h5pchf/help_beginners_develop_their_frontend_skills_css/,2024-12-03 15:00:55,4,1.0,4,0,0,0,0,False,False,True,False,False,,,t3_1h5pchf
+learnprogramming,Where to start a project?,"I know the answer may be obvious, but I need to receive it clearly. I'm starting to study programming and JavaScript with nodejs is my start.
+
+I have some projects in mind (some already exist, but I want to try them on my own) but I don't know where to start. Should I think about the tools I will use? in the project logic?
+
+Another question, is it worth studying 2 languages ​​at the same time? I'm thinking about starting C too...",Nice_Nefariousness97,1h5ouos,https://reddit.com/r/learnprogramming/comments/1h5ouos/where_to_start_a_project/,https://www.reddit.com/r/learnprogramming/comments/1h5ouos/where_to_start_a_project/,2024-12-03 14:38:53,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1h5ouos
+learnprogramming,Do you think I will be able to do what he did but on mobile ,"I have no experience with coding and really need help 
+
+https://m.youtube.com/watch?v=UTqAF8VgBxM&amp;t=39s&amp;pp=2AEnkAIB",Dandadan0,1h5otvx,https://reddit.com/r/learnprogramming/comments/1h5otvx/do_you_think_i_will_be_able_to_do_what_he_did_but/,https://www.reddit.com/r/learnprogramming/comments/1h5otvx/do_you_think_i_will_be_able_to_do_what_he_did_but/,2024-12-03 14:37:51,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h5otvx
+learnprogramming,Can someone please help me with my OOPS assignment idea? ,"I am in my first year of engineering, all i have learned till now is C. So we got an assignment to create a word doc on any topic of our own wish related to 'OOP', i forgot about it and i have submission 2 days later, i dont know where to start, can anyone please guide me?, someone suggested me to do it on encapsulation as it is very similar to structure edit: sorry for the typo 'oops', just my habit kicked in",AlmondNut001,1h5o9mp,https://reddit.com/r/learnprogramming/comments/1h5o9mp/can_someone_please_help_me_with_my_oops/,https://www.reddit.com/r/learnprogramming/comments/1h5o9mp/can_someone_please_help_me_with_my_oops/,2024-12-03 14:11:49,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h5o9mp
+learnprogramming,"Please help, Coursera says my answer is incorrect. ","I'm doing course from University of Michigan on Coursera, about API in Python.  
+Task is to get plus code for ""University of Arkansas"". In example they give ""South Federal University"" and plus code is ""6FV8QPRJ+VQ"". My code gives out the same thing. Yet my answer about ""University of Arkansas"" is incorrect.   
+I know my code is full of flaws, I just need the answer.   
+Here is my code(I use PyCharm):  
+  
+import urllib.request, urllib.parse  
+import json, ssl
+
+\# Heavily rate limited proxy of [https://www.geoapify.com/](https://www.geoapify.com/) api  
+\#serviceurl = 'https://py4e-data.dr-chuck.net/opengeo?'  
+serviceurl = 'http://py4e-data.dr-chuck.net/opengeo?'  
+\# Ignore SSL certificate errorsa  
+ctx = ssl.create\_default\_context()  
+ctx.check\_hostname = False  
+ctx.verify\_mode = ssl.CERT\_NONE
+
+while True:  
+address = input('Enter location: ')  
+if len(address) &lt; 1: break  
+address = address.strip()  
+parms = dict()  
+parms\['q'\] = address
+
+url = serviceurl + urllib.parse.urlencode(parms)
+
+\#print('Retrieving', url)  
+uh = urllib.request.urlopen(url, context=ctx)  
+data = uh.read().decode()  
+print('Retrieved', len(data), 'characters', data\[:20\].replace('\\n', ' '))
+
+try:  
+js = json.loads(data)  
+except:  
+js = None  
+if not js or 'features' not in js:  
+print('==== Download error ===')  
+print(data)  
+break  
+if len(js\['features'\]) == 0:  
+print('==== Object not found ====')  
+print(data)  
+break  
+\# print(json.dumps(js, indent=4))  
+lat = js\['features'\]\[0\]\['properties'\]\['lat'\]  
+lon = js\['features'\]\[0\]\['properties'\]\['lon'\]  
+print('lat', lat, 'lon', lon)  
+location = js\['features'\]\[0\]\['properties'\]\['formatted'\]  
+print(location)
+
+\#print('Retriving', url)  
+data = urllib.request.urlopen(url).read()  
+\#print('Retrived', len(data), 'characters')  
+js = json.loads(data)  
+plus\_code = js\['features'\]\[0\]\['properties'\]\['plus\_code'\]  
+print(""Place code = "", plus\_code)  
+\#    print(json.dumps(js, indent=4))  
+\#    print('Place id', js\['results'\]\[0\]\['place\_id'\])  
+\#University of Arkansas",Kai_Fire17,1h5mpjj,https://reddit.com/r/learnprogramming/comments/1h5mpjj/please_help_coursera_says_my_answer_is_incorrect/,https://www.reddit.com/r/learnprogramming/comments/1h5mpjj/please_help_coursera_says_my_answer_is_incorrect/,2024-12-03 12:52:46,1,0.6,1,0,3,0,0,False,False,True,False,False,,,t3_1h5mpjj
+learnprogramming,"Youtube API ""Precondition check failed""","It was working at one point, and all of the sudden it's not working anymore. I am not sure what changed, maybe I did something
+
+Can anyone help me?
+
+I am using the api to add videos to a youtube playlist
+
+    googleapiclient.errors.HttpError: &lt;HttpError 400 when requesting` [`https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&amp;alt=json`](https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&amp;alt=json) `returned ""Precondition check failed."". Details: ""[{'message': 'Precondition check failed.', 'domain': 'global', 'reason': 'failedPrecondition'}]""&gt;
+
+This is for a brand channel",MrCoolMask,1h5kskw,https://reddit.com/r/learnprogramming/comments/1h5kskw/youtube_api_precondition_check_failed/,https://www.reddit.com/r/learnprogramming/comments/1h5kskw/youtube_api_precondition_check_failed/,2024-12-03 10:52:43,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h5kskw
+learnprogramming,Learning outside of iOS development,"Quick about me:
+
+I am a self taught iOS developer and my main focus was learning about the massive apple frameworks and the language itself. I had no desire to do anything outside of iOS, so I spent all my time there. 
+
+I landed my first role as a junior iOS developer and boy do I regret not learning the computer science part of it. I knew nothing about CI/CD, the minimum on JavaScript, databases, networking, etc.. I still handled the job well and got by, but unfortunately is out-of-state developers were part of the mass layoffs. 
+
+I have an opportunity now to develop these skills before I go back in the workforce, but I do not know where to start. Any suggestions would be much appreciated, and any other experiences from iOS developers out there that might help. Thank you. 
+
+p.s. is it normal now for juniors not get much help from the seniors? I thought that was the point of being a junior.. a little mentorship. They told me those days are done.. ",DangerousMedicine692,1h5jfyi,https://reddit.com/r/learnprogramming/comments/1h5jfyi/learning_outside_of_ios_development/,https://www.reddit.com/r/learnprogramming/comments/1h5jfyi/learning_outside_of_ios_development/,2024-12-03 09:12:25,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h5jfyi
+learnprogramming,Another begbeginner in programming ,"I hereby salute you dear coding veterans. 
+I would like to know what type of advice you would give to someone who would like to start coding
+1- The tools that he can download (for free if possible XD even for the courses with certificates)
+2- The mindset he needs to have and books he may read
+3- The skills he should have beforehand 
+4- What he should more importantly start with
+
+I know you have read such posts a million times but I do really need your help since I really would like to learn such a skill as I've always found it impressive and would like to give a huge shot",Icy-Lifeguard1050,1h5j9mq,https://reddit.com/r/learnprogramming/comments/1h5j9mq/another_begbeginner_in_programming/,https://www.reddit.com/r/learnprogramming/comments/1h5j9mq/another_begbeginner_in_programming/,2024-12-03 08:58:51,1,1.0,1,0,4,0,0,False,False,True,False,False,,,t3_1h5j9mq
+learnprogramming,AI for learning,"I saw a post about breaking down problems while learning instead of just looking at the answer or using AI to solve problems. So I had an idea and asked code tutor on chat GPT to give me a problem and I solved it with pseudo code. Just typing it out and getting feed back for mistakes. Obviously typing on your phone code is a pain, the pseudo code makes it easier, and it’s good practice.",Beaver_International,1h5hyli,https://reddit.com/r/learnprogramming/comments/1h5hyli/ai_for_learning/,https://www.reddit.com/r/learnprogramming/comments/1h5hyli/ai_for_learning/,2024-12-03 07:20:30,2,0.75,2,0,2,0,0,False,False,True,False,False,,,t3_1h5hyli
+learnprogramming,As someone in college aiming to specialize in AI what should I do?,I just need some sort of guide because I feel overwhelmed with the amount of stuff available on the internet. Just a basic idea on what al I should learn and prioritize in a time frame would be very helpful. Thanks,KaleidoscopeLate9964,1h5hudt,https://reddit.com/r/learnprogramming/comments/1h5hudt/as_someone_in_college_aiming_to_specialize_in_ai/,https://www.reddit.com/r/learnprogramming/comments/1h5hudt/as_someone_in_college_aiming_to_specialize_in_ai/,2024-12-03 07:11:53,1,0.67,1,0,8,0,0,False,False,True,False,False,,,t3_1h5hudt
+learnprogramming,Is code crafters good for learning?,"So I came across [https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-git](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-git) and part of me wants to get into it and start doing a boat load of projects in my free time but these are all just tutorials... wouldnt that just lead me to tutorial hell?
+
+I'm wanting to make projects to help me learn more about programming but feel these are all just tutorials and I wont learn as much as if I when off and tried to do it all myself. Just loaded up a IDE and tried to make a CML game with out following a tutorial..
+
+I dont know im conflited.",Klutzy-Bug-9481,1h5db89,https://reddit.com/r/learnprogramming/comments/1h5db89/is_code_crafters_good_for_learning/,https://www.reddit.com/r/learnprogramming/comments/1h5db89/is_code_crafters_good_for_learning/,2024-12-03 02:46:03,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1h5db89
+learnprogramming,need advice,"I’m looking to start the 100 days of code by replit course, i am preparing for interviews in about 4-5 months. after i finish this course, what courses should i start? I want to build as much full stack knowledge as possible and of course acquire skills in the languages i will be learning. Thanks!",WoahhhMendoza,1h5d2r0,https://reddit.com/r/learnprogramming/comments/1h5d2r0/need_advice/,https://www.reddit.com/r/learnprogramming/comments/1h5d2r0/need_advice/,2024-12-03 02:34:08,1,0.67,1,0,11,0,0,False,False,True,False,False,,,t3_1h5d2r0
+learnprogramming, Questions About QR Code Structure,"Hello,  
+I'm a student and I have a project about QR code but I’ve encountered some technical questions that I hope you might help me clarify.  
+
+
+1)From my understanding, there is a white square (0000) to indicate the end of the message for the reader to know the difference between the data and the error correction code, but I think that this indicator is not always here, does it depend on the QR code version or the generator used?  
+  
+2)If my message is short, the QR code won't need a lot of space for the correction code, so what will be on the remaining space?  
+
+
+3)In what cases the reader fail to scan the QR code?  
+(is it if the error corretion code fail to restore the message?)  
+  
+Thank you for your time.",Numerous_Class_314,1h54stu,https://reddit.com/r/learnprogramming/comments/1h54stu/questions_about_qr_code_structure/,https://www.reddit.com/r/learnprogramming/comments/1h54stu/questions_about_qr_code_structure/,2024-12-02 20:26:07,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h54stu
+learnprogramming,Are these string formats in scanf function in C language same or different [EXCERSISE],"There is an excersise in the book ""C programming A modern approach"" second edition by K.N King in chapter 3.
+
+For each of the following pairs of **scanf** format strings,indicate whether or not the two strings are equivalent.If they're not,show how they can be distinguished.
+
+a) ""**%d**""               versus          "" **%d**""
+
+b)""**%d-%d-%d**""   versus     ""**%d -%d -%d**""
+
+c)""**%f**""                 versus     ""**%f** ""
+
+d)""**%f,%f**""           versus      ""**%f, %f**""
+
+Ok,I am sure that first two are equal,because scanf will ignore spaces in format string.
+
+I am sure that in c) they are not the same,because scanf will not terminate unless you input non spaces charachters when you leave white space at the end of string formating.
+
+I think that in b) they are not the same.Yes the format string ignore spaces but if the input string is for example ""3 -2 -1"" scanf will read 3 in %d then it will try to match - charachter with white space and scanf will terminate where scanf(""%d -%d -%d"") will read it successfully.
+
+I think d) format strings are the same ,because or charachters match and white space is ignored.
+
+Am I right or wrong?",Impossible_Visit2810,1h54b5o,https://reddit.com/r/learnprogramming/comments/1h54b5o/are_these_string_formats_in_scanf_function_in_c/,https://www.reddit.com/r/learnprogramming/comments/1h54b5o/are_these_string_formats_in_scanf_function_in_c/,2024-12-02 20:05:57,1,0.67,1,0,3,0,0,False,False,True,False,False,excersise,,t3_1h54b5o
+learnprogramming,Laravel VueJS help,"Hello. I am new to laravel/vueJs stuff. And trying to run GitHub repo on my pc. But it has some versions issues. Could you help me to run it? How should I change composer.json? Or I need to lower my php version? Or how to update versions of the project to the newest one?
+
+GitHub repo: https://github.com/lenard123/E-commerce-website-using-Laravel-and-VueJS/tree/master?tab=readme-ov-file",qassym,1h53r7q,https://reddit.com/r/learnprogramming/comments/1h53r7q/laravel_vuejs_help/,https://www.reddit.com/r/learnprogramming/comments/1h53r7q/laravel_vuejs_help/,2024-12-02 19:43:32,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h53r7q
+learnprogramming,Looking for studymate ,Am learning to be frontend developer  and looking for a friend who also want to be a frontend so we can encourage each other and hone our skills ,ahmmsal55,1h53jmy,https://reddit.com/r/learnprogramming/comments/1h53jmy/looking_for_studymate/,https://www.reddit.com/r/learnprogramming/comments/1h53jmy/looking_for_studymate/,2024-12-02 19:34:54,1,0.67,1,0,7,0,0,False,False,True,False,False,,,t3_1h53jmy
+learnprogramming,Is there an equivalent of template literal types for Prisma?,"I'm wondering if I could limit the values of a sql field to only a couple of string values like ""dog"", ""cat"", ""bird"" and ""hamster"". In typescript you can define it as ```type Animal = ""dog"" | ""cat"" | ""bird"" | ""hamster""```
+
+Can I do something like this inside a *.prisma file?",pornaccountbasica11y,1h5383f,https://reddit.com/r/learnprogramming/comments/1h5383f/is_there_an_equivalent_of_template_literal_types/,https://www.reddit.com/r/learnprogramming/comments/1h5383f/is_there_an_equivalent_of_template_literal_types/,2024-12-02 19:21:55,1,0.67,1,0,3,0,0,False,False,True,False,False,Solved,,t3_1h5383f
+learnprogramming,A good place to learn Java Spring Security JWT,"Is there any place to learn this properly? On youtube pretty much no one explains anything, they just code and at the end im left confused ",Any_Possibility4092,1h534ps,https://reddit.com/r/learnprogramming/comments/1h534ps/a_good_place_to_learn_java_spring_security_jwt/,https://www.reddit.com/r/learnprogramming/comments/1h534ps/a_good_place_to_learn_java_spring_security_jwt/,2024-12-02 19:18:13,2,0.67,2,0,2,0,0,False,False,True,False,False,,,t3_1h534ps
+learnprogramming,How much programming experience do I need to make game in Godot? Resource recommendations?,"I'm an experienced game designer/artist, but for whatever reason has never bothered to pick up programming. Now that I have some time, I am thinking of finally picking it up.  
+  
+I am thinking of using Godot, which to my understanding is even easier than Unity (but harder than gamemaker). I am also making smaller 2D indie games, so it should suffice. However, I don't know anything about code, not even visual scripting. Function, syntax, etc are all alien languages to me. So I guess **my question is - How much programming knowledge do I need, and if anyone would have some good recommendation/suggestion for me to start?**
+
+Here are some resources I've gathered so far
+
+1. [Python for Beginners](https://youtu.be/kqtD5dpn9C8?si=twRUu5kiJXmU6w4L)
+2. [Boot.dev](http://Boot.dev)
+3. [Net Ninja](https://www.youtube.com/watch?v=8CrFk3tjsSY&amp;t=1s&amp;ab_channel=NetNinja)
+
+I am open to paying for the courses and thought [Boot.dev](http://Boot.dev) looks particularly interesting. But **I am not sure if it is worth the time diving into Python?** Or should I just follow Godot tutorials and muscle things through. Any advises would be appreciated!
+
+I am thinking of starting small, with a snake or tetris project, follow by some Slay the Spire like card games which I think might be a reasonable scale. I also assume that it would be an easier gate way into learning programming, which is why I didn't choose Unity and C# which I read is much harder? Any thoughts on that would be much appreciate too!",Longjumping_Score733,1h4ywui,https://reddit.com/r/learnprogramming/comments/1h4ywui/how_much_programming_experience_do_i_need_to_make/,https://www.reddit.com/r/learnprogramming/comments/1h4ywui/how_much_programming_experience_do_i_need_to_make/,2024-12-02 16:27:30,1,0.6,1,0,12,0,0,False,False,True,False,False,,,t3_1h4ywui
+learnprogramming,Cyber Monday Deals? ,"Anyone aware of any Cyber Monday deals on some of the various coding learning apps / programs?
+",Any-Trainer-6070,1h4x6ag,https://reddit.com/r/learnprogramming/comments/1h4x6ag/cyber_monday_deals/,https://www.reddit.com/r/learnprogramming/comments/1h4x6ag/cyber_monday_deals/,2024-12-02 15:13:36,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h4x6ag
+learnprogramming,🏎✏ Dotrace game in Js,"After 4 months of development, I'm delighted to present my DotRace game!
+
+This strategic racing game is inspired by the classic game of racing with a pencil on a small sheet of paper (moving points with inertia)... yes, I drew trajectories for a good part of my childhood!
+
+It can be played online at this address: [http://svaret.free.fr/DotRace/](http://svaret.free.fr/DotRace/)
+
+Some technical information:
+
+* Choice of game mode :
+   * Time Attack: Beat the AI
+   * Race: Single race
+   * Championship: Several races in a row
+* Choice of tracks :
+   * Pre-integrated tracks (well-known F1 circuits, spirals, bizarre shapes, etc.)
+   * Random track generator with choice (min, max) of total track length, width and length of road sections, angles...
+* Player configuration :
+   * Up to 4 human players (on the same screen)
+   * Opponents with configurable AI level
+   * 8 players in tracks
+   * Button assistance options (best choice)
+* Screen configuration :
+   * Quick glance to see the entire track
+   * Full screen mode
+   * Camera follows player
+   * Speed-dependent widening of the view (to “see further”)
+* Sound configuration :
+   * Choice of 3 sound themes:
+      * Sound of marker pen on a sheet of paper
+      * Sound of my car (A-Class 250, yes, I'm a 50-year-old)
+      * The sound of a spaceship
+   * Choice of sound volume for opponents
+   * Speed of movement...
+* Main path-finding algorithm
+   * The main principle of my algorithm is that it doesn't know the arrival points, it just tries to go as far as possible in as few moves as possible. A nice recursive function calculates all possible paths and determines the best one.
+   * The “AI level” (variable from 2 to 8 for each player) corresponds to the depth of this recursive search for the best path.
+   * The position of opponents is not taken into account when calculating the path, which can lead to accidents and run-offs when the width of the track is reduced and several players covet the same point.
+* About 4,000 lines of javascript typed with my old fingers...
+
+My question concerns the possibility of simply running the same code in an android apk? for free?
+
+I am also interested in your suggestions for improving my game.
+
+Thank you.  
+Vidéo démo here : [https://www.youtube.com/watch?v=0ph7bODPooA](https://www.youtube.com/watch?v=0ph7bODPooA)",Bounito,1h4wy6f,https://reddit.com/r/learnprogramming/comments/1h4wy6f/dotrace_game_in_js/,https://www.reddit.com/r/learnprogramming/comments/1h4wy6f/dotrace_game_in_js/,2024-12-02 15:03:46,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h4wy6f
+learnprogramming,Struggle to Make Projects that Aren't Actually Used,"I really struggle to make projects if they aren't actually used by real people.
+
+I've made a lot of Roblox games because they actually get played, which is a huge motivator for me. I want to make projects that aren't games though, like apps and websites. Problem is, it feels like these are much less likely to get real users. And there is a lot more responsibility and money involved in those.
+
+This is really demotivating for me. I just have a hard time making things without having a real user experience. Any advice?",Sea_Possibility_1683,1h5hjv2,https://reddit.com/r/learnprogramming/comments/1h5hjv2/struggle_to_make_projects_that_arent_actually_used/,https://www.reddit.com/r/learnprogramming/comments/1h5hjv2/struggle_to_make_projects_that_arent_actually_used/,2024-12-03 06:51:43,0,0.5,0,0,2,0,0,False,False,True,False,False,,,t3_1h5hjv2
+learnprogramming,Actually centering a plot using Matplotlib,"I've been starting to learn Python and working on some data science, and the problem (more like a nice thing to have) is that when I create plots using `matplotlib.pyplot` they are actually not centered.
+
+What I mean by that is that the box that contains does not have the same number of pixels/same space around all the 4 edges of the picture.
+
+A MWE of that is this:
+
+    import matplotlib.pyplot as plt
+    
+    x = list(range(10))
+    
+    fig, ax = plt.subplots()
+    ax.plot(x, x)
+    ax.set_xlabel(""X axis"")
+    ax.set_ylabel(""Y axis"")
+    fig.savefig(""test.png"")
+
+If you check the number of pixels between any of the edges and the black box containing the data you can see that by default is not the same.
+I tried looking around for a way to fix that but what I've found is really complicated and out of reach right now.
+
+It seems like it should be something that could be expected to be implemented.
+So is it there a short implementation of something like that?",isaholt2000,1h5g87h,https://reddit.com/r/learnprogramming/comments/1h5g87h/actually_centering_a_plot_using_matplotlib/,https://www.reddit.com/r/learnprogramming/comments/1h5g87h/actually_centering_a_plot_using_matplotlib/,2024-12-03 05:26:31,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h5g87h
+learnprogramming,Angular course,I know there's Maximilian's angular course but I was wondering is there a course out there that has also more exercises in it so you can also practice as you are going through it. His course doesn't seem to have that many exercises,legend67521,1h5csmc,https://reddit.com/r/learnprogramming/comments/1h5csmc/angular_course/,https://www.reddit.com/r/learnprogramming/comments/1h5csmc/angular_course/,2024-12-03 02:19:44,0,0.5,0,0,4,0,0,False,False,True,False,False,,,t3_1h5csmc
+learnprogramming,Issues with MelonLoader Mod: Non-nullable fields and lambda expressions causing errors,"Hello everyone, I'm working on a mod using MelonLoader and Unity, and I'm encountering a few issues that I can't seem to resolve. I’m creating a simple menu with a button, but I keep running into the following errors:
+
+1. **Non-nullable field 'myButton' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.**
+2. **Non-nullable field 'menuCanvas' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.**
+3. **Cannot convert lambda expression to type 'UnityAction' because it is not a delegate type.**
+
+Here is the code I’m working with:
+
+using MelonLoader;
+
+using UnityEngine;
+
+using UnityEngine.UI;
+
+namespace Menu
+
+{
+
+public class Class1 : MelonMod
+
+{
+
+private GameObject menuCanvas;
+
+private Button myButton;
+
+private bool menuVisible = false;
+
+public override void OnInitializeMelon()
+
+{
+
+MelonLogger.Msg(""Mod Initialized!"");
+
+
+
+CreateMenu();
+
+}
+
+public override void OnUpdate()
+
+{
+
+if (Input.GetKeyDown(KeyCode.F1)) 
+
+{
+
+menuVisible = !menuVisible;
+
+menuCanvas.SetActive(menuVisible);
+
+}
+
+}
+
+private void CreateMenu()
+
+{
+
+
+
+menuCanvas = new GameObject(""ModMenuCanvas"");
+
+Canvas canvas = menuCanvas.AddComponent&lt;Canvas&gt;();
+
+canvas.renderMode = RenderMode.WorldSpace;
+
+RectTransform rectTransform = menuCanvas.GetComponent&lt;RectTransform&gt;();
+
+rectTransform.sizeDelta = new Vector2(300, 200);
+
+menuCanvas.transform.position = new Vector3(0, 2, 5);
+
+
+
+GameObject buttonObject = new GameObject(""MyButton"");
+
+buttonObject.transform.SetParent(menuCanvas.transform);
+
+RectTransform buttonRect = buttonObject.AddComponent&lt;RectTransform&gt;();
+
+buttonRect.sizeDelta = new Vector2(100, 50);
+
+buttonRect.localPosition = [Vector3.zero](http://Vector3.zero);
+
+myButton = buttonObject.AddComponent&lt;Button&gt;();
+
+Text buttonText = buttonObject.AddComponent&lt;Text&gt;();
+
+buttonText.text = ""Click Me!"";
+
+buttonText.font = Resources.GetBuiltinResource&lt;Font&gt;(""Arial.ttf"");
+
+buttonText.color = [Color.black](http://Color.black);
+
+
+
+myButton.onClick.AddListener(() =&gt; OnButtonClick());
+
+}
+
+private void OnButtonClick()
+
+{
+
+MelonLogger.Msg(""Button Clicked!"");
+
+}
+
+}
+
+}
+
+**The errors I am encountering:**
+
+1. **Non-nullable field 'myButton' must contain a non-null value when exiting constructor.** This seems to be related to the fact that I'm declaring `myButton` as non-nullable, but it's not getting assigned before the constructor ends. I thought that adding it in `CreateMenu()` would fix this, but it still throws the error.
+2. **Non-nullable field 'menuCanvas' must contain a non-null value when exiting constructor.** Similar issue with `menuCanvas`. It is declared non-nullable, but the assignment happens later in the `CreateMenu()` method.
+3. **Cannot convert lambda expression to type 'UnityAction' because it is not a delegate type.** I am using a lambda expression to handle the button click (`myButton.onClick.AddListener(() =&gt; OnButtonClick());`). This causes an error, and I can't figure out how to fix it.
+
+Any ideas or suggestions on how to fix these issues? Thanks in advance for your help!",Willing-Ad6697,1h551e5,https://reddit.com/r/learnprogramming/comments/1h551e5/issues_with_melonloader_mod_nonnullable_fields/,https://www.reddit.com/r/learnprogramming/comments/1h551e5/issues_with_melonloader_mod_nonnullable_fields/,2024-12-02 20:35:47,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1h551e5
+learnprogramming,React re-render ,"Hi, I have an issue with my app falling into render loop. I get like a thousand logs per second, why? I am getting truly frustrated, I've been working on it for days and I keep getting tons of renders and no idea how to prevent it...
+
+    import { useContext, useEffect, useState, useCallback, useRef } from ""react"";
+    import { MusicContext } from ""../contexts/MusicContext"";
+    
+    const useMusicPlayer = () =&gt; {
+      const [state, setState] = useContext(MusicContext);
+      const [currentTime, setCurrentTime] = useState(0);
+      const durationsRef = useRef({}); // Cache for durations
+      const isLoadingRef = useRef(false); // Prevent redundant loading
+    
+      const audioPlayer = state.audioPlayer;
+    
+      // Define the togglePlay function first, so it's available for use in playTrack and useEffect
+      const togglePlay = useCallback(() =&gt; {
+        if (audioPlayer) {
+          const isPlaying = !state.isPlaying;
+          isPlaying ? audioPlayer.play() : audioPlayer.pause();
+          setState((prevState) =&gt; {
+            if (prevState.isPlaying === isPlaying) return prevState;
+            return { ...prevState, isPlaying };
+          });
+        }
+      }, [audioPlayer, state.isPlaying, setState]);
+    
+      // Define playTrack function
+      const playTrack = useCallback(
+        async (index) =&gt; {
+          if (index === state.currentTrackIndex) {
+            togglePlay();
+          } else {
+            const track = state.tracks[index];
+    
+            if (audioPlayer) {
+              audioPlayer.pause();
+            }
+    
+            const newAudioPlayer = new Audio(track.url);
+            newAudioPlayer.play();
+    
+            setState((prevState) =&gt; ({
+              ...prevState,
+              audioPlayer: newAudioPlayer,
+              currentTrackIndex: index,
+              isPlaying: true,
+            }));
+          }
+        },
+        [state.tracks, state.currentTrackIndex, audioPlayer, togglePlay, setState]
+      );
+    
+      // Preload durations once
+      useEffect(() =&gt; {
+        const preloadDurations = async () =&gt; {
+          if (isLoadingRef.current) return; // Prevent redundant calls
+          isLoadingRef.current = true;
+    
+          const updatedTracks = await Promise.all(
+            state.tracks.map(async (track) =&gt; {
+              if (!track.duration &amp;&amp; !durationsRef.current[track.title]) {
+                const audio = new Audio(track.url);
+                await new Promise((resolve) =&gt; {
+                  audio.addEventListener(""loadedmetadata"", () =&gt; {
+                    const trackDuration = audio.duration || 0;
+                    durationsRef.current[track.title] = trackDuration;
+                    resolve();
+                  });
+                  audio.addEventListener(""error"", () =&gt; resolve()); // Handle loading errors gracefully
+                  audio.load(); // Trigger metadata loading
+                });
+              }
+              return {
+                ...track,
+                duration: durationsRef.current[track.title] || track.duration,
+              };
+            })
+          );
+    
+          // Avoid setting state unless tracks have actually changed
+          if (JSON.stringify(updatedTracks) !== JSON.stringify(state.tracks)) {
+            setState((prevState) =&gt; ({
+              ...prevState,
+              tracks: updatedTracks,
+            }));
+          }
+    
+          isLoadingRef.current = false;
+        };
+    
+        preloadDurations();
+      }, [state.tracks, setState]);
+    
+      // Handle audio player events
+      useEffect(() =&gt; {
+        if (!audioPlayer) return;
+    
+        const handleTimeUpdate = () =&gt; setCurrentTime(audioPlayer.currentTime);
+        const handleTrackEnd = () =&gt; {
+          const nextIndex =
+            state.currentTrackIndex === state.tracks.length - 1
+              ? 0
+              : state.currentTrackIndex + 1;
+          playTrack(nextIndex);
+        };
+    
+        audioPlayer.addEventListener(""timeupdate"", handleTimeUpdate);
+        audioPlayer.addEventListener(""ended"", handleTrackEnd);
+    
+        return () =&gt; {
+          audioPlayer.removeEventListener(""timeupdate"", handleTimeUpdate);
+          audioPlayer.removeEventListener(""ended"", handleTrackEnd);
+        };
+      }, [audioPlayer, state.currentTrackIndex, state.tracks.length, playTrack]); // Added missing dependencies
+    
+      return {
+        playTrack,
+        togglePlay,
+        currentTrackIndex: state.currentTrackIndex,
+        currentTrack:
+          state.currentTrackIndex !== null &amp;&amp; state.tracks.length &gt; 0
+            ? state.tracks[state.currentTrackIndex]
+            : null,
+        trackList: state.tracks,
+        isPlaying: state.isPlaying,
+        playNextTrack: () =&gt;
+          playTrack(
+            state.currentTrackIndex === state.tracks.length - 1
+              ? 0
+              : state.currentTrackIndex + 1
+          ),
+        playPreviousTrack: () =&gt;
+          playTrack(
+            state.currentTrackIndex === 0
+              ? state.tracks.length - 1
+              : state.currentTrackIndex - 1
+          ),
+        audioPlayer,
+        currentTime,
+        isLoading: isLoadingRef.current,
+      };
+    };
+    
+    export default useMusicPlayer;
+    ",bidon2137,1h53rvo,https://reddit.com/r/learnprogramming/comments/1h53rvo/react_rerender/,https://www.reddit.com/r/learnprogramming/comments/1h53rvo/react_rerender/,2024-12-02 19:44:16,0,0.5,0,0,0,0,0,False,False,True,False,False,Debugging,,t3_1h53rvo
+learnprogramming,More detailed error logs with Expo Go?,"I'm running into a network issue trying to make requests to my server from my app on android. I believe it's to do with with SSL validation. The best error log I can get is:
+
+TypeError: Network request failed.
+
+  
+Which is utterly useless. Is there a way to get more detailed logs?",DisciplineFast3950,1h52970,https://reddit.com/r/learnprogramming/comments/1h52970/more_detailed_error_logs_with_expo_go/,https://www.reddit.com/r/learnprogramming/comments/1h52970/more_detailed_error_logs_with_expo_go/,2024-12-02 18:42:24,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h52970
+learnprogramming,"Struggling with Python Programming? Need Help with Loops, Variables, and Logic","**Hi everyone,**
+
+I’m new to Python programming and currently struggling with some core concepts. Specifically, I’m finding it difficult to understand **programming logic**, especially with **loops**, **variables**, and **conditionals**. I don’t have a strong math background, which is making it harder for me to grasp certain concepts in coding.
+
+If you have any **beginner tips for learning Python**, or resources that helped you with **Python logic**, **loops**, and **variables**, I’d really appreciate it! I'm also looking for recommendations on good practice problems to improve my skills.
+
+**Any advice on how to build better programming logic and improve in Python** would be much appreciated!
+
+**And if you have any resources where I can learn, please share!** 🙏
+
+Thanks in advance for your help!",Few_Translator_2755,1h4zkgf,https://reddit.com/r/learnprogramming/comments/1h4zkgf/struggling_with_python_programming_need_help_with/,https://www.reddit.com/r/learnprogramming/comments/1h4zkgf/struggling_with_python_programming_need_help_with/,2024-12-02 16:54:46,0,0.5,0,0,10,0,0,False,False,True,False,False,,,t3_1h4zkgf
+learnprogramming,Reviews regarding Algozenith Premium courses,"How is the Algozenith Premium course? They will teach basic and advanced DSA, Competitive Programming,will also cover web development, CS fundamentals and System Design. How is the course?
+I am a 3rd Semester CSE(Cyber Security) undergrad . 4th semester will start from March.",Key-Plankton-7092,1h4yjtf,https://reddit.com/r/learnprogramming/comments/1h4yjtf/reviews_regarding_algozenith_premium_courses/,https://www.reddit.com/r/learnprogramming/comments/1h4yjtf/reviews_regarding_algozenith_premium_courses/,2024-12-02 16:12:33,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h4yjtf
+learnprogramming,Hosting website that uses multiple .envs?,"I'm a student needing to host my semester project (not permanently). I thought I'd use railway.app and do the GitHub repo option. I have two .env: one is an API key for SendGrid, and the other is a token key I made. I had these in the .gitignore, so they aren't in my repo. Do I need to remove them from the .gitignore and push them to GitHub? I know I could make the repo private so nobody can see the keys, but I thought it would still be bad practice to push an API key? But the project needs the API key to run, and I'm not sure how else to do it?",Jumpy_Employment_439,1h4xqyr,https://reddit.com/r/learnprogramming/comments/1h4xqyr/hosting_website_that_uses_multiple_envs/,https://www.reddit.com/r/learnprogramming/comments/1h4xqyr/hosting_website_that_uses_multiple_envs/,2024-12-02 15:38:35,0,0.5,0,0,2,0,0,False,False,True,False,False,,,t3_1h4xqyr
+learnprogramming,Can anyone help me figure this out?,"Hi all, I was trying to create a Python program that prints this pattern.
+
+    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+    X                         X
+    X            X            X
+    X           X X           X
+    X          X   X          X
+    X         XXXXXXX         X
+    X                         X
+    X       XXXXXXXXXXX       X
+    X      X           X      X
+    X     X             X     X
+    X    X               X    X
+    X   X                 X   X
+    X  X                   X  X
+    X XXXXXXXXXXXXXXXXXXXXXXX X
+    X                         X
+    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+The input in this example is 4, which represents the height of the upper triangle.
+
+can anybody help me figure this out?  
+Thank you in advance!",ConversationOk3565,1h4xcgy,https://reddit.com/r/learnprogramming/comments/1h4xcgy/can_anyone_help_me_figure_this_out/,https://www.reddit.com/r/learnprogramming/comments/1h4xcgy/can_anyone_help_me_figure_this_out/,2024-12-02 15:21:06,0,0.5,0,0,23,0,0,False,False,True,False,False,,,t3_1h4xcgy
+learnprogramming,How to approach learning programming from books,"How to approach learning programming from books?
+
+Pick any classic programming book (say, a book from [teachyourselfcs.com](https://teachyourselfcs.com/)). Chances are the book has many pages and many exercises.
+
+If you decide to read through the book and solve all the exercises, that's easily hundreds of hours of work.
+
+Now lets say you lead a normal life with private and professional obligations, but you manage to block 16 h per week for reading and working through exercises of a book.
+
+Lets be optimistic and say that it takes you just 200 h to read the book and do all the exercises. 200 / 16 = 12.5 weeks = 87.5 days \~ almost 3 months.
+
+Is this the best time invested to learn the techniques in the book?
+
+Suppose you're looking for a (new) programming job. Will you put solutions to those exercises in you portfolio? Would that be valuable to your potential employer?
+
+Ideally, you would do all the exercises, than make a project using all the techniques from the book. But if this is not possible due to huge time investment involved, what is the best bang for buck approach?",TopDownView,1h4ybxb,https://reddit.com/r/learnprogramming/comments/1h4ybxb/how_to_approach_learning_programming_from_books/,https://www.reddit.com/r/learnprogramming/comments/1h4ybxb/how_to_approach_learning_programming_from_books/,2024-12-02 16:03:24,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1h4ybxb
+learnprogramming,What should i do??,I love programming but due to my slow typing speed while doing a project i get exhausted and than give up,Intrepid_Title815,1h4xtkn,https://reddit.com/r/learnprogramming/comments/1h4xtkn/what_should_i_do/,https://www.reddit.com/r/learnprogramming/comments/1h4xtkn/what_should_i_do/,2024-12-02 15:41:40,0,0.33,0,0,8,0,0,False,False,True,False,False,,,t3_1h4xtkn
+learnprogramming,Created a new Coding account will be posting consistently,"Hope you all like it and suggest ways to improve myself
+
+link to channel:      [https://www.youtube.com/@BugSlay](https://www.youtube.com/@BugSlay)
+
+",Harshit-_-Sharma,1h5o8n3,https://reddit.com/r/learnprogramming/comments/1h5o8n3/created_a_new_coding_account_will_be_posting/,https://www.reddit.com/r/learnprogramming/comments/1h5o8n3/created_a_new_coding_account_will_be_posting/,2024-12-03 14:10:30,0,0.25,0,0,0,0,0,False,False,True,False,False,,,t3_1h5o8n3
+learnprogramming,Java for Aspies?,"Firstly, I am autistic. I've tried to learn java from more “traditional” languages (C# &amp; Python), but I just can't understand java and OOP in general. I just want to learn enough to make Minecraft mods (Minecraft subs told me to post here instead), so does anyone have anything that could help me understand java? My main problems are with general OOP and Javas buses.",Ggbees_oh-no,1h5f8kx,https://reddit.com/r/learnprogramming/comments/1h5f8kx/java_for_aspies/,https://www.reddit.com/r/learnprogramming/comments/1h5f8kx/java_for_aspies/,2024-12-03 04:28:48,0,0.36,0,0,5,0,0,False,False,True,False,False,Java,,t3_1h5f8kx
+learnprogramming,Learning To Program With My Brain,"Hello, world
+
+  
+I started to learn how to program 4 years ago when I joined my community college. But the problem is: I faked my way through college. I either used github, ai, or my older sister to do assignments, literally anything other than using my brain to solve a problem. Many creative projects were just copy-pastes from github. It feels like I understand programming but I just can't do anything by myself without any external help. I tried many times to learn properly and putting in my full effort, but whenever I do I wither press the show solution button or try to hunt for an answer online. Now I'm about to graduate without knowing crap. And the thing is when I try small, easy problems (small challenges like codingbat problems or something) I enjoy it and have fun but anything more then I fold. I want to learn to program with me myself and I.",MrMisterMustard,1h5aagq,https://reddit.com/r/learnprogramming/comments/1h5aagq/learning_to_program_with_my_brain/,https://www.reddit.com/r/learnprogramming/comments/1h5aagq/learning_to_program_with_my_brain/,2024-12-03 00:19:19,0,0.4,0,0,14,0,0,False,False,True,False,False,,,t3_1h5aagq
+learnprogramming,Looking for resources to build a pump.fun trading bot,"Hi!
+
+I'd like to build my own trading bot for pump.fun (Solana chain); unfortunately there are no official APIs except for some unofficial sources. 
+
+Do you know any useful resource like guides, walk-through etc for a basic trading bot for pump.fun?
+
+Thank you in advance",sciordo,1h57o8e,https://reddit.com/r/learnprogramming/comments/1h57o8e/looking_for_resources_to_build_a_pumpfun_trading/,https://www.reddit.com/r/learnprogramming/comments/1h57o8e/looking_for_resources_to_build_a_pumpfun_trading/,2024-12-02 22:23:53,0,0.25,0,0,0,0,0,False,False,True,False,False,,,t3_1h57o8e
+learnprogramming,How do you write pseudocode?,"Trying to write pseudocode for an ordering and payment system.
+
+I’ve sat in front of a blank text editor for 30 minutes now cant figure out what the steps are or how I should write them out. 
+
+Where do I even begin with learning about this stuff? Would be nice if there were online tutorials out there that would teach you step by step how different things work but I can’t seem to find any.
+
+Does anyone have any idea on what I should do?",Chocolate-Atoms,1h4xn9c,https://reddit.com/r/learnprogramming/comments/1h4xn9c/how_do_you_write_pseudocode/,https://www.reddit.com/r/learnprogramming/comments/1h4xn9c/how_do_you_write_pseudocode/,2024-12-02 15:34:03,0,0.38,0,0,8,0,0,False,False,True,False,False,,,t3_1h4xn9c
+learnprogramming,App lap,Is there anyone here who knows App Lab and can create an app for me?,Educational_Sir7640,1h5jhp7,https://reddit.com/r/learnprogramming/comments/1h5jhp7/app_lap/,https://www.reddit.com/r/learnprogramming/comments/1h5jhp7/app_lap/,2024-12-03 09:16:17,0,0.17,0,0,1,0,0,False,False,True,False,False,,,t3_1h5jhp7
+learnprogramming,Latency and System Design,"If executing a typical CPU instruction took 1 second, a data packet from Europe to US and back would take 4.75 years. Modern computing spans vast latency scales - from nanosecond CPU operations to millisecond network calls. Understanding these latency differences helps us build better systems, whether CPU or I/O bound.
+
+[https://martynassubonis.substack.com/p/latency-and-system-design](https://martynassubonis.substack.com/p/latency-and-system-design)",Martynoas,1h58l9u,https://reddit.com/r/learnprogramming/comments/1h58l9u/latency_and_system_design/,https://www.reddit.com/r/learnprogramming/comments/1h58l9u/latency_and_system_design/,2024-12-02 23:03:10,0,0.4,0,0,1,0,0,False,False,True,False,False,Resource,,t3_1h58l9u
+learnprogramming,"Finished Bootcamp, now health issues, can I start Freelancing? ","I recently completed a bootcamp for Software Engineering with Coding Temple. Unfortunately, I have been struggling with some issues related to Long Covid and simply do not feel able to step into a full time job atm due to brain fog. I am curious if there is a pathway to doing some freelancing work while I am working on my health. I have some good projects from my program that I can show. These demonstrate proficiency with React, Bootstrap, and Flask, among other things. I would be willing to start at a low rate to build my portfolio. I have looked into Toptal but they require experience for approval. If you are going to post something critical please just do not post, I am simply asking if there is a pathway to do freelance work for 3-4 hours per day with completion of a coding bootcamp. ",SnooChocolates5397,1h4yjmb,https://reddit.com/r/learnprogramming/comments/1h4yjmb/finished_bootcamp_now_health_issues_can_i_start/,https://www.reddit.com/r/learnprogramming/comments/1h4yjmb/finished_bootcamp_now_health_issues_can_i_start/,2024-12-02 16:12:19,0,0.29,0,0,6,0,0,False,False,True,False,False,,,t3_1h4yjmb
+learnprogramming,From where to start,I am in second year of graduation (BA). I want to start learning programming. Which language should I start from ? As I want to have a job before graduating ,avjot_0001,1h4xoh4,https://reddit.com/r/learnprogramming/comments/1h4xoh4/from_where_to_start/,https://www.reddit.com/r/learnprogramming/comments/1h4xoh4/from_where_to_start/,2024-12-02 15:35:30,0,0.17,0,0,8,0,0,False,False,True,False,False,Tutorial,,t3_1h4xoh4
+learnprogramming,Programming suitable for people who have low skill? ,Want to dabble in this but it feels to need a hell lot of skill at the core of what is expected and that makes me feel unsuited. ,upclosepersonal2,1h5bjq1,https://reddit.com/r/learnprogramming/comments/1h5bjq1/programming_suitable_for_people_who_have_low_skill/,https://www.reddit.com/r/learnprogramming/comments/1h5bjq1/programming_suitable_for_people_who_have_low_skill/,2024-12-03 01:18:15,0,0.27,0,0,18,0,0,False,False,True,False,False,,,t3_1h5bjq1
+learnprogramming,JP Morgan new grad program,"For this posting by jpmorgan I was wondering if it's worth for me applying to as a canadian citizen like there's the TN visa to get but it's not a sponsorship visa but I'm still not sure if I'm eligible
+
+[https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX\_1001/job/210574806/?utm\_medium=jobshare](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210574806/?utm_medium=jobshare)",legend67521,1h56a6p,https://reddit.com/r/learnprogramming/comments/1h56a6p/jp_morgan_new_grad_program/,https://www.reddit.com/r/learnprogramming/comments/1h56a6p/jp_morgan_new_grad_program/,2024-12-02 21:26:30,0,0.29,0,0,1,0,0,False,False,True,False,False,,,t3_1h56a6p
+learnprogramming,Guys who teach programming online...,"If they are good at programming and claim that they can make you a ""master"" at a certain concept, why they try so hard to make you buy a course instead of going out there and actually using their skills to get a real/more interesting software developer job... No hate tho just genuinely curious. 
+
+  
+",o93odwe9ef,1h5io3r,https://reddit.com/r/learnprogramming/comments/1h5io3r/guys_who_teach_programming_online/,https://www.reddit.com/r/learnprogramming/comments/1h5io3r/guys_who_teach_programming_online/,2024-12-03 08:12:38,0,0.22,0,0,7,0,0,False,False,True,False,False,Topic,,t3_1h5io3r
+learnprogramming,"I have 2 years to teach myself SE, how can I start? ","I would like to become a software engineer and I have two years to kick start this learning journey. 
+
+How would you recommend I start? 
+
+I currently don't have a specific path in mind as to what I want to build. My intention is to be able to make apps, websites, ML, AI etc. 
+
+I know I can't learn that in 2 years but how and where should I start? All I mentioned requires more then 1 language and I heard that it's already difficult to become proficient in 1 language let alone 2.
+
+I just want to forces on the right language and the right skills to develop for the next 2 years in order to hopefully land a job and keep progreseing my career or if the journey is frutfull I continue to learn further. 
+
+So based on your knowledge over the field and what the future will demand in terms of skills, how and where should I start?",Shammar-Yahrish,1h52s4k,https://reddit.com/r/learnprogramming/comments/1h52s4k/i_have_2_years_to_teach_myself_se_how_can_i_start/,https://www.reddit.com/r/learnprogramming/comments/1h52s4k/i_have_2_years_to_teach_myself_se_how_can_i_start/,2024-12-02 19:03:58,0,0.4,0,0,17,0,0,False,False,True,False,False,,,t3_1h52s4k
+learnprogramming,AM I cooked?,"Hello, im a beginner programmer and I have been learning python for about 3 months. This semester has been extremely hard for me adjusting to college, and I still can’t code by myself :/ I missed a lot of class due to sickness and mental health. I really want to major in computer science but I need a C to do so, and right now I have a 60 and I’m feeling extremely hopeless. I have approximately 2 weeks left to get my grade up, I missed 6 quizzes and I can make up the quizzes which will boast my grade. But there’s a final exam December 13th and it’s worth 20% of my grade. Is it possible for me to learn all the material, he has all the lectures recorded and I can rewatch them. I have some basic foundations of understanding some concepts. Is it possible I really need tips and motivation",stonecoldcig,1h4yi3h,https://reddit.com/r/learnprogramming/comments/1h4yi3h/am_i_cooked/,https://www.reddit.com/r/learnprogramming/comments/1h4yi3h/am_i_cooked/,2024-12-02 16:10:30,0,0.22,0,0,2,0,0,False,False,True,False,False,,,t3_1h4yi3h
+learnprogramming,I kinda need to learn programming ASAP....,"(Warning, a lot of yapping in the beginnng, but I promise I actually get on track about program-related topic in the end! Just takes some time since there is a LOT of side information that is pretty important to note!)
+
+Hi! I don't know how else to formulate this, but the title kind of sums it up. I'm a 16 year old girl (turning 17) in 2nd year of videregående (Norwegian high school). A little bit irrelevant, but I switched schools to one in a bigger city and I am now living alone, trying to figure out the stress between finding a job, living with other people in a shared house and all the frustrating things that come with that (which there obviously is a lot of surprisingly from college students that live in the same house and the fact that we're 6 people), the stress with having a lot of tests at the same time, struggling with taking physics and the fact that I'm pretty much on my way to failing math. 😅 so there is a lot of baggage.
+
+That's just a small ""backstory"", per se, not that it's way too relevant. Earlier this year I had chemistry, which wasn't for me at all. I couldn't understand anything, a lot because I couldn't really pay attention due to how boring it was and also problem with sleep due to noisy roommates and such, and just frequently waking up at night and never being quite comfortable. This was a new thing for me, always having slept pretty good at other people's houses for sleepovers and of course at home. This lead to me failing the first chemistry test in the end of October with a nice ""1"", which is the failing grade in Norway, 2 being barely passing. Not even a plus or anything, just a simple 1. To try to save my grade, I had to take a test in-person with the two teachers, face to face with what i could only explain as almost as an interrogation to force some information out of it. I tried my best, studied a lot although it wouldn't sit and it was still not enough, and I still failed.
+
+Now here comes the programming part. School in Norway start in August, and we were now in the beginning or middle of November, which nearing the end of the semester, really. Chemistry was a chosen subject, but it was almost way too far in for me to switch. But I knew I kind of had to, so I asked if I could. Between the choices of geoscience and biology, neither of them really interested me, but those were kind of my options. Chosen subjects are sorted into these ""blocks"" in Norway, where you can choose subjects from each block, and you have 4 blocks to fill out. In the block I had Chemistry in, I saw there was also IT 1, or ""Informasjonsteknologi"". Simply, it's just a subject that learns you web design and coding. The school advisor was kind of like ""Straight out, I would tell people just no"", which wasn't a good sign at all. There was a lot almost straight up begging and convincing because of the fact ""at least let me fail in something I would find slightly interesting at least"". My boyfriend was also with me kind of trying to convince, due to the fact he is in the last year (grade 3), and has IT 2, and actually is a grade 6 (highest grade) student in the subject. I got sent to advisor for my grade level, and through there again to the teacher that has IT.
+
+Miraculously I actually managed to get into the class. But now, close to the end of the semester I kind of have to learn coding pretty quickly. I can feel that I can understand coding if I learn it properly and that I have the skills to actually get good at it if I get far enough, but everyone is so far behind me and it's a lot trying to keep track of schoolwork and final tests of this semester that is the same time, learning the same coding my peers are learning while also not even truly even knowing the most standard of standard of coding. I've gotten this ""Arbeidskrav"" that everyone else got where we were going to make a simple website that honestly looked like straight from the 2000s or something, and I got quite frustrated because I felt like it was my boyfriend doing all the work for me instead of me because I had so much trouble with it and couldn't even make a simple website. I also had the same test that the other students had for for 4 classes at the same time as them, but I won't get a grade on it since I started not long ago, just to test my skills, and I could see people actually managing to make a website, while I couldn't even get anything to show on the website, even cheating a lot by asking my boyfriend for help and seeing I made such a stupid mistake of changing where ""Document"" was on one of the side things (&lt;&gt; those things) by accident and not even seeing it myself. The website turned absolute ass, of course (excuse my language), but this is all so frustrating.
+
+I want to learn programming, and I don't want to leech of my boyfriend, at all. I want to learn it by myself and I just get angry at both myself and him when I have to ask for help all the time, although he is happy to help. It won't help in tests, and I'm ashamed I cheated on the last one even if it wasn't graded for me (although it was graded for everyone else). I just have difficulties on how to learn coding quickly? There was one problem, which was, how will I get a grade without no assignments? Well, that I got answered today. We are going to make websites for companies in the local community for free (real companies this is), and everyone is doing it individually, except for me and another guy that is also new. We will be collaborating with someone else that has been in the class since day one, or in other words, leeching off of the work of someone else. Although I'm grateful that my grade won't be ruined, I still want to contribute and not just leech of others, as I am expected to also work on the website of course. But how can I contribute not knowing anything? This is why I want to learn it quickly, so that I can truly actually be a helping hand instead of a burden for the team. This is a lot of text, and I'm sorry for that, but is there any help with starting?
+
+Edit: Forgot to add one last thing: fyi we just learned some basic php (which i don't understand a lot of), and my class have learned a lot of basic css and html, from my knowledge at least... but everything is kind of a whirlwind in my brain for me and just a mess.",fromis_apink,1h520ri,https://reddit.com/r/learnprogramming/comments/1h520ri/i_kinda_need_to_learn_programming_asap/,https://www.reddit.com/r/learnprogramming/comments/1h520ri/i_kinda_need_to_learn_programming_asap/,2024-12-02 18:33:05,0,0.29,0,0,4,0,0,False,False,True,False,False,,,t3_1h520ri

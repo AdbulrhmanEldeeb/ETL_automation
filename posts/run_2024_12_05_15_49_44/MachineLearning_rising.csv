@@ -1,0 +1,94 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[R] ReVersion: Learning Relation Prompts from Images for Controlled Diffusion Generation,"ReVersion introduces a novel approach for learning and transferring visual relationships using diffusion models. Rather than focusing solely on object appearance, it learns how objects interact with each other through relation prompts and specialized sampling techniques.
+
+Key technical aspects:
+- Uses frozen pre-trained text-to-image diffusion model as foundation
+- Implements relation-steering through contrastive learning to guide prompts toward relationship-rich latent spaces
+- Employs relation-focal sampling to emphasize high-level interactions over low-level details
+- Creates relation prompts that capture spatial and interactive relationships between objects
+- Introduces new benchmark dataset for evaluating relation inversion methods
+
+Results:
+- Outperforms existing methods in preserving object relationships while allowing appearance flexibility
+- Shows strong performance on spatial relationships like ""on top of"", ""next to"", ""inside""
+- Successfully transfers learned relationships to novel object pairs
+- Maintains relationship consistency across different styles and contexts
+
+I think this approach could be particularly valuable for improving automated image generation systems that need to handle complex scenes with multiple interacting objects. The ability to learn and transfer relationships, rather than just appearances, could help bridge the gap between current image generation capabilities and human-like understanding of how objects interact in space.
+
+I think the relation-focal sampling technique could also have applications beyond just relationship learning - it might be useful anywhere we need to emphasize high-level features over low-level details in diffusion models.
+
+TLDR: New method learns visual relationships from images using diffusion models, introduces relation-steering and relation-focal techniques, shows strong results on spatial relationship preservation and transfer.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/reversion-diffusion-based-relation-inversion-from-images). Paper [here](https://arxiv.org/abs/2303.13495).",Successful-Western27,1h7afj8,https://reddit.com/r/MachineLearning/comments/1h7afj8/r_reversion_learning_relation_prompts_from_images/,https://www.reddit.com/r/MachineLearning/comments/1h7afj8/r_reversion_learning_relation_prompts_from_images/,2024-12-05 14:30:05,4,0.84,4,0,0,0,0,False,False,True,False,False,Research,self,t3_1h7afj8
+MachineLearning,[Discussion] Unsigned Integer Representation as Vectors with Focus on Extrapolation,"Hi everyone,
+
+I’m working on a regression task with a transformer-based architecture applied to grid-based structures. Think of something like mazes, where the goal is to predict the distance to a target. Each input token contains categorical features along with x/y coordinates. The idea is to train on small grids and generalize to larger ones.
+
+Here’s my current approach for coordinate and token embeddings:
+
+`x_emb = self.w_x.weight * x # shape: bs, sequence len, 1, d`  
+`y_emb = self.w_y.weight * y # shape: bs, sequence len, 1, d`  
+`cat_emb = self._categ(categ)`  
+`sequence_emb = torch.cat((x_emb, y_emb, cat_emb), dim=-2) # shape: bs, sequence len, num_cat, d`  
+`sequence_emb = sequence_emb.view(bs, seq_len, -1)`  
+`transformer_inputs = self._linear(sequence_emb)`
+
+In other words, the x/y coordinate embeddings are scaled learnable vectors. However, this approach only generalizes moderately well. I suspect that improving the coordinate representation is critical.
+
+Unfortunately, this token-based structure is required for the task, so I need to focus on crafting a smart token representation. I’m deliberately avoiding subtracting embeddings to compute relative distances because a core objective is for the model to learn these distances on its own.
+
+Here are some things I’ve tried so far:
+
+Things I also tried:
+
+* Positional encoding instead of scaled vectors
+* log-scaled vectors
+* exp-scaled vectors
+
+Does anyone know of interesting work or techniques for numerical representations in this kind of context? Any advice would be greatly appreciated!
+
+In case you find interesting papers about extrapolation in transformers based on size and tokens, I am happy to take any inspiration.",mbus123,1h769cs,https://reddit.com/r/MachineLearning/comments/1h769cs/discussion_unsigned_integer_representation_as/,https://www.reddit.com/r/MachineLearning/comments/1h769cs/discussion_unsigned_integer_representation_as/,2024-12-05 10:33:19,4,0.83,4,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h769cs
+MachineLearning,[R] ICLERB: A better way to evaluate embeddings and rerankers for in-context learning,"Current benchmarks for embeddings, like MTEB and BEIR, include multiple datasets and tasks, but are fundamentally based on relevance annotations like text similarity. These are great for choosing the best embeddings for most search/retrieval use cases. These days, many people use these embeddings to retrieve items for in-context learning (e.g. document RAG or few-shot learning), to adapt an LLM to a specific task. Yet, they are still using MTEB to pick the best embeddings, even though the performance on that benchmark doesn't necessarily translate to better performance on their downstream LLM task (MTEB came out in 2021 after all).
+
+In our latest paper, we propose a new evaluation framework and benchmark called ICLERB. This benchmark challenges the conventional approach by using Direct Preference Optimization (DPO) as a relevance metric to reflect the actual utility of embeddings and rerankers when used with LLMs for in-context learning.
+
+[https://arxiv.org/pdf/2411.18947](https://arxiv.org/pdf/2411.18947)
+
+Key Highlights:
+
+\- Embeddings outperform rerankers: We found that simpler embedding models outperformed their higher-capacity reranker counterparts from Cohere, NVIDIA, and VoyageAI.
+
+\- Size isn't everything: Among the three Snowflake embeddings, the smallest model (33M parameters) outperformed the larger ones (109M and 334M).
+
+\- Rethinking training and evaluation objectives: These findings suggest that training and evaluating larger retrieval models solely on text similarity may be counterproductive.
+
+Interestingly, the performance of some models, like BGE, is very sensitive to the dataset or the LLM used, while others like NV are more stable. We're planning to continue adding more datasets and LLMs to the benchmark to broaden its scope.
+
+Curious to hear your thoughts and feedback as we work on improving ICLERB! Are there other retrieval models, LLMs, or datasets you'd like to see included?",Crossing_Minds,1h6o70e,https://reddit.com/r/MachineLearning/comments/1h6o70e/r_iclerb_a_better_way_to_evaluate_embeddings_and/,https://www.reddit.com/r/MachineLearning/comments/1h6o70e/r_iclerb_a_better_way_to_evaluate_embeddings_and/,2024-12-04 19:05:25,61,0.97,61,0,9,0,0,False,False,True,False,False,Research,self,t3_1h6o70e
+MachineLearning,[D] Data drift detection methods aside from changes in model performance metrics,"Hi all,
+
+As the title implies, I've been relying on (somewhat near) real-time monitoring of model performance metrics to see if data drift has happened in my use-case.
+
+I'm wondering if you know other more sophisticated/advanced methods to detect data drift. Would love to hear any kind of methods, whether they target detection of covariate/feature drift, target/label drift or concept drift.
+
+Even better if you can share any Python or R implementations to carry out the above data drift checks.
+
+Thanks in advance!",YsrYsl,1h6woaf,https://reddit.com/r/MachineLearning/comments/1h6woaf/d_data_drift_detection_methods_aside_from_changes/,https://www.reddit.com/r/MachineLearning/comments/1h6woaf/d_data_drift_detection_methods_aside_from_changes/,2024-12-05 01:02:26,8,0.91,8,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h6woaf
+MachineLearning,[D] Daily Paper Discussions - FlashAttention 3,"As a part of daily paper discussions on the Yannic Kilcher discord server, I will be volunteering to lead the analysis of FlashAttention-3 🧮 🔍
+
+📜 **FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision**  
+🌐 [https://arxiv.org/abs/2407.08608](https://arxiv.org/abs/2407.08608)  
+🕰 Thursday, Dec 5th, 2024 01:30 AM UTC // Thursday, Dec 5th, 2024 7.00 AM IST // Wednesday, Dec 4th, 2024 5:30 PM PT
+
+**FlashAttention-3** introduces three smart ideas to boost performance on the Hopper GPUs -
+
+1️⃣ Producer-Consumer Asynchrony: This technique divides tasks into separate parts. As an example, if we have 2 warpgroups (labeled 1 and 2 – each warpgroup is a group of 4 warps), we can use synchronization barriers (bar.sync) so that warpgroup 1 first does its GEMMs (e.g., GEMM1 of one iteration and GEMM0 of the next iteration), and then warpgroup 2 does its GEMMs while warpgroup 1 does its softmax, and so on. By doing this, it makes better use of GPU resources and hides delays that would otherwise slow down performance.
+
+2️⃣ Hiding Softmax Operations: FlashAttention-3 improves efficiency by overlapping the slower softmax calculations with the faster matrix multiplications (GEMM). Instead of waiting for Softmax to finish before starting the next calculations, it processes them in parallel, speeding up the overall process.
+
+3️⃣ Hardware-Accelerated Low-Precision Computations: This approach uses advanced GPU features to perform calculations with lower precision (FP8), which are faster and use less memory. FlashAttention-3 tweaks its algorithms to handle these low-precision calculations effectively, nearly doubling the processing speed while maintaining accuracy.
+
+https://preview.redd.it/impb6wfc1w4e1.png?width=1063&amp;format=png&amp;auto=webp&amp;s=82e24c828b373175ee119070027495a8a2a7bb6a
+
+",CATALUNA84,1h6pmvd,https://reddit.com/r/MachineLearning/comments/1h6pmvd/d_daily_paper_discussions_flashattention_3/,https://www.reddit.com/r/MachineLearning/comments/1h6pmvd/d_daily_paper_discussions_flashattention_3/,2024-12-04 20:03:01,14,0.85,14,0,3,0,0,False,False,True,False,False,Discussion,https://a.thumbs.redditmedia.com/QnOKl-2nMRgI_pTO3xGlP_C2iaaDoYpmwb_KyC2_xI4.jpg,t3_1h6pmvd

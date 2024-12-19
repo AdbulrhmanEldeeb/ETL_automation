@@ -1,0 +1,170 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Made a directory of opensource boilerplates,,sadekships,1h5pmn9,https://reddit.com/r/webdev/comments/1h5pmn9/made_a_directory_of_opensource_boilerplates/,https://i.redd.it/yh1gnjiyfn4e1.png,2024-12-03 15:12:38,29,0.91,29,0,1,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/POe2nYbG9xUVNgwDGIHk5mxCjz5XAxDyHw-6f1CZaqE.jpg,t3_1h5pmn9
+webdev,how to host images ,"hello, I’m building a website in react hosted on Netlify that will contain an image gallery with hundreds of images.. I don’t want to store these images in the project folder to not impact the bundle size and build time.
+
+- what is the best way to handle this? where would you store the images? 
+- when the user opens the gallery, do you know how to lazy load them to not download them all at once?
+
+thanks ",ProfessionalPaint964,1h5q06y,https://reddit.com/r/webdev/comments/1h5q06y/how_to_host_images/,https://www.reddit.com/r/webdev/comments/1h5q06y/how_to_host_images/,2024-12-03 15:28:48,4,1.0,4,0,4,0,0,False,False,True,False,False,,self,t3_1h5q06y
+webdev,What’s the Best Way to Transition from WordPress to a Custom CMS?,I have a few clients interested in moving from WordPress to something more tailored to their needs. What’s the best way to approach this without disrupting their workflow?,beamoflight321,1h5pli2,https://reddit.com/r/webdev/comments/1h5pli2/whats_the_best_way_to_transition_from_wordpress/,https://www.reddit.com/r/webdev/comments/1h5pli2/whats_the_best_way_to_transition_from_wordpress/,2024-12-03 15:11:24,2,1.0,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h5pli2
+webdev,Does AI take the joy out of programming for anyone else?,"I’ve always enjoyed the process of building something and striving for a codebase that’s both maintainable and easy to understand. Solving the initial problem for someone is rewarding, but as the app matures, I find even more value in the **craftsmanship** of the code itself.
+
+Lately, though, I’ve been feeling increasingly demotivated at work. My entire team relies heavily on AI (looking at you, Cursor!) to develop features from start to finish. When I am reviewing their work, I can’t shake the feeling that I’m reviewing AI-generated code, not my colleagues creations. It makes me second guess whether I’ll continue to enjoy programming as it evolves. Right now it feels like I am pair programming with a junior dev(AI) to spit out the next feature.
+
+Do you feel like AI is reshaping programming into something fundamentally different? Is this 'change' for the better or worse?",iamchets,1h5izr8,https://reddit.com/r/webdev/comments/1h5izr8/does_ai_take_the_joy_out_of_programming_for/,https://www.reddit.com/r/webdev/comments/1h5izr8/does_ai_take_the_joy_out_of_programming_for/,2024-12-03 08:37:12,81,0.73,81,0,127,0,0,False,False,True,False,False,,self,t3_1h5izr8
+webdev,Do you code your own SVG icons?,It is surprisingly easy. You should give it a try!,jbrms,1h56zc3,https://reddit.com/r/webdev/comments/1h56zc3/do_you_code_your_own_svg_icons/,https://brems.dev/blog/why-not-make-your-own-svg-icons,2024-12-02 21:54:57,120,0.87,120,0,61,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/-EIKx3jE6MqbN7rTdFFcHzsgLZKK6pAAjeJKeMudvGY.jpg,t3_1h56zc3
+webdev,The friendliest image hosting for small but many images?,"I have many small images, and I want to embed them directly to my page. I'm looking for a free image hosting service thats perfect for this. ",ThaisaGuilford,1h5m7vu,https://reddit.com/r/webdev/comments/1h5m7vu/the_friendliest_image_hosting_for_small_but_many/,https://www.reddit.com/r/webdev/comments/1h5m7vu/the_friendliest_image_hosting_for_small_but_many/,2024-12-03 12:24:32,6,1.0,6,0,14,0,0,False,False,True,False,False,Question,self,t3_1h5m7vu
+webdev,embedding maps on a website,"for a customer project i'm doing a s a freelance i'm going to have to setup a component that can display a vector map view (scope of the map being limited to a city and it's surrounding) with his position in real time (the real time position part is figured out via using owntrack and a mqtt broker )
+
+but i'm stuck on the vector map side , should i :   
+\- use gmap and a pay as you go scheme ?
+
+\- a saas solution like slpy ? which seems to have an okay-ish credit/$ ratio and a base credit ammount renewed each month that might fit the use
+
+\- host a tile server on the server alongside the website and just serve it, which since it's for a limited area, caching and such can be done to reduce cpu cost on the long run? 
+
+  
+i'm missing some variable like the ammount of people who'll access the website and such",mrjuoji,1h5nsfa,https://reddit.com/r/webdev/comments/1h5nsfa/embedding_maps_on_a_website/,https://www.reddit.com/r/webdev/comments/1h5nsfa/embedding_maps_on_a_website/,2024-12-03 13:49:03,3,1.0,3,0,8,0,0,False,False,True,False,False,Question,self,t3_1h5nsfa
+webdev,Post your personal portfolio (and rate the others)!,"# I start: [https://www.antoniopelusi.com](https://www.antoniopelusi.com)
+
+Made everythings from scratch, just HTML, CSS and JS. Source code available here: [https://github.com/antoniopelusi/antoniopelusi.com](https://github.com/antoniopelusi/antoniopelusi.com)",antoniopelusi,1h5q8xf,https://reddit.com/r/webdev/comments/1h5q8xf/post_your_personal_portfolio_and_rate_the_others/,https://www.reddit.com/r/webdev/comments/1h5q8xf/post_your_personal_portfolio_and_rate_the_others/,2024-12-03 15:39:10,2,1.0,2,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h5q8xf
+webdev,How to display math formulas on a webpage?,"What are your guys favorite ways to display formulas in html without any additional website performance issues?
+
+And preferable text since it seems to be shown a lot more in search engines compared to svg.
+
+",TheDoomfire,1h5mwve,https://reddit.com/r/webdev/comments/1h5mwve/how_to_display_math_formulas_on_a_webpage/,https://www.reddit.com/r/webdev/comments/1h5mwve/how_to_display_math_formulas_on_a_webpage/,2024-12-03 13:03:38,3,1.0,3,0,10,0,0,False,False,True,False,False,,self,t3_1h5mwve
+webdev,How is this site detecting dev tools? (and clearing out the page),"This site seems to disable right-click, and if you open the inspector anyways, it detects it somehow and blanks out the page: [https://chillychiles.com/](https://chillychiles.com/)
+
+How are they detecting that?",ImNewHere05,1h5004w,https://reddit.com/r/webdev/comments/1h5004w/how_is_this_site_detecting_dev_tools_and_clearing/,https://www.reddit.com/r/webdev/comments/1h5004w/how_is_this_site_detecting_dev_tools_and_clearing/,2024-12-02 17:12:21,114,0.95,114,0,21,0,0,False,False,True,False,False,,self,t3_1h5004w
+webdev,Next-level frosted glass with backdrop-filter,,feross,1h53uk6,https://reddit.com/r/webdev/comments/1h53uk6/nextlevel_frosted_glass_with_backdropfilter/,https://www.joshwcomeau.com/css/backdrop-filter/,2024-12-02 19:47:15,62,0.95,62,0,6,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/nP2uUJEYahqxP7FXCNO8jj091FAuFuUTENdyglMuJJA.jpg,t3_1h53uk6
+webdev,Am I an asshole for blocking my friend over a hobby web app project?,"TL;DR: my friend expects me to work hard on his hobby project, berated me for not complete the task he assigned so I was mad and block him.
+
+My friend is a senior dev (mainly focus on data engineering) who has worked for multiple large projects, for the last few months started a side project with his friend and invited me to join them. The project is a platform which helps connect designers and let them share their artworks and stuff.
+
+Having bad experiences working with multiple projects like this, where I spent LOTS of time to build apps for friends' ideas (which they promised will be very interesting and lucrative lol) but then received almost nothing in return; I hesitated at first but he said it's just a hobby project to hone our skills so just chilling around. No money involved and just focus on dev so no big issues it seems, I accepted his invitation.
+
+On boarding last weekend, was told about purposes of the project and team, but I didn't receive any overview of the app nor any doc as it hasnt been written yet. I was assigned a small task to begin with. Well it's cool, gotta dive in the code then, it's what I usually do anyway. Though I'm a self taught dev for 6+ years on and off, the project is mainly front-end in Nextjs using supabase for auth which I only have experience in less than 1 year, so took me sometimes to be familiar.
+
+HERE COMES THE PROBLEM. The app was built okay on my machine but whenever I changed a bit of the code, my WSL crashed entirely and took 2 3 minutes to restart. The codebase seems okay, but it's quite large so I reported to him it will take me sometimes to debug and to make it work properly. He was mildly frustrated and kept checking me every 3 4 hours if I have finished the task assigned yet as he and others don't have the problem as I do. It was on weekend so I was quite annoyed to be forced to work by him, as I have other stuffs to do with my family.
+
+Fast forward to monday, after spent 10+ hours debugging, going over the web app to test as well as the codebase and other tasks/ issues have done in the last few months, I noted down some points which can improve the app. I also noted that it's only my suggestions, not necessary to change anything now; and I will work on the task assigned today as I have fixed the crashing error.
+
+He called me over and was ULTRA mad and tell me:
+
+- I was too distracted and unprofessional. I MUST and CAN code the task because it's so easy according to him, no need the app to run to do it.
+
+- My coding skill is subpar as the 2 unpaid interns who havent graduated yet can do it easily. He even stressed that the university they come from is below-average.
+
+- Scolded me because I'm distracted so they may miss their deadline
+
+- My coding skill is ass so in the future he can't give me big task, and he MUST break it down to small ones for me to complete it
+
+- He said in a assumed circumstance, if one of his employees acts unprofessional like I did what will he feel about them (disappointed, angry etc.)
+
+- He told me to finished the task immediately, and he will check in after 0.5 hour. Or else he will be so mad.
+
+- Said that this project is good but no promise for economic value in the future; though I can add it to my portfolio for better recognition for future employer lol.
+
+- Said that he commited 4 5 hours per day for this project so he expects me to do the same
+
+After that I was so mad as I feel I do nothing wrong?; so after complete the task and a few hours I blocked him all around. One of my close friend told me I was too rushed and need to explain to him explicitly (which I did previously). So am I an asshole to block him too quickly like that?",kenvinams,1h4xct4,https://reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/,https://www.reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/,2024-12-02 15:21:32,118,0.81,118,0,173,0,0,False,False,True,False,False,Discussion,self,t3_1h4xct4
+webdev,Easy ways to hide API keys,"I’m a frontend developer and run into this problem a lot, especially with hobby projects.
+
+Say I’m working on a project and want to use a third party API, which requires a key that I pay for and manage. 
+
+I can’t simply place it on my frontend app as an environment variable, because someone could dig into the request and steal the key.
+
+So, instead I need to set up a backend, usually through a cloud provider that comes with more features than I need and confuses the hell out of me.
+
+Basically, what’s a simple way to set up a backend that authenticates a “guest” user from a whitelisted client, relays my request to the third party with the key attached, then returns the data to my frontend?",Greeby_Bopes,1h4znal,https://reddit.com/r/webdev/comments/1h4znal/easy_ways_to_hide_api_keys/,https://www.reddit.com/r/webdev/comments/1h4znal/easy_ways_to_hide_api_keys/,2024-12-02 16:58:07,89,0.86,89,0,85,0,0,False,False,True,False,False,Question,self,t3_1h4znal
+webdev,"wtf is this? (glassdoor, window.WTF_IS_THIS, works on all pages)",,L8Figure,1h4r6w5,https://reddit.com/r/webdev/comments/1h4r6w5/wtf_is_this_glassdoor_windowwtf_is_this_works_on/,https://i.redd.it/eo8ewvyrle4e1.png,2024-12-02 09:26:20,297,0.93,297,0,65,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/0IKMUpnuiUaW2_ax6WfWDOAfbGsfJtZeGgLC070uo3s.jpg,t3_1h4r6w5
+webdev,Best setup for endpoint testing of HTTP requests using Node?,"Beforehand, I am still on the local machine development phase of my project. I am not a webdev pro and the interaction between expressjs and mongo I am being asked to develop are getting more involved and I have only been using postman so far to test the http requests and it is getting tedious. I would like to write a test suite instead that I can slowly build upon during development.
+
+ChatGPT mentions Jest, Mocha and SuperTest. In your experience, what is the best way to go about it?",setdelmar,1h5prz0,https://reddit.com/r/webdev/comments/1h5prz0/best_setup_for_endpoint_testing_of_http_requests/,https://www.reddit.com/r/webdev/comments/1h5prz0/best_setup_for_endpoint_testing_of_http_requests/,2024-12-03 15:19:02,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h5prz0
+webdev,Cookieless advertising,"Anyone knows of an ad distribution service that does not use cookies to track the viewers?
+
+I read about Google Adsense's setting to disable personalization cookies, but that still uses anonymous cookies to prevent cheating the viewer numbers and thus requires the GDPR consent within the EU. (I think)",jbrms,1h5oofi,https://reddit.com/r/webdev/comments/1h5oofi/cookieless_advertising/,https://www.reddit.com/r/webdev/comments/1h5oofi/cookieless_advertising/,2024-12-03 14:30:53,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h5oofi
+webdev,What has happened to Render?,"I hosted a Django app on Render using their free tier. Initially, the server responds quickly after a restart, but over time (a day or two), the response times degrade significantly — even loading the home page can take 1-2 minutes. Occasionally, the server fails to start altogether, forcing me to restart it manually.
+
+This issue seems new, as I don’t recall facing such problems with Render 2-3 months ago. Could it be that Render has significantly reduced the resources allocated to their free tier?",Uziii-Boiii,1h5hxjp,https://reddit.com/r/webdev/comments/1h5hxjp/what_has_happened_to_render/,https://www.reddit.com/r/webdev/comments/1h5hxjp/what_has_happened_to_render/,2024-12-03 07:18:15,4,0.75,4,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1h5hxjp
+webdev,Monorepo architecture and scopes,"Monorepo architecture
+
+Hi there! I’m using NX with Angular for a monorepo (but I don’t think this issue is specific to Angular nor NX) (4 projects, multiple libraries). As the repo is growing, the current library structure feels unsustainable, and responsibilities between modules are becoming unclear. Here's the current setup:
+
+# Current Library Structure
+
+1. `libs/features`
+   * Each ""screen"" (micro-frontend) gets its own library.
+   * **Problem:** Shared logic across screens creates overlapping responsibilities.
+2. `libs/services`
+   * Libraries aligned with backend microservices, split into subcategories:
+      * **UI:** Frontend-specific logic/components for an ""entity"" such as order-card.
+      * **Feature:** Core functionality (but sometimes imports across services, which feels wrong). Could be a smart search screen for orders, an oder dialog etc.
+      * **Data-access:** Backend-specific data handling logic. Like order-rest/websockets
+   * **Problem:** The ""feature"" sub-lib crosses boundaries and doesn’t align with service isolation. And it doesnt seem to make sense since its generally more defined by the wanted frontend functionality.
+3. `libs/shared`
+   * Shared functionality, including:
+      * Config
+      * Notifications handling
+      * Shared UI components not tied to entities
+
+# Questions
+
+1. **UI Libraries**
+   * Should all UI components be consolidated under `libs/shared/ui` and divided into sub-libraries/categories (e.g., `shared/ui/&lt;category&gt;`)?
+2. **Backend vs. Frontend Domains**
+   * Should backend-related libraries only include `data-access` and avoid mixing in UI or feature logic?
+   * Should the frontend code be reorganized into ""frontend domains,"" where each domain encapsulates:
+      * Shared business logic
+      * Specific screens (which could eventually become micro-frontends)?
+
+# Goals
+
+* **Clear separation of concerns**
+* **Sustainable structure as the repo grows**
+* **Logical boundaries between backend services and frontend domains**
+
+# How should I reorganize my libraries to achieve this?
+
+  
+Really grateful for any inputs or direction. Im feeling a bit lost at how to best structure this. I think the way to go is splitting things up more by front-end domains. But what sort of library types would be suitable, and which scopes and types should be limited from importing what? ",Wigglystoff,1h5ivj1,https://reddit.com/r/webdev/comments/1h5ivj1/monorepo_architecture_and_scopes/,https://www.reddit.com/r/webdev/comments/1h5ivj1/monorepo_architecture_and_scopes/,2024-12-03 08:27:59,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1h5ivj1
+webdev,Using Facebook Graph API to connect our Capstone App to a FB Messenger Group Chat,"Hello, I am a 3rd year IT student, and we are currently doing our capstone/thesis. Our capstone project have a target user of farmers (people of old age, and not adept on using tech. Also in SEA 3rd world country, where internet is scarce). They do know how to use FB Messenger, and are already using it for their work. Our capstone idea wants to utilize those information stuck in their Messenger Group Chat.  
+   
+
+
+Is it possible to use Facebook Graph API? Would it cost much?",Zhand-R,1h5iqld,https://reddit.com/r/webdev/comments/1h5iqld/using_facebook_graph_api_to_connect_our_capstone/,https://www.reddit.com/r/webdev/comments/1h5iqld/using_facebook_graph_api_to_connect_our_capstone/,2024-12-03 08:17:43,2,1.0,2,0,0,0,0,False,False,True,False,False,Question,self,t3_1h5iqld
+webdev,Is This Login/Signup System Secure and Efficient? Looking for Feedback,"Hi, I’ve built a login/signup system for my website and would love your feedback. Here's a breakdown:
+
+**1. Sign-Up Flow**
+
+* User fills out name, email, password (validated for strength) and completes hCaptcha.
+* Frontend sends a POST request to /api/auth/register with user data and hCaptcha token.
+* Server validates data, verifies hCaptcha, and creates a ""pending user"" with:
+   * Hashed password, 6-digit OTP (valid 5 mins), and expiration (30 mins).
+* OTP is emailed to the user for verification.
+* On valid OTP, a user account is created, and the pending entry is removed.
+
+**2. Sign-In Flow**
+
+* User enters email/password.
+* Server verifies credentials and creates a session via NextAuth.
+* On success, user is redirected to the dashboard.
+
+**3. Additional Security**
+
+* Passwords hashed with bcrypt.
+* Failed logins tracked for account lockout.
+* Background task clears expired pending users every 5 minutes.
+* Password resets use the same OTP process as registration.
+
+**4. Session Management**
+
+* Handled by NextAuth with token storage in cookies.
+
+**Questions:**
+
+* Is this secure enough?
+* Any improvements to the email verification or overall flow?
+* Other tips for a better user experience or security?
+
+Thanks for your input! ",DisastrousJuice1658,1h5bffm,https://reddit.com/r/webdev/comments/1h5bffm/is_this_loginsignup_system_secure_and_efficient/,https://www.reddit.com/r/webdev/comments/1h5bffm/is_this_loginsignup_system_secure_and_efficient/,2024-12-03 01:12:38,6,1.0,6,0,4,0,0,False,False,True,False,False,Question,self,t3_1h5bffm

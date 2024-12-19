@@ -1,0 +1,212 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Is linux mint or any arch base distro a bad choice for machine learning? ,I use pop os and i am learning machine learning but suddenly i am thinking about distro hopping to linux mint or something arch based but are these two viable option? ,godel-the-man,1h7bepa,https://reddit.com/r/learnprogramming/comments/1h7bepa/is_linux_mint_or_any_arch_base_distro_a_bad/,https://www.reddit.com/r/learnprogramming/comments/1h7bepa/is_linux_mint_or_any_arch_base_distro_a_bad/,2024-12-05 15:14:41,2,0.67,2,0,3,0,0,False,False,True,False,False,,,t3_1h7bepa
+learnprogramming,Need help deciding my major ,"Hi everyone. I’m currently stuck between two majors/minors. My options are:
+
+Mathematics and statistics (major) - computer science (minor)
+
+Computer science (major) - statistics (minor)
+
+I love math, specifically stats, but all math is interesting to me. I equally love computer science. Some of my other interests are ML, AI, modeling, neural networks, and data analysis. Which of these paths would get me on the right track for a secure, well paying job? I’m not super knowledgeable in the before mentioned fields so I’m struggling to decide what would be the right path for me. Any insight would be greatly appreciated!!",1baylor,1h7akgc,https://reddit.com/r/learnprogramming/comments/1h7akgc/need_help_deciding_my_major/,https://www.reddit.com/r/learnprogramming/comments/1h7akgc/need_help_deciding_my_major/,2024-12-05 14:36:26,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h7akgc
+learnprogramming,"Learn programming by contributing to active open-source project, any skill will work","I maintain some popular OSS projects, and overal ove a lot to open-source community (proof https://github.com/buger)
+
+Plus for me OSS was one of the key pillars of my career, on Github from day one and etc.
+
+A lot of people ask me regularly how to actually get into commercial programming, to find some projects, build portfolio and etc. What I usually answer is that getting into Open Source is the great deal - you can test your skills on some real projects, and in parallel build portfolio.
+
+However it is very tricky to find the project to contribute. Large projects like Node, Shadcn, and Rust are already overwhelmed with contributions and can't handle their pull request queues. Also there is another insight that hit me hard.
+
+Contributing to these large projects is incredibly time-consuming. Sometimes it takes hours just to figure out how to build the project, and I'm engineer with 20 years of experience. And let's be honest - most of us just have a few hours we want to spend on something meaningful.
+
+For me it is about a joy to pair with someone who is in need and can actually benefit from your help. To have some fast feedback look, and actually ship. The are so many smaller projects out of there that provide something meaningful to the world, or just fun.
+
+I have built [https://helpwanted.dev](https://helpwanted.dev/) \- a place where people looking for some fun, or test their skills can find projects with active maintainers, actually looking for help. And in my view it is a perfect place to start your career.
+
+While building this, I found some cool projects I never knew existed, and I would ever find the other way:
+
+• Animal Shelter Manager
+
+• Salam Language: First coding language for Persian/Arabic speakers
+
+• Korean Train Set for OpenTTD  
+  
+My latest experience - I have submitted 3 PRs, and got the response on each within a few hours. How cool is that?
+
+The site has some AI magic to give you quick summaries about projects, issues details, and complexity scores. Would love to hear your thoughts on this!
+
+In the spirit of Christmas, wanted to share my love for the OSS community. No 1000 PRs in queue**, just pure joy of contributing**, and helping someone who actually needs help.
+
+OSS 💕",leonidbugaev,1h79zoo,https://reddit.com/r/learnprogramming/comments/1h79zoo/learn_programming_by_contributing_to_active/,https://www.reddit.com/r/learnprogramming/comments/1h79zoo/learn_programming_by_contributing_to_active/,2024-12-05 14:09:11,26,0.91,26,0,2,0,0,False,False,True,False,False,,,t3_1h79zoo
+learnprogramming,Do you visualize code in your head?,"Ive read ""imagine variables as a ""box"" and values as ""things in the box"""". Do programmers actually vizualize this or other things? Im very curious. Simple yes/no is enough :\]",Simple-Alternative28,1h76vlo,https://reddit.com/r/learnprogramming/comments/1h76vlo/do_you_visualize_code_in_your_head/,https://www.reddit.com/r/learnprogramming/comments/1h76vlo/do_you_visualize_code_in_your_head/,2024-12-05 11:16:07,40,0.87,40,0,67,0,0,False,False,True,False,False,,,t3_1h76vlo
+learnprogramming,Insights from a career switcher who's helped 100s of people transition into engineering,"I interviewed Brian Jenney, a software engineer who learned to code at age 30 after leaving behind a difficult past of addiction. Since making the career change, he's been a Senior Engineer and manager at several companies large and small (e.g. Clorox).
+
+Over the past 3 years, Brian interviewed 500+ developers, so he has deep insights into the challenges that job seekers face. Here are his top takeaways and suggestions:
+
+# You need a stronger technical foundation
+
+Too many aspiring engineers become *framework developers* instead of *software developers*. They fail to understand core programming concepts beyond their preferred framework (e.g. React or Angular). Without a solid technical foundation, you cannot achieve career stability.
+
+You should be able to make educated guesses about **how** various frameworks or abstractions work. What's happening behind the scenes when you deploy an application on Vercel? What problem is your framework trying to solve, and what are some of the tradeoffs?
+
+Spend the time to go beyond tutorials and deliberately break systems to truly master a programming language, framework, or application.
+
+# Find time, even when you have none
+
+The most common failure reason is that we lack time to dedicate to coding and job-searching. Here's what you should do:
+
+* **Plan out your main task the night before**, so you have less decision fatigue when you start working.
+* **Identify your most productive time of day** and protect it (hint: it’s usually the morning).
+* **Work in sprints**. Humans have short supplies of motivation, so we need to work in ""seasons"" or sprints. Decompose your problem into something manageable and set a deadline.
+
+# Build in public (the right way)
+
+If you don't have a 4-year CS degree, you need to spend extra time and energy to de-risk yourself as a candidate. The best way to do this is to **build in public** by sharing your progress and (more importantly) learnings over time. This has 3 benefits:
+
+1. A track record of contributions will improve your prospects by showing your persistence.
+2. Building in public holds you accountable to your goals and helps you communicate more effectively, a key skill for software development.
+3. Public sharing lets you connect with like-minded people and build a supportive community.
+
+If you're in doubt about which platform to pick, choose LinkedIn (it's the dominant professional network, and it's where recruiters spend most of their time.)
+
+# The chicken and egg problem of gaining experience
+
+Career switchers are very likely to face the classic conundrum: ""*In order to land a job, you need experience. But to get experience, you need a job.*"" Here's how to get past this impasse:
+
+* Seek out freelancing opportunities, which are relatively easier to start and can lead to valuable connections. Open source is overrated and has a much higher barrier to entry.
+* Turn a side project into a legit business. You will be surprised how easily you can actually sell software on the internet and own your destiny.
+* Finally, be willing to work for ""free"" as long as you're getting compensated in other ways, e.g. credibility, referrals, or experience. Set clear deliverables so you're not exploited.
+
+Finally, remember that career switchers also have unique advantages in the job market. Your past experience will undoubtedly make you a better fit for certain employers. Lean into that.",rahulkpandey,1h6ltcn,https://reddit.com/r/learnprogramming/comments/1h6ltcn/insights_from_a_career_switcher_whos_helped_100s/,https://www.reddit.com/r/learnprogramming/comments/1h6ltcn/insights_from_a_career_switcher_whos_helped_100s/,2024-12-04 17:31:44,130,0.89,130,0,7,0,0,False,False,True,False,False,Resource,,t3_1h6ltcn
+learnprogramming,Resources for learning to program without relying on a language so much?,"Context: I’ve been learning for about a year now and I’ve used CS50, Automate the Boring Stuff, and FreeCodeCamp. Odin Project is next.
+
+The most ubiquitous piece of advice I hear about learning programming is to focus on the fundamentals over learning languages and memorizing every last detail of them. That said, what are some good resources or best practices to learn about the fundamentals of coding without letting the minutiae of programming languages get in the way? I’ve mostly been learning Python, which isn’t too hard, but I do feel like I get caught up in things like syntax and other things that you can just look up too much to really internalize some key programming concepts. I’m not trying to get out of learning a language altogether, I obviously want to, but I feel like it would be much more valuable to find some ways to learn and practice fundamental programming concepts first. Any recommendations or advice is appreciated!",hurtscience,1h6v2bv,https://reddit.com/r/learnprogramming/comments/1h6v2bv/resources_for_learning_to_program_without_relying/,https://www.reddit.com/r/learnprogramming/comments/1h6v2bv/resources_for_learning_to_program_without_relying/,2024-12-04 23:49:24,27,0.87,27,0,13,0,0,False,False,True,False,False,,,t3_1h6v2bv
+learnprogramming,"Studying a fairly big code project, with almost no docs","Hi everyone, I don't know if this is the right place but I'll ask it anyways.
+
+I would like to study a big existing code project to understand how it works and to make custom implementation but really I never studied another person's codebase, especially this big, so I wanted to ask how would you do it? Do you start from the entrypoint and try to follow the code flow? do you run the application and try to track the single functionality in the code? I really don't know where and how to start so I'm opened to every suggestion.
+
+Also, do you keep some kind of note while doing that?
+
+Thanks :)",ImElBelva1,1h77ojl,https://reddit.com/r/learnprogramming/comments/1h77ojl/studying_a_fairly_big_code_project_with_almost_no/,https://www.reddit.com/r/learnprogramming/comments/1h77ojl/studying_a_fairly_big_code_project_with_almost_no/,2024-12-05 12:06:33,4,0.83,4,0,11,0,0,False,False,True,False,False,,,t3_1h77ojl
+learnprogramming,Advice for improving problem solving.,"Okay, so while I've been familiar with coding for years, I'm still pretty much a noob tbh. I'm trying out the Advent of Code event and i managed to solve Day 1's problems, I am currently stuck on Day 2's. I was wondering if maybe there's a way I'm supposed to approach these problems to get to the solutions. 
+
+I wanted to know if there's a way I'm supposed to approach solving these problems or a way I'm supposed to be thinking? I've been meaning to hop onto leetcode after the event, but I'm worried I won't be able to handle them.
+
+What are some advices you can share when it comes to becoming a problem solver? Should I write on pen and paper first? should I look at tutorials? Is it advised to use these LLMs for advice without them giving me the answer?
+
+How can I improve?
+
+I've been using Python as my language of choice.",VivaDeAsap,1h79fks,https://reddit.com/r/learnprogramming/comments/1h79fks/advice_for_improving_problem_solving/,https://www.reddit.com/r/learnprogramming/comments/1h79fks/advice_for_improving_problem_solving/,2024-12-05 13:42:05,2,1.0,2,0,2,0,0,False,False,True,False,False,,,t3_1h79fks
+learnprogramming,Looking for a programming buddy,"I'm a 22 year old Computer Science ""student"" who is looking for a programming buddy. I have fallen victim of learning for the sake of learning. I have studied for 2 years and I have a basic knowledge of programming and networking. 
+I program with Python and I have a very basic knowledge of c and c++.
+Fyi: I'm a horrible coder and I need to upgrade my algorithmic thinking.
+I'm looking for a buddy or even better a group of buddies so we can study, learn and build projects together.
+Having 1 or 2 people at your side pushing you to get better I believe is a good strategy. Plus , we get to enhance our portfolios ;)
+
+PS 
+Ideally, I would like to hang out with programmers at my own level and with the same aspirations as me.",Loumidis_,1h6e5xu,https://reddit.com/r/learnprogramming/comments/1h6e5xu/looking_for_a_programming_buddy/,https://www.reddit.com/r/learnprogramming/comments/1h6e5xu/looking_for_a_programming_buddy/,2024-12-04 11:47:53,179,0.94,179,0,140,0,0,False,False,True,False,False,,,t3_1h6e5xu
+learnprogramming, Project ideas for my final year mini project,"I know basic programming but not enough knowledge to create an app or a website.
+
+But I have the desire to make my own one.
+
+Help me with any ideas excluding all the oversaturated projects like hospital management, school management, etc...
+
+What should I focus on?
+
+How to plan it?
+
+Where to start it?
+
+Within 4 months😅?
+
+Maybe it sounds lunatic, but I wanna create something not just for college but also that helps me to add value to my resume.",Character3-20,1h7az56,https://reddit.com/r/learnprogramming/comments/1h7az56/project_ideas_for_my_final_year_mini_project/,https://www.reddit.com/r/learnprogramming/comments/1h7az56/project_ideas_for_my_final_year_mini_project/,2024-12-05 14:55:31,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h7az56
+learnprogramming,Is it worth learning blockchain in 2024-2025?,"So i am preparing for a hackathon being held Feb next year.
+
+I was looking for a good project for it, then i came across a project,
+
+""Decentralized Crowdfunding Platform: A blockchain-based platform to support small businesses or social causes.""
+
+It has a pretty standard tech stack, but it also contains blockchain (obviously).
+
+So i wanted to know if learning blockchain is even worth it nowdays.",DKAIN_001,1h79o5s,https://reddit.com/r/learnprogramming/comments/1h79o5s/is_it_worth_learning_blockchain_in_20242025/,https://www.reddit.com/r/learnprogramming/comments/1h79o5s/is_it_worth_learning_blockchain_in_20242025/,2024-12-05 13:53:57,0,0.5,0,0,6,0,0,False,False,True,False,False,General Query ,,t3_1h79o5s
+learnprogramming,Built a tool to step through LeetCode Python solutions—feedback welcome! 🐛✨,"Check it out here: [https://x.com/roshi\_xyz/status/1864257060042330455](https://x.com/roshi_xyz/status/1864257060042330455)
+
+Hey everyone! 👋
+
+I created a tool that lets you step through Python code for LeetCode problems, line-by-line. It highlights the current line being executed and shows real-time values of variables and sub-expressions. Super helpful for debugging or understanding how code flows!
+
+It’s still a work in progress, so there are a few bugs 🐛, but I’m actively working on it. Would love any feedback or suggestions!",aman167k,1h79kbm,https://reddit.com/r/learnprogramming/comments/1h79kbm/built_a_tool_to_step_through_leetcode_python/,https://www.reddit.com/r/learnprogramming/comments/1h79kbm/built_a_tool_to_step_through_leetcode_python/,2024-12-05 13:48:49,1,1.0,1,0,0,0,0,False,False,True,False,False,Debugging,,t3_1h79kbm
+learnprogramming,Sincere advise on how to proceed further in programming.,"I had recently joined the Udemy course entitled ""The Complete 2024 Web Development Bootcamp"" by Dr. Angela Yu. When I started with the HTML part, I breezed through the exercises and concepts with little difficulties apart from certain roadblocks. 
+
+However, as I started the CSS module, especially the Advanced CSS parts, I found it very difficult to understand the concepts and have been struggling with the exercises. I have rewatched the videos and referred to multiple websites, but I just can't seem to grasp the concepts thoroughly. 
+
+Due to this, I have pathologically procrastinated for months, without actually trying. But I want to learn web development. I am interested in the work, but it just seems to be very, very difficult. To be particular, the concepts such as CSS Float, CSS display, the combining of CSS Selectors just seems to go right through my head.
+
+I have seen people say that learning CSS is extremely easy and after hearing that, I feel extremely stupid. Can you give me some advise on how to proceed further? Please advise.  ",Solitary_Survivalist,1h79fe5,https://reddit.com/r/learnprogramming/comments/1h79fe5/sincere_advise_on_how_to_proceed_further_in/,https://www.reddit.com/r/learnprogramming/comments/1h79fe5/sincere_advise_on_how_to_proceed_further_in/,2024-12-05 13:41:50,1,1.0,1,0,11,0,0,False,False,True,False,False,,,t3_1h79fe5
+learnprogramming,Dilemma about using AI to learn programming,"(I'd like people who think of themselves as experienced/intermediate programmers to comment on this post only)
+
+So I'm somewhere b/w a beginner and an intermediate programmer and I'd like to know how I can best use AI to assist me in programming. I don't want to rely completely on it and I don't know *how much* I should rely on it. I was using vscode this morning and installed the blackbox ai extension because I was having trouble solving a set of problems. A few minutes later I found myself going back to the extension every time I got stuck at a problem. There have been amazing programmers before me and they didn't have AI. How did they get through these hurdles while solving problems? I mean obviously their process was more extensive, book reading, highlighting notes etc. but now, everything is a prompt away.   
+  
+Could I get some advice on whether I should have extensions like GitHub Copilit, BlackBox etc. installed in my code editor? If yes, how do I use it to actually ""learn"" programming and not copy everything?",leoxplr,1h79az8,https://reddit.com/r/learnprogramming/comments/1h79az8/dilemma_about_using_ai_to_learn_programming/,https://www.reddit.com/r/learnprogramming/comments/1h79az8/dilemma_about_using_ai_to_learn_programming/,2024-12-05 13:35:28,0,0.33,0,0,10,0,0,False,False,True,False,False,,,t3_1h79az8
+learnprogramming,"Best Approach for Storing and Retrieving Chat Messages in a Flutter App with Go, PostgreSQL, and Redis","I am building an application with Flutter for the frontend, Golang for the backend, PostgreSQL for the database, and Redis as a cache. I'm implementing a chat system and I'm unsure where to store the messages. Should I store them in PostgreSQL? Is it efficient to store thousands of messages in a relational database? How will retrieving them impact the performance of my application? What would be the best solution for my case, considering performance and scalability? I read about NoSQL for storing messages but it's really necessary to implement a new techno on my project for that ? ",StillFresh9607,1h79645,https://reddit.com/r/learnprogramming/comments/1h79645/best_approach_for_storing_and_retrieving_chat/,https://www.reddit.com/r/learnprogramming/comments/1h79645/best_approach_for_storing_and_retrieving_chat/,2024-12-05 13:28:31,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h79645
+learnprogramming,Deciding which language to learn,"Hi, sorry for the generic question that's probably asked a lot. I'm wondering about any advice that relates to my situation.
+
+I'm in the midst of trying a carrer change. I've always wanted to work in IT, and now have the time and savings to make the push. 
+
+I have a good grasp of the logic behind programming, but I don't know how to program. I'm proficient in Excel (not VBA though) and have dipped my toe into Python, JS, CSS and HTML before, but my knowledge is mostly very basic and not usable in these languages. 
+
+I'm trying to decide what to learn that is a good mix of the following:
+
+- creative and versatile
+- time-efficient to learn and land a junior job after several months of high intensity learning (4-6h per day)
+- pays well down the line as you get better
+
+I started Jonas'course in JS yesterday but am now having second thoughts on whether I should do JS or the other two. JS certainly seems the most ""fun"" to me, while Python comes off as the most versatile and useful, while SQL seems the easiest to start work in asap and is related to my excel job from before (which included a caveman version of data reports and interpretation).
+
+So currently I'm considering JS, Python and SQL, so I would highly value and appreciate any opinions on the pros and cons of these three relating to the above points, or any personal experiences with learning them - how long it took, how long until you got a job using them etc. Or any other recommendations for other languages are also welcome.
+
+Please share your experiences and help me out a bit :')
+
+",BrainwashedByTruth,1h78zmx,https://reddit.com/r/learnprogramming/comments/1h78zmx/deciding_which_language_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h78zmx/deciding_which_language_to_learn/,2024-12-05 13:19:14,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1h78zmx
+learnprogramming,Getting over the hump to enjoyment and purpose,"Was there a hump you had to get past in learning programming when things started to click more and it became a lot more enjoyable? Like low level programming I'm at a place where I can't see how such complex things like software, websites, AI, etc come together from these languages. Like you must have to know quite a bit to really get to where you can do much more complex things. Also that's how it feels. I enjoy it sometimes but at this point it's kind of dull and I feel like I'm lacking purpose. I really want to be a computer scientist though so I'm going to keep going but I get really discouraged sometimes and just feel like I'm sooo far behind.",ThisIsToday7,1h78ld6,https://reddit.com/r/learnprogramming/comments/1h78ld6/getting_over_the_hump_to_enjoyment_and_purpose/,https://www.reddit.com/r/learnprogramming/comments/1h78ld6/getting_over_the_hump_to_enjoyment_and_purpose/,2024-12-05 12:58:36,0,0.5,0,0,3,0,0,False,False,True,False,False,,,t3_1h78ld6
+learnprogramming,Make programming fun to learn,"17 year old student here, I want to learn how to code, which will help me make robots and rockets one day, some might feel that this is too big of a dream...maybe, and I am a complete beginner, so I have no idea where to start, or which platform I should use to keep learning things, any suggestions that will help me make programming and stuffs easier and fun to learn",Pure_Literature7719,1h6kzfw,https://reddit.com/r/learnprogramming/comments/1h6kzfw/make_programming_fun_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h6kzfw/make_programming_fun_to_learn/,2024-12-04 16:59:11,40,0.87,40,0,16,0,0,False,False,True,False,False,,,t3_1h6kzfw
+learnprogramming,How can i set myself up for a job as a software dev student? also thoughts on AI?,"
+Hi!
+
+I have just finished my first year studying software development in Sydney Australia. Although i found it a bit tricky as i had never done any coding before I actually really enjoyed it and am excited to keep learning. 
+
+My degree is 3, maybe 4 years if i do honours. I want to make sure im doing all that i can now in order to set myself up for the future and land myself a good job. I know it’s really important to do projects and get internships. I have tried starting a project but am a bit confused where to even start 😅. 
+
+I was just wondering if anyone has any advice on what i can be doing now so i’m not wasting these 3-4 years. To those who are now working what did you do to get to where you are and was there anything you wish you did?
+
+Also, do you think with all this stuff coming up with AI, is it worth doing a double degree? I am currently doing a double degree with science but i want to drop it so i can graduate earlier and I don’t think it will be useful. Does anyone have any insights on this?
+
+Thanks to those who reply!",Emotional-Snow-3914,1h6zy73,https://reddit.com/r/learnprogramming/comments/1h6zy73/how_can_i_set_myself_up_for_a_job_as_a_software/,https://www.reddit.com/r/learnprogramming/comments/1h6zy73/how_can_i_set_myself_up_for_a_job_as_a_software/,2024-12-05 03:42:04,5,1.0,5,0,3,0,0,False,False,True,False,False,,,t3_1h6zy73
+learnprogramming,Data Structures and Inherently Data Types?,"I'm rather new to CS.... so I'm sorry if the questions has an obvious answer.
+
+Essentially, my question is... where is the line between data type vs. data structure... it seems to me like they kind of blur together.
+
+For example, when you create a tree, which is a data structure, and then pass that into the function, the tree is effectively a data type, no? In this case, the tree is after all the type of value that you are passing in.
+
+As another example, you could create a list forest by making a list of trees.... in this case, you effectively have a list of the data type tree, if I am understanding correctly.
+
+I have yet to study Object-Oriented Programming; will that help clear this up?
+
+Thank you all in advance for your help!",Football_Forecast,1h73b9w,https://reddit.com/r/learnprogramming/comments/1h73b9w/data_structures_and_inherently_data_types/,https://www.reddit.com/r/learnprogramming/comments/1h73b9w/data_structures_and_inherently_data_types/,2024-12-05 06:56:48,2,1.0,2,0,3,0,0,False,False,True,False,False,,,t3_1h73b9w
+learnprogramming,I need help making a desktop pet for my girlfriend for Christmas ,"I’m pretty novice at coding, the most experience I have is with a few C++ classes I took in uni. I’m a little rusty though. Does anyone have any ideas where to start? She’s not very tech savvy so I want to make sure it’s easy for her to install and use too. I’m an animator, so I can easily take care of the sprite work, it’s the coding part I’m not as confident about. If anyone has any knowledge or resources to share I’d really appreciate it :) ",SqueegiBoard,1h6qxm5,https://reddit.com/r/learnprogramming/comments/1h6qxm5/i_need_help_making_a_desktop_pet_for_my/,https://www.reddit.com/r/learnprogramming/comments/1h6qxm5/i_need_help_making_a_desktop_pet_for_my/,2024-12-04 20:55:56,11,0.78,11,0,8,0,0,False,False,True,False,False,,,t3_1h6qxm5
+learnprogramming,Best way to teach my younger sister?,"I'm not terrible at tech but I don't have a real background in code. But what tools are fun and interactive enough that I can help my younger sister access? She expressed to me that the idea of being able to build games or software sounded fun to her
+
+I'm hoping for something more specific than a youtube video.. maybe like a interactive web tool..? Maybe even something in minecraft or roblox? A game or program I am unaware of? Any ideas anyone? This would be greatly appreciated :))
+
+Edit 1: My younger sister is 9 years old. ",mrtommy-123,1h6kuvu,https://reddit.com/r/learnprogramming/comments/1h6kuvu/best_way_to_teach_my_younger_sister/,https://www.reddit.com/r/learnprogramming/comments/1h6kuvu/best_way_to_teach_my_younger_sister/,2024-12-04 16:54:01,23,0.86,23,0,11,0,0,False,False,True,False,False,,,t3_1h6kuvu
+learnprogramming,Is programming for me?,"I’m at a point in my college career where coding is becoming more serious and once I select the classes I have to, I’m in it for the long haul no going back. When I was in high school i remember being very excited to learn how to code, and had fun learning how to. Now I’m not so sure anymore. I’ve put so many eggs  into the CS basket I’m starting to wonder if this is for me? 
+
+I don’t wanna look back in 2 years when I graduate and regret the major I chose, so I’m wondering if there is a way I can see how a developer or coders work day looks like? I guess I’m asking how do I know if a career in computer science is what I want? 
+
+Sorry if this question is not allowed I wasn’t sure where else to post it..",Iupin-pegasus,1h6zwsm,https://reddit.com/r/learnprogramming/comments/1h6zwsm/is_programming_for_me/,https://www.reddit.com/r/learnprogramming/comments/1h6zwsm/is_programming_for_me/,2024-12-05 03:40:04,5,0.73,5,0,11,0,0,False,False,True,False,False,,,t3_1h6zwsm
+learnprogramming,"Interested in wanting to learn NES and other retro console Assembly programming, where can i learn the material?","Hi everyone. Recently since in the future i feel like i'll be going to program i'm interested into wanting to learn assembly because i want to attempt to tackle retro game development in the future, but i've been wondering which is a good starting point. I want to start slow so the first steps should be that i want to look for an adeguate resource that goes into x86 Assembly quite enough.",AleF2050,1h78cbk,https://reddit.com/r/learnprogramming/comments/1h78cbk/interested_in_wanting_to_learn_nes_and_other/,https://www.reddit.com/r/learnprogramming/comments/1h78cbk/interested_in_wanting_to_learn_nes_and_other/,2024-12-05 12:44:33,0,0.25,0,0,0,0,0,False,False,True,False,False,,,t3_1h78cbk
+learnprogramming,"Can Humbot Help Humanize AI-Generated Code Explanation Texts?
+","Hey programmers,
+I’ve been using Gemini to help generate explanations for code, but sometimes the output feels too technical and lacks clarity. I recently found Humbot, which promises to make AI-generated text sound more human and easier to understand.
+Has anyone used Humbot to improve AI-generated code explanations or documentation? Does it help make the content clearer and more engaging for learners?
+Would appreciate any feedback!
+
+",Jmovic,1h77tc8,https://reddit.com/r/learnprogramming/comments/1h77tc8/can_humbot_help_humanize_aigenerated_code/,https://www.reddit.com/r/learnprogramming/comments/1h77tc8/can_humbot_help_humanize_aigenerated_code/,2024-12-05 12:14:24,0,0.25,0,0,1,0,0,False,False,True,False,False,,,t3_1h77tc8

@@ -1,0 +1,83 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[N] Save 80% Memory for DPO and ORPO in Liger-Kernel,"Introducing the first open-source optimized post-training losses in Liger Kernel with \~80% memory reduction, featuring DPO, CPO, ORPO, SimPO, JSD, and more, achieving up to 70% end-to-end speedup through larger batch size. Use it as any PyTorch module - Available today in Liger v0.5.0!
+
+[https://x.com/hsu\_byron/status/1866577403918917655](https://x.com/hsu_byron/status/1866577403918917655)",Icy-World-8359,1hcewdl,https://reddit.com/r/MachineLearning/comments/1hcewdl/n_save_80_memory_for_dpo_and_orpo_in_ligerkernel/,https://www.reddit.com/r/MachineLearning/comments/1hcewdl/n_save_80_memory_for_dpo_and_orpo_in_ligerkernel/,2024-12-12 06:18:35,16,0.9,16,0,0,0,0,False,False,True,False,False,News,self,t3_1hcewdl
+MachineLearning,[D] Question About ResNet and Scalability of Extremely Deep Networks,"I’ve been exploring the architecture of ResNet and its ability to train very deep neural networks effectively. While I understand that residual connections help mitigate issues like vanishing gradients and make training deeper networks feasible, I’m curious about the limitations of this approach when scaling to extremely deep networks, such as those with 1000 layers or more.
+
+From my understanding, a ResNet with, say, 100 layers might effectively function like a much smaller network due to the residual connections, which essentially ""skip"" layers and add outputs. However, wouldn’t this also mean that if a regular MLP struggles to scale beyond 15 layers, a ResNet might just shift this limit proportionally (e.g., struggling beyond 150 layers)? In other words, does ResNet fundamentally solve the problem of training extremely deep networks, or does it merely extend the depth at which issues start to reappear?
+
+  
+I’d appreciate any insights you might have! TYSM!",Time_Celebration6058,1hco4ig,https://reddit.com/r/MachineLearning/comments/1hco4ig/d_question_about_resnet_and_scalability_of/,https://www.reddit.com/r/MachineLearning/comments/1hco4ig/d_question_about_resnet_and_scalability_of/,2024-12-12 15:54:53,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hco4ig
+MachineLearning,"[R] A Grounded Theory Study of LLM Red Teaming: Motivations, Strategies, and Techniques","This paper presents a grounded theory study of how red-teaming is conducted on Large Language Models (LLMs), based on interviews with practitioners. The researchers systematically analyzed practitioner approaches to identify common patterns, strategies and motivations in LLM red-teaming.
+
+Key technical points:
+- Used qualitative coding of interviews to develop taxonomy of red-teaming approaches
+- Identified 12 distinct attack strategies and 35 specific techniques
+- Found red-teaming requires manual effort rather than automation
+- Demonstrated importance of team collaboration over individual attempts
+- Established red-teaming as distinct from malicious attacks
+- Mapped common patterns in tester motivations and goals
+
+Main results:
+- Red-teaming strategies fall into categories like prompt manipulation, psychology-based attacks, and system limit testing
+- Successful testers adopt an ""alchemist"" mindset of systematic experimentation
+- Most practitioners are motivated by curiosity and safety concerns
+- Testing requires deep understanding of both technical and psychological aspects
+- Manual testing currently more effective than automated approaches
+
+I think this work provides an important foundation for developing more structured approaches to LLM safety testing. The taxonomy they've developed could help standardize how we evaluate and secure these systems. Their finding that manual testing remains superior to automation suggests we need much more work on automated testing approaches.
+
+I think the emphasis on non-malicious intent and safety motivations is particularly relevant as these systems become more widely deployed. Understanding how and why people conduct these tests helps distinguish legitimate security research from attacks.
+
+TLDR: First systematic study of LLM red-teaming practices, providing taxonomy of strategies and techniques based on practitioner interviews. Shows importance of manual testing and team collaboration, while establishing red-teaming as legitimate security research.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/summon-demon-bind-it-grounded-theory-llm). Paper [here](https://arxiv.org/abs/2311.06237).",Successful-Western27,1hclmk1,https://reddit.com/r/MachineLearning/comments/1hclmk1/r_a_grounded_theory_study_of_llm_red_teaming/,https://www.reddit.com/r/MachineLearning/comments/1hclmk1/r_a_grounded_theory_study_of_llm_red_teaming/,2024-12-12 13:56:57,1,1.0,1,0,0,0,0,False,False,True,False,False,Research,self,t3_1hclmk1
+MachineLearning,[R] Continuous Latent Space Reasoning: Enhancing LLM Performance Through Chain of Continuous Thought,"This paper introduces **COCONUT** (Chain of Continuous Thought), which transforms language model reasoning from discrete token space into continuous latent space. The key idea is encoding reasoning steps as continuous vectors rather than text tokens, allowing for more flexible and precise intermediate computations.
+
+Main technical points:
+* Encoder-decoder architecture that maps text↔continuous vectors
+* Novel continuous reasoning module operating on latent vectors
+* Parallel processing of reasoning steps in continuous space
+* Gradient-based optimization during the reasoning process
+* Special loss function combining reconstruction and reasoning objectives
+
+Key results:
+* **20%** improvement on reasoning benchmarks vs traditional methods
+* Reduced computational steps needed for complex problems
+* More consistent performance across different reasoning tasks
+* Better handling of mathematical and logical reasoning
+* Enhanced ability to maintain coherent reasoning chains
+
+I think this approach could meaningfully advance how language models handle complex reasoning tasks. By moving beyond discrete tokens, models may better capture the continuous nature of human-like reasoning. The ability to optimize in continuous space during reasoning is particularly promising for improving reliability.
+
+I think the main challenge will be scaling this to very large models while managing computational costs. The translation between discrete and continuous spaces adds overhead that needs to be addressed.
+
+TLDR: New method transforms language model reasoning into continuous vector space instead of discrete tokens, showing 20% better performance on reasoning tasks through more flexible computation.
+
+[Full summary here](https://aimodels.fyi/papers/arxiv/training-large-language-models-to-reason-continuous). Paper [here](https://arxiv.org/abs/2412.06769).",Successful-Western27,1hbto1w,https://reddit.com/r/MachineLearning/comments/1hbto1w/r_continuous_latent_space_reasoning_enhancing_llm/,https://www.reddit.com/r/MachineLearning/comments/1hbto1w/r_continuous_latent_space_reasoning_enhancing_llm/,2024-12-11 13:39:26,84,0.95,84,0,5,0,0,False,False,True,False,False,Research,self,t3_1hbto1w
+MachineLearning,[R] What should I choose: AI-assisted data labeling or crowdsourced data labeling?,"Hey everyone,
+
+I’m a researcher at my company, and I’m starting to train a model using a dataset of over 50k medical images. One of the major challenges I’m facing is choosing the best approach for data labeling.
+
+I’ve seen promising results with **AI-assisted labeling**—it seems faster and less costly upfront. However, I’m concerned about potential inaccuracies and whether the AI’s assistance would skew the dataset in ways I might not expect.
+
+On the other hand, **crowdsourced labeling** is significantly more expensive and time-consuming, but the results are often highly reliable due to diverse human input.
+
+Given the scale of my dataset and its importance in a sensitive domain like medical imaging:
+
+* **Which method would you recommend, and why?**
+* **Are there hybrid approaches that balance cost, quality, and efficiency?**
+* **What tools or platforms would you suggest for either approach?**
+
+I’d love to hear your insights or experiences with similar projects. Your input will be invaluable in helping me make the right decision!
+
+Thanks in advance!",Organic-Injury-1153,1hchrui,https://reddit.com/r/MachineLearning/comments/1hchrui/r_what_should_i_choose_aiassisted_data_labeling/,https://www.reddit.com/r/MachineLearning/comments/1hchrui/r_what_should_i_choose_aiassisted_data_labeling/,2024-12-12 09:56:17,2,0.58,2,0,8,0,0,False,False,True,False,False,Research,self,t3_1hchrui
+MachineLearning,[R] LLM's knowledge expansion to enable generation of cross domain content (outside the training dataset),,ankitm1,1hcke77,https://reddit.com/r/MachineLearning/comments/1hcke77/r_llms_knowledge_expansion_to_enable_generation/,https://arxiv.org/abs/2409.17171,2024-12-12 12:50:27,1,0.67,1,0,0,0,0,False,False,False,False,False,Research,default,t3_1hcke77
+MachineLearning,[R] An Evolved Universal Transformer Memory,,hardmaru,1hc6bs8,https://reddit.com/r/MachineLearning/comments/1hc6bs8/r_an_evolved_universal_transformer_memory/,https://arxiv.org/abs/2410.13166,2024-12-11 22:43:30,13,0.84,13,0,2,0,0,False,False,False,False,False,Research,default,t3_1hc6bs8
+MachineLearning,[D] How to make friends and network at NeurIPS?,"I’m attending NeurIPS for the first time and it’s quite overwhelming seeing the amount of people and so many recruiters. I come from a not so well known university, and have come to the conference completely alone, not even my supervisor is here.
+
+I didn’t really end up talking to many other attendees or recruiters because (1) it just seemed hard to approach others who are in big groups of people and (2) I’m feeling strong imposter syndrome and under-qualified for the jobs recruiters offer. I only got a workshop paper accepted that is more application and not as technical as many of the other students.
+
+Any advice for how I can make the most of the rest of the conference? On that note, would anyone also want to potentially meet up and have a chat? I’m a 3rd year PhD student from the UK, but from Vancouver myself so know lots of stuff going on in the area. Cheers!",K_is_for_Karma,1hc0x89,https://reddit.com/r/MachineLearning/comments/1hc0x89/d_how_to_make_friends_and_network_at_neurips/,https://www.reddit.com/r/MachineLearning/comments/1hc0x89/d_how_to_make_friends_and_network_at_neurips/,2024-12-11 18:54:26,22,0.77,22,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hc0x89
+MachineLearning,[R] Evaluating the world model implicit in a generative model,,jsonathan,1hbra2d,https://reddit.com/r/MachineLearning/comments/1hbra2d/r_evaluating_the_world_model_implicit_in_a/,https://arxiv.org/pdf/2406.03689,2024-12-11 11:19:06,18,0.85,18,0,26,0,0,False,False,False,False,False,Research,default,t3_1hbra2d
+MachineLearning,[D] Resources to get up to the speed with the state of the art evolutionary optimization,"There're plenty of good books letting you get close to the state of the art in the field, on Machine Learning, and Deep Learning in particular. However, are there any good modern books on evolutionary optimization? Are there any good courses?",ArtisticHamster,1hbt986,https://reddit.com/r/MachineLearning/comments/1hbt986/d_resources_to_get_up_to_the_speed_with_the_state/,https://www.reddit.com/r/MachineLearning/comments/1hbt986/d_resources_to_get_up_to_the_speed_with_the_state/,2024-12-11 13:17:59,11,0.87,11,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hbt986

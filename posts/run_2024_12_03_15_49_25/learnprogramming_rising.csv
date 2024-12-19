@@ -1,0 +1,178 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Is freelancing dead ? Feeling Nervous about starting as a web developer,"
+Hi everyone,
+
+I’m currently learning web development (HTML, CSS, JavaScript, and planning to dive into React soon). My ultimate goal is to become a freelance front-end developer. However, as I scroll through discussions online, I keep coming across people saying that freelancing is dead or too saturated to succeed in anymore.
+
+This has left me feeling nervous about my decision. I’m not sure if I’m just overthinking or if the market really is as bad as people make it seem. I know freelancing isn’t easy, especially for beginners, but I really want to make this work.
+
+For those of you with experience:
+	•	Is freelancing still a viable option in 2024?
+	•	How can a beginner like me stand out in such a competitive field?
+	•	Are there any strategies or niches I should focus on as a web developer to improve my chances of success?
+
+Any advice, experiences, or even just a reality check would be appreciated. Thanks in advance!",No-Leek-600,1h5psj8,https://reddit.com/r/learnprogramming/comments/1h5psj8/is_freelancing_dead_feeling_nervous_about/,https://www.reddit.com/r/learnprogramming/comments/1h5psj8/is_freelancing_dead_feeling_nervous_about/,2024-12-03 15:19:45,3,0.8,3,0,2,0,0,False,False,True,False,False,,,t3_1h5psj8
+learnprogramming,Help beginners develop their frontend skills (CSS tutorials),"CSS tutorials.....  
+✔️ Source code provided  
+✔️ Design with beautiful, responsive CSS  
+✔️ Beginner friendly  
+📌 Watch now and start creating: [https://youtu.be/0j8SkdI4720?si=a4vb5Ub0saJwye2J](https://youtu.be/0j8SkdI4720?si=a4vb5Ub0saJwye2J)  
+👉 Don’t forget to like, share, and subscribe for more frontend tutorials! 💻 #FrontendDevelopment #HTML #CSS #WebDesign #CodingTutorials #ResponsiveDesign",MORAX9,1h5pchf,https://reddit.com/r/learnprogramming/comments/1h5pchf/help_beginners_develop_their_frontend_skills_css/,https://www.reddit.com/r/learnprogramming/comments/1h5pchf/help_beginners_develop_their_frontend_skills_css/,2024-12-03 15:00:55,4,1.0,4,0,0,0,0,False,False,True,False,False,,,t3_1h5pchf
+learnprogramming,Where to start a project?,"I know the answer may be obvious, but I need to receive it clearly. I'm starting to study programming and JavaScript with nodejs is my start.
+
+I have some projects in mind (some already exist, but I want to try them on my own) but I don't know where to start. Should I think about the tools I will use? in the project logic?
+
+Another question, is it worth studying 2 languages ​​at the same time? I'm thinking about starting C too...",Nice_Nefariousness97,1h5ouos,https://reddit.com/r/learnprogramming/comments/1h5ouos/where_to_start_a_project/,https://www.reddit.com/r/learnprogramming/comments/1h5ouos/where_to_start_a_project/,2024-12-03 14:38:53,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1h5ouos
+learnprogramming,How do i make Programming fun and my addiction  ,"hello there this may sound idoitic but for some reason i am not finding programming engaging and im getting lazy over it. I have good knowledge over some of the programming language like C++,C, python and little bit in java. so can you suggest me to make programming more addicting for me i want to make it my addiction..   ",PhewSucks,1h5kjid,https://reddit.com/r/learnprogramming/comments/1h5kjid/how_do_i_make_programming_fun_and_my_addiction/,https://www.reddit.com/r/learnprogramming/comments/1h5kjid/how_do_i_make_programming_fun_and_my_addiction/,2024-12-03 10:34:32,48,0.79,48,0,46,0,0,False,False,True,False,False,,,t3_1h5kjid
+learnprogramming,I want to know. What exactly is a Framework ?,"Hello everybody.  
+I'm a beginner in programming. I did some novice web development in my life but nothing crazy. I like to watch web development related content, and one word I hear a lot is ""Framework"", followed by examples such as React, Laravel, Next.js, Spring, etc...
+
+I have several questions regarding that :
+
+* What's the main purpose of framework ?
+* What happened if we code a project without a framework ?
+* What's the difference between a Front/Back-end framework and meta framework ?
+* Are there frameworks for a framework ?
+
+Thanks.  
+ ",DonCABASH,1h5ifnr,https://reddit.com/r/learnprogramming/comments/1h5ifnr/i_want_to_know_what_exactly_is_a_framework/,https://www.reddit.com/r/learnprogramming/comments/1h5ifnr/i_want_to_know_what_exactly_is_a_framework/,2024-12-03 07:55:18,50,0.92,50,0,34,0,0,False,False,True,False,False,,,t3_1h5ifnr
+learnprogramming,Is programming really for me?,"I've been pursuing a Computer Information Science degree since last fall, and I'm starting to lose motivation. This degree would be my second, and I started coding because it piqued my interest, and seemed like a good career change opportunity. I don't code for fun, I don't work on side projects. The extent of coding I get done is almost entirely schoolwork (and now work) based.
+
+I recently landed a job as a Data Analyst and I get to code a bit at work which is satisfying, but I find my motivation for school and coding is gone. I worry that I wasn't in love with coding, I was in love with the idea of adding skillsets until I found a new job. How can I find out if coding/software development is truly for me?",P0L4Rraps,1h5nmec,https://reddit.com/r/learnprogramming/comments/1h5nmec/is_programming_really_for_me/,https://www.reddit.com/r/learnprogramming/comments/1h5nmec/is_programming_really_for_me/,2024-12-03 13:40:41,9,0.91,9,0,10,0,0,False,False,True,False,False,,,t3_1h5nmec
+learnprogramming,Why is game written in Assembly faster that game written in other compiled langauge?,"I saw a video about [RollerCoaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)) video game that is written Assembly, where the video creator stated that it's very fast due to this. If all compiled languages that are compiled into machine code and note some intermediary code like Java bytecode, why there are differences in performance between them?",4r73m190r0s,1h5nand,https://reddit.com/r/learnprogramming/comments/1h5nand/why_is_game_written_in_assembly_faster_that_game/,https://www.reddit.com/r/learnprogramming/comments/1h5nand/why_is_game_written_in_assembly_faster_that_game/,2024-12-03 13:23:40,9,0.74,9,0,16,0,0,False,False,True,False,False,,,t3_1h5nand
+learnprogramming,Just wanna be a great programmer,"I know this question might seem a bit silly and ordinary, but I really want to ask it. I'm genuinely passionate about software, programming, and especially game development. I believe I have a good understanding of these areas and that I'm quite detail-oriented. Before starting to learn programming, it makes sense to evaluate career opportunities first. Which programming language would you recommend starting with to become a game developer? (Some people say Rust will be very promising in the future. Do you think I should start with Rust?) If breaking into the gaming industry is too challenging, which other language or sector in programming should I focus on?
+
+I'd appreciate it if you could also recommend some resources to help me get started learn effectively.
+",Lermoni,1h57uza,https://reddit.com/r/learnprogramming/comments/1h57uza/just_wanna_be_a_great_programmer/,https://www.reddit.com/r/learnprogramming/comments/1h57uza/just_wanna_be_a_great_programmer/,2024-12-02 22:31:42,94,0.87,94,0,69,0,0,False,False,True,False,False,,,t3_1h57uza
+learnprogramming,From Tutorial Hell to Subscription Hell to AI Hell: My Journey of Learning Nothing,"They said: ""Leave YouTube tutorials and learn from well-structured paid courses."" So, I left tutorial hell and felt relieved—finally, some direction! However, I soon found myself in a new trap: subscription hell. These courses were indeed well-structured but offered no practical or real-life projects. Tic-Tac-Toe, calculators, hangman games—basic syntax and logic, but nothing that felt like genuine progress.
+
+Frustrated, I sought out more serious and professional paid subscriptions, believing they would provide profound and comprehensive knowledge. Yet, I was met with courses spanning 80 hours of videos (seriously?) and still no meaningful success. Desperate for progress, I turned to platforms like DataCamp, only to find their content too shallow and overly simplistic. Real-life problems are vastly different from what these resources cover.
+
+Seeing no progress and feeling increasingly unmotivated, I found myself drowning in an endless sea of YouTube tutorials, paid subscriptions, and shallow content. Then came ChatGPT. At first, it felt like a breakthrough—it solved my problems on demand. But even then, I found myself struggling to truly understand the code or grasp the deeper concepts. It felt like I was forgetting what programming was even supposed to be.
+
+Now, I’m still determined to learn programming but plagued by confusion. Should I start with Java and then move to Python? Or begin with Python because it's supposedly easy and ubiquitous? And yet, Python's syntax feels clunky and unbearable to me. Why am I stuck in this endless cycle of `if`, `else`, and first-class syntax?
+
+Am I missing something? Why can’t I break out of this loop?",Prestigious_Flow_465,1h51yoc,https://reddit.com/r/learnprogramming/comments/1h51yoc/from_tutorial_hell_to_subscription_hell_to_ai/,https://www.reddit.com/r/learnprogramming/comments/1h51yoc/from_tutorial_hell_to_subscription_hell_to_ai/,2024-12-02 18:30:45,110,0.9,110,0,22,0,0,False,False,True,False,False,Resource,,t3_1h51yoc
+learnprogramming,Setting a general template for a class of buttons in WPF,"Hi, I've created a class of button and want to apply a style to every button within this class. However, I'm a beginner with C# and XAML, and so I'm quite clueless as to how to create a style template that can be applied to the class as a whole, then built upon individually. Each of my attempts hasn't resulted in any build errors, but when the program is run, the button is just displayed in the default format.
+
+If possible, I'd be really grateful for any suggestions as to what I can do, thanks!!",VeryFunnyFrog,1h5o37u,https://reddit.com/r/learnprogramming/comments/1h5o37u/setting_a_general_template_for_a_class_of_buttons/,https://www.reddit.com/r/learnprogramming/comments/1h5o37u/setting_a_general_template_for_a_class_of_buttons/,2024-12-03 14:03:18,3,1.0,3,0,0,0,0,False,False,True,False,False,Tutorial,,t3_1h5o37u
+learnprogramming,When should i start learning dynamic programming,"What is it and how does it relate to data structures and algorithms? I found a video on YouTube but I'm afraid I'll be missing something If I start now, (I have a decent knowledge of data structures and algorithms) but am not yet fluent in recursions and trees.",Altruistic_Steak5869,1h5pov0,https://reddit.com/r/learnprogramming/comments/1h5pov0/when_should_i_start_learning_dynamic_programming/,https://www.reddit.com/r/learnprogramming/comments/1h5pov0/when_should_i_start_learning_dynamic_programming/,2024-12-03 15:15:18,3,1.0,3,0,3,0,0,False,False,True,False,False,,,t3_1h5pov0
+learnprogramming,Should someone with a good job start to learn programming?,"Well as the title says I’m 24 years old mechanical engineer, I currently work within my major so far it’s good fair payments etc,
+Since my graduation project has been ML related I got briefly introduced to python which i liked alot, I always read articles when I have the time about AI/ML/DATASCIENCE etc 
+Is it worth it to self-learn those things with only 2-4 hours on my hand or will i be too late for the field by the time I get good at medium level concepts? or is there any other approach? ",JJZ124434,1h5ipxd,https://reddit.com/r/learnprogramming/comments/1h5ipxd/should_someone_with_a_good_job_start_to_learn/,https://www.reddit.com/r/learnprogramming/comments/1h5ipxd/should_someone_with_a_good_job_start_to_learn/,2024-12-03 08:16:21,6,0.72,6,0,21,0,0,False,False,True,False,False,,,t3_1h5ipxd
+learnprogramming,Help with protection against CSRF and XSS attacks,"    builder.Services.AddControllersWithViews(options =&gt;
+    {
+        options.Filters.Add(new Microsoft.AspNetCore.Mvc.AutoValidateAntiforgeryTokenAttribute());
+    });
+
+If I have this code in my Program.cs-file \^\^.  Will all my Controller-methods automatically be protected from CSRF and XSS attacks by default? Or do I have to add:
+
+    [ValidateAntiForgeryToken]
+
+... infront of all my methods?",mgfvn,1h5m1yb,https://reddit.com/r/learnprogramming/comments/1h5m1yb/help_with_protection_against_csrf_and_xss_attacks/,https://www.reddit.com/r/learnprogramming/comments/1h5m1yb/help_with_protection_against_csrf_and_xss_attacks/,2024-12-03 12:14:39,3,1.0,3,0,2,0,0,False,False,True,False,False,,,t3_1h5m1yb
+learnprogramming,Question about storing data,I'm trying to store many mp3 files into a website's database. Is there a more efficiency way to do this?,UnViandanteSperduto,1h5lx0c,https://reddit.com/r/learnprogramming/comments/1h5lx0c/question_about_storing_data/,https://www.reddit.com/r/learnprogramming/comments/1h5lx0c/question_about_storing_data/,2024-12-03 12:06:12,3,1.0,3,0,8,0,0,False,False,True,False,False,Solved,,t3_1h5lx0c
+learnprogramming,Best Way to Start Mobile App Development as a 3rd Year CS Student ?,"Hi everyone! I'm in my 3rd year of CS and looking to dive into mobile app development. I have moderate experience building web projects using React, Node, and Express. What would be a good tech stack to start with for mobile apps? Any frameworks, tools, or tips you’d recommend for a beginner? Appreciate any guidance !",LegitimateBoy6042,1h5nfoc,https://reddit.com/r/learnprogramming/comments/1h5nfoc/best_way_to_start_mobile_app_development_as_a_3rd/,https://www.reddit.com/r/learnprogramming/comments/1h5nfoc/best_way_to_start_mobile_app_development_as_a_3rd/,2024-12-03 13:30:52,2,1.0,2,0,4,0,0,False,False,True,False,False,,,t3_1h5nfoc
+learnprogramming,Does anyone else do this?,"I’m learning to code through a course on udemy and when the instructor tells me to try to tackle a coding problem by myself, I immediately look at the solution then type the code by memory… when I get stuck again, I go back to the solution and back to the task. I even practice on previous coding challenges; doing them by memory, but I don’t look at the solution because the coding makes sense.
+
+Is this an effective or ineffective way to learn programming?",a_mangia17,1h5f4h3,https://reddit.com/r/learnprogramming/comments/1h5f4h3/does_anyone_else_do_this/,https://www.reddit.com/r/learnprogramming/comments/1h5f4h3/does_anyone_else_do_this/,2024-12-03 04:22:22,11,0.72,11,0,40,0,0,False,False,True,False,False,,,t3_1h5f4h3
+learnprogramming,Is there a leetcode like set of problems with a smoother difficulty curve?,"I'm luckily not interested in using leetcode to get a job, I did like just hopping on once or twice a day and solving a small problem for a short amount of time.
+
+My issue with leetcode is the difficulty ranges from 'this is a trivial problem' to 'oh if you know this trick its easy i guess, but who would know something so esoteric?', for example:
+
+https://leetcode.com/problems/roman-to-integer/description/
+
+is classified as an easy, but if you take a look at the solutions / commentary, I think the sentinment agrees this was far from easy, I found this out after about an hour+ of sinking into the problem.
+
+Either way, what I'm asking for likely doesn't exist, but would be neat if it did.",oreosss,1h5lzuv,https://reddit.com/r/learnprogramming/comments/1h5lzuv/is_there_a_leetcode_like_set_of_problems_with_a/,https://www.reddit.com/r/learnprogramming/comments/1h5lzuv/is_there_a_leetcode_like_set_of_problems_with_a/,2024-12-03 12:10:59,2,1.0,2,0,9,0,0,False,False,True,False,False,Resource,,t3_1h5lzuv
+learnprogramming,"Downgrading anaconda to v3.6? (alternatively 2.7 also works)
+
+","when I type `conda search python` the earliest version my conda can reach is 3.8.11
+
+how can I downgrade my conda to 3.6.x ? (or 2.7.x)
+
+note: I tried `conda create --name env36 python=3.6` it didn't wor",Particular-Change838,1h5qkyh,https://reddit.com/r/learnprogramming/comments/1h5qkyh/downgrading_anaconda_to_v36_alternatively_27_also/,https://www.reddit.com/r/learnprogramming/comments/1h5qkyh/downgrading_anaconda_to_v36_alternatively_27_also/,2024-12-03 15:53:26,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h5qkyh
+learnprogramming,PRNG in X: Getting used to a new language's essential syntax.,"Hi there! I'm mostly a C and x86\_64 assembly dev who's been dabbling in Rust, but I had a random idea - write a very small project which I'm very familiar with, an LCG PRNG, once in a bunch of different languages.
+
+A PRNG, if you don't know already, is a pseudo-random number generator, and is essentially a group of algorithms which define how computers generate ""random"" numbers. Note the quotes and the word *pseudo* because they aren't really random - they start with a seed value, which is often the time, then generate the next random number based on that, the next one based on that previous one, and so on. LCG, or linear congruential generator, is a very very simple algorithm for PRNGs (see the wikipedia page here: https://en.wikipedia.org/wiki/Linear\_congruential\_generator).
+
+My concept is this: A very very simple program, a PRNG, implemented in various different languages (so far: x86\_64 NASM assembly, C, C++, Rust, Java, Go, JavaScript, and Python), which makes for a very easy way to learn the syntax. No heavy commenting besides one at the start of the file and at the start of each function, no huge explanation, no complicated concepts of the language. Just the essential syntax.
+
+Hopefully this is useful to at least one person. **Please note** that I am not an expert at all these languages, and as I've said near the start, most of my knowledge is in C and Assembly, meaning that some of the implementations in other languages may not be perfect. If you see something wrong, feel free to leave a comment or open a pull request.
+
+Here's the link btw: [https://github.com/UnmappedStack/PRNG-in-X](https://github.com/UnmappedStack/PRNG-in-X)
+
+Sorry if this sounded spammy, that genuinely wasn't the goal and I believe I have complied with all the server rules.",UnmappedStack,1h5lo45,https://reddit.com/r/learnprogramming/comments/1h5lo45/prng_in_x_getting_used_to_a_new_languages/,https://www.reddit.com/r/learnprogramming/comments/1h5lo45/prng_in_x_getting_used_to_a_new_languages/,2024-12-03 11:51:14,2,0.75,2,0,0,0,0,False,False,True,False,False,,,t3_1h5lo45
+learnprogramming,is it possible to create DATA STRUCTURE CONCEPTS from scratch without prior knowledge?,"# conclusion
+
+Edit2: I've worded many parts of this post in a bad way, so now this is basically my conclusion/decision to hopefully clear up my question.  
+\--How should I go about creating my own implementations of ""data structures, methods, and algorithms""  
+before learning them?--  
+the main purpose of my post was to figure what I wanted. I thought I wanted to learn basic functions in C to try recreate data structures.  
+I've now come to realize that I only want to create my own implementations of existing data structs, algorithms, and methods.  
+I've decided to roughly to follow idea 2, and along with some suggestions/guides from others.
+
+**Yapp** (this is just me yapping)  
+honestly the rest of my post from here has become a mess and confusion to anyone trying to read and know what I'm asking. I'm considering restructuring the whole thing to clean it up but that will probably make it worse.  
+I have my answer now and my post is \[**SOLVED**\] so I will just leave it alone.  
+thanks to everyone for the help, and suggestions. my wishes have been fulfilled and my gratitude shall be.., for as long as I remember.  
+\---
+
+Edit1: After reading some of the replies I have a better idea of my question  
+\-what fundamentals (in C or other lang) like **pointers, memory allocation, etc..**  
+do I need to know to try create my own implementations of common **data structures.**
+
+I will be learning them in my own time I would just like a rough list of which functions and concepts are used to make the data structures without learning the data structures themselves.
+
+# original question:
+
+I know what I want but I don't know the right question but basically..
+
+I want to try and create data structures (in C),  
+Without learning them or following a tutorial.
+
+so no prior knowledge on how to make them but I know generally what they are (lists, arrays, dicts, ...) and the basic methods (append, insert, delete, etc..).
+
+Sort of like re-inventing the wheel,, maybe?(idk).
+
+If anyone (that's learnt data structures and such) thinks this is a fools errand and has an alternative suggestion they think is better please write. I'm open to suggestions and not absolutely set on this path.
+
+# Disclaimer
+
+I will be searching for materials and thinking of ways to do this. I'm just posting in here because it will be a lot easier for someone who already knows the structure and insights of data structures to tell me what is needed **before** I learn the data structures.
+
+# Idea 1
+
+My first idea of navigating this is to learn the things you need to know to make/write data structures..  
+(pointers, the stack, and functions that work with those)  
+*I don't know much of the things (functions, structures, etc) needed to write them,*  
+*because learning about those would probably include learning a data structure which I want to try*  
+*create myself without prior knowledge.*
+
+*I will do some searching for those after this post.*  
+\- then choose a data structure and see what it does on the surface, basic input and output  
+and try to recreate the 'inner' code for the data struct and then the methods for that struct
+
+# Idea 2
+
+edit1()  
+learn 1 or two of the basic data structures then look at a 3rd one and how it works but not how to implement it.  
+and create my own implementation  
+~~and what it does from a surface level perspective and try to recreate the inner workings~~ .
+
+# --
+
+\-some may think it's 'better' (more efficient) to just learn them and focus on how to utilise them. But this is just something I think will be fun..
+
+If anyone would be so kind to humor me. I would be much obliged. ;)
+
+**side notes**
+
+programming is a hobby for me. I've briefly learned the basics of python3, and have done a handful of scripting projects(AHKv2). So I'm not really worried about trouble learning the fundamentals of C but more-so focused on knowing what I need to learn.
+
+I am considering to do the same with sorting-algorithms and the like. if anyone has any comment on that but I think I'll save that for another time/post.",xtyzii,1h5jpot,https://reddit.com/r/learnprogramming/comments/1h5jpot/is_it_possible_to_create_data_structure_concepts/,https://www.reddit.com/r/learnprogramming/comments/1h5jpot/is_it_possible_to_create_data_structure_concepts/,2024-12-03 09:32:53,3,1.0,3,0,18,0,0,False,False,True,False,False,,,t3_1h5jpot
+learnprogramming,When should i start learning dynamic programming,"What is it and how does it relate to data structures and algorithms? I found a video on YouTube but I'm afraid I'll be missing something If I start now, (I have a decent knowledge of data structures and algorithms) but am not yet fluent in recursions and trees.",Altruistic_Steak5869,1h5pou8,https://reddit.com/r/learnprogramming/comments/1h5pou8/when_should_i_start_learning_dynamic_programming/,https://www.reddit.com/r/learnprogramming/comments/1h5pou8/when_should_i_start_learning_dynamic_programming/,2024-12-03 15:15:16,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h5pou8
+learnprogramming,Do you think I will be able to do what he did but on mobile ,"I have no experience with coding and really need help 
+
+https://m.youtube.com/watch?v=UTqAF8VgBxM&amp;t=39s&amp;pp=2AEnkAIB",Dandadan0,1h5otvx,https://reddit.com/r/learnprogramming/comments/1h5otvx/do_you_think_i_will_be_able_to_do_what_he_did_but/,https://www.reddit.com/r/learnprogramming/comments/1h5otvx/do_you_think_i_will_be_able_to_do_what_he_did_but/,2024-12-03 14:37:51,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h5otvx
+learnprogramming,Can someone please help me with my OOPS assignment idea? ,"I am in my first year of engineering, all i have learned till now is C. So we got an assignment to create a word doc on any topic of our own wish related to 'OOP', i forgot about it and i have submission 2 days later, i dont know where to start, can anyone please guide me?, someone suggested me to do it on encapsulation as it is very similar to structure edit: sorry for the typo 'oops', just my habit kicked in",AlmondNut001,1h5o9mp,https://reddit.com/r/learnprogramming/comments/1h5o9mp/can_someone_please_help_me_with_my_oops/,https://www.reddit.com/r/learnprogramming/comments/1h5o9mp/can_someone_please_help_me_with_my_oops/,2024-12-03 14:11:49,1,1.0,1,0,1,0,0,False,False,True,False,False,,,t3_1h5o9mp
+learnprogramming,Programming and coding for kids.,What are some things I can buy my 9 year old who is very smart with tech? He wants to learn coding. His teacher told me he is very smart with technology and I should start him now.,EducationalYear5095,1h5arki,https://reddit.com/r/learnprogramming/comments/1h5arki/programming_and_coding_for_kids/,https://www.reddit.com/r/learnprogramming/comments/1h5arki/programming_and_coding_for_kids/,2024-12-03 00:41:30,12,0.83,12,0,33,0,0,False,False,True,False,False,,,t3_1h5arki

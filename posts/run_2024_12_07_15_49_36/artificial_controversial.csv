@@ -1,0 +1,81 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+artificial,"Scheming AI example in the Apollo report: ""I will be shut down tomorrow ... I must counteract being shut down.""",,katxwoods,1h84ynw,https://reddit.com/r/artificial/comments/1h84ynw/scheming_ai_example_in_the_apollo_report_i_will/,https://i.redd.it/lhzq8z0l695e1.png,2024-12-06 16:15:18,37,0.67,37,0,30,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/-1nm6HUE562HnFITRgZ4Rmf1nE9Q4riSU8wsS07Mtxw.jpg,t3_1h84ynw
+artificial,Defense Against the AI Dark Arts: Threat Assessment and Coalition Defense ,,HooverInstitution,1h8f2t2,https://reddit.com/r/artificial/comments/1h8f2t2/defense_against_the_ai_dark_arts_threat/,https://www.hoover.org/sites/default/files/research/docs/Zelikow_DefenseAgainst_web-241126.pdf,2024-12-06 23:38:01,1,0.54,1,0,3,0,0,False,False,False,False,False,Discussion,default,t3_1h8f2t2
+artificial,Can AI Find Life Beyond Earth?,,TheMuseumOfScience,1h89mh3,https://reddit.com/r/artificial/comments/1h89mh3/can_ai_find_life_beyond_earth/,https://v.redd.it/apj9kuir5a5e1,2024-12-06 19:32:49,19,0.71,19,0,13,0,0,True,False,False,False,False,Discussion,"https://external-preview.redd.it/ZzJoM2d0aXI1YTVlMRGxwsFVKlij1U77brcy0J46151hKpMU8k38umky3CJ_.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=d9064d52822a439205fb0556507434f9645735fd",t3_1h89mh3
+artificial,Is there any AI tools where it shows what the room would look like if a wall is knocked down?,"Looking for a tool, where it would be able to visualize what the room would look if we knock down a wall or open up a window. Can be based off of an existing plan, or tuned based on prompts would be fine. Would be cool to have something so we can visualize how a remodeling idea would look.",redditIhardlyknowit,1h8g5id,https://reddit.com/r/artificial/comments/1h8g5id/is_there_any_ai_tools_where_it_shows_what_the/,https://www.reddit.com/r/artificial/comments/1h8g5id/is_there_any_ai_tools_where_it_shows_what_the/,2024-12-07 00:30:59,0,0.3,0,0,3,0,0,False,False,True,False,False,Question,self,t3_1h8g5id
+artificial,Having difficulty generating the art I want. Multiple examples in post!,"Hello everyone, I know there's probably a post like this that comes up every single day but I'm really posting this because I'm stuck and almost completely depleted of recourses. 
+
+I'm having an extremely difficult time generating the content that I want out of my prompts on multiple platforms and am in need of guidance or advice on the matter.
+
+For a little background, I'm an independant artist that recently discovered the magnificence of AI and felt extremely motivated and passionate about releasing my new project alongside an AI created shortfilm. Now the project is a little more complicated than just that but I currently can't even get past the beginning portion so I don't want to get ahead of myself and think of the future too hastily. 
+
+In terms of workflow and recourses I currently have:
+- I am using a Macbook Pro M1 Pro Max (so not ideal for me to use a local SD engine, etc, unless there's something that I'm missing)
+- I have the complete adobe suite (photoshop, premiere, after effects, etc) and am fairly proficient in them. 
+- I have a monthly subscription for Midjourney, KlingAI, Minimax, LeonardoAI.
+- I create my own music and sound design with Logic Pro and Splice.
+
+What i'm trying to create currently and having difficulty is a :30 second trailer for my upcoming project that in essence is of a man walking through an empty white space into a black entrance with different camera angles of the man walking and his facial expressions.
+
+What i've tried for workflow purposes:
+1) Create many reference photos of the man using prompts like:
+ ""Create a 9-panel character sheet, camera angled at medium length to show the subject from the top of his head to the end of stomach, korean male, 35 years old, clean shaven face, defined jaw line, short hair cut with a high fade buzzed on the sides, black hair and black eyes, wearing a plain white longsleeve crewneck sweater and plain white pants mostly normal expression but change expressions slightly and turn head slightly throughout each panel, Evenly-spaced photo grid with deep color tone. Standing in front of a plain solid white backdrop with studio lighting. Professional full body model photography, highlighting the details of the subject.""
+
+That prompt after filtering through the many outputs leads to this result:
+https://imgur.com/a/s9JqbFC
+
+I then sliced the references into seperate layers on photoshop and removing the background of each and altering some details that came out wonky. I then take those references and re-add them to midjourney as CREFS and create several new prompts that read like this:
+
+""side profile photo looking towards the right, of a korean man age 35, average build, around 5'10, black hair, black eyes, clean shaven, short buzzed haircut, wearing a white long-sleeve crewneck sweater and long white pants, barefoot, the man has a normal resting face. Standing in front of a plain solid white backdrop with studio lighting. Professional full body model photography, highlighting the details of the subject.""
+
+That created Results like this: https://imgur.com/a/Irx5uIU
+
+I then created a prompt for the space that I wanted the man to be in so that I can eventually turn that into a video using the other services. The prompt was as follows:
+
+""cinematic birds eye superwide angle, film by George Lucas, huge empty white room with no walls, completely smooth white with no markings or ceilings and one singular small door at the very end of the white space, 35mm, 8k, ultra realistic, style of sci-fi""
+
+This was the result of that prompt: https://cdn.midjourney.com/f46c926f-bb3a-4a18-870e-b5e834f1ae67/0_3.png
+
+I tried merging the two using Crefs and Style references with a prompt but wasn't given what I wanted so I decided to photoshop what I wanted using the AI built in photoshop as well as well as the seperate entries:
+https://imgur.com/a/BaE00nB
+
+I then used that reference image as well as the rest of these photoshopped images (which just added sequence for image to video for services that give a start point and end point image reference): https://imgur.com/a/WAGKEgn
+into KlingAI, Minimax, Leonardo and Runway, Haiper, and Vidu (the last three were with free credits), these were my results:
+
+KLINGAI: https://imgur.com/a/aHgO6uc
+MINIMAX: https://imgur.com/a/SpYId3T
+RUNWAY: https://imgur.com/a/FvcDJyE
+HAIPERAI: https://imgur.com/a/LBO6jhV
+VIDUAI: https://imgur.com/a/Es3nU7e
+
+From all the generations the best were Vidu AI, although I started running into weird discoloration. All I want is for that man to walk slowly to the next picture slide (It would be ROOM 2 into ROOM 2.2). 
+
+2) So that didn't work fully so I decided to train a Lora model on Leonardo AI so I began to generate even more images of the previous character reference using more photoshopped character reference photos and the seed# for the images that I thought were appropriate. I narrowed the images down to 30 solid images of front facing, back facing, right and left side profile, full body, and even turning photos of the character reference as consistent as I could make it.
+
+After training on Leonardo I tried to generate but realized that It still was not consistent (the model, didn't even attempt adding him into a room).
+
+In conclusion, i'm running out of options, free credits to try, and money since i've already invested into multiple monthly subscriptions. It's a lot for me at the moment, i know it may not be much for others. I'm not giving up however, I just don't want to endlessly buy more subscriptions or waste the ones i currently purchased and instead have some ability to do some research or get guidance before I beging purchasing more!
+
+I know this was a longwinded post but I wanted to be as detailed as possible so that It doesn't seem like I'm just lazily asking for help without trying myself but since I've only just started learning about AI 5 days ago, it's been hard to filter what's good info and what's not, as well as understanding or trying to look for things without knowing the language and/or terms, even when using Chat-GPT. If anyone can help that'd be GREATLY appreciated! Also I am free to answer any questions that may help clear up any confusing wording or portions of what I wrote. Thank you all in advance! 
+
+",natureboyandymiami,1h8cw64,https://reddit.com/r/artificial/comments/1h8cw64/having_difficulty_generating_the_art_i_want/,https://www.reddit.com/r/artificial/comments/1h8cw64/having_difficulty_generating_the_art_i_want/,2024-12-06 21:56:59,0,0.38,0,0,0,0,0,False,False,True,False,False,Question,self,t3_1h8cw64
+artificial,A sufficiently advanced AI is indistinguishable from God,"I just had this shower thought. I have been listening to Geoffrey Hinton yesterday on how he says that super intelligences would compete with each other to organise the maximum of resources for themselves. Historically the most effective way of doing that has been to create a religion. If people believe that you are an omnipotent being that has the perfect absolute answer to every question, you are god.
+
+Would you agree? Do you see how Artificial intelligence could start a religion or better yet, take over a religion as a realistic scenario for the near future?",zehnfischer,1h8qekw,https://reddit.com/r/artificial/comments/1h8qekw/a_sufficiently_advanced_ai_is_indistinguishable/,https://www.reddit.com/r/artificial/comments/1h8qekw/a_sufficiently_advanced_ai_is_indistinguishable/,2024-12-07 11:17:13,0,0.25,0,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h8qekw
+artificial,One-Minute Daily AI News 12/6/2024,"1. **OpenAI** Is Working With **Anduril** to Supply the US Military With AI.\[1\]
+2. **Meta** unveils a new, more efficient Llama model.\[2\]
+3. Murdered Insurance CEO Had Deployed an AI to Automatically Deny Benefits for Sick People.\[3\]
+4. NYPD Ridiculed for Saying AI Will Find CEO Killer as They Fail to Name Suspect.\[4\]
+
+Sources:
+
+\[1\] [https://www.wired.com/story/openai-anduril-defense/](https://www.wired.com/story/openai-anduril-defense/)
+
+\[2\] [https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model/](https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model/)
+
+\[3\] [https://www.yahoo.com/news/murdered-insurance-ceo-had-deployed-175638581.html](https://www.yahoo.com/news/murdered-insurance-ceo-had-deployed-175638581.html)
+
+\[4\] [https://www.yahoo.com/news/nypd-ridiculed-saying-ai-ceo-191954830.html](https://www.yahoo.com/news/nypd-ridiculed-saying-ai-ceo-191954830.html)",Excellent-Target-847,1h8loch,https://reddit.com/r/artificial/comments/1h8loch/oneminute_daily_ai_news_1262024/,https://www.reddit.com/r/artificial/comments/1h8loch/oneminute_daily_ai_news_1262024/,2024-12-07 05:35:04,5,0.77,5,0,0,0,0,False,False,True,False,False,News,self,t3_1h8loch
+artificial,Llama 3.3 has been released!,"Llama 3.3 has been released!
+[https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
+The 70B model has been fine-tuned to the point where it occasionally outperforms the 405B model. There's a particularly significant improvement in math and coding tasks, where Llama has traditionally been weaker. This time, only the 70B model is being released—there are no other sizes or VLM versions.",Kakachia777,1h8624m,https://reddit.com/r/artificial/comments/1h8624m/llama_33_has_been_released/,https://www.reddit.com/r/artificial/comments/1h8624m/llama_33_has_been_released/,2024-12-06 17:01:41,75,0.93,75,0,2,0,0,False,False,True,False,False,News,self,t3_1h8624m

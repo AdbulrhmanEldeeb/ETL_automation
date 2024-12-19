@@ -1,0 +1,171 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,Mesa 3.1.1: Agent-based modeling; now with model speed control in the visualisation!,"Hi everyone! After our huge [Mesa 3.0](https://www.reddit.com/r/Python/comments/1gn5q8z/mesa_30_a_major_update_to_pythons_agentbased/) overhaul and significant [3.1 release](https://github.com/projectmesa/mesa/releases/tag/v3.1.0), we're back to full-speed feature development. We updated a lot of our examples, our tutorial and we now allow to control the simulation speed directly in the visualisation.
+
+- https://github.com/projectmesa/mesa/releases/tag/v3.1.1
+
+### What's Agent-Based Modeling?
+
+Ever wondered how bird flocks organize themselves? Or how traffic jams form? Agent-based modeling (ABM) lets you simulate these complex systems by defining simple rules for individual ""agents"" (birds, cars, people, etc.) and then watching how they interact. Instead of writing equations to describe the whole system, you model each agent's behavior and let patterns emerge naturally through their interactions. It's particularly powerful for studying systems where individual decisions and interactions drive collective behavior.
+
+### What's Mesa?
+
+Mesa is Python's leading framework for agent-based modeling, providing a comprehensive toolkit for creating, analyzing, and visualizing agent-based models. It combines Python's scientific stack (NumPy, pandas, Matplotlib) with specialized tools for handling spatial relationships, agent scheduling, and data collection. Whether you're studying epidemic spread, market dynamics, or ecological systems, Mesa provides the building blocks to create sophisticated simulations while keeping your code clean and maintainable.
+
+### What's new in Mesa 3.1.1?
+
+Mesa 3.1.1 is a maintenance release that includes visualization improvements and documentation updates. The key enhancement is the addition of an interactive play interval control to the visualization interface, allowing users to dynamically adjust simulation speed between 1ms and 500ms through a slider in the Controls panel.
+
+Several example models were updated to use Mesa 3.1's recommended practices, particularly the `create_agents()` method for more efficient agent creation and NumPy's `rng.integers()` for random number generation. The Sugarscape example was modernized to use PropertyLayers.
+
+Bug fixes include improvements to PropertyLayer visualization and a correction to the Schelling model's neighbor similarity calculation. The tutorials were also updated to reflect current best practices in Mesa 3.1.
+
+### Talk with us!
+
+We always love to hear what you think:
+
+- Join our Matrix chat: https://matrix.to/#/#project-mesa:matrix.org
+- Checkout our Discussions: https://github.com/projectmesa/mesa/discussions",Balance-,1he6leu,https://reddit.com/r/Python/comments/1he6leu/mesa_311_agentbased_modeling_now_with_model_speed/,https://www.reddit.com/r/Python/comments/1he6leu/mesa_311_agentbased_modeling_now_with_model_speed/,2024-12-14 16:32:19,56,0.93,56,0,8,0,0,False,False,True,False,False,News,self,t3_1he6leu
+Python,Practice Probs is awesome!,"Who ever is the creator of this site, thank you very much! Your content is very useful for learning and practicing. I am using this for Pandas and Numpy! 
+
+[Link](https://www.practiceprobs.com/)",SoftwareDoc,1heasge,https://reddit.com/r/Python/comments/1heasge/practice_probs_is_awesome/,https://www.reddit.com/r/Python/comments/1heasge/practice_probs_is_awesome/,2024-12-14 19:46:37,37,0.85,37,0,1,0,0,False,False,True,False,False,Resource,self,t3_1heasge
+Python,sqlite-worker: A Thread-Safe Python Library for Simplifying SQLite Operations in Multi-Threaded Appl,"**Hi everyone!** 👋
+
+I’m excited to share **sqlite-worker**, a Python package that provides a **thread-safe interface for SQLite databases**. It uses queue-based query execution to simplify multi-threaded operations and ensures safe concurrent database access with features like **custom initialization actions**, **regular commits**, and a **simple API**.
+
+# 🎯 Target Audience
+
+Ideal for Python developers building apps or APIs requiring efficient SQLite operations in multi-threaded environments.
+
+# 🔑 Comparison
+
+Unlike standard SQLite implementations, **sqlite-worker** ensures thread safety, simplifies handling concurrent queries, and offers features like initialization actions and automatic commits for smoother workflows.
+
+Check it out on GitHub: [**https://github.com/roshanlam/sqlite-worker/**](https://github.com/roshanlam/sqlite-worker/)
+
+Feedback is welcome! 😊",nepalidj,1heekh6,https://reddit.com/r/Python/comments/1heekh6/sqliteworker_a_threadsafe_python_library_for/,https://www.reddit.com/r/Python/comments/1heekh6/sqliteworker_a_threadsafe_python_library_for/,2024-12-14 22:42:57,19,0.79,19,0,3,0,0,False,False,True,False,False,Showcase,self,t3_1heekh6
+Python,How does Celery Curb the GIL issue?,"I've just started looking into Celery properly as a means to perform email sendouts for various events as well as for user signups but before implementing I wanted a full or as much as I could get as to how it's gained its notoriety. 
+
+I know Celery uses multiple processes masked as workers which'd each have a main thread, thus the GIL issue would arise when concurrency is being implemented within the thread right? As a consequence it'd be limited to how high of a throughput it can obtain. This question also goes to asgi and wsgi servers as well. How do they handle possibly tens of thousands of requests a minute? This is quite interesting to me as the findings could be applied to my matching engine to increase the maximum throughput and minimum latency in theory",Enough_Visit1542,1hefw75,https://reddit.com/r/Python/comments/1hefw75/how_does_celery_curb_the_gil_issue/,https://www.reddit.com/r/Python/comments/1hefw75/how_does_celery_curb_the_gil_issue/,2024-12-14 23:48:58,14,0.75,14,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1hefw75
+Python,Sunday Daily Thread: What's everyone working on this week?,"# Weekly Thread: What's Everyone Working On This Week? 🛠️
+
+Hello /r/Python! It's time to share what you've been working on! Whether it's a work-in-progress, a completed masterpiece, or just a rough idea, let us know what you're up to!
+
+## How it Works:
+
+1. **Show &amp; Tell**: Share your current projects, completed works, or future ideas.
+2. **Discuss**: Get feedback, find collaborators, or just chat about your project.
+3. **Inspire**: Your project might inspire someone else, just as you might get inspired here.
+
+## Guidelines:
+
+* Feel free to include as many details as you'd like. Code snippets, screenshots, and links are all welcome.
+* Whether it's your job, your hobby, or your passion project, all Python-related work is welcome here.
+
+## Example Shares:
+
+1. **Machine Learning Model**: Working on a ML model to predict stock prices. Just cracked a 90% accuracy rate!
+2. **Web Scraping**: Built a script to scrape and analyze news articles. It's helped me understand media bias better.
+3. **Automation**: Automated my home lighting with Python and Raspberry Pi. My life has never been easier!
+
+Let's build and grow together! Share your journey and learn from others. Happy coding! 🌟",AutoModerator,1heg422,https://reddit.com/r/Python/comments/1heg422/sunday_daily_thread_whats_everyone_working_on/,https://www.reddit.com/r/Python/comments/1heg422/sunday_daily_thread_whats_everyone_working_on/,2024-12-15 00:00:07,5,0.7,5,0,2,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1heg422
+Python,iFetch: A Python Tool for Bulk iCloud Drive Downloads,"Hi everyone! **iFetch** is a Python utility to efficiently download files and folders from iCloud Drive, perfect for backups, migrations, and bulk recovery. It features secure 2FA support, recursive directory handling, pause/resume downloads, and progress tracking.
+
+# What My Project Does
+
+iFetch simplifies large-scale iCloud Drive downloads with features missing from Apple’s native solutions, like skipping duplicates and detailed progress stats.
+
+# Target Audience
+
+Designed for users needing efficient iCloud data recovery or backups. Production-ready and open to contributors!
+
+# Comparison
+
+Unlike Apple’s tools, iFetch handles bulk operations, recursive downloads, and interruptions with ease.
+
+Check it out on GitHub: [iFetch](https://github.com/roshanlam/iFetch)
+
+Feedback is welcome! 😊",nepalidj,1hedqgp,https://reddit.com/r/Python/comments/1hedqgp/ifetch_a_python_tool_for_bulk_icloud_drive/,https://www.reddit.com/r/Python/comments/1hedqgp/ifetch_a_python_tool_for_bulk_icloud_drive/,2024-12-14 22:02:58,6,0.72,6,0,3,0,0,False,False,True,False,False,Showcase,self,t3_1hedqgp
+Python,Which one would you prefer: to read a book or to watch a video course about functional programming?,I plan either to write a book or to create a video course about functional programming in Python. Which one do you believe has more sense from a consumer point of view? Or both together?,DataPastor,1heck0w,https://reddit.com/r/Python/comments/1heck0w/which_one_would_you_prefer_to_read_a_book_or_to/,https://www.reddit.com/r/Python/comments/1heck0w/which_one_would_you_prefer_to_read_a_book_or_to/,2024-12-14 21:08:10,6,0.54,6,0,66,0,0,False,False,True,False,False,Discussion,self,t3_1heck0w
+Python,Where to find exercises?,Hello! I'm following a general python course in college and I'd like to find a site where i could find various exercises.,sillykittysilly,1her3x8,https://reddit.com/r/Python/comments/1her3x8/where_to_find_exercises/,https://www.reddit.com/r/Python/comments/1her3x8/where_to_find_exercises/,2024-12-15 11:55:49,10,0.82,10,0,6,0,0,False,False,True,False,False,Resource,self,t3_1her3x8
+Python, CuttlePy: Typed Wrapper for Python Requests IMPersontation (PRIMP),"I’m excited to share a small project I’ve been working on: [CuttlePy](https://github.com/chanpreet3000/cuttlepy)! It’s a fully typed Python library that wraps around the amazing [PRIMP](https://github.com/deedy5/primp), which stands for *Python Requests Impersonation*.
+
+# What My Project Does:
+
+CuttlePy does exactly what PRIMP does but with a couple of small additions:
+
+* **Typed Interfaces**: As someone who loves type hints for better code readability and IDE support, I felt they were missing in PRIMP, so I added them!
+* `response.raise_for_status()`: This small method was another thing I found helpful to include.
+
+That’s it—CuttlePy is just PRIMP with types and this small QoL addition.
+
+# Target Audience:
+
+If you’ve been frustrated with APIs blocking your `requests`\-based calls and need a better way to handle browser impersonation, PRIMP (and now CuttlePy) is for you!
+
+# Comparison:
+
+* **PRIMP**: Amazing library with all the heavy lifting done. Handles browser-like requests so you don’t get blocked by APIs.
+* **CuttlePy**: Same as PRIMP, but with type hints and the added `raise_for_status()` method.
+
+If you’re a fan of type safety and prefer typed code, CuttlePy might be a slightly better fit for you. If you’re happy with the existing PRIMP setup, that’s cool too!
+
+# Why You Should Try It:
+
+I’ve personally faced situations where APIs would block my regular `requests` calls, which was frustrating. PRIMP was a game-changer; it worked like a charm! But as a developer, I was missing the structure and ease that type of hint brings.
+
+So, I decided to build this tiny wrapper to scratch that itch. If you feel the same way, give it a shot, or at least check out PRIMP—it’s seriously underrated!
+
+# Links:
+
+* [CuttlePy GitHub Repo](https://github.com/chanpreet3000/cuttlepy)
+* [PRIMP GitHub Repo](https://github.com/deedy5/primp)
+
+Would love to hear your thoughts or suggestions. And if you try it out, let me know how it works for you!",chanpreet3000,1heat1p,https://reddit.com/r/Python/comments/1heat1p/cuttlepy_typed_wrapper_for_python_requests/,https://www.reddit.com/r/Python/comments/1heat1p/cuttlepy_typed_wrapper_for_python_requests/,2024-12-14 19:47:23,4,0.75,4,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1heat1p
+Python,My River Cleanup Game Built in Pygame! Feedback and Tips Appreciated ,"**What My Project Does:**  
+The *River Cleanup* game is designed to promote environmental awareness while providing fun and engaging gameplay. The player guides a character to clean up plastic pollutants in a virtual river. The game features various obstacles, and the randomness of obstacles and pollutants is driven by **K-means clustering** to keep gameplay challenging.
+
+**Target Audience:**  
+This game is intended for casual players of all ages who enjoy environmental-themed games. It’s also perfect for people who are interested in **educational games** that raise awareness about pollution and environmental conservation.
+
+**Comparison to Existing Alternatives:**  
+While there are many games focusing on environmental themes, *River Cleanup* differentiates itself by incorporating **randomization** (using K-means clustering) to keep the game engaging with every playthrough. Additionally, the focus on plastic pollution in rivers is a timely topic, given the growing global concern over waste management and environmental preservation.
+
+# Tech Details:
+
+* Built using **Pygame**
+* **K-means clustering** for randomization of obstacles
+* Interactive and fun for all ages, designed to promote environmental awareness 🌍
+
+# What I’d Love Feedback On:
+
+* **Gameplay Mechanics:** Are the controls smooth? Does the gameplay feel engaging?
+* **Graphics &amp; Design:** What do you think of the visual elements? Any suggestions for improving them?
+* **AI &amp; Challenges:** How do the obstacles feel? Are they too easy, too hard, or just right?
+* **Suggestions:** What features would you like to see added to improve the experience?
+
+Feel free to check it out and let me know what you think! I'm eager to improve the game, and any suggestions are welcome. Thank you for your time! 🙌
+
+**Source Code:** [https://github.com/deekshitha-ganji/river\_cleanup\_game](https://github.com/deekshitha-ganji/river_cleanup_game)
+
+**Link to the Game:** [River Cleanup Game](https://www.linkedin.com/posts/deekshithaganji_hello-everyone-working-on-ml-projectstraining-activity-7240348179429220352-JsX9?utm_source=share&amp;utm_medium=member_desktop)",LowBeginning9773,1he8hbj,https://reddit.com/r/Python/comments/1he8hbj/my_river_cleanup_game_built_in_pygame_feedback/,https://www.reddit.com/r/Python/comments/1he8hbj/my_river_cleanup_game_built_in_pygame_feedback/,2024-12-14 18:00:56,2,0.67,2,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1he8hbj
+Python,Python comments,"i found new comments:
+```
+""comment""
+2
+1.0
+#comment
+""""""
+comment
+""""""
+[""comment""]
+(""comment"")
+{""comment""}
+{""comment"":""okay""}
+```
+if you dont use data types as variable you can use for comments like docstring",Antique-Bowl-6384,1heo2nz,https://reddit.com/r/Python/comments/1heo2nz/python_comments/,https://www.reddit.com/r/Python/comments/1heo2nz/python_comments/,2024-12-15 08:07:31,0,0.2,0,0,2,0,0,False,False,True,False,False,Tutorial,self,t3_1heo2nz
+Python,"PyGyat, What is everyone's thoughts on it","[https://github.com/shamith09/pygyat](https://github.com/shamith09/pygyat)
+
+I saw this today and was wondering about everyone's thoughts",Jaxondevs,1heo8ps,https://reddit.com/r/Python/comments/1heo8ps/pygyat_what_is_everyones_thoughts_on_it/,https://www.reddit.com/r/Python/comments/1heo8ps/pygyat_what_is_everyones_thoughts_on_it/,2024-12-15 08:20:19,0,0.32,0,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1heo8ps
+Python,Python 3.10 vs newer versions,"What are the key differences between 3.10 and newer versions like 3.11, 3.12 and now version 3.13? 
+
+Are there any critical improvements I should be aware of or just little useless tweaks? Any functional changes to standard libraries or core language?",ActiveTip2851,1he5g0f,https://reddit.com/r/Python/comments/1he5g0f/python_310_vs_newer_versions/,https://www.reddit.com/r/Python/comments/1he5g0f/python_310_vs_newer_versions/,2024-12-14 15:38:16,0,0.17,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1he5g0f

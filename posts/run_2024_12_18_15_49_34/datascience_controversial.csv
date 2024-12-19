@@ -1,0 +1,74 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,"Sales Forecasting for optimizing resource allocation (minimize waste, maximize sales)","Hi All,
+
+To break up the monotony of ""muh job market bad"" (I sympathize don't worry), I wanted to get some input from people here about a problem we come across a lot where I work.  Curious what some advice would be.
+
+So I work for a client that has lots of transactions of low value.  We have TONS of data going back more than a decade for the client and we've recenlty solved some major organizational challenges which means we can do some really interesting stuff with it.
+
+They really want to improve their forecasting but one challenge I noted was that the data we would be training our algorithms on is affected by their attempts to control and optimize, which were often based on voodoo.  Their stock becomes waste pretty quickly if its not distributed properly.  So the data doesn't really reflect how much profit could have been made, because of the clients own attempts to optimize their profits.  Demand is being estimated poorly in other words so the actual sales are of questionable value for training if I were to just use mean squared error, median squared error, because just matching the dynamics of previous sales cycles does not actually optimize the problem.
+
+I have a couple solutions to this and I want the communities opinion.
+
+  
+**1) Build a novel optimization algorithm that incorporates waste as a penalty.**    
+I am wondering if this already exists somewhere, or 
+
+  
+**2) Smooth the data temporally enough and maximize on profit not sales.**
+
+Rather than optimizing on sales daily, we could for instance predict week by week, this would be a more reasonable approach because stock has to be sent out on a particular day in anticipation of being sold.  
+
+  
+**3) Use reinforcement learning here, or generative adversarial networks.**
+
+I was thinking of having a network trained to minimize waste, and another designed to maximize sales and have them ""compete"" in a game to find the best actions.  Minimizing waste would involve making it negative.
+
+  
+**4) Should I cluster the stores beforehand and train models to predict based on the subclusters, this could weed out bias in the data.**
+
+I was considering that for store-level predictions it may be useful to have an unbiased sample.  This would mean training on data that has been down sampled or up-sampled to for certain outlet types 
+
+  
+**Lastly any advice on particular ML approaches would be helpful, was currently considering MAMBA for this as it seems to be fairly computationally efficient and highly accurate.  Explain ability is not really a concern for this task.**
+
+**I look forward to your thoughts a criticism, please share resources (papers, videos, etc) that may be relevant.**
+
+  
+",Unhappy_Technician68,1hgllx0,https://reddit.com/r/datascience/comments/1hgllx0/sales_forecasting_for_optimizing_resource/,https://www.reddit.com/r/datascience/comments/1hgllx0/sales_forecasting_for_optimizing_resource/,2024-12-17 21:41:16,13,0.76,13,0,14,0,0,False,False,True,False,False,ML,self,t3_1hgllx0
+datascience,Asking for help solving a work problem (population health industry),"Struggling with a problem at work. My company is a population health management company. Patients voluntarily enroll in the program through one of two channels. A variety of services and interventions are offered, including in-person specialist care, telehealth, drug prescribing, peer support, and housing assistance. Patients range from high-risk with complex medical and social needs, to lower risk with a specific social or medical need. Patient engagement varies greatly in terms of length, intensity, and type of interventions. Patients may interact with one or many care team staff members.
+
+My goal is to identify what “works” to reduce major health outcomes (hospitalizations, drug overdoses, emergency dept visits, etc). I’m interested in identifying interventions and patient characteristics that tend to be linked with improved outcomes.
+
+I have a sample of 1,000 patients who enrolled over a recent 6-month timeframe. For each patient, I have baseline risk scores (well-calibrated), interventions (binary), patient characteristics (demographics, diagnoses), prior healthcare utilization, care team members, and outcomes captured in the 6 months post-enrollment. Roughly 20-30% are generally considered high risk.
+
+My current approach involves fitting a logistic regression model using baseline risk scores, enrollment channel, patient characteristics, and interventions as independent variables. My outcome is hospitalization (binary 0/1). I know that baseline risk and enrollment channel have significant influence on the outcome, so I’ve baked in many interaction terms involving these. My main effects and interaction effects are all over the map, showing little consistency and very few coefficients that indicate positive impact on risk reduction. 
+
+I’m a bit outside of my comfort zone. Any suggestions on how to fine-tune my logistic regression model, or pursue a different approach?",dmorris87,1hgozqm,https://reddit.com/r/datascience/comments/1hgozqm/asking_for_help_solving_a_work_problem_population/,https://www.reddit.com/r/datascience/comments/1hgozqm/asking_for_help_solving_a_work_problem_population/,2024-12-18 00:16:40,5,0.78,5,0,3,0,0,False,False,True,False,False,Projects,self,t3_1hgozqm
+datascience,exact line error trycatch,Is there a way to know line that caused error in trycatch? I have a long R script wrapped in trycatch,Due-Duty961,1hgfl0t,https://reddit.com/r/datascience/comments/1hgfl0t/exact_line_error_trycatch/,https://www.reddit.com/r/datascience/comments/1hgfl0t/exact_line_error_trycatch/,2024-12-17 17:17:56,0,0.5,0,0,4,0,0,False,False,True,False,False,Coding,self,t3_1hgfl0t
+datascience,What's it like building models in the Fraud space? Is it a growing domain? ,"I'm interviewing for a Fraud DS role in a smaller bank that's in the F100. At each step of the process, they've mentioned that they're building a Fraud DS team and that there's a lot of opportunity in the space, but also that banks are being paralyzed by fraud losses.
+
+I'm not too interested in classification models. But it pays more than what I currently make. I'm a little worried that there'll be a lot of compliance/MRM things compared to other industries - is that true?
+
+Only reason why I'm hesitant is that I've been focusing on LLM work for a while and it doesn't seem like that's what the Fraud space does.
+
+To sum it up:
+
+1. Is there a ton of red tape/compliance/MRM work with Fraud models?
+2. With an increase of Fraud losses every year, is this an area that'll be a hot commodity/good to get experience with?
+3. Can you really do LLM work in this space? The VP I interviewed with said that the space was going to do GenAI in a few years, but when I asked him questions on what that meant to him, he had no clue but wanted to get into it
+4. Is real-time data used to decline transactions instead of just detection?
+
+EDIT: Definitely came to the conclusion that I want to apply to other banking companies. And that there's  a lot to learn in regards to 3 and 4. ",SnooWalruses4775,1hguh6u,https://reddit.com/r/datascience/comments/1hguh6u/whats_it_like_building_models_in_the_fraud_space/,https://www.reddit.com/r/datascience/comments/1hguh6u/whats_it_like_building_models_in_the_fraud_space/,2024-12-18 05:11:12,24,0.8,24,0,34,0,0,False,False,True,False,False,Discussion,self,t3_1hguh6u
+datascience,"a ""data scientist handbook"" for 2025 as a public Github repo","A while back, I created this public GitHub repo with links to resources (e.g. books, YouTube channels, communities, etc..) you can use to learn Data Science, navigate the markt and stay relevant.
+
+Each category includes only 5 resources to ensure you get the most valuable ones without feeling overwhelmed by too many choices.
+
+And I recently made updates in preparation for 2025 (including free resources to learn GenAI and SQL)
+
+Here’s the link:
+
+https://github.com/andresvourakis/data-scientist-handbook
+
+Let me know if there’s anything else you’d like me to include (or make a PR). I’ll vet it and add it if its valuable.
+
+I hope this helps 🙏",avourakis,1hgedpk,https://reddit.com/r/datascience/comments/1hgedpk/a_data_scientist_handbook_for_2025_as_a_public/,https://www.reddit.com/r/datascience/comments/1hgedpk/a_data_scientist_handbook_for_2025_as_a_public/,2024-12-17 16:26:47,453,0.98,453,0,24,0,0,False,False,True,False,False,Education,self,t3_1hgedpk

@@ -1,0 +1,113 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Form over function to make it feel less “technical” for average user,"Those are frames from continuous loop where each square rotates its hue from 0° to 360° each have different (negative) delay. 
+
+I was trying to make the TOTP QR code reading screen in the registration flow feel less “technical” to average users. Then this came to my mind. 
+
+Sadly this doesn’t work with every reader at its current iteration, and I wanted to get some responses before going into technicals with grayscale conversion. 
+
+Is there some other technic you use to solve the problem? I don’t think current trends are friendly to users. ",ufukty,1hcnldo,https://reddit.com/r/webdev/comments/1hcnldo/form_over_function_to_make_it_feel_less_technical/,https://www.reddit.com/gallery/1hcnldo,2024-12-12 15:30:46,0,0.22,0,0,16,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/zZ-YN_EMpitSO6Jzl0e820Va1vpbeZmN8WBnWVHdXpc.jpg,t3_1hcnldo
+webdev,"I'm a college student, How can i develop a comprehensive understanding of HTML And CSS ",,Charming_Bed_6605,1hcnbag,https://reddit.com/r/webdev/comments/1hcnbag/im_a_college_student_how_can_i_develop_a/,https://i.redd.it/bd4gsh0upf6e1.png,2024-12-12 15:18:01,0,0.27,0,0,7,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/2YUusboYjyqrQCrqXIXrtC3zJmaouickaTwWZirrf28.jpg,t3_1hcnbag
+webdev,Can users see my API keys through Vercel?,"I am building a web app that uses a custom google search engine so my main app.jsx has my custom search API key and the custom search engine ID key.
+
+I'm planning to launch this web app through Vercel but I am wondering if my keys will be exposed? The github repository is set to private so only I can see the code.",orangeflyingmonkey_,1hcn7hf,https://reddit.com/r/webdev/comments/1hcn7hf/can_users_see_my_api_keys_through_vercel/,https://www.reddit.com/r/webdev/comments/1hcn7hf/can_users_see_my_api_keys_through_vercel/,2024-12-12 15:13:04,1,0.67,1,0,3,0,0,False,False,True,False,False,,self,t3_1hcn7hf
+webdev,WordPress CEO Rage Quits Community Slack After Court Injunction,,devolute,1hbzzyo,https://reddit.com/r/webdev/comments/1hbzzyo/wordpress_ceo_rage_quits_community_slack_after/,https://www.404media.co/wordpress-wp-engine-preliminary-injunction/,2024-12-11 18:16:16,545,0.97,545,0,133,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/PHE5moMjkjyaPmYBLGE40dQPtpE-ETB9Ax3iwBGKvwM.jpg,t3_1hbzzyo
+webdev,What is the name of this UI design style,"I came across this image and I'm curious about the name of the style it represents.
+
+Also, what do you think of the design itself? I’d love to hear your thoughts on it.
+
+[Sample image](https://preview.redd.it/56g73b75jd6e1.png?width=920&amp;format=png&amp;auto=webp&amp;s=a2cc082af484d99e4df08ed6fbee0ff355030940)
+
+",QuirkierLurker,1hcg94u,https://reddit.com/r/webdev/comments/1hcg94u/what_is_the_name_of_this_ui_design_style/,https://www.reddit.com/r/webdev/comments/1hcg94u/what_is_the_name_of_this_ui_design_style/,2024-12-12 07:57:25,35,0.92,35,0,19,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/ciIhg4EgCrlQJOL9Xk6kIOMC1deY9P8hjVko1GjJLjY.jpg,t3_1hcg94u
+webdev,The Disappearance of an Internet Domain,,fagnerbrack,1hch608,https://reddit.com/r/webdev/comments/1hch608/the_disappearance_of_an_internet_domain/,https://every.to/p/the-disappearance-of-an-internet-domain,2024-12-12 09:08:21,29,0.79,29,0,10,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/nSnp8Zd8JLvKKgLi3-1Ar816ff8gdgzEn7rIcvkI2tE.jpg,t3_1hch608
+webdev,"This is the ideal server error message page. You may not like it, but this is what peak web design looks like.",,neutrino-weave,1hc8k39,https://reddit.com/r/webdev/comments/1hc8k39/this_is_the_ideal_server_error_message_page_you/,https://i.redd.it/jn48cuk3bb6e1.png,2024-12-12 00:28:11,132,0.86,132,0,52,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/WMgk9acjwdOcLAoubBHG5uon7h4G4fxHeClDK4Po9o4.jpg,t3_1hc8k39
+webdev,"I've been creating a gaming website recently, but I've realized that making games for the website isn't worth it.","I'm creating a gaming website, but I realized how tiring it is to create just one game, I have a total of 6 different projects in alpha that I don't think anyone would play for hours. 
+
+My question is, where can I find free games safely that I can use on my website without the risk of being sued?",argrun,1hc93v8,https://reddit.com/r/webdev/comments/1hc93v8/ive_been_creating_a_gaming_website_recently_but/,https://www.reddit.com/r/webdev/comments/1hc93v8/ive_been_creating_a_gaming_website_recently_but/,2024-12-12 00:55:30,82,0.8,82,0,72,0,0,False,False,True,False,False,Question,self,t3_1hc93v8
+webdev,"Web technologies that were the ""future"", but instead burned bright for a bit and died rapidly?",,zovered,1hbwczu,https://reddit.com/r/webdev/comments/1hbwczu/web_technologies_that_were_the_future_but_instead/,https://i.redd.it/nt7n5xufp86e1.png,2024-12-11 15:45:02,302,0.82,302,0,342,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/pdpVRvk-dZ1LCNmKtnxO0b88bDa0HNSBBSOmJ2CZsZY.jpg,t3_1hbwczu
+webdev,What are your favorite ways to build a landing page these days?,What are your fave ways to do this these days other than outsourcing it to an agency? V0? HTML lol? ,ApprehensiveTruth729,1hcf13i,https://reddit.com/r/webdev/comments/1hcf13i/what_are_your_favorite_ways_to_build_a_landing/,https://www.reddit.com/r/webdev/comments/1hcf13i/what_are_your_favorite_ways_to_build_a_landing/,2024-12-12 06:27:42,9,0.72,9,0,24,0,0,False,False,True,False,False,,self,t3_1hcf13i
+webdev,How I got out of tutorial hell,"Don't get me wrong, tutorials are important when you are first starting your web development journey. They should not be where/how you build the majority of your projects from.
+
+This took me a long time to realize, I thought hiring managers and recruiters would find these projects interesting enough to give me a shot... I was very wrong.
+
+This realization is what got me out of tutorial hell, I realized that re-building an already made product that showcased no effective problem-solving skills of my own was going to get me no where.
+
+As someone who was in tutorial hell myself for a long time, I know how hard it is to think of what to build; it seems like everything that has a chance of being successful is already built.
+
+What I found best to building a successful project was fulfilling these requirements:
+
+1. I needed to be passionate enough to finish the project
+2. It needed to serve a particular unpopular niche to have the best chance with establishing presence for SEO to eventually have organic growth.
+
+What I landed on was a platform, similar to dribbble, where developers could easily find images from developers portfolios for inspiration.
+
+This was:
+
+✅ Something I was passionate about
+
+✅ Serving a purpose within a particular untouched niche
+
+Unfortunately, at the end I was left with a project with no users (of course) like a lot of projects we make. So I decided to take a leap and do what is known as ""building in public"".
+
+I made an X account, started to find users apart of the niche and directly messaged them about my project. This did not work at first as everyone's always a little skeptical being the first user on a new website.
+
+As I continued to publicly market my product on X, I decided to find ways to market my product directly to users email inboxes.
+
+Where I struck gold was finding this GitHub repository: [https://github.com/emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+
+This single repository got me my first 20+ users that helped establish the foundation of my site.
+
+The repository is filled with developers who uploaded their portfolio link, along with their name, to be publicly showcased. This was my niche served to me with no fluff.
+
+The approach I took was sincere when emailing users from this repository, clearly stating how I came across their email address, and portfolio site and why I thought they would be interested in my site.
+
+Within the email, I also included positive feedback I had from their site as I did have to browse it to find their email address.
+
+From this, I was then able to continue ""building in public"" with a decent enough level of success by eventually getting 80+ users and about 20k monthly visitors for my first month after launching my project.",yeahimjtt,1hc2fv1,https://reddit.com/r/webdev/comments/1hc2fv1/how_i_got_out_of_tutorial_hell/,https://www.reddit.com/r/webdev/comments/1hc2fv1/how_i_got_out_of_tutorial_hell/,2024-12-11 19:57:35,47,0.77,47,0,31,0,0,False,False,True,False,False,Discussion,self,t3_1hc2fv1
+webdev,Need some help with website generators frameworks. ,"I have a pretty big project that is used to create websites based on existing templates  
+It consumes config, uses html/js/css templates and creates a static multi-page site
+
+The problem is that I am using Hugo  
+A couple of years ago it was sufficient for my purposes  
+But now I've run into a problem: I need more flexibility. The logic has gotten complex and threatens to get even more complex, and what I have is very tightly extended
+
+Are there any modern solutions for website generators that use the same scheme as I do (config + templates = a set of html, css and js)? I've heard something about React Templates, but I'm not sure about this thing
+
+I need something that: 
+
+* Can work with npm packages
+* Supports TS out of the box 
+* Can create multiple html, css and js files based on a given config based on given templates ",SomeFreakyName,1hcgttd,https://reddit.com/r/webdev/comments/1hcgttd/need_some_help_with_website_generators_frameworks/,https://www.reddit.com/r/webdev/comments/1hcgttd/need_some_help_with_website_generators_frameworks/,2024-12-12 08:41:54,5,1.0,5,0,1,0,0,False,False,True,False,False,,self,t3_1hcgttd
+webdev,Website that can access phone pedometer,"As the subject suggests, I'm looking to understand if I could developed a website that would only be accessible once someone has walked a certain number of steps, calories, etc. 
+
+Understanding this data exists, at least on iPhone within the Health app, wondering if there's a way.
+
+Ex: Someone lands on the website, and there would be a standard notification asking if the site can asking select info. 
+
+Thanks!",mattstasoff,1hco3ts,https://reddit.com/r/webdev/comments/1hco3ts/website_that_can_access_phone_pedometer/,https://www.reddit.com/r/webdev/comments/1hco3ts/website_that_can_access_phone_pedometer/,2024-12-12 15:54:00,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hco3ts
+webdev,"Built an actual working AI meeting copilot - and I am building it in open source, and making it self hostable","I got tired of relying on clunky SaaS tools for meeting transcriptions that didn’t respect my privacy or workflow. Every one I tried had issues:
+
+* Bots awkwardly joining meetings and announcing themselves.
+* Poor transcription quality.
+* No flexibility to tweak things to fit *my* setup.
+
+So I built **Amurex**, a self-hosted solution that actually works:
+
+* Records meetings quietly, with no bots interrupting. 
+* Delivers clean, accurate diarised transcripts right after the meeting.
+* Automatically drafts follow-up that I can email.
+* Keeps a memory of past meetings for easy context retrieval.
+
+But most importantly, it has it is the only chrome extension in the world that can give
+
+* Real-time suggestions to stay engaged in boring meetings.
+
+It’s completely open source and designed for self-hosting, so you control your data and your workflow. No subscriptions, no vendor lock-in.I would love to know what you all think of it.  
+  
+ It only works on Google Meet for now but I will be scaling it to all the famous meeting providers.  
+  
+Github - [https://github.com/thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex)  
+Website - [https://www.amurex.ai/](https://www.amurex.ai/)  
+",stealthanthrax,1hcn8k1,https://reddit.com/r/webdev/comments/1hcn8k1/built_an_actual_working_ai_meeting_copilot_and_i/,https://www.reddit.com/r/webdev/comments/1hcn8k1/built_an_actual_working_ai_meeting_copilot_and_i/,2024-12-12 15:14:28,0,0.33,0,0,2,0,0,False,False,True,False,False,,self,t3_1hcn8k1
+webdev,I built this web app but don't like it,"I am civil engineering graduate and switched to web development and enjoying the process of learning new things everyday.
+I built this full stack MERN app named YIBEE(Why be) and did enjoy the time while i was building it but now i don't like it anymore , but i am thinking of kee adding more features in it. 
+https://yibee-frontend.vervel.app",Ayushgairola,1hcn6yj,https://reddit.com/r/webdev/comments/1hcn6yj/i_built_this_web_app_but_dont_like_it/,https://www.reddit.com/r/webdev/comments/1hcn6yj/i_built_this_web_app_but_dont_like_it/,2024-12-12 15:12:26,1,0.67,1,0,4,0,0,False,False,True,False,False,,self,t3_1hcn6yj

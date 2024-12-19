@@ -1,0 +1,129 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Should I Learn a Database Language While Learning Backend?,"I'm learning Spring. Should I be learning a database language at the same time, or should I first focus on Spring?",GladRefrigerator7285,1he4rz1,https://reddit.com/r/learnprogramming/comments/1he4rz1/should_i_learn_a_database_language_while_learning/,https://www.reddit.com/r/learnprogramming/comments/1he4rz1/should_i_learn_a_database_language_while_learning/,2024-12-14 15:06:05,3,0.8,3,0,5,0,0,False,False,True,False,False,,,t3_1he4rz1
+learnprogramming,Any Kubernetes engineer here? Need for advice!,"I’m a Software Engineer with 1.5 years of experience with HeyCoach's DSA Certification. I’m looking to transition my technology domain to Kubernetes and DevOps. Currently, I’m working with GCP and have knowledge in Kubernetes, Docker, GCP, VMware, and Terraform.
+
+One of the main reasons for this shift is to move away from rotational shifts—so I’m hoping Kubernetes DevOps doesn’t involve 24/7 service hours. I’d also like to understand how the salary hike typically looks in this domain. Would the transition be worth it in terms of growth and work-life balance?",Afraid_Tackle5656,1he4ky0,https://reddit.com/r/learnprogramming/comments/1he4ky0/any_kubernetes_engineer_here_need_for_advice/,https://www.reddit.com/r/learnprogramming/comments/1he4ky0/any_kubernetes_engineer_here_need_for_advice/,2024-12-14 14:56:51,2,1.0,2,0,1,0,0,False,False,True,False,False,,,t3_1he4ky0
+learnprogramming,Coding hours ???,How many hours do you code  in a day ??? I know it's different for different people but still I wanna to know if we get into a company how much time we need to code and also  if you are in clg  tell me how much time you put into it as I am also a first year student 😅,sitabjaaa,1hdz7nz,https://reddit.com/r/learnprogramming/comments/1hdz7nz/coding_hours/,https://www.reddit.com/r/learnprogramming/comments/1hdz7nz/coding_hours/,2024-12-14 09:11:07,24,0.8,24,0,48,0,0,False,False,True,False,False,Topic,,t3_1hdz7nz
+learnprogramming,Where can I find a coding buddy?,Hey I’m getting into Full stack web development and I need a buddy to idk motivate me.! I have friends but they’re all not nerds. I don’t go to school anymore either so I can’t find one there. I know it might sound stupid but I’ve realized how much it could help. Any discord channels or subreddits I could join?,builtdiff0,1hdt880,https://reddit.com/r/learnprogramming/comments/1hdt880/where_can_i_find_a_coding_buddy/,https://www.reddit.com/r/learnprogramming/comments/1hdt880/where_can_i_find_a_coding_buddy/,2024-12-14 02:47:56,40,0.91,40,0,18,0,0,False,False,True,False,False,,,t3_1hdt880
+learnprogramming,Discipline or Having fun?,"I see online a lot ot people suggesting that you should have discipline in coding, others say that you should have fun and that would increase your productivity, what would you say?
+
+",obsolescenza,1he0x7b,https://reddit.com/r/learnprogramming/comments/1he0x7b/discipline_or_having_fun/,https://www.reddit.com/r/learnprogramming/comments/1he0x7b/discipline_or_having_fun/,2024-12-14 11:21:12,9,0.99,9,0,8,0,0,False,False,True,False,False,,,t3_1he0x7b
+learnprogramming,Struggling to stay committed to a design pattern,"I've been trying to work on a Vulkan graphics library for months now, and I've probably completely overhauled it 4 times now. No matter what design pattern I try, I end up giving up on it halfway for a ""better"" design. Now, I'm just completely stuck and not working on it at all to avoid ""wasting time.""
+
+I'm not exactly sure why I'm thinking of it this way or being this way at all. I'm aware there's no ""best way"" to do things, yet I can't help but want to achieve that perfection. I've tried handling resources internally, externally, doing a hybrid approach, having a single instance handle everything, divide things into multiple instances... everything I try just doesn't seem to scratch that itch, and if it does, the itch just comes back in a different place.
+
+I'm not sure if this is the right place to post this, but since this is a programming-related issue of mine I thought it'd be best to post it here.",PratixYT,1he1otx,https://reddit.com/r/learnprogramming/comments/1he1otx/struggling_to_stay_committed_to_a_design_pattern/,https://www.reddit.com/r/learnprogramming/comments/1he1otx/struggling_to_stay_committed_to_a_design_pattern/,2024-12-14 12:16:46,6,1.0,6,0,4,0,0,False,False,True,False,False,,,t3_1he1otx
+learnprogramming,"I think I just found a reason to shut myself up, stop complaining and start studying more. ","While trying to learn how to program using the internet, I would always feel anrgy because there was never a straightforward tutorial. I always need to search on multiple sources, forums, videos. But then I thought and said to myself: ""You didn't want to go to college. They probably teach everything you need to know there but you don't want to go. That is why you have to seek so many different sources. If you don't want to pay for college, shut up and keep searching on the internet instead!""
+
+So that is what I am going to keep doing. 
+
+Also, I would like to know from those who went to college here, am I right on this thought? ",Felizem_velair_,1hdjkju,https://reddit.com/r/learnprogramming/comments/1hdjkju/i_think_i_just_found_a_reason_to_shut_myself_up/,https://www.reddit.com/r/learnprogramming/comments/1hdjkju/i_think_i_just_found_a_reason_to_shut_myself_up/,2024-12-13 19:02:52,109,0.87,109,0,53,0,0,False,False,True,False,False,,,t3_1hdjkju
+learnprogramming,Artificial Intelligence Project for my Resume,"I am a 3rd year CompSci student with a fairly weak resume. My DSA is quite strong but **my projects lack what it takes to get selected** by a recruiter. I hava made a few full stack projects in React and FastAPI(framework of python) and also some **basic level ML/Deep Learning Projects**.
+
+I want ideas for **some good AI/ML projects** that would make my resume strong.
+
+  
+I know almost all basic Machine Learning algos and also how to build and train a small neural network in keras and TensorFlow.
+
+If you can **recommend some good project ideas, please do.**",brownbastardbrat,1he2fbp,https://reddit.com/r/learnprogramming/comments/1he2fbp/artificial_intelligence_project_for_my_resume/,https://www.reddit.com/r/learnprogramming/comments/1he2fbp/artificial_intelligence_project_for_my_resume/,2024-12-14 13:03:38,4,1.0,4,0,0,0,0,False,False,True,False,False,,,t3_1he2fbp
+learnprogramming,Stuck at place where I can't decide anymore!!! (More like need help in deciding),"Hi there, I’ve been actively involved in Java-related projects lately, including Spring, microservices, and design patterns. Based on my understanding, these are all part of backend development. I’ve built a job application project using Java and Spring Boot, and I’ve gained some experience in its implementation. However, I’m eager to delve deeper into the concepts of backend development. My current skill set includes Java, Spring Boot, C++, Flutter, Firebase, MySQL, Hive, Hibernate, Node.js, and Express. I’ve also built a Flutter app integrated with Firebase and a barebone web application using Java and Spring. I’m looking to create a project that will further enhance my understanding of backend development. While I’m aware that people may suggest learning React, HTML, or CSS, I genuinely dislike these languages. The tag system in HTML, in particular, seems to be the main reason behind my aversion. On a side note, I have a decent background in Machine Learning and Artificial Intelligence. I’m hoping someone can recommend a good way to progress further in backend development, with a focus on hands-on development. Thanks in advance for your guidance!",Forsaken_Physics9490,1he3xeb,https://reddit.com/r/learnprogramming/comments/1he3xeb/stuck_at_place_where_i_cant_decide_anymore_more/,https://www.reddit.com/r/learnprogramming/comments/1he3xeb/stuck_at_place_where_i_cant_decide_anymore_more/,2024-12-14 14:24:27,3,1.0,3,0,1,0,0,False,False,True,False,False,Resource,,t3_1he3xeb
+learnprogramming,What Skills Should I Focus on to Land a Python Developer Job in 2025? Advice from Senior Devs!,"Hey everyone,
+
+I'm planning to start my career as a Python developer and would love some advice from senior developers. In 2025, what are the most important skills to focus on to land a job in this field? I'm already comfortable with Python basics, but I know there’s much more to learn. As we move into 2025, what are the most important skills I should focus on to land a job in this field?
+
+Should I focus on mastering frameworks (e.g., Django, Flask)? Also, should I learn additional languages like JavaScript to be more marketable, or if specializing in Python is still a solid career choice.
+
+I'd appreciate any insights or suggestions on how to stay relevant in the evolving developer job market!
+
+Thanks in advance!",Hefty-Surround186,1he3cyd,https://reddit.com/r/learnprogramming/comments/1he3cyd/what_skills_should_i_focus_on_to_land_a_python/,https://www.reddit.com/r/learnprogramming/comments/1he3cyd/what_skills_should_i_focus_on_to_land_a_python/,2024-12-14 13:55:28,3,1.0,3,0,6,0,0,False,False,True,False,False,,,t3_1he3cyd
+learnprogramming,Struggling with starting a project,"This is kinda like a beginner post but please be patient with me. I'm a college student currently in pre-final year. The thing is, Around 3 years of studying in Computer science I have never built a decent project that has been fully completed. I was obsessed with learning data structures and solving problems. I wouldn't even say im good at that too, Somewhat decent ig. The problem is you know how the market is competitive and you need to have amazing projects at your resume. New technologies keeps on coming like AI,ML etc etc. People are obsessed with AI projects now, I don't think Normal web projects or applications have much value now. I'm sure most of you guys felt stuck somewhere around your career, I just need to know how to stop getting confused, feeling pressurized and just start building something that has worth. I sometimes feel like its too late. I know C and have done some projects using C# in unity 3d (VR projects) but it does not have much value. Need some guidance on this situation. TBH i dont even know what kind of answer im expecting. Thanks for reading allat",Strange-Secret494,1hdxr0a,https://reddit.com/r/learnprogramming/comments/1hdxr0a/struggling_with_starting_a_project/,https://www.reddit.com/r/learnprogramming/comments/1hdxr0a/struggling_with_starting_a_project/,2024-12-14 07:30:47,8,0.99,8,0,6,0,0,False,False,True,False,False,,,t3_1hdxr0a
+learnprogramming,Do I use the “right language / tool for the job” or the language / tool I want to get hired for? ,"For example, if I am looking for a job in web dev, would a potential employer be more interested if I had all my projects done in the technology they use (JavaScript, html, css, web frameworks etc.) or should I stick to using the “right language” for the job? JavaScript for example isn’t traditionally thought of as something you would build a transpiler with or a game with but would using it to do so impress an employer hiring for web dev more than if I used the “right tool” (languages traditionally used for that sort of stuff)? 
+
+Sorry if this is an odd question ",Top-Home4452,1hdubfj,https://reddit.com/r/learnprogramming/comments/1hdubfj/do_i_use_the_right_language_tool_for_the_job_or/,https://www.reddit.com/r/learnprogramming/comments/1hdubfj/do_i_use_the_right_language_tool_for_the_job_or/,2024-12-14 03:49:24,9,0.75,9,0,7,0,0,False,False,True,False,False,,,t3_1hdubfj
+learnprogramming,Tutorials vs Documentation: What Works for You? 🤔,"So, my friend hit me with this: **“Real programmers learn from documentation, not tutorials.”** 🧑‍💻
+
+I am not a beginner.
+
+But honestly, I feel like I understand concepts better when watching tutorials. They give me a step-by-step breakdown, and I can follow along without feeling overwhelmed. On the other hand, diving straight into documentation feels intimidating and too abstract sometimes. 😓 but documentation has more content than tutorials .
+
+What do you think? Is it a bad practice to rely on tutorials?
+
+I’m curious about your learning styles?
+
+Do you stick to documentation from the start? Do you mix tutorials and documentation? Or do you have a completely different approach?",captainS21,1hdhi9j,https://reddit.com/r/learnprogramming/comments/1hdhi9j/tutorials_vs_documentation_what_works_for_you/,https://www.reddit.com/r/learnprogramming/comments/1hdhi9j/tutorials_vs_documentation_what_works_for_you/,2024-12-13 17:33:25,55,0.89,55,0,69,0,0,False,False,True,False,False,,,t3_1hdhi9j
+learnprogramming,Which tools you use for benchmark?,"Which tools you use for benchmark 
+code(application) which show time of execution,cpu usage, memory usage?(preferable ubuntu tool). ",Harut3,1he3uku,https://reddit.com/r/learnprogramming/comments/1he3uku/which_tools_you_use_for_benchmark/,https://www.reddit.com/r/learnprogramming/comments/1he3uku/which_tools_you_use_for_benchmark/,2024-12-14 14:20:31,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1he3uku
+learnprogramming,Prolog resources?,"I took an ""old school"" AI theory course a bit back and we didn't do much actual coding.  Can anyone point me towards some  prolog heavy books?  I know there's videos and dome online stuff, but I want deeper theory and I prefer physical books to ebooks (I'm old and cranky).",lessthanpi79,1he3ohv,https://reddit.com/r/learnprogramming/comments/1he3ohv/prolog_resources/,https://www.reddit.com/r/learnprogramming/comments/1he3ohv/prolog_resources/,2024-12-14 14:11:49,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1he3ohv
+learnprogramming,Struggling with Competitive Programming at Beginner Level (800 Rating) – Need Guidance!,"Hi everyone,
+
+I’ve recently started competitive programming, and I’m finding it challenging to solve even 800-rated problems on platforms like Codeforces. Here’s a bit of context about my current situation:
+
+1. **My Background**:
+   * I’m comfortable with the basics of C++ (loops, arrays, if-else, etc.) but haven’t done much problem-solving before.
+2. **Where I Struggle**:
+   * Understanding problem statements: Sometimes, the language is too confusing for me to break down the question.
+   * Coming up with the right logic or approach: I don’t yet recognize patterns like greedy, simulation, or brute force.
+   * Solving within constraints: Concepts like O(n) or time complexity are still new to me.
+3. **Example Problem**: For instance, I recently tried this 800-rated question *""Alyona and a Square Jigsaw Puzzle""* on Codeforces. Even though it’s labeled as a beginner problem, I couldn’t figure out how to approach it. The editorial solution felt complex, and I’m not sure how to think like that.
+4. **What I Need Help With**:
+   * How do I get better at breaking down and understanding problems?
+   * What’s the best way to practice and improve? Should I stick to Codeforces or try other platforms first?
+   * Are there specific resources or guides that helped you when you were at this stage?
+
+I’d really appreciate any advice, resources, or strategies from those of you who’ve been in a similar position. How did you go from struggling with beginner problems to feeling more confident?
+
+Thanks in advance!",iJaitus,1he2m79,https://reddit.com/r/learnprogramming/comments/1he2m79/struggling_with_competitive_programming_at/,https://www.reddit.com/r/learnprogramming/comments/1he2m79/struggling_with_competitive_programming_at/,2024-12-14 13:14:42,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1he2m79
+learnprogramming,c++ programmer confused about why this Go program works. Variable's life span.,"I googled ""golang variable lifetime"" and it stated that basically variables end after a function returns. Google ai produced the following program
+    package main
+    import ""fmt""
+
+    func getStringAddress() *string {
+      str := ""Hello, World!""
+      return &amp;str
+    }
+
+    func main() {
+      address := getStringAddress()
+      fmt.Println(""Address:"", address)
+      fmt.Println(""Value:"", *address)
+    }
+
+I tested it and it works. Is the variables life getting extended? Do the garbage collector get involved? This program should not work.",deadmau5Rezz,1he2agb,https://reddit.com/r/learnprogramming/comments/1he2agb/c_programmer_confused_about_why_this_go_program/,https://www.reddit.com/r/learnprogramming/comments/1he2agb/c_programmer_confused_about_why_this_go_program/,2024-12-14 12:56:13,1,0.57,1,0,6,0,0,False,False,True,False,False,,,t3_1he2agb
+learnprogramming,"What have you been working on recently? [December 14, 2024]","What have you been working on recently? Feel free to share updates on projects you're working on, brag about any major milestones you've hit, grouse about a challenge you've ran into recently... Any sort of ""progress report"" is fair game!
+
+A few requests:
+
+1. If possible, include a link to your source code when sharing a project update. That way, others can learn from your work!
+
+2. If you've shared something, try commenting on at least one other update -- ask a question, give feedback, compliment something cool... We encourage discussion!
+
+3. If you don't consider yourself to be a beginner, include about how many years of experience you have.
+
+This thread will remained stickied over the weekend. [Link to past threads here](https://www.reddit.com/r/learnprogramming/search?q=%22What+have+you+been+working+on+recently%3F%22&amp;sort=new&amp;restrict_sr=on).",AutoModerator,1hdvhri,https://reddit.com/r/learnprogramming/comments/1hdvhri/what_have_you_been_working_on_recently_december/,https://www.reddit.com/r/learnprogramming/comments/1hdvhri/what_have_you_been_working_on_recently_december/,2024-12-14 05:00:09,4,1.0,4,0,3,0,0,False,False,True,False,False,,,t3_1hdvhri
+learnprogramming,How do I see assembly output/debug it?,"I'm trying to learn x87 but no matter what I try, the output of it eludes me. i tried qemu monitor, gdb, bochs, etc no luck with online compilers either. Please tell me the specifics of I can debug it including all the commands if present. Thank you.
+
+(I prefer not to compile it to ELF because of the added complexity or maybe because I want to learn it on baremetal i386)",throway3600,1hdxje9,https://reddit.com/r/learnprogramming/comments/1hdxje9/how_do_i_see_assembly_outputdebug_it/,https://www.reddit.com/r/learnprogramming/comments/1hdxje9/how_do_i_see_assembly_outputdebug_it/,2024-12-14 07:14:54,2,1.0,2,0,2,0,0,False,False,True,False,False,,,t3_1hdxje9
+learnprogramming,Career Change at 33 - What Tech Field Should I Choose?,"I’m 33 and looking to transition into a tech career, but I’m really unsure where to start. I don’t have any professional experience in tech, but I’m curious about many fields like full stack development, front end, back end, QA, communication networks, and more, I know that’s quite broad but I’m really curious and find most things interesting and I enjoy learning new skills in my free time (learned a little python and html+css online recently, looking into sql as well rn)
+
+I do have a tiny bit of experience with 3D modeling and digital art as a hobby (maya and a bit of blender) and I wonder if there’s a way to tie that into a career path maybe in game dev? or if it’s better to focus on something like any of the above?
+
+The thing is I don’t know which area would be realistic for me to pursue given my age and lack of experience. Ideally I’d like to pick a path where there’s a decent chance of breaking into the industry without having to spend years learning just to land my first job.
+
+I’m also unsure about where to study. Should I go for an intensive bootcamp, take a longer course, or try self-teaching? I’m getting the feeling that certifications go a long way at least as a start, and only after getting a job and some experience will self taught help me move forward? Are there specific programs or resources you’d recommend for someone in my situation?
+
+I’d love to hear from anyone who’s made a similar switch later in life or who knows the industry well. What roles are entry level friendly, and what skills or qualifications do employers value most in those positions?
+
+Thanks in advance for your advice!",FalsePositive752,1he31yz,https://reddit.com/r/learnprogramming/comments/1he31yz/career_change_at_33_what_tech_field_should_i/,https://www.reddit.com/r/learnprogramming/comments/1he31yz/career_change_at_33_what_tech_field_should_i/,2024-12-14 13:38:50,0,0.33,0,0,14,0,0,False,False,True,False,False,,,t3_1he31yz
+learnprogramming,I'm tired of Front-End Development. I've lost my passion and need something more exciting.,"TL;DR: I'm a first-year computer science student who's been learning front-end development for two years, but I'm burned out from working on layouts and animations. I want to explore something more engaging with possibility to build huge projects.
+
+
+
+Hi, I'm a first-year computer science student from Poland. I've been learning front-end development for about two years, on and off. I know HTML, CSS, and JavaScript well. I also know how to work with SQL databases using PHP and have a basic understanding of React. Thanks to my college and high school, I've learned the syntax and general basics of C++ and Python, though I haven’t tried applying them to practical projects yet. I've just made some easier console apps and solved few leetcode problems with these two.
+
+Over the past few years, I’ve completed many web projects, starting with simple forms, followed by Odin Project exercises like Tic-Tac-Toe, and even larger websites, such as a fully usable gym site with login system or an online store with huge database.
+
+The problem is that constantly choosing matching fonts, centering divs, and adding dark modes has become exhausting. It feels like the only thing left for me is learning more libraries and frameworks to make my code faster and my websites prettier. But creating smoother button animations no longer gives me satisfaction, to the point where nowadays, I only log in once every few days to do one or two LeetCode problems.
+
+I’m the kind of person who loves expanding projects and adding new features. The project I’ve spent the most time on was a console-based RPG game in Python. I worked on it every day for weeks, adding new bosses and weapon upgrades, and to this day, it’s the most exciting thing I’ve ever worked with.
+
+Next year, I’ll have to choose a specialization for my college (I don't know about the USA computer science, but in Poland there is something like specialization where you have to choose what exactly do you want to learn). The options are: Software Engineering and Mobile Technologies, Cybersecurity, and IT Systems Implementation. Obviously, I’m 99% sure that I am going to choose the first option since I’ve already spent hundreds of hours coding. Do you think it’s a good idea to start learning Kotlin/Java now to prepare for mobile technologies? Or do you have other suggestions for a learning path that could bring me joy and excitement? I have never been good at math and physics, so probably gamedev, or machine learning are not the best ideas for me.",Unable_Jicama_7069,1hdgq7d,https://reddit.com/r/learnprogramming/comments/1hdgq7d/im_tired_of_frontend_development_ive_lost_my/,https://www.reddit.com/r/learnprogramming/comments/1hdgq7d/im_tired_of_frontend_development_ive_lost_my/,2024-12-13 16:59:51,19,0.86,19,0,8,0,0,False,False,True,False,False,,,t3_1hdgq7d

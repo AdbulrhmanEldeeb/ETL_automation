@@ -1,0 +1,262 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] The popular theoretical explanation for VAE is inconsistent. Please change my mind.,"I had a really hard time understanding VAE / variational inference (VI) in theory, for years. I'd be really appreciated if anyone could clarify my confusions. Here's what I've got after reading many sources:
+
+1. We want to establish a generative model p(x, z) (parameters are omitted for simplicity) for the observable variable x and the latent variable z. Alright, let's select appropriate parameters to maximize the marginal likelihood of the observed samples p(x).
+2. According to basic probability theory (the law of total probability and the definition of conditional probability), we have: p(x)=∫ p(x ∣ z) p(z) dz (Eq. 1).
+3. Here's the point that things becomes rather confusing: people now will claim that this integral is ***intractable*** because z is a continuous variable / z is a high-dimensional variable / p(x∣z) is too complex / or any other excuses.
+4. What to do for the intractability of Eq. 1? Although we didn't mention the posterior p(z ∣ x) above, we will now bring it into the discussion. The posterior p(z ∣ x) is also intractable since p(z | x) = p(x | z) p(z) / p(x) and p(x) is intractable. So we will introduce another parameterized model q(z ∣ x) to approximate p(z | x).
+5. After some derivation, we obtain a new optimization objective, commonly known as ELBO, which is the summation of:
+    - the ""reconstruction"" term: ∫ log p(x ∣ z) q(z ∣ x) dz (Eq. 2);
+    - KL divergence term between q(z | x) and p(z), which results in a closed-form.
+6. So now we have to work on Eq. 2. Compared with Eq. 1, p(z) is replaced with q(z∣x), both of them are (usually) normal distributions, and p(x | z) is still there. Great! Clearly we have transformed an intractable integral into… another intractable integral?
+7. Don’t worry, we can compute Eq. 2 using Monte Carlo sampling… Wait, since we can use Monte Carlo for this, why can’t we just handle Eq. 1 the same way without so much fuss?
+8. Of course it is not a good idea. It can be shown that log p(x) = ELBO + D_KL(q(z ∣ x) || p(z ∣ x)). So we cannot estimate p(x) with Eq. 1 as it does not have such nice properties… Huh, it seems like that’s not how we started explaining this?
+
+Questions:
+
+1. When tackling the original problem, i.e., modeling p(x, z) by maximizing p(x)=∫ p(x ∣ z) p(z) dz, why do we want to involve the posterior p(z | x)?
+    - Someone explains this with [""to narrow down the value space to facilitate faster search""](https://web.archive.org/web/20241202042731/https://lilianweng.github.io/posts/2018-08-12-vae) (with the approximation of p(z | x), q(z | x)). But again, please recall how the intractability of Eq. 1 is explained, I can't see anything improved under this argument.
+2. The Eq. 1 and Eq. 2 are essentially similar, where either of them is the expectation of (log) p(z | x) with respect to the probability density function of some normal distribution. I can't see how the motivation based on the intractability of Eq. 1 could make sense.
+    - Ironically, we still have to resort to Monte Carlo sampling when handling Eq. 2. But people appear to forget it when talking about the intractability of Eq. 1, but remember it when facing the same problem of Eq. 2.
+
+Update: I have editted some typo.
+
+Update 2: Question 2 seems to be resolved after some discussions: 
+- It is not a good idea to sample on p(z) due to the high variance.
+- In practice, we are usually working on log p(x), the log-likelihood of samples, and MC sampling for log ∫ p(x ∣ z) p(z) dz (Eq. 3) can be biased. 
+- Apply Jensen's inequality on Eq. 3 and we will have log p(x) ≥ ∫ log p(x ∣ z) p(z) dz. This bound is very likely worse than ELBO, and still relying on sampling on p(z).
+
+However, these points are still rarely found in existing articles. I hope we may think more carefully when introducing VAE in the future.",function2,1h5f6co,https://reddit.com/r/MachineLearning/comments/1h5f6co/d_the_popular_theoretical_explanation_for_vae_is/,https://www.reddit.com/r/MachineLearning/comments/1h5f6co/d_the_popular_theoretical_explanation_for_vae_is/,2024-12-03 04:25:19,99,0.94,99,0,35,0,0,False,False,True,False,False,Discussion,self,t3_1h5f6co
+MachineLearning,[P] PerpetualBooster outperforms AutoGluon on AutoML benchmark,"
+PerpetualBooster is a GBM but behaves like AutoML so it is benchmarked also against AutoGluon (v1.2, best quality preset), the current leader in [AutoML benchmark](https://automlbenchmark.streamlit.app/cd_diagram). Top 10 datasets with the most number of rows are selected from [OpenML datasets](https://www.openml.org/). The results are summarized in the following table for regression tasks:
+
+| OpenML Task                                  | Perpetual Training Duration | Perpetual Inference Duration                                      | Perpetual RMSE | AutoGluon Training Duration | AutoGluon Inference Duration                                      | AutoGluon RMSE |
+| -------------------------------------------- | --------------------------- | ----------------------------------------------------------------- | -------------- | --------------------------- | ----------------------------------------------------------------- | -------------- |
+| [Airlines_DepDelay_10M](openml.org/t/359929) | 518                         | 11.3                                                              | 29.0           | 520                         | 30.9 | 28.8   |
+| [bates_regr_100](openml.org/t/361940)        | 3421                        | 15.1 | 1.084  | OOM            | OOM                         | OOM                                                               |
+| [BNG(libras_move)](openml.org/t/7327)        | 1956                        | 4.2 | 2.51   | 1922           | 97.6                        | 2.53                                                              |
+| [BNG(satellite_image)](openml.org/t/7326)    | 334                         | 1.6                                                               | 0.731          | 337                         | 10.0 | 0.721  |
+| [COMET_MC](openml.org/t/14949)               | 44                          | 1.0 | 0.0615  | 47             | 5.0                         | 0.0662                                                            |
+| [friedman1](openml.org/t/361939)             | 275                         | 4.2 | 1.047   | 278            | 5.1                         | 1.487                                                             |
+| [poker](openml.org/t/10102)                  | 38                          | 0.6 | 0.256   | 41             | 1.2                         | 0.722                                                             |
+| [subset_higgs](openml.org/t/361955)          | 868                         | 10.6 | 0.420  | 870            | 24.5                        | 0.421                                                             |
+| [BNG(autoHorse)](openml.org/t/7319)          | 107                         | 1.1 | 19.0    | 107            | 3.2                         | 20.5                                                              |
+| [BNG(pbc)](openml.org/t/7318)                | 48                          | 0.6 | 836.5   | 51             | 0.2                         | 957.1                                                             |
+| average                                      | 465                         | 3.9                                                               | -              | 464                         | 19.7                                                              | -              |
+
+PerpetualBooster outperformed AutoGluon on 8 out of 10 datasets, training equally fast and inferring 5x faster. The results can be reproduced using the automlbenchmark fork [here](https://github.com/deadsoul44/automlbenchmark).
+
+Github: https://github.com/perpetual-ml/perpetual",mutlu_simsek,1h52zk8,https://reddit.com/r/MachineLearning/comments/1h52zk8/p_perpetualbooster_outperforms_autogluon_on/,https://www.reddit.com/r/MachineLearning/comments/1h52zk8/p_perpetualbooster_outperforms_autogluon_on/,2024-12-02 19:12:26,17,0.95,17,0,0,0,0,False,False,True,False,False,Project,self,t3_1h52zk8
+MachineLearning,[R] Population-based Model Merging via Quality Diversity,"In case any of you are interested, here is a [blog post](https://sakana.ai/cycleqd/) about our recent paper [Agent Skill Acquisition for Large Language Models via CycleQD](https://arxiv.org/abs/2410.14735).",hardmaru,1h5dmnb,https://reddit.com/r/MachineLearning/comments/1h5dmnb/r_populationbased_model_merging_via_quality/,https://www.reddit.com/r/MachineLearning/comments/1h5dmnb/r_populationbased_model_merging_via_quality/,2024-12-03 03:02:27,12,0.84,12,0,0,0,0,False,False,True,False,False,Research,self,t3_1h5dmnb
+MachineLearning,[D] Deep Learning in Time Series: Are They Used in Industry?,"Hey folks! I’m a researcher in time series and have been seeing a lot of buzz around deep learning models in this area. I am wondering if these models actually being deployed in production, or are classical methods still the go-to in the industry?
+
+
+
+For instance, in weather forecasting, physics-based numerical weather prediction (NWP) seems to dominate. If deep models aren’t getting much traction, have you come across any practical use cases for them? Would love to hear your thoughts!",Few-Pomegranate4369,1h5izk5,https://reddit.com/r/MachineLearning/comments/1h5izk5/d_deep_learning_in_time_series_are_they_used_in/,https://www.reddit.com/r/MachineLearning/comments/1h5izk5/d_deep_learning_in_time_series_are_they_used_in/,2024-12-03 08:36:46,15,0.95,15,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h5izk5
+MachineLearning,[D] WWW 2025 Reviews (TheWebConference),The reviews will be available soon. This is a thread for discussion/rants. Be polite in comments.,New_Ice_2721,1h56hno,https://reddit.com/r/MachineLearning/comments/1h56hno/d_www_2025_reviews_thewebconference/,https://www.reddit.com/r/MachineLearning/comments/1h56hno/d_www_2025_reviews_thewebconference/,2024-12-02 21:34:40,12,0.88,12,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h56hno
+MachineLearning,[D] Benchmarks for RL algorithms across Gymnasium environments?,"Hey r/ML!
+
+Let me preface this by saying I'm fairly new to RL. My previous work was with LLMs, where it is very common to rank and stack your model against the universe of models based on how it performs on a given benchmarks (but you already know this).
+
+Recently started training models in MuJoCo environments and I'm trying to figure out if my algorithms are performing somewhat decently. Sure, I can get Ant-v5 to walk using SB3's default PPO and MlpPolicy, but how good is it really?
+
+Is there some benchmark or repo where I can compare my results against the learning curve of other people's algorithms using the default MuJoCo (or any of the other gyms') reward functions? Of course the assumption would be that we are using the same environment and reward function, but given Gymnasium is popular and offers good defaults, I'd imagine there should be a lot of data available.
+
+I've googled around and have only found sparse results. Is there a reason why benchmarks are not as big in RL as they are with LLMs?",geepytee,1h5a9s8,https://reddit.com/r/MachineLearning/comments/1h5a9s8/d_benchmarks_for_rl_algorithms_across_gymnasium/,https://www.reddit.com/r/MachineLearning/comments/1h5a9s8/d_benchmarks_for_rl_algorithms_across_gymnasium/,2024-12-03 00:18:26,8,1.0,8,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h5a9s8
+MachineLearning,[D] Training a VAE. Single epoch with infinite data or smaller subset over multiple epochs?,"Hello! I'm training a VAE for image models and I finally am getting some pretty decent results in training after correcting my loss function adding KL annealing and LPIPS loss and adjusting my learning rate and batch size, but now I have a doubt about the data i'm feeding to my VAE.
+
+I have a limited time budget for the training and I have more data available than I can feed within that time budget for training.  
+What is the best course of action here?  
+Should I just run all the data through my VAE training until I run to the end of my training time in one single giant epoch or should I select a subset of the data small enough so that I can go through it multiple times during training and run this smaller dataset over multiple epoch?
+
+My instinct tells me that different data is better for generalization, but VAEs also try to be resilient to variations of the representation of the same image. Because during the encoding phase we use the latent generated to sample from a random distribution (causing a different representation to be passed to the decoder) it feels like potentially feeding back the same data multiple data might actually beneficial to learn resiliency there ...
+
+Is this actually not a thing? I'm actually overthinking about the potential impact of the multiple epochs on VAE training? Is one single giant epoch the best?
+
+Thanks!",hayarms,1h5dfno,https://reddit.com/r/MachineLearning/comments/1h5dfno/d_training_a_vae_single_epoch_with_infinite_data/,https://www.reddit.com/r/MachineLearning/comments/1h5dfno/d_training_a_vae_single_epoch_with_infinite_data/,2024-12-03 02:52:30,3,0.64,3,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1h5dfno
+MachineLearning,[R] ImageFolder🚀: Autoregressive Image Generation with Folded Tokens,"https://preview.redd.it/2olpl72q6i4e1.png?width=911&amp;format=png&amp;auto=webp&amp;s=b54d91736543906b6a71102a09dc04883033d795
+
+&gt;Image tokenizers are crucial for visual generative models, e.g., diffusion models (DMs) and autoregressive (AR) models, as they construct the latent representation for modeling. Increasing token length is a common approach to improve the image reconstruction quality. However, tokenizers with longer token lengths are not guaranteed to achieve better generation quality. There exists a trade-off between reconstruction and generation quality regarding token length. In this paper, we investigate the impact of token length on both image reconstruction and generation and provide a flexible solution to the tradeoff. We propose ImageFolder, a semantic tokenizer that provides spatially aligned image tokens that can be folded during autoregressive modeling to improve both generation efficiency and quality. To enhance the representative capability without increasing token length, we leverage dual-branch product quantization to capture different contexts of images. Specifically, semantic regularization is introduced in one branch to encourage compacted semantic information while another branch is designed to capture the remaining pixel-level details. Extensive experiments demonstrate the superior quality of image generation and shorter token length with ImageFolder tokenizer.
+
+Paper: [https://arxiv.org/abs/2410.01756](https://arxiv.org/abs/2410.01756)  
+Code: [https://github.com/adobe-research/ImageFolder](https://github.com/adobe-research/ImageFolder)",xternalz,1h55x1i,https://reddit.com/r/MachineLearning/comments/1h55x1i/r_imagefolder_autoregressive_image_generation/,https://www.reddit.com/r/MachineLearning/comments/1h55x1i/r_imagefolder_autoregressive_image_generation/,2024-12-02 21:11:25,5,0.78,5,0,0,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/-S_lEVvuVpw96JtQP6vCgCd6QVqkMlv4dix0h6EtqFY.jpg,t3_1h55x1i
+MachineLearning,[R] Enhancing LLM Reasoning Through Bidirectional Forward-Backward Thinking,"The key contribution here is a ""reverse thinking"" method that improves LLM reasoning without any model modifications. Instead of only reasoning forward from the question to an answer, the approach adds a backward verification step - working from potential answers back to the question to validate the reasoning chain.
+
+Key technical points:
+• Two-stage process: forward generation followed by backward verification
+• Backward pass examines logical consistency between answer and premises
+• No fine-tuning or architectural changes needed
+• Tested across multiple reasoning benchmarks (GSM8K, CommonsenseQA, LogiQA)
+
+Results:
+• 8.3% improvement on GSM8K math reasoning
+• 6.2% gain on CommonsenseQA 
+• 5.4% increase on LogiQA
+• Consistent improvements across different model sizes
+• Performance gains come at cost of 2x inference time
+
+I think this method points to untapped potential in how we prompt LLMs for reasoning tasks. While the doubled inference time is a real tradeoff, the consistent improvements across different benchmarks suggest this approach captures something fundamental about machine reasoning. The simplicity of implementation means it could be quickly adopted in many applications where reasoning accuracy matters more than speed.
+
+TLDR: Adding a backward reasoning verification step improves LLM performance on math, logic and common sense tasks by 5-8%, with no model changes required. Doubles inference time but provides consistent gains across different models and tasks.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/reverse-thinking-makes-llms-stronger-reasoners). Paper [here](https://arxiv.org/abs/2411.19865).",Successful-Western27,1h5nyi0,https://reddit.com/r/MachineLearning/comments/1h5nyi0/r_enhancing_llm_reasoning_through_bidirectional/,https://www.reddit.com/r/MachineLearning/comments/1h5nyi0/r_enhancing_llm_reasoning_through_bidirectional/,2024-12-03 13:57:18,3,0.81,3,0,0,0,0,False,False,True,False,False,Research,self,t3_1h5nyi0
+MachineLearning,[D] Cloud GPU Price Analysis - December 2024: A Comprehensive Market Review,"After analyzing current cloud GPU pricing across major providers, I've compiled insights that might help with infrastructure decisions. Some findings surprised me - particularly around hidden costs and spot pricing variations.
+
+Current Market Rates (December 2024)
+
+On-Demand Pricing:
+
+\- RunPod H100 (80GB): $2.49/hr
+
+\- RunPod A100 (80GB): $1.69-1.99/hr
+
+\- [Vast.ai](http://Vast.ai) A100: $0.73-1.61/hr (marketplace model)
+
+\- Lambda A100: $1.29/hr
+
+Key Market Insights
+
+1. Spot Instance Pricing
+
+\- Can reduce costs by 30-70%
+
+\- Availability varies significantly by region
+
+\- Some providers offer spot instance guarantees
+
+\- Price stability varies by provider
+
+2. Hidden Cost Factors
+
+\- Data transfer fees vary dramatically
+
+\- Storage costs for large datasets
+
+\- Network bandwidth tiers
+
+\- Instance startup/shutdown minimums
+
+3. Provider Differentiators
+
+\- UI/UX and ease of use
+
+\- Available regions/zones
+
+\- Support quality
+
+\- API functionality
+
+Cost Optimization Strategies
+
+1. Workload Planning
+
+\- Match GPU to actual requirements
+
+\- Consider splitting workloads across smaller instances
+
+\- Use spot instances for interruptible tasks
+
+\- Monitor utilization patterns
+
+2. Data Management
+
+\- Optimize dataset storage
+
+\- Plan data transfer patterns
+
+\- Use caching effectively
+
+\- Consider compression strategies
+
+I'll be tracking these prices and patterns monthly. Would be interested in:
+
+1. Which providers you're using?
+2. How do you optimize costs?
+3. What metrics matter most in your GPU decisions?",Botinfoai,1h5p7fr,https://reddit.com/r/MachineLearning/comments/1h5p7fr/d_cloud_gpu_price_analysis_december_2024_a/,https://www.reddit.com/r/MachineLearning/comments/1h5p7fr/d_cloud_gpu_price_analysis_december_2024_a/,2024-12-03 14:54:58,6,1.0,6,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h5p7fr
+MachineLearning,"[D] Model performs good on test, but fails in production ","Hi, I’ve developed churn prediction model with XGBoost on users weekly activity data. The training data is balanced (3.3k churned, 3k not churned). I’ve split the data into: train, validation and test sets. Getting ~90% precision &amp; ~88% recall for train, validation and test sets. However, when running in production, I get ~1.5k users flagged as churn (we have total of 4k users). This can’t be true as we get maximum 250 churned users per month. Any suggestions on what I’m doing wrong? And what could be the solution?
+
+Thanks ",Terrible_Dimension66,1h5nfpt,https://reddit.com/r/MachineLearning/comments/1h5nfpt/d_model_performs_good_on_test_but_fails_in/,https://www.reddit.com/r/MachineLearning/comments/1h5nfpt/d_model_performs_good_on_test_but_fails_in/,2024-12-03 13:30:55,0,0.38,0,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1h5nfpt
+MachineLearning,"[R] With losses like focal loss, is hard exemple sampling still necessary ?","Hello,
+So I was wondering are techniques for hard exemples sampling still used nowadays ?
+Anyone have papers on this if it’s the case ?
+Thanks !",Training-Adeptness57,1h5mqkj,https://reddit.com/r/MachineLearning/comments/1h5mqkj/r_with_losses_like_focal_loss_is_hard_exemple/,https://www.reddit.com/r/MachineLearning/comments/1h5mqkj/r_with_losses_like_focal_loss_is_hard_exemple/,2024-12-03 12:54:23,1,1.0,1,0,0,0,0,False,False,True,False,False,Research,self,t3_1h5mqkj
+MachineLearning,[D] ODE/SDE alignment,Can anyone give me example of good paper that try to align/match the final marginal distribution of 2 ODE/SDE from diffusion model? ,Ok_Cryptographer2731,1h5ly4z,https://reddit.com/r/MachineLearning/comments/1h5ly4z/d_odesde_alignment/,https://www.reddit.com/r/MachineLearning/comments/1h5ly4z/d_odesde_alignment/,2024-12-03 12:08:04,1,1.0,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h5ly4z
+MachineLearning,[D] Looking for opensource projects/products to join ,"Hi everyone,
+
+I am a final year electronics undergrad student and have a decent amount of ML as well as general programming experience. I wish to contribute to any open Source repos that work in the ML/DL/AI space. Any guidance would be appreciated!
+
+TLDR; Looking for open source projects to contri to ; would appreciate any help.",Swimming-Regret-7278,1h5jue0,https://reddit.com/r/MachineLearning/comments/1h5jue0/d_looking_for_opensource_projectsproducts_to_join/,https://www.reddit.com/r/MachineLearning/comments/1h5jue0/d_looking_for_opensource_projectsproducts_to_join/,2024-12-03 09:43:05,3,0.67,3,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h5jue0
+MachineLearning,[D] NAACL 2025 vs ACL 2025,"Hi,
+
+I have recently received reviews from the ARR round for NAACL. The scores are: 3.5/4/4, 4/4/2, 3/3/3 for Overall/Soundness/Confidence. Should I try ACL with these scores or just commit to NAACL? Last year I had bit more and it worked out and got accepted to ACL (I did not commit to NAACL).
+
+Thanks",mayanknagda,1h5jj1h,https://reddit.com/r/MachineLearning/comments/1h5jj1h/d_naacl_2025_vs_acl_2025/,https://www.reddit.com/r/MachineLearning/comments/1h5jj1h/d_naacl_2025_vs_acl_2025/,2024-12-03 09:19:04,1,0.67,1,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1h5jj1h
+MachineLearning,[P] multi feature linear regression code in python not giving the correct solution (or any solution for that matter)...,"linear regression using gradient descent:
+
+    def multiFeatureLinearRegression(x, y, alpha, iterations):
+        w = [0.0] * len(x[0])
+        b = 0.0
+        m = len(x)
+        
+        for it in range(iterations):
+            w_temp = [0.0] * len(x[0])
+            b_temp = 0.0
+            for i in range (len(x)):
+                prediction = b
+                for j in range(len(x[i])):
+                    prediction += w[j] * x[i][j]
+                error = y[i] - prediction
+                
+                b_temp += error
+                
+                for j in range(len(x[i])):
+                    w_temp[j] += error * x[i][j]
+            
+            for i in range(len(x[0])):
+                w[i] -= alpha * (2.0 / m) * w_temp[i]
+            b -= alpha * (2.0 / m) * b_temp
+            
+        return w, b
+
+main body:
+
+    data = [    [15, 3, 20],  # [House Size (sq. ft.), Bedrooms, Age of House (years)]
+        [20, 4, 15],
+        [17, 3, 25],
+        [22, 4, 10],
+        [13, 2, 30],
+        [18, 3, 20],
+        [24, 4, 5],
+        [16, 3, 18]
+        ]
+    
+    dataY = [300, 400, 350, 450, 200, 370, 500, 310]
+    
+    alpha = 0.01
+    iterations = 100000
+    w, b = multiFeatureLinearRegression(data, dataY, alpha, iterations)
+    
+    print(""Weights (w):"", w)
+    print(""Bias (b):"", b)
+
+I am trying to implement multi feature linear regression and for some reason the output for the weight and bias is coming out to be:
+
+    Weights (w): [-inf, -inf, -inf]
+    Bias (b): -inf
+
+I have no idea why this is happening..  
+Can you spot what I am doing wrong here?  
+could it be because I have not applied any normalization or something?",silveroburn,1h5jyaj,https://reddit.com/r/MachineLearning/comments/1h5jyaj/p_multi_feature_linear_regression_code_in_python/,https://www.reddit.com/r/MachineLearning/comments/1h5jyaj/p_multi_feature_linear_regression_code_in_python/,2024-12-03 09:51:24,0,0.3,0,0,2,0,0,False,False,True,False,False,Project,self,t3_1h5jyaj
+MachineLearning,"[Discussion] Which LLMs power today's AI tools? OpenAI, Claude, or Something Else?","Hi everyone, I’m not very familiar with the technical side of machine learning, but I’ve been fascinated by how AI is transforming tools we use every day, like **GitHub Copilot**, [**Beautiful.ai**](http://Beautiful.ai), and **Gamma.app**. It’s incredible how they simplify our workflows, but it also makes me curious:
+
+1. Are most of these tools built on well-known models like **OpenAI’s GPT-4** or **Claude**, or do companies prefer to develop **proprietary models** for their specific use cases?
+2. For instance, GitHub Copilot openly relies on OpenAI, but for tools like [**Beautiful.ai**](http://Beautiful.ai) and others, it’s not as clear. Does anyone here know how these systems are structured under the hood?
+
+I’d love to hear from those who are more knowledgeable:
+
+* What factors influence a company’s decision to use external models versus building their own?
+* Do you see proprietary models gaining traction as a way for companies to differentiate their tools, or is it more practical to stick with APIs from major LLM providers?
+
+I know this is a nuanced topic, and I’d really appreciate any insights you’re willing to share. Thank you in advance for helping someone who’s still learning the ropes—your expertise means a lot! 😊
+
+Looking forward to hearing your thoughts!",Fit-Strawberry2879,1h5glqs,https://reddit.com/r/MachineLearning/comments/1h5glqs/discussion_which_llms_power_todays_ai_tools/,https://www.reddit.com/r/MachineLearning/comments/1h5glqs/discussion_which_llms_power_todays_ai_tools/,2024-12-03 05:49:25,0,0.33,0,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h5glqs

@@ -1,0 +1,23 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Applying for Graduate Jobs in the UK.,"I recently graduated with an MSc in Artificial Intelligence in the UK and am currently looking for job opportunities. However, I often feel unsure about whether I’m approaching the job search process effectively. The journey can feel overwhelming and confusing at times, and I wonder if I’m targeting and applying for roles in the right way.
+
+I am specifically targeting roles as a Machine Learning Engineer or Data Scientist. Could you share any proven strategies for job searching in the UK, particularly for these fields? Additionally, I’d like to know which months are crucial for job applications and when companies are most likely to hire graduates.",saurav-thakur,1he716d,https://reddit.com/r/datascience/comments/1he716d/applying_for_graduate_jobs_in_the_uk/,https://www.reddit.com/r/datascience/comments/1he716d/applying_for_graduate_jobs_in_the_uk/,2024-12-14 16:53:01,15,0.83,15,0,6,0,0,False,False,True,False,False,Career | Europe,self,t3_1he716d
+datascience,Visualization Process and Time Management,"At work I make many *exploratory* data visualizations that are fast, rough, and abundant. I want to develop a skill for *explanatory* visualizations that are polished, rich, and curated.
+
+I've read a couple books on design principles and visualzation libraries (i.e. Seaborn and Matplotlib) and have some idea what I am after. But then I'll sit down to draft a paper with my outline and my hand-sketches, and I'll blow through my time budget just tweaking one of the charts!
+
+I've learned a reliable process for writing, but I haven't mastered one for graphics. I'd love to hear what other people are doing. Some rudiments of a process:
+
+- Start with cheap exploratory viz to find your story.
+- Outline and revise your explanatory graphics by hand-- seems faster.
+- Draft the ""data ink"" completely before tweaking aesthetics.
+- Draft 80%-polished versions of graphs before the day you need them.
+- Ruthlessly cut and consolidate graphics to the essentials.
+- Forego graphics when narrative or tables are equally effective.
+- Accept that a given chart typically takes X hours and plan accordingly.
+- Practice, practice, practice so at least the tooling comes natural.
+",chiqui-bee,1hers8s,https://reddit.com/r/datascience/comments/1hers8s/visualization_process_and_time_management/,https://www.reddit.com/r/datascience/comments/1hers8s/visualization_process_and_time_management/,2024-12-15 12:40:30,12,0.93,12,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hers8s
+datascience,What are some things to consider if you wish to develop an experimentation platform? ,"Our company is quite small and we dont have a robust experimentation platform. Campaign measurement tasks are scattered all around the business with no unified set of standards. 6 different data scientists will bring you 6 different numbers of a lift measurement because nobody has a set way of doing things. 
+
+A few of us are thinking of building out an experimentation platform to be a one stop shop for all things measurement. For those of you at places with mature experimentation culture, what kind of things should we consider? I’m a data scientist whose never worked as closely with engineers, but taking on this project is going to force me to do that, so I want to know more about an experimentation platform setup from that side as well. What has worked for you guys and what are things to recommend in building an experimentation platform?",AdFew4357,1he6tyr,https://reddit.com/r/datascience/comments/1he6tyr/what_are_some_things_to_consider_if_you_wish_to/,https://www.reddit.com/r/datascience/comments/1he6tyr/what_are_some_things_to_consider_if_you_wish_to/,2024-12-14 16:43:27,5,0.78,5,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1he6tyr
+datascience,plumber api or standalone app (.exe)?,I am thinking about a one click solution for my non coders team. We have one pc where they execute the code ( a shiny app). I can execute it with a command line. the .bat file didn t work we must have admin previleges for every execution. so I think of doing for them a standalone R app (.exe). or the plumber API. wich one is a better choice?,Due-Duty961,1he7o50,https://reddit.com/r/datascience/comments/1he7o50/plumber_api_or_standalone_app_exe/,https://www.reddit.com/r/datascience/comments/1he7o50/plumber_api_or_standalone_app_exe/,2024-12-14 17:22:43,3,0.64,3,0,6,0,0,False,False,True,False,False,Tools,self,t3_1he7o50

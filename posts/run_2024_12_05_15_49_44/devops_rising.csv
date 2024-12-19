@@ -1,0 +1,107 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Which AWS professional certification? ,My employer is offering training and free vouchers for professional level. I've to choose between Solutions Architect professional and Devops Engineer Professional. What do you suggest?,D1mZ,1h7bx7g,https://reddit.com/r/devops/comments/1h7bx7g/which_aws_professional_certification/,https://www.reddit.com/r/devops/comments/1h7bx7g/which_aws_professional_certification/,2024-12-05 15:36:56,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1h7bx7g
+devops,Octopus Deploy 7200% price increase? Is this real?,"We've been using Octopus deploy since day dot. Had a perpetual licence with 10 machines for a few years. Then had to downgrade this time last year to a similar licence for 5 machines. We made it work, it was $720 a year.
+
+Just got notified that the licence has expired today and now it's priced based on projects. We have 300 projects, which is $52,200!
+
+We don't need 50 nodes or 50 workers or 20 concurrent tasks. WTAF - is this for real?
+
+Any suggestions?
+
+",asdrunkasdrunkcanbe,1h774ap,https://reddit.com/r/devops/comments/1h774ap/octopus_deploy_7200_price_increase_is_this_real/,https://www.reddit.com/r/devops/comments/1h774ap/octopus_deploy_7200_price_increase_is_this_real/,2024-12-05 11:32:19,72,0.97,72,0,53,0,0,False,False,True,False,False,,self,t3_1h774ap
+devops,Best tool to schedule/monitor CRON jobs,"I am currently trying to get away from Windows Task Scheduler in favor of Linux/Docker, but I am wanting advice on what services to look at for monitoring and source controlling said scripts. I understand their are things like Chronicle, healthchecks, rundeck, Jenkins, etc. I'm really looking for the slightest weight solution for now assuming azure devops is my repo of choice (shouldn't matter I presume, but stating it anyways). Any help is much appreciated before I go down this path! Also, I'm not sure if it matters, but some of my docker containers will run as ""services"" within WHILE loops.
+
+Edit: I also left out portainer, which seems to be a pretty solid solution as well",Black_Magic100,1h769tm,https://reddit.com/r/devops/comments/1h769tm/best_tool_to_schedulemonitor_cron_jobs/,https://www.reddit.com/r/devops/comments/1h769tm/best_tool_to_schedulemonitor_cron_jobs/,2024-12-05 10:34:12,12,1.0,12,0,9,0,0,False,False,True,False,False,,self,t3_1h769tm
+devops,Pulumi with thousands of resources,"Hi all,   
+Just curious if anyone have experience with Pulumi paid tiers?  
+I have a free account and would like to upgrade, but I checked numbers and it cost per resource, which is weird, because I can be a huge enterprise and have 1 server, or a small SaaS with 10k resource and ""forced"" to pay few thousands a month.
+
+I'm willing to pay 500/month for the service, but I'm not sure they have such deals.
+
+Have anyone done this?",divebatter,1h7a279,https://reddit.com/r/devops/comments/1h7a279/pulumi_with_thousands_of_resources/,https://www.reddit.com/r/devops/comments/1h7a279/pulumi_with_thousands_of_resources/,2024-12-05 14:12:35,4,0.84,4,0,2,0,0,False,False,True,False,False,,self,t3_1h7a279
+devops,Implementation of tunnel to private network,"Hello, I am planning on how to create a tunnel from my local computer to a RDS in a private network. I am thinking about using haproxy, jumpbox or openvpn.
+
+What solution do you use?",xavicx,1h783p8,https://reddit.com/r/devops/comments/1h783p8/implementation_of_tunnel_to_private_network/,https://www.reddit.com/r/devops/comments/1h783p8/implementation_of_tunnel_to_private_network/,2024-12-05 12:31:08,2,0.67,2,0,9,0,0,False,False,True,False,False,,self,t3_1h783p8
+devops,hint ,i have a discount of 50% in the associate aws exams but i should choose the exam date before 31 December however i didn't even pass the practitioner which im preparing to  . is there a big gap between the associate solution architect and the practitioner or i can pass the associate just with the lvl of the practitioner????,Confident-Sound-9674,1h7c4x9,https://reddit.com/r/devops/comments/1h7c4x9/hint/,https://www.reddit.com/r/devops/comments/1h7c4x9/hint/,2024-12-05 15:46:11,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h7c4x9
+devops,Advice to give to a software engineering student ,"I am a 3rd year computer science student , my field is softwares and embedded systems.
+
+I am open to all kind of advice or resources to help me pass and improve ",unlucky-angel-558,1h7c3ck,https://reddit.com/r/devops/comments/1h7c3ck/advice_to_give_to_a_software_engineering_student/,https://www.reddit.com/r/devops/comments/1h7c3ck/advice_to_give_to_a_software_engineering_student/,2024-12-05 15:44:13,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h7c3ck
+devops,Career Advice ,"
+So guys I'm studying C's from mid-tier university...
+I'm good in programing.. As I know the basic of c++ (did ICS in hssc) and also familiar very much with html, css and J's...  I made tic-tac-toe, piggy game and other project like currency converter, simple mobile app calculator using html,css and J's but now when I see people from top uni like nust fast I feel like a looser... Also I'm only good in programing and mathematics other subject are average...  So, pls give me advice Is I'm on right place or I have to do more work??...
+
+Also I see people having a lot of knowledge about Linux, and other software/hardware but I don't know nothing because I was born in a family where no one goes uni so, I'm the first in my family....
+
+Only last question is how much time you guys sleep? Also advice me about this how much time I should daily give to study?...
+
+So, give me advice as your little brother I'll be thankful to you all guys... ",Capable_Stage_4412,1h7aj9g,https://reddit.com/r/devops/comments/1h7aj9g/career_advice/,https://www.reddit.com/r/devops/comments/1h7aj9g/career_advice/,2024-12-05 14:34:52,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1h7aj9g
+devops,"Doubt ELK is still the ""cool"" open self hosted log aggregator?  What's your fav?",,TurlachMacD,1h6m5a6,https://reddit.com/r/devops/comments/1h6m5a6/doubt_elk_is_still_the_cool_open_self_hosted_log/,/r/u_TurlachMacD/comments/1h6hyp5/doubt_elk_is_still_the_cool_open_self_hosted_log/,2024-12-04 17:44:32,26,0.79,26,0,30,0,0,False,False,False,False,False,,default,t3_1h6m5a6
+devops,The secret of longevity for this industry is to not care about technology but solving the problems,"[https://www.youtube.com/watch?v=ZJ09dPNJ8G8](https://www.youtube.com/watch?v=ZJ09dPNJ8G8)
+
+\_\_
+
+This video aligns with the opinions I shared in the post titled **'Another DevOps Rant.'**
+
+[https://www.reddit.com/r/devops/comments/1h5156p/just\_another\_devops\_rant/](https://www.reddit.com/r/devops/comments/1h5156p/just_another_devops_rant/)
+
+You're probably already familiar with this channel, but I recently discovered it.
+
+If anyone is interested in diving deeper into the reasons behind this thinking, I believe you'll enjoy watching it.
+
+Cheers!
+
+**Edit:**  *It can be applied* ***to any*** *related technical IT job.*",nettrotten,1h6dn7m,https://reddit.com/r/devops/comments/1h6dn7m/the_secret_of_longevity_for_this_industry_is_to/,https://www.reddit.com/r/devops/comments/1h6dn7m/the_secret_of_longevity_for_this_industry_is_to/,2024-12-04 11:13:16,78,0.91,78,0,9,0,0,False,False,True,False,False,,self,t3_1h6dn7m
+devops,Analyzing GitHub Actions: The $20k/month CI Pipeline of React Native,"While developing BuildBudget (a GitHub Actions cost analyzer), I discovered React Native's test workflow costs $20k/month - 80x more than typical workflows. The analysis reveals interesting patterns about matrix builds, macOS runners, and minute-based billing. Thought you might find the deep dive interesting.
+
+[Link to the article](https://buildbudget.dev/blog/test_all_workflow/)",ejramire,1h6hqr6,https://reddit.com/r/devops/comments/1h6hqr6/analyzing_github_actions_the_20kmonth_ci_pipeline/,https://www.reddit.com/r/devops/comments/1h6hqr6/analyzing_github_actions_the_20kmonth_ci_pipeline/,2024-12-04 14:47:40,27,0.89,27,0,2,0,0,False,False,True,False,False,,self,t3_1h6hqr6
+devops,Why did YOU transition from software dev to devops?,"assuming that you did make this transition at some point.
+
+  
+Asking because I want to explain why I want to be an infrastructure engineer with my background in software dev and data science, other than the actual answer of ""this is the position that responded to my application'",unsafe_acct_69420,1h64tao,https://reddit.com/r/devops/comments/1h64tao/why_did_you_transition_from_software_dev_to_devops/,https://www.reddit.com/r/devops/comments/1h64tao/why_did_you_transition_from_software_dev_to_devops/,2024-12-04 01:58:48,75,0.89,75,0,69,0,0,False,False,True,False,False,,self,t3_1h64tao
+devops,Jenkins Workflow Question,"Hi, I am a solo software engineer for a microscopy company. I own a pretty significant number of services and applications, and so far have just been relying on Github Actions to run my unit tests, integration tests, and releases.
+
+I am identifying the need to finally have some kind of CI/CD pipeline. I am familiar with the concept after working at Amazon, but now I need to develop a pipeline myself.
+
+My question is about what kind of workflows are possible in Jenkins. For some context, I have the following:
+
+- A Django API
+- An auto-generated Python client  for the API
+- A package of Domain Models which are sent to/from the Django API
+- A repository package that abstracts the REST API client and makes it simpler to use
+
+These constitute a set of ""core"" services and packages, which all rely on each other to work. It is possible to change one of these packages/services without needing to modify the others, however, sometimes a feature change in one project will require all of the other projects to change.
+
+For example, if I add a ""Food"" table to the Django API, I also need to add a Food class to the domain models, and a FoodRepository, and there will need to be new tests added as well.
+
+Is there a way to design my workflows as a directed acyclic graph where each of my services/packages has a list of repositories that are downstream of it, and so all of those services are tested when a change is made? Many of these programs feed into each other as well, so there is a need for the output of one test to be used as the fixtures of the next test in some cases. For example, if the ""core"" services pass their tests, a script would populate a local database for use with all of the desktop applications that rely on the ""core"" services. Then if I see one of the desktop applications breaks, I know that this feature change requires the desktop app to be updated as well. Let me know if what I am asking for even makes sense.",ShagohodEnjoyer,1h6wpgg,https://reddit.com/r/devops/comments/1h6wpgg/jenkins_workflow_question/,https://www.reddit.com/r/devops/comments/1h6wpgg/jenkins_workflow_question/,2024-12-05 01:03:57,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h6wpgg
+devops,Is having a VPS for yourself good?,"I recently started as a junior developer with fewer experiences than my colleagues. Is it better to have your own VPS to play with and experiment with, or is it better to experiment with different services provided by the same cloud service provider? (I'm willing to do the latter, even though getting your own server is better.)
+
+",star-lord-98,1h69pmw,https://reddit.com/r/devops/comments/1h69pmw/is_having_a_vps_for_yourself_good/,https://www.reddit.com/r/devops/comments/1h69pmw/is_having_a_vps_for_yourself_good/,2024-12-04 06:26:01,16,0.84,16,0,23,0,0,False,False,True,False,False,,self,t3_1h69pmw
+devops,"[Tutorial] AWS ECS, EC2, and Warm Pools: Advantages and Gotchas","Running containers with ECS? This article explores:  
+	•	Fargate vs. EC2 for capacity providers  
+	•	How to configure warm pools for faster scaling  
+	•	Common pitfalls (and how to avoid them)
+
+Read [here](https://imgproxy.net/blog/aws-ecs-ec2-warm-pool/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=ecs_tutorial)!",progapandist,1h6gprd,https://reddit.com/r/devops/comments/1h6gprd/tutorial_aws_ecs_ec2_and_warm_pools_advantages/,https://www.reddit.com/r/devops/comments/1h6gprd/tutorial_aws_ecs_ec2_and_warm_pools_advantages/,2024-12-04 14:02:40,5,0.73,5,0,0,0,0,False,False,True,False,False,,self,t3_1h6gprd
+devops,What software composition analysis (SCA) tools do you use and what improvements do you want to see?,"How do you use SCA tools to manage vulnerabilities in dependencies? What are some issues you run into when using the tools and what improvements with SCA do you think would be helpful?
+
+SCA tools would be anything that identifies software components and vulnerabilities in them, ex: grype, sonatype, black duck, snyk, etc.
+
+We are security researchers interested in how you use SCA tools. If you are willing to share your experiences with us, we'd be happy to talk to you. We're conducting interviews (\~45min) to understand your experiences.
+
+Ultimately, we really want to understand:
+
+* How you integrate SCA into software pipelines and any challenges that come with that.
+* How you interpret the SCA reports and what actions are taken after.
+* Challenges you run into with SCA, your opinions, and how you would like to see them be improved
+
+More details about our research are here: [https://s3c2.org/studies/sca-usability](https://s3c2.org/studies/sca-usability)
+
+Feel free to discuss the challenges you run into or reach out if you are interested or have any questions.
+
+We'd be happy to share our study results back to the community if any of you share your experiences with us!",wutever0017,1h6rcyt,https://reddit.com/r/devops/comments/1h6rcyt/what_software_composition_analysis_sca_tools_do/,https://www.reddit.com/r/devops/comments/1h6rcyt/what_software_composition_analysis_sca_tools_do/,2024-12-04 21:13:07,1,0.57,1,0,2,0,0,False,False,True,False,False,,self,t3_1h6rcyt
+devops,"YAML Schemas in Emacs with Eglot - just renewed blog, feedback welcome too","Are you someone that enjoys Emacs and the amazing built-in package Eglot, which enables Emacs to provide intelligent completions and error reporting, linting, and more with language servers ?
+
+Are you ocasionally editing YAML files and would like to use JSON Schemas for YAML, get some feedback from Emacs, the right completions for a configuration file ?
+
+[https://jointhefreeworld.org/blog/articles/emacs/yaml-schemas-in-emacs-eglot/](https://jointhefreeworld.org/blog/articles/emacs/yaml-schemas-in-emacs-eglot/)",kosakgroove,1h6pt88,https://reddit.com/r/devops/comments/1h6pt88/yaml_schemas_in_emacs_with_eglot_just_renewed/,https://www.reddit.com/r/devops/comments/1h6pt88/yaml_schemas_in_emacs_with_eglot_just_renewed/,2024-12-04 20:10:12,0,0.4,0,0,0,0,0,False,False,True,False,False,,self,t3_1h6pt88

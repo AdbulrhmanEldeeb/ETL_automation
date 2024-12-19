@@ -1,0 +1,50 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Felt proud of myself and wanted to share,"I'm 38 years old and I'm almost done with my math degree. I was nervous about taking Real Analysis because it has a reputation if being really difficult and a lot of people at my university have had to retake it. I worked really hard for my grade (94% for a 3.9), going to office hours, sitting in the front row, and asking a lot of questions. I'm really proud of myself.",disoriented_traveler,1hghexg,https://reddit.com/r/math/comments/1hghexg/felt_proud_of_myself_and_wanted_to_share/,https://i.redd.it/nydx6hosdg7e1.png,2024-12-17 18:36:18,449,0.91,449,0,29,0,0,False,False,False,False,False,,,t3_1hghexg
+math,Hilbert's 10th problem for ring of integers had been solved recently!,,VivaVoceVignette,1hgokay,https://reddit.com/r/math/comments/1hgokay/hilberts_10th_problem_for_ring_of_integers_had/,https://arxiv.org/abs/2412.01768,2024-12-17 23:56:08,237,0.94,237,0,23,0,0,False,False,False,False,False,,,t3_1hgokay
+math,US vs EU (Bonn) graduate progams,"I've been looking at the course offerings for the first two 'masters' years of a standard US maths PhD and comparing them to courses offered at a top European university, specifically the University of Bonn. I'm a prospective maths grad student.
+
+It looks to me that there are significantly more courses and many more advanced courses, at Bonn when compared to US universities. Here is the [course handbook of Bonn](https://www.mathematics.uni-bonn.de/studium/medienordner-studium-1/dateien/po-modulhandbuch/mscmath-modulhandbuch.pdf). Finding course schedules for US schools is a bit more difficult, but generally I see fewer options.
+
+Is this an accurate representation of the difference in course offerings of top math graduate schools in the EU vs US? Is Bonn an outlier for this? If this is true, is this reflected in the knowledge of successful masters and PhD candidates in the EU vs US?",Infinity_Crisis,1hgzfw7,https://reddit.com/r/math/comments/1hgzfw7/us_vs_eu_bonn_graduate_progams/,https://www.reddit.com/r/math/comments/1hgzfw7/us_vs_eu_bonn_graduate_progams/,2024-12-18 11:16:38,30,0.83,30,0,17,0,0,False,False,True,False,False,,,t3_1hgzfw7
+math,What do you think of abbreviations?,"When I'm doing calculations and during lectures, I find it convenient to use common abbreviations like 'iff' and 'wlog' so that I have to write less. I'm curious about what others think about these in formal writing. Personally, I wouldn't have a problem with the usage of such abbreviations in somebody's arxiv work, and I feel I could even adjust to seeing these in formal publications, though it would be necessary to have a grace period where papers included a terminology section clarifying abbreviations or something like that. Do you feel similarly to me? If you disagree, do you have strong feelings about this, or is it just a stylistic preference? ",Corlio5994,1hgudhk,https://reddit.com/r/math/comments/1hgudhk/what_do_you_think_of_abbreviations/,https://www.reddit.com/r/math/comments/1hgudhk/what_do_you_think_of_abbreviations/,2024-12-18 05:04:59,24,0.82,24,0,25,0,0,False,False,True,False,False,,,t3_1hgudhk
+math,Is it possible for a probabilistic operation of an infinite set to produce a finite set?,"I think my question is the general case of something more specific I have in mind, which is:
+
+If I have a fully connected graph of infinite nodes and I probabilistically remove edges across the graph (any number of times), is it possible to have at least one node end up with a finite number of edges?
+
+My intuition says it is not possible, but math can be wonderfully strange so I thought I would ask.",tgillet1,1hgmbk8,https://reddit.com/r/math/comments/1hgmbk8/is_it_possible_for_a_probabilistic_operation_of/,https://www.reddit.com/r/math/comments/1hgmbk8/is_it_possible_for_a_probabilistic_operation_of/,2024-12-17 22:12:22,19,0.81,19,0,53,0,0,False,False,True,False,False,,,t3_1hgmbk8
+math,integral shaped pillow,This is an odd request but I figured I'd reach the most math people here- anyone know where I can buy a pillow (preferably body sized pillow) shaped like an integral? It's a Christmas gift for my roommate who nerds out with me about calc. If i can't find one online I might sew it myself. But anyone know of anywhere i could buy this?? Lol,Vast-Establishment45,1hgr77j,https://reddit.com/r/math/comments/1hgr77j/integral_shaped_pillow/,https://www.reddit.com/r/math/comments/1hgr77j/integral_shaped_pillow/,2024-12-18 02:08:41,16,0.95,16,0,4,0,0,False,False,True,False,False,,,t3_1hgr77j
+math,Is “The Elements of Mathematics” a Good Place to Start?,"About 2 months ago, i posted [this](https://www.reddit.com/r/math/comments/1g94nf5/how_do_people_enjo), but since then I’ve had a little bit of change of heart. I don‘t enjoy math, but I don’t hate it. Now, I want to be the best in my class for a few reasons, one of them being that it would be funny to come back from break and randomly know more than the rest of the class. Is “The Elements of Mathematics” by the Bourbaki Group a good place to start?
+
+Edit 1: this is mainly for calculus",Angry_Toast6232,1hgevlt,https://reddit.com/r/math/comments/1hgevlt/is_the_elements_of_mathematics_a_good_place_to/,https://www.reddit.com/r/math/comments/1hgevlt/is_the_elements_of_mathematics_a_good_place_to/,2024-12-17 16:48:28,13,0.68,13,0,13,0,0,False,False,True,False,False,,,t3_1hgevlt
+math,Learning advice,"Hi all. 
+
+I’m 32 years old, mechanical engineering student. The last time I study math was probably 12 years before committing to the course in September this year. This is the first year and I have huge doubts if I’m capable of making it. 
+
+I never been good at math, poor teaching, poor resources etc., and at some point I gave up even trying.
+
+I have big math test tomorrow that I know I fail. There is no doubt about it. There will be one last chance in May, but other than that, that’s it. 
+
+The test tomorrow will cover subjects such as functions, vectors, complex numbers, matrices, differation, integration and statistics. 
+
+I’m fairly comfortable with matrices, statistics and vectors. 
+
+It just feels from the begging of the course like I’m lacking basic knowledge to even progress further, and that demotivating feeling of failure keeps me company from the very start. 
+
+Fact that I’m study in English, not being native English speaker probably makes things more complicated as well. 
+
+I’m seriously considering withdrawing or switching to the different course because of that, actually this is one of the many reasons but weights the most. 
+
+How would you recommend approaching this? Should I give up on test tomorrow and take a huge step back? ",domyngo_28,1hgwwu7,https://reddit.com/r/math/comments/1hgwwu7/learning_advice/,https://www.reddit.com/r/math/comments/1hgwwu7/learning_advice/,2024-12-18 08:00:01,10,0.87,10,0,5,0,0,False,False,True,False,False,,,t3_1hgwwu7
+math,what are some of your most favourite fractal patterns,"mine is the pattern observed when you find the divisibility of each number on a pascal triangle and colour them. you would just see a sierpenski triangle
+
+  
+using other numbers reveals other patterns depending on whether it is prime, composite   
+numbers only being powers of another prime also reveals other fascinating patterns
+
+  
+you can visualise them through code which is nice",beesmasterkeeper,1hgdfsr,https://reddit.com/r/math/comments/1hgdfsr/what_are_some_of_your_most_favourite_fractal/,https://www.reddit.com/r/math/comments/1hgdfsr/what_are_some_of_your_most_favourite_fractal/,2024-12-17 15:45:14,7,0.74,7,0,9,0,0,False,False,True,False,False,,,t3_1hgdfsr
+math,What source of motivation makes you most effective at solving questions?,"For context: I am an undergraduate who keeps a journal of questions they are curious about, and whose main goal is to answer those questions as quickly as possible. As such, I have employed various sources of motivation throughout the years (frustration, excitiment, etc.), but have found that some sources are more effective than others at actually getting the question answered. However, some of the sources my friends use are quite different.
+
+So out of curiosity: what sources of motivation have you all found that enable you to answer questions quickly? Is it a feeling of 'emptiness' and frustration, which you need to resolve as soon as possible? A desire to solve as many questions as possible? Something else?",nihaomundo123,1hgd4pu,https://reddit.com/r/math/comments/1hgd4pu/what_source_of_motivation_makes_you_most/,https://www.reddit.com/r/math/comments/1hgd4pu/what_source_of_motivation_makes_you_most/,2024-12-17 15:31:07,5,0.86,5,0,1,0,0,False,False,True,False,False,,,t3_1hgd4pu
+math,AOPS Geometry Course,"My daughter is homeschooled and has been using the AOPS Geometry book.  She's learning a ton, and it has been immensely rewarding.  But she is going a little slow.  She's on schedule to finish the year with the last ~3 chapters in the book not complete.  When I was kid, I certainly remember that in some classes, we would get through all the material and in other classes we simply would not.  
+So, I can either double down and increase the time we spend on Math and try to finish the book or continue at the current pace and not stress the last parts (or maybe change out a chapter).  Advice?  (And, of course, I know each child is unique and learns at a different pace and all of that.  I just don't want to leave her unprepared for the rest of her math education.  We are expecting her to attend a public school next year.) Thank you!",rendleddit,1hgq3eu,https://reddit.com/r/math/comments/1hgq3eu/aops_geometry_course/,https://www.reddit.com/r/math/comments/1hgq3eu/aops_geometry_course/,2024-12-18 01:11:47,2,0.63,2,0,2,0,0,False,False,True,False,False,,,t3_1hgq3eu

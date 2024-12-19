@@ -1,0 +1,1006 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,How do I convert a base 2¹²⁸ number into a denary string?,"I honestly don't know where I'm supposed to ask this, which is why I'm asking here. I'm trying to write my own BigInt implementation in Rust, and I'm using an array of unsigned 128-bit integers. My idea is a base 340282366920938463463374607431768211456 (2¹²⁸) number system, where each digit is a `u128` in the array (`arr[0]` is the unit's digit).
+
+The problem with my idea is that I have no idea how I'm supposed to convert this type of number into a string. I can't just sum up the _digits_ multiplied by powers of 128, that's the whole reason I'm writing a BigInt implementation in the first place...",prawnydagrate,1hgac2l,https://reddit.com/r/learnprogramming/comments/1hgac2l/how_do_i_convert_a_base_2¹²⁸_number_into_a_denary/,https://www.reddit.com/r/learnprogramming/comments/1hgac2l/how_do_i_convert_a_base_2¹²⁸_number_into_a_denary/,2024-12-17 13:13:44,0,0.5,0,0,8,0,0,False,False,True,False,False,,,t3_1hgac2l
+learnprogramming,Has anyone understood their code but didn't really understand it fully?,"I am coding the Fibonacci sequence and I had to look up how to code it for guidance. 
+
+    def fib(n):
+        a = 0
+        b = 1
+        fib_list = [a, b]
+    
+        for i in range(2, n):
+            c = a + b  # 0 + 1
+            a = b  # 1 = 1
+            b = c  # 1 = 1
+            fib_list.append(c)
+        return fib_list
+    
+    print(fib(10))
+
+Though I understand (like I can read it) I want to have a full, deep understanding of it.
+
+Has anyone struggled with this?",TheEyebal,1hg158c,https://reddit.com/r/learnprogramming/comments/1hg158c/has_anyone_understood_their_code_but_didnt_really/,https://www.reddit.com/r/learnprogramming/comments/1hg158c/has_anyone_understood_their_code_but_didnt_really/,2024-12-17 03:02:45,1,0.54,1,0,12,0,0,False,False,True,False,False,,,t3_1hg158c
+learnprogramming,Why would an enterprise choose C# over Java?,"C# has syntax features that some people say are better in some ways? (edit: I personally prefer C# syntax) but (edit: people here say) that Java wins in terms of big data and large-scale enterprise performant speed and garbage collection efficiency. Java has no problems with backwards compatibility vs C#. Java has more libraries &amp; frameworks, more online forum support, and more IDEs.
+
+So why so many job postings for enterprise C#? What am I missing?
+
+(with the exception of unity)
+
+(edit: Thanks to everyone for the answers! I learned a lot today... I think I understand now, that more libraries and frameworks doesn't mean ""better"", as C#'s ecosystem, tools, and development ease is better-designed especially for enterprise business and development speed, and that big data performance isn't the deciding factor of every business on what tech to use, because like in this instance, C# is faster on desktop.)",Human_Study2244,1hg2eg5,https://reddit.com/r/learnprogramming/comments/1hg2eg5/why_would_an_enterprise_choose_c_over_java/,https://www.reddit.com/r/learnprogramming/comments/1hg2eg5/why_would_an_enterprise_choose_c_over_java/,2024-12-17 04:11:32,30,0.71,30,0,79,0,0,False,False,True,False,False,,,t3_1hg2eg5
+learnprogramming,What is the most efficient way to start programming?,"I'm 13 and I really want to start coding, I've learned a bit of the easier coding languages like lua and batch but still then as I start learning the harder concepts of them, I just get stuck. I'm sure some of you guys have been through this before and overcome it, if so, how did you? Any help would be appreciated :)",NoobieRoblox,1hga5ka,https://reddit.com/r/learnprogramming/comments/1hga5ka/what_is_the_most_efficient_way_to_start/,https://www.reddit.com/r/learnprogramming/comments/1hga5ka/what_is_the_most_efficient_way_to_start/,2024-12-17 13:03:41,3,0.67,3,0,17,0,0,False,False,True,False,False,,,t3_1hga5ka
+learnprogramming,Is The Odin Project Worth it? ,If I mean if I stick to this website and try really really hard. Can I get a full time full stack developer job after finishing it? ,Ok-Row8768,1hfvypw,https://reddit.com/r/learnprogramming/comments/1hfvypw/is_the_odin_project_worth_it/,https://www.reddit.com/r/learnprogramming/comments/1hfvypw/is_the_odin_project_worth_it/,2024-12-16 22:49:24,43,0.76,43,0,21,0,0,False,False,True,False,False,,,t3_1hfvypw
+learnprogramming,Struggling with Angela Yu’s  100 days of code course as a SOC Analyst.,"Just a little background about me. I worked technical support for a couple years and going on my second year working as a SOC Analyst. None of my roles ever involved any programming but I feel like this is something I need to learn to improve my technical skill set and set myself up for success in the future. Im currently working on Angela Yu’s 100 days of code python course and struggling quite a bit. I’m on day 9 and know it is only going to get harder. Day 7 and 8 took me about a week each to actually grasp the concepts. Do things get easier? I always hear about it finally “clicking” for people. Is there anything I can do to make it “click” faster? At this rate it’s going to take me 2 years to get through this course. Do I need to train my brain to think like a programmer? If so, how do I do this? Just looking for any advice in general.",Grandleveler33,1hfzuzi,https://reddit.com/r/learnprogramming/comments/1hfzuzi/struggling_with_angela_yus_100_days_of_code/,https://www.reddit.com/r/learnprogramming/comments/1hfzuzi/struggling_with_angela_yus_100_days_of_code/,2024-12-17 01:55:08,5,0.64,5,0,7,0,0,False,False,True,False,False,,,t3_1hfzuzi
+learnprogramming,Do you think degree is really important even if you have another engineering degree?,"Hey guys, I’m a beginner learning Kotlin for Android development, and I’m super dedicated to becoming a programmer. I’m actually a 25-year-old mechanical engineer, but I’ve been unemployed for a couple of months now. That gave me the chance to finally start my programming journey (something I’ve always wanted to do but never pursued). Honestly, I was never fully satisfied with my chosen field, but I’ve really fallen in love with programming and am learning with a lot of ambition.
+
+My question is: Do you think a CS or Software Engineering degree is really necessary? I see a lot of job postings asking for a CS degree, and I get that you can work without one or even build your own projects. But do you think getting a degree would help boost my career in the long run?",dionysoswt,1hgbh2x,https://reddit.com/r/learnprogramming/comments/1hgbh2x/do_you_think_degree_is_really_important_even_if/,https://www.reddit.com/r/learnprogramming/comments/1hgbh2x/do_you_think_degree_is_really_important_even_if/,2024-12-17 14:12:16,7,0.77,7,0,6,0,0,False,False,True,False,False,,,t3_1hgbh2x
+learnprogramming,Quiting my job to go all in ,"Been thinking about quitting my current job in food service to go all in on my schooling and personal projects for programming. 
+
+I’m worried I may be making the wrong decision but also feel I’m making the right one because it is sacry and I do have financial backing to support this (I am 20 so I live with my parents) 
+
+Advice? 
+
+Edit: thank you all for the great advice! 
+
+I’m currently sick so this gives me time to put a plan in place of how structure things. I’m going to stay part time and just work harder on school and getting projects made. 
+
+Once again thank you all!!!",Klutzy-Bug-9481,1hfln9i,https://reddit.com/r/learnprogramming/comments/1hfln9i/quiting_my_job_to_go_all_in/,https://www.reddit.com/r/learnprogramming/comments/1hfln9i/quiting_my_job_to_go_all_in/,2024-12-16 15:30:48,102,0.84,102,0,93,0,0,False,False,True,False,False,Topic,,t3_1hfln9i
+learnprogramming,Hello to the community!,Can you recommend some sites where I can learn react for free? I'm still a student so I have no means to enroll on a paid course😓. Thank you in advance!,UndyingInsanity16,1hftkm4,https://reddit.com/r/learnprogramming/comments/1hftkm4/hello_to_the_community/,https://www.reddit.com/r/learnprogramming/comments/1hftkm4/hello_to_the_community/,2024-12-16 21:06:34,0,0.33,0,0,8,0,0,False,False,True,False,False,,,t3_1hftkm4
+learnprogramming,"I learned programming, how do you know when you're good? (example code)","    (
+    if (true) {
+      );
+     console.log("":^)"");
+    }
+
+",Many_Distribution701,1hftgs7,https://reddit.com/r/learnprogramming/comments/1hftgs7/i_learned_programming_how_do_you_know_when_youre/,https://www.reddit.com/r/learnprogramming/comments/1hftgs7/i_learned_programming_how_do_you_know_when_youre/,2024-12-16 21:02:08,0,0.25,0,0,6,0,0,False,False,True,False,False,Code Review,,t3_1hftgs7
+learnprogramming,How to loop datasource in UI.Vision,"I created a functioning script that opens a page, selects options 1 and 2 from a.csv file, and submits; it then loops and repeats the process. Everything has been wonderful up to this point. Just one issue: it does not utilize row 2 from try number 2.
+
+So, for example, row one options 1 and 2 are orange and fruit, respectively, whereas row 2 options 1 and 2 are carrot and vegetable. However, when I execute the script, even if I loop it ten times, it will continue to publish orange and fruit rather than attempting 20 additional entries.CSV file.
+
+I'm posting my basic code here in case someone can spot the problem and fix it so that I may attempt the loop with data from the following line on successive tries.
+
+thankyou
+
+&gt;
+{  
+  ""Name"": ""document"",   
+  ""CreationDate"": ""2024-12-10"",  
+  ""Commands"": [  
+    {  
+      ""Command"": ""store"",  
+      ""Target"": ""danny.csv"",  
+      ""Value"": ""csvFile"",  
+      ""Description"": """"  
+    },  
+    {  
+      ""Command"": ""csvRead"",  
+      ""Target"": ""${csvFile}"",  
+      ""Value"": """",  
+      ""Description"": """"  
+    },  
+    {  
+      ""Command"": ""while"",  
+      ""Target"": ""${!csvReadStatus} == \""OK\"""",  
+      ""Value"": """",  
+      ""Description"": ""Loop through CSV rows""  
+    },   
+   {  
+      ""Command"": ""open"",  
+      ""Target"": ""MY URL"",  
+      ""Value"": """",  
+      ""Description"": """"  
+    },  
+    {  
+      ""Command"": ""type"",  
+      ""Target"": ""name=Option1"",  
+      ""Value"": ""${!COL1}"",  
+      ""Description"": """"  
+    },  
+    {  
+      ""Command"": ""type"",  
+      ""Target"": ""name=Option2"",  
+      ""Value"": ""${!COL2}"",  
+      ""Description"": """"  
+    },  
+    {  
+      ""Command"": ""click"",  
+      ""Target"": ""xpath=//button[@type='submit']"",  
+      ""Value"": """",  
+      ""Description"": """"  
+    },  
+    {  
+      ""Command"": ""pause"",  
+      ""Target"": ""2000"",  
+      ""Value"": """",  
+      ""Description"": """"  
+    },  
+    {  
+      ""Command"": ""csvRead"",  
+      ""Target"": ""${csvFile}"",  
+      ""Value"": """",  
+      ""Description"": ""Read next row""  
+    },   
+    {  
+      ""Command"": ""endWhile"",  
+      ""Target"": """",  
+      ""Value"": """",  
+      ""Description"": """"  
+    }",texh89,1hg8wi4,https://reddit.com/r/learnprogramming/comments/1hg8wi4/how_to_loop_datasource_in_uivision/,https://www.reddit.com/r/learnprogramming/comments/1hg8wi4/how_to_loop_datasource_in_uivision/,2024-12-17 11:47:15,0,0.5,0,0,0,0,0,False,False,True,False,False,Code Review,,t3_1hg8wi4
+learnprogramming,Data Processing automation Tool ? ,"Hello everyone. I'm a data science graduate
+ 
+I remember once working with this tool like 2 years ago ( maybe library, or a package downloaded from github) that helps automate data preprocessing. 
+
+You would run the library in jupyter notebook and the output of the cell will be the table (if you're workign with a table) and you would perform the treatment manually on the table. And when you run it, the code of the process you did will be generated. 
+
+I've been searching for it for so long, it's starting to feel like i was on a good fever dream and it's not coming back. 
+
+Does anyone recognize it? ",BelleLovesReading,1hg8usl,https://reddit.com/r/learnprogramming/comments/1hg8usl/data_processing_automation_tool/,https://www.reddit.com/r/learnprogramming/comments/1hg8usl/data_processing_automation_tool/,2024-12-17 11:44:03,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1hg8usl
+learnprogramming,perfect binary tree?,"r/datastructures seems kinda dead so im asking here:
+shouldn't this be a perfect bin tree as opposed to complete bin tree?
+[It displays the result which is a complete binary tree](https://www.geeksforgeeks.org/extended-binary-tree/)",high-speed-rebel,1hg6yrk,https://reddit.com/r/learnprogramming/comments/1hg6yrk/perfect_binary_tree/,https://www.reddit.com/r/learnprogramming/comments/1hg6yrk/perfect_binary_tree/,2024-12-17 09:24:33,0,0.5,0,0,1,0,0,False,False,True,False,False,Solved,,t3_1hg6yrk
+learnprogramming,Finally jumping into programming,"Henloos, I'm a 20-year-old who wants to begin programming. I'm going to school for data science, and I'm wondering how far I should commit to all the free Python courses on Codecademy? I have zero background experience except for some C++ before dropping the class.
+
+Thank You all for opinions",VillainGoose54,1hfzz8k,https://reddit.com/r/learnprogramming/comments/1hfzz8k/finally_jumping_into_programming/,https://www.reddit.com/r/learnprogramming/comments/1hfzz8k/finally_jumping_into_programming/,2024-12-17 02:01:06,0,0.5,0,0,7,0,0,False,False,True,False,False,Tutorial,,t3_1hfzz8k
+learnprogramming,Freshman in Comp Sci want to learn more,"Hey Guys, I am sure you get these posts all the time but I am a freshman in Comp Sci and I want to grow as a programmer. Right now I have learned JavaScript, Python, C++ and MySQL. What I know in these languages is 
+
+  
+\- loops
+
+\- importing/reading and writing files
+
+\- using Classes to organize my code better
+
+\- building user interactable main menus (by interactable I mean the user will type in a # to respond to what menu they want to move to)
+
+\- how to read update and move around data in mysql
+
+\- how to use Gui commands in python and javascript to do things with my mouse and keyboard
+
+\- how to update dbeaver software by using python and java software 
+
+  
+and the beginner stuff such as for loops, while loops, do while loops, if/else statements, for loops with iterations (i ++), basically anything beginner you can think of I probably have some sort of familiarilty with it. 
+
+  
+my issue is I will go to websites like leetcode to ""test my knowledge"" and what leetcode is asking seems next to impossible for me to solve (is this because I am so early on in my coding?). I also see people making buttons, interactive clickable menu options and importing color to backgrounds of their displays and I have no clue how to even do those things. Will I learn those down the line? 
+
+  
+It seems like my next courses over this and next year will incorporate
+
+\- the software development cycle
+
+\- building an interactable user interface
+
+\- full stack development
+
+\- mobile and desktop architecture
+
+and client server development. 
+
+any advice/guidance tips and tricks and where to learn more would be greatly appreciated thank you in advance and please be nice in the comments I am sure all of you were in my shoes at some point.  
+
+",AnonCompSciStudent,1hfw684,https://reddit.com/r/learnprogramming/comments/1hfw684/freshman_in_comp_sci_want_to_learn_more/,https://www.reddit.com/r/learnprogramming/comments/1hfw684/freshman_in_comp_sci_want_to_learn_more/,2024-12-16 22:58:52,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1hfw684
+learnprogramming,2d python collisions ,"I tried making my own elastic collision system, to say the least i failed. i dont know why, but they just dont bounce, like at all. Any ideas will be welcome. using the formula from wikipedia [https://en.wikipedia.org/wiki/Elastic\_collision](https://en.wikipedia.org/wiki/Elastic_collision) im using the last one, at least trying
+
+    import 
+    pygame
+     as 
+    py
+    import 
+    sys
+    import 
+    numpy
+     as 
+    np
+    import 
+    math
+     
+    py
+    .init()
+    window_size = (800,800)
+    window = 
+    py
+    .
+    display
+    .set_mode(window_size)
+    class
+     
+    particle
+    ():
+        
+    def
+     __init__(
+    self
+    ,
+    pos_x
+    ,
+    pos_y
+    ,
+    radius
+     = 10,
+    vel
+    =[0,0],
+    mass
+     = 100):
+            
+    self
+    .radius = 
+    radius
+            
+    self
+    .pos = [
+    pos_x
+    ,
+    pos_y
+    ]
+            
+    self
+    .pos1 = [
+    pos_x
+    ,
+    pos_y
+    ]
+            
+    self
+    .vel = 
+    vel
+            
+    self
+    .mass =
+    mass
+        
+    def
+     update(
+    self
+    ,
+    balls
+    : 
+    list
+    ):
+            for ball in 
+    balls
+    :
+                if ball != 
+    self
+    :
+                    dist = 
+    math
+    .sqrt((
+    self
+    .pos[0]-ball.pos[0])**2+(
+    self
+    .pos[1]-ball.pos[1])**2)
+    
+                    if 
+    self
+    .radius +ball.radius &gt;dist:
+      
+                        #this is from the wikipedia
+                        #velocity for self
+                        d_pos = 
+    np
+    .subtract(
+    self
+    .pos,ball.pos)
+                        d_vel = 
+    np
+    .subtract(
+    self
+    .vel,ball.vel)
+                        nomA = 
+    np
+    .multiply(
+    np
+    .multiply(ball.mass*2,
+    np
+    .dot(d_vel,d_pos)),d_pos)
+                        denA = dist**2*(
+    self
+    .mass+ball.mass)
+                        
+    self
+    .vel = 
+    np
+    .subtract(
+    self
+    .vel,
+    np
+    .divide(nomA,denA))
+                        #velocity for other ball
+                        d_pos = 
+    np
+    .subtract(ball.pos,
+    self
+    .pos)
+                        d_vel = 
+    np
+    .subtract(ball.vel,
+    self
+    .vel)
+                        nomA = 
+    np
+    .multiply(
+    np
+    .multiply(
+    self
+    .mass*2,
+    np
+    .dot(d_vel,d_pos)),d_pos)
+                        denA = dist**2*(
+    self
+    .mass+ball.mass)
+                        ball.vel = 
+    np
+    .subtract(ball.vel,
+    np
+    .divide(nomA,denA))
+    #self positions update
+            
+    self
+    .pos = 
+    np
+    .add(
+    self
+    .pos,
+    self
+    .vel)
+    
+        
+    def
+     draw(
+    self
+    ,
+    window
+    ):
+            
+    py
+    .
+    draw
+    .circle(
+    window
+    ,'gray50',
+    self
+    .pos,
+    self
+    .radius,10)
+            
+    
+    ballz= [
+    particle
+    (200,400,50,[0,0],
+    mass
+    =100),
+    particle
+    (600,400,50,[-0.5,-0.01],
+    mass
+    = 50)]
+    
+    while True:
+        window.fill('black')
+        for ind,i in 
+    enumerate
+    (ballz):
+            i.draw(window)
+            i.update(ballz[ind:])
+        events = 
+    py
+    .
+    event
+    .get()
+    
+        for event in events:
+            if event.type == 
+    py
+    .QUIT:
+                
+    py
+    .quit()
+                
+    sys
+    .exit()
+        
+    py
+    .
+    display
+    .flip()
+    
+    
+    ",pigraining,1hfpc45,https://reddit.com/r/learnprogramming/comments/1hfpc45/2d_python_collisions/,https://www.reddit.com/r/learnprogramming/comments/1hfpc45/2d_python_collisions/,2024-12-16 18:08:48,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1hfpc45
+learnprogramming,Dropped out of college to pursue web development—need advice!,"Hey there,
+
+I recently dropped out of college where I was pursuing a diploma in Automation and Robotics. After some reflection, I realized this field wasn’t the right fit for me. Instead, I’ve decided to follow my passion for tech and have enrolled in the **PW Skills Full Stack Web Development** course.
+
+Now that I’ve left college, I’m dedicating myself fully to becoming a web developer. However, I don’t have a degree, and I’m learning through self-study and structured courses.
+
+I’d love to hear from others who have taken a similar path:
+
+* How hard is it to get a job as a self-taught web developer without a degree?
+* What steps should I focus on to stand out in the job market?
+
+Any advice, tips, or shared experiences would mean a lot. Thanks in advance!",Potatochipps_,1hfqewl,https://reddit.com/r/learnprogramming/comments/1hfqewl/dropped_out_of_college_to_pursue_web/,https://www.reddit.com/r/learnprogramming/comments/1hfqewl/dropped_out_of_college_to_pursue_web/,2024-12-16 18:54:01,0,0.26,0,0,35,0,0,False,False,True,False,False,,,t3_1hfqewl
+learnprogramming,Cannot log or print using System.out.println to terminal in Azure function,"Hi
+
+I've written an Azure function and I want to print something to the terminal while its executing. Logging works just fine in the TestFunction, but it doesn't work inside the Azure function it is mocking:
+
+Test function code: (I am using Mockito)
+
+    package com.itstyringsmartsales;
+    
+    import com.microsoft.azure.functions.*;
+    import com.microsoft.azure.functions.HttpResponseMessage.Builder;
+    
+    import java.net.URI;
+    import java.util.*;
+    
+    import org.junit.jupiter.api.Test;
+    import static org.junit.jupiter.api.Assertions.*;
+    import static org.mockito.Mockito.*;
+    
+    
+    import java.util.logging.Level;
+    import java.util.logging.Logger;
+    
+    /**
+     * Unit test for Sales class.
+     */
+    public class FunctionTest {
+        /**
+         * Unit test for HttpTriggerJava method.
+         */
+        u/Test
+        public void testHttpTriggerJava() throws Exception {
+            // implementer execution context interfacet
+            ExecutionContext testContext = new ExecutionContextInstance();
+    
+            Logger logger = testContext.getLogger();
+    
+            // - [x] få til logging.
+            Level infoLevel = ;
+            logger.log(infoLevel, ""Executing test"");
+    
+            Sales mockSale = mock(Sales.class);
+    
+            // mock formbody
+            FormParser mockFormParser = mock(FormParser.class);
+    
+            FormData formdata = new FormData();
+            String formBody = formdata.formBody;
+    
+            mockFormParser.formBody = formBody;
+            HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request = new HttpRequestMessage&lt;Optional&lt;String&gt;&gt;() {
+                u/Override
+                public URI getUri() {
+                    // TODO Auto-generated method stub
+                    return null;
+                }
+    
+                @Override
+                public Builder createResponseBuilder(HttpStatusType status) {
+                    // TODO Auto-generated method stub
+                    return null;
+                }
+    
+                @Override
+                public HttpMethod getHttpMethod() {
+                    // TODO Auto-generated method stub
+                    return null;
+                }
+    
+                @Override
+                public Map&lt;String, String&gt; getHeaders() {
+                    // TODO Auto-generated method stub
+                    return null;
+                }
+    
+                @Override
+                public Optional&lt;String&gt; getBody() {
+                    // TODO Auto-generated method stub
+                    return Optional.empty();
+                }
+    
+                @Override
+                public Map&lt;String, String&gt; getQueryParameters() {
+                    // TODO Auto-generated method stub
+                    return null;
+                }
+    
+                @Override
+                public Builder createResponseBuilder(HttpStatus status) {
+                    // TODO Auto-generated method stub
+                    return null;
+                }
+    
+            };
+    
+            // [ ] TODO: fix httpResponseMessage being null
+            HttpResponseMessage httpResponseMessage = mockSale.run(request, testContext);
+    
+            
+    
+            // returnerer 200 OK hvis en rad har blitt lagt til (da er det gitt at dataene er formatert riktig)
+            assertEquals(HttpStatus.OK, httpResponseMessage.getStatus());
+    
+            // returnerer 400 Bad Request hvis en rad ikke ble lagt til (da var dataene ikke formatert riktig)
+            assertEquals(HttpStatus.BAD_REQUEST, httpResponseMessage.getStatus());
+    
+        }
+    }Level.INFO
+
+The Azure function that is logging:
+
+    package com.itstyringsmartsales;
+    import java.util.*;
+    import com.microsoft.azure.functions.annotation.*;
+    import com.microsoft.azure.functions.*;
+    
+    import java.sql.DriverManager;
+    import java.sql.PreparedStatement;
+    import java.sql.SQLException;
+    import java.sql.Connection;
+    
+    import javax.faces.annotation.RequestParameterMap;
+    
+    import java.util.logging.Level;
+    import java.util.logging.Logger;
+    
+    
+    /* 
+     * TODOS: 
+     * - Add connection string
+     * - Parse multipart/formdata
+     * - 
+     */
+    
+    /**
+     * Azure Functions with HTTP Trigger.
+     */
+    
+     // This function receives form data from the client and triggers a storedprocedure with a connection string.
+     // - receives form data
+     // - the form data is parsed by the function
+     // - the stored procedure is triggered with the parsed form data as parameters
+    public class Sales {
+        /**
+         * This function listens at endpoint ""/api/Sales"". Two ways to invoke it using ""curl"" command in bash:
+         * 1. curl -d ""HTTP Body"" {your host}/api/Sales
+         * 2. curl {your host}/api/Sales?name=HTTP%20Query
+         **/
+    
+        @FunctionName(""Sales"")
+        public HttpResponseMessage run(
+                @HttpTrigger(
+                    name = ""req"",
+                    methods = {HttpMethod.POST}, 
+                    authLevel = AuthorizationLevel.ANONYMOUS) 
+                    HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request,
+                    @RequestParameterMap
+                final ExecutionContext context)  {
+            context.getLogger().info(""Java HTTP trigger processed a request."");
+    
+            // doesn't work when this function is mocked
+            System.out.println(""Executing Sales function"");
+    
+            Logger logger = context.getLogger();
+    
+            // - [ ] få til logging.
+            Level infoLevel = Level.INFO;
+    
+            String formBody = request.getBody().orElse("""");
+    
+            logger.log(infoLevel, ""Executing Sales function"");
+            logger.log(infoLevel, ""Formbody: "" + formBody + "" (in run function)"");
+    
+            // - [x] trigger stored procedure with parsed data as parameters
+            String url = ""connection string"";
+            String username = ""username"";
+            String password = ""password"";
+    
+            FormParser formParser = new FormParser(formBody);
+    
+            try (Connection connection = DriverManager.getConnection(url, username, password)) {
+                
+                    System.out.println(""connection.isValid(0) = "" + connection.isValid(0));
+    
+                    // use parameters to avoid SQL injection
+                    PreparedStatement preparedStatement = connection.prepareStatement(""EXEC AddSale @product_name= ? @production_cost= ? @price= ? @units_sold= ? @profit= ? @date= ? @month_number= ? @year= ? @indirect_costs= ?"");
+                    preparedStatement.setString(1, formParser.getProductName());
+                    preparedStatement.setInt(2, formParser.getProductionCost());
+                    preparedStatement.setFloat(3, formParser.getPrice());
+                    preparedStatement.setInt(4, formParser.getUnitsSold());
+                    preparedStatement.setFloat(5, formParser.getProfit());
+                    preparedStatement.setString(6, formParser.getDate());
+                    preparedStatement.setInt(7, formParser.getMonthNumber());
+                    preparedStatement.setInt(8, formParser.getYear());
+                    preparedStatement.setFloat(9, formParser.getIndirectCosts());
+    
+                    preparedStatement.executeUpdate();
+                    preparedStatement.close();
+    
+                    connection.commit();
+                    connection.close();
+    
+                } catch (SQLException e) {
+    
+                System.out.println(""Exception occured: failed to parse form data"");
+    
+                context.getLogger().severe(""Failed to parse form data: "" + e.getMessage());
+    
+                return request.createResponseBuilder(HttpStatus.BAD_REQUEST)
+                              .body(""Invalid form data"")
+                              .build();
+            }
+    
+                
+                System.out.println(""Data was parsed successfully"");
+                return request.createResponseBuilder(HttpStatus.OK).body(formBody).build();
+            }
+    }
+
+The desired result is that the mocked Sales function should print to the terminal just like the TestFunction does. The syntax is identical for both functions (Test and Sales). Could someone help me out with this? I suspect there's some configuration setting that hasn't been configured properly.",Admirlj5595,1hgbe7z,https://reddit.com/r/learnprogramming/comments/1hgbe7z/cannot_log_or_print_using_systemoutprintln_to/,https://www.reddit.com/r/learnprogramming/comments/1hgbe7z/cannot_log_or_print_using_systemoutprintln_to/,2024-12-17 14:08:16,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1hgbe7z
+learnprogramming,Ideas for projects,"Hi everyone! I'm on the lookout for some ideas, web pages or anything I can use to practise Python. I'd love to do some projects of my own, but I think I don't know that much yet. Any recommendations would be greatly appreciated! 😊",ASAPCream1,1hgaw5i,https://reddit.com/r/learnprogramming/comments/1hgaw5i/ideas_for_projects/,https://www.reddit.com/r/learnprogramming/comments/1hgaw5i/ideas_for_projects/,2024-12-17 13:43:12,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1hgaw5i
+learnprogramming,What Should I do ,"I am currently studying BCA final year. So i very confused because of what i do after BCA
+
+I have two choise one is  will study MCA or Going to job .what should i do pls help me to decide the correct decision .",Independent_Fun_8263,1hg7zop,https://reddit.com/r/learnprogramming/comments/1hg7zop/what_should_i_do/,https://www.reddit.com/r/learnprogramming/comments/1hg7zop/what_should_i_do/,2024-12-17 10:42:50,0,0.33,0,0,2,0,0,False,False,True,False,False,,,t3_1hg7zop
+learnprogramming,GitHub Pages Hit Counter,"Hi, I need help with adding hit counter to my website. Problem is , that GitHub pages doesn't support PHP and I don't want to use external hit counters.",VasekCZ230,1hg6ifa,https://reddit.com/r/learnprogramming/comments/1hg6ifa/github_pages_hit_counter/,https://www.reddit.com/r/learnprogramming/comments/1hg6ifa/github_pages_hit_counter/,2024-12-17 08:49:03,1,0.67,1,0,3,0,0,False,False,True,False,False,,,t3_1hg6ifa
+learnprogramming,Hackathon preparation in 2 months!,"I want to participate in a hackathon, I know the basics of C++ and C. I need to do data structures and algorithms along with a strong foundation in computational thinking (So I'm good at problem solving). Is it realistic and possible? How many hours do I have to put in?",AstroCode42,1hg5vzm,https://reddit.com/r/learnprogramming/comments/1hg5vzm/hackathon_preparation_in_2_months/,https://www.reddit.com/r/learnprogramming/comments/1hg5vzm/hackathon_preparation_in_2_months/,2024-12-17 08:00:07,1,0.67,1,0,6,0,0,False,False,True,False,False,,,t3_1hg5vzm
+learnprogramming,Design patterns for programming GUIs with motion controllers? (Python/PyQt),"Was wondering if anyone had any good design patterns or experience for communicating with motion controllers in a GUI? 
+
+I’m controlling my stage using TCP or Serial but I want a live position read back and motor status which makes me sort of need to poll the controller in a thread, but that complicates all the application level logic and I don’t really want to stick all my commands in a queue when I need to make sure some like stop will get received instantly. 
+
+Is using a thread and queueing commands to the controller just the only way of doing this? I need to read the responses from the controller to validate it received the command so I can’t mix thread and non thread. 
+
+I can’t find any examples or literature of people doing serious GUI programming online and controlling stages. Using pyside6 but this is sort of language/framework agnostic so if you have any good examples let me know! ",King-Days,1hg32v5,https://reddit.com/r/learnprogramming/comments/1hg32v5/design_patterns_for_programming_guis_with_motion/,https://www.reddit.com/r/learnprogramming/comments/1hg32v5/design_patterns_for_programming_guis_with_motion/,2024-12-17 04:51:44,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1hg32v5
+learnprogramming,How would I take the random integers from this function and sort them numerically?,"        private void RandomValue()
+        {
+            for (int rValue = 0; rValue &lt; 10; rValue++)
+            {
+               
+                int rNum = Random.Range(0, 100);
+                Debug.Log(rNum);
+    
+            }
+        }",Certain_Ad_9366,1hg26nm,https://reddit.com/r/learnprogramming/comments/1hg26nm/how_would_i_take_the_random_integers_from_this/,https://www.reddit.com/r/learnprogramming/comments/1hg26nm/how_would_i_take_the_random_integers_from_this/,2024-12-17 03:59:36,1,0.67,1,0,5,0,0,False,False,True,False,False,,,t3_1hg26nm
+learnprogramming,Competitive Programming,"I’m trying to get into competitive programming and I was wondering where to start.
+
+I took a data structures and algorithms class and have done some leetcode easy and medium but I am still struggling and don’t know how to proceed.
+
+I’m pretty good with python and ok with C but I’m having a hard time with the harder problems.
+
+Are there any good resources out there for beginners and how does one go about getting involved in competitive programming?",Divine_Invictus,1hg0qxm,https://reddit.com/r/learnprogramming/comments/1hg0qxm/competitive_programming/,https://www.reddit.com/r/learnprogramming/comments/1hg0qxm/competitive_programming/,2024-12-17 02:41:57,1,0.57,1,0,2,0,0,False,False,True,False,False,,,t3_1hg0qxm
+learnprogramming,I already added the jar file into reference library but there still can't launch the javafx file,"how to solve  it,where there can show the hint of javafx package but when wanna to launch, there said can't be launch seem there have lossing the package
+
+",No-Diamond6206,1hfzf88,https://reddit.com/r/learnprogramming/comments/1hfzf88/i_already_added_the_jar_file_into_reference/,https://www.reddit.com/r/learnprogramming/comments/1hfzf88/i_already_added_the_jar_file_into_reference/,2024-12-17 01:32:23,0,0.4,0,0,2,0,0,False,False,True,False,False,Tutorial,,t3_1hfzf88
+learnprogramming,Block blast bot/ai,"I'm not sure if block blast (mobile game) is popular internationally but in my high school it is VERY popular. I want to make a bot or simple AI that can play the game perfectly or close to optimally. I ultimately want to host a ""beat the bot"" tournament where if u win against the bot u can win money. Probably gonna have a $5 entry fee or something and a prize for human with best score. It would raise money for our computer club (assuming the bot is decent). 
+
+What are some first steps I can take in designing this? Do I need to reverse engineer it to figure out how it works somehow? Do any of you happen to play it and understand how it works?
+
+Thank you &lt;3 any help is appreciated. Beware I am highschooler but do know some coding",SLURPZZZ4461,1hfqwoo,https://reddit.com/r/learnprogramming/comments/1hfqwoo/block_blast_botai/,https://www.reddit.com/r/learnprogramming/comments/1hfqwoo/block_blast_botai/,2024-12-16 19:14:10,1,0.67,1,0,4,0,0,False,False,True,False,False,Game algorithm,,t3_1hfqwoo
+learnprogramming,Wordpress with Elementor ,"Hi, I am using Wordpress with elementor and I put the heading and it appears aligned more to the left that to the right, I have already checked the margin the padding that I put them in 0 also I checked the letter spacing and restarted to the default value, does anyone knows what could be making this issue? Thanks and Have a good day ",[deleted],1hfqsqa,https://reddit.com/r/learnprogramming/comments/1hfqsqa/wordpress_with_elementor/,https://www.reddit.com/r/learnprogramming/comments/1hfqsqa/wordpress_with_elementor/,2024-12-16 19:09:31,0,0.33,0,0,0,0,0,False,False,True,False,False,,,t3_1hfqsqa
+learnprogramming,I need help with a little code,"im programing in gamemaker and I'm trying to make a code for my character's jump, the jump animation only happens when I'm pressing the key, wen i stop pressing, the animation stop, but, the animation need to rool in the intaier time in the air ",Prdin69,1hflfn8,https://reddit.com/r/learnprogramming/comments/1hflfn8/i_need_help_with_a_little_code/,https://www.reddit.com/r/learnprogramming/comments/1hflfn8/i_need_help_with_a_little_code/,2024-12-16 15:21:10,0,0.33,0,0,3,0,0,False,False,True,False,False,,,t3_1hflfn8
+learnprogramming,As a university student should I do both freecodecamp and odinproject or just one?,"I'm currently going to school for computer science and in my second year. I'm trying to start doing things outside of school to prepare for looking at internships. 
+
+I decided to do CS50x before venturing into leetcode and starting beginner projects then working up the difficulty. When I finish CS50x I'm thinking about doing both freecodecamp and theodinproject (while still doing lc and projects). 
+
+Is it worth it to do both of them or should I pick one over the other? I'm just trying to set myself up the best I can for applying to internships and in turn getting ready for the job search.",gvsadboy,1hfxbx9,https://reddit.com/r/learnprogramming/comments/1hfxbx9/as_a_university_student_should_i_do_both/,https://www.reddit.com/r/learnprogramming/comments/1hfxbx9/as_a_university_student_should_i_do_both/,2024-12-16 23:52:00,7,0.77,7,0,5,0,0,False,False,True,False,False,Topic,,t3_1hfxbx9
+learnprogramming,Thinking into programming after many years. I'm very very lost.... What should I learn?,"I know, I know... the same question over and over again... But I promise you this time it will be different.
+
+
+
+I studied physics at the university (I finished two years ago, or so), and in the second year we had a programming class that lasted for four months. In that class we learned a bit of Java, just to create some scripts to do some calculations and draw some graphs using a library created by the university. I didn't like that language at all. It felt like... anti-natural for me. Then I tried for some months C#, but I left it due to health issues and never used it again. For my final degree project I had to manage some jupyter notebooks, and with them I was able to understand some R and Python code for statistical calculations.
+
+I have been using Windows and Linux for the last decade or so, and I've used the QTile window manager a bit, but the python language has always made me feel a bit sad :(. I also have used old distros like Slackware or configure some window managers like Awesome, DK, or Hyprland (even entering a bit into the suckless world... hehehe).
+
+Now, after quite some time, I feel the necessity to make my brain work again, and I thought programming could be a great idea. One project I have in mind is creating an app to manage my students' scores (I'm a high school teacher), list them in tables and graphs, calculate averages etc. This project is not something fixed, but I think it would be nicer than to learn how to use Excel LOL. 
+
+What I'm asking you is what language I should choose, taking into account:
+
+* What I think of some languages.
+* The possibility to develop a Windows and/or Linux app.
+* I'm not very interested in Web Development.
+* Activate my brain.
+* Develop discipline. 
+
+(I know the last two things are not related to any language in general)
+
+  
+I'm not sure if functional programming would be great, or just non-OOP programming or OOP programming.
+
+  
+I hope you can help me. Thanks beforehand :)",Impressive_Job1518,1hfpz3t,https://reddit.com/r/learnprogramming/comments/1hfpz3t/thinking_into_programming_after_many_years_im/,https://www.reddit.com/r/learnprogramming/comments/1hfpz3t/thinking_into_programming_after_many_years_im/,2024-12-16 18:35:35,8,0.79,8,0,7,0,0,False,False,True,False,False,beginner,,t3_1hfpz3t
+learnprogramming,i have 0 knowledge in programming yet i’m gonna take a hard thesis topic,"realistically speaking, would it be feasible for me to learn machine learning in just a few months? i’m probably gonna apply LSTM for modeling my data but i don’t know if i’ll be able to do it in just a year. idk where else to go so i hope to get some insights here",ahatredjam,1hgahb1,https://reddit.com/r/learnprogramming/comments/1hgahb1/i_have_0_knowledge_in_programming_yet_im_gonna/,https://www.reddit.com/r/learnprogramming/comments/1hgahb1/i_have_0_knowledge_in_programming_yet_im_gonna/,2024-12-17 13:21:50,0,0.25,0,0,4,0,0,False,False,True,False,False,Topic,,t3_1hgahb1
+learnprogramming,Files organization in a python project.,"I am developing some physics project, and the directory dedicated to computation looks something like
+
+    computation/
+        Physics/
+            __init__.py
+            utilScripts.py
+            mainCalculation.py
+        Results/
+            case1/
+                case1.txt
+            case2/
+                case2.txt
+        calc1.py
+        calc2.py
+        plotResultsQuantity1.py
+        plotResultsQuantity2.py
+
+Where `calc1.py` and `calc2.py` use the Physics module to obtain different results. For example in `calc1.py` it might be interested in testing how the simulation looks like as I change the initial conditions, whereas `case2.py` does the usual simulation (whatever that means) but outputs some very specific plot at each step in the simulation (which I achieve by appropriately wrappinng a method defined in `mainCalculation.py.`
+
+Finally, `plotResultsQuantityN.py` has a file selector that gives a choice (in this example, between `case1.txt` and `case2.txt`) so that it can plot `QuantityN` from the different data sets. For example in `plotResultsQuantity1.py` I might be plotting the derivative of the file that I choose, where as in `plotResultsQuantity2.py` I might be interested in calculating the integral.
+
+Now the project has gotten fairly big, and the amount of files has grown really fast in the last couple of weeks. I think now it would a good time in which I should reorganize the directory so that utilization is easier in the future.
+
+What would be a nicer way of organizing this? I was thinking of
+ 
+    computation/
+        Physics/
+            __init__.py
+            utilScripts.py
+            mainCalculation.py
+        Results/
+            case1/
+                case1.txt
+            case2/
+                case2.txt
+        Calculations/
+            __init__.py
+            calc1.py
+            calc2.py
+        plotScripts/
+            __init__.py
+            plotResults1.py    
+            plotResults2.py
+       calculate.py
+       plot.
+
+Where `calculate.py` looks something like
+
+    from Calculations import calc1
+
+    calc1.main()
+
+if I want to reobtain the calculations done in `calc1.py`.
+
+Is this a nice way of doing it? What would be the pythonic way?",FreierVogel,1hg6nwp,https://reddit.com/r/learnprogramming/comments/1hg6nwp/files_organization_in_a_python_project/,https://www.reddit.com/r/learnprogramming/comments/1hg6nwp/files_organization_in_a_python_project/,2024-12-17 09:00:51,2,0.75,2,0,0,0,0,False,False,True,False,False,Code Review,,t3_1hg6nwp
+learnprogramming,Where to add exception handling in a program,"I am learning python and I think I have a decent grasp in on the functionality of handling errors, however, in this mini project, I am unsure of where to handle the error. Should I handle the error in the main function(as it is rn) or in the get_sales function...perhaps both?
+```
+SET DAYS to 7
+
+DEFINE main function:
+    SET days_list to an empty list of size DAYS
+    TRY:
+        CALL get_sales(days_list)
+    EXCEPT:
+        DISPLAY ""An error occurred while collecting sales data.""
+    ELSE:
+        SET total to calculate_total(days_list)
+        DISPLAY ""The total sales are:"", total
+
+DEFINE get_sales(list):
+    FOR index in range(len(list)):
+        GET sales from user
+        SET list[index] to the entered sales value
+    RETURN list
+
+DEFINE calculate_total(list):
+    SET total to 0
+    FOR value in list:
+        ADD value to total
+    RETURN total
+```",baliditity,1hfyr77,https://reddit.com/r/learnprogramming/comments/1hfyr77/where_to_add_exception_handling_in_a_program/,https://www.reddit.com/r/learnprogramming/comments/1hfyr77/where_to_add_exception_handling_in_a_program/,2024-12-17 00:59:23,2,0.63,2,0,1,0,0,False,False,True,False,False,Code Review,,t3_1hfyr77
+learnprogramming,Scraping practice,I'm in need to fill my freelancer portfolio with web-scraping projects. Which webs would you recommend to scrape for this? ,Cautious_Vacation943,1hfnhs2,https://reddit.com/r/learnprogramming/comments/1hfnhs2/scraping_practice/,https://www.reddit.com/r/learnprogramming/comments/1hfnhs2/scraping_practice/,2024-12-16 16:52:08,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1hfnhs2
+learnprogramming,"I suck at programming, how do I get better?","I'm doing a course that's focused on front end development and we had to basically learn JavaScript and React in 6 weeks, but I feel like im digesting the concepts on a surface level. There are weekly assignments but I'm usually stressing about it, calling friends up to help, using gpt and writing code that barely works. For example, I kind of get how hooks like useEffect works, but when presented with an exercise I only know how to get started but can't complete the whole exercise.
+
+There are people in my cohort who just seem so on top of things(to be fair some of them have programming experience in R etc) and I feel so behind compared to them. The other day I saw someone posting about giving up on programming and some commenters suggested coding something they actually like. So far my course is just focused on web development (things like forms, how does a simple form take so much code). Posting on this sub to ask what projects or exercises took you from that ""I kind of get this"" stage to ""I can do this"" stage?",midnightpocky,1hfyf0n,https://reddit.com/r/learnprogramming/comments/1hfyf0n/i_suck_at_programming_how_do_i_get_better/,https://www.reddit.com/r/learnprogramming/comments/1hfyf0n/i_suck_at_programming_how_do_i_get_better/,2024-12-17 00:43:25,71,0.9,71,0,48,0,0,False,False,True,False,False,,,t3_1hfyf0n
+learnprogramming,How do i learn c# for free?,"Hello, I want to make a little 2D game using c# and since i need to learn c# i want to know the best free options out there. ",Suitable-Seesaw3164,1hg5e22,https://reddit.com/r/learnprogramming/comments/1hg5e22/how_do_i_learn_c_for_free/,https://www.reddit.com/r/learnprogramming/comments/1hg5e22/how_do_i_learn_c_for_free/,2024-12-17 07:22:36,18,0.88,18,0,7,0,0,False,False,True,False,False,,,t3_1hg5e22
+learnprogramming,Why would you use switch for a Boolean variable?,"I am a senior engineer but I recently came across this really really weird piece of code developed by an off-shore vendor.
+
+This is the Java code snippet reconstructed:
+
+    switch (data.getEnabledFlag().toString()) {
+      case ""false"":
+        // do something
+        break;
+      case ""true"":
+        // do something
+        break;
+      default:
+        break;
+    }
+
+  
+Can someone elighten me? is this better somehow than if else?",Upbeat_Confusion6467,1hg0bnb,https://reddit.com/r/learnprogramming/comments/1hg0bnb/why_would_you_use_switch_for_a_boolean_variable/,https://www.reddit.com/r/learnprogramming/comments/1hg0bnb/why_would_you_use_switch_for_a_boolean_variable/,2024-12-17 02:19:09,21,0.85,21,0,37,0,0,False,False,True,False,False,,,t3_1hg0bnb
+learnprogramming,"What are the ground rules of using Python for competitive programming, especially with regards to memory allocation? I keep getting Runtime Errors in Python with solutions that are accepted one I reimplement them in C++. Are there obvious basic tips to working with Python on coding problems?","For a bit more context, I used to do competitive programming in my high school almost 10 years ago and even went to the IOI. At that point, I only knew how to code in C++ because that was the best for competitions. Nowadays, I'm a machine learning researcher and I have basically only used Python ever since high school.   
+  
+The last time I stumbled upon coding problems was when I gave a look at the two level 4 ""coding puzzles"" at Meta's hiring platform for curiosity. I believed I knew how to solve them and naturally tried to implement them in Python, but I got stuck with runtime errors in both problems. I tried to debug that for hours and find a test case that would give me the RE locally, but nothing. After a long time, I finally tried to locate the line that raised the error (classic binary search with wrong answers) and it was simply a line that created and populated a list... on both problems! I proceeded to simply reimplement my code in C++ and both solutions passed.
+
+I have no clue why a simple `list.append(x)` would result in Runtime error. I thought if it was some simple Python memory inefficiency I'd get a MLE instead. This is not the first time I have this experience trying to use Python for something like this. So all these years after I left competitive programming, is Python still unusable for these things? Does anyone use it? Is there a good blog post or set of ground rules about how to avoid these issues with Python?  
+
+Anyway, I also found it remarkable how C++, that I only used for 3 years in high school and haven't used ever since still gave me better control over my code than Python, the language I've been working daily for the past 10 yearsI and that believed I was the most proficient at (until today 😅). I really have no clue how  `list.append()` is implemented in a way that can give me a runtime error...",No_Mathematician7255,1hg5kwk,https://reddit.com/r/learnprogramming/comments/1hg5kwk/what_are_the_ground_rules_of_using_python_for/,https://www.reddit.com/r/learnprogramming/comments/1hg5kwk/what_are_the_ground_rules_of_using_python_for/,2024-12-17 07:36:43,0,0.29,0,0,2,0,0,False,False,True,False,False,,,t3_1hg5kwk
+learnprogramming,first year in uni,"wsup guys at first sorry for my bad english 😅 
+it's my first year in the uni in a country no one heard of and i chosed CS because i used to love computers and tech in general and we start learning c language and algorithm and something that we call ""strm"" so any one here that studied cs : is that enough or i should start learning a new languae and if you can help a beginner with a piece of advice :)
+and thanks all of you ",Amazing-Flounder5328,1hfwcth,https://reddit.com/r/learnprogramming/comments/1hfwcth/first_year_in_uni/,https://www.reddit.com/r/learnprogramming/comments/1hfwcth/first_year_in_uni/,2024-12-16 23:06:41,2,0.67,2,0,6,0,0,False,False,True,False,False,,,t3_1hfwcth
+learnprogramming,error: expect ')' before 'Num' for C.,"    #include &lt;stdio.h&gt;
+    
+    int main() {
+    
+       int my, Num = 10;
+    
+       printf(""Number: %d and %d\n"", my Num); // I am intentionally causing errors in my code to study.
+    
+       return 0;
+    }
+
+Can someone help me understand this? The compiler says: 
+
+    error: expected ')' before 'Num' on line 6 for the print function.
+
+I expected the error to say that a comma separator is missing between these two:
+
+    printf(""Number: %d and %d\n"", my, Num);
+
+But why is the compiler saying it expected a closing parenthesis? Where does the closing parenthesis fit on line 6 near 'my'? ",677075636f7265,1hfukj5,https://reddit.com/r/learnprogramming/comments/1hfukj5/error_expect_before_num_for_c/,https://www.reddit.com/r/learnprogramming/comments/1hfukj5/error_expect_before_num_for_c/,2024-12-16 21:48:52,0,0.2,0,0,10,0,0,False,False,True,False,False,,,t3_1hfukj5
+learnprogramming,Help,"I hope you can help me or share some tips on how to improve my coding skills and knowledge to develop solid, concrete abilities.
+
+I’m currently a second-year computer science student, but I feel like I’m still behind and have limited knowledge of what I’m doing.
+
+Do you have any tips on where I can start learning **cybersecurity** or **machine learning**? However, I’m currently focusing on studying **Object-Oriented Programming (OOP)**, and my goal is to master it before the end of this year.
+
+I would greatly appreciate any advice or links to helpful resources for learning!
+
+( Based on what I'm saying right now, you can see I don't have much to learn yet. :( )",EstablishmentOne1084,1hfrp4x,https://reddit.com/r/learnprogramming/comments/1hfrp4x/help/,https://www.reddit.com/r/learnprogramming/comments/1hfrp4x/help/,2024-12-16 19:47:16,0,0.29,0,0,3,0,0,False,False,True,False,False,,,t3_1hfrp4x
+learnprogramming,Coding Projects,"Hello, is there any groups that are building projects that i can join i want to practice working with people and groups",gutss_berserker,1hfv6nc,https://reddit.com/r/learnprogramming/comments/1hfv6nc/coding_projects/,https://www.reddit.com/r/learnprogramming/comments/1hfv6nc/coding_projects/,2024-12-16 22:14:49,5,0.78,5,0,1,0,0,False,False,True,False,False,,,t3_1hfv6nc
+learnprogramming,"I have a CS degree but suck at programming, looking for advice on moving forward in life.","I have a degree in CS, no experience, overall suck at programming and am looking for help.
+
+  
+I understand that my only chance of getting a job in this field is to have created some outstanding project that would impress the hell out of a recruiter to the point where they could confidently assume I am proficient in my ability to design/build things. Currently this is not what I am as a developer at all.
+
+I have dabbled in many different areas attempting to build projects and either get stuck and quit, lose interest and quit, or just feel too overwhelmed to even start. I've tried game dev and some full stack applications so far and honestly haven't accomplished much. I believe my problem is that I rely too hard on AI to write code for me. I know this is kind of a controversial thing to say, as many people who are established professionals use AI to help them write code all the time. But the problem is I'm letting AI write code I don't really understand. I'll tell myself I understand it, but later down the line when it comes to fixing something or adding something new I can't do it.
+
+I believe a lot of my inability to program comes from my lack of programming principles. In school I learned some theory, some basic programming in C, C++, Java, and Python. In my spare time I've attempted to learn React/JavaScript, Godot, Spring boot, and databases like MongoDB and Postgresql.  I've found that generally speaking I seem to be more interested in low level code and the C++ language, but when it comes to jobs involving these things it seems the main industries are quant and embedded systems which I have no foundation in at all, and don't even know how to start learning them.
+
+I've tried learning through YouTube and online courses and have found that these just don't work for me. They are either too slow and boring or too fast and not explanatory enough. I know most people say to just learn by trying to build things, but I don't even know where to begin half the time. 
+
+I have neglected learning through reading books outside of the ones I have read during my degree. I think I need to change my method of studying to something else besides watching videos and maybe do more reading so if anybody has an books they recommend that genuinely helped them be more confident in programming I would appreciate any suggestion. 
+
+Thank you for reading.",Big_Organization_181,1hg444i,https://reddit.com/r/learnprogramming/comments/1hg444i/i_have_a_cs_degree_but_suck_at_programming/,https://www.reddit.com/r/learnprogramming/comments/1hg444i/i_have_a_cs_degree_but_suck_at_programming/,2024-12-17 05:54:49,80,0.91,80,0,59,0,0,False,False,True,False,False,,,t3_1hg444i
+learnprogramming,note: each undeclared identifier is reported only once for each function it appears in for C.,"I am aware that the identifier is undeclared without a data type but what does this part of the note: `is reported only once for each function it appears in` means? I can't seem to find any information online to research this note.
+
+I intentionally caused this problem in my code on line 6:
+
+    #include &lt;stdio.h&gt;
+    
+    int main() {
+    
+       int myNum = 10;
+       printf(""Number: %d\n"", mynum); 
+     
+       return 0;
+    }",677075636f7265,1hfla44,https://reddit.com/r/learnprogramming/comments/1hfla44/note_each_undeclared_identifier_is_reported_only/,https://www.reddit.com/r/learnprogramming/comments/1hfla44/note_each_undeclared_identifier_is_reported_only/,2024-12-16 15:14:02,5,0.73,5,0,3,0,0,False,False,True,False,False,,,t3_1hfla44
+learnprogramming,Looking for people to learn programming with,"Hello! I am 17M, and I have a small programming Discord server. If anyone is interested in learning programming together, solving problems (competitive programming), and building projects, I am a beginner RN,(know some python) and people of all levels are allowed. Looking forward to meeting with you guys.",Teranmix,1hg7zi7,https://reddit.com/r/learnprogramming/comments/1hg7zi7/looking_for_people_to_learn_programming_with/,https://www.reddit.com/r/learnprogramming/comments/1hg7zi7/looking_for_people_to_learn_programming_with/,2024-12-17 10:42:29,39,0.9,39,0,30,0,0,False,False,True,False,False,,,t3_1hg7zi7
+learnprogramming,How do you guys retain what you've learned?,"Rn i am taking an Data science python course and just finished learning about NumPy and moving over to pandas. However while rn i have learned and even practiced a bit with NumPy, by the time i'll reach the end of the course i'll most likely forget many of the topics i've learned. This has happened before with me when i was learning about algorithms. 
+
+The course is pretty big so there is a whole lot of to cover and while the basics i've understood, the more advanced concepts is what i'll forget by the time i'll have to give the test to get my certificate. 
+
+  
+So my question how do you guys retain everything that you learn? Do you learn a concept and then keep practicing until its at your finger tips or do you write notes for later? I find writing notes to be very tedious and it makes learning a chore. It was fine for college, but when learning myself i don't feel like notes are very productive. ",Ggordon27,1hgae0g,https://reddit.com/r/learnprogramming/comments/1hgae0g/how_do_you_guys_retain_what_youve_learned/,https://www.reddit.com/r/learnprogramming/comments/1hgae0g/how_do_you_guys_retain_what_youve_learned/,2024-12-17 13:16:50,17,0.88,17,0,14,0,0,False,False,True,False,False,,,t3_1hgae0g
+learnprogramming,"Next year I will study computer science, but I know almost nothing about programming. What can I already study to make my life as a CS student easier?","Next year I will pursue a degree in computer science starting in October, but I want to get the basics of programming as soon as possible. I know that there are lots of free courses online, like CS50 or freecodecamp. But because there are so many I don’t know which is best and where to begin. 
+I also know that what’s most important is training my “programming logic”, rather than focusing on memorizing a language. But again, I don’t know which course is best to do it.
+My initial plan is to begin with CS50 and then move on to a Python or JavaScript course. 
+
+If there are any advice please let me know!",Takahashi_Bros,1hfxfie,https://reddit.com/r/learnprogramming/comments/1hfxfie/next_year_i_will_study_computer_science_but_i/,https://www.reddit.com/r/learnprogramming/comments/1hfxfie/next_year_i_will_study_computer_science_but_i/,2024-12-16 23:56:38,30,0.9,30,0,27,0,0,False,False,True,False,False,,,t3_1hfxfie
+learnprogramming,Realizing my handicap,"So I am green when it comes to writing code. So I am doing things like [check.io](http://check.io) to learn things by working on small puzzles to solve. What I notice cripples me is just knowledge of what is available. And I guess I should be doing things the hard way until it is time to do it the easy way, but I had a challenge to return the factorial of a non-negative integer if that integer is &gt; 1. OR something like that. So after reading what it was supposed to do, I started breaking it down into ""Ok how do I separate all of the numbers in the integer and then do the math on them"" And started down a rabbit hole, only to get stumped, look at hints for the solution  only to find out there is a module that does it already and I just have to use that. 
+
+And that is what really grinds my gears and causes me to rage quit learning sometimes because of stuff like that.
+
+  
+End:
+
+Rant",Popular-Help5687,1hg1r4a,https://reddit.com/r/learnprogramming/comments/1hg1r4a/realizing_my_handicap/,https://www.reddit.com/r/learnprogramming/comments/1hg1r4a/realizing_my_handicap/,2024-12-17 03:35:45,1,0.67,1,0,4,0,0,False,False,True,False,False,,,t3_1hg1r4a
+learnprogramming,Need help with automation framework ,"Hey I'm looking for a automation framework for android that can't be detected by apps like TikTok, I know the known ones like Appium but is there a good automation framework someone can vouch?",yourmamixxx,1hfz9tn,https://reddit.com/r/learnprogramming/comments/1hfz9tn/need_help_with_automation_framework/,https://www.reddit.com/r/learnprogramming/comments/1hfz9tn/need_help_with_automation_framework/,2024-12-17 01:24:51,1,0.67,1,0,1,0,0,False,False,True,False,False,,,t3_1hfz9tn
+learnprogramming,Beginner Looking for Advice. ,"I’m looking to start learning my first language. Trying to determine which language to start with, and how to build my learning plan for the next 12 months. 
+
+My end goal is to be able to develop dApps and work on projects in crypto. Everyone over there says I’ll need Rust.
+
+Should I just dive right into Rust? Or should I start somewhere else to get a simpler understanding and then move to Rust? I’m very green. 
+
+Sorry, I bet this question probably gets asked a lot. I read the beginner FAQ and they don’t talk about crypto in there so I was hoping to get some insight from someone.
+
+Thanks so much!",HoseWasher,1hfyj4s,https://reddit.com/r/learnprogramming/comments/1hfyj4s/beginner_looking_for_advice/,https://www.reddit.com/r/learnprogramming/comments/1hfyj4s/beginner_looking_for_advice/,2024-12-17 00:48:44,6,0.88,6,0,5,0,0,False,False,True,False,False,,,t3_1hfyj4s
+learnprogramming,Portfolio Project - Any suggestions?,"I am creating a landing page for some data I found online. The data is public opinion survey data. So, on my landing page, I want to create an interactive map where you can click on the relevant country, filter by question number and survey year, to pull a clustered bar chart comparing answers from year to year. 
+
+I worked with AI to develop a step-by-step. It's heavy on web development, but obviously there is a data analytics aspect too. Curious if you have any input/ suggestions.. How would you approach this task?
+
+AI tells me: 
+
+  
+ Phase 1 - Project Foundation
+
+* complete freecodecamp's basic HTML/CSS sections
+* complete freecodecamp's basic Javascript
+
+Phase 2 - React Fundamentals
+
+* complete React official tutorial
+* practice: build a single component
+* learn useState and useEffect hooks
+* practice: build interactive components
+
+Phase 3 - Data Visualization
+
+* study documentation
+* practice: create basic charts
+* learn map integration
+* practice: build interactive charts
+
+Phase 4 - Build Project
+
+* set up project structure
+* implement basic UI
+* create map component
+* implement filtering logic
+* add interactivity
+* style components
+* test &amp; debug
+
+Phase 5 - Documentation &amp; Portfolio
+
+* write documentation
+* create project README
+* prepare portfolio presentation",Outside-Historian128,1hfw99d,https://reddit.com/r/learnprogramming/comments/1hfw99d/portfolio_project_any_suggestions/,https://www.reddit.com/r/learnprogramming/comments/1hfw99d/portfolio_project_any_suggestions/,2024-12-16 23:02:22,5,0.78,5,0,0,0,0,False,False,True,False,False,,,t3_1hfw99d
+learnprogramming,"Looking for strong free courses to enhance my skills as a 5th-semester BCA student
+
+","Hi everyone,
+
+I’m currently in the 5th semester of my BCA program and looking for free online courses to build upon my skills in computer science, programming, and software development. I’ve already covered subjects like Python, Java, C, HTML, DBMS, SQL
+
+Can anyone recommend any strong free courses that would help me strengthen my technical skills, particularly in areas like algorithms, data structures, and programming? I'm also interested in courses that could help me prepare for a career in tech.
+
+Any advice or course recommendations would be really appreciated!
+
+Thanks in advance!",Little_Meal_4310,1hfuq7b,https://reddit.com/r/learnprogramming/comments/1hfuq7b/looking_for_strong_free_courses_to_enhance_my/,https://www.reddit.com/r/learnprogramming/comments/1hfuq7b/looking_for_strong_free_courses_to_enhance_my/,2024-12-16 21:55:41,3,0.81,3,0,1,0,0,False,False,True,False,False,,,t3_1hfuq7b
+learnprogramming,Can I Create a Cloud Storage on my web hosting?,"Can I Create a Cloud Storage on my site with web hosting? 
+And if i can how? ",silentgarlick,1hftoca,https://reddit.com/r/learnprogramming/comments/1hftoca/can_i_create_a_cloud_storage_on_my_web_hosting/,https://www.reddit.com/r/learnprogramming/comments/1hftoca/can_i_create_a_cloud_storage_on_my_web_hosting/,2024-12-16 21:11:04,3,0.72,3,0,5,0,0,False,False,True,False,False,,,t3_1hftoca
+learnprogramming,Python project ideas?,What is a good python project idea for a (first) semester project that's impressive but not too complex as we've just started to learn python?,hermit325,1hfq54r,https://reddit.com/r/learnprogramming/comments/1hfq54r/python_project_ideas/,https://www.reddit.com/r/learnprogramming/comments/1hfq54r/python_project_ideas/,2024-12-16 18:42:44,6,1.0,6,0,4,0,0,False,False,True,False,False,,,t3_1hfq54r
+learnprogramming,Hello to the community!,"I'm 28 years old, soon to be 29. I'm a college dropout who never had any clear path in life. 
+In school I was always pretty decent, but never really applied myself, never really tried, I could not be bothered.
+
+I currently work as an Electrician, its good work, but again, I can't be bothered. I only do it for the money.
+
+Last month I found myself bored, and intellectually unstimulated. So I decided to pick up a hobby and learn to program for the fun of it.
+
+I have been either coding, or learning to code every single day for the past month.
+And I've been having a blast with it. The hours pass me by like minutes while I sit in my computer.
+
+I feel like I wasted 10 years of my life running around like an idiot. I could have found this passion in my earlier years, and by now who knows how good I could be. 
+
+Computer Science is such a magical field. And I regret that it took me so long to start studying it.
+
+I've never really felt this strongly about anything in my life. Which is why I was so excited I had to post this, to share my joy with you all.
+
+I'm done. I hope you are all well. Bye!",json2396,1hfq21h,https://reddit.com/r/learnprogramming/comments/1hfq21h/hello_to_the_community/,https://www.reddit.com/r/learnprogramming/comments/1hfq21h/hello_to_the_community/,2024-12-16 18:39:05,6,0.81,6,0,6,0,0,False,False,True,False,False,,,t3_1hfq21h
+learnprogramming,How to work with large matrices? ,"Hi, i am a beginner in programming, i am learning c++ in the school, and i like makeing fun projects for my own (mostly with learning purposes). One of these projects contain a large matrix, with plenty of elements. I want to change the position of these elements inside the matrix based on their content. Is there a faster way than just going through elery single cell at the same time, or something like that? ",Numerous-Handle7702,1hfpqo3,https://reddit.com/r/learnprogramming/comments/1hfpqo3/how_to_work_with_large_matrices/,https://www.reddit.com/r/learnprogramming/comments/1hfpqo3/how_to_work_with_large_matrices/,2024-12-16 18:25:44,1,0.67,1,0,2,0,0,False,False,True,False,False,,,t3_1hfpqo3
+learnprogramming,Have you been working on a project with a lot of class inheritance?,"When I started studying OOP with Java and I did my first projects without frameworks, I thought that inheritance was going to be hard to work with, I'm talking about 10 or more subclasses, which in a large project would be difficult to understand and maintain.
+
+
+
+But after having worked with Typescript, I've never really had the need to have more than 2 subclasses, however I would like to know the experience of someone who has lived this and tell me what it was like.",ivannovick,1hfo1fe,https://reddit.com/r/learnprogramming/comments/1hfo1fe/have_you_been_working_on_a_project_with_a_lot_of/,https://www.reddit.com/r/learnprogramming/comments/1hfo1fe/have_you_been_working_on_a_project_with_a_lot_of/,2024-12-16 17:15:02,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1hfo1fe
+learnprogramming,"Found a somewhat shallow- interesting rabbit hole about software distributions and the complexities that come with it, looking for places to learn more.","I was browsing github when I came across this discussion on some software I have been using: [https://github.com/Rem0o/FanControl.Releases/pull/1629](https://github.com/Rem0o/FanControl.Releases/pull/1629)
+
+TLDR: The guys seem like experts and discuss the possibility of an unsafe method of updating the software
+
+I am still learning, so I have experience with releasing some pretty appalling software on github that as far as I can tell has the exact same method of updating: Downloading an exe from a file online and executing. I realised from the above discussion that of course, everything is often more complex than it seems. 
+
+Does anyone happen to know of a resource that is commonly used to learn the most professional, common practices regarding software distribution? I feel a little studying could go a long way. Thanks.",WHOinvitedLAGG,1hfn9m1,https://reddit.com/r/learnprogramming/comments/1hfn9m1/found_a_somewhat_shallow_interesting_rabbit_hole/,https://www.reddit.com/r/learnprogramming/comments/1hfn9m1/found_a_somewhat_shallow_interesting_rabbit_hole/,2024-12-16 16:42:06,1,0.67,1,0,0,0,0,False,False,True,False,False,Resource,,t3_1hfn9m1
+learnprogramming,Suggestion for ID strategy,"I have beed made software for decades, but I have never done performance testing for ID vs UUID. I am designing a pretty large C# project, and automatically I always used an int ID in the database, and IDs for relationships, but I have been wondering if it would be safer to use UUID?
+
+I was initially thinking to keep the auto inc integer ID for internal operations, then UUID for any requested interaction, but still having an ID I would assume \_could\_ in edge cases where for example a DTO mistakenly keeps an ID to be open to guessing an ID.
+
+So in 2024, whats the most accepted approach. 
+
+1. Keep both an ID and GUID, refer to ID internally, and UID externally
+
+2. Ditch the int ID and use GUID as primary key
+
+3. Other?",alekslyse,1hfm4t4,https://reddit.com/r/learnprogramming/comments/1hfm4t4/suggestion_for_id_strategy/,https://www.reddit.com/r/learnprogramming/comments/1hfm4t4/suggestion_for_id_strategy/,2024-12-16 15:52:41,1,1.0,1,0,3,0,0,False,False,True,False,False,,,t3_1hfm4t4

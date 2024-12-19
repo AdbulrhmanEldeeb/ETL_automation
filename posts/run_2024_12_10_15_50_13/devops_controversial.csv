@@ -1,0 +1,286 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Personal Devops blogs &amp; websites,"There are lots of great DevOps sites out there which are great but I always feel lack personality or real world posts.
+
+I’m looking for some personal sites/blogs to follow in the Devops space
+
+Please share yours or any that you follow",TheParadigmx,1hacwkp,https://reddit.com/r/devops/comments/1hacwkp/personal_devops_blogs_websites/,https://www.reddit.com/r/devops/comments/1hacwkp/personal_devops_blogs_websites/,2024-12-09 15:57:50,0,0.44,0,0,3,0,0,False,False,True,False,False,,self,t3_1hacwkp
+devops,How can CI/CD help me?,"Hi,
+
+I’ve been reading around here for some time. I work in data management (pipelines, data warehousing, migrations, data modelling etc) and rely extensively on python, postgres, mssql.
+
+A lot of what I do is to do with code and so I “manage” a few private repos on github, very basic stuff. I essentially use those as code repositories/backups, rather than version control, though versioning is one of the benefits.
+
+I’m wondering if you can help me understand how devops/CI/CD could help me in my job. I’m not a programmer by trade, though I can easily deploy web apps (flask) and pipelines, but I have a feeling I might be missing something.
+
+What are the things I could automate / test?
+
+Thanks",Chemical_Top_6514,1hafpkt,https://reddit.com/r/devops/comments/1hafpkt/how_can_cicd_help_me/,https://www.reddit.com/r/devops/comments/1hafpkt/how_can_cicd_help_me/,2024-12-09 17:53:29,0,0.33,0,0,8,0,0,False,False,True,False,False,,self,t3_1hafpkt
+devops,Leaving a role within 2 months of starting - moved from Junior to Senior?,"I'm from the UK.  
+I worked on support desk for 3 years before landing a Junior DevOps role. I've spent a lot of my time studying, and really making progress in my career. I've reached a point where I feel very confident in my abilities, and have always been very successful in my projects.
+
+I was a Junior DevOps Engineer until 2 months ago - I was Junior for 1 year 4 months - when I got offered and then started a new position as a Senior DevOps Engineer.  
+I was thrilled and over the moon. I've worked really hard for this, and it's finally paying off. I've gotten the pay rise from a Junior Role, and I've landed the title of Senior.
+
+However, it's been an absolutely nightmare. I've joined the company and there is my manager and one other engineer. From day one I was being given customer tickets. There is absolutely 0 documentation. Any notes I can find which reference procedures are years out of date.  
+I've asked for handover or shadowing sessions so I can get an understanding of things, and my manager says he's busy, but I should learn from doing the JIRA tickets which come in.  
+The other engineer is completely non-responsive.
+
+I've been here now 2-months and it's been agonising. The lack of support from my team is one thing, but my manager has now started to turn a tad nasty towards me. He makes constant degrading comments, but plays them off as playful.  
+He keeps @ me in group chats to get work done. Even though I'm incredibly overwhelmed.
+
+I'm on the verge of just handing in my notice, but then I feel like it's a disaster for my career.  
+I won't be able to include this Senior Role on my CV as I've only been here 2 months - and looks crap to any future employeers.  
+It basically puts me in a position where I look like an unemployed Junior Engineer.
+
+Can anyone advise? Part of me says to suck it up for 6 months - that'll give me enough experience to express on my CV and just say it was a poor fit.",ReverendRou,1hafys1,https://reddit.com/r/devops/comments/1hafys1/leaving_a_role_within_2_months_of_starting_moved/,https://www.reddit.com/r/devops/comments/1hafys1/leaving_a_role_within_2_months_of_starting_moved/,2024-12-09 18:03:28,32,0.82,32,0,29,0,0,False,False,True,False,False,,self,t3_1hafys1
+devops,Looking for Remote DevOps/DevSecOps Opportunity,"
+hello everyone, just another Devops engineer looking for new remote opportunities, 
+- 5 years working experience 
+- 3 years as DevOps, 2 years Remote 
+- 1 year as Technical engineering lead
+- 1 year as DevSecOps remote
+- sectors: Fintech, E-commerce , Consulting 
+- open to working night shifts.
+
+hobby: diving deeper into Go Lang and platform engineering (kubernetes)
+
+Looking for new remote opportunities where I could learn and grow, available to work even on night shifts ...
+
+please any recommendations?",ExplorerIll3697,1hb0t1h,https://reddit.com/r/devops/comments/1hb0t1h/looking_for_remote_devopsdevsecops_opportunity/,https://www.reddit.com/r/devops/comments/1hb0t1h/looking_for_remote_devopsdevsecops_opportunity/,2024-12-10 12:37:44,1,0.67,1,0,0,0,0,False,False,True,False,False,,self,t3_1hb0t1h
+devops,"I have .net8 application and it runs some python scripts, can it run on openshift?","hello Im running a .net8 application and I have to learn if it can run on openshift, I have no knowledge of kubernetes and openshift I searched for a while but concepts are too high level, but nevertheless question comes from outside and I have to learn the answer.
+
+Could you give me some tips where can I learn this or maybe a general answer like ""openshift is a platform it can run anything
+
+\-It's a .net 8 app with python scripts that contains a lot of ML libraries and I install them with pip install. Runs great on windows but im sure it can run on linux too",CryPlastic348,1hb0eze,https://reddit.com/r/devops/comments/1hb0eze/i_have_net8_application_and_it_runs_some_python/,https://www.reddit.com/r/devops/comments/1hb0eze/i_have_net8_application_and_it_runs_some_python/,2024-12-10 12:14:43,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1hb0eze
+devops,Master thesis ideas,"I’m currently working on my master’s thesis and would greatly appreciate your insights and guidance. I want to explore serverless architectures with a focus on data processing in my research, but I’m struggling to formulate a compelling thesis statement or topic.",mandalalooza,1haz5hg,https://reddit.com/r/devops/comments/1haz5hg/master_thesis_ideas/,https://www.reddit.com/r/devops/comments/1haz5hg/master_thesis_ideas/,2024-12-10 10:51:29,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1haz5hg
+devops,"'Leveling Up' a developer, how to shift mindset to security? Just keep trying?","There's dev from an acquisition years ago who wears the title 'DevOps Engineer'.  So our director wanted me to move some of my workload to him.
+
+Baby steps, I let him handle migrating their teams to GitHub.  When he moved their package repository they had some difficulty setting it up, developers couldn't access it.
+
+He jumped to a conclusion (that it was permissions issue) and asked me.... wait for it.... you'll never guess...  ""could you create a PAT with repo admin rights that we can share with the devs so they can access the packages"".
+
+I explained why it wasn't going to happen and asked him to walk the other devs through the step by step instructions I provided and tested with the help of 2 other devs with normal access.  He assured me that it's not working and they setup exactly like I said..  I'm sure you've heard this story before.
+
+A few days later it's all working, I had to ask because I never got the whole story on who dropped the ball and still have no clue what caused the issue.
+
+I'm all for leveling up people, however this person doesn't seem ready.  Primarily the failure to own the situation and communicate what happened leaves me questioning his overall maturity.
+
+Am I 'gatekeeping'?  Being a jerk?  I'd love to hear success stories ;-)",bdzer0,1hac6l2,https://reddit.com/r/devops/comments/1hac6l2/leveling_up_a_developer_how_to_shift_mindset_to/,https://www.reddit.com/r/devops/comments/1hac6l2/leveling_up_a_developer_how_to_shift_mindset_to/,2024-12-09 15:25:33,0,0.22,0,0,8,0,0,False,False,True,False,False,,self,t3_1hac6l2
+devops,JSON/YAML Diagramming Tool,"I built this tool to easily modify JSON, YAML, CSV and XML. It is converting them into interactive diagrams, you can also export as images and use at your documentations.
+
+Check it out and let me know what you think!
+
+[https://todiagram.com](https://todiagram.com)",iamCut,1hai43b,https://reddit.com/r/devops/comments/1hai43b/jsonyaml_diagramming_tool/,https://www.reddit.com/r/devops/comments/1hai43b/jsonyaml_diagramming_tool/,2024-12-09 19:31:18,41,0.86,41,0,10,0,0,False,False,True,False,False,,self,t3_1hai43b
+devops,Are there any observability-as-a-service product? Like how vercel provides frontend-as-a-service.,"Wondering if there are any products where I can just  engineer the metrics and logs and traces ( Let's say I used a  library here to define and emit them) and just do a git push to see them on a dashboard.
+
+I have been looking into setting up some observability for a startup product . I looked into different options and I see some common solutions in the space would be knitting together the following
+
+1. Prometheus - grafana for metrics
+2. ELK - kibana/grafana for logs
+3. OTEl and Dynatrace/prometheus- grafna?
+
+(Any better/easier options thatn above)
+
+I am confused with all these choices and different options to use them. What are your go to solutions which are easily deployable and maintanable?",SnooSquirrels6702,1hayrmp,https://reddit.com/r/devops/comments/1hayrmp/are_there_any_observabilityasaservice_product/,https://www.reddit.com/r/devops/comments/1hayrmp/are_there_any_observabilityasaservice_product/,2024-12-10 10:23:38,1,0.67,1,0,7,0,0,False,False,True,False,False,,self,t3_1hayrmp
+devops,I will pay for a referral ,Need a referral for a position at Hashicorp. Can explain my qualifications and validate my experience before hand. Willing to offer money just for the referral. Ik im perfect for this role and just need an interview.,cheesejdlflskwncak,1havgfx,https://reddit.com/r/devops/comments/1havgfx/i_will_pay_for_a_referral/,https://www.reddit.com/r/devops/comments/1havgfx/i_will_pay_for_a_referral/,2024-12-10 06:17:55,0,0.09,0,0,12,0,0,False,False,True,False,False,,self,t3_1havgfx
+devops,Help - New opportunity - Worth it?,"I’m from UK.
+
+I’m a DevOps engineer on 60k, but I get Fridays half day, 1.2k Learning and dev allowance yearly and I am remote, with many other benefits. However, no bonus.
+
+Today, I got accepted for a new DevOps role in FinTech, 65-68k base with a 10% bonus. But, the role is hybrid (3 in 2 home). The main worry for me is the loss of benefits and losing remote working full time.
+
+I need some advice - What would you recommend here? Of course it is different for everyone but I have never been in a hybrid role and I am very apprehensive about it, because the cost of travel and if it would truly be worth it.
+
+What are the general opinions, suggestions or tips? ",rhysmcn,1haie3b,https://reddit.com/r/devops/comments/1haie3b/help_new_opportunity_worth_it/,https://www.reddit.com/r/devops/comments/1haie3b/help_new_opportunity_worth_it/,2024-12-09 19:42:46,7,0.89,7,0,12,0,0,False,False,True,False,False,,self,t3_1haie3b
+devops,Freelance jobs,"I am a Devops/shared platform/SRE( whatever the kids are calling it now) with 12 years experience in the field who is based in EU. recently i started doing some freelance jobs for US companies, and it is fun. but the gigs are not constant and i am looking for new opportunities.  
+  
+how would i go about looking for some free lance project based work? 
+
+",Far-Tea3435,1hayqx7,https://reddit.com/r/devops/comments/1hayqx7/freelance_jobs/,https://www.reddit.com/r/devops/comments/1hayqx7/freelance_jobs/,2024-12-10 10:22:05,9,0.81,9,0,5,0,0,False,False,True,False,False,,self,t3_1hayqx7
+devops,Junior status updates,"To keep this short, I am a junior , working on a migration of our services. About 90% the way there but this project has dragged on months, literal months. We have a partner(external) team we work with who host it for us. We have limited permissions in their environments. 
+
+We were able to get TEST up and running but working on PROD has dragged. From production freezes to, TF Debugging , to folks being out. Project has dragged. 
+
+I’m not an expert but I’m trying and trying to avoid reaching out to my leader as he’s kind of just let me do my own thing on this, and hasn’t really checked in either. I know others like our tech lead, who I report to on stand ups provides updates but not sure how often. 
+
+I am a bit frustrated with how some of this is being handled by our partner team. 
+
+Does it make sense to check in and let my leader know where we stand, we don’t necessarily communicate on the day to day but they do oversee my progress and I do check in with them for technical questions or discussions once a month or so. If I do check in and provide an update, my fear is seemingly like I am pushing the blame on others - when I am no expert myself. 
+
+How do you guys go about this ? ",Grand-Ambassador2937,1hatmim,https://reddit.com/r/devops/comments/1hatmim/junior_status_updates/,https://www.reddit.com/r/devops/comments/1hatmim/junior_status_updates/,2024-12-10 04:28:23,16,0.85,16,0,7,0,0,False,False,True,False,False,,self,t3_1hatmim
+devops,"New job offer but it’s more Azure focused,","Got a new job offer for a dev ops/ cloud role, the salary and benefits are pretty good, the only reservation I have is … the business is azure focused, and role means I will be working with azure instead of aws. My cloud experience lies with AWS (8-10 years) and I don’t know why but working with azure is making me a little anxious about the role. Keen to get the community thoughts on working with azure instead of aws. ",k3nz00,1hazcqa,https://reddit.com/r/devops/comments/1hazcqa/new_job_offer_but_its_more_azure_focused/,https://www.reddit.com/r/devops/comments/1hazcqa/new_job_offer_but_its_more_azure_focused/,2024-12-10 11:04:59,25,0.96,25,0,23,0,0,False,False,True,False,False,,self,t3_1hazcqa
+devops,How to use OpenTelemetry with Prometheus Stack,"Hi,
+
+  
+I have setup the prometheus stack with helmfile using the official chart on the ""monitoring"" namespace. And now I have used the same approach and installed the OpenTelemetry collector on ""otel"" namespace.
+
+I have a sample microservice and it's Dockerfile is instrumented with the otel java agent. 
+
+  
+And in the otelconfig.yaml, I have the following configurations.
+
+
+
+`exporters:`
+
+`debug: {}`
+
+`extensions:`
+
+`health_check:`
+
+`endpoint: ${env:MY_POD_IP}:13133`
+
+`processors:`
+
+`batch: {}`
+
+`k8sattributes:`
+
+`. . .` 
+
+`memory_limiter:`
+
+`check_interval: 5s`
+
+`limit_percentage: 80`
+
+`spike_limit_percentage: 25`
+
+`receivers:`
+
+`filelog:`
+
+`. . .`
+
+`hostmetrics:`
+
+`. . .`
+
+`otlp:`
+
+`protocols:`
+
+`grpc:`
+
+`endpoint: ${env:MY_POD_IP}:4317`
+
+`http:`
+
+`endpoint: ${env:MY_POD_IP}:4318`
+
+`prometheus:`
+
+`config:`
+
+`scrape_configs:`
+
+`- job_name: opentelemetry-collector`
+
+`scrape_interval: 10s`
+
+`static_configs:`
+
+`- targets:`
+
+`- ${env:MY_POD_IP}:8888`
+
+`service:`
+
+`extensions:`
+
+`- health_check`
+
+`pipelines:`
+
+`logs:`
+
+`exporters:`
+
+`- debug`
+
+`processors:`
+
+`- k8sattributes`
+
+`- memory_limiter`
+
+`- batch`
+
+`receivers:`
+
+`- otlp`
+
+`- filelog`
+
+`metrics:`
+
+`exporters:`
+
+`- debug`
+
+`processors:`
+
+`- k8sattributes`
+
+`- memory_limiter`
+
+`- batch`
+
+`receivers:`
+
+`- otlp`
+
+`- prometheus`
+
+`- hostmetrics`
+
+`traces:`
+
+`exporters:`
+
+`- debug`
+
+`processors:`
+
+`- k8sattributes`
+
+`- memory_limiter`
+
+`- batch`
+
+`receivers:`
+
+`- otlp`
+
+`telemetry:`
+
+`metrics:`
+
+`address: ${env:MY_POD_IP}:8888`
+
+  
+What I want now is:
+
+  
+1. How to tell the OTEL agent running in my sample microservice to send the metrics data to this OTEL collector.  
+  
+2. And how to then send this data to Prometheus? - how to add this to otel config and which endpoint should I use? What else should I configure etc.
+
+
+
+I am always confused with this approach of OTEL (as it has multiple receivers and exporters where one can use prometheus in both receivers and exporters). 
+
+
+
+I appreciate your guidance or any documentation (not the official documentation as it is a bit confusing) where I can learn this?
+
+Thank You!",Swimming-Drawer-9527,1hb0wbw,https://reddit.com/r/devops/comments/1hb0wbw/how_to_use_opentelemetry_with_prometheus_stack/,https://www.reddit.com/r/devops/comments/1hb0wbw/how_to_use_opentelemetry_with_prometheus_stack/,2024-12-10 12:43:05,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hb0wbw
+devops,Datadog costing,"Hey guys we are looking for an alternative solution and we have settled on DD as our solution, but for APM host we have to pay charge for infra agent too , even though we don't have infra monitoring enabled , which makes costing too much ... Is same for anyone who is using it or we are getting things mixed up here ? Is per host cost =infra cost + APM cost ?",Ranaji97,1hb0fys,https://reddit.com/r/devops/comments/1hb0fys/datadog_costing/,https://www.reddit.com/r/devops/comments/1hb0fys/datadog_costing/,2024-12-10 12:16:19,7,0.83,7,0,8,0,0,False,False,True,False,False,,self,t3_1hb0fys
+devops,Anyone using Openshift buildConfig to build your app,"We have been using buildconfigs in conjunction with our CICD pipelines to build our app's images directly on Openshift. Anyone using that feature? enjoying it or not? For us, it's got the job done pretty much but I'm curious about hearing other's experiences or opinions.",Vonderchicken,1hagyr2,https://reddit.com/r/devops/comments/1hagyr2/anyone_using_openshift_buildconfig_to_build_your/,https://www.reddit.com/r/devops/comments/1hagyr2/anyone_using_openshift_buildconfig_to_build_your/,2024-12-09 18:44:18,1,0.67,1,0,2,0,0,False,False,True,False,False,,self,t3_1hagyr2
+devops,Need suggestions on my current job.,"So here is my story, I started working as a Devops support engineer for one of the company right after college I worked there for 4 years only on support area in Devops. Later I switched company and moved to my current product based company. I was hired for the Devops role but they had some requirements in the data engineering area so I worked on airflow development and api and UI things. Later they again moved me to Devops as there was a new team formed. Now I have to look into the development part of the Jenkins instances for all of my company. 
+To put things in short now I work fully on Jenkins development like the release part, security part and everything related to Jenkins. As I was from support I am having very difficult in handling the development part. How do I excel in Jenkins I know the basic part but I need to learn everything there is from Jenkins part like AMI, releases and everything. Can some one suggest how to get started from here?",Cool-Ruin-1456,1hafgtq,https://reddit.com/r/devops/comments/1hafgtq/need_suggestions_on_my_current_job/,https://www.reddit.com/r/devops/comments/1hafgtq/need_suggestions_on_my_current_job/,2024-12-09 17:43:46,1,1.0,1,0,4,0,0,False,False,True,False,False,,self,t3_1hafgtq
+devops,Running Pally for CI/CD in a next.js application?,"[https://stackoverflow.com/questions/47635248/when-i-use-pally-ci-with-localhost-i-get-no-errors-but-external-urls-i-get-corr](https://stackoverflow.com/questions/47635248/when-i-use-pally-ci-with-localhost-i-get-no-errors-but-external-urls-i-get-corr)
+
+  
+Is there a script that allows you to run it on localhost in a CI/CD pipeline?",darkcatpirate,1hadsno,https://reddit.com/r/devops/comments/1hadsno/running_pally_for_cicd_in_a_nextjs_application/,https://www.reddit.com/r/devops/comments/1hadsno/running_pally_for_cicd_in_a_nextjs_application/,2024-12-09 16:35:13,1,0.67,1,0,2,0,0,False,False,True,False,False,,self,t3_1hadsno

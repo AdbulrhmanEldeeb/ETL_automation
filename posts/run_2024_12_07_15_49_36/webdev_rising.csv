@@ -1,0 +1,136 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,What techniques did Google use to create the interactive elements in their 2024 US election graphics?,,djmalibiran,1h8upfj,https://reddit.com/r/webdev/comments/1h8upfj/what_techniques_did_google_use_to_create_the/,https://i.redd.it/olb99wxy1g5e1.png,2024-12-07 15:22:54,19,0.74,19,0,8,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/Y2gcf5StQ9wxc8d9B-hKIrQgV3Lrsj_r8IdnoR1PG9M.jpg,t3_1h8upfj
+webdev,My first useful project as a web dev 🎉,,Nols05,1h8ttef,https://reddit.com/r/webdev/comments/1h8ttef/my_first_useful_project_as_a_web_dev/,https://i.redd.it/al1vk7kduf5e1.png,2024-12-07 14:39:18,119,0.78,119,0,35,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/uEmlUe8Pu4I85Pp5hAJnQDVpYSu15u_KZTAqw5p0KaA.jpg,t3_1h8ttef
+webdev,I made an adaptive typing trainer that learns your weaknesses and generates exercises just for you,,maxverse,1h8uonx,https://reddit.com/r/webdev/comments/1h8uonx/i_made_an_adaptive_typing_trainer_that_learns/,https://www.typerfast.com,2024-12-07 15:21:55,4,1.0,4,0,0,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/mkbhGh2KKrS7qYr3hUs_y1R4XDrpRGIXprFy26iYJgU.jpg,t3_1h8uonx
+webdev,"What are these icons called, and where can i find more?","https://preview.redd.it/iuazayz8vf5e1.png?width=856&amp;format=png&amp;auto=webp&amp;s=8fe0aef5f8a9d9ec91b765a71686c112b5ae8097
+
+I found these icons in the Phpmyadmin files, and I wanted to know if theres more icons or icon packs like these. Thank you :)",apertia,1h8tz78,https://reddit.com/r/webdev/comments/1h8tz78/what_are_these_icons_called_and_where_can_i_find/,https://www.reddit.com/r/webdev/comments/1h8tz78/what_are_these_icons_called_and_where_can_i_find/,2024-12-07 14:47:32,3,0.67,3,0,9,0,0,False,False,True,False,False,,self,t3_1h8tz78
+webdev,[Showoff Saturday] Multiplayer Lite Brite Web App!  litebritepro.unserver23.net,[litebritepro.unserver23.net](http://litebritepro.unserver23.net),thefreymaster,1h8u3p6,https://reddit.com/r/webdev/comments/1h8u3p6/showoff_saturday_multiplayer_lite_brite_web_app/,https://www.reddit.com/r/webdev/comments/1h8u3p6/showoff_saturday_multiplayer_lite_brite_web_app/,2024-12-07 14:53:48,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1h8u3p6
+webdev,DON'T BUY DOMAINS FROM GODADDY!!!! SCAM!!!!!,"I recently had a terrible experience with GoDaddy, and I feel compelled to warn others about their unethical and exploitative practices. 
+
+Here's the list what they do (according to what i observed so far)  :-
+
+1. **Deceptive Domain Availability**: When I searched for a domain, it was initially shown as cheap and available. However, shortly afterward, it was claimed as unavailable, marked as a ""premium domain,"" and priced ridiculously high.
+2. **GoDaddy Monopolizes Domains**: I noticed that every domain I searched for was suddenly ""claimed"" by GoDaddy. Visiting these domains leads to their landing page, where they sell the domain at inflated prices or suggest hiring a broker—essentially forcing users to overpay for domains they initially showed as affordable.
+3. **WHOIS Confirms Suspicious Practices**: When I checked WHOIS information for one of the domains, here’s what I found:
+
+https://preview.redd.it/meuivvga995e1.png?width=782&amp;format=png&amp;auto=webp&amp;s=51bcfc6eddabc92886686167d641e4309cbcea13
+
+4. It’s clear that GoDaddy is holding these domains through their proxy service, making them unavailable to regular users unless they pay a premium
+
+5. **Unfair Market Manipulation**: GoDaddy is deliberately creating scarcity by claiming domains people search for and reselling them at inflated prices. This is not just unethical; it’s exploitative and undermines trust in domain registration services.
+
+💡 **What You Can Do**:
+
+* Avoid GoDaddy at all costs! Use alternative domain registrars like Namecheap, Hostinger, Cloudflare or Porkbun.
+* Be cautious when searching for domains, as GoDaddy seems to track interest and manipulate availability to force you to pay more.
+
+⚠️ **Conclusion**:  
+GoDaddy’s practices are a blatant scam, designed to exploit users searching for domains. They manipulate the market to extort money and provide no transparency in the process. Stay away from GoDaddy and use trustworthy alternatives instead!
+
+this happen for all the domain i checked specially (.com) all the one also don't say .com are popular in demand then why it available and now its register then why now and why after i checked and why all and why all the domain are directing to godaddy not once to their registered owners website
+
+here the live proof:
+
+[in hostinger it says](https://preview.redd.it/0exjn3cra95e1.png?width=494&amp;format=png&amp;auto=webp&amp;s=a1bc97f19c449d2e9bea8ec4709d6d4a7c63f223)
+
+[in godaddy it says](https://preview.redd.it/fkd9h3cra95e1.png?width=948&amp;format=png&amp;auto=webp&amp;s=d9afed2c6bb2e252eb3d2660741d74cc8d208c3d)
+
+[this image is specifically a domain that i wanted its not said premium but it register after i lookup and add to cart in a one day no owner but godaddy only \(it's been like this for 3-4 months\)](https://preview.redd.it/72tdix5za95e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=2d0004a055e4d2dd4d1456d00bc49959f86f4b24)
+
+of course:) i know u say what premium in godaddy visit page look like
+
+https://preview.redd.it/dib8gcqnb95e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=99eb7ee338e58af82f21676effb181c3222ab9a5
+
+see they are telling to buy at high price it's okay this premium one i don't want but why do they claim anonymously the domain after i looked or searched on their website in one day even after 3 months the domain does not have a website only godaddy promotion this is for all domains i looked into",Invincible-Bug,1h85tfm,https://reddit.com/r/webdev/comments/1h85tfm/dont_buy_domains_from_godaddy_scam/,https://www.reddit.com/r/webdev/comments/1h85tfm/dont_buy_domains_from_godaddy_scam/,2024-12-06 16:51:46,834,0.91,834,0,472,0,0,False,False,True,False,False,,self,t3_1h85tfm
+webdev,Temp-Mail.my - Free disposable temporary email service,"Built a temp email site with two standout features:
+
+* Receive email attachments
+* Recover past temporary emails
+
+Completely free, no signup needed. Generates instant email addresses with easy attachment handling and recovery.
+
+URL is in the title (temp-mail dot my), can't directly post the url or my post might get deleted and I don't know why since this a fresh domain. 
+
+Anyways hope you guys make it there and find it useful. 
+
+Would love to hear your thoughts!",Banksareaproblem,1h8q49j,https://reddit.com/r/webdev/comments/1h8q49j/tempmailmy_free_disposable_temporary_email_service/,https://www.reddit.com/r/webdev/comments/1h8q49j/tempmailmy_free_disposable_temporary_email_service/,2024-12-07 10:56:51,14,0.77,14,0,1,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8q49j
+webdev,"[Showoff Saturday] Space themed portfolio, been struggling with getting visits ","I created a portfolio, fortunately I did get a client through the site form but I get less than 5 visits every day, I followed every SEO advice, even tracking keywords so wanted to share ",stvndocean,1h8py4t,https://reddit.com/r/webdev/comments/1h8py4t/showoff_saturday_space_themed_portfolio_been/,https://kigo.studio,2024-12-07 10:43:58,9,1.0,9,0,2,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h8py4t
+webdev,"[Showoff Saturday] Made my own QR code generator (with optional image), after all of the ones I've tried either had a paywall, or signup wall",,rm-rf-npr,1h8q3vg,https://reddit.com/r/webdev/comments/1h8q3vg/showoff_saturday_made_my_own_qr_code_generator/,https://freeqrcodegenner.com,2024-12-07 10:56:03,6,0.69,6,0,4,0,0,False,False,False,False,False,Showoff Saturday,https://b.thumbs.redditmedia.com/poHiOBzkwgym0oQcip19eMTGLIbnEFPXRBagoLQ9yFc.jpg,t3_1h8q3vg
+webdev,First bit of freelance,"Hey guys
+
+I currently work full time as an engineer at a SAAS company, but my dream has always been to work for myself and freelance websites - just wondering if I can get some feedback on my first paid bit of work? The client is happy with it so far, but their previous experience wasn’t great so I feel the bar is very low!
+
+You can see it in its current state at https://clare-nine.vercel.app/
+
+Thank you!",BombayBadBoi2,1h8pogk,https://reddit.com/r/webdev/comments/1h8pogk/first_bit_of_freelance/,https://www.reddit.com/r/webdev/comments/1h8pogk/first_bit_of_freelance/,2024-12-07 10:23:40,4,0.84,4,0,10,0,0,False,False,True,False,False,Showoff Saturday,self,t3_1h8pogk
+webdev,How do I implement a Payment system in my app?,What are some good services?,Mrreddituser111312,1h8n74e,https://reddit.com/r/webdev/comments/1h8n74e/how_do_i_implement_a_payment_system_in_my_app/,https://www.reddit.com/r/webdev/comments/1h8n74e/how_do_i_implement_a_payment_system_in_my_app/,2024-12-07 07:17:05,6,0.67,6,0,12,0,0,False,False,True,False,False,Discussion,self,t3_1h8n74e
+webdev,Node or Springboot,"Hi Guys,
+
+I'm thinking of adding a backend for my portfolio website (this is HTML and CSS only). My goal is to have a blog in my portfolio site.
+
+Others said that use the tech stack that you already know. Well I know Angular 17 and Spring Boot for creating side projects.
+
+Then others also said that it is overkill if I use a framework or library (React or Angular) for a simple website with backend (portfolio)
+
+And also, I want to become a Java developer so I searched that most of job postings for Java position need to have knowledge on (HTML, CSS, JS/TS) or (React or Angular).
+
+So what would you recommend?
+
+1. Create the portfolio with vanilla js and node then all the side projects will be React/Angular and Spring boot.
+2. Create all side projects with the tech stack Angular/React with Spring boot.
+
+
+My purpose is to demonstrate or show to interviewer that I am knowledegeable on fundamentals of HTML CSS and JS when I show to them my portfolio. 
+",Crafty-Waltz-2029,1h8t0zm,https://reddit.com/r/webdev/comments/1h8t0zm/node_or_springboot/,https://www.reddit.com/r/webdev/comments/1h8t0zm/node_or_springboot/,2024-12-07 13:57:58,2,1.0,2,0,5,0,0,False,False,True,False,False,,self,t3_1h8t0zm
+webdev,Can I Use Another Website’s API?,"I found an API for a website by inspecting the network tab in my browser. Can I legally create a website that uses this API? If it’s illegal, would creating a browser extension instead make it permissible? Finally, does it make a difference if I earn money from the website or extension?",Mr_Kafir,1h8pi9p,https://reddit.com/r/webdev/comments/1h8pi9p/can_i_use_another_websites_api/,https://www.reddit.com/r/webdev/comments/1h8pi9p/can_i_use_another_websites_api/,2024-12-07 10:10:13,3,0.55,3,0,30,0,0,False,False,True,False,False,,self,t3_1h8pi9p
+webdev,Why and how I made a 3D terrain renderer with React + the DOM,,samanpwbb,1h8h4y6,https://reddit.com/r/webdev/comments/1h8h4y6/why_and_how_i_made_a_3d_terrain_renderer_with/,https://trashmoon.com/blog/2024/terrain-renderer-with-react-and-dom/,2024-12-07 01:20:06,18,0.75,18,0,3,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/sMtQSeNPLXt441Mh9DCx29Dae72r5kHe_C0x0ynbJ0Y.jpg,t3_1h8h4y6
+webdev,Advice for building an app with Cloud Sync?,"Hey everyone,
+
+I'm eyeing a project with Cloud Sync functionality as my next side project. I believe I have the skillset for most of the things the project needs except Cloud Sync, which I have never done before. I have done some googling and collected some articles covering different approaches but I would also like to ask what your recommendations would be for implementing this? 
+
+Here is the project outline:
+
+* Basically, the project will allow users to have an account and store a bunch of data the user enters in their client. This data is synced to all their devices, i e mobile apps and web clients where they have logged into their account.
+
+* You cannot edit data from multiple clients at the same time in real time, but rather work from one client at a time. 
+
+* Users don't have to be able to collaborate on editing the same data, rather each user has their own private data. A future addition might enable other users to see your data, but it's not required for now, and changes don't have to become visible to other users in real time.
+
+* A central server and database keeps track of the data, enables login/auth etc. Probably gonna write this in PHP (Laravel) and postgres unless you tell me this is a bad idea.
+* Data is viewed in a mobile app client and stored in a local SQLite database as well for scenarios when they don't have internet. If the user edits data offline, it will be synced the next time they come online. In the future, a web client will be added as well. Will write this in React / React Native because my strongest skillset is in Typescript / React.
+
+* If the user opens another client than the one they're currently on, the current one will disable data entry in favor of the new one (user will be asked if they want to switch) so that they can't try to change the same data from multiple clients at the same time. The only way I have pushed events from a server to clients (in this case, user has opened another client so disable this one) has been with WebSockets but I assume this could be done another way too?
+
+I would assume Cloud Sync can be implemented by adding time stamps to each row of data telling when that row was last edited, and then updating rows that have been edited after the last sync date on that device. Or would it better to pick up a ready made solution for this, and perhaps switch server technology accordingly? For example, if there is a good, readymade solution for Cloud Sync available via NPM I could write the server with express, feathers or what have you instead.
+
+Thanks!",legable,1h8sbo1,https://reddit.com/r/webdev/comments/1h8sbo1/advice_for_building_an_app_with_cloud_sync/,https://www.reddit.com/r/webdev/comments/1h8sbo1/advice_for_building_an_app_with_cloud_sync/,2024-12-07 13:19:13,2,1.0,2,0,0,0,0,False,False,True,False,False,Question,self,t3_1h8sbo1
+webdev,[Showoff Saturday] I built a betting manager/tracker,[https://betfriend.pro/](https://betfriend.pro/),brodagaita,1h8vdl7,https://reddit.com/r/webdev/comments/1h8vdl7/showoff_saturday_i_built_a_betting_managertracker/,https://www.reddit.com/r/webdev/comments/1h8vdl7/showoff_saturday_i_built_a_betting_managertracker/,2024-12-07 15:54:39,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h8vdl7
+webdev,I built a website to compare every AI model as a 17 y/o in high school: Countless.dev (live on Product Hunt!),,ahmett9,1h8vbur,https://reddit.com/r/webdev/comments/1h8vbur/i_built_a_website_to_compare_every_ai_model_as_a/,https://i.redd.it/n1hgf1vf7g5e1.png,2024-12-07 15:52:26,0,0.5,0,0,1,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/YrBVaKH1YMTpp3fVuWS0D4qNGsXIS8w2G7LYalItqps.jpg,t3_1h8vbur
+webdev,"Developers who have done work on fiverr, what's it like?","I've heard plenty of the horror stories and I know it's really competitive, but for those who have actually gotten work, I'd like a better idea of what the actual work is like.  What kind of work did you typically end up doing? How long did contracts typically last? I know experiences can vary wildly based on your location, so I'd like to hear the perspectives of devs in developed countries, as well as those in developing countries.",chocolate_shart,1h85xuf,https://reddit.com/r/webdev/comments/1h85xuf/developers_who_have_done_work_on_fiverr_whats_it/,https://www.reddit.com/r/webdev/comments/1h85xuf/developers_who_have_done_work_on_fiverr_whats_it/,2024-12-06 16:56:53,65,0.88,65,0,7,0,0,False,False,True,False,False,Question,self,t3_1h85xuf
+webdev,Meet CSSformalize: Simplify Your Form Styling Workflow,"Hi [r/webdev](https://www.reddit.com/r/webdev/)!
+
+Styling HTML forms can often feel like navigating a minefield. Achieving consistency across various states—such as active or focus—requires meticulous attention to detail. It's all too easy to miss a crucial style or struggle with the myriad of browser-specific prefixes like -webkit- or -moz-. This complexity can turn what should be a straightforward task into a tedious chore. Recognizing these challenges, I was motivated to create a solution that streamlines the entire process.
+
+Thus, CSSformalize was born—a comprehensive open-source CSS framework designed to transform the way native HTML forms are styled. By leveraging CSSformalize, developers can effortlessly generate elegant and consistent form elements. This framework eliminates the need to memorize complex styles or write repetitive CSS code, offering a much-needed shortcut for both seasoned developers and newcomers alike.
+
+https://preview.redd.it/6m6p10ih5g5e1.jpg?width=1500&amp;format=pjpg&amp;auto=webp&amp;s=b2d92cdbac13fc22248f2e5ba15dbe87713af61e
+
+For more information and to try it out for yourself, visit [cssformalize.com](http://cssformalize.com/).  
+github: [https://github.com/pelinoleg/CSSformalize/](https://github.com/pelinoleg/CSSformalize/)",pelinoleg,1h8v3zk,https://reddit.com/r/webdev/comments/1h8v3zk/meet_cssformalize_simplify_your_form_styling/,https://www.reddit.com/r/webdev/comments/1h8v3zk/meet_cssformalize_simplify_your_form_styling/,2024-12-07 15:42:05,1,1.0,1,0,0,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/FT19-pDc8RQQIQyd3UZ3cntkH6NGCEg7k4T1Yg7K1lk.jpg,t3_1h8v3zk
+webdev, [Showoff Saturday] public-api-explorer,,billcrystals,1h8v2td,https://reddit.com/r/webdev/comments/1h8v2td/showoff_saturday_publicapiexplorer/,https://www.kershner.org/public-api-explorer/,2024-12-07 15:40:30,1,1.0,1,0,1,0,0,False,False,False,False,False,Showoff Saturday,default,t3_1h8v2td
+webdev,Recommended tech stack / approach for simple hobby project?,"Hello all, programming beginner here!
+
+I basically want to build a simple web app that runs **locally on my computer on** **windows** with minimal dependencies. I have created the app on linux with a cms before but i wanted to simplify it and make it more portable (ideally just copying the folder, not installing anything).
+
+It queries the wikipedia api and lets the user add things to a list and then edit, filter and sort them smoothly. I also want to be able to add items manually to the list with file uploads and have persistent data storage.
+
+I want to install as little as possible and make it easy to backup and transport but still maintain some good practices and learn about relevant technologies.
+
+**What i have so far is html, css and js files and a barebones node server** that can store the data on my system in a json file. I can already add items to my list, save it and load it initially.
+
+Do i need to use a js framework for ""stress free"" editing in the frontend or are there approaches to do dom manipulation ""better"" in vanilla nowadays?
+
+Or would i just be better off to just do this in python? (i have no experience with it though)
+
+Im thankful for any input and apologize for my ignorance beforehand lol",Vegetable-Market-389,1h8qth1,https://reddit.com/r/webdev/comments/1h8qth1/recommended_tech_stack_approach_for_simple_hobby/,https://www.reddit.com/r/webdev/comments/1h8qth1/recommended_tech_stack_approach_for_simple_hobby/,2024-12-07 11:47:15,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h8qth1

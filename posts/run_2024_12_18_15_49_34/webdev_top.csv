@@ -1,0 +1,546 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,"Github Wrapped (unnofficial) - Year in Code. Built using reactjs, chakra ui and framer motion ",,gabrielandrew_,1hh130l,https://reddit.com/r/webdev/comments/1hh130l/github_wrapped_unnofficial_year_in_code_built/,https://i.redd.it/osjqh92wul7e1.png,2024-12-18 13:01:37,72,0.79,72,0,23,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/ZI8eaOpYlj7aNTWgY6RIUKamO3-kZxqTXXLfK9thetg.jpg,t3_1hh130l
+webdev,"What's up with those ""founder"" accounts making bank with their AI SaaS on Twitter?","Over the past few weeks my feed on twitter has been flooded with guys that supposedly are making a lot of money with their SaaS. 
+
+When you go into their websites they all have the same layout and design, only changing colors/texts/images etc.
+
+The post screenshots of their Stripe account showing some of them making +10k usd/month with their websites. But the products seem bland.
+
+Also, they seem to be proud of not being really good at coding and that they were able to code and deploy production level apps without any knowledge.
+
+Common sense tell me they're faking everything but there's a part of me that thinks that maybe, some of them had success with some SaaS? What do you think?",tyrellrummage,1hgckz1,https://reddit.com/r/webdev/comments/1hgckz1/whats_up_with_those_founder_accounts_making_bank/,https://www.reddit.com/r/webdev/comments/1hgckz1/whats_up_with_those_founder_accounts_making_bank/,2024-12-17 15:05:31,51,0.83,51,0,39,0,0,False,False,True,False,False,,self,t3_1hgckz1
+webdev,How much should I be paying my web developer?,"I am currently working on a cooking website, which is an online recipe book which hosts a variety of recipes, each with a video tutorial on how to make it. There will be around 300 recipes. The webdev is thinking of using Supabase for the backend, nextjs for the front end and an external video host like Vimeo for the videos. It also needs to handle accounts and payments (stripe) as it is a membership service. He has all the UX UI wireframes already. What will be a reasonable price to ask for this to be developed? But more importantly how long would this be expected to take?
+
+Edit - I’m Leaning away from Wordpress since I see this as more of a SaaS web app compared to a static blog that hosts recipes. It’s more of an educational site where users learn specific skills in cooking through recipes which range through easy to hard. It won’t be completely static in the sense that it will be interactive through giving the user the ability to filter recipe difficulty, type, cuisine etc. So like a hybrid cooking course style site but much less structured. I want the webdev to code a dynamic system where adding recipes is easy (apparently this is called a CMS?) so that they do not have to be entered manually each time after new content is added. ",Elegant_Locksmith_62,1hgz66h,https://reddit.com/r/webdev/comments/1hgz66h/how_much_should_i_be_paying_my_web_developer/,https://www.reddit.com/r/webdev/comments/1hgz66h/how_much_should_i_be_paying_my_web_developer/,2024-12-18 10:57:28,39,0.81,39,0,68,0,0,False,False,True,False,False,,self,t3_1hgz66h
+webdev,Library for Transparent Data Encryption in MySQL Using OpenSSL,,Due-Muscle4532,1hgx870,https://reddit.com/r/webdev/comments/1hgx870/library_for_transparent_data_encryption_in_mysql/,https://github.com/white-rabbit-1-sketch/mysql-openssl,2024-12-18 08:23:51,16,0.83,16,0,5,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/iQabwd-xFoZlzYtPa8xJfNC9eB4m6C7IMSxgBiFa-xU.jpg,t3_1hgx870
+webdev,Do you balance side projects alongside your job?,What the title says,yeahimjtt,1hgdd6k,https://reddit.com/r/webdev/comments/1hgdd6k/do_you_balance_side_projects_alongside_your_job/,https://www.reddit.com/r/webdev/comments/1hgdd6k/do_you_balance_side_projects_alongside_your_job/,2024-12-17 15:41:48,12,0.78,12,0,29,0,0,False,False,True,False,False,Question,self,t3_1hgdd6k
+webdev,How secure is my API implementation for a prototype site?,"I'm developing a very simple prototype of a website that generates content using an API call to a language model using GroqCloud's APIs. So far, I've implemented the following basic security measures:
+
+1. Moved the API call (and the key) to a **backend** so the key isn’t directly exposed to the frontend.
+2. Added a **rate limiter** to prevent abuse of the API calls.
+
+My question is: **Are these measures enough for a prototype**, or are there any critical security improvements I should consider? Any best practice or suggestion would be awesome!",Tommaiberone,1hgfyrb,https://reddit.com/r/webdev/comments/1hgfyrb/how_secure_is_my_api_implementation_for_a/,https://www.reddit.com/r/webdev/comments/1hgfyrb/how_secure_is_my_api_implementation_for_a/,2024-12-17 17:34:02,12,0.79,12,0,4,0,0,False,False,True,False,False,Question,self,t3_1hgfyrb
+webdev,Looking for a community to join where  i can contribute in web dev projects,"hello this is my first time posting here ... i'm 22 M studying software engineering from tunisia , currently learning angular and spring boot ( allready know html , css and js and java ) and would like to start working on some open source projects to practice the concepts i'm learning and practice git/github .  plus i think this would be a greate source of motivation to see other peoples work and learn .",ChampionshipAny416,1hgo1yf,https://reddit.com/r/webdev/comments/1hgo1yf/looking_for_a_community_to_join_where_i_can/,https://www.reddit.com/r/webdev/comments/1hgo1yf/looking_for_a_community_to_join_where_i_can/,2024-12-17 23:31:15,9,0.82,9,0,1,0,0,False,False,True,False,False,,self,t3_1hgo1yf
+webdev,What is the best strategy for hosting a full stack project?,"I am building a full stack web app more specifically it is a SaaS project. Frontend with React, backend with Django, and Database with Postgres. And it also has a lot of image data which would be considered as static files. 
+
+I am very new to this. This would be my first large scale project, which I am building as a SaaS with my friend who would do the marketing. So I wanna know what is the best way to host this project. Should I pay for a VPS and host everything in one place using Nginx, or Apache server, or should I separate them, like frontend on netlify, backend on a VPS, database on another managed service, and static files on something like AWS S3. 
+
+Or should I do only frontend separate, everything else on the same VPS. I am very confused. 
+
+Also, question to those with more experience, please do recommend to me the best platform for hosting each of these.",an4s_911,1hgdsru,https://reddit.com/r/webdev/comments/1hgdsru/what_is_the_best_strategy_for_hosting_a_full/,https://www.reddit.com/r/webdev/comments/1hgdsru/what_is_the_best_strategy_for_hosting_a_full/,2024-12-17 16:01:09,10,0.82,10,0,20,0,0,False,False,True,False,False,Question,self,t3_1hgdsru
+webdev,I (instructor) learned webdev to make better course content. What do I need to ask our IT for to have it hosted?,"I'm not a web developer, except by what I've taught myself over the last year or so. I am not a professional in any related fields.... I am a machinist, G-code is my main programming language. I've learned webdev to serve better content to my students, I don't know any backend and don't really care to. 
+
+We use Canvas lms for all of our classes. It has an html editor, but only allows a very restricted set of tags... Inline styles only, no comments or whitespace, can't use &lt;style&gt;, &lt;link&gt;, or &lt;script&gt;, so why even bother? 
+
+I can upload a file/folder with html, css, and js files to Canvas and embed the html into a course page through the rich content editor (generates an iframe). The html can access other files in the same folder using relative links, just like you'd want. Only problem is that iOS devices won't load any of that, which kills the whole idea, because the whole point is to make the content more accessible on mobile.
+
+So, what then? I need a way to host the content so that I can embed it on Canvas, but it needs to be accessible only through Canvas (not publicly accessible), without requiring students to log in. I am actively avoiding storing any student data of any kind... I just want to deliver well presented responsive content and mini-games/interactive exercises.
+
+Any guidance would be appreciated!",AethericEye,1hghdm0,https://reddit.com/r/webdev/comments/1hghdm0/i_instructor_learned_webdev_to_make_better_course/,https://www.reddit.com/r/webdev/comments/1hghdm0/i_instructor_learned_webdev_to_make_better_course/,2024-12-17 18:34:37,7,0.82,7,0,21,0,0,False,False,True,False,False,,self,t3_1hghdm0
+webdev,Secret santa gift ideas for a Web dev,"I'm doing a secret santa with some friends and I've left it way too late and I need some ideas! Budget is £30 and I'm buying for a friend who recently started a career in Web dev so I want to get him some stuff related to that. Any ideas appreciated, either useful or funny ones.",AnonymousBanana7,1hh018z,https://reddit.com/r/webdev/comments/1hh018z/secret_santa_gift_ideas_for_a_web_dev/,https://www.reddit.com/r/webdev/comments/1hh018z/secret_santa_gift_ideas_for_a_web_dev/,2024-12-18 11:59:38,8,0.9,8,0,28,0,0,False,False,True,False,False,,self,t3_1hh018z
+webdev,Amazon's Seller Central tech stack and team,"What do they use? The create listing page makes even gaming computers freeze. Type too rapidly on the fields, you have to restart the computer. Straight up shows ""out of memory"" message on lower spec PCs.
+
+I mean, are they firing 500 requests a minute or what? I know they have to check everything on the fly, but makes me question if they're debouncing the calls and everything, preventing unnecessary re-renders, detecting memory leaks..
+
+A quick search shows they use react and redux. But so does the rest of the world, so I don't think the technology is to blame.
+
+Where's the team located that maintains seller central? I hope someone notices this and gets their act together. This has to be one of the worst performing webapps I've used in a while.
+
+I'm part of multiple Amazon seller groups, and so many people complain about this.
+
+If anyone here works on this webapp, maybe you can share some insider scoop about why/how this application became like this. Sometimes it's hasty tech migration, sometimes spaghetti code, or bad practices, or lack of testing, or even political reasons like outsourcing to the wrong team,.... often more than one factor.
+",anonperson2021,1hgzepk,https://reddit.com/r/webdev/comments/1hgzepk/amazons_seller_central_tech_stack_and_team/,https://www.reddit.com/r/webdev/comments/1hgzepk/amazons_seller_central_tech_stack_and_team/,2024-12-18 11:14:13,5,1.0,5,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hgzepk
+webdev,Web Design – Separate Ecommerce Site?,"I have a website that is mostly general information and pictures, but once a year we have an event and sell tickets. In the past I have built the ecommerce (Wordpress-Woocommerce) into the main site. The ticket sales open and we generally sell 400 tickets in 10 minutes, which is a quite a load, but website has handled it fine. I am considering breaking the site into a general site and an ecommerce site. When we sell tickets a button would link from the general site to the ecommerce site. This would allow me to keep the changes every year in a separate site and isolate the ecommerce portion of the site. I think it would be more efficient for both sites. I am interested in feedback to the pros and cons of splitting the site?",psylonaught,1hgrrhh,https://reddit.com/r/webdev/comments/1hgrrhh/web_design_separate_ecommerce_site/,https://www.reddit.com/r/webdev/comments/1hgrrhh/web_design_separate_ecommerce_site/,2024-12-18 02:38:46,4,0.76,4,0,2,0,0,False,False,True,False,False,,self,t3_1hgrrhh
+webdev,Good sites to test your skills,I'm a beginner and want to start putting my skills to the test! What sites are good for testing your skills and keeping them fresh in your mind!!,crochetwithkriss,1hgrj9f,https://reddit.com/r/webdev/comments/1hgrj9f/good_sites_to_test_your_skills/,https://www.reddit.com/r/webdev/comments/1hgrj9f/good_sites_to_test_your_skills/,2024-12-18 02:26:30,4,0.7,4,0,2,0,0,False,False,True,False,False,Question,self,t3_1hgrj9f
+webdev,What are your honest opinions on JAMstack?,"In my perspective it's one of the best stack, it's simple, require less tools, less dependencies, etc. 
+
+But I want to hear from others so I can gain more perspective.",ThaisaGuilford,1hh06gi,https://reddit.com/r/webdev/comments/1hh06gi/what_are_your_honest_opinions_on_jamstack/,https://www.reddit.com/r/webdev/comments/1hh06gi/what_are_your_honest_opinions_on_jamstack/,2024-12-18 12:07:46,4,0.61,4,0,52,0,0,False,False,True,False,False,Discussion,self,t3_1hh06gi
+webdev,"How do I pause a lazy-loaded YouTube iframe when closing a CSS modal in JavaScript? The code worked until I added loading=""lazy"" to improve the performance on the site. Now the videos still play in the background when I close a modal. Can anyone help?","     const modalBtns = document.querySelectorAll("".button"")
+    
+    modalBtns.forEach(function (btn) {
+        btn.onclick = function () {
+            const modal = btn.getAttribute('data-modal');
+            document.getElementById(modal).style.display = ""block"";
+        }
+    });
+    
+    const closeBtns = document.querySelectorAll("".close"");
+    
+    closeBtns.forEach(function (btn) {
+        btn.onclick = function () {
+            const modal = btn.closest('.modal');
+    
+            // Find all iframes inside the modal and reset their src attribute to stop the videos
+            const iframes = modal.querySelectorAll('iframe');
+            iframes.forEach(function (iframe) {
+                iframe.src = iframe.src;
+            });
+            modal.style.display = ""none"";
+        }
+    });",Playful-Mud-1639,1hgwtbh,https://reddit.com/r/webdev/comments/1hgwtbh/how_do_i_pause_a_lazyloaded_youtube_iframe_when/,https://www.reddit.com/r/webdev/comments/1hgwtbh/how_do_i_pause_a_lazyloaded_youtube_iframe_when/,2024-12-18 07:52:24,5,0.86,5,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1hgwtbh
+webdev,ISO advice on hosting + security/auth?,"I'm looking for some advice on hosting + authentication schemes for some really simple hobby use web services.
+
+Like dumb example, but say I wanted to make my own python-flask based ""web app"" with an API to control my own ""IoT"" light switch via a central server. Maybe an Android app that can talk to that server, maybe a simple HTML+JS browser UI, and a Linux box (raspberry pi for example) to serve as the IoT ""thing"".
+
+I have enough programming experience in web front-end, backend, app development, and embedded devices to pull all that off from various professional work over the years. Like honestly, I think I could implement *most* of the business logic for it in a day or two if I were to just run it all unencrypted and unauthenticated on a local subnet.  
+
+However... my big knowledge gap is that I have no clue where to start if I want said central server to live in the ""cloud"", or make it reasonably secure. Those have always been delegated as someone else's problem.
+
+Are VPS'es still a good option for something like this? If so, what are some cheap-ish ones for low bandwidth/low storage/low ram applications?
+
+What do I need to have functional HTTPS/TLS without needing to screw around with installing self-signed certs on every client?
+
+And what are some good, proven https client auth schemes that are easy to run on top of all this? Any good all-in-one solutions that could support mobile apps, web clients, and local CLI / headless clients (more like an API key, GitHub PATs, etc), and integrate relatively painless with popular Python web frameworks on the backend?
+
+Anything else I should be aware of?
+
+Also to be clear, not necessarily looking for existing complete solutions for IoT service hosting. Just trying to give an example of the scale/complexity of the type of project I want to build.  
+
+DON'T need:
+- complex disturbuted data services,
+- load balancing, 
+- CDNs, 
+- cloud based ML training or execution, 
+- support for thousands of users, 
+- feature rich CMS, etc.
+- Automagic scalability that hits you with crazy bills if something you make accidentally goes viral... like if I exceed my compute or bandwidth caps, I'd prefer to just shut it off for the month and take it as a lesson learned to use resources more effeciently.
+
+DO want:
+- A Linux environment where I can run whatever lightweight server I want
+- A reasonable level of security to protect stuff I'd rather not have unauthorized users messing with
+- A persistent domain name and/or IP address.
+- Something in the ballpark of 1GB RAM, 20GB storage (including Linux system partition/install) is likely more than enough.
+- SSH-only access + whatever I might need to restart the whole system is fine.
+
+I'd be tempting to try dynamic DNS and a self-hosted mini-PC/raspberry pi sort of thing, but would really rather not mess with sorting out what my ISP allows here, screwing around with router config,  or have uptime impacted by my relatively frequent ISP outages.
+
+Any advice from real web devs appreciated!
+
+And yes, I know this all a few Google searches away, but I'm sick of scrolling through all AI generated ""review"" articles lol.",Elephant-Opening,1hgny61,https://reddit.com/r/webdev/comments/1hgny61/iso_advice_on_hosting_securityauth/,https://www.reddit.com/r/webdev/comments/1hgny61/iso_advice_on_hosting_securityauth/,2024-12-17 23:26:20,3,0.81,3,0,8,0,0,False,False,True,False,False,,self,t3_1hgny61
+webdev,API request logging built for privacy and performance,,itssimon86,1hgziga,https://reddit.com/r/webdev/comments/1hgziga/api_request_logging_built_for_privacy_and/,https://apitally.io/blog/request-log-release-announcement,2024-12-18 11:22:08,2,1.0,2,0,3,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/B-P16rEFLiCqYTo4vZJFUHaMHYkE5gsOVvMMumGY8dc.jpg,t3_1hgziga
+webdev,Need some UX suggestions for my video editor app that generates ffmpeg commands,"I have created a video editor app that generates ffmpeg commands. Now i want to add few more things like voice recording and video from camera. Since i am generating ffmpeg commands, i need to provide users with the recorded audio, video but that has a real potential to confuse users. Also it would require editing of commands based on where user decided to save the vido/audio. For now i have solved this problem for drawing over video by appending entire image to commandline but that leads to very large commandline and is not ideal. Any suggestions would be great.",pdycnbl,1hgy4zp,https://reddit.com/r/webdev/comments/1hgy4zp/need_some_ux_suggestions_for_my_video_editor_app/,https://www.reddit.com/r/webdev/comments/1hgy4zp/need_some_ux_suggestions_for_my_video_editor_app/,2024-12-18 09:37:27,2,0.75,2,0,2,0,0,False,False,True,False,False,,self,t3_1hgy4zp
+webdev,Making Chrome QUICer,,feross,1hggygn,https://reddit.com/r/webdev/comments/1hggygn/making_chrome_quicer/,https://blog.chromium.org/2024/12/making-chrome-quicer.html,2024-12-17 18:16:41,2,0.67,2,0,0,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/bvYE5Ge_4t28UeRoN4MX21dJY-U8xAf7EXczV4BaW1k.jpg,t3_1hggygn
+webdev,Open source job board aggregator,"Hey everyone, I built First2Apply, an open-source job board aggregator that helps users find and apply for jobs faster by pulling listings from multiple sources like LinkedIn, Indeed, Dice, and 10+ other job boards.
+
+Why I built this:
+
+When I was job hunting, I found it time-consuming to track jobs across multiple platforms. So I created a tool that centralizes job listings in one place and prioritizes speed — getting job alerts quickly can make a real difference in the hiring process.
+
+How it works:
+
+* scrapes jobs from major job boards
+* diffs the list of new found jobs with the ones already ""seen""
+* (optionally) filters out jobs based on user input (using ChatGPT)
+* sends an alert if there are any new jobs for the user to check out
+
+First2Apply is built with Electron, Supabase, TypeScript, React, Tailwind, Shadcn. You can check out the code here: [https://github.com/beastx-ro/first2apply](https://github.com/beastx-ro/first2apply)",drakedemon,1hgf25w,https://reddit.com/r/webdev/comments/1hgf25w/open_source_job_board_aggregator/,https://www.reddit.com/r/webdev/comments/1hgf25w/open_source_job_board_aggregator/,2024-12-17 16:56:15,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1hgf25w
+webdev,An end-to-end data pipeline tool in Go called Bruin ,"Hi all, I have been pretty frustrated with how I had to bring together bunch of different tools together, so I built a CLI tool that brings together data ingestion, data transformation using SQL and Python and data quality in a single tool called Bruin:
+
+[https://github.com/bruin-data/bruin](https://github.com/bruin-data/bruin)
+
+Bruin is written in Golang, and has quite a few features that makes it a daily driver:
+
+* it can ingest data from many different sources using ingestr
+* it can run SQL &amp; Python transformations with built-in materialization &amp; Jinja templating
+* it runs Python fully locally using the amazing uv, setting up isolated environments locally, mix and match Python versions even within the same pipeline
+* it can run data quality checks against the data assets
+* it has an open-source VS Code Extension that can do things like syntax highlighting, lineage, and more.
+
+We had a small pool of beta testers for quite some time and I am really excited to launch Bruin CLI to the rest of the world and get feedback from you all. I know it is not often to build data tooling in Go but I believe we found ourselves in a nice spot in terms of features, speed, and stability.
+
+Looking forward to hearing your feedback!",karakanb,1hgdjk1,https://reddit.com/r/webdev/comments/1hgdjk1/an_endtoend_data_pipeline_tool_in_go_called_bruin/,https://www.reddit.com/r/webdev/comments/1hgdjk1/an_endtoend_data_pipeline_tool_in_go_called_bruin/,2024-12-17 15:49:47,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1hgdjk1
+webdev,Need help with displaying rows of text (repost cause I didn't add the text),"https://preview.redd.it/0157ggt9em7e1.png?width=887&amp;format=png&amp;auto=webp&amp;s=59e01ab94bcd4cf2d6d119fa21fa7b563b139b37
+
+My previous post didn't include the text (I switched from the Text to the Image tab while making a new post without checking to readd the text) so I'm making a new one to fix it! 
+
+Sorry for all the inconveniences that I've caused!
+
+I'm currently making a typing test website.
+
+The words to be typed are formatted as a string of words in a box. I want to it so that when the user finishes typing a line, that line moves up, leaving space for the next lines.
+
+I am currently using -webkit-line-clamp and overflow: hidden to force only 3 lines of text to show but I don't know how to detect when the user finishes typing a line.
+
+I am thinking about whenever the user submits a word with ""Spacebar"", I check if the next word can fit into current line; if not, do the logic.
+
+But I don't know where to start tackling this technically.
+
+Any help is appreciated!
+
+Again sorry y'all and thank you for reading!",PotHeadCGV,1hh370e,https://reddit.com/r/webdev/comments/1hh370e/need_help_with_displaying_rows_of_text_repost/,https://www.reddit.com/r/webdev/comments/1hh370e/need_help_with_displaying_rows_of_text_repost/,2024-12-18 14:50:33,2,1.0,2,0,0,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/8u7cVOdwxoSrinnqnaGe8Q9ehXuQtE5zT6c5DuoywFg.jpg,t3_1hh370e
+webdev,"Do you prefer to buy a web domain as a physical person (i.e., name.surname@gmail.com with a private card) or a business (i.e., name.surname@business.com with a business card)?","Hey, I'm staring a business and I'm wondering if is it better to buy a domain as a physical person and keep it there or rather buy it through the company card and have the business own it? What are the pros and cons of the approaches from your perspective and how do you do it?",canarysplit,1hh1t12,https://reddit.com/r/webdev/comments/1hh1t12/do_you_prefer_to_buy_a_web_domain_as_a_physical/,https://www.reddit.com/r/webdev/comments/1hh1t12/do_you_prefer_to_buy_a_web_domain_as_a_physical/,2024-12-18 13:40:45,2,0.58,2,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1hh1t12
+webdev,Generation and usage of API keys,"Hi,
+
+I'm building an application where I have users purchase access to my API. The plan is to hand out API-keys to the users, the API-keys will have scope a reduced scope to only allow the API key to access certain API routes depending on what level they have purchases for example:
+
+- free
+- basic
+- pro
+
+I'm currently on AWS, and I haven't found a good service to handle API-keys. I would love to use a 3rd party solution for API-key management. The alternative is to build something myself and use a lambda authorizer in the API-gateway to query a database and look up the permissions for the API-key.
+
+Thankful for any recommendation :)",muffa,1hh1rqc,https://reddit.com/r/webdev/comments/1hh1rqc/generation_and_usage_of_api_keys/,https://www.reddit.com/r/webdev/comments/1hh1rqc/generation_and_usage_of_api_keys/,2024-12-18 13:38:48,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1hh1rqc
+webdev,Which browser(s) are getting this SVG behavior wrong?,"I have a StackOverflow question with a reproduction case at [Different results based on browser when drawing an SVG Icon](https://stackoverflow.com/questions/79272220/different-results-based-on-browser-when-drawing-an-svg-icon?noredirect=1#comment139813434_79272220)
+
+
+Basically, when an SVG doesn't have a defined width and height, it will be drawn differently based on browser.
+
+
+I reported this to OpenLayers ( [#16485](https://github.com/openlayers/openlayers/issues/16485) ) and they responded:
+
+
+
+&gt; The svg is missing width and height properties. Browsers handle things differently when those are missing. This is not something we can influence in the library.
+
+
+
+I am curious if a bug report should be filed or if browsers are free to implement this behavior anyway they like. If there is a specification for the behavior of browsers, I would be curious to know where that can be found.",Obvious-Ebb-7780,1hh0noh,https://reddit.com/r/webdev/comments/1hh0noh/which_browsers_are_getting_this_svg_behavior_wrong/,https://www.reddit.com/r/webdev/comments/1hh0noh/which_browsers_are_getting_this_svg_behavior_wrong/,2024-12-18 12:37:21,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1hh0noh
+webdev,Title and subtitle among the most clicked elements,"[Clarity screenshot](https://preview.redd.it/3n9tah9kil7e1.png?width=1402&amp;format=png&amp;auto=webp&amp;s=b5b9a267c2785854b0c636e3c9ee6dc3e75231ff)
+
+I have recently installed Clarity to better monitor what is happening on this site.
+
+But is it normal that the title and subtitle in the hero section are among the most clicked elements?
+
+Does this happen to you too?
+
+It doesn't seem to be common practice to put a link on these elements... or am I wrong?",TheViolaCode,1hgzytk,https://reddit.com/r/webdev/comments/1hgzytk/title_and_subtitle_among_the_most_clicked_elements/,https://www.reddit.com/r/webdev/comments/1hgzytk/title_and_subtitle_among_the_most_clicked_elements/,2024-12-18 11:54:58,2,1.0,2,0,4,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/x2uZnUOvu9SI267N32XWT4zA6BzCTX0qIgbdDBNiA_c.jpg,t3_1hgzytk
+webdev,HCL DX - first time hearing about it,"We have a client who wants his website to be developed on HCL DX. Honestly, I've never heard of it. 
+
+I'd like to know if anybody has any experience with this platform and your thoughts on it. We usually develop in WordPress or Laravel...",smalltownsuicidalkid,1hgzkis,https://reddit.com/r/webdev/comments/1hgzkis/hcl_dx_first_time_hearing_about_it/,https://www.reddit.com/r/webdev/comments/1hgzkis/hcl_dx_first_time_hearing_about_it/,2024-12-18 11:26:37,1,1.0,1,0,2,0,0,False,False,True,False,False,Question,self,t3_1hgzkis
+webdev,Easiest deployment on a Linux VPS for someone with a Windows background,"I have a long experience as a web dev for Windows Server, MSSQL, etc. I've developed my first Node/Express/PostgreSQL project on my local Windows desktop machine, and I now want to deploy it on a Linux VPS.
+
+What distribution do you recommend to make the transition easy for me? Ubuntu with Linux Mint? I assume I will be doing the equivalent of Remote Desktop into the VPS? Web server? Any tips you can give me?",BjornMoren,1hgzff8,https://reddit.com/r/webdev/comments/1hgzff8/easiest_deployment_on_a_linux_vps_for_someone/,https://www.reddit.com/r/webdev/comments/1hgzff8/easiest_deployment_on_a_linux_vps_for_someone/,2024-12-18 11:15:37,1,0.67,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hgzff8
+webdev,AWS side project(s) monorepo architecture,"I'm an experienced developer (not web) looking to develop some side projects, but I need some help with architecture:
+
+I will have several small sites, for a variety of small (disparate) business ideas. I have no idea if any of them will get traffic, but I'm assuming that some of them will. I will eventually need the ability to take payment, or make ad revenue. Some of the sites will be static, but others will have some basic user sessions and the ability for users to trigger jobs. Some of them will have somewhat complex data visualisations.
+
+So far I have built a localhost hello world PoC. The frontend is vite, react, tailwind, shadcn, typescript. The backend is go with echo. I'm using open api codegen to generate both redux toolkit queries and the golang echo endpoints, from yaml. It seems like a balance between a lean and powerful setup.
+
+My next step is to get cloud hello world: I want to deploy to AWS. I've used AWS a bit but I'm far from an expert.
+
+What I would like to know is a suitable architecture for my needs. One that supports this zoo of small sites, with as small amount of cost as possible (time and money) as I will be the sole developer and I have very limited time. I want to be able to immediately set up some visibility and analytics, so that I can see traffic, gather feedback, and debug problems. Moreover, I want to get s**t done, and to easily be able to pick up the project in months/years time without being stuck in upgrade and versioning hell (and to easily remember what I was doing). I would prefer IaC and to avoid clickops or manual steps.
+
+Please suggest me an architecture!
+
+~~~~~~
+
+PS
+
+I have asked GPT and I got alternative suggestions:
+
+1. Single EC2 instance with docker compose for each site, and nginx reverse proxy. Use Route 53 for domain routing. Certbot for certificates. Deploy manually or with a github action to ssh into the box.
+
+2. Serve frontends from Cloudfront pointing to S3 buckets containing the site. API Gateway + Lambda for backend. Dynamo/S3 for storage. Cognito JWT for authentication. Lambda + EventBridge/SQS for jobs. CDK or Terraform. Cloudwatch and Cloudfront logs.
+
+~~~~~~
+
+I would also appreciate tips on aws account/credential management and how to make my dev flow as efficient as possible. I use 1Password already, I'm familiar with github actions etc
+
+
+Thank you
+
+(XPOST r/aws)",higglepigglewiggle,1hgn045,https://reddit.com/r/webdev/comments/1hgn045/aws_side_projects_monorepo_architecture/,https://www.reddit.com/r/webdev/comments/1hgn045/aws_side_projects_monorepo_architecture/,2024-12-17 22:42:41,1,0.67,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1hgn045
+webdev,Scalable Membership Management and SSO Solution for a Multi-Platform Cannabis Community?,"Hello all of you devs more experienced than me,  
+I’m building a membership-based community project that integrates various online platforms, including:
+
+* A WordPress-based website (currently managing memberships).
+* A Discourse-powered forum.
+* Additional modules like an interactive map, blog a collaborative jukebox, dating module, and AI tools.
+
+Right now, the site is running on WordPress with a free membership plugin (integrated with PayPal) and is also the SSO provider for Discourse. While this works for now, I’m concerned about scalability and integrating future modules that may use different technologies.
+
+My main requirements are:
+
+1. Easy integration with SSO across multiple platforms.
+2. Flexible membership management.
+3. Support for recurring payments (preferably PayPal).
+4. Role-based access for features tied to membership tiers.
+
+Should I stick with WordPress for memberships and SSO, or should I move to a dedicated solution? Are there better approaches I haven’t considered?
+
+Right now, the project is in the earliest stage of designing and prototyping, so I'm happy to hear your low-budget suggestions. But I'm well aware nothing's free and as soon there will be an income, I can move to more robust, scalable solutions, so I'm happy to hear them too!
+
+Thanks in advance!",alphamonachus,1hggr34,https://reddit.com/r/webdev/comments/1hggr34/scalable_membership_management_and_sso_solution/,https://www.reddit.com/r/webdev/comments/1hggr34/scalable_membership_management_and_sso_solution/,2024-12-17 18:07:54,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hggr34
+webdev,Dashboard and sub-apps question,"Hello there, I'd like to ask you for some advice.
+
+\-----------------------------------------------------------------------------------------------------------------------------------
+
+First some intro:
+
+We have a big Jakarte EE application, that is composed of different smaller applications or modules.  
+These modules are built of backend (Java) and SPA counterparts (Svelte), both in one WAR that is redeployable as a single piece.
+
+In our current solution, we have one Dashboard application, which handles SSO authentication and building menu according to user's privileges.  
+This application renders the frame of application (menu and header) and inside it is iframe, which points to the selected application from menu.
+
+All this works nice, but we've been told that iframes are bad practice and we should get rid of them.
+
+\-----------------------------------------------------------------------------------------------------------------------------------
+
+So here goes my question 1:
+
+Could someone recommend me a possible non-hacky solution, that could preserve our architecture of sub-apps being consisting of backend + SPA counterparts, deployable as one piece. And one Dashboard application that would defacto handle SSO authentication and routing?
+
+\-----------------------------------------------------------------------------------------------------------------------------------
+
+Question 2:
+
+What is a industry standard of handling situations like these?  
+Is it monolithic SSR frontend server kept standalone alongside backend that provides it with data?
+
+\-----------------------------------------------------------------------------------------------------------------------------------
+
+Question 3:
+
+Are iframes actually considered bad practice in this usecase?",fanczee,1hh1yly,https://reddit.com/r/webdev/comments/1hh1yly/dashboard_and_subapps_question/,https://www.reddit.com/r/webdev/comments/1hh1yly/dashboard_and_subapps_question/,2024-12-18 13:49:15,1,0.67,1,0,0,0,0,False,False,True,False,False,,self,t3_1hh1yly
+webdev,How to implement client-side encrypted data for groups?,"I would like to implement something where people can store data and files in a database from a web app.
+However, the data should be stored encrypted, yet it should be possible for multiple people to access it.
+
+
+So if Alice creates or modifies data in the application, Bob should also be able to read and modify it if they're working in the same team.
+
+However, an attacker who got access to a database dump should not be able to read it.
+
+I assume that this is something one would need to use the [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Crypto)?
+
+Also would I need to store the encrypted data separately then for each user?
+So would a team of 10 need to have it stored 10 times?
+
+And how would key handling (i.e. revoking) be ensured?
+
+Or is there a framework / library that helps with that?
+
+Or am I thinking into the wrong direction here?",rrrmmmrrrmmm,1hgzfsw,https://reddit.com/r/webdev/comments/1hgzfsw/how_to_implement_clientside_encrypted_data_for/,https://www.reddit.com/r/webdev/comments/1hgzfsw/how_to_implement_clientside_encrypted_data_for/,2024-12-18 11:16:25,0,0.5,0,0,2,0,0,False,False,True,False,False,Question,self,t3_1hgzfsw
+webdev,"No framework, modern web app expereince","Hey, so Ive been avoiding the big stuff like React, Vue and Angular for years. I did do course on them, made simple hobby projects, but ive always sticked to vanilla. I believe that modern JS allows for easy maintenance of web apps without too much overhead.  
+It surely is something true about ""when you dont use a framework, you create one yourself, ofter worse"". But if you have a big picture of the project, you can plan ahead an actually get the stuff done.
+
+How I do it:  
+  
+**API &amp; Store management**   
+We decided with backend on api endpoints and openapi schemas. I then make a universal function for api calls, that uses fetch() and saves/appends/overwrites the response objects to the global Store object. This way, I can access the database data when i need them, and update them asynchronously as well. When needed, i can remove stuff from Store or append them. I can decide if its plain reflection of endpoints or with something added.
+
+**Build process**  
+I only install node modules i really need (like sass or minify) and then in package.json, i just specify the calls based on the environment:
+
+    ""scripts"": {
+      ""dev"": ""sh code/build process_dev"",
+      ""stage"": ""sh code/build process_stage"",
+      ""production"": ""sh code/build process_production""
+    }
+
+where build being the shell script with simple functions either calling node modules or simple coreutils programs for copying etc. like so:
+
+    compile() {
+      sass ./sass/style.scss:./public/na.css
+    }
+    
+    minifyCSS() {
+      cleancss -o ./public/na.min.css ./public/na.css
+    }
+
+**Router**  
+Very simple use of history api, called on init and on calls when needed
+
+
+
+Do you approach it like this as well? What you use, whats your process? Lets talk! PS: im not convincing anyone, just offering a fresh POV maybe",librewolf,1hgygws,https://reddit.com/r/webdev/comments/1hgygws/no_framework_modern_web_app_expereince/,https://www.reddit.com/r/webdev/comments/1hgygws/no_framework_modern_web_app_expereince/,2024-12-18 10:03:33,1,0.56,1,0,8,0,0,False,False,True,False,False,Discussion,self,t3_1hgygws
+webdev,Need Help,"I have mentioned margin as 0, theres no white line in the image but still the browser is showing a white line on the left
+
+  
+Edit: Just chnaged the Scale from 5 to 5.1 and it worked 
+
+https://preview.redd.it/9nlo8i40ek7e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=fde04eb826de7e4ed6c3f510ac4113852c866939
+
+https://preview.redd.it/dwzw2d10ek7e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=4761e777045ac3b8017f8cf78d7c58c913fad094
+
+https://preview.redd.it/gz2dtj40ek7e1.png?width=860&amp;format=png&amp;auto=webp&amp;s=a623850cc0b578bbc042cda156837ae2e5b32dcf
+
+https://preview.redd.it/0r3hyd10ek7e1.png?width=445&amp;format=png&amp;auto=webp&amp;s=e393aedc27b07b9a759b9684676a27c4585e2771
+
+https://preview.redd.it/cjfayj40ek7e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=ad942bbaa7098844b73fd776be43dddb52e336d2",InternationalQuail50,1hgwxbl,https://reddit.com/r/webdev/comments/1hgwxbl/need_help/,https://www.reddit.com/r/webdev/comments/1hgwxbl/need_help/,2024-12-18 08:00:51,1,0.57,1,0,18,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/F9ZecaKB8PNW6O_91DZVKLfxQ8KcXIOP0mYSWXoX9MQ.jpg,t3_1hgwxbl
+webdev,How To Deploy PERN Website?,"Hi, I'm making a basic full stack using PostgreSQL, Express, React and Node.
+
+I have a client folder and server folder in my GitHub repo.
+
+How do I got about deploying this on the web?
+Previously, l've made websites using React and I could just connect my GitHub using something like Netlify/Vercel.
+
+I've seen people use Railway, but it would be really helpful if someone provides a resource or a tutorial to specifically deploy PERN apps and how do Environment Variables work?
+",kabirthegreat,1hgmvo3,https://reddit.com/r/webdev/comments/1hgmvo3/how_to_deploy_pern_website/,https://www.reddit.com/r/webdev/comments/1hgmvo3/how_to_deploy_pern_website/,2024-12-17 22:37:16,0,0.5,0,0,3,0,0,False,False,True,False,False,,self,t3_1hgmvo3
+webdev,Discussing ensemble a11y testing ,"Hello guys :3
+I am doing scientific research on the topic a11y in web resources. User Testing is the gold standard but cost ineffective.
+
+Automated a11y testing with one tool is bad as it only finds 1/3 of the issues (in comparison to manual testing). This number can be raised by a few percentiles by doing ensemble testing. This means that different automated a11y tools are used to evaluate a target.
+
+I found a library *testaro* that tackles this use case. The problem for me is that I can't comprehend the documentation for my use case. There are no example of basic use cases as well. I think the library has potential but it is not accessible.
+
+Has anyone here heard of this library and can explain? What are your testing strategies beside manual testing?",Altruistic-Panic-271,1hgms3u,https://reddit.com/r/webdev/comments/1hgms3u/discussing_ensemble_a11y_testing/,https://www.reddit.com/r/webdev/comments/1hgms3u/discussing_ensemble_a11y_testing/,2024-12-17 22:32:47,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hgms3u
+webdev,Building a SaaS. Any feedback?,"Hello everyone. I'm willing to begin developing a SaaS along with a friend. It will be app with 2 viewpoints :
+
+1. As a handyman - someone who can do plumbing, gardening, cleaning, sofa renovations, etc.
+2. As a client - someone who can't handle gardening due to old age, or anything stuff like that.
+
+The handyman will have a profile with reviews, pictures, portfolio, history, prices, etc.  
+Also the client will have some kind of profile but i'm not sure about details yet.
+
+I also wanna develop this app while posting updates about it so that we can get feedback from the public so that we can improve it.  
+What do you guys think about it?
+
+Hi everyone,
+
+My friend and I are starting work on a **SaaS platform** to connect **handymen** with clients who need their services.
+
+# Key Features
+
+* **Handymen**: Create profiles with photos, reviews, portfolios, pricing, and availability. Manage bookings and tasks easily.
+* **Clients**: Post service requests, browse profiles, and hire based on location, skills, or reviews. Payments will be secure and straightforward.
+
+We plan to share updates on the app’s development and gather feedback from the public to improve it as we go.
+
+The goal is to make it easy for people to find reliable help and for handymen to grow their business.
+
+We’d love to hear your thoughts—what features would make this app useful to you? Also, do you spot any critical issues that are very important to solve from the beggining?",Bobitz_ElProgrammer,1hgmq6x,https://reddit.com/r/webdev/comments/1hgmq6x/building_a_saas_any_feedback/,https://www.reddit.com/r/webdev/comments/1hgmq6x/building_a_saas_any_feedback/,2024-12-17 22:30:24,0,0.5,0,0,6,0,0,False,False,True,False,False,Discussion,self,t3_1hgmq6x
+webdev,Advice on how to build a review website,"Hello,
+
+I am looking to build a website that allows a professional to create a profile and enable customers to submit reviews. It is not for businesses but for professional services (Lawyers, travel agents, therapists, etc). Similar to [Vacation.com](https://www.vacation.com/), or [Avvo.com](https://www.avvo.com/).  
+
+Does anyone know the best way to build something like this?
+
+Would you be able to do it on WordPress, Wix, Squarespace, etc.? Or would a custom website built with (React, HTML, Bootstrap, etc) be better?
+
+Are there any open-source projects like this?
+
+Thanks. ",CapablePassenger9283,1hggjtb,https://reddit.com/r/webdev/comments/1hggjtb/advice_on_how_to_build_a_review_website/,https://www.reddit.com/r/webdev/comments/1hggjtb/advice_on_how_to_build_a_review_website/,2024-12-17 17:59:25,0,0.5,0,0,2,0,0,False,False,True,False,False,Question,self,t3_1hggjtb
+webdev,"Hosting Strategy for Full Stack SaaS Project (React, Django, PostgreSQL, Static Files)","Hi everyone! I’m working on my first large-scale project – a SaaS app with:
+
+- React
+- Django
+- PostgreSQL
+
+I’m really confused about the best hosting strategy. Should I:
+
+1. **Host everything** (frontend, backend, database, static files) on a **single VPS** managing it using Nginx/Apache?
+2. **Split** them up, e.g.,
+    - Frontend → Netlify/Vercel
+    - Backend → VPS (DigitalOcean/Linode/other)
+    - Database → Managed service (e.g., RDS, Supabase)
+    - Static files → AWS S3 or similar
+3. or Combine parts of both approaches (like keeping frontend separate and the rest on one VPS)?
+
+For those with experience hosting full-stack apps, what worked best for you?
+
+- What **platforms/services** would you **recommend** for each part of the stack?
+- Any **advice** for **scaling** or avoiding pitfalls would be awesome too.
+
+I’m trying to keep **costs low** initially but ensure it’s **scalable**. My friend is handling marketing, so I want the tech side to be smooth.
+
+Thanks in advance for your suggestions!",an4s_911,1hgg1lz,https://reddit.com/r/webdev/comments/1hgg1lz/hosting_strategy_for_full_stack_saas_project/,https://www.reddit.com/r/webdev/comments/1hgg1lz/hosting_strategy_for_full_stack_saas_project/,2024-12-17 17:37:25,0,0.5,0,0,4,0,0,False,False,True,False,False,Question,self,t3_1hgg1lz
+webdev,Looking for help moving webapp from dev environment to production build with AI tools ,"Hey folks - I see tools like cursor and v0 discussed here sometimes and figure maybe someone here would be willing to help... I consistently have issues going from dev to build environment for the webapps I build and am looking for tips as to how to better set myself up for sucess. I am not a developer but can understand enough about code typically. When I get to the ""npm run build"" stage, despite having dev functionality that works well ... it seems to cyclically generate errors [like these](https://imgur.com/a/Mk4sr3d).
+
+• I’ve tried ignoring ESLint and other common troubleshooting steps recommended by AI, but it feels like I hit the same types of issues repeatedly.
+
+• While I *eventually* get through by brute-forcing fixes, the process is tedious and feels unsustainable.
+
+**My Workflow**:
+
+1. **Design/Compose**: I use [V0.dev](http://v0.dev/) to generate UI components quickly based on my needs.
+2. **Add Functionality**: I move into **Cursor** to layer in functionality (WebSocket logic, state management, etc.).
+3. **Local Testing**: Everything works perfectly when running npm run dev on localhost.
+4. **Build Problems**: When I attempt npm run build or deploy to Vercel, I consistently run into build errors that I can’t resolve quickly.
+
+**Dev Stack for this app**:
+
+• TypeScript
+
+• React (UI)
+
+• Tailwind CSS (styling)
+
+• WebSocket (real-time communication)
+
+• A UI Component Library (e.g., Radix UI, Headless UI)
+
+***→ Can anyone provide any thoughts or advise as to how to get through these errors (which I'm stuck on now) and/or set myself up with other tools or templates that can help me avoid these issues? Thanks in advance!***
+
+Upvote1Downvote  
+",thegreatredbeard,1hgnftu,https://reddit.com/r/webdev/comments/1hgnftu/looking_for_help_moving_webapp_from_dev/,https://www.reddit.com/r/webdev/comments/1hgnftu/looking_for_help_moving_webapp_from_dev/,2024-12-17 23:02:26,0,0.4,0,0,1,0,0,False,False,True,False,False,Question,self,t3_1hgnftu
+webdev,Looking for a possible cost and timeframe I can expect to get a website with maybe some advanced features done,"So I need a website built. Typical homepage, about us etc. but I also need a registration system for users to register in 1 of 3 categories- Suppliers, Marketers and Customers. Each account will then be tagged as such but what they can do will be same.
+
+What might be the cost I can expect for this?
+
+And if I wanted to add social media-like feed and posting options for users, how much will it add to the cost?
+
+Thanks in advance",EnGulfed02,1hgmyfn,https://reddit.com/r/webdev/comments/1hgmyfn/looking_for_a_possible_cost_and_timeframe_i_can/,https://www.reddit.com/r/webdev/comments/1hgmyfn/looking_for_a_possible_cost_and_timeframe_i_can/,2024-12-17 22:40:40,0,0.42,0,0,6,0,0,False,False,True,False,False,Question,self,t3_1hgmyfn
+webdev,"Group todo, calendar &amp; shopping list app. SaaS idea feedback","Hi everyone,  
+My friend and I are starting work on a **SaaS platform** designed to help people stay organized and connected with those they share their lives with—partners, roommates, friends, or family.
+
+# Key Features
+
+* **Shared To-Do Lists**: Create and manage tasks collaboratively, so everyone knows what needs to be done.
+* **Shopping Lists**: Add items to shared lists, making grocery shopping and planning easier.
+* **Shared Calendar**: Check each other’s schedules to stay in sync with appointments, plans, or events.
+* **Event Planning**: Create and manage events that everyone in the group can see and RSVP to.
+
+The goal is to simplify communication and planning by keeping everything in one place. For instance, you could check your girlfriend's schedule, add groceries to a shared list, or create a plan for an upcoming trip.
+
+We also plan to share updates on the app’s development and gather feedback from the public to make it as useful as possible.
+
+# What We’d Love to Hear
+
+* What features would make this app a must-have for you?
+* Do you spot any potential challenges or important problems we should solve early on?",Bobitz_ElProgrammer,1hgnh3w,https://reddit.com/r/webdev/comments/1hgnh3w/group_todo_calendar_shopping_list_app_saas_idea/,https://www.reddit.com/r/webdev/comments/1hgnh3w/group_todo_calendar_shopping_list_app_saas_idea/,2024-12-17 23:04:03,0,0.25,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hgnh3w
+webdev,Hiding a specific piece of text within a webpage from Google search,"Hi, I have a web page which includes a piece of text that I do not want to show up if somebody Googles it. The piece of text is quite specific and after checking it is basically the only result when Google searching this specific piece of text. Is there a piece of code which I could surround the text with to make this piece of text immune to a Google search? Or is there any other possible solution?
+
+  
+Any help would be incredible. Thanks!",eggandspoonracer,1hgmo9p,https://reddit.com/r/webdev/comments/1hgmo9p/hiding_a_specific_piece_of_text_within_a_webpage/,https://www.reddit.com/r/webdev/comments/1hgmo9p/hiding_a_specific_piece_of_text_within_a_webpage/,2024-12-17 22:28:00,0,0.44,0,0,7,0,0,False,False,True,False,False,,self,t3_1hgmo9p
+webdev,Fasted way to find a freelancing?,"5 years of experience in the army, some been with flutter, some more backend, and sometimes even developing drivers.
+
+I've got literally 0 projects to show since they are all secretive.
+
+I am not able to join an actual job at the moment, and need the money asap.
+
+do you think it's possible to get projects as a freelancers without proof of past experience?",MasterMake,1hgk19s,https://reddit.com/r/webdev/comments/1hgk19s/fasted_way_to_find_a_freelancing/,https://www.reddit.com/r/webdev/comments/1hgk19s/fasted_way_to_find_a_freelancing/,2024-12-17 20:30:12,0,0.33,0,0,4,0,0,False,False,True,False,False,,self,t3_1hgk19s
+webdev,Created yet another cover letter generator,"Hey all!
+
+I am a full stack developer from Berlin. When applying to jobs, I found myself chatting with ChatGPT to help draft a cover letter, which became tedious, and took about 15 mins per cover letter.
+
+I ended up creating a cover letter generator ([CoverCraft AI](https://covercraftai.com/)), which I published as open source to GitHub to show off my skills. It's free to use and has been really helpful for me. It now takes less than 5 mins to create a personalized cover letter and immediately download a PDF.
+
+Do check it out! Looking forward to feedback :)
+
+Cheers,  
+Shreyans",shreyansqt,1hgemqt,https://reddit.com/r/webdev/comments/1hgemqt/created_yet_another_cover_letter_generator/,https://www.reddit.com/r/webdev/comments/1hgemqt/created_yet_another_cover_letter_generator/,2024-12-17 16:37:55,0,0.3,0,0,5,0,0,False,False,True,False,False,,self,t3_1hgemqt
+webdev,Reputable docker container brands?,"Hey, really new to docker, tried to learn it a few times but it never sticks. I'm trying to integrate it but I'm a little worried. What is a good reputable docker container maker to use? I was running node:18, alpine something, on a few of these Dockerfiles I made but when I popped one open in Docker Desktop there was so many different CVEs! 
+
+Any recommendations?
+
+  
+Right now I'm learning about build stages so I'm building my SvelteKit app in one phase and trying to push it to another container in another phase to make the container as tiny as possible! ",P-TownHero,1hgt562,https://reddit.com/r/webdev/comments/1hgt562/reputable_docker_container_brands/,https://www.reddit.com/r/webdev/comments/1hgt562/reputable_docker_container_brands/,2024-12-18 03:54:40,0,0.27,0,0,5,0,0,False,False,True,False,False,Question,self,t3_1hgt562
+webdev,Make secure connection ,"I have two domains, A and B.
+
+A is used as a client from browser, B is the API server, which it responds to all requests made by A. A is only an index.html.
+
+I want to make a secure connection between A and B, so that B can give responses only on A. I used AJAX, but is not much secure.
+
+How can I make this? I'm ready to change the server logic on B, based on Ajax (Node.js), if necessary.",Commercial_Hall8413,1hglxs0,https://reddit.com/r/webdev/comments/1hglxs0/make_secure_connection/,https://www.reddit.com/r/webdev/comments/1hglxs0/make_secure_connection/,2024-12-17 21:55:46,0,0.33,0,0,42,0,0,False,False,True,False,False,,self,t3_1hglxs0
+webdev,beginner php email submit form,,vredditr,1hgkf06,https://reddit.com/r/webdev/comments/1hgkf06/beginner_php_email_submit_form/,https://www.reddit.com/gallery/1hgkf06,2024-12-17 20:47:22,0,0.27,0,0,3,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/wO81GhoAwLIcTHRLHcS5SqT5q2cbONeiC2zEWYb0lKc.jpg,t3_1hgkf06
+webdev,Do y’all have permits. If so what do y’all have?,"I want to do everything legally for freelance. I’ve contacted my city’s council and got general information but was wondering if there is anything else besides a business permit, tax registration, liability insurance.",Ok_Custard8289,1hgka8w,https://reddit.com/r/webdev/comments/1hgka8w/do_yall_have_permits_if_so_what_do_yall_have/,https://www.reddit.com/r/webdev/comments/1hgka8w/do_yall_have_permits_if_so_what_do_yall_have/,2024-12-17 20:41:24,0,0.13,0,0,6,0,0,False,False,True,False,False,Question,self,t3_1hgka8w
+webdev,How much hours for how much payment if I'm a fresher?,How much do we get paid and how many hours do we need to work if I'm freelancing in web development and a fresher?,Autumn_Red_29,1hh2xbx,https://reddit.com/r/webdev/comments/1hh2xbx/how_much_hours_for_how_much_payment_if_im_a/,https://www.reddit.com/r/webdev/comments/1hh2xbx/how_much_hours_for_how_much_payment_if_im_a/,2024-12-18 14:37:26,0,0.15,0,0,16,0,0,False,False,True,False,False,,self,t3_1hh2xbx
+webdev,What is the best AI tool for coding?,"Hi, I am wondering what is the best AI tool right now to assist with your daily work as a developer?
+
+Thanks",InternetMedium4325,1hgq4kj,https://reddit.com/r/webdev/comments/1hgq4kj/what_is_the_best_ai_tool_for_coding/,https://www.reddit.com/r/webdev/comments/1hgq4kj/what_is_the_best_ai_tool_for_coding/,2024-12-18 01:13:28,0,0.36,0,0,16,0,0,False,False,True,False,False,,self,t3_1hgq4kj
+webdev,Partner Developer Wanted – Equity Offered for App Project,"Hi all,
+
+I’m looking for a developer to help bring an my app idea to life in exchange for equity in the project. The app has the potential to grow in a niche that combines community-driven features and an interactive user experience in the movie/travel industry.
+
+What You’ll Do:
+	•	Build the app for iOS and Android (cross-platform). Including launching it on both platforms
+	•	Maintain and improve the app post-launch.
+	•	Collaborate on future features. Such as creating a website
+
+I have also completely designed the app to what I have in mind so if it isn’t your strong point it doesn’t matter
+
+This is a unique opportunity to be part of something with real potential. If you’re interested and want to hear more, drop me a message, and let’s chat!
+
+Looking forward to finding a partner!
+",AquaFresh3,1hgny6t,https://reddit.com/r/webdev/comments/1hgny6t/partner_developer_wanted_equity_offered_for_app/,https://www.reddit.com/r/webdev/comments/1hgny6t/partner_developer_wanted_equity_offered_for_app/,2024-12-17 23:26:21,0,0.19,0,0,7,0,0,False,False,True,False,False,,self,t3_1hgny6t

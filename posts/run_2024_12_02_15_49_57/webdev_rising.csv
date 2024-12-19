@@ -1,0 +1,203 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,why indie developers tend to prefer game startup rather than web startup?,"or at least seem to be...
+
+I think there are still many problems that intermediate computer science undergraduate students can provide solutions to. The public still can't develop web services on their own even if the problems are very easy to solve. And top level engineers spend the same amount of time doing much more value-added activities. In other words, this efficiency keeps some solvable problems unsolved.
+
+Is it because these niches aren't being exploited because they lack marketability and viability?
+
+Web service-based businesses are not easy, of course. And games are no different!",Gloomy-Status-9258,1h4xsan,https://reddit.com/r/webdev/comments/1h4xsan/why_indie_developers_tend_to_prefer_game_startup/,https://www.reddit.com/r/webdev/comments/1h4xsan/why_indie_developers_tend_to_prefer_game_startup/,2024-12-02 15:40:11,0,0.5,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h4xsan
+webdev,Am I an asshole for blocking my friend over a hobby web app project?,"TL;DR: my friend expects me to work hard on his hobby project, berated me for not complete the task he assigned so I was mad and block him.
+
+My friend is a senior dev (mainly focus on data engineering) who has worked for multiple large projects, for the last few months started a side project with his friend and invited me to join them. The project is a platform which helps connect designers and let them share their artworks and stuff.
+
+Having bad experiences working with multiple projects like this, where I spent LOTS of time to build apps for friends' ideas (which they promised will be very interesting and lucrative lol) but then received almost nothing in return; I hesitated at first but he said it's just a hobby project to hone our skills so just chilling around. No money involved and just focus on dev so no big issues it seems, I accepted his invitation.
+
+On boarding last weekend, was told about purposes of the project and team, but I didn't receive any overview of the app nor any doc as it hasnt been written yet. I was assigned a small task to begin with. Well it's cool, gotta dive in the code then, it's what I usually do anyway. Though I'm a self taught dev for 6+ years on and off, the project is mainly front-end in Nextjs using supabase for auth which I only have experience in less than 1 year, so took me sometimes to be familiar.
+
+HERE COMES THE PROBLEM. The app was built okay on my machine but whenever I changed a bit of the code, my WSL crashed entirely and took 2 3 minutes to restart. The codebase seems okay, but it's quite large so I reported to him it will take me sometimes to debug and to make it work properly. He was mildly frustrated and kept checking me every 3 4 hours if I have finished the task assigned yet as he and others don't have the problem as I do. It was on weekend so I was quite annoyed to be forced to work by him, as I have other stuffs to do with my family.
+
+Fast forward to monday, after spent 10+ hours debugging, going over the web app to test as well as the codebase and other tasks/ issues have done in the last few months, I noted down some points which can improve the app. I also noted that it's only my suggestions, not necessary to change anything now; and I will work on the task assigned today as I have fixed the crashing error.
+
+He called me over and was ULTRA mad and tell me:
+
+- I was too distracted and unprofessional. I MUST and CAN code the task because it's so easy according to him, no need the app to run to do it.
+
+- My coding skill is subpar as the 2 unpaid interns who havent graduated yet can do it easily. He even stressed that the university they come from is below-average.
+
+- Scolded me because I'm distracted so they may miss their deadline
+
+- My coding skill is ass so in the future he can't give me big task, and he MUST break it down to small ones for me to complete it
+
+- He said in a assumed circumstance, if one of his employees acts unprofessional like I did what will he feel about them (disappointed, angry etc.)
+
+- He told me to finished the task immediately, and he will check in after 0.5 hour. Or else he will be so mad.
+
+- Said that this project is good but no promise for economic value in the future; though I can add it to my portfolio for better recognition for future employer lol.
+
+- Said that he commited 4 5 hours per day for this project so he expects me to do the same
+
+After that I was so mad as I feel I do nothing wrong?; so after complete the task and a few hours I blocked him all around. One of my close friend told me I was too rushed and need to explain to him explicitly (which I did previously). So am I an asshole to block him too quickly like that?",kenvinams,1h4xct4,https://reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/,https://www.reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/,2024-12-02 15:21:32,4,0.64,4,0,28,0,0,False,False,True,False,False,Discussion,self,t3_1h4xct4
+webdev,"wtf is this? (glassdoor, window.WTF_IS_THIS, works on all pages)",,L8Figure,1h4r6w5,https://reddit.com/r/webdev/comments/1h4r6w5/wtf_is_this_glassdoor_windowwtf_is_this_works_on/,https://i.redd.it/eo8ewvyrle4e1.png,2024-12-02 09:26:20,100,0.91,100,0,34,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/0IKMUpnuiUaW2_ax6WfWDOAfbGsfJtZeGgLC070uo3s.jpg,t3_1h4r6w5
+webdev,What job alternatives have you started looking at in this bad market for developers?,"I have been unemployed for almost a year now, 3 years of experience being a React developer, built 3 fullstack PERN web applications to showcase on my portfolio too, but its not enough. Got rejected soo many times that my energy talking to recruiters just puts them off now because I know it would be another one. Im wondering what other keywords could I be searching for in tech where I maybe able to make ends meet for now",Intelligent_Will_948,1h4ogn9,https://reddit.com/r/webdev/comments/1h4ogn9/what_job_alternatives_have_you_started_looking_at/,https://www.reddit.com/r/webdev/comments/1h4ogn9/what_job_alternatives_have_you_started_looking_at/,2024-12-02 06:09:46,96,0.9,96,0,75,0,0,False,False,True,False,False,Discussion,self,t3_1h4ogn9
+webdev,How do you protect yourselves against the risk of non-paying clients?,"Title basically, i always worked as anm employee so i've never been exposed to this risk directly, but i've been contacted recently to join as a freelance developer on a relatively small ongonig project.
+
+Their developer will be moving entirely on the backend while i greatly uplift their bare and bones frontend.
+
+Since we will be operating with git and there will be a weekly need to commit/pull changes, what safeguards can i adopt if at the end of our collaboration i'm not getting payed?",SignorSghi,1h4r7if,https://reddit.com/r/webdev/comments/1h4r7if/how_do_you_protect_yourselves_against_the_risk_of/,https://www.reddit.com/r/webdev/comments/1h4r7if/how_do_you_protect_yourselves_against_the_risk_of/,2024-12-02 09:27:42,11,0.87,11,0,23,0,0,False,False,True,False,False,Question,self,t3_1h4r7if
+webdev,Google refuses to provide me with an estimate regarding my Reserve With Google application,"I own a booking platform and my clients continuously ask for ""Reserve With Google"" integration. I filled in the form 3 weeks ago, and Google hasn't reviewed it yet. 
+
+After contacting support, I received conflicting answers, initially stating that my application was missing, then they found it but it was incomplete, then I was redirected to a different department and finally this:
+
+&gt;We do not guarantee partners will receive a response.
+
+The process seems to be opaque, and it doesn't feel anything like a Google service. How should approach this issue? Ideally, I would want them to tell me what the issues are so we can resolve them.",Ornery_Mind6834,1h4s8nn,https://reddit.com/r/webdev/comments/1h4s8nn/google_refuses_to_provide_me_with_an_estimate/,https://www.reddit.com/r/webdev/comments/1h4s8nn/google_refuses_to_provide_me_with_an_estimate/,2024-12-02 10:45:18,5,0.86,5,0,4,0,0,False,False,True,False,False,,self,t3_1h4s8nn
+webdev,Use for a can be deleted method ?,"Does it make sense to make a method that returns a boolean to know if a element in a CRUD can deleted or not ?
+
+We use them at my job and i don't really see the point in it. If it can't be deleted the method to delete it will fail. Why not call it directly instead of asking first if it can be deleted ? What's the point in this ?
+
+EDIT: To clarify by ""method"" i actually meant a API endpoint.
+
+EDIT2: The endpoint can't be used to not render/disable the button since it would be too costly to check if each item in the crud can be deleted.  
+It would be too costly because the crud can have hundreds of items AND the check if it can be deleted or not is depends on if that entity is related to other entities in the database.",Aydnir,1h4th1p,https://reddit.com/r/webdev/comments/1h4th1p/use_for_a_can_be_deleted_method/,https://www.reddit.com/r/webdev/comments/1h4th1p/use_for_a_can_be_deleted_method/,2024-12-02 12:06:01,3,0.71,3,0,17,0,0,False,False,True,False,False,,self,t3_1h4th1p
+webdev,Managing High-Volume Notifications with Digest (Batching) Strategies,"I'm implementing a notification system using [Novu](https://github.com/novuhq/novu) that needs to handle high message volumes without overwhelming users. 
+
+I'd like to share my current approach and get feedback on potential improvements.
+
+**Context:**
+
+* Building a collaborative app with frequent updates (comments, file changes, tags)
+* Using Novu as the notification infrastructure
+* Need to prevent notification fatigue while ensuring important updates reach users
+* Currently implementing in Node.js with PostgreSQL backend
+
+**Current Implementation:** I've developed two digest strategies in Novu:
+
+1. **Time-Window Digest / Batching:** 
+
+&amp;#8203;
+
+     // Using Novu to collect events in a 3-day digest window  
+    const digestResult = await novu.digest(""digest-3-days"", {
+      backoffUnit: 'days',
+      backoffAmount: 3,
+      digestKey: 'userId',
+      events: notifications
+    });  
+    
+    // Send digest via Novu
+    await novu.trigger('digest-notification', {
+      to: {
+        subscriberId: userId,
+      },
+      payload: {
+        events: digestResult.events,
+        totalCount: digestResult.events.length
+      }
+    });
+
+2. **Look-Back Pattern:**
+
+    const shouldDigest = async (userId, eventType) =&gt; {
+      const recentNotification = await novu.getNotificationHistory({
+        subscriberId: userId,
+        type: eventType
+      });
+      return Date.now() - recentNotification.timestamp &lt; ONE_DAY;
+    };
+
+Here is a visual representation I'm referring to - but with much smaller batching time window:
+
+[Digest \/ Event Aggregation ](https://preview.redd.it/qozoe9akbf4e1.png?width=1945&amp;format=png&amp;auto=webp&amp;s=301cfb85c68526175d084b86374fa8f3c29a3c21)
+
+**Interesting Discovery -** [OneSignal](https://documentation.onesignal.com/docs/journeys#time-window)**'s Time Window Approach:** While researching this, I found OneSignal's implementation of time windows interesting.   
+  
+They use a different approach where you can:
+
+* Define specific allowed time periods (e.g., Tuesday 1:00 PM - 6:00 PM PST)
+* Set intelligent delivery delays that randomly distribute notifications within allowed windows
+* Handle out-of-window notifications by scheduling them for the next available window
+
+For example, if you set a notification to trigger outside of Tuesday 1-6 PM PST, their system automatically schedules it for a random time within next Tuesday's window. This helps prevent notification clustering at window boundaries.
+
+**Technical Challenges I'm Working Through:**
+
+1. Race conditions when multiple events occur simultaneously
+2. Handling failed notification deliveries within digest groups
+3. Database schema optimization for efficient event aggregation
+4. Coordinating time windows across multiple time zones
+5. Implementing similar time-window functionality as OneSignal within Novu
+
+**Questions for Discussion:**
+
+1. What indexing strategies work best for quick digest compilation in Novu?
+2. How do you handle digest delivery failures and retries?
+3. Has anyone implemented custom time window logic similar to OneSignal's approach in Novu?
+4. What's your approach to testing digest timing across different time zones?
+
+If you've implemented similar systems with Novu or other notification services, I'd appreciate insights on handling these technical aspects efficiently.",Sudden_Profit_2840,1h4t9jv,https://reddit.com/r/webdev/comments/1h4t9jv/managing_highvolume_notifications_with_digest/,https://www.reddit.com/r/webdev/comments/1h4t9jv/managing_highvolume_notifications_with_digest/,2024-12-02 11:53:39,3,1.0,3,0,0,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/S_ZmR_1cU5aKbwzfea80L7OQ7oKBdb43DuJDAxM8-xM.jpg,t3_1h4t9jv
+webdev,"For those that have worked with lots of backend frameworks, what's your favorite &amp; why?","I've worked with Django, Express &amp; a tiny amount of Dotnet. Trying to decide where to focus efforts in terms of future opportunities &amp; also speed of development.
+
+Also is there any backends you hate and would not want to work with?",thebreadmanrises,1h4gt99,https://reddit.com/r/webdev/comments/1h4gt99/for_those_that_have_worked_with_lots_of_backend/,https://www.reddit.com/r/webdev/comments/1h4gt99/for_those_that_have_worked_with_lots_of_backend/,2024-12-01 23:28:18,27,0.86,27,0,87,0,0,False,False,True,False,False,Discussion,self,t3_1h4gt99
+webdev,How would Google selling Chrome stop its monopoly?,"Might be off-topic to this sub, but I don't know what other sub would have redditors with enough knowledge about the web to answer this correctly.
+
+My understanding is that Google has tried to maintain a monopoly over the search engine market by making other companies use Google as the main search engine for their browsers (e.g., Firefox, Safari).
+
+If that's the case, what's the point of having Google sell Chrome, the browser? There are plenty of other browsers out there -- Google doesn't hold a monopoly over the browser market. Chromium is a thing, yes, but neither Firefox nor Safari is Chromium based, and Chromium is open source anyway. The problem here is the ubiquity of 'Google' the search engine, not Chrome the browser.
+
+TLDR: if what Google holds a monopoly over is the search engine that browsers use and not over browsers themselves, how does selling Chrome stop their monopoly?",cachehit_,1h491sj,https://reddit.com/r/webdev/comments/1h491sj/how_would_google_selling_chrome_stop_its_monopoly/,https://www.reddit.com/r/webdev/comments/1h491sj/how_would_google_selling_chrome_stop_its_monopoly/,2024-12-01 17:55:57,76,0.82,76,0,92,0,0,False,False,True,False,False,Discussion,self,t3_1h491sj
+webdev,Looking for Direction - Hobbyist,"Hello,
+
+I recently learned the ""basics"" of HTML, CSS and JavaScript (still going through materials as I'm not feeling too confident yet). To further improve my skills and also learn new technologies I would like to build some websites that I'm personally interested in. I found a ""type"" of website that I would like to build. They all look somewhat similar. Now they could all be build from scratch, it's kinda hard to tell for me as a beginner, or they could all be using the same or maybe a similar stack?
+
+Here are the websites I'm talking about:
+
+* [https://www.tokyodev.com/](https://www.tokyodev.com/)
+* [https://phaser.io/](https://phaser.io/)
+* [https://japan-dev.com/](https://japan-dev.com/)
+
+I understand, correct me if I'm wrong here, that all of those websites could be built from scratch using the 3 mentioned technologies, but I assume that's not what people do in practice?
+
+I'm basically looking for guidance as to what I should learn (maybe there's a solid beginner stack or something?) to build similar websites by myself.
+
+I'm also wondering if those websites (especially the first one is designed by ""hand"" or if they are using some kind of kit or a prebuilt design?
+
+Beste regards,",Substantial-Pain1903,1h4u82d,https://reddit.com/r/webdev/comments/1h4u82d/looking_for_direction_hobbyist/,https://www.reddit.com/r/webdev/comments/1h4u82d/looking_for_direction_hobbyist/,2024-12-02 12:49:56,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h4u82d
+webdev,Created Advent Of TypeScript!,,bautistaaa,1h3xzkt,https://reddit.com/r/webdev/comments/1h3xzkt/created_advent_of_typescript/,https://i.redd.it/bnetny7nv64e1.gif,2024-12-01 07:26:19,392,0.96,392,0,35,0,0,False,False,False,False,False,Showoff Saturday,https://a.thumbs.redditmedia.com/OK0bRTnWATnOWuSkMYEqANS9hf7yuduB18-sR8kpxu8.jpg,t3_1h3xzkt
+webdev,High School Sports API,"I'm looking for an API that reports high school sports scores in the US. IS there something out there like this?
+
+I've found some that report UK soccer scores but nothing that reports US HS sports.
+
+It doesn't have to be real-time score-by-score, just a report as soon as the game is finished.
+
+Also, if its just for one sport thats fine; i.e. basketball or football preferably.",wisdomforusall,1h4y0vr,https://reddit.com/r/webdev/comments/1h4y0vr/high_school_sports_api/,https://www.reddit.com/r/webdev/comments/1h4y0vr/high_school_sports_api/,2024-12-02 15:50:32,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h4y0vr
+webdev,5 JavaScript Libraries for Developers Working with PDFs,,9millionrainydays_91,1h4xvkb,https://reddit.com/r/webdev/comments/1h4xvkb/5_javascript_libraries_for_developers_working/,https://javascript.plainenglish.io/5-essential-javascript-libraries-every-developer-should-know-for-working-with-pdfs-1b942262dee7,2024-12-02 15:44:01,1,1.0,1,0,0,0,0,False,False,False,False,False,Resource,https://b.thumbs.redditmedia.com/LHXZ35gR-yDSFQOvDzuic23Vwf68CuCTVYRWfzG1Ufc.jpg,t3_1h4xvkb
+webdev,Cannot seem to grasp CSS pesudo-elements and how they interact with different browsers,"I have a neocities I've been making for school (granted, I am not going to school for web dev and have very little experience in it), and it seems like the website works great on my singular instance of Brave Browser. The issue seems to be with literally any other browser, even a separate instance of Brave on my laptop doesn't display the same. 
+
+What I'm attempting to do is have a music player at the top of my screen that doesn't use the standard webkit or moz appearances--hence why I'm styling it with CSS. It looks great on my instance and is exactly what I want it to be, but it seems like every other instance is being replaced with ""user agent stylesheet"" because the ::webkit pseudo-elements aren't functioning properly. I will provide all the relevant code and screenshots if someone is willing to help out.
+
+Here's what I've tried:  
+\- Using a CSS reset  
+\- Using a CSS normalize  
+\- Using the !important tag to make sure it takes precedent  
+\- Using specificity like body, html, and #musicplayer  
+\- Overwriting the default stylings through developer tools  
+\- Checked for overwritten lines using dev tools (which has shown very different results across browsers)
+
+Please, I've hit a brick wall and I'm really not sure where to go with it.
+
+[Here is what it looks like when it's working properly, I know it's not the prettiest thing but I like it.](https://preview.redd.it/nyph63f1ge4e1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=0266b2846ed67f1963c515ec1ef70a3c4139a473)
+
+[Here is what it looks like in all other instances. All the things requiring webkit don't work now \(controls, range slider, range thumb\).](https://preview.redd.it/bp6y3a36ge4e1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=a8d376c38c2fa41946ec5490fae65b72c04dfaef)
+
+",LuxuLuxu,1h4qroj,https://reddit.com/r/webdev/comments/1h4qroj/cannot_seem_to_grasp_css_pesudoelements_and_how/,https://www.reddit.com/r/webdev/comments/1h4qroj/cannot_seem_to_grasp_css_pesudoelements_and_how/,2024-12-02 08:54:14,3,1.0,3,0,2,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/urRAgzUHLFOlF6X-VHNwVHYqP_mUmhyqtkYuEzUO3gU.jpg,t3_1h4qroj
+webdev,scrape every restaurants from google map for given city,"I’m working on a little side project and need some advice. I want to scrape data for every restaurant in a specific city from Google Maps to run a price analysis on food prices. I’ve looked into the Google Places API, but it seems like it can’t handle this kind of bulk scraping(limit to 20 results per query, and rank by prominence so some restaurants might be missing).
+
+Has anyone here managed to do something like this? Are there any tools, scripts, or workarounds you’d recommend? Or is it just not doable with Google Maps due to restrictions?",hello_motherfuckers_,1h4s9q9,https://reddit.com/r/webdev/comments/1h4s9q9/scrape_every_restaurants_from_google_map_for/,https://www.reddit.com/r/webdev/comments/1h4s9q9/scrape_every_restaurants_from_google_map_for/,2024-12-02 10:47:21,2,0.58,2,0,15,0,0,False,False,True,False,False,Discussion,self,t3_1h4s9q9
+webdev,Web dev integrating Google business reviews - requires credentials ,"Hi there, I’m currently in the process of having my website developed. A friend recommended a freelancer to me.
+
+The website is for my finance business, and it’s quite straightforward. I’m also integrating Google reviews for my Google business page.
+
+However, the web developer today informed me that he would require my Google login credentials (email address and password) to set up the integration.
+
+I’m a bit hesitant to share these details with the developer. Is there an alternative way to proceed? What are the common practices in such situations? 
+",afterbuddha,1h4s8j8,https://reddit.com/r/webdev/comments/1h4s8j8/web_dev_integrating_google_business_reviews/,https://www.reddit.com/r/webdev/comments/1h4s8j8/web_dev_integrating_google_business_reviews/,2024-12-02 10:45:04,2,1.0,2,0,1,0,0,False,False,True,False,False,Question,self,t3_1h4s8j8

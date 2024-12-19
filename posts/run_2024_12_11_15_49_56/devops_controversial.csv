@@ -1,0 +1,74 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,8 year Traditional SysAdmin - 2 years Cloud Operations Engineer - Feels more like a role meant for developers,"I've seen some discussions saying that traditional SysAdmins/Systems Engineers tend to do better in these Cloud Operations/DevOps/PlatEng roles, but after 2 years in I have to disagree.
+
+My previous experience comes from majority of on-prem infrastructure (blade servers, SANS, Windows, some Linux, Microsoft 365, etc). I have never been able to write scripts from scratch, but can interpret things others have done and piece together whatever I need to automate using others (somebody has already written it typically, why reinvent the wheel of it works?). 
+
+I know ClickOps is frowned upon in this culture and EVERYTHING must be code. With this point, personally even though my coding skills are almost non existent these types of roles seem to be more gear towards a developer or at least a developer has an upper hand in knowledge.
+
+",Bebop-n-Rocksteady,1hb9qws,https://reddit.com/r/devops/comments/1hb9qws/8_year_traditional_sysadmin_2_years_cloud/,https://www.reddit.com/r/devops/comments/1hb9qws/8_year_traditional_sysadmin_2_years_cloud/,2024-12-10 19:18:44,0,0.41,0,0,34,0,0,False,False,True,False,False,,self,t3_1hb9qws
+devops,Seeking Career Advice: Mid-Level DevOps Looking for Less Stressful Path,"I have been working as a mid-level DevOps engineer for about four years now. Before that, I spent 10 years as a network engineer. I don't see a path to becoming a senior engineer due to my character. I'm very sensitive to stress, and I can't imagine handling serious production-related projects.
+
+I also have two young children who require a lot of energy from both me and my wife, so I'm not in a position to pursue labs, certifications, or further expand my knowledge. Most days, I'm dealing with a foggy brain from lack of sleep and fatigue. I'm not naturally curious as an engineer, and every ticket feels more like a chore than a fun problem to solve.
+
+At 40 years old, I feel it's time to do something different, but I can't afford to start over with a junior salary due to our family's expenses and mortgage.
+
+I'm seeking recommendations on what to do in my position. Ideally, a managerial path would be best, but I lack experience as a shift leader or team leader and don't have the necessary soft skills.
+
+I need to find a role that doesn't require continuous education and training. Any recommendations are welcome. Thanks!",Cloud--Man,1hbt6om,https://reddit.com/r/devops/comments/1hbt6om/seeking_career_advice_midlevel_devops_looking_for/,https://www.reddit.com/r/devops/comments/1hbt6om/seeking_career_advice_midlevel_devops_looking_for/,2024-12-11 13:14:17,1,0.56,1,0,1,0,0,False,False,True,False,False,,self,t3_1hbt6om
+devops,What SaaS solution can replace Sumologic for log ingestion?,Not ELK please.,IamOkei,1hbuln0,https://reddit.com/r/devops/comments/1hbuln0/what_saas_solution_can_replace_sumologic_for_log/,https://www.reddit.com/r/devops/comments/1hbuln0/what_saas_solution_can_replace_sumologic_for_log/,2024-12-11 14:25:03,1,0.67,1,0,2,0,0,False,False,True,False,False,,self,t3_1hbuln0
+devops,Network rate limiter based on port/ip,"I have released a lightweight ebpf kernel level rate limiter per IP/port per second.
+
+The current offerings are:
+
+\- Dynamic Adaptive Kernel level packet rate limiter.
+
+\- Ensure operational efficiency.
+
+\- Create global IP Whitelist, Blacklist and GreyList.
+
+\- Redirect packets to different IP/interface
+
+\- Build network traffic optimizer.
+
+\- Build optimal network load balancer.
+
+If you would like to discuss, check out a quick demo or provide feedback, please let me know.
+
+Thanks,",gaurav1086,1hb60lu,https://reddit.com/r/devops/comments/1hb60lu/network_rate_limiter_based_on_portip/,https://www.reddit.com/r/devops/comments/1hb60lu/network_rate_limiter_based_on_portip/,2024-12-10 16:43:09,0,0.5,0,0,4,0,0,False,False,True,False,False,,self,t3_1hb60lu
+devops,Enquiry ,Can someone tell me what a day in the life of a devops engineer look like ,danhanex,1hb9y6z,https://reddit.com/r/devops/comments/1hb9y6z/enquiry/,https://www.reddit.com/r/devops/comments/1hb9y6z/enquiry/,2024-12-10 19:27:10,0,0.2,0,0,5,0,0,False,False,True,False,False,,self,t3_1hb9y6z
+devops,inventory?,"What are people here using for asset management? I'm assuming a lot of you have a lot of immutable assets, but at the same time you probably still have a need to know how many machines in your fleet are running a particular application or service and where they are.",crankysysadmin,1hbmhjy,https://reddit.com/r/devops/comments/1hbmhjy/inventory/,https://www.reddit.com/r/devops/comments/1hbmhjy/inventory/,2024-12-11 05:28:26,2,0.75,2,0,1,0,0,False,False,True,False,False,,self,t3_1hbmhjy
+devops,How to deploy hugging face model on cloud ,"I want to deploy a custom text to audio model from hugging face to cloud platform for easy access through api 
+
+tried with Google vertex , had an error with creating instance 
+
+How to deploy on cloud and get thier gpu 
+Help with both free and paid ways ",Actual-Dragonfruit-4,1hb9yvp,https://reddit.com/r/devops/comments/1hb9yvp/how_to_deploy_hugging_face_model_on_cloud/,https://www.reddit.com/r/devops/comments/1hb9yvp/how_to_deploy_hugging_face_model_on_cloud/,2024-12-10 19:27:56,0,0.2,0,0,0,0,0,False,False,True,False,False,,self,t3_1hb9yvp
+devops,Useful DevOps projects at work,"I was just wondering if anyone has done any useful projects at work that has helped their teams a lot.
+
+My entire company is migrating our kubernetes pipeline into an internal platform, so a lot of my helm knowledge is now rendered useless as we're using our internal k8s ""language"" (honestly it's terrible but whatever). This is managed by a developer team and I can only request features now, but not actually work on it (example: we should be using KEDA for autoscaling, but we simply have to wait until they convert helm into our internal language, then have them support it in our pipeline).
+
+To shorten what we own is simply the actual deployments themselves, creating alerts/monitoring (but these tools are actually internal and we moved away from prometheus/grafana), 3rd party communications with our LLM Vendors, infrastructure costs.
+
+So now I'm trying to do some work around this, like automating our verifications. But other than that, I really don't know what else I can do except clearly defining and documenting our processes. I just want to be a DevOps engineer again, not some technical writer or glorified deployment fodder for our engineers.
+
+And yes, I'm just looking for new jobs, but also trying to strengthen my resume while I'm still at this company.
+
+TLDR: Restricted by internal platform to do any real DevOps work.",XDPokeLOL,1hbmt69,https://reddit.com/r/devops/comments/1hbmt69/useful_devops_projects_at_work/,https://www.reddit.com/r/devops/comments/1hbmt69/useful_devops_projects_at_work/,2024-12-11 05:49:14,12,0.83,12,0,7,0,0,False,False,True,False,False,,self,t3_1hbmt69
+devops,Your real enemy isn’t time. It’s confusion.,"DevOps has too many options, sometimes i get lost in the sea of choices (with confusion) but breaking tasks before fixing problems is a positive step you can take. And learning from others helps big time too. Especially from seniors.
+
+Who do you learn a lot from?",moneyppt,1hbtta9,https://reddit.com/r/devops/comments/1hbtta9/your_real_enemy_isnt_time_its_confusion/,https://www.reddit.com/r/devops/comments/1hbtta9/your_real_enemy_isnt_time_its_confusion/,2024-12-11 13:46:54,29,0.88,29,0,9,0,0,False,False,True,False,False,,self,t3_1hbtta9
+devops,Trying to create an interactive video - is it possible?,"So i have a to create an art installation for display in any desired format. I decided to create an interactive video like a mini game. The idea is that there is a video projected in a room. In a video there is a person in a room with various items he can interact with. For ex: play guitar, sit on chair, try open the door (very simplistic actions). The vision is that a person comes, starts the ""game"", with controller does several actions and the game ends. (Inspired by Bo Burnhams ""inside"")
+My question is - is this possible? Can i somehow programme each action to a button on a controller and have a beggining and an end to this game? If it's not a video what kind of format file would it be? Can i use any controller for this? What programs? Extremely grateful for any info!
+",CloudburstAme,1hb4jn0,https://reddit.com/r/devops/comments/1hb4jn0/trying_to_create_an_interactive_video_is_it/,https://www.reddit.com/r/devops/comments/1hb4jn0/trying_to_create_an_interactive_video_is_it/,2024-12-10 15:39:35,0,0.13,0,0,3,0,0,False,False,True,False,False,,self,t3_1hb4jn0
+devops,Shifted from a dev role to infra/devops role. Have been much much much more stressed since then,"As the title , I have been much much more stressed after shifting to devops. Partly because things are new for me so I am not always 100% sure about what I am pushing. And partly because of the tight deadlines and too much work and the fact that one small mistake from you could lead to a downtime. 
+
+Are all companies like this? I have to work 11-12 hours and often on weekends too to meet the deadlines. And I believe I work faster than most of my colleagues. ",Wonderful_Swan_1062,1hbiruu,https://reddit.com/r/devops/comments/1hbiruu/shifted_from_a_dev_role_to_infradevops_role_have/,https://www.reddit.com/r/devops/comments/1hbiruu/shifted_from_a_dev_role_to_infradevops_role_have/,2024-12-11 02:05:38,86,0.95,86,0,31,0,0,False,False,True,False,False,,self,t3_1hbiruu
+devops,New web test environment for every new feature,"Hi, I'd like to ask for help with how I can achieve different test environments for every feature. For example, if I have feature-1 and it is ready to be tested, I would like to have [feature-1.site.com](http://feature-1.site.com) as test environment, and so forth for every feature that is ready for testing.",LongjumpingLaugh8766,1hbtj5w,https://reddit.com/r/devops/comments/1hbtj5w/new_web_test_environment_for_every_new_feature/,https://www.reddit.com/r/devops/comments/1hbtj5w/new_web_test_environment_for_every_new_feature/,2024-12-11 13:32:31,2,1.0,2,0,7,0,0,False,False,True,False,False,,self,t3_1hbtj5w
+devops,Gitlab Runners - Helm Chart Install - Enabling Feature Flags,"Can anyone advise on how we can enable feature flags via the gitlab runner helm charts?
+
+[Docs](https://docs.gitlab.com/runner/configuration/feature-flags.html#enable-feature-flag-in-runner-configuration) state they can be enabled via \`runner.feature\_flags\` section but there isn't a specific entry for this in the gitlab runner helm chart [values.yaml.](https://gitlab.com/gitlab-org/charts/gitlab-runner/blob/main/values.yaml)
+
+Am I missing something or is it simply not possible via the helm chart?
+
+Thanks in advance",InquisitiveProgramme,1hbd5t1,https://reddit.com/r/devops/comments/1hbd5t1/gitlab_runners_helm_chart_install_enabling/,https://www.reddit.com/r/devops/comments/1hbd5t1/gitlab_runners_helm_chart_install_enabling/,2024-12-10 21:42:52,5,0.79,5,0,2,0,0,False,False,True,False,False,,self,t3_1hbd5t1
+devops,Windows Dev Drive: VHD or Disk Partition?  Backups?,"For those using Dev Drives in Windows 11, did you choose VHD or disk partitions, and how are you backing these up?  ",jwckauman,1hbabw2,https://reddit.com/r/devops/comments/1hbabw2/windows_dev_drive_vhd_or_disk_partition_backups/,https://www.reddit.com/r/devops/comments/1hbabw2/windows_dev_drive_vhd_or_disk_partition_backups/,2024-12-10 19:43:22,1,0.67,1,0,1,0,0,False,False,True,False,False,,self,t3_1hbabw2

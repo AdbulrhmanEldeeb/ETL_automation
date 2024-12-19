@@ -1,0 +1,156 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[R] Understanding Transformer Limitations in Graph Search: A Mechanistic Analysis of Learning and Scaling Behavior,"This paper tackled a fundamental question about transformers' ability to learn search algorithms by studying how they handle graph connectivity problems. The authors developed a novel interpretation method to analyze how transformers process search operations layer by layer.
+
+Key technical points:
+- Used graph reachability as a test case with controlled complexity and unlimited training data
+- Developed interpretation technique to understand how transformer layers compute reachable vertex sets
+- Found transformers learn to expand search frontier exponentially with depth
+- Demonstrated clear scaling limitations based on graph size
+- Showed in-context learning (chain-of-thought) doesn't overcome these limitations
+
+Main results:
+- Small transformers can learn basic search when trained appropriately
+- Each layer computes union of previously reachable vertices plus their neighbors
+- Performance degrades sharply with increasing graph size
+- Adding parameters doesn't solve the scaling problem
+- Models struggle with graphs beyond their training distribution
+
+I think this work reveals important architectural limitations in transformers that we need to address for applications requiring search capabilities. The scaling behavior suggests we may need fundamentally different approaches for larger search spaces rather than just bigger models.
+
+I think the interpretation method they developed could be valuable for understanding how transformers process other types of structured data beyond just graphs. The clear empirical results on scaling limitations should inform architecture choices for applications involving search-like computations.
+
+TLDR: Transformers can learn basic graph search operations but face fundamental limitations with scale. Adding more parameters doesn't help, suggesting we need new approaches for complex search problems.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/transformers-struggle-to-learn-to-search). Paper [here](https://arxiv.org/abs/2412.04703).",Successful-Western27,1hb1wjo,https://reddit.com/r/MachineLearning/comments/1hb1wjo/r_understanding_transformer_limitations_in_graph/,https://www.reddit.com/r/MachineLearning/comments/1hb1wjo/r_understanding_transformer_limitations_in_graph/,2024-12-10 13:37:01,13,0.94,13,0,1,0,0,False,False,True,False,False,Research,self,t3_1hb1wjo
+MachineLearning,[R] The Well: a Large-Scale Collection of Diverse Physics Simulations for Machine Learning,"**Dataset**: [https://github.com/PolymathicAI/the\_well](https://github.com/PolymathicAI/the_well)
+
+**Paper**: [https://arxiv.org/pdf/2412.00568](https://arxiv.org/pdf/2412.00568)
+
+**Abstract:**
+
+&gt;Machine learning based surrogate models offer researchers powerful tools for accelerating simulation-based workflows. However, as standard datasets in this space often cover small classes of physical behavior, it can be difficult to evaluate the efficacy of new approaches. To address this gap, we introduce the Well: a large-scale collection of datasets containing numerical simulations of a wide variety of spatiotemporal physical systems. The Well draws from domain experts and numerical software developers to provide 15TB of data across 16 datasets covering diverse domains such as biological systems, fluid dynamics, acoustic scattering, as well as magneto-hydrodynamic simulations of extra-galactic fluids or supernova explosions. These datasets can be used individually or as part of a broader benchmark suite. To facilitate usage of the Well, we provide a unified PyTorch interface for training and evaluating models. We demonstrate the function of this library by introducing example baselines that highlight the new challenges posed by the complex dynamics of the Well. The code and data is available at [this https URL](https://github.com/PolymathicAI/the_well).
+
+",StartledWatermelon,1haz4nw,https://reddit.com/r/MachineLearning/comments/1haz4nw/r_the_well_a_largescale_collection_of_diverse/,https://www.reddit.com/r/MachineLearning/comments/1haz4nw/r_the_well_a_largescale_collection_of_diverse/,2024-12-10 10:49:47,16,0.88,16,0,0,0,0,False,False,True,False,False,Research,self,t3_1haz4nw
+MachineLearning,[D] How do you keep up with the literature?,"Pretty much what the title says. What tools/strategies do you use to keep up with the literature?
+
+
+EDIT: for context, I am a first year PhD student and I was referring to the literature in the particular 'niche' (if you can call anything a niche in ML, apart from a very few exceptions)",Rickmaster7,1hasdlo,https://reddit.com/r/MachineLearning/comments/1hasdlo/d_how_do_you_keep_up_with_the_literature/,https://www.reddit.com/r/MachineLearning/comments/1hasdlo/d_how_do_you_keep_up_with_the_literature/,2024-12-10 03:20:29,28,0.88,28,0,19,0,0,False,False,True,False,False,Discussion,self,t3_1hasdlo
+MachineLearning,"[D] How do you manage and track your large, evolving, image datasets?","I’m wondering how people manage the lifecycles of their large in-house datasets? Say &gt;1TB and 100k files.
+
+In my new role we have multiple production models trained from in house datasets ranging in size from a few thousand to a few hundred thousand images. We also have huge amounts of fresh data coming in, more than 1M images per day, and so we are constantly mining that and sending new tranches off to be annotated.
+
+Until now the team has been largely left to their own devices to manage this and the results are predictable. In some cases we can’t associate our prod models with any specific data. Some of our core datasets exist only in people’s home directories, ripe to be wiped out by a single misplaced command. For one model, thankfully being sunsetted, both the training code and original training data are known to be lost.
+
+Parts of the org have adopted DVC which seems pretty good until the number of files or overall size gets big. On one end, some stuff the entire dataset into just a few archives and track them. That minimizes frustrations with hashes but uses a lot of storage when only a few files get updated. On the other end, some people track every single file which lets files be individually updated but is a pretty big pain to check in and out. Others split the difference of these two approaches, tracking chunks of the dataset as archives hierarchically.
+
+So how does your org manage this? What works and what doesn’t when working with these large &amp; evolving datasets?",SirPitchalot,1haokqp,https://reddit.com/r/MachineLearning/comments/1haokqp/d_how_do_you_manage_and_track_your_large_evolving/,https://www.reddit.com/r/MachineLearning/comments/1haokqp/d_how_do_you_manage_and_track_your_large_evolving/,2024-12-10 00:09:58,12,0.8,12,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1haokqp
+MachineLearning,[D] Model Provenance: How are you tracking your ML model lineage?,"Hey r/MachineLearning,I'm curious about how people in this community are handling model provenance - the practice of tracking the lineage and evolution of machine learning models throughout their lifecycle.
+
+1. Are you currently using any tools or methods to track the provenance of your ML models?
+2. If yes, what solutions are you using? Are they custom-built or off-the-shelf?
+3. If not, do you see a need for such tools in your work?
+4. What features would you consider essential in a model provenance solution?",crtahlin,1hb0o4e,https://reddit.com/r/MachineLearning/comments/1hb0o4e/d_model_provenance_how_are_you_tracking_your_ml/,https://www.reddit.com/r/MachineLearning/comments/1hb0o4e/d_model_provenance_how_are_you_tracking_your_ml/,2024-12-10 12:29:56,1,0.6,1,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hb0o4e
+MachineLearning,[D] Meta's new LLama model,"So meta just dropped a new, more efficient Llama model, Llama 3.3 70B, that basically promises to cut compute costs for large AI models. Has anyone here had a chance to test it out? Curious to see how it performs compared to previous versions, in terms of speed, resource usage, and accuracy",Frosty_Programmer672,1han33i,https://reddit.com/r/MachineLearning/comments/1han33i/d_metas_new_llama_model/,https://www.reddit.com/r/MachineLearning/comments/1han33i/d_metas_new_llama_model/,2024-12-09 23:01:00,11,0.69,11,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1han33i
+MachineLearning,[D] Has anyone managed to train an LLM with model parallelism?,"Hello,
+
+I am working on fine-tuning Llama-3.1 for my master’s thesis research. Unfortunately, my current situation forbids access to high-memory GPUs such as A100s. Instead, I have access to setups with multiple lower-memory GPUs, such as 4×3090 or 8×V100.
+
+Therefore I need to implement model parallelism to train my model as it doesn’t fit into a single GPU. However, I’ve noticed that most frameworks primarily focus on data parallelism, which doesn’t address my needs.
+
+Has anyone successfully trained a model by splitting it across multiple GPUs? If so, could you recommend frameworks or approaches I should explore? I am specifically looking for full training, although I am interested in hearing if someone managed this using LoRA.
+
+Also, if there’s a more suitable subreddit for this type of question, please direct me to there.
+
+Thank you!",anilozlu,1habr8l,https://reddit.com/r/MachineLearning/comments/1habr8l/d_has_anyone_managed_to_train_an_llm_with_model/,https://www.reddit.com/r/MachineLearning/comments/1habr8l/d_has_anyone_managed_to_train_an_llm_with_model/,2024-12-09 15:06:32,43,0.87,43,0,37,0,0,False,False,True,False,False,Discussion,self,t3_1habr8l
+MachineLearning,[D] Is what I'm doing is correct?,"I'm working on an ML project.
+I have 100 features and 2000000 rows(Balanced)
+Which order shall I follow?
+
+I have done,
+
+1. Data inconsistencies handling
+2. NULL imputation 
+3. Standardization
+4. One hot encoding
+5. Data visualization 
+6. Correlation check
+7. PCA
+8. Train test split
+8. Model training
+9. Evaluation 
+
+For random forest I'm getting 1 for all the metrics for training data and 0.79 for test set.
+For logistic regression ~0.79  for all metrics and for test set also getting the same.
+For GBDT also ~0.79 for all metrics and for test set also getting the same.
+Which model should I select? And is the above mentioned steps are followed in correct order?
+",_crazy_muffin_,1has6jq,https://reddit.com/r/MachineLearning/comments/1has6jq/d_is_what_im_doing_is_correct/,https://www.reddit.com/r/MachineLearning/comments/1has6jq/d_is_what_im_doing_is_correct/,2024-12-10 03:10:16,2,0.75,2,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1has6jq
+MachineLearning,[R] Improving robustness to corruptions with multiplicative weight perturbations - A simple yet effective approach to robustify neural networks to corruptions,"We would like to share and discuss this NeurIPS spotlight paper (disclaimer: I am a co-author).
+
+**Paper**: [https://arxiv.org/abs/2406.16540](https://arxiv.org/abs/2406.16540)  
+**GitHub**: [https://github.com/trungtrinh44/DAMP](https://github.com/trungtrinh44/DAMP)  
+**DAMP** (Data augmentation via multiplicative perturbations) is a simple yet effective approach to improving neural network robustness through multiplicative weight perturbations. Unlike traditional data augmentation methods, DAMP operates directly on model weights during training, enabling improved corruption robustness without compromising clean image performance or increasing computational cost.  
+  
+**Key Highlights:**
+
+* **Theoretical Foundation**: DAMP demonstrates that input corruptions can be equivalently represented as multiplicative weight perturbations, providing a theoretical basis for weight-space data augmentation.
+* **Simple Implementation**: The method requires only random Gaussian sampling and pointwise multiplication, maintaining almost the same training cost as standard SGD while being fully compatible with data parallelism.
+* **Breakthrough in ViT Training**: Successfully trains Vision Transformers from scratch using only basic preprocessing, achieving ResNet50-level performance (23.7% top-1 error) on ImageNet without complex augmentations.
+* **Advanced Integration**: When combined with MixUp and RandAugment, DAMP significantly improves both clean and corruption performance:
+   * ViT-S/16: 20.09% clean error (vs 20.25% baseline), 58.30% avg corruption error (vs 60.07% baseline)
+   * ViT-B/16: 19.36% clean error (vs 20.41% baseline), 56.76% avg corruption error (vs 58.83% baseline)
+
+**Why DAMP?** Unlike traditional approaches that rely on complex data augmentation pipelines or computationally expensive ensemble methods, DAMP provides a simple, theoretically-grounded solution to improving model robustness. Its ability to train Vision Transformers from scratch without advanced augmentations and compatibility with existing techniques makes it a practical choice for developing robust vision models.  
+**Since DAMP has minimal overhead over standard training, it is particularly effective when applied to large models and datasets.**  
+  
+We welcome technical discussions, particularly regarding theoretical connections to other robustness methods and potential applications beyond computer vision!",emiurgo,1hap6gx,https://reddit.com/r/MachineLearning/comments/1hap6gx/r_improving_robustness_to_corruptions_with/,https://www.reddit.com/r/MachineLearning/comments/1hap6gx/r_improving_robustness_to_corruptions_with/,2024-12-10 00:38:41,2,0.63,2,0,2,0,0,False,False,True,False,False,Research,self,t3_1hap6gx
+MachineLearning,[D] Seeking paper writing feedback: GPT-based Network Intrusion Detection System (arXiv published),"Hello everyone,
+
+
+
+I'm an independent developer who has been working on applying GPT models to network intrusion detection. While I have experience in implementation, this is my first venture into academic paper writing, and I'm seeking feedback on the paper's presentation and structure.
+
+
+
+I've recently published on arXiv:
+
+\- Title: NIDS-GPT: TAKE PACKAGE AS LANGUAGE: ANOMALY DETECTION USING
+
+TRANSFORMER
+
+\- arXiv link: [https://arxiv.org/pdf/2412.04473](https://arxiv.org/pdf/2412.04473)
+
+
+
+The paper presents a novel approach of treating each number in network packets as independent ""words"" for GPT processing. Our experiments show promising results - 100% accuracy on CICIDS2017 and car-hacking datasets under extreme imbalance conditions, and &gt;90% accuracy in one-shot learning.
+
+
+
+As a first-time paper author, I'm seeking feedback on:
+
+1. Paper structure and academic presentation standards
+
+2. Visualization effectiveness and clarity
+
+3. Methodology presentation
+
+4. Validity of experimental comparisons
+
+5. Strength of claims and conclusions
+
+
+
+I'm particularly interested in feedback from:
+
+\- Researchers in network security/intrusion detection
+
+\- Those working with language models in non-NLP domains
+
+\- Experienced paper writers/reviewers
+
+
+
+The implementation is solid, but I want to ensure the paper effectively communicates the technical contributions to the academic community.
+
+
+
+Thank you for your time and expertise!",EliaukMouse,1haufwv,https://reddit.com/r/MachineLearning/comments/1haufwv/d_seeking_paper_writing_feedback_gptbased_network/,https://www.reddit.com/r/MachineLearning/comments/1haufwv/d_seeking_paper_writing_feedback_gptbased_network/,2024-12-10 05:14:37,0,0.5,0,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1haufwv

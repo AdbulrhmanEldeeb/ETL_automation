@@ -1,0 +1,142 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,Is Test Driven Development(TDD) worth it?,"If TDD is worth it why and how much faster does the workflow go? How long did it take you to learn it, and from which resource? What should I know about it?",GladRefrigerator7285,1hachsp,https://reddit.com/r/learnprogramming/comments/1hachsp/is_test_driven_developmenttdd_worth_it/,https://www.reddit.com/r/learnprogramming/comments/1hachsp/is_test_driven_developmenttdd_worth_it/,2024-12-09 15:39:31,2,0.75,2,0,2,0,0,False,False,True,False,False,,,t3_1hachsp
+learnprogramming,"Is anyone else glad they learned coding before chatgpt, some of the new programmers I know are seriously handicapped because its all they've used.",I feel like people that learned to code with chatgpt don't actually understand how most of the code works they just know how to keep prompting chatgpt until broken code is fixed.,Swimming-Control-872,1h9s16v,https://reddit.com/r/learnprogramming/comments/1h9s16v/is_anyone_else_glad_they_learned_coding_before/,https://www.reddit.com/r/learnprogramming/comments/1h9s16v/is_anyone_else_glad_they_learned_coding_before/,2024-12-08 20:30:50,800,0.96,800,0,173,0,0,False,False,True,False,False,,,t3_1h9s16v
+learnprogramming,What's the Most Effective Strategy for Beginners to Improve on LeetCode?,"I’ve seen so many different approaches and strategies, and I’m not sure which one is best for a beginner like me. Every time I try to learn LeetCode, I just forget the approach after a while, and most of the time I cannot solve it on my own and I end up referring to the solutions.
+
+What’s the best way to learn and improve effectively on LeetCode?",Ill-Acanthaceae-9621,1haach3,https://reddit.com/r/learnprogramming/comments/1haach3/whats_the_most_effective_strategy_for_beginners/,https://www.reddit.com/r/learnprogramming/comments/1haach3/whats_the_most_effective_strategy_for_beginners/,2024-12-09 14:00:54,8,0.84,8,0,9,0,0,False,False,True,False,False,,,t3_1haach3
+learnprogramming,How a website like this is made?,"Hello, I hope you're doing well. Today I have a question related to how a website like this is made:
+
+[https://www.photopea.com/](https://www.photopea.com/)
+
+As you can see, it's a Photoshop clone, but running on the browser is impressive to me! I don't know how it is built. Is this web assembly?",TerryFitzgerald,1ha7al5,https://reddit.com/r/learnprogramming/comments/1ha7al5/how_a_website_like_this_is_made/,https://www.reddit.com/r/learnprogramming/comments/1ha7al5/how_a_website_like_this_is_made/,2024-12-09 11:03:14,11,0.82,11,0,6,0,0,False,False,True,False,False,,,t3_1ha7al5
+learnprogramming,recommend me an app that creates GUI for C/C++,"right now iam doing an Embedded C project on Texas Tiva C for My Embedded Programming Course, 
+
+one of the requirements is to make a GUI to control specific things in the Tiva using UART protocol, all of this is new to me btw
+
+in my previous projects i was tasked with something liek this before but failed, i Used Wxwidgets and Qt Designer
+
+After i done the whole Projects with Wxwidgets, i have lots and lots of compatibility issues, so scrapped it, and QT designer was a bit better but the way i got it is that a m8 sent me a file (not the setup file, the preextracted one), which was obvusily missing things, and wasnt working on my device correctly, and he said works on my machine, cuz duh u set it up with an installer
+
+So yeah bad experience with qt designer 
+
+i want one that isnt too heavy and not liek 10GBs in size just to make a Simple GUI, i really Liked WxWidgets but yeah the compatibility issues
+
+",Bebo991_Gaming,1haajjn,https://reddit.com/r/learnprogramming/comments/1haajjn/recommend_me_an_app_that_creates_gui_for_cc/,https://www.reddit.com/r/learnprogramming/comments/1haajjn/recommend_me_an_app_that_creates_gui_for_cc/,2024-12-09 14:10:10,4,0.75,4,0,4,0,0,False,False,True,False,False,Tutorial,,t3_1haajjn
+learnprogramming,"After opening exe file for minGW, it shows ""Getting Repository Description File"" and then nothing happens, is there something wrong with my laptop?","After downloading minGW from the internet, I click on the .exe file to install it, it shows the first screen where I click ""NEXT"" and then another window pops up saying ""Creating repository description file..."" and then nothing comes up.   
+Side note: I have WSL and Ubuntu in my Windows PC, I was wondering if that is stopping minGW from installing? Please advice, I am trying to learn C programming and I feel like compiling in minGW is far better than WSL and Ubuntu. Thanks!",Plenty_Yam_672,1haafeh,https://reddit.com/r/learnprogramming/comments/1haafeh/after_opening_exe_file_for_mingw_it_shows_getting/,https://www.reddit.com/r/learnprogramming/comments/1haafeh/after_opening_exe_file_for_mingw_it_shows_getting/,2024-12-09 14:04:34,3,0.8,3,0,0,0,0,False,False,True,False,False,,,t3_1haafeh
+learnprogramming,Should I go back to school for programming or do a bootcamp?,I’ve been a WordPress developer for the last decade building basic marketing sites. Over the past 2 years I’ve been trying to learn Next.js and capable of building really nice relatively simple sites. I want to shift my career to that direction but feel a bit intimidated by most job post. Should I go back to school to learn React/Next or is it recommended to do a bootcamp?,No-Praline8782,1ha9eck,https://reddit.com/r/learnprogramming/comments/1ha9eck/should_i_go_back_to_school_for_programming_or_do/,https://www.reddit.com/r/learnprogramming/comments/1ha9eck/should_i_go_back_to_school_for_programming_or_do/,2024-12-09 13:11:59,4,0.75,4,0,8,0,0,False,False,True,False,False,,,t3_1ha9eck
+learnprogramming,Should I Learn More Sorting Algorithms or Move to Recursion and Trees?,"Hi everyone,  
+I’m a self-taught developer currently learning DSA. So far, I’ve covered:
+
+* Searching: Linear Search, Binary Search
+* Sorting: Bubble Sort, Insertion Sort, Selection Sort
+
+As a beginner, do I need to learn more sorting algorithms like Merge Sort, Quick Sort, etc., or should I move on to other topics like recursion, trees, or linked lists?
+
+I’m trying to balance learning DSA while improving my problem-solving skills, so I’d love some advice from experienced learners and developers.
+
+Thanks for your guidance!",sahilnegii,1ha3bb1,https://reddit.com/r/learnprogramming/comments/1ha3bb1/should_i_learn_more_sorting_algorithms_or_move_to/,https://www.reddit.com/r/learnprogramming/comments/1ha3bb1/should_i_learn_more_sorting_algorithms_or_move_to/,2024-12-09 06:08:32,8,0.84,8,0,11,0,0,False,False,True,False,False,,,t3_1ha3bb1
+learnprogramming,Coding with full time non-tech job,"I work 5 10's / 6 10's in a welding shop right now. I have maybe 30 minutes at home to code, but I am far too tired to even open anything. A get a few hours on Sundays and that's about it.
+
+I am wondering how you stay ""fresh"" with a full-time job?
+
+I thought about editing projects on my phone during lunch?  Or writing little simple little scripts in a new language like advent of code? Or bring a programming book? Podcasts / yt videos?
+
+I have not had any luck in the tech job market and can't keep hoping my luck will change so I went back to the trades. However I can feel my skills slowly start to fade...",loblawslawcah,1ha07s9,https://reddit.com/r/learnprogramming/comments/1ha07s9/coding_with_full_time_nontech_job/,https://www.reddit.com/r/learnprogramming/comments/1ha07s9/coding_with_full_time_nontech_job/,2024-12-09 03:08:13,13,0.94,13,0,11,0,0,False,False,True,False,False,Topic,,t3_1ha07s9
+learnprogramming,Recursion in Python,"Hi guys, 
+
+I’m preparing my next exam: fundamentals of programming with Python.
+
+I would like to understand if I understand recursion function: 
+
+Example with factorial 
+
+def factorial (n): 
+      If n&lt;2: 
+          return 1
+      return n*(factorial(n-1))
+
+how it works recursion in my opinion:
+
+When n is 2, the functions stop. If n&gt;= 2, the code execute n* every n-1 until a when n is &lt;2.
+
+Is it correct? 
+",CSguy1997,1hact3v,https://reddit.com/r/learnprogramming/comments/1hact3v/recursion_in_python/,https://www.reddit.com/r/learnprogramming/comments/1hact3v/recursion_in_python/,2024-12-09 15:53:46,1,0.99,1,0,1,0,0,False,False,True,False,False,,,t3_1hact3v
+learnprogramming,Translation of .exe gibberish (Binary Machine Language) into English?,"Hello there. I have a question. Would it be possible to translate Binary Machine Language (“#Ç\[\]|Ω†ƒ) or something like that into readable English? I would need it for a school project, so i would be happy if there would be a fast response. ",ApprehensiveFox1782,1hac90z,https://reddit.com/r/learnprogramming/comments/1hac90z/translation_of_exe_gibberish_binary_machine/,https://www.reddit.com/r/learnprogramming/comments/1hac90z/translation_of_exe_gibberish_binary_machine/,2024-12-09 15:28:39,0,0.33,0,0,12,0,0,False,False,True,False,False,,,t3_1hac90z
+learnprogramming,My Python Code is calculating cube roots wrong for some reason.,"UPDATE: I fixed the problem  
+The code is as follows:
+
+    import math
+    import cmath
+    def cubic(a,b,c,d):
+      constant_1 = ((b*b*b)*-1) / (27*(a**3)) + ((b*c) / (6*a*a)) - d/(2*a)
+      constant_2 = (c/(3*a) - b**2 / (9*a*a))**3
+      result_1 =  ((constant_1 + cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) + ((constant_1 - cmath.sqrt(constant_2 + constant_1 ** 2)))** (1/3) - b/(3*a)
+      result_2 = (-0.5 + (cmath.sqrt(-1)*cmath.sqrt(3))/2) * ((constant_1 + cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) + (-0.5 - cmath.sqrt(-1)*cmath.sqrt(3)/2) * ((constant_1 - cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) - b/(3*a)
+      result_3 = (-0.5 - (cmath.sqrt(-1)*cmath.sqrt(3))/2) * ((constant_1 + cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) + (-0.5 + cmath.sqrt(-1)*cmath.sqrt(3)/2) * ((constant_1 - cmath.sqrt(constant_2 + constant_1 ** 2))**(1/3)) - b/(3*a)
+      return result_1, result_2,result_3
+    #test case
+    print(cubic(-1,1,1,-1))
+
+For reference, this code is using the cubic formula to calculate roots of a cubic.  
+Now, I want to direct your attention to the part where I raise the part of the results to the third power (the ""(constant\_1 + cmath.sqrt(constant\_2 + constant\_1 \*\* 2))\*\*(1/3)""  part). This should be equal to the cube root of the number, however I have found this part of the code is creating problems for some reason. More specifically, when the number being raised is negative, things tend to go very wrong. Is there a reason why this is occuring? What's a possible fix for this?",ElegantPoet3386,1ha3mny,https://reddit.com/r/learnprogramming/comments/1ha3mny/my_python_code_is_calculating_cube_roots_wrong/,https://www.reddit.com/r/learnprogramming/comments/1ha3mny/my_python_code_is_calculating_cube_roots_wrong/,2024-12-09 06:29:49,4,0.76,4,0,8,0,0,False,False,True,False,False,Solved,,t3_1ha3mny
+learnprogramming,Past 6 month reddit posts and comments,"Hello everyone,
+I am doing a NLP project which requires me to scrape reddit data ( only around 7 subreddit data) for last 6 months ( or maybe less but need at least 2 month data).
+
+I have tried PRAW but 1000 posts is the limit and is insufficient.
+Tried to use pushshift but it is only for reddit moderators.
+
+Now I am not sure on how to proceed forward. Can someone suggest me something ?
+
+Note: I am pretty new to this and only know intermediate python.",Commercial-Fly-6296,1habbe2,https://reddit.com/r/learnprogramming/comments/1habbe2/past_6_month_reddit_posts_and_comments/,https://www.reddit.com/r/learnprogramming/comments/1habbe2/past_6_month_reddit_posts_and_comments/,2024-12-09 14:46:58,1,1.0,1,0,2,0,0,False,False,True,False,False,Topic,,t3_1habbe2
+learnprogramming,Rabbit Hole? OR Treasure Hunt?,"How would i approach my problem of deep diving/going into rabbit holes ...Today i encountered a C program  with dirent.h library. I literally spent 2 hours in getting to know what DIR structure is and where it is defined? Is it worth the time i spent or should i just change myself?   
+Is this a rabbit hole or is there any treasure (benefit) of this hunt?",Weird_Ego_2005,1haartt,https://reddit.com/r/learnprogramming/comments/1haartt/rabbit_hole_or_treasure_hunt/,https://www.reddit.com/r/learnprogramming/comments/1haartt/rabbit_hole_or_treasure_hunt/,2024-12-09 14:21:19,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1haartt
+learnprogramming,"Why isn't minGW working? After I run the downloaded exe file, it shows only one window of ""getting repository description file"" and then closes, nothing happens.","After downloading minGW from the internet, I click on the .exe file to install it, it shows the first screen where I click ""NEXT"" and then another window pops up saying ""Creating repository description file..."" and then nothing comes up.
+
+Side note: I have WSL and Ubuntu in my Windows PC, I was wondering if that is stopping minGW from installing? Please advice, I am trying to learn C programming and I feel like compiling in minGW is far better than WSL and Ubuntu. Thanks!",Plenty_Yam_672,1haaqnp,https://reddit.com/r/learnprogramming/comments/1haaqnp/why_isnt_mingw_working_after_i_run_the_downloaded/,https://www.reddit.com/r/learnprogramming/comments/1haaqnp/why_isnt_mingw_working_after_i_run_the_downloaded/,2024-12-09 14:19:44,0,0.33,0,0,1,0,0,False,False,True,False,False,,,t3_1haaqnp
+learnprogramming,Books that are always on your desk help you during programming,"As i mentioned, what are the books that are always on your desk and help you during programming?
+
+ And if you have a good book that helps with programming and understanding computers in general,  I would really appreciate it if you could mention it to me.",amadeus_004_SG,1h9l6bx,https://reddit.com/r/learnprogramming/comments/1h9l6bx/books_that_are_always_on_your_desk_help_you/,https://www.reddit.com/r/learnprogramming/comments/1h9l6bx/books_that_are_always_on_your_desk_help_you/,2024-12-08 15:27:07,59,0.89,59,0,39,0,0,False,False,True,False,False,,,t3_1h9l6bx
+learnprogramming,CS50 Final Project Ideas,"For anyone who has done CS50, I'm trying to think of some projects. I've thought of a few I want to attempt but I'm not sure there will be enough knowledge to implement them since I'm only on week 5 of the class.
+
+First is either a text based of ASCII based RPG. I'd assume a text based one wouldn't be too hard. I could have a few classes and stats, but I don't know how I'd code the enemies and make it challenging enough to be able to fail. This however would probably be a project that would help me gain a ton of experience. I'm not sure if I'd be able to do this though with the level of experience gained in CS50. It may be worth doing in a language other than C.
+
+The second idea, which is also probably complex is a minecraft skin maker. Basically a simple pixel based editor. A lot of people say to learn it, to solve a problem. However I don't have anything I can think of that needs solving. I am extremely interested in CS, but I'm not experienced enough in programming to recognize things I do on the daily.
+
+The only other thing I could think of, that may be hard at this point in time, is to find a way to program a calendar that would be able to take the appointments and things my wife have to do from IOS and Android and consolidate it into one calendar. 
+
+Any suggestions or ideas? Thanks.",ThrowawayGuidance24,1ha8aee,https://reddit.com/r/learnprogramming/comments/1ha8aee/cs50_final_project_ideas/,https://www.reddit.com/r/learnprogramming/comments/1ha8aee/cs50_final_project_ideas/,2024-12-09 12:09:16,0,0.5,0,0,0,0,0,False,False,True,False,False,Topic,,t3_1ha8aee
+learnprogramming,Please Guide me a bit ,"Hey there, So I am someone who is new to industry , I know basic Data structures and Algorithms, DBMS and OS concepts ( the usual go to for knowledge for freshers). I got a job but wanted to upskill myself. I know decent react js (frontend now kinda pointless due to Chatgpt?). 
+
+I wanted to ask you guys how you would approach learning skills which would help me get a better job ( I enjoy learning so that part isn't an issue) like there is so much one can go to - Node js, Next js, Ruby , Go, Docker etc. I am more into conventional Software developer role and wanted to ask for some guidance.
+
+And yeah I know a bit about the jobs or career paths available like AI/ML, Software developer, Devops etc.
+
+According to what I have been told Devops is kind of a plateued role? And AI/ML for sure seems to be booming but I do not have much idea on how to go on further about these ( Not more than Google XD). So please tell me what could be the future scopes in these jobs and what I should learn to approach them professionally.
+
+Thanks in advanced!",Heheboix69,1ha7k7r,https://reddit.com/r/learnprogramming/comments/1ha7k7r/please_guide_me_a_bit/,https://www.reddit.com/r/learnprogramming/comments/1ha7k7r/please_guide_me_a_bit/,2024-12-09 11:22:03,0,0.5,0,0,5,0,0,False,False,True,False,False,Resource,,t3_1ha7k7r
+learnprogramming,am i taking the right decision? ,"im an information systems engineer student (it has some similarities with CS), second year. 
+
+  
+in 3 months summer break ends and i will face a very feared class which involves coding an operating system and i thought that it would be a good idea to learn more about programming. 
+
+currently i feel interested to learn how to develop an android mobile app (as i have an android) so i found an android course which uses kotlin as the language and im a bit skeptical of this as kotlin is mostly used in android mobile app dev (really specific niche, my degree focuses on more of an understanding of the entire process of the development of the product) so im a bit scared that learning kotlin which might never be useful to me. Maybe learning java would be better but i cant find any recommended course and i dont want to hop on a random course either. (Dont get me wrong, if you tell me that kotlin could be a useful language to learn aside from android development im staying with the course i found which was recommended to me).
+
+what would you do? 
+
+CS classes i took: algorithms and data structures (C++), discrete math and computers architecture
+
+",Disastrous-Bat1277,1ha2aml,https://reddit.com/r/learnprogramming/comments/1ha2aml/am_i_taking_the_right_decision/,https://www.reddit.com/r/learnprogramming/comments/1ha2aml/am_i_taking_the_right_decision/,2024-12-09 05:04:50,3,0.8,3,0,6,0,0,False,False,True,False,False,,,t3_1ha2aml
+learnprogramming,Mandatory limit on lines of code in a function?,"I'm not new to programming but I have to take this course for my BSc, and apparently they decided to put a limit of 16 lines of code per function, including main. is this unreasonable? I feel like there comes a point where trying to tidy up code like that becomes even more uncomfortable than not. Obviously familiar with the ""don't repeat yourself"" mindset but I just wanted to hear opinions on this.",Spicy_burritos,1h9mvly,https://reddit.com/r/learnprogramming/comments/1h9mvly/mandatory_limit_on_lines_of_code_in_a_function/,https://www.reddit.com/r/learnprogramming/comments/1h9mvly/mandatory_limit_on_lines_of_code_in_a_function/,2024-12-08 16:44:24,29,0.78,29,0,93,0,0,False,False,True,False,False,,,t3_1h9mvly
+learnprogramming,I dont know anything :( i want to learn but couldnt even start :(,"hi guys! i started to study computer science this year but i dont know anything LIKE NOTHING AT ALL about coding. we have to learn c, we started with c i dont know why. Someone said first I should learn data s. and algorithms. so i started to watch youtube videos but the guy(bro code) showing them on java.And i am confused right now because i saw another video named data structures using c/c++ (freecodecamp) i thought its all common basics in every [language.Is](http://language.Is) programming language makes difference on this topic or can i watch any videos about data s. and algorithms? Can someone help me plsss?",Lost_eliff7,1h9ufe7,https://reddit.com/r/learnprogramming/comments/1h9ufe7/i_dont_know_anything_i_want_to_learn_but_couldnt/,https://www.reddit.com/r/learnprogramming/comments/1h9ufe7/i_dont_know_anything_i_want_to_learn_but_couldnt/,2024-12-08 22:18:10,9,0.85,9,0,12,0,0,False,False,True,False,False,,,t3_1h9ufe7
+learnprogramming,Solving Wordle With Regex,"Hi there r/learnprogramming,
+
+I wanted to post an article I've been working on about solving Wordle using regex (specifically using grep). This has helped me become more proficient with regex and is a lot of fun to do. A simple CLI tool I developed with Python called [wordgradient](https://github.com/ctosullivan/WordGradient) is also mentioned in the article. Hopefully this can be helpful for someone else out there!
+
+[https://cosullivan.dev/2024/12/08/Solving-Wordle-With-Grep.html](https://cosullivan.dev/2024/12/08/Solving-Wordle-With-Grep.html)",ctosullivan,1h9s53v,https://reddit.com/r/learnprogramming/comments/1h9s53v/solving_wordle_with_regex/,https://www.reddit.com/r/learnprogramming/comments/1h9s53v/solving_wordle_with_regex/,2024-12-08 20:35:41,12,0.81,12,0,1,0,0,False,False,True,False,False,,,t3_1h9s53v
+learnprogramming,Programming for young learners ,"I have a son who is 6.  We currently don’t allow much screen time or iPad time.  However, I wanted to start him down the journey of learning programming, so an exception will be made. I know the future is difficult to predict but what do you think would be useful? Are there any products/apps that will help build a baseline as far as thinking and problem solving that would be useful?
+
+Any advice would be welcomed.  Thank you in advance.  ",Adamesquire,1ha8vr7,https://reddit.com/r/learnprogramming/comments/1ha8vr7/programming_for_young_learners/,https://www.reddit.com/r/learnprogramming/comments/1ha8vr7/programming_for_young_learners/,2024-12-09 12:43:58,0,0.25,0,0,8,0,0,False,False,True,False,False,,,t3_1ha8vr7
+learnprogramming,How to know if I need rest api or something else?,"Hi guys, I would like to get some advices about api.
+
+How to know if I need rest api or an alternative?",Joy_Boy_12,1ha5lgv,https://reddit.com/r/learnprogramming/comments/1ha5lgv/how_to_know_if_i_need_rest_api_or_something_else/,https://www.reddit.com/r/learnprogramming/comments/1ha5lgv/how_to_know_if_i_need_rest_api_or_something_else/,2024-12-09 08:53:26,0,0.5,0,0,5,0,0,False,False,True,False,False,,,t3_1ha5lgv

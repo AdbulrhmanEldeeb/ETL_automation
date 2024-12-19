@@ -1,0 +1,181 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,Company blocks all downloads; how the fuck am I supposed to do my job?,"I recently started working at a big law firm as part of a four-person DevOps team, and I'm honestly losing my mind. Everything is locked down. I mean, I literally can't download anything. Want zsh? Nope. WSL for a Linux-y environment? Not happening. Need Python scripts or any files from any github repos? Also nope. Need kubens, or any other kubectl plugins? No chance. Want to be an administrator on your own computer? Not gonna happen. ChatGPT to speed up basic scripting tasks? Hah, forget it. Even Chrome extensions are off-limits.
+
+This is all because of the strict security guidelines implemented by the security and networking team. And every single time I want to do something like use some github repo to automate my work I need to open a request to the security team who are physically in a different building and it takes *days* for them to respond. And the answer is usually no!
+
+The pay is great, but I'm stuck doing a bunch of manual work that I know I could finish in a fraction of the time if I had the right tools. Is this normal at big companies—or am I just in some kind of corporate IT nightmare?
+
+I’m genuinely curious about what the DevOps experience in this regard has been like for other folks here. How do people who once had total freedom in one-man-show type positions adjust to working in such a restricted environment? and are FAANG companies like google or meta just as locked down, or do they handle security in a more flexible way?",mrmosebyes,1h9jent,https://reddit.com/r/devops/comments/1h9jent/company_blocks_all_downloads_how_the_fuck_am_i/,https://www.reddit.com/r/devops/comments/1h9jent/company_blocks_all_downloads_how_the_fuck_am_i/,2024-12-08 13:59:23,62,0.81,62,0,66,0,0,False,False,True,False,False,,self,t3_1h9jent
+devops,How hard actually is the CKA exam itself?,"Asking here because cert discussion is banned in the main Kubernetes sub, and the K8S cert sub is a ghost town.
+
+How difficult is the CKA exam itself? I have sat through the Kodekloud CKA course mock exams, and although they were tough at first, after a redo on each I got a high enough score to be satisfied.
+
+The killer.sh stuff was insane though. Incredibly tough stuff; thankfully they give the disclaimer that it's tougher than the real exam. But how much tougher?
+
+How tough is the real exam compared to these resources? Would appreciate the input of anyone who has sat it. Although I know the course content back to front, I still struggle when approaching mock exams for the first time, due to a combination of silly mistakes and being absolutely awful at problem solving for the troubleshooting section.
+
+Would greatly appreciate if anyone has any input on this.",topbananaman,1h97y3a,https://reddit.com/r/devops/comments/1h97y3a/how_hard_actually_is_the_cka_exam_itself/,https://www.reddit.com/r/devops/comments/1h97y3a/how_hard_actually_is_the_cka_exam_itself/,2024-12-08 01:45:50,62,0.97,62,0,26,0,0,False,False,True,False,False,,self,t3_1h97y3a
+devops,GHA manual workflow trigger on PR branches?,"Hi, I hope someone can help me with this since it's a bit difficult to test on my own:
+
+I have a GHA workflow to which I want to add `on: workflow_dispatch` to make it manually triggerable. This would be mostly used on PRs from forks though, but is this even possible? The manual trigger-dropdown gives me a branch selection, can I also use this to designate a branch from a fork (with open PR to this repo) as target? ",DaitoEndashi,1h9hls6,https://reddit.com/r/devops/comments/1h9hls6/gha_manual_workflow_trigger_on_pr_branches/,https://www.reddit.com/r/devops/comments/1h9hls6/gha_manual_workflow_trigger_on_pr_branches/,2024-12-08 12:14:12,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1h9hls6
+devops,How can I enable swap memory on aws eks?,"I'd like to try out the swap memory feature(beta) [https://kubernetes.io/blog/2023/08/24/swap-linux-beta/#how-do-i-use-it](https://kubernetes.io/blog/2023/08/24/swap-linux-beta/#how-do-i-use-it) on my aws eks cluster (v1.31)
+
+  
+but I can't get around my head on how can I make the necessary config given in the docs. Anyone can give me a few pointers?
+
+  
+If you could let me know if this can be done with terraform and managed node groups, that would be even better.
+
+  
+Thanks a lot!",joiSoi,1h9jxmk,https://reddit.com/r/devops/comments/1h9jxmk/how_can_i_enable_swap_memory_on_aws_eks/,https://www.reddit.com/r/devops/comments/1h9jxmk/how_can_i_enable_swap_memory_on_aws_eks/,2024-12-08 14:26:15,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1h9jxmk
+devops,"Seeking feedback on multi-repo, environment-based infra and schema management approach for my SaaS","Hi everyone,
+
+I’m working on a building a SaaS product and undergoing a bit of a AWS design shift with how I manage infrastructure, database, and application code. Initially, I planned on having each service (like a Telegram-based bot or a web application) manage its own database layer and environment separately. But I’m realizing this leads to complexity and duplication.
+
+Instead, I’m exploring a different approach:
+
+**Current Idea:**
+
+1. **Two postgres database environments (dev/prod), one shared schema:** I’ll provision a single dev database and a single prod database via one dedicated infrastructure repo. Both my Telegram bot service *and future web application* will connect to the same prod database in production, and the same dev database in development. No separate DB per service, just per environment.
+2. **Separate repos for services vs. infra:**
+   * One repo for infrastructure (provisioning the RDS instances, VPC, any shared lambda's for the APIs etc.). This repo sets up dev and prod databases as a “platform” layer right?
+   * Individual application repos for the bot and webapp code. Each service repo just points to the correct environment variables or secrets (e.g., DB endpoint, credentials) that the infra repo provides.
+3. **Schema migrations as a separate pipeline:** Database schema migrations (e.g., Flyway scripts) live in the infra repo or a dedicated “schema” repo. New features that require schema changes are done by first updating the schema at the “platform” level. Services are updated afterward to use those new columns/tables. For destructive changes, I’d do phased rollouts: add new columns first, update the code to not rely on old ones, then remove the old columns in a later release.
+
+**Why do I think this is good?**
+
+* It keeps a single source of truth for the database schema and environments, I can have one UserTable that is used both for Telegram users and Webapp users (part of the feature of the SaaS, is that you get both the Telegram interface and a webapp interface)
+* Reduces the complexity of maintaining multiple databases for each (front-end) service.
+* Allows each service to evolve independently while sharing a unified data layer.
+
+**Concerns:**
+
+* It’s a BIG mindset shift. Instead of tightly coupling a service’s code and database together, I’m decoupling them into separate repos and pipelines and don't want any drift between them. If I update one I'm not sure how it will work together.
+* Changes feel more complex: a DB schema update might require a migration in the infra repo, then code changes in each service’s repo. Or a new feature in the webapp might need to change the way the database, and so impact on the telegram bot SQL
+* Ensuring backward compatibility and coordination between multiple services that depend on the same DB.
+
+I’d love any feedback on this design approach. Is this a reasonable path for a small but growing SaaS, or am I overcomplicating it? Have others adopted a similar “infra as a platform” pattern with centralized schema management and how did it work out?
+
+Thanks in advance for your thoughts! You guys have been a massive help.",Ok_Reality2341,1h938d4,https://reddit.com/r/devops/comments/1h938d4/seeking_feedback_on_multirepo_environmentbased/,https://www.reddit.com/r/devops/comments/1h938d4/seeking_feedback_on_multirepo_environmentbased/,2024-12-07 21:52:32,12,0.88,12,0,2,0,0,False,False,True,False,False,,self,t3_1h938d4
+devops,Anyone who wants an AWS Associate level voucher?,"I have a 50% off voucher which expires 2025-01-25. 
+
+Will be willing to share with someone who has a voucher for any data science certification exam.
+
+Please dm",worriedButtcheek,1h9bes2,https://reddit.com/r/devops/comments/1h9bes2/anyone_who_wants_an_aws_associate_level_voucher/,https://www.reddit.com/r/devops/comments/1h9bes2/anyone_who_wants_an_aws_associate_level_voucher/,2024-12-08 05:02:13,3,0.8,3,0,2,0,0,False,False,True,False,False,,self,t3_1h9bes2
+devops,The state of industry certs,"I’m curious of this sub’s opinion on industry certs. I used to be a big advocate of cloud certification, largely because they were a nice forcing factor to learn new things, test my knowledge, and have something tangible to add to my resume. At one point I held nine between AWS and Linux Foundation. 
+
+Recently life has been busy and I allowed my AWS SA Pro cert to expire. My DevOps Pro is expiring in February, which I’m a little more concerned about because that’s more in line with what I do on a day-to-day. That said, I see people posting on Linkedin all the time about getting certified, and it seems it’s really becoming less of a hot commodity these days.
+
+As someone with 10 years of experience at this point, I’m questioning the continued importance of certification in my career. I have always told people I’ve mentored that certification is one of the best ways to accelerate your career, but does it get to a point of diminishing returns? I could use some advice from people in a similar position or more senior than myself. 
+
+Thanks in advance!",ominouspotato,1h8qpma,https://reddit.com/r/devops/comments/1h8qpma/the_state_of_industry_certs/,https://www.reddit.com/r/devops/comments/1h8qpma/the_state_of_industry_certs/,2024-12-07 11:39:38,44,0.94,44,0,44,0,0,False,False,True,False,False,,self,t3_1h8qpma
+devops,best practice for securing Lambda talking to a microservice inside a backend endpoint?,"with AWS resources interacting with themselves- IAM role are a good go-to.
+
+but here i have a case where lambda activated via scheduler(in eventbridge) to an endpoint trigger a function inside the backend code. which obviously isn't an AWS resource= no IAM.
+
+so i was thinking perhaps JWT token?  
+or mTLS, but i've never done that, and sounds more complex.
+
+anyone have experience with securing a communication between AWS resource and a microservice which is not aws?",pathlesswalker,1h9dhpg,https://reddit.com/r/devops/comments/1h9dhpg/best_practice_for_securing_lambda_talking_to_a/,https://www.reddit.com/r/devops/comments/1h9dhpg/best_practice_for_securing_lambda_talking_to_a/,2024-12-08 07:19:39,1,1.0,1,0,5,0,0,False,False,True,False,False,,self,t3_1h9dhpg
+devops,What's makes a hard problem to solve ? ,"Setting up a high-availability cluster with load balancing might seem like a tough challenge for some, but for a DevOps engineer who works with Kubernetes daily, it might not be that difficult.
+
+Recently, I came across a post where someone claimed to monitor developer productivity by counting commits and merges. Unsurprisingly, this approach wasn’t well-received by the developer community on LinkedIn. Most responses were along the lines of, ""Some developers solve hard problems, while others just color-code buttons.""
+
+It got me thinking: what actually makes a problem ""hard""? How do we determine whether a problem is genuinely difficult? Can problem difficulty be categorized or measured numerically? If so, how?",Samurai_2k,1h8ugxe,https://reddit.com/r/devops/comments/1h8ugxe/whats_makes_a_hard_problem_to_solve/,https://www.reddit.com/r/devops/comments/1h8ugxe/whats_makes_a_hard_problem_to_solve/,2024-12-07 15:11:29,17,0.9,17,0,11,0,0,False,False,True,False,False,,self,t3_1h8ugxe
+devops,Most companies don't appreciate the intelligence of people,"All they need is their time. For Devops roles it's double the fact.
+
+If you are in a company that appreciate your intelligence, you are damn lucky.",moneyppt,1h8l26z,https://reddit.com/r/devops/comments/1h8l26z/most_companies_dont_appreciate_the_intelligence/,https://www.reddit.com/r/devops/comments/1h8l26z/most_companies_dont_appreciate_the_intelligence/,2024-12-07 04:57:12,95,0.81,95,0,33,0,0,False,False,True,False,False,,self,t3_1h8l26z
+devops,About to start a Senior SRE/DevOps role. Feeling anxious,"So I got interviewed and was accepted into an Senior SRE/Devops role and I am anxious af. My main job would be to manage/automate mainly deployments for kubernetes clusters. I also an SRE for almost 2 years in my current org and is learning a lot.
+
+I will be working with a team of 7, being 2 of us SRE and the rest are developers. I honestly didn't think I would be accepted because I am not a software engineer prior, although I do some scripting/automation with python/bash, I am nowhere near those people who are really seasoned veterans to be called ""senior"".
+
+The hiring manager asked me I have some experiences in Kubernetes/CICD. And I told them the honest truth that I do not have any direct real professional experience w/ Kubernetes or CICD but has self learned docker/kubernets/gitlab CICD and implemented it in some of my projects. And I think that honesty was what he needed to hire me.
+
+Given that, I am anxious on my new role. What if I cannot deliver a certain automation/pipeline needed by my dev? What if I cannot code a everything they ask of me? Damn, it feels scary. ",tigidig5x,1h8setn,https://reddit.com/r/devops/comments/1h8setn/about_to_start_a_senior_sredevops_role_feeling/,https://www.reddit.com/r/devops/comments/1h8setn/about_to_start_a_senior_sredevops_role_feeling/,2024-12-07 13:24:02,12,0.74,12,0,10,0,0,False,False,True,False,False,,self,t3_1h8setn
+devops,CloudFormation is cool. But somehow terraform feels neat with aws...,curious to know your thoughts.,moneyppt,1h8n0lr,https://reddit.com/r/devops/comments/1h8n0lr/cloudformation_is_cool_but_somehow_terraform/,https://www.reddit.com/r/devops/comments/1h8n0lr/cloudformation_is_cool_but_somehow_terraform/,2024-12-07 07:04:09,34,0.72,34,0,50,0,0,False,False,True,False,False,,self,t3_1h8n0lr
+devops,Git Lfs issue ,"I cloned a repository using git svn, which generated the following branches:
+
+master
+
+trunk
+
+origin/trunk
+
+origin/tags
+
+
+Each branch contained a 130MB zip file.
+
+1. On the master branch, I initially tracked the file with Git LFS, with the path ""My Path/file.zip"".
+
+
+2. I later renamed the path to ""mypath/file.zip"" (removed the space).
+
+
+3. When pushing, I encountered an error stating the file exceeded the limit, referencing the old path with a space.
+
+
+
+To address this:
+
+1. I checked out each branch, removed spaces in the file path, and updated tracking.
+
+
+2. Cleared the cache and ran git prune on each branch.
+
+
+3. Added the zip file to .gitignore in all branches.
+
+
+
+Despite these steps, the error referencing the old path (My Path/file.zip) persists. Any idea why this path is still being referenced?",Subyyal,1h93lgi,https://reddit.com/r/devops/comments/1h93lgi/git_lfs_issue/,https://www.reddit.com/r/devops/comments/1h93lgi/git_lfs_issue/,2024-12-07 22:09:31,2,1.0,2,0,0,0,0,False,False,True,False,False,,self,t3_1h93lgi
+devops,Handling deployments to offline environments,"Hi!
+A really interesting problem came up when discussing a new project with my company.
+It's the case where deployments are not continuous but happen only 1-2 times a year. However, there's a big specific: all end environments are Windows based and are offline until there's a time for an upgrade.
+
+They're currently doing manual deployments via VPN and RDP where connection is granted only for the time of an upgrade. There's also another issue: not all environments use the same VPN client.
+
+Any ideas on how to tackle a case like this one?
+We're currently doing deployments to internal environments with on-prem GitLab CI/CD but my fear is that GitLab itself won't be enough to do something like that.
+
+I'm of course open to totally new ideas and means of achieving the optimal result.
+
+Thanks for your input!",friderik,1h8zb4r,https://reddit.com/r/devops/comments/1h8zb4r/handling_deployments_to_offline_environments/,https://www.reddit.com/r/devops/comments/1h8zb4r/handling_deployments_to_offline_environments/,2024-12-07 18:52:06,3,1.0,3,0,5,0,0,False,False,True,False,False,,self,t3_1h8zb4r
+devops,Two Months After Layoff: Still No Callbacks,"I was working at a startup and got laid off two months ago. I have 2 years of experience, but ever since the layoff, I’ve been applying everywhere and not getting any callbacks. My financial situation is really bad right now, and I just need something to get by.I know some of you have your own startup or knows someone who might need help, I’m willing to work for as little as $5/hour or even less. I just don’t want this gap in my career to grow bigger.I’d be grateful for any help or advice. Thanks for reading.",Witty-Inspection-403,1h8prs1,https://reddit.com/r/devops/comments/1h8prs1/two_months_after_layoff_still_no_callbacks/,https://www.reddit.com/r/devops/comments/1h8prs1/two_months_after_layoff_still_no_callbacks/,2024-12-07 10:30:31,8,0.59,8,0,19,0,0,False,False,True,False,False,,self,t3_1h8prs1
+devops,Devops is not for absolute beginners?,"I want to become a devops engineer. And I am total absolute beginner with no knowledge in tech except some web frontend.
+
+Some are saying that devops requires broad knowledge that beginner never had time to build and telling me to do full stack/webdev first.
+
+Is it really necessary for a person to learn full stack etc before doing devops (or) can I start doing devops directly with this roadmap:  https://roadmap.sh/devops?r=devops-beginner
+
+ ",TwoRevolutionary9550,1h9chro,https://reddit.com/r/devops/comments/1h9chro/devops_is_not_for_absolute_beginners/,https://www.reddit.com/r/devops/comments/1h9chro/devops_is_not_for_absolute_beginners/,2024-12-08 06:10:36,0,0.33,0,0,15,0,0,False,False,True,False,False,,self,t3_1h9chro
+devops,What essential tools do you install on your laptop as a DevOps or SRE?,I just installed iTerm2 on my coworker's recommendation and I just love it. I wonder what other things are out there which I am missing? :D,ashofspades,1h807lg,https://reddit.com/r/devops/comments/1h807lg/what_essential_tools_do_you_install_on_your/,https://www.reddit.com/r/devops/comments/1h807lg/what_essential_tools_do_you_install_on_your/,2024-12-06 12:26:03,206,0.97,206,0,121,0,0,False,False,True,False,False,,self,t3_1h807lg
+devops,How to transit from a career in IT support to Development/cloud computing/devops? ,"
+My background - 
+
+Pursued BCA from tier 3 college. Graduated this year with major in cloud computing in India.
+
+Working in a Witch company as a system desk analyst .
+
+My plan - 
+
+1) Get AWS practitioner/ Associate cerification done.
+2) Get my basics right about networks, operating system, gitlab, and python with a little DSA.
+
+Aim - 
+
+1) Get a decent 6-8 LPA job/internships in development/Cloud engineering/ Devops/ anything but the current job.
+2) Do this by may 2025. 
+3) Look for remote/ contract job.
+
+My questions - 
+
+What should my steps look like? 
+How should I pursue this?
+
+I don't care about the market, I'm really ready to work my ass off for this and I mean it.",Cancerous-Pudding,1h90dgp,https://reddit.com/r/devops/comments/1h90dgp/how_to_transit_from_a_career_in_it_support_to/,https://www.reddit.com/r/devops/comments/1h90dgp/how_to_transit_from_a_career_in_it_support_to/,2024-12-07 19:39:58,0,0.25,0,0,1,0,0,False,False,True,False,False,,self,t3_1h90dgp
+devops,"To all young, driven and self-taught solo developers who want to build a software project - why?","Why do you want to build it? What are you aims with this? What do you envision in years time with development? How passionate are you about software engineering and development?
+
+All of your responses would be greatly appreciated, I am currently conducting market research on my customer avatar, that's why I ask.
+
+P.S. By ""young"" I mean aged 15-19, thank you.",Rajan-Thakur01,1h97q2m,https://reddit.com/r/devops/comments/1h97q2m/to_all_young_driven_and_selftaught_solo/,https://www.reddit.com/r/devops/comments/1h97q2m/to_all_young_driven_and_selftaught_solo/,2024-12-08 01:33:48,0,0.25,0,0,3,0,0,False,False,True,False,False,,self,t3_1h97q2m

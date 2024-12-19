@@ -1,0 +1,52 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,How does a professional math lab look like?,"So, I've been trying to find how a professional math lab looks like for a project of mine. But evry time I try to search about it, the only thing that shows up is a colorful middle school classroom with some dodecahedrons hanged on the ceiling. That is, if auto correct hasn't changed my input to ""meth lab"".
+
+I've tried googling it. I've tried Pinterest. I've even tried AI.
+
+If someone here works as a research mathematician, can you please tell me how does a professional math lab look like, and if you don't mind, can you send pictures?",JubLubs_Studios,1hfjotk,https://reddit.com/r/math/comments/1hfjotk/how_does_a_professional_math_lab_look_like/,https://www.reddit.com/r/math/comments/1hfjotk/how_does_a_professional_math_lab_look_like/,2024-12-16 13:59:40,0,0.41,0,0,35,0,0,False,False,True,False,False,,,t3_1hfjotk
+math,Do you do math because of succeeding or failing?,"Do you like to do Mathematics, because
+- (1) you are good at it, and like to claim its achievements? or
+- (2) because you enjoy the process of failing?
+
+For me it is (2); I had always found Math hard, and enjoyed challenging myself. I think (1) leads to an unhealthy work ethic and shouldn't be the motivation.
+
+What about you?",xTouny,1hf16v0,https://reddit.com/r/math/comments/1hf16v0/do_you_do_math_because_of_succeeding_or_failing/,https://www.reddit.com/r/math/comments/1hf16v0/do_you_do_math_because_of_succeeding_or_failing/,2024-12-15 20:12:34,121,0.8,121,0,117,0,0,False,False,True,False,False,,,t3_1hf16v0
+math,Bijective function on a bounded set to itself ,"I was wondering if anyone knew if any good functions that can map a bounded set onto itself (for example all integers within a given range to a unique value that same range). I know you could do it with a modulo function, but I think there has to be something more random-appearing. I am trouble finding good results with the terms I can think of for this (such as a bijective endofunction). Of course there are plenty of functions that can do this on an infinite set (such as any order 2 polynomial w/ integer coefficients can do it from its vertex to either side of the number line), but I can’t seem to think of a good way to do it on a bounded set. If there are any good terms to look up or anything like that it would be very much appreciated!
+Edit: I realized this can be done in code by just shuffling the set randomly with a seed for reproducibility. I guess a shuffling algorithm is a pretty good way to do it if you have an ordered set, which is my use case",pignated,1heyjzz,https://reddit.com/r/math/comments/1heyjzz/bijective_function_on_a_bounded_set_to_itself/,https://www.reddit.com/r/math/comments/1heyjzz/bijective_function_on_a_bounded_set_to_itself/,2024-12-15 18:14:28,15,0.76,15,0,15,0,0,False,False,True,False,False,,,t3_1heyjzz
+math,Do charts have to be centered at 0  in differential geometry?,"In the proofs that d/dx\_i are indeed the basis for the tangent spaces, we always assume that phi(p) is 0, but even when we work on charts that aren't centered at 0 I see people write the same thing? why?",Flaky_Coast_7558,1hexvka,https://reddit.com/r/math/comments/1hexvka/do_charts_have_to_be_centered_at_0_in/,https://www.reddit.com/r/math/comments/1hexvka/do_charts_have_to_be_centered_at_0_in/,2024-12-15 17:44:10,0,0.3,0,0,6,0,0,False,False,True,False,False,,,t3_1hexvka
+math,Pearsons Rank Correlation turned into percentage,"Once you've done PRC you will get an R-value between (-1) and (+1).
+
+If you then add 1 to that result and divide by 2
+
+**(R+1)/2**
+
+you will get an answer between 0-100. Is it correct to say that that is a percentage of how similar two tables are?
+
+For example, two people rank their favorite ice-creams, instead of saying they have a negative R-value of (-0,2), is it still correct to say that they have 40% similar taste?",CarbonScythe0,1hffa28,https://reddit.com/r/math/comments/1hffa28/pearsons_rank_correlation_turned_into_percentage/,https://www.reddit.com/r/math/comments/1hffa28/pearsons_rank_correlation_turned_into_percentage/,2024-12-16 09:14:59,6,0.75,6,0,1,0,0,False,False,True,False,False,,,t3_1hffa28
+math,A visual proof that a^2 – b^2 = (a + b)(a – b),,mmaksimovic,1hfiat0,https://reddit.com/r/math/comments/1hfiat0/a_visual_proof_that_a2_b2_a_ba_b/,https://www.futilitycloset.com/2024/12/15/tidy-2/,2024-12-16 12:46:13,83,0.91,83,0,13,0,0,False,False,False,False,False,,,t3_1hfiat0
+math,Intuition behind the definition of MCD as the sum of ideals in principal ideal domains.,"In my Algebra/Number theory course we have defined the MCD (only in PIDs) as the generator of the sum of ideals, meaning: 
+MCD(a,b) = M  &lt;=&gt; (a)+(b) = (M),
+
+where MCD means maximum common divisor and parenthesis denote the ideal generated by that element. 
+I don't understand how this definition relates to the MCD in integers. If I take ax+by, why should that be a multiple of the MCD?? We have then used this for Bezout's identity and to solve diophantine equations in PIDs so it's pretty crucial.  
+
+I also don't completely get why the mcm (minimum common multiple) is the intersection of ideals, in particular the inclusion (a)∩(b) ⊆ (m), where m = mcm(a,b).
+If a number is a multiple of both a and b, why should it be a multiple of their mcm??
+
+",God_Aimer,1hfgrwm,https://reddit.com/r/math/comments/1hfgrwm/intuition_behind_the_definition_of_mcd_as_the_sum/,https://www.reddit.com/r/math/comments/1hfgrwm/intuition_behind_the_definition_of_mcd_as_the_sum/,2024-12-16 11:07:40,7,0.89,7,0,3,0,0,False,False,True,False,False,,,t3_1hfgrwm
+math,Best Linear Algebra book for my case (Lang vs Strang),"I am studying economics and I would like to have a solid base in linear algebra to be able to apply it in the future in areas such as programming/ML and econometrics. Currently I have basic knowledge (High school) but I would like to improve my reasoning and understand it perfectly. 
+
+I was mainly recommended Lang's book for my case, but I have also seen those by Strang and Axler. What do you think?
+
+Pd: I have already taken a calculus course and I consider myself very good at mathematics.",Martin_Perril,1hfiwq6,https://reddit.com/r/math/comments/1hfiwq6/best_linear_algebra_book_for_my_case_lang_vs/,https://www.reddit.com/r/math/comments/1hfiwq6/best_linear_algebra_book_for_my_case_lang_vs/,2024-12-16 13:19:47,11,0.83,11,0,10,0,0,False,False,True,False,False,,,t3_1hfiwq6
+math,Proof by induction in algebra,"Is it just me or is proof by induction the single most common proof technique used in abstract algebra, at least at the late undergrad/early grad level?
+
+I saw it quite a bit when I was teaching myself Galois theory, where I often saw the trick of applying the induction hypothesis to a number's (e.g., the degree of a splitting field) proper factors.  
+
+Now, as I'm learning commutative algebra, it seems like every other theorem has a proof by induction.  I'm spending the afternoon learning the proof of the Noether normalization lemma, and of course, it's another inductive proof.
+
+I never realized that induction was such an important proof technique.  But maybe it's because of the ""discreteness"" of algebra compared to analysis?  Come to think of it, I can't think of many proofs in analysis where induction plays a big role.  One that I could remember was the proof in Rudin that nonempty perfect sets are uncountable, which has an inductive construction, but I'm not sure if that strictly counts as a proof by induction.",WMe6,1hf2wss,https://reddit.com/r/math/comments/1hf2wss/proof_by_induction_in_algebra/,https://www.reddit.com/r/math/comments/1hf2wss/proof_by_induction_in_algebra/,2024-12-15 21:30:26,39,0.95,39,0,18,0,0,False,False,True,False,False,,,t3_1hf2wss
+math,"Obtaining a copy of Manivel's Symmetric Functions, Schubert Polynomials and Degeneracy Loci","As the title suggests, I would like a physical copy of Laurent Manivel's *Symmetric Functions, Schubert Polynomials and Degeneracy Loci*. Amazon doesn't seem to have it, and despite it being an AMS text I cannot find it anywhere on any AMS site. If anyone can point me somewhere where I can find a new / lightly used copy that would be greatly appreciated.",Spamakin,1hf7zrx,https://reddit.com/r/math/comments/1hf7zrx/obtaining_a_copy_of_manivels_symmetric_functions/,https://www.reddit.com/r/math/comments/1hf7zrx/obtaining_a_copy_of_manivels_symmetric_functions/,2024-12-16 01:35:38,4,1.0,4,0,2,0,0,False,False,True,False,False,,,t3_1hf7zrx
+math,Pulling back model structure,"Suppose we have a faithful functor between bi-complete categories [; U:C'\rightarrow C;], and a model structure on [;C;]. Does taking pre-image of the classes of fibrations, cofibrations, and weak equivalences yields a model structure on [;C';] ?
+
+Context: I am trying to understand the process of animating a concrete category, so the categories here should be simplicial objects in a concrete category and simplicial sets (endowed with the Quillen model structure).",Acceptable-Double-53,1hf36ht,https://reddit.com/r/math/comments/1hf36ht/pulling_back_model_structure/,https://www.reddit.com/r/math/comments/1hf36ht/pulling_back_model_structure/,2024-12-15 21:42:20,8,0.91,8,0,6,0,0,False,False,True,False,False,,,t3_1hf36ht

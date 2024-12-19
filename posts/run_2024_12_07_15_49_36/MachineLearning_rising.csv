@@ -1,0 +1,86 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,"[N] Sama, an AI sweatshop, pays workers in Kenya $2 an hour to filter and label porn, beastiality, suicide, child abuse, for hours on end!!",,BotherBubbly5096,1h8nhbh,https://reddit.com/r/MachineLearning/comments/1h8nhbh/n_sama_an_ai_sweatshop_pays_workers_in_kenya_2_an/,https://youtu.be/qZS50KXjAX0,2024-12-07 07:38:08,98,0.77,98,0,52,0,0,False,False,False,False,False,News,https://b.thumbs.redditmedia.com/6xyP-Tq6WRzMpjniGg5h_3Z_bhf29lyA0LV_LQ19-1s.jpg,t3_1h8nhbh
+MachineLearning,[R] For a change of topic: some nonLLM focused work of mine: Bias-Free Sentiment Analysis through Semantic Blinding and Graph Neural Networks,"In my academic field (social sciences) I deal with the problem of bias in SA models. My previous work showed that deep learning SA systems inherit bias (e.g. nonrepresentative of the population political bias) from annotators: 
+
+https://arxiv.org/abs/2407.13891
+
+Now I devised a solution that used a technique I call semantic blinding to provide only the bare necessary information for the model to predict emotions in text, leaving no signal for the model to overfit and produce bias from:
+
+https://arxiv.org/abs/2411.12493
+
+Interested to hear your thoughts before I publish the SProp Gnn.
+
+Do you think it could be useful beyond the academia?
+
+
+
+",Hub_Pli,1h8meas,https://reddit.com/r/MachineLearning/comments/1h8meas/r_for_a_change_of_topic_some_nonllm_focused_work/,https://i.redd.it/vh80i11ndd5e1.jpeg,2024-12-07 06:21:47,17,0.82,17,0,7,0,0,False,False,False,False,False,Research,https://b.thumbs.redditmedia.com/sSwXTBHlRlELGHTRvPNAxo6LSQVRdxL5HTNiMSYTfTs.jpg,t3_1h8meas
+MachineLearning,[R] JAX vs TensorFlow-XLA ,"
+Few months ago, I migrated from TF 2.0 to Jax. I found that jax is significantly faster than Tf. I noticed in the official documentation that it relies on XLA default that uses JIT compilation which makes execution faster. I also noticed that TF graphs also have option to enable JIT compilation with XLA. But still jax dominates TF with XLA. I just want to know why.",Odd-Detective289,1h8j2e5,https://reddit.com/r/MachineLearning/comments/1h8j2e5/r_jax_vs_tensorflowxla/,https://www.reddit.com/r/MachineLearning/comments/1h8j2e5/r_jax_vs_tensorflowxla/,2024-12-07 03:02:19,12,0.93,12,0,6,0,0,False,False,True,False,False,Research,self,t3_1h8j2e5
+MachineLearning,[D] Any OCR recommendations for illegible handwriting?,"
+Has anyone had experience using an ML model to recognize handwriting like this? The notebook contains important information that could help me decode a puzzle I’m solving. I have a total of five notebooks, all from the same person, with consistent handwriting patterns. My goal is to use ML to recognize and extract the notes, then convert them into a digital format.
+
+I was considering Google API after knowing that Tesseract might not work well with illegible samples like this. However, I’m not sure if Google API will be able to read it either. I read somewhere that OCR+ CNN might work, so I’m here asking for suggestions. Thanks! Any advice/suggestions are welcomed! ",SpaceSheep23,1h7x5us,https://reddit.com/r/MachineLearning/comments/1h7x5us/d_any_ocr_recommendations_for_illegible/,https://www.reddit.com/gallery/1h7x5us,2024-12-06 08:53:03,166,0.89,166,0,169,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/LeDstkPiGT-yO7zkyvRRyx6sE33qB2W32UGe1t81Kkk.jpg,t3_1h7x5us
+MachineLearning,How to solve the STT Cutoff Problem [D],"Hello folks, 
+
+I've been working on an agentic solution where you can have an autonomous agent taking live calls. We're using a pipeline of Speech to Text, LLM for generating responses and then Text to Speech. In this pipeline, Speech to text is causing some issues because it's difficult to determine when exactly a sentence is over since the user can take pauses. Moreover, when multiple inputs go into LLM, multiple responses are generated and they queue up for Text to speech. How would you solve this problem? How would you also handle cases where the user interrupts the agent?",Leo2000Immortal,1h8r32q,https://reddit.com/r/MachineLearning/comments/1h8r32q/how_to_solve_the_stt_cutoff_problem_d/,https://www.reddit.com/r/MachineLearning/comments/1h8r32q/how_to_solve_the_stt_cutoff_problem_d/,2024-12-07 12:04:55,0,0.5,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1h8r32q
+MachineLearning,[D] AAAI 2025 Phase 2 Decision,"When would the phase 2 decision come out?  
+I know the date is December 9th, but would there be chances for the result to come out earlier than the announced date?  
+or did it open the result at exact time in previous years? (i.e., 2024, 2023, 2022 ....)
+
+Kinda make me sick to keep waiting.",No-Style-7975,1h8kkjv,https://reddit.com/r/MachineLearning/comments/1h8kkjv/d_aaai_2025_phase_2_decision/,https://www.reddit.com/r/MachineLearning/comments/1h8kkjv/d_aaai_2025_phase_2_decision/,2024-12-07 04:27:30,4,1.0,4,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h8kkjv
+MachineLearning,[D]Stuck in AI Hell: What to do in post LLM world,"
+Hey Reddit,
+
+I’ve been in an AI/ML role for a few years now, and I’m starting to feel disconnected from the work. When I started, deep learning models were getting good, and I quickly fell in love with designing architectures, training models, and fine-tuning them for specific use cases. Seeing a loss curve finally converge, experimenting with layers, and debugging training runs—it all felt like a craft, a blend of science and creativity. I enjoyed implementing research papers to see how things worked under the hood. Backprop, gradients, optimization—it was a mental workout I loved.
+
+But these days, it feels like everything has shifted. LLMs dominate the scene, and instead of building and training models, the focus is on using pre-trained APIs, crafting prompt chains, and setting up integrations. Sure, there’s engineering involved, but it feels less like creating and more like assembling. I miss the hands-on nature of experimenting with architectures and solving math-heavy problems.
+
+It’s not just the creativity I miss. The economics of this new era also feel strange to me. Back when I started, compute was a luxury. We had limited GPUs, and a lot of the work was about being resourceful—quantizing models, distilling them, removing layers, and squeezing every bit of performance out of constrained setups. Now, it feels like no one cares about cost. We’re paying by tokens. Tokens! Who would’ve thought we’d get to a point where we’re not designing efficient models but feeding pre-trained giants like they’re vending machines?
+
+I get it—abstraction has always been part of the field. TensorFlow and PyTorch abstracted tensor operations, Python abstracts C. But deep learning still left room for creation. We weren’t just abstracting away math; we were solving it. We could experiment, fail, and tweak. Working with LLMs doesn’t feel the same. It’s like fitting pieces into a pre-defined puzzle instead of building the puzzle itself.
+
+I understand that LLMs are here to stay. They’re incredible tools, and I respect their potential to revolutionize industries. Building real-world products with them is still challenging, requiring a deep understanding of engineering, prompt design, and integrating them effectively into workflows. By no means is it an “easy” task. But the work doesn’t give me the same thrill. It’s not about solving math or optimization problems—it’s about gluing together APIs, tweaking outputs, and wrestling with opaque systems. It’s like we’ve traded craftsmanship for convenience.
+
+Which brings me to my questions:
+
+1. Is there still room for those of us who enjoy the deep work of model design and training? Or is this the inevitable evolution of the field, where everything converges on pre-trained systems?
+
+
+2. What use cases still need traditional ML expertise? Are there industries or problems that will always require specialized models instead of general-purpose LLMs?
+
+
+3. Am I missing the bigger picture here? LLMs feel like the “kernel” of a new computing paradigm, and we don’t fully understand their second- and third-order effects. Could this shift lead to new, exciting opportunities I’m just not seeing yet?
+
+
+4. How do you stay inspired when the focus shifts? I still love AI, but I miss the feeling of building something from scratch. Is this just a matter of adapting my mindset, or should I seek out niches where traditional ML still thrives?
+
+
+
+I’m not asking this to rant (though clearly, I needed to get some of this off my chest). I want to figure out where to go next from here. If you’ve been in AI/ML long enough to see major shifts—like the move from feature engineering to deep learning—how did you navigate them? What advice would you give someone in my position?
+
+And yeah, before anyone roasts me for using an LLM to structure this post (guilty!), I just wanted to get my thoughts out in a coherent way. Guess that’s a sign of where we’re headed, huh?
+
+Thanks for reading, and I’d love to hear your thoughts!
+
+TL;DR: I entered AI during the deep learning boom, fell in love with designing and training models, and thrived on creativity, math, and optimization. Now it feels like the field is all about tweaking prompts and orchestrating APIs for pre-trained LLMs. I miss the thrill of crafting something unique. Is there still room for people who enjoy traditional ML, or is this just the inevitable evolution of the field? How do you stay inspired amidst such shifts?
+
+Update: Wow, this blew up. Thanks everyone for your comments and suggestions. I really like some of those. This thing was on my mind for a long time, glad that I put it here. Thanks again!",Educational_News_371,1h7jg87,https://reddit.com/r/MachineLearning/comments/1h7jg87/dstuck_in_ai_hell_what_to_do_in_post_llm_world/,https://www.reddit.com/r/MachineLearning/comments/1h7jg87/dstuck_in_ai_hell_what_to_do_in_post_llm_world/,2024-12-05 20:49:57,651,0.97,651,0,194,0,0,False,False,True,False,False,Discussion,self,t3_1h7jg87
+MachineLearning,[R] Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis,"New paper and code for the scale-wise transformer for fast text-to-image generation from our team at Yandex Research
+
+Switti outperforms existing T2I AR models and competes with state-of-the-art T2I diffusion models while being faster than distilled diffusion models.
+
+Code with checkpoints: [https://github.com/yandex-research/switti](https://github.com/yandex-research/switti)
+
+[Generation examples](https://preview.redd.it/7jy3jfxhi95e1.png?width=3094&amp;format=png&amp;auto=webp&amp;s=e80ed27c0b746ec782026581500582a5dd03555d)
+
+",_puhsu,1h85z2c,https://reddit.com/r/MachineLearning/comments/1h85z2c/r_switti_designing_scalewise_transformers_for/,https://www.reddit.com/r/MachineLearning/comments/1h85z2c/r_switti_designing_scalewise_transformers_for/,2024-12-06 16:58:21,11,0.87,11,0,0,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/Io25PLG5YopCFj4DOTGJ-MxIEcQdXRQbpwevn2M-Kts.jpg,t3_1h85z2c
+MachineLearning,[R] Agentic Retrieval Augmented Generation with Memory,"Imagine a customer support chatbot for an e-commerce platform that retrieves relevant product details from its knowledge base and performs web searches for additional information. Furthermore, it remembers past conversations to deliver a seamless and personalized experience for returning users.   
+  
+Here is how it works:  
+  
+\- Store your own data in the knowledge base—in our case, a Website URL.  
+\- Convert the data into embeddings and save it in the Qdrant Vector Database.  
+\- Use phidata Agentic Workflow to combine Tools, LLM, Memory, and the Knowledge Base.
+
+Code Implementation Video: [https://www.youtube.com/watch?v=CDC3GOuJyZ0](https://www.youtube.com/watch?v=CDC3GOuJyZ0)",External_Ad_11,1h8945d,https://reddit.com/r/MachineLearning/comments/1h8945d/r_agentic_retrieval_augmented_generation_with/,https://www.reddit.com/r/MachineLearning/comments/1h8945d/r_agentic_retrieval_augmented_generation_with/,2024-12-06 19:10:50,7,0.82,7,0,1,0,0,False,False,True,False,False,Research,self,t3_1h8945d

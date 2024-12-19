@@ -1,0 +1,147 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,"What's up with those ""founder"" accounts making bank with their AI SaaS on Twitter?","Over the past few weeks my feed on twitter has been flooded with guys that supposedly are making a lot of money with their SaaS. 
+
+When you go into their websites they all have the same layout and design, only changing colors/texts/images etc.
+
+The post screenshots of their Stripe account showing some of them making +10k usd/month with their websites. But the products seem bland.
+
+Also, they seem to be proud of not being really good at coding and that they were able to code and deploy production level apps without any knowledge.
+
+Common sense tell me they're faking everything but there's a part of me that thinks that maybe, some of them had success with some SaaS? What do you think?",tyrellrummage,1hgckz1,https://reddit.com/r/webdev/comments/1hgckz1/whats_up_with_those_founder_accounts_making_bank/,https://www.reddit.com/r/webdev/comments/1hgckz1/whats_up_with_those_founder_accounts_making_bank/,2024-12-17 15:05:31,4,0.64,4,0,10,0,0,False,False,True,False,False,,self,t3_1hgckz1
+webdev,Do you balance side projects alongside your job?,What the title says,yeahimjtt,1hgdd6k,https://reddit.com/r/webdev/comments/1hgdd6k/do_you_balance_side_projects_alongside_your_job/,https://www.reddit.com/r/webdev/comments/1hgdd6k/do_you_balance_side_projects_alongside_your_job/,2024-12-17 15:41:48,2,1.0,2,0,4,0,0,False,False,True,False,False,Question,self,t3_1hgdd6k
+webdev,This code was very difficult for me to write. Does everyone have this much difficulty when they start?,,TOVBEKAR_OLAN,1hgcjy1,https://reddit.com/r/webdev/comments/1hgcjy1/this_code_was_very_difficult_for_me_to_write_does/,https://i.redd.it/ehca90pkbf7e1.png,2024-12-17 15:04:11,0,0.25,0,0,28,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/GxV6A206nhYwE17h7gVGvYocI58QunJeZMRPTQOfgNI.jpg,t3_1hgcjy1
+webdev,Why does everyone make things that exist?,"I see a lot of startups going into the hype cycle, which is understandable. But I also see so many webapps for resource planning, retrospectives etc. It’s either that, some AI thing, SaaS or something related to DevOps.
+
+I see all this through ads or just looking at some local startups in my city.
+
+Why does everyone want to make tools for making things instead of making a product in itself?
+
+Seems everyone is selling shovels for other shovel selling businesses. Have we gone mad",kakemot,1hgadsd,https://reddit.com/r/webdev/comments/1hgadsd/why_does_everyone_make_things_that_exist/,https://www.reddit.com/r/webdev/comments/1hgadsd/why_does_everyone_make_things_that_exist/,2024-12-17 13:16:30,58,0.87,58,0,45,0,0,False,False,True,False,False,,self,t3_1hgadsd
+webdev,The recent WP hacks along with Matt's tantrums &amp; antics have made me realize one thing as a WP Designer:,"I am constantly in shit. 
+
+Now I used to be a developer in React (both Web and React Native) but took a huge break from that trying to focus more on my mental health and figuring out what I want to do which turned out to be design and illustration. I used to hate WordPress because I didn't know much about as a developer with his nose in the air. 
+
+As a designer now, of course I use WordPress for myself and found some clients so I can make a living. I am grateful for this ecosystem and it's community. 
+
+But I'll be damned if I don't mention how insecure I feel as of late. There have been so many hacks in the system and I don't see much people really reacting as hard I would expect them to so it either tells me that these hacks are a norm in the system or that we are better off acting ignorant of it all. 
+
+To top off the fact that Matt's antics show how much of a joke he takes this project and it's community for, it makes me really wonder if I should invest more in WordPress by learning PHP and getting deeper into the development aspect of it since lacking in that aspect might put so many clients at risk under my name and brand, or if I should just translate my design skills into going back to the JavaScript environments. 
+
+Either way, however, I know I will have to learn cybersecurity because it's not like WordPress is the factor of being hacked, a lot of systems get hacked. It's just that Matt being the cherry on top of this whole episode I'm witnessing just destroys so much confidence I had for WordPress. 
+
+Anyway, I guess this post might be useless and I'm just hoping to relate to someone who is more of a web professional than I am. Thanks for reading.",KayePi,1hg4vqn,https://reddit.com/r/webdev/comments/1hg4vqn/the_recent_wp_hacks_along_with_matts_tantrums/,https://www.reddit.com/r/webdev/comments/1hg4vqn/the_recent_wp_hacks_along_with_matts_tantrums/,2024-12-17 06:46:05,32,0.78,32,0,20,0,0,False,False,True,False,False,Discussion,self,t3_1hg4vqn
+webdev,Is coding fun for you or is it just a job?,Do you actually enjoy coding?,EspressoOverdose,1hfucav,https://reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/,https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/,2024-12-16 21:39:28,167,0.88,167,0,294,0,0,False,False,True,False,False,,self,t3_1hfucav
+webdev,"PSA Regarding WCAG 2 (2.0, 2.1, 2.2.)","Just a PSA for everyone needing to do a research for the upcoming EU Norm, where WCAG 2.2 is the new standard coming mid 2025:
+
+After 2 days of research, reading the w3 docs and having a hard-time putting each information together bit by bit:
+
+There was an older thread, with a [comment](https://www.reddit.com/r/webdev/comments/z6ri8g/reading_wcag_21_waiaria/iy2tx2e/) for exactly this topic, where a user linked to https://webaim.org/standards/wcag/.
+
+Those people already did a very lovely summary of all needed successcriteria - updated for the upcoming WCAG 2.2!
+
+Big thanks to webaim.org and to u/CreativeTechGuyGames !
+
+
+I hope someone finds this as useful as i do",bucketkraken,1hgalky,https://reddit.com/r/webdev/comments/1hgalky/psa_regarding_wcag_2_20_21_22/,https://www.reddit.com/r/webdev/comments/1hgalky/psa_regarding_wcag_2_20_21_22/,2024-12-17 13:28:10,9,1.0,9,0,0,0,0,False,False,True,False,False,Resource,self,t3_1hgalky
+webdev,How do you handle hosting as a freelancer?,"I'm building this first freelance full stack app (for a friend) and the idea of how I will be passing him the app always plays in my mind. The mistake I made is I didn't discuss with him the costs and further details, we simply had a conversation about him wanting an app, and I suggested to build it for him with a cost ofc --which isn't set yet
+
+And after careful consideration, I'm thinking of hosting the app in Heroku's basic plan (7$/mo).
+
+Now what I wanna know is after deploying the app, who should be in charge of the monthly costs? And what are some options you suggest that I can discuss with him? And how can I set a reasonable price for the app? ",WadieZN,1hg8ma6,https://reddit.com/r/webdev/comments/1hg8ma6/how_do_you_handle_hosting_as_a_freelancer/,https://www.reddit.com/r/webdev/comments/1hg8ma6/how_do_you_handle_hosting_as_a_freelancer/,2024-12-17 11:27:34,7,0.89,7,0,14,0,0,False,False,True,False,False,,self,t3_1hg8ma6
+webdev,Frontend Completeness,"I am a backend developer now focused on frontend web development.  The goal is to offer my services to build static sites, for now, for clients and I want to ensure I am following proper guidelines and ensuring that the site is a complete professional product.    
+  
+My question is what is needed for a professional website to be complete?  I am referring to things like sitemaps, SSL certificates, and more that I am not currently aware of?  Not so much accessability, styling, and structure.  As far as SEO I am sure I can find alot of resources online to ensure I am optimizing the site for this, but feel free to include information on this subject if you wish.  This is more about the things that are needed that are not really obvious or taught in frontend courses.  
+
+Thank you in advance.",copperfoxtech,1hg4thw,https://reddit.com/r/webdev/comments/1hg4thw/frontend_completeness/,https://www.reddit.com/r/webdev/comments/1hg4thw/frontend_completeness/,2024-12-17 06:41:34,8,0.84,8,0,8,0,0,False,False,True,False,False,,self,t3_1hg4thw
+webdev,access a var in javascript from HTML,"(Solved)
+
+Hello, I'm new to web developemnt and I have a question.
+
+I have a javascript file that contain a variable and I want to change it from html, how can I do that?
+
+html code:
+
+    &lt;script&gt;
+    PleaseRotateOptions = {
+    subMessage: """",
+    onHide: function () {  //access file here },
+    onShow: function () { },
+    allowClickBypass: false,
+    };
+    &lt;/script&gt;
+
+javascript code
+
+    var onHide = false; // for example make it true",Jo_Joo,1hga8y9,https://reddit.com/r/webdev/comments/1hga8y9/access_a_var_in_javascript_from_html/,https://www.reddit.com/r/webdev/comments/1hga8y9/access_a_var_in_javascript_from_html/,2024-12-17 13:08:49,3,0.71,3,0,15,0,0,False,False,True,False,False,Question,self,t3_1hga8y9
+webdev,Is it normal to hate my job?,"Hey guys, I have been going through a situation for the past 5 months or so.
+
+So, I am a webdev for about 3 years now, started at a small startup using pure js and php, like the good old days and then switched to my current company using Java and JSP, working on a big fintech company here where I live.
+
+The thing is, I entered the programming world while young, at my 16 years I discovered that I could make games by my own if I sat down and learned programming, and that's what I did, started with a local game development course that was shutdown due to the lack of interest from local teens. Switched my course to some more generic but still related to IT.
+
+As I said, nowadays, I work as a full-time java developer, but my dream always has been of developing games, idc if it's a small studio, big studio or just going indie with a few friends, and I feel that I'm stuck with java for fintech stuff and this thought has made me get stuck, I'm close to being not productive at work, before I start a task I get myself just studying c++ or something else, I really want to change, but idk what to change.
+
+Should I change myself and try to at least enjoy what I do or try to get out of this situation?",visnicio,1hfo6et,https://reddit.com/r/webdev/comments/1hfo6et/is_it_normal_to_hate_my_job/,https://www.reddit.com/r/webdev/comments/1hfo6et/is_it_normal_to_hate_my_job/,2024-12-16 17:20:49,73,0.84,73,0,63,0,0,False,False,True,False,False,Discussion,self,t3_1hfo6et
+webdev,SQL database design for storing tags,"Completely rookie dev here. My application allows admins associated to a specific organisation to create custom tags and tag organisational resources (PDFs, images etc.) that can later be filtered. I'm using PosgreSQL. My initial idea is having a Tags table with Organisational ID, Admin ID (who created the tag), Tag ID, and Tag Name. Then associate the Tag ID to specific organisational resources. But then each resources can have multiple tags so not sure what's the solution here. I'm more familiar with NoSQL where one way is to just store the tags of a resource object as an array of Tag objects
+
+Is there a better way of doing it? I have a RAG who should be able to query the database for specific tags by name so that might complicate things
+
+Edit: Thanks for the great advices everyone! ",InfinityZeroFive,1hg14v4,https://reddit.com/r/webdev/comments/1hg14v4/sql_database_design_for_storing_tags/,https://www.reddit.com/r/webdev/comments/1hg14v4/sql_database_design_for_storing_tags/,2024-12-17 03:02:12,13,0.89,13,0,13,0,0,False,False,True,False,False,Discussion,self,t3_1hg14v4
+webdev,First time website project for my employer,"So I recently got this standard IT job not website related. They told me that they need a new website or a remake of what they already have and they can outsource it or have me do it. Now I know a decent amount about HTML CSS and javascript and I can make a much better website using wordpress than what they currently have. They said they paid someone 5k for this terrible website which looks ugly, has bad functionality and they can’t even access the analytics. So, I can definitely provide something better. Now my question is; is it worth asking for any payment for this as It’s my employer and technically I’m already getting paid, I would be very happy with any amount of money for it and it will still be cheaper for them. If so, how much should i ask for and how could i go about it? Lastly, I was thinking of asking them that if they’re happy with what I bring, they could recommend me with their clients to let me make websites for them maybe giving my employer company a commission for it. It’s field management company who’s clients aren’t their competitors, so I don’t see why not, but what do you think?",PlayfulEffective9,1hg9t8m,https://reddit.com/r/webdev/comments/1hg9t8m/first_time_website_project_for_my_employer/,https://www.reddit.com/r/webdev/comments/1hg9t8m/first_time_website_project_for_my_employer/,2024-12-17 12:44:00,2,1.0,2,0,4,0,0,False,False,True,False,False,Question,self,t3_1hg9t8m
+webdev,An end-to-end data pipeline tool in Go called Bruin ,"Hi all, I have been pretty frustrated with how I had to bring together bunch of different tools together, so I built a CLI tool that brings together data ingestion, data transformation using SQL and Python and data quality in a single tool called Bruin:
+
+[https://github.com/bruin-data/bruin](https://github.com/bruin-data/bruin)
+
+Bruin is written in Golang, and has quite a few features that makes it a daily driver:
+
+* it can ingest data from many different sources using ingestr
+* it can run SQL &amp; Python transformations with built-in materialization &amp; Jinja templating
+* it runs Python fully locally using the amazing uv, setting up isolated environments locally, mix and match Python versions even within the same pipeline
+* it can run data quality checks against the data assets
+* it has an open-source VS Code Extension that can do things like syntax highlighting, lineage, and more.
+
+We had a small pool of beta testers for quite some time and I am really excited to launch Bruin CLI to the rest of the world and get feedback from you all. I know it is not often to build data tooling in Go but I believe we found ourselves in a nice spot in terms of features, speed, and stability.
+
+Looking forward to hearing your feedback!",karakanb,1hgdjk1,https://reddit.com/r/webdev/comments/1hgdjk1/an_endtoend_data_pipeline_tool_in_go_called_bruin/,https://www.reddit.com/r/webdev/comments/1hgdjk1/an_endtoend_data_pipeline_tool_in_go_called_bruin/,2024-12-17 15:49:47,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hgdjk1
+webdev,How can I have two totally different themes in the same project with MUI and Tailwind?,"I have two different products in the same repo, but their designs are different. Most of the componentes are shared but some features are different.
+
+The problem I’m facing is dealing with the UI, specifically theming conflicts. I have setup two MaterialUI themes, and also two Tailwind presets, each with their own color variables. And depending on which project I want to run, it selects the right theme.
+
+But it’s not as reliable, because often when I change something in product A, it breaks product B, with the MUI themes it’s better but with Tailwind it happens often. For example, a component is styled with tailwind classes and used in both products, one needs a border and the other doesn’t. Of course one way to solve this would be to check which product uses which classes but the code is unmaintainable and messsy.
+
+Another common issue that I have is: Product A primary color is a dark color and product B is a light color, so they need different text colors.
+
+
+How would you deal with this?
+
+Ideas I have:
+
+1. A components library, so instead of manually styling them in the project itself, I create a separate repo only for the UI, and in there I can do the variants logic in a more isolated way. This would bring a new repo to maintain tho and a new workflow we may not have the space for.
+
+2. Maybe stop using Tailwind to style the components, and focus more on MUI since I can then have different designs for each. One issue with this, is I can only use MUI components and I already have many custom ones.
+
+Not sure if there is a way to easily create the Product A and B variants of a component and use them based off the environment variable the defines the project.
+
+It can’t be too troublesome tho, I need a way to easily create and maintain components.",PatchDev_,1hg8i0v,https://reddit.com/r/webdev/comments/1hg8i0v/how_can_i_have_two_totally_different_themes_in/,https://www.reddit.com/r/webdev/comments/1hg8i0v/how_can_i_have_two_totally_different_themes_in/,2024-12-17 11:19:02,3,0.71,3,0,5,0,0,False,False,True,False,False,Question,self,t3_1hg8i0v
+webdev,Why is Angular is seen as more hard to learning than React?,"I think is more easy to understand and more similar to HTML + CSS + JS courses that a component has a ts file, a css file and a html file than React JSX Soup. 
+I don't say Angular is better only that I don't see the more hard learning curve. ",OkTop7895,1hfhmqm,https://reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/,https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/,2024-12-16 12:04:47,138,0.8,138,0,185,0,0,False,False,True,False,False,,self,t3_1hfhmqm
+webdev,best way to save worker results in microservice architecture,"I'm currently developing a graphql api in nodejs with graphql-yoga that needs to query and process large amounts of data from an external service. 
+
+To ease the load on my api service I thought of using bullmq to create a multi purpose worker microservice to which I can offload expensive tasks from my main api server. 
+
+Now I'm wondering what is the best way to get the worker result data back to my main application. The data the worker produces should end up in the postgres database that the api service uses and it also downloads some files that I want to save in a bucket.
+
+there are a few approaches that I thought of:
+
+1. Give the worker access to the db and a bucket to save the data directly.
+This approach goes against my understanding of an encapsulated microservice architecture.
+
+2. Put the result data back into another bullmq queue and let the api server write the data to the database. But how would I handle the files I want to save in a bucket?
+
+3. create endpoints on the apiserver for the worker to return its data. I do not want to have internal graphql endpoints to pollute my schema. I discovered that maybe grpc could be a good fit for this but never used it.
+
+Is any of the approaches even viable? Maybe there are other ways to achieve this that I don't know about, I would really appreciate some input on this :)
+
+",matshoo,1hg83y8,https://reddit.com/r/webdev/comments/1hg83y8/best_way_to_save_worker_results_in_microservice/,https://www.reddit.com/r/webdev/comments/1hg83y8/best_way_to_save_worker_results_in_microservice/,2024-12-17 10:51:33,2,0.76,2,0,3,0,0,False,False,True,False,False,,self,t3_1hg83y8
+webdev,Any alternatives to PunchSalad for generating multiple SSLs?,This service seems to not be working  and I need to generate over 20 SSLs. Looking for an easy way to do this. ,twiggs462,1hgblce,https://reddit.com/r/webdev/comments/1hgblce/any_alternatives_to_punchsalad_for_generating/,https://www.reddit.com/r/webdev/comments/1hgblce/any_alternatives_to_punchsalad_for_generating/,2024-12-17 14:18:14,1,1.0,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1hgblce
+webdev,Columbus Ohio?,Looking for a web designer/dev in the Columbus Ohio area for a mid sized company,Sea_Code_3050,1hgbkvl,https://reddit.com/r/webdev/comments/1hgbkvl/columbus_ohio/,https://www.reddit.com/r/webdev/comments/1hgbkvl/columbus_ohio/,2024-12-17 14:17:36,0,0.33,0,0,0,0,0,False,False,True,False,False,,self,t3_1hgbkvl

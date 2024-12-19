@@ -1,0 +1,102 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,Movie: Colors of math,"Does anyone have an idea where I can watch Colors of Math by Ekaterina Eremenko, I can't find it, I appreciate your help 🙏🏼
+
+",AMMZ31416,1h5rviw,https://reddit.com/r/math/comments/1h5rviw/movie_colors_of_math/,https://www.reddit.com/r/math/comments/1h5rviw/movie_colors_of_math/,2024-12-03 16:48:41,0,0.5,0,0,1,0,0,False,False,True,False,False,,,t3_1h5rviw
+math,"Road to mathematical rigor, where from here?","I am at a bit of an impasse. My interest in math bloomed a bit later than it does for most kids, and while I consider that both a good and a bad thing, it has left me in a bit of a pickle.
+
+I am in my Senior year of high school, and became ""very good"" at math only in my junior year. Now my interests have grown exponentially, and quite beyond the school curriculum. 
+
+I have done a lot of self study, currently doing differentials (I'm trying to get a good math basis for quantum physics which is very diff-e and vector heavy). I am considered very advanced by my peers and teachers, but I don't feel like it, and I think I know the reason why.
+
+Because I've been trying to ""catch up"" to the truly talented kids for the past 6 months, I feel like I have a good grasp on the advanced concepts I've learned myself but lack the rigorous ability to do the basic stuff.
+
+What I mean by this is, when I do the algebra portion of a problem, like let's say an integral was already set up, all the calculus was done, and now it's only 10th grade algebra that's left, there is a 50/50 chance I'll do it right the first time and then another 50/50 chance of me spotting the error (if the solution *feels* really wrong I usually find it, and it's something insane every time). I feel like the really talented math kids who've been doing math rigorously from like age 6 have this down to muscle memory.
+
+To make a comparison to another hobby of mine, I feel like they are really good at writing prose while I'm very good at structuring a story. The issue is, a good structure with poor prose will give you a story no one will read.
+
+I don't know where to go from here. I feel very concentrated while doing the ""hard parts"" of a problem and then my head feels full of cotton while I'm doing basic computations. I make errors that are both ludicrous and invisible to me, for example:
+
+Let's say we have a function f(x) = (x^2)/(x^2-x),
+
+This function is defined if x^2-x ≠ 0
+
+After some basic computing we get the penultimate step:
+
+x ≠ 0
+
+x - 1 ≠ 0
+
+And then I'll write
+
+x ≠ 0
+x ≠ **-1**
+
+And I guarantee you I will not spot that error. It will sabotage the entire problem, whatever might come after it, and I won't notice it unless I redo the whole thing again.
+
+I don't know what to do. This is just not good enough, but I don't know how to fix it. I've done probably hundreds and hundreds of practice problems and the same algebra mistakes are ruining me. It has gotten to the point where I never feel confident in my calculations, nor believe I have what it takes to be truly good at math. It's like I lack some mathematical intuition that really talented people have.
+
+I've been feeling rather demotivated because of this, specifically because I can't trust myself and my own ability. If I could at least trust that and only have missing knowledge, I'd be excited to learn. The way things are I just feel useless as a mathematician and I have no plan on how this might be resolved.",zZEpicSniper303Zz,1h6ch6h,https://reddit.com/r/math/comments/1h6ch6h/road_to_mathematical_rigor_where_from_here/,https://www.reddit.com/r/math/comments/1h6ch6h/road_to_mathematical_rigor_where_from_here/,2024-12-04 09:50:20,3,0.6,3,0,6,0,0,False,False,True,False,False,,,t3_1h6ch6h
+math,Best Mathematics Programs in the U.S?,"Official U.S.News T10 Best Mathematics Programs Ranked in 2023:  
+  
+n°1 in Mathematics (tie), 5.0, Princeton University, Princeton, NJ  
+n°1 in Mathematics (tie), 5.0, Massachusetts Institute of Technology, Cambridge, MA  
+n°3 in Mathematics (tie), 4.9, Harvard University, Cambridge, MA  
+n°3 in Mathematics (tie), 4.9, Stanford University Stanford, CA  
+n°3 in Mathematics (tie), 4.9, University of California--Berkeley, Berkeley, CA  
+n°6 in Mathematics (tie), 4.8, University of Chicago, Chicago, IL  
+n°7 in Mathematics, 4.7, University of California--Los Angeles, Los Angeles, CA  
+n°8 in Mathematics, (tie) 4.6, California Institute of Technology, Pasadena, CA  
+n°8 in Mathematics (tie), 4.6, New York University, New York, NY  
+n°8 in Mathematics (tie), 4.6, Yale University, New Haven, CT  
+  
+source: https://www.usnews.com/best-graduate-schools/top-science-schools/mathematics-rankings",Responsible_Card_824,1h6b65n,https://reddit.com/r/math/comments/1h6b65n/best_mathematics_programs_in_the_us/,https://www.reddit.com/r/math/comments/1h6b65n/best_mathematics_programs_in_the_us/,2024-12-04 08:09:18,0,0.24,0,0,5,0,0,False,False,True,False,False,,,t3_1h6b65n
+math,Triangles with integer sides and an angle of 120°,"I would like to share a fun exercise that I came up with.
+
+I was thinking about which points on a square grid have integer distance, and the answer is obviously given by Pythagorean triples, which can be generated by the famous Euclid's formula. Then I wondered: What about a triangular (or hexagonal) grid? There, the possible integer distances are given by the triangles with integer sides and an angle of 120°. If the sides are a, b, c, and the 120° angle is between a and b, then they satisfy a² + b² + ab = c² (by the law of cosines).
+
+Then I wondered if I could come up with the analogous of Euclid's formula for this class of triangles, and I found that, if m and n are two integers with m &lt; n, then the triple (a, b, c) where
+
+a = n² - m²
+
+b = 2mn + m²
+
+c = m² + n² + mn
+
+satisfies our condition. Moreover, it is not difficult to prove that if m and n are coprime and not congruent modulo 3, then the triple is primitive (i.e., GCD(a,b,c) = 1). It can also be shown that all primitive triples can be obtained by this formula.
+
+That's it, I just wanted to share this fun little exercise in number theory. I also wonder if this formula already has a name. I am not aware of it, but probably someone knows better than me.
+
+Edit: typos",wuriku,1h6173n,https://reddit.com/r/math/comments/1h6173n/triangles_with_integer_sides_and_an_angle_of_120/,https://www.reddit.com/r/math/comments/1h6173n/triangles_with_integer_sides_and_an_angle_of_120/,2024-12-03 23:12:25,9,0.74,9,0,4,0,0,False,False,True,False,False,,,t3_1h6173n
+math,Fourier Transform,"Hello, 
+I have a presentation on image compression which deploys Fourier transform, So please recommend me books  that delve into the Fourier transform ",p05TE,1h6f592,https://reddit.com/r/math/comments/1h6f592/fourier_transform/,https://www.reddit.com/r/math/comments/1h6f592/fourier_transform/,2024-12-04 12:46:12,4,0.83,4,0,4,0,0,False,False,True,False,False,,,t3_1h6f592
+math,Specific examples of mathematical models failing us with devastating consequences?,"Like the title says, im looking for some specific examples of where some mathematical models that humans have relied on have failed us with devastating results. Any help is greatly appreciated!",nathandaq_,1h5qkmy,https://reddit.com/r/math/comments/1h5qkmy/specific_examples_of_mathematical_models_failing/,https://www.reddit.com/r/math/comments/1h5qkmy/specific_examples_of_mathematical_models_failing/,2024-12-03 15:53:02,157,0.94,157,0,86,0,0,False,False,True,False,False,,,t3_1h5qkmy
+math,Relationship between functions,"Hello, I'm wondering if in mathematics there is a specific name for, or if it's a particular subject of study, the following relationship between functions, or if it’s not really of interest: 
+
+Let f(x,y) and g(x,y) be such that f(x,n)=g(f(x,n−1),x). 
+
+That is, this describes the relationship between multiplication and addition f(x,y)=x⋅y and  g(x,y)=x+y, but it also applies, for instance, to f(x,y)=x/y and g(x, y) = xy/(x + y) and many others…
+
+  
+Thank you",pmascaros,1h6b27d,https://reddit.com/r/math/comments/1h6b27d/relationship_between_functions/,https://www.reddit.com/r/math/comments/1h6b27d/relationship_between_functions/,2024-12-04 08:01:18,5,0.73,5,0,3,0,0,False,False,True,False,False,,,t3_1h6b27d
+math,What basic math finds the most utility in higher mathematics.,"I'm thinking along the lines of the pythagorean theorem, pascals triangle, proof of infinitude of primes etc.",lipguy123,1h6bqcd,https://reddit.com/r/math/comments/1h6bqcd/what_basic_math_finds_the_most_utility_in_higher/,https://www.reddit.com/r/math/comments/1h6bqcd/what_basic_math_finds_the_most_utility_in_higher/,2024-12-04 08:53:12,66,0.93,66,0,39,0,0,False,False,True,False,False,,,t3_1h6bqcd
+math,topology texts,"i’m wondering if people have a recommendation on an introductory topology textbook to use to self-study with. i’m currently using Armstrong, but i’ve seen others say Munkres is good, and i like the style of it. any thoughts/opinions??",its_too_hard_to_name,1h66rxd,https://reddit.com/r/math/comments/1h66rxd/topology_texts/,https://www.reddit.com/r/math/comments/1h66rxd/topology_texts/,2024-12-04 03:37:23,16,0.87,16,0,14,0,0,False,False,True,False,False,,,t3_1h66rxd
+math,What's the largest finite structure you know or have worked with recently?,"Title. Let it be reasonably notable, and please mention the size as well.
+
+Also, feel free to bend ""structure"" and ""size"" to your wishes.",psykosemanifold,1h60or9,https://reddit.com/r/math/comments/1h60or9/whats_the_largest_finite_structure_you_know_or/,https://www.reddit.com/r/math/comments/1h60or9/whats_the_largest_finite_structure_you_know_or/,2024-12-03 22:50:56,53,0.94,53,0,22,0,0,False,False,True,False,False,,,t3_1h60or9
+math,Anyone else find it tough to grade proofs?,"I'm a first year post doc teaching a measure theory and integration course. This is my first time teaching and grading a proof based course. Today the students were filling out their course evaluations and I was also doing some reflecting on how things went. The semester is about to finish and looking back I barely had any time to do research because of how much time this course took! The most time consuming thing was grading homeworks and exams (I'm at a small school so unfortunately there's no teaching assistant to help with grading). I have 24 students and I assign about 10 problems a week with a midterm and final. It takes me forever to go through their logic and determine whether or not their proof is valid. Despite my PhD being in an analysis heavy field I feel like I learned more about measure theory and integration teaching this course than I did while taking a similar course as a grad student!
+
+I began to wonder if grading proofs is normally this time consuming or if I don't understand the material as deeply as I thought and that's why it's taking me hours and hours. I have no idea how you guys manage to produce papers while teaching. Curious to hear what other educators have to say.",CouldTryMyBest,1h67wve,https://reddit.com/r/math/comments/1h67wve/anyone_else_find_it_tough_to_grade_proofs/,https://www.reddit.com/r/math/comments/1h67wve/anyone_else_find_it_tough_to_grade_proofs/,2024-12-04 04:39:22,183,0.97,183,0,45,0,0,False,False,True,False,False,,,t3_1h67wve
+math,Is there a standard for classifying circular permutations? Either by complexity or some other metric,"So this ""problem"" has been on my mind and I feel like the concept probably has been explored, but I am having trouble finding literature on it or the right term to google.
+
+Say you have a set made up of elements with a known order (e.g. 10 integers).
+
+And say that we can define a known order for this set, for example lets call the ""base"" circular permutation is is just N mod 9 in order so 0-&gt;1...-&gt;8
+
+We know there are (N-1)! unique circular permutations. Some of them will be ""similar"" to the base circular permutation. For example,  (0,1,2,6,7,8,3,4,5) would be largely ""similar"" to the base permutation, but has two points where it jumps to other part of the the base cycle. On the other hand, (1, 8, 3, 6, 4, 7, 2, 0, 5) seems completely random form the base permutation.
+
+Is there a known / standard way to quantify / sort all the permutations, based on how similar they are to known ordered ""base"" circular permutation?
+
+",drupadoo,1h6dcuz,https://reddit.com/r/math/comments/1h6dcuz/is_there_a_standard_for_classifying_circular/,https://www.reddit.com/r/math/comments/1h6dcuz/is_there_a_standard_for_classifying_circular/,2024-12-04 10:53:59,8,0.9,8,0,4,0,0,False,False,True,False,False,,,t3_1h6dcuz
+math,Interesting question related to the divergence theorem and probability distributions on R^n,"I’m working through a textbook, and my vector calculus is a bit rusty, so I’m trying to see if my intuition here holds. Any help is appreciated. 
+
+I’ll use italics for vectors. Let p(*x*) be a probability distribution with support on all of R^n. Now, consider a general nxn matrix A. What I’m interested in is the volume integral of div(x_k A *x* p(*x*)) (where x_k is the kth element of *x*) over all of R^n. My intuition is that, due to the divergence theorem, this integral should be the limit of the surface integral of x_k A *x* p(*x*) • *n* over a boundary increasing in size to infinity. My intuition says, since p(*x*) is a probability distribution, it will decay at infinity, and therefore the integral should be = 0. Is this correct, or are there some conditions on the matrix A for this to be true, or is this just incorrect?",borntoannoyAWildJowi,1h5wezw,https://reddit.com/r/math/comments/1h5wezw/interesting_question_related_to_the_divergence/,https://www.reddit.com/r/math/comments/1h5wezw/interesting_question_related_to_the_divergence/,2024-12-03 19:54:58,1,1.0,1,0,2,0,0,False,False,True,False,False,,,t3_1h5wezw

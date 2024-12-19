@@ -1,0 +1,257 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+learnprogramming,How many programming languages should I learn?,"I do my unversity studies but at the same time I started to learn Kotlin. After one year I can do a lot of things using Kotlin. I thought it would be cool to get a job so I started to learn Java now. But there are some other languages I like, these are Ruby, Zig and V. Is that too much. My focus would be on Kotlin and Java, but sometimes I would use these languages too. I think it can boost my logical thinking. Am I wrong? Less is more?",baishan-99,1h6hds4,https://reddit.com/r/learnprogramming/comments/1h6hds4/how_many_programming_languages_should_i_learn/,https://www.reddit.com/r/learnprogramming/comments/1h6hds4/how_many_programming_languages_should_i_learn/,2024-12-04 14:31:55,1,0.67,1,0,5,0,0,False,False,True,False,False,,,t3_1h6hds4
+learnprogramming,Looking for a programming buddy,"I'm a 22 year old Computer Science ""student"" who is looking for a programming buddy. I have fallen victim of learning for the sake of learning. I have studied for 2 years and I have a basic knowledge of programming and networking. 
+I program with Python and I have a very basic knowledge of c and c++.
+Fyi: I'm a horrible coder and I need to upgrade my algorithmic thinking.
+I'm looking for a buddy or even better a group of buddies so we can study, learn and build projects together.
+Having 1 or 2 people at your side pushing you to get better I believe is a good strategy. Plus , we get to enhance our portfolios ;)
+
+PS 
+Ideally, I would like to hang out with programmers at my own level and with the same aspirations as me.",Loumidis_,1h6e5xu,https://reddit.com/r/learnprogramming/comments/1h6e5xu/looking_for_a_programming_buddy/,https://www.reddit.com/r/learnprogramming/comments/1h6e5xu/looking_for_a_programming_buddy/,2024-12-04 11:47:53,64,0.93,64,0,72,0,0,False,False,True,False,False,,,t3_1h6e5xu
+learnprogramming,My life as a full stack developer is a joke and a waste of time ,"
+I’m a full-stack developer with 3 years of experience. I have worked with frontend technologies (HTML, CSS, JavaScript, React), and backend (Java: springboot, Python: Flask, basic NLP/ML). The issue is that I constantly switch between stacks in my work. For the past 3–4 months, I have been working with Java, but now I can’t even remember the syntax for frontend technologies, not even basic HTML, CSS, or JavaScript. I feel like an idiot who has wasted 3 years. How can I have worked on something and not even remember it? I was embarrassed because, during an interview, I was asked a React question, and I couldn’t code. Then, I was asked a Java question, and I couldn’t code that either. 
+
+Full stack developers, how do you remember all the syntax for frontend and backend in an interview?
+
+I know during work we can google the syntax but in an interview the interviewer expect us to write a workable code.",Funny-Ad218,1h5x3xt,https://reddit.com/r/learnprogramming/comments/1h5x3xt/my_life_as_a_full_stack_developer_is_a_joke_and_a/,https://www.reddit.com/r/learnprogramming/comments/1h5x3xt/my_life_as_a_full_stack_developer_is_a_joke_and_a/,2024-12-03 20:22:34,497,0.95,497,0,98,0,0,False,False,True,False,False,,,t3_1h5x3xt
+learnprogramming,I don't know which path to follow.,"Hi everyone I'll start studying computer science in this spring but I'm still not sure about what path should I follow. I've learned Front-End Developing for almost a year while in high school, learned html, css, javascript and some react, built a chat-app, a e-commerce app and some more projects too, but I wasn't feeling like myself when I was developing a website, I wasn't really enjoying it. Being a programmer is my dream since middle school and don't get me wrong, I really really enjoy writing codes and seeing the results of codes I wrote, it feels very good but I don't think Front-End suits me. I'm trying to learn Game Developing with Unity at the moment because it was also my dream to develop my own game and make it reach thousands and even though I'm not able to do much in Unity I'm really enjoying it, but my friends telling me that game developing isn't really good career choice so I should do it as a hobby, as a side quest. So what are the other options for me? What can I do? I've tried to post it in r/cscareerquestions but auto mod deleted it because I don't have 100+ comment karma.",Hypnamed,1h6gzna,https://reddit.com/r/learnprogramming/comments/1h6gzna/i_dont_know_which_path_to_follow/,https://www.reddit.com/r/learnprogramming/comments/1h6gzna/i_dont_know_which_path_to_follow/,2024-12-04 14:14:43,5,0.86,5,0,2,0,0,False,False,True,False,False,Career Help,,t3_1h6gzna
+learnprogramming,"Got my first internship as a software engineer at a leading semiconductor equipment company, which uses C++. Need some guidance.","I am graduating this year with a degree in computer science and I have a **good understanding of Java and Python,** I have built 3 full stack web apps using flask and have solved close to 150 Leetcode problems in Java and/or Python. I really like fundamentals of computers (architecture, OS, etc) but I haven't really done c++.
+
+My internship starts in 2 months and I want to be atleast a little prepared with c++. The job description says ""Creation of new products and enhancements to existing products from requirement to launch as part of a cross functional team involved in the development of **equipment control and automation SW.**"" Any advice would be great.",StinkySlime_2406,1h6a8kz,https://reddit.com/r/learnprogramming/comments/1h6a8kz/got_my_first_internship_as_a_software_engineer_at/,https://www.reddit.com/r/learnprogramming/comments/1h6a8kz/got_my_first_internship_as_a_software_engineer_at/,2024-12-04 07:01:28,13,0.88,13,0,5,0,0,False,False,True,False,False,,,t3_1h6a8kz
+learnprogramming,What I wish I knew when so I could’ve escaped tutorial hell earlier.,"""Stop spending so much time watching tutorials and start building projects."" You've heard this advice a lot but you ask yourself, ""Am I ready?"" The answer is probably yes.
+
+
+As a beginner, particularly in web dev, you should know: 
+- Basics of HTML and CSS 
+- Basic JS syntax - variables, arrays, loops, data types, objects, operators, conditionals, functions, etc.
+ - Also try to get a firm understanding of async/await and promises. This will be crucial for working on web apps.
+
+
+After this, begin learning about the web. Get an overview to understand how the frontend, backend and databases interact with each other.
+
+
+Learn about Git/Github and why source control (aka saving your code) is important and learn a few commands such as changing directory, listing files and making a new directory.
+
+
+From here, choose a frontend framework such as React and/or Next.js, a backend framework such as Express and SQL for either Postgres or MySQL.
+
+
+Learn the basics of these, including how to build a page with basic interface on the frontend and make API calls, learn how to create an API endpoint/routes on the backend, how to connect to a database of your choice and how to query it.  
+
+
+Now stop! 
+
+
+Congratulations, you're now equipped to start building projects. Notice how I didn't tell you to spend hours upon hours watching YouTube tutorials. Or how I didn't tell you to learn all the advanced topics of each language and framework.
+
+
+The main point is that you don’t need to know everything. You don't need to be an ""expert"". You can learn the rest along the way using Google, YouTube, Stack Overflow and AI. Building projects will speed up your learning x10. 
+
+
+But now you're wondering what to even build?? My advice is to build something that might solve a problem for yourself or build a clone of an app you’re intrigued about.
+
+
+I’m currently building [EscapeTutorialHell](https://escapetutorialhell.com) which is something I wish I had so I could’ve avoided wasting time trying to come up with ideas on my own and starting projects I never finished.",danielr088,1h5u2fr,https://reddit.com/r/learnprogramming/comments/1h5u2fr/what_i_wish_i_knew_when_so_i_couldve_escaped/,https://www.reddit.com/r/learnprogramming/comments/1h5u2fr/what_i_wish_i_knew_when_so_i_couldve_escaped/,2024-12-03 18:19:10,137,0.97,137,0,18,0,0,False,False,True,False,False,Resource,,t3_1h5u2fr
+learnprogramming,I’m lost give me ur dev wisdom,"I took angela yu full stack course on udemy finished 70% of it then stopped. I assumed that getting a web dev job would be supper easy, but the more i look at jobs the more they ask for. I wanted to do front end but those jobs just don’t exist anymore. You have no choice but to do full stack. I don’t know how to go about learning back end better, i keep coming across videos of people who title videos in english and don’t SPEAK ACTUAL ENGLISH. I thought about just taking a boot camp but i don’t want to pay 10k for something that i’m already half way educated on, just to be potentially scammed with out dated lectures and not get a job. I keep coming across out dated videos which is stressful. I want to learn typescript and i want to learn how to use react better.I use react and don’t fully know how to use it. My front end knowledge isn’t bad i don’t think i’m a beginner but i don’t know how to go about learning back end better. I was very motivated for a while 5-6 months, but had like 3 months i couldn’t code and eased my way back into it. I don’t think it helps that i’m working full time and doing full time school(barely learning anything useful in school).It’s hard to feel motivated when i feel over worked what do i do? ",SuspiciousShower8713,1h691om,https://reddit.com/r/learnprogramming/comments/1h691om/im_lost_give_me_ur_dev_wisdom/,https://www.reddit.com/r/learnprogramming/comments/1h691om/im_lost_give_me_ur_dev_wisdom/,2024-12-04 05:44:32,11,0.7,11,0,27,0,0,False,False,True,False,False,,,t3_1h691om
+learnprogramming,Math coding example based courses?,"Hey guys first year mech eng Student getting his ass kicked by C coding and other classes (sleep deprivation is reaching new levels haha). Rn Bro codes videos are saving my ass on the basics of coding but I'm struggling to produce any real code and it takes me too long to produce something for my classes. 
+
+As of recent we've been having on coding alot of math functions on C, I feel so lost, I can't find any videos specifically on C discussing examples on a case basis.  For me it's best to learn things in context.
+
+I briefly looked over the FAQ section the only thing that stood out to me that had C was the MIT course but it looks like a jargon of text, I probably go over it and see if it helps. However id really appreciate a course that goes straight to the point, as soon I'll have to write a program to pass the class fully by myself. ",Akspl,1h6h57w,https://reddit.com/r/learnprogramming/comments/1h6h57w/math_coding_example_based_courses/,https://www.reddit.com/r/learnprogramming/comments/1h6h57w/math_coding_example_based_courses/,2024-12-04 14:21:37,2,0.75,2,0,3,0,0,False,False,True,False,False,,,t3_1h6h57w
+learnprogramming,Do we really need garbage collection?,"I'm accustomed to thinking of garbage collection as a ""must have"" feature for a programming language.  However, my recent forays with The C Programming Language have led me to question the use of garbage collection.
+
+After using valgrind extensively to detect memory leaks in my code, I've been led to wonder the following: why can't I just set up my CI/CD in such a way as to block any commits when valgrind detects a leak?  Wouldn't doing this guarantee just as much memory safety as garbage collection, except without the additional overhead?",soretravail,1h67asm,https://reddit.com/r/learnprogramming/comments/1h67asm/do_we_really_need_garbage_collection/,https://www.reddit.com/r/learnprogramming/comments/1h67asm/do_we_really_need_garbage_collection/,2024-12-04 04:05:32,10,0.65,10,0,43,0,0,False,False,True,False,False,,,t3_1h67asm
+learnprogramming,"Dart or JavaScript, or just go native? ","I wanted to get some input from the learning to program community, I'm currently new to programming and would like to get started learning a language.
+
+I am torn between which language to learn first. Programming will just be a hobby for me, but I would like to eventually make a mobile app. I'm not sure whether I should start with dart, JavaScript, or just go native with swift. 
+
+I am willing to put in the work to learn a language fully, and the mobile development environment after. 
+
+Any thoughts are greatly appreciated! ",Budget-Pollution-391,1h6f87w,https://reddit.com/r/learnprogramming/comments/1h6f87w/dart_or_javascript_or_just_go_native/,https://www.reddit.com/r/learnprogramming/comments/1h6f87w/dart_or_javascript_or_just_go_native/,2024-12-04 12:50:49,2,1.0,2,0,0,0,0,False,False,True,False,False,,,t3_1h6f87w
+learnprogramming,Learn Architecture with Me Study Group!,"Hey, all. I'm interested in forming a study group on discord. I'm currently studying the Essentials of Computer Organization and Architecture by Linda Null. I was wondering if anyone else might be open/interested in joining in weekly sessions to go over problems or discuss the material.
+
+I want this to be open to people at all levels of experience, as you dont need a strong background to begin learning the fundamentals. Please comment if you're interested or have any suggestions for holding a study group!  
+",cogSciAlt,1h667cr,https://reddit.com/r/learnprogramming/comments/1h667cr/learn_architecture_with_me_study_group/,https://www.reddit.com/r/learnprogramming/comments/1h667cr/learn_architecture_with_me_study_group/,2024-12-04 03:08:32,9,0.78,9,0,12,0,0,False,False,True,False,False,,,t3_1h667cr
+learnprogramming,What do we need to understand to make C and C++ syntax more intuitive,"Coming from using python and SQL, C and C++ look and feel very unintuivie. The very syntax to my knowledge and experience seems very random.
+
+However I am sure there is a pattern and a method to the madness.
+
+Please help, what foundational understanding do I need to make this feel more natural, readable, and digestive for learning?
+
+And finally, when it comes to learning how to do new thigs in C, does anyone have any advice?",CompetitiveTart505S,1h6j0br,https://reddit.com/r/learnprogramming/comments/1h6j0br/what_do_we_need_to_understand_to_make_c_and_c/,https://www.reddit.com/r/learnprogramming/comments/1h6j0br/what_do_we_need_to_understand_to_make_c_and_c/,2024-12-04 15:40:04,1,1.0,1,0,2,0,0,False,False,True,False,False,Topic,,t3_1h6j0br
+learnprogramming,Doubted of my abilities,"Hello everyone!
+
+Currently, I am a 9th grade student and a person of the beautiful country of Vietnam :)
+
+I want to share a story with everyone, as well as hope to receive some advice or encouragement (am I asking too much lol)
+
+My wish is to get into a top school in the city I live in, and of course with my passion for programming (IT), my wish is to pass this subject.
+
+But recently, I feel like I am not doing well:
+
+\- There are many problems that I cannot solve (thinking for a long time and have no solution). Even some of them when I know the answer are surprisingly simple!
+
+\- I can do some problems, but the problem is that I cannot handle all the test cases, only a few of them. Some of the questions I know why I made mistakes and made mistakes, some I don't even know where I made mistakes (I even thought the test was wrong lol). This is also the most difficult thing for me because of course when taking the test I can only submit my questions once but most of the questions I don't get a full test.
+
+\- That's the most frustrating thing for me, I feel like I'm not making any progress and just standing still, this makes me especially worried and almost lose confidence in myself.
+
+Have any of you here gone through or are going through this stage? Have you ever felt a loss of confidence, doubted your abilities? Have you ever felt discouraged and wanted to give up?
+
+That's probably how I feel right now, so I need some advice and sharing from you. Thank you!",Hendringer,1h6io5j,https://reddit.com/r/learnprogramming/comments/1h6io5j/doubted_of_my_abilities/,https://www.reddit.com/r/learnprogramming/comments/1h6io5j/doubted_of_my_abilities/,2024-12-04 15:26:10,1,1.0,1,0,0,0,0,False,False,True,False,False,,,t3_1h6io5j
+learnprogramming,Looking to help tutor C#,"I've been looking to improve my teaching skills for C# fundamentals and am looking to but not limited to help anyone learning or is rusty with C#. Senior/experienced devs are welcome, always open to feedback and improvement! I'm in the East coast time zone, and my availabilities are usually after 7:30pm
+
+Also if anyone is interested in building projects for their portfolio/resume, I have some team project ideas and can help teach ab the standard project cycles and practices.
+
+(I've been asked this before, but I am not looking for any compensation just want to help you and I learn and grow as a dev)",Chinzilla12,1h6i8w5,https://reddit.com/r/learnprogramming/comments/1h6i8w5/looking_to_help_tutor_c/,https://www.reddit.com/r/learnprogramming/comments/1h6i8w5/looking_to_help_tutor_c/,2024-12-04 15:08:48,1,1.0,1,0,0,0,0,False,False,True,False,False,Resource,,t3_1h6i8w5
+learnprogramming,Can anyone help me for optimization of this code? #newbie ,"I have a problem that has a function 
+
+f(n)= 1, n=0   
+f(n)= 2, n=1   
+f(n)= a+b, n=2   
+f(n)= 5, n=3   
+f(n)= \[a f(n-2)+b\] mod 10\^9 + 7, n= even, n&gt;3  
+f(n)= \[4 f(n-2)-4f(n-4)+((n-1)\^2)/4\] mod 10\^9 + 7, n=odd, n &gt;3   
+  
+where t is a number of testcases
+
+Here I have done several optimizations, namely using define mod so that I don't need to calculate with pow anymore and changing the division involving (n-1)\^2 /4 in the formula for odd values ​​into a more efficient modulo operation using the properties of the Galois Field. But still, it doesn't work. Time Limit here is 1s
+
+    #include &lt;stdio.h&gt;
+    
+    #define ll long long
+    #define mod 1000000007
+    
+    ll invrs_mod(ll x) {
+        ll res = 1;
+        ll pow = mod - 2;  
+        while (pow) {
+            if (pow % 2)
+                res = (res * x) % mod;
+            x = (x * x) % mod;
+            pow = pow / 2;
+        }
+        return res;
+    }
+    
+    ll f_FUNC(int a, int b, int n) {
+        if (n == 0) return 1;
+        if (n == 1) return 2;
+        if (n == 2) return (a + b) % mod;
+        if (n == 3) return 5;
+    
+        ll f_prev4 = 1;  
+        ll f_prev3 = 2; 
+        ll f_prev2 = (a + b) % mod; 
+        ll f_prev1 = 5;  
+        ll f_cur = 0;
+        ll invrs_4 = invrs_mod(4);  
+    
+        for (int i = 4; i &lt;= n; i++) {
+            ll square = (ll)(i - 1) * (i - 1) % mod; 
+            if (i % 2 == 0) {
+                f_cur = (a * f_prev2 + b) % mod;
+            } else {
+                f_cur = (4 * f_prev2 - 4 * f_prev4 + (square * invrs_4) % mod) % mod;
+                if (f_cur &lt; 0) f_cur += mod; 
+            }
+            
+            f_prev4 = f_prev3;
+            f_prev3 = f_prev2;
+            f_prev2 = f_prev1;
+            f_prev1 = f_cur;
+        }
+    
+        return f_cur;
+    }
+    
+    int main() {
+        int a, b, n, t;
+        scanf(""%d"", &amp;t);
+        for (int i = 0; i &lt; t; i++) {
+            scanf(""%d %d %d"", &amp;a, &amp;b, &amp;n);
+            printf(""%lld\n"", f_FUNC(a, b, n));
+        }
+        return 0;
+    }
+    
+    
+    ",ercyruxxx,1h6dmlh,https://reddit.com/r/learnprogramming/comments/1h6dmlh/can_anyone_help_me_for_optimization_of_this_code/,https://www.reddit.com/r/learnprogramming/comments/1h6dmlh/can_anyone_help_me_for_optimization_of_this_code/,2024-12-04 11:12:01,2,1.0,2,0,2,0,0,False,False,True,False,False,,,t3_1h6dmlh
+learnprogramming,Would a short news app summarizing news in 30 seconds work?,"I'm thinking of starting a startup for a news app that provides 30-second summaries of top stories, with a link to the main news source for more details. The goal is to save time while keeping users informed.
+
+Do you think this idea has potential? What features would make it stand out? Any advice or feedback is appreciated!",mobarok-ksa,1h6ddci,https://reddit.com/r/learnprogramming/comments/1h6ddci/would_a_short_news_app_summarizing_news_in_30/,https://www.reddit.com/r/learnprogramming/comments/1h6ddci/would_a_short_news_app_summarizing_news_in_30/,2024-12-04 10:54:51,2,0.75,2,0,6,0,0,False,False,True,False,False,,,t3_1h6ddci
+learnprogramming,The gap between the learning environment and the real cases,"I'm really confused by the environment when learning programming. They are always command line, shell, console or whatever, with bulks of similar concepts come up like module, library, framework. And the only usage of it seems to be that you can see the output on the screen when run it.
+
+However, what you actually use or see everyday is softwares in desktop or apps in smartphone that are much more vivid and touchable. There is **HUGE GAP** between the environment and the actual cases. And what's worse is that no one try to make it clear and the beginners have to keep the confusion unresolved by patience until they walk through the path nearly till the end, or they just give up which might the most cases.
+
+As for me, I tried to learn programming at least 8 times in the past 20 years, ranging from BASIC, C, VB, VBA, Javascript, R, SQL, Python. All were abandoned(except for SQL as it has to be used in daily work) following the same route:  passionate, make a little progress, confused(no resolved), boring, give up, till the next passionate period come.
+
+Sometimes I was thinking that if there were any method that could motivate the niwbie by bridging the gap when I was caught up in the confusion, I would have arrived the learning curve's final end safely in the first time.
+
+I can still remember how disappointed and discouraged I was when I was taught to test my toy code in the Turbo-C blue screen when learning C language. At that time you had been already  surrounded by the fabulous and splendid websites and mulimedia, whereas you are still learning the basics in an ancient environment which makes the question always pops up: is this really the staff build the product?
+
+Many years ago I've heard a solo developer of one popular music player said the player was written by VC6(seems to be a quite old programming language). I was wondering 'How could that be?'. I mean, how could the boring text statements print, def, if else, for while ... become the final apps/softwares we've seen and used?
+
+I had the confusion then, and it seems still the same for beginners now, because no lessons fill this confusion gap. All of them just teach how to print, how to define a variable/list/function, how to loop, etc., in front of a black text-based screen.
+
+How much time is left to see the real power of programming to build real things?
+
+——""One day you''ll get there naturally, just keep learning patiently"", the teacher or veteran reply mysteriously, and impatiently.",rucrick,1h66h1s,https://reddit.com/r/learnprogramming/comments/1h66h1s/the_gap_between_the_learning_environment_and_the/,https://www.reddit.com/r/learnprogramming/comments/1h66h1s/the_gap_between_the_learning_environment_and_the/,2024-12-04 03:22:00,8,0.84,8,0,6,0,0,False,False,True,False,False,,,t3_1h66h1s
+learnprogramming,How do i make Programming fun and my addiction  ,"hello there this may sound idoitic but for some reason i am not finding programming engaging and im getting lazy over it. I have good knowledge over some of the programming language like C++,C, python and little bit in java. so can you suggest me to make programming more addicting for me i want to make it my addiction..   ",PhewSucks,1h5kjid,https://reddit.com/r/learnprogramming/comments/1h5kjid/how_do_i_make_programming_fun_and_my_addiction/,https://www.reddit.com/r/learnprogramming/comments/1h5kjid/how_do_i_make_programming_fun_and_my_addiction/,2024-12-03 10:34:32,169,0.89,169,0,68,0,0,False,False,True,False,False,,,t3_1h5kjid
+learnprogramming,C# or golang for start in programming? ,"What will be better choice for newbie? As I understand, golang small if compare with c#, but that's also hard place - golang easier for experienced guys who knew other language before golang. So what is your thoughts on this question? ",Greedy-Collection-62,1h6h0yh,https://reddit.com/r/learnprogramming/comments/1h6h0yh/c_or_golang_for_start_in_programming/,https://www.reddit.com/r/learnprogramming/comments/1h6h0yh/c_or_golang_for_start_in_programming/,2024-12-04 14:16:17,0,0.5,0,0,23,0,0,False,False,True,False,False,,,t3_1h6h0yh
+learnprogramming,help on coding,"Your task is to create a program that emulates a Caesar Cipher. The Caesar Cipher was a documented cryptography technique used by the Romans that involved ""shifting"" the alphabet. In our modern alphabet we have 26 letters, so for example, if we were to ""shift"" the letters in a word forward by two places, ""cat"" would then become ""ecv"". An example of a word shifted forward by 5 places would be ""dinosaur"" becoming ""instxfzw"".
+Your program must prompt the user for TWO pieces of input:
+A word to be encoded in either upper or lower case;
+A number of places that word should be shifted (positive values move forward in the alphabet and negative values move backwards in the alphabet)
+Your program must then be able to manipulate this inputted word to correctly output the encoded word.
+You should accomplish this by creating a Class to handle the calculations. This class must include:
+Constructor(s)
+Void Method(s) to perform the encryption
+toString() return Method for the main file to print out
+Things to consider:
+The user could enter a negative number, meaning that the alphabet would need to shift backwards.
+The user could enter the wrong case of letter accidentally... make sure to compensate for this.
+The alphabet is 26 letters long - what happens when we try to shift the letter ""z"" forward by a number of places? How can we solve this problem? (HINT: a math operator is one way to solve this...)
+Likewise with the letter ""a"" shifting backwards by a number of places? How can we solve this problem? (HINT: a math operator combined with a type of looping is one way to solve this...)
+",FickleEase716,1h6goow,https://reddit.com/r/learnprogramming/comments/1h6goow/help_on_coding/,https://www.reddit.com/r/learnprogramming/comments/1h6goow/help_on_coding/,2024-12-04 14:01:26,0,0.44,0,0,9,0,0,False,False,True,False,False,,,t3_1h6goow
+learnprogramming,Learning back end - Boot.dev ,"Hi everyone, I\`ve received a gift code for 1 month of free [Boot.dev](http://Boot.dev) (site for learning back end) and since I don't know anyone who could benefit from it personally, if anyone needs it, here it is:
+
+**The code: KPLBO7FV73LALNLTPE80DYWL**
+
+Instructions: ""The recipient of your gift just needs to make a free [Boot.dev](http://Boot.dev) account, then go to the [redeem page here](https://u24871717.ct.sendgrid.net/ls/click?upn=u001.EVEv5zdUcAj5cW-2BxifW5dOMLA-2F9ugrgfNh4LpLcUHwQyot-2B7Eu8Ijbm9hc9Ler5NGHuQk7m0eAxQey14Gw9ZIXnareNB3E39AIvrY9RJ9IM1hpMAEQo5275gqmwSUkJ-2FyBto7YHzYzyi2GSQgaXCrg-3D-3DravD_fvAhRBqgNSvBrDraS92dozfotfNnAVn-2BpXV4gSu09qJV1m6rHHNXKFJrob19GHOHfvVuKk59t-2F21LKIP-2FkTVKxBiJF6pQ1p5tK6q7-2FKjDdnzaJVrU8jLch8uHw2T-2FeVW-2BRzl65r9NS91iSNMqwGndVYL4nDF-2BkPpH-2FHslkYbTLzCxI1x6ds8usTQyG-2Fui-2BZ-2BgaePyDdr3-2B5RfSk1ZRzRLAdobFdOoFg9dOEz7-2BnkHX-2FeDBUvPjGwL-2BNJ9XLNj0NdGPEAfTN0LzMbC-2FSYdd0ak43M6dHSchffJl-2B6-2BUygsSfnOprR8-2FlQB8yFs8jFLmWp5bl4JmCFGAjdiIKGK-2FylwFfQSI9P7YJuOwS6Ybj9XGg-3D) and paste in the code.""
+
+  
+Happy coding
+
+Edit: code redeemed ",caritat,1h6cry6,https://reddit.com/r/learnprogramming/comments/1h6cry6/learning_back_end_bootdev/,https://www.reddit.com/r/learnprogramming/comments/1h6cry6/learning_back_end_bootdev/,2024-12-04 10:12:25,2,1.0,2,0,6,0,0,False,False,True,False,False,,,t3_1h6cry6
+learnprogramming,Question for non-QWERTY-like keyboard users (e.g. AZERTY / QWERTZ),"I'm developing a programming language specifically for people who will probably never do a lot of programming. I aim to have my target audience make as few changes as possible to their daily lives, and learn as few new things as possible, in order for them to get the benefit of programming that I want them to have. One factor of that is the symbols used in the language's syntax and their accessibility on various keyboard layouts.
+
+After some research I found that about 15-20% of people who have daily personal access to a desktop or laptop computer do not have a standard QWERTY-like layout. On those non-standard layouts, the way to type certain symbols such as \~, \^ and \\ is quite hidden. Those I could quite easily not use in my syntax. But apparently the same holds for  \[, \], { and }, which I don't see nice alternatives for. I'm trying to find out if it's worth my time to find a solution, or to what degree I alienate 15-20% of my target audience if I don't.
+
+So my question to those without a QWERTY-like layout. When you started learning programming in a language that uses \[, \], { and } quite often, how much of a hurdle was this to learn how to type, and after learning it, how much of an annoyance is it still to type them? Secondarily, the same question but for \~, \^ and \\.",vuurdier,1h6glch,https://reddit.com/r/learnprogramming/comments/1h6glch/question_for_nonqwertylike_keyboard_users_eg/,https://www.reddit.com/r/learnprogramming/comments/1h6glch/question_for_nonqwertylike_keyboard_users_eg/,2024-12-04 13:57:27,1,0.67,1,0,0,0,0,False,False,True,False,False,,,t3_1h6glch
+learnprogramming,What language should I be going for?,"Hi , I am UI UX designer, right now I am designing an app for my portfolio,I don't have any coding experience what language should I be learning that'll help me get a job too and also I can be able to sort things out in the coding field too while I am designing ",normalteen0,1h6fsh8,https://reddit.com/r/learnprogramming/comments/1h6fsh8/what_language_should_i_be_going_for/,https://www.reddit.com/r/learnprogramming/comments/1h6fsh8/what_language_should_i_be_going_for/,2024-12-04 13:19:23,1,0.67,1,0,1,0,0,False,False,True,False,False,,,t3_1h6fsh8
+learnprogramming,Configuration ,"I am learning React , in particular testing. 
+I am amazed  at the amount of configuration that is necessary, is eye opening. It’s as if swimming through the things one has to do detracts from actually learning the principles . Js is the only ecosystem I have experienced. 
+Are other ecosystems like this ? Is it possible to learn , to get to the heart of programming , unhindered by the distraction of seemingly endless configuration . Maybe it’s my lack of experience that is the problem . ",abiw119,1h6c0s6,https://reddit.com/r/learnprogramming/comments/1h6c0s6/configuration/,https://www.reddit.com/r/learnprogramming/comments/1h6c0s6/configuration/,2024-12-04 09:15:43,2,1.0,2,0,5,0,0,False,False,True,False,False,,,t3_1h6c0s6
+learnprogramming,Best Practices for Synchronizing Supabase Auth and Local Database in a NestJS App,"Hey everyone,
+
+I'm building a NestJS app and using **Supabase** for authentication, but I also want to save user data in my **local PostgreSQL database** for extended functionality and to keep full control over my app's data. Here's my current setup and the challenges I’m working through:
+
+# Setup:
+
+1. **Auth Provider**: Supabase handles user authentication (sign-up, login, etc.).
+2. **Local Database**: I save additional user data in my local PostgreSQL database for more advanced app features.
+3. **NestJS Backend**: Acts as the bridge between Supabase and my local database, ensuring synchronization.
+
+# Use Case:
+
+Whenever a user signs up, updates their profile, or deletes their account, I need to:
+
+1. **Create/Update/Delete the user in Supabase** (for authentication).
+2. **Create/Update/Delete the user in my local database** (for app-specific data).
+3. Ensure that both systems remain synchronized (handle errors, retries, rollbacks, etc.).
+
+# Questions for the Community:
+
+* Have you worked on a similar use case? What’s the best way to ensure synchronization between two systems like Supabase and a local database?
+* How do you handle rollbacks or retries in case of partial failures?
+* Any tips for optimizing this flow for scalability and maintaining clean code?",Aymsep,1h6f3ix,https://reddit.com/r/learnprogramming/comments/1h6f3ix/best_practices_for_synchronizing_supabase_auth/,https://www.reddit.com/r/learnprogramming/comments/1h6f3ix/best_practices_for_synchronizing_supabase_auth/,2024-12-04 12:43:36,0,0.5,0,0,0,0,0,False,False,True,False,False,,,t3_1h6f3ix

@@ -1,0 +1,121 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[D] Can any one explain me the difference between Bayesian Deep learning and Causality? ,"I am reading few papers from youshua bengio, and other researchers, where they mention that incorporating Causality is important in deep learning. 
+
+I don't understand what this different fields try to achieve, few inductice biases in causality I know is P(t)P(a/t) ! = P(t/a)P(a). 
+
+1. How causality and Bayesian deep learning s robust in OOTD datas? 
+2. How will they are looking to integrate causality with deep learning, willdNNs will use just to approximate the posterior, or will it be integrated in the architecture of deep learning? ",binny_sarita,1hh32u8,https://reddit.com/r/MachineLearning/comments/1hh32u8/d_can_any_one_explain_me_the_difference_between/,https://www.reddit.com/r/MachineLearning/comments/1hh32u8/d_can_any_one_explain_me_the_difference_between/,2024-12-18 14:45:05,8,1.0,8,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hh32u8
+MachineLearning,[D] Best survey papers of 2024?,"As an AI researcher who is starting out, I usually start by seeing survey papers related to a field, then creating a roadmap to further deep dive into my research topic. I am eager to see the sub's viewpoint of the best survey papers they came across in 2024.",arinjay_11020,1hgwjqu,https://reddit.com/r/MachineLearning/comments/1hgwjqu/d_best_survey_papers_of_2024/,https://www.reddit.com/r/MachineLearning/comments/1hgwjqu/d_best_survey_papers_of_2024/,2024-12-18 07:32:15,56,0.9,56,0,19,0,0,False,False,True,False,False,Discussion,self,t3_1hgwjqu
+MachineLearning,[D] ICASSP 2025 Final Decision ,"ICASSP 2025 results will be declared today. Is anyone excited in this community?
+I have 3 WA and looking forward to the results.
+Let me know if you get to know anything !",stantheta,1hgsj0u,https://reddit.com/r/MachineLearning/comments/1hgsj0u/d_icassp_2025_final_decision/,https://www.reddit.com/r/MachineLearning/comments/1hgsj0u/d_icassp_2025_final_decision/,2024-12-18 03:19:57,23,0.86,23,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1hgsj0u
+MachineLearning,[D] google photos like semantic search,"hi everyone, so we are all familiar with clip embeddings to do visual search, but doesn't work all the way, like google photos search work, its highly accurate, it just shows relevant results only, whereas clip based search would give you most relevant search results, and there is not really a oracle similarity threshold you can out to separate out just the relevant results.
+
+any ideas, how we can solve this as google photos does?",Raise_Fickle,1hgwcb0,https://reddit.com/r/MachineLearning/comments/1hgwcb0/d_google_photos_like_semantic_search/,https://www.reddit.com/r/MachineLearning/comments/1hgwcb0/d_google_photos_like_semantic_search/,2024-12-18 07:16:40,8,0.9,8,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hgwcb0
+MachineLearning,[R] Summary of Deep Learning book by Ian Goodfellow and Yoshua Bengio and Aaron Courville,"After 3 years of studying and practicing Machine Learning, I studied this book and this post is my distillation. [https://medium.com/zerone-magazine/how-to-train-your-machine-a-guide-to-ai-r-d-4e6ebfad5ee3](https://medium.com/zerone-magazine/how-to-train-your-machine-a-guide-to-ai-r-d-4e6ebfad5ee3)
+
+This blog post provides a step-by-step breakdown of how to train deep neural networks and delves into the new frontiers of AI research. I’d love to discuss about this book in the comment.
+
+https://preview.redd.it/de0jbon7wj7e1.png?width=640&amp;format=png&amp;auto=webp&amp;s=5f1f69a13d22625ede97344fab11811c59f0cebd
+
+",a_man346,1hgvlsd,https://reddit.com/r/MachineLearning/comments/1hgvlsd/r_summary_of_deep_learning_book_by_ian_goodfellow/,https://www.reddit.com/r/MachineLearning/comments/1hgvlsd/r_summary_of_deep_learning_book_by_ian_goodfellow/,2024-12-18 06:24:56,4,0.67,4,0,4,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/2V2ju3NsAXRDNJCKbpwOODkitt0h2te-HpMUdTXXBhY.jpg,t3_1hgvlsd
+MachineLearning,[D]Struggling to Train a Dueling DQN Model for Route Optimization – Need Advice on Learning and Computational requirements ,"I'm working on a route optimization project using Dueling DQN in a custom road network environment with many number of nodes and varying action spaces. However, the model isn't learning properly—training results are inconsistent, and the agent struggles to find optimal paths.",ProfessionalType9800,1hh3f7g,https://reddit.com/r/MachineLearning/comments/1hh3f7g/dstruggling_to_train_a_dueling_dqn_model_for/,https://www.reddit.com/r/MachineLearning/comments/1hh3f7g/dstruggling_to_train_a_dueling_dqn_model_for/,2024-12-18 15:01:16,1,1.0,1,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hh3f7g
+MachineLearning,[R] Reconstructing a music recommendation model,"Have you ever wondered what makes a (good) music recommendation system?
+
+How can we avoid the ""cold start"" problem when we have no users whose activity we can learn from?
+
+Can we \_transfer\_ a useful bit of music taste to a new model using the labels produced by a black-box model or otherwise ""frozen"" set of recommendations ?
+
+These and other questions were on my mind when I set off on this project a few weekends ago:
+
+[https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html](https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html)
+
+Thanks for reading and I look forward to hearing your thoughts!",ocramz_unfoldml,1hh0l7p,https://reddit.com/r/MachineLearning/comments/1hh0l7p/r_reconstructing_a_music_recommendation_model/,https://www.reddit.com/r/MachineLearning/comments/1hh0l7p/r_reconstructing_a_music_recommendation_model/,2024-12-18 12:33:11,1,1.0,1,0,0,0,0,False,False,True,False,False,Research,self,t3_1hh0l7p
+MachineLearning,[R] Continuous Numerical Tokenization for Scientific Language Models Improves Out-of-Distribution Performance,"This paper introduces a novel approach called **xVal** for handling numerical values in language models by using continuous numerical tokenization rather than discrete tokens. The key innovation is representing numbers as continuous values while preserving their mathematical relationships, allowing models to better understand numerical patterns and relationships in scientific text.
+
+Key technical points:
+- Numbers are encoded using a continuous representation instead of discrete tokens
+- The approach maintains ordering and relative magnitude information
+- Custom architecture modifications allow seamless integration of numerical and text processing
+- Training uses a specialized loss function that accounts for numerical relationships
+- Tested on scientific datasets containing significant numerical content
+
+Results from their experiments:
+- Improved performance on numerical reasoning tasks compared to baseline models
+- Better generalization to out-of-distribution numerical values
+- More efficient computation after initial training
+- Enhanced ability to process scientific text with heavy numerical content
+- Lower perplexity scores on scientific corpus validation sets
+
+I think this could be particularly impactful for scientific applications of language models. The ability to properly handle numbers is crucial for tasks like paper analysis, experimental design, and data interpretation. While previous approaches struggled with numerical relationships, xVal provides a more natural way to process numbers in context.
+
+I think the real value will be in enabling more reliable AI systems for scientific research assistance. Current models often make numerical errors that limit their usefulness in technical fields. This approach could help bridge that gap.
+
+TLDR: New method for handling numbers in language models using continuous representations instead of discrete tokens. Shows improved performance on scientific tasks and better numerical reasoning abilities.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/xval-continuous-numerical-tokenization-scientific-language-models). Paper [here](https://arxiv.org/abs/2310.02989).",Successful-Western27,1hghwfb,https://reddit.com/r/MachineLearning/comments/1hghwfb/r_continuous_numerical_tokenization_for/,https://www.reddit.com/r/MachineLearning/comments/1hghwfb/r_continuous_numerical_tokenization_for/,2024-12-17 18:57:11,21,0.9,21,0,2,0,0,False,False,True,False,False,Research,self,t3_1hghwfb
+MachineLearning,[P] ML cost optimization project ,"AI Engineers: How do you currently monitor and optimize costs for training and inference of LLMs? I’m exploring an idea for a tool that tracks AI-specific costs (e.g., GPU usage, training time) and suggests optimizations like using spot instances or quantization. 
+
+I’d love to hear how you’re handling this today and whether something like this would be valuable to you. Any feedback or insights would be hugely appreciated—feel free to reply here or DM me!",jev3,1hgu3tu,https://reddit.com/r/MachineLearning/comments/1hgu3tu/p_ml_cost_optimization_project/,https://www.reddit.com/r/MachineLearning/comments/1hgu3tu/p_ml_cost_optimization_project/,2024-12-18 04:49:04,3,0.67,3,0,5,0,0,False,False,True,False,False,Project,self,t3_1hgu3tu
+MachineLearning,[R] SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion,"**Paper:** [https://arxiv.org/pdf/2412.10437](https://arxiv.org/pdf/2412.10437)
+
+**Abstract:** 
+
+&gt;The generation of Scalable Vector Graphics (SVG) assets from textual data remains a significant challenge, largely due to the scarcity of high-quality vector datasets and the limitations in scalable vector representations required for modeling intricate graphic distributions. This work introduces SVGFusion, a Text-to-SVG model capable of scaling to real-world SVG data without reliance on a text-based discrete language model or prolonged SDS optimization. The essence of SVGFusion is to learn a continuous latent space for vector graphics with a popular Text-to-Image framework. Specifically, SVGFusion consists of two modules: a Vector-Pixel Fusion Variational Autoencoder (VP-VAE) and a Vector Space Diffusion Transformer (VS-DiT). VP-VAE takes both the SVGs and corresponding rasterizations as inputs and learns a continuous latent space, whereas VS-DiT learns to generate a latent code within this space based on the text prompt. Based on VP-VAE, a novel rendering sequence modeling strategy is proposed to enable the latent space to embed the knowledge of construction logics in SVGs. This empowers the model to achieve human-like design capabilities in vector graphics, while systematically preventing occlusion in complex graphic compositions. Moreover, our SVGFusion's ability can be continuously improved by leveraging the scalability of the VS-DiT by adding more VS-DiT blocks. A large-scale SVG dataset is collected to evaluate the effectiveness of our proposed method. Extensive experimentation has confirmed the superiority of our SVGFusion over existing SVG generation methods, achieving enhanced quality and generalizability, thereby establishing a novel framework for SVG content creation. Code, model, and data will be released at: {[this https URL](https://ximinng.github.io/SVGFusionProject/)}
+
+*(Note: so far, nothing has been released in the linked repo)*
+
+**Visual Abstract:**
+
+https://preview.redd.it/3ypl3eph1e7e1.png?width=1153&amp;format=png&amp;auto=webp&amp;s=90d0dab4a2311d7bd8037322bb265ce8a03becac
+
+**Visual Highlights:**
+
+https://preview.redd.it/ngz1kfen2e7e1.png?width=1175&amp;format=png&amp;auto=webp&amp;s=e8a49b15283c3514f7d2703ad631b8de6f63b5d2
+
+https://preview.redd.it/o01j02fp2e7e1.png?width=635&amp;format=png&amp;auto=webp&amp;s=230f437f4513498916f317e2e2f7ccc7b0578e8c
+
+https://preview.redd.it/3s4k4c1r2e7e1.png?width=657&amp;format=png&amp;auto=webp&amp;s=7402ee8bdbb8cc4d9225a48f33eebb7e051ec1fb
+
+https://preview.redd.it/d4yi1bx23e7e1.png?width=1201&amp;format=png&amp;auto=webp&amp;s=9f115b99babd31998e23986238e41e91b49e1ff3
+
+[Zoomed in, as per the suggestion](https://preview.redd.it/w6l2m9a53e7e1.png?width=265&amp;format=png&amp;auto=webp&amp;s=d663250708ec3ca4548bd106384aca515e019793)
+
+https://preview.redd.it/gpatd9qy3e7e1.png?width=1279&amp;format=png&amp;auto=webp&amp;s=ac70bbb82f934109ec8388eeca65fd49d4b994df
+
+https://preview.redd.it/6f40o3pz3e7e1.png?width=793&amp;format=png&amp;auto=webp&amp;s=a71f7ddcd311eefb365907ae067a5b287630253c
+
+https://preview.redd.it/50gzr8p04e7e1.png?width=807&amp;format=png&amp;auto=webp&amp;s=265be1e5ce20aded6913d24db371b4380e8c92b1
+
+",StartledWatermelon,1hg87em,https://reddit.com/r/MachineLearning/comments/1hg87em/r_svgfusion_scalable_texttosvg_generation_via/,https://www.reddit.com/r/MachineLearning/comments/1hg87em/r_svgfusion_scalable_texttosvg_generation_via/,2024-12-17 10:58:36,64,0.96,64,0,8,0,0,False,False,True,False,False,Research,https://b.thumbs.redditmedia.com/eX35PNM-kwI3yvC4QkhdLQcFKAfSric-90VlR847B0w.jpg,t3_1hg87em
+MachineLearning,[D] Better ways to extract skills from job postings?,"Hi there!
+
+I’m building a job aggregator with a live data platform that provides in-depth market analysis. I’m currently focused on improving how I extract skills from job postings. While my current extraction setup achieves \~90% accuracy, it struggles with edge cases and lacks flexibility, particularly when skills are phrased in unexpected ways.
+
+1.The Problem: 1.1: Lack of flexibility: The system only captures predefined phrases. If a job post says something like ""proficiency in spreadsheets"" or ""experience with advanced reporting tools"", it misses that Excel is likely required.
+
+1.2: Manual maintenance: Constantly updating JSON files to account for new variations is tedious and unsustainable as the project grows.
+
+2.Current Setup: 2.1: Keyword-based extraction: I maintain a JSON file with predefined skill variations. Example:
+
+        ""programming_languages"": {
+            ""JavaScript"": [""javascript"", ""js"" ...],
+             ...
+
+2.2: spaCy PhraseMatcher: I use PhraseMatcher and Matcher for efficient, rule-based extraction.
+
+3. Constraints: 3.1: Lightweight: I’m avoiding heavy ML models or resource-intensive pipelines to keep server costs low.
+
+3.2: Flexible: I need a solution that better handles synonyms, context, and unexpected phrasing with minimal manual input.
+
+3.3: Free or open-source: Ideally, something I can plug into my existing server setup without added costs.
+
+4. My Questions: 4.1: How can I improve this process to make it more robust and context-aware?
+
+4.2:Are there lightweight tools, heuristics, or libraries you’d recommend for handling variations and semantic similarity?
+
+4.3: Would pre-trained embeddings (e.g., GloVe, FastText) or other lightweight NLP methods help here?
+
+I’d love to hear from anyone who’s tackled similar challenges in NLP or information extraction. Any suggestions on balancing accuracy, flexibility, and computational efficiency would be greatly appreciated!
+
+If anyone is interested in what my current market analysis looks like, I am leaving a link for you to analyze [https://careercode.it/market](https://careercode.it/market)",Grand_Capital804,1hgkvrk,https://reddit.com/r/MachineLearning/comments/1hgkvrk/d_better_ways_to_extract_skills_from_job_postings/,https://www.reddit.com/r/MachineLearning/comments/1hgkvrk/d_better_ways_to_extract_skills_from_job_postings/,2024-12-17 21:09:12,5,0.63,5,0,17,0,0,False,False,True,False,False,Discussion,self,t3_1hgkvrk

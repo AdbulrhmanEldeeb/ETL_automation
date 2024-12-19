@@ -1,0 +1,127 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Full-stack dev looking to go solo - advice needed,"Hey fellow developers! 👋
+
+I'm a technical lead with 5 years of experience building financial software and enterprise applications. I love turning complex business problems into elegant solutions, and I'm looking to branch out on my own.
+
+My stack:
+
+* Backend: Symfony/Laravel (built multiple enterprise apps)
+* Frontend: NextJS/React (created dynamic form systems)
+* Plus the usual suspects: Docker, AWS, Git, etc.
+
+I'm particularly good at:
+
+* Building smart form systems that adapt based on user input
+* Integrating with external APIs and services
+* Modernizing legacy systems
+* Making complex processes simple and user-friendly
+
+Instead of just looking for regular contract work, I'm interested in:
+
+1. Finding companies whose problems I can solve (and potentially turn solutions into products)
+2. Building relationships with businesses that need ongoing development support
+3. Creating systems that can be repurposed for similar companies
+
+I've already built a solid Symfony/NextJS starter template to hit the ground running. What I need now is to find the right companies to work with.
+
+For those who've gone solo: How did you find your first real clients? Any specific industries or approaches you'd recommend?
+
+Based in Netherlands if that matters!",MeesterPlus,1hab6sl,https://reddit.com/r/webdev/comments/1hab6sl/fullstack_dev_looking_to_go_solo_advice_needed/,https://www.reddit.com/r/webdev/comments/1hab6sl/fullstack_dev_looking_to_go_solo_advice_needed/,2024-12-09 14:40:57,3,0.8,3,0,3,0,0,False,False,True,False,False,,self,t3_1hab6sl
+webdev,What resources do you use to make your web designs?,"I am looking for some expert advice on the resources and inspirations that they use to build some awesome web designs.
+
+Reply about your resources and inspirations ",ysuraj,1habsbe,https://reddit.com/r/webdev/comments/1habsbe/what_resources_do_you_use_to_make_your_web_designs/,https://www.reddit.com/r/webdev/comments/1habsbe/what_resources_do_you_use_to_make_your_web_designs/,2024-12-09 15:07:53,2,1.0,2,0,4,0,0,False,False,True,False,False,,self,t3_1habsbe
+webdev,Do you add —fix to your eslint script in package.json?,In some ways it feels like a no-brainer but I’d wonder in some cases if there would be unintended code changes that you actually might not want?,redditindisguise,1habxbz,https://reddit.com/r/webdev/comments/1habxbz/do_you_add_fix_to_your_eslint_script_in/,https://www.reddit.com/r/webdev/comments/1habxbz/do_you_add_fix_to_your_eslint_script_in/,2024-12-09 15:14:06,2,1.0,2,0,6,0,0,False,False,True,False,False,,self,t3_1habxbz
+webdev,Itch.io has been taken down by Funko,,Infinite-Addendum-52,1ha63vv,https://reddit.com/r/webdev/comments/1ha63vv/itchio_has_been_taken_down_by_funko/,https://bsky.app/profile/itch.io/post/3lcu6h465bs2n,2024-12-09 09:33:34,140,0.92,140,0,15,0,0,False,False,False,False,False,News,default,t3_1ha63vv
+webdev,update on my open-source social media scheduler,"Hi everyone, I built a little bit more into my open-source free scheduler :)
+
+Postiz is an open-source social media scheduling tool that offers scheduling on the following:
+
+Instagram, YouTube, Dribbble, LinkedIn, Reddit, TikTok, Facebook, Pinterest, Threads, X, Slack, Discord, Mastodon and BlueSky.
+
+[https://github.com/gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
+There are some cool new features:
+
+* Option to add stories to Instagram and tag people for collaboration.
+* Customer separation - you can group accounts per customer, and when you schedule, you can filter by customer.
+* Option to tag companies on LinkedIn (I wanted to tag people also, but it was not possible)
+* Fixes for different social media posts failing.
+* **Introducing Plugs!** This is a concept you can find in other tools that can boost your engagement for your current posts. Here are some examples:
+   * Once your post reaches X amount of likes, repost it (to regain visibility to it)
+   * Once your post reaches X amount of likes, add another message to it (all your existing commenters will get a notification)
+
+**What's next:**
+
+* Public API - I have been too lazy to make it, I have to push more :)
+* One Inbox - so you can reply to all your messages from one place.
+* Google My Business provider
+* AI Agents - I am still trying to figure out what to do with it, but it looks interesting.
+
+Special thanks to this community that supports me with every post ❤️",sleepysiding22,1ha8wod,https://reddit.com/r/webdev/comments/1ha8wod/update_on_my_opensource_social_media_scheduler/,https://www.reddit.com/r/webdev/comments/1ha8wod/update_on_my_opensource_social_media_scheduler/,2024-12-09 12:45:22,37,0.95,37,0,10,0,0,False,False,True,False,False,,self,t3_1ha8wod
+webdev,What causes 'bad days' for developers?,,mmaksimovic,1ha90yk,https://reddit.com/r/webdev/comments/1ha90yk/what_causes_bad_days_for_developers/,https://newsletter.getdx.com/p/factors-contributing-to-bad-developer-days,2024-12-09 12:52:01,15,0.78,15,0,37,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/_rBXtT_4My9iNcm_b9cCgDz6MW00DrCDYGZroXjsiBg.jpg,t3_1ha90yk
+webdev,What is Facebook on Android?,,bunzelburner,1ha0qus,https://reddit.com/r/webdev/comments/1ha0qus/what_is_facebook_on_android/,https://i.redd.it/gbz8ogeytq5e1.png,2024-12-09 03:36:44,59,0.79,59,0,12,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/hG4OgO65X-n1Clw00wlVDjqh8wJZmap28ZpO-R7znoE.jpg,t3_1ha0qus
+webdev,Underrated Front-End Skills Employers Are Looking For in 2024?,"At this point I figure everyone is already proficient in Typescript, React, etc. What other skills are desirable that aren't back-end focused?
+
+Here are some I'm considering learning while I look for work
+
+D3.js  
+GraphQL  
+Svelte  
+Three.js
+
+",digitalWizzzard,1h9wgaq,https://reddit.com/r/webdev/comments/1h9wgaq/underrated_frontend_skills_employers_are_looking/,https://www.reddit.com/r/webdev/comments/1h9wgaq/underrated_frontend_skills_employers_are_looking/,2024-12-08 23:53:51,79,0.88,79,0,88,0,0,False,False,True,False,False,Discussion,self,t3_1h9wgaq
+webdev,I created this all-in-one JSON Toolkit,"This post might come across as a bit self-promotional, but I created this tool for personal use, and some of my colleagues have found it helpful. It's mainly for developers and testers, so I think r/webdev is a good place to share it, and I hope it will be useful to others too.
+
+This tool addresses some pain points I face when developing, debugging, or testing features that involve JSON data.
+
+* I often need to search for each key whenever I get the data, so I built a way to query multiple keys at once.
+* It's difficult to remember deep paths to locate my data, so I built a JSON viewer that lets me extract any path by simply clicking on the key.
+
+Some might argue that I should use Postman test scripts or Postgres' `json_extract_path`. But I find these solutions better suited for stable APIs or data. When I’m developing a new feature or debugging an issue, the target field can pop into my mind at any moment. So I prefer to quickly access the field and the data directly, rather than having to write a Postman script or SQL query.
+
+If you're interested in the tool, here it is: [https://www.devtoolkits.tech/](https://www.devtoolkits.tech/)
+
+I’d love to hear your feedback to help improve it!",Lac-TranAn,1ha9e90,https://reddit.com/r/webdev/comments/1ha9e90/i_created_this_allinone_json_toolkit/,https://www.reddit.com/r/webdev/comments/1ha9e90/i_created_this_allinone_json_toolkit/,2024-12-09 13:11:49,7,0.82,7,0,8,0,0,False,False,True,False,False,,self,t3_1ha9e90
+webdev,"Open, curated database of well-funded early-stage startups.","I created this database because sifting through Crunchbase and TechCrunch is too noisy these days. No gatekeeping, no waitlisting, just all open.
+
+[www.startups.gallery](http://www.startups.gallery/)
+
+Let me know what you think I should add further. Don't want to create Crunchbase 2.0 and want to keep it fairly curated and niche for only early-stage startups (pre-seed to Series D-ish).
+
+Also, if you know any other resources that are similar, please share. Wellfound still calls GitLab, Plaid, Doordash ""startups"" so looking to keep it more earlier-stage too.",trusted-apiarist,1ha9zlp,https://reddit.com/r/webdev/comments/1ha9zlp/open_curated_database_of_wellfunded_earlystage/,https://www.reddit.com/r/webdev/comments/1ha9zlp/open_curated_database_of_wellfunded_earlystage/,2024-12-09 13:43:07,4,1.0,4,0,2,0,0,False,False,True,False,False,,self,t3_1ha9zlp
+webdev,How many $(document).ready() should I have in my code?,"How many $(document).ready() should I have in my code? Currently I have way too many, around 10+. Should I combine everything into one $(document).ready()? What are some cases where I should have more than one?",Cyb3rPhantom,1h9xvjt,https://reddit.com/r/webdev/comments/1h9xvjt/how_many_documentready_should_i_have_in_my_code/,https://www.reddit.com/r/webdev/comments/1h9xvjt/how_many_documentready_should_i_have_in_my_code/,2024-12-09 01:04:19,22,0.64,22,0,108,0,0,False,False,True,False,False,,self,t3_1h9xvjt
+webdev,How to get a .org website for a political initiative,"Hi. I want to set up a very simple home page for a website for a political initiative. I don't intend to make money off it, gather data, or host an active forum. I just want a page with basic information and contact details and so forth, really just a holding page for the moment so that I have a website I can add to an email sig.
+
+I tried to buy a domain and make a website through Wix, found it to be a difficult process. If buying a domain and building something myself through Wix is the only route I'll just crack on at it but I was wondering if there's some other way I'm not aware of. I just want something that;
+
+Contains basic information, hyperlinks to relevant resources, contact details etc  
+Involves no economic activity, is a .org  
+Looks reasonably professional  
+Doesn't require that I sign up for anything for more than a year  
+Costs $10 a month or less  
+Requires the minimum possible amount of time and expertise from me in website design and building
+
+Thanks for your help",Minute_Try_7194,1ha7ftw,https://reddit.com/r/webdev/comments/1ha7ftw/how_to_get_a_org_website_for_a_political/,https://www.reddit.com/r/webdev/comments/1ha7ftw/how_to_get_a_org_website_for_a_political/,2024-12-09 11:13:38,2,0.63,2,0,4,0,0,False,False,True,False,False,,self,t3_1ha7ftw
+webdev,"is it a must to know Docker, k8s today? ",As title says,ballbeamboy2,1h9lwb3,https://reddit.com/r/webdev/comments/1h9lwb3/is_it_a_must_to_know_docker_k8s_today/,https://www.reddit.com/r/webdev/comments/1h9lwb3/is_it_a_must_to_know_docker_k8s_today/,2024-12-08 16:00:33,101,0.88,101,0,78,0,0,False,False,True,False,False,Discussion,self,t3_1h9lwb3
+webdev,How to implement multiple pages into iframe using srcdoc,"Hello! (Apologies for the horrible title, couldn't figure out how else to phrase it) I'm working on a website editor, and one of the roadblocks I'm running into is how to implement multiple pages
+
+I'm currently taking the user provided HTML, CSS, and JS, and then jamming it all into a single iframe using srcdoc (which already isn't very practical), however this won't work with implementing multiple pages, so I'm trying to find solutions or alternatives
+
+Any ideas?",Labbo-lab,1hacljy,https://reddit.com/r/webdev/comments/1hacljy/how_to_implement_multiple_pages_into_iframe_using/,https://www.reddit.com/r/webdev/comments/1hacljy/how_to_implement_multiple_pages_into_iframe_using/,2024-12-09 15:44:15,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1hacljy
+webdev,"High-level architecture of my point-of-sales app (Vue, IndexedDB, Electron &amp; React Native + Laravel)","I've been building a point-of-sales app that works on iPads, Android devices and Windows systems, and I drew up a high-level architecture diagram to show you.
+
+At the core sits a Vue SPA, that gets wrapped in:
+
+* Electron for Windows/MacOS builds
+* React Native for Android and iOS builds
+
+[High-level architecture of our POS app](https://preview.redd.it/n3s58yejau5e1.png?width=2304&amp;format=png&amp;auto=webp&amp;s=6912edbafd36ace6bfe35d1c68efeb39de887fbf)
+
+Both the React Native app, and the Electron app have a shared NodeJS component, that allows the SPA to communicate with devices on the network using TCP for example.
+
+This way, our app can communicate with peripherals like thermal printers and payment terminals.
+
+Since React Native doesn't come with a NodeJS runtime, we ship [NodeJS mobile](https://nodejs-mobile.github.io/) with it, and this entire setup allows me to share \~95% of my entire codebase for all platforms.
+
+[https://youtu.be/TAUAza\_n-6k](https://youtu.be/TAUAza_n-6k)",SabatinoMasala,1hac1h3,https://reddit.com/r/webdev/comments/1hac1h3/highlevel_architecture_of_my_pointofsales_app_vue/,https://www.reddit.com/r/webdev/comments/1hac1h3/highlevel_architecture_of_my_pointofsales_app_vue/,2024-12-09 15:19:10,1,1.0,1,0,4,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/oCCQsWbMnVx8RWEea3PRpg38oFkPTB9ZGljowvtjTUI.jpg,t3_1hac1h3
+webdev,"I'm at a loss as to what to do here, all my performance indicators are good, the small dings are due to 3rd party scripts not caching properly",,okawei,1haal5q,https://reddit.com/r/webdev/comments/1haal5q/im_at_a_loss_as_to_what_to_do_here_all_my/,https://i.redd.it/yp6ezdjazt5e1.png,2024-12-09 14:12:26,1,1.0,1,0,8,0,0,False,False,False,False,False,Question,https://b.thumbs.redditmedia.com/1LEYhS1Klr4yLvnSst-LwYigo6n3V0tUfUbrIax2LWA.jpg,t3_1haal5q

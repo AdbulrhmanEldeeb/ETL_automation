@@ -1,0 +1,56 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+MachineLearning,[R] What should I choose: AI-assisted data labeling or crowdsourced data labeling?,"Hey everyone,
+
+I’m a researcher at my company, and I’m starting to train a model using a dataset of over 50k medical images. One of the major challenges I’m facing is choosing the best approach for data labeling.
+
+I’ve seen promising results with **AI-assisted labeling**—it seems faster and less costly upfront. However, I’m concerned about potential inaccuracies and whether the AI’s assistance would skew the dataset in ways I might not expect.
+
+On the other hand, **crowdsourced labeling** is significantly more expensive and time-consuming, but the results are often highly reliable due to diverse human input.
+
+Given the scale of my dataset and its importance in a sensitive domain like medical imaging:
+
+* **Which method would you recommend, and why?**
+* **Are there hybrid approaches that balance cost, quality, and efficiency?**
+* **What tools or platforms would you suggest for either approach?**
+
+I’d love to hear your insights or experiences with similar projects. Your input will be invaluable in helping me make the right decision!
+
+Thanks in advance!",Organic-Injury-1153,1hchrui,https://reddit.com/r/MachineLearning/comments/1hchrui/r_what_should_i_choose_aiassisted_data_labeling/,https://www.reddit.com/r/MachineLearning/comments/1hchrui/r_what_should_i_choose_aiassisted_data_labeling/,2024-12-12 09:56:17,3,0.61,3,0,8,0,0,False,False,True,False,False,Research,self,t3_1hchrui
+MachineLearning,[D] How to make friends and network at NeurIPS?,"I’m attending NeurIPS for the first time and it’s quite overwhelming seeing the amount of people and so many recruiters. I come from a not so well known university, and have come to the conference completely alone, not even my supervisor is here.
+
+I didn’t really end up talking to many other attendees or recruiters because (1) it just seemed hard to approach others who are in big groups of people and (2) I’m feeling strong imposter syndrome and under-qualified for the jobs recruiters offer. I only got a workshop paper accepted that is more application and not as technical as many of the other students.
+
+Any advice for how I can make the most of the rest of the conference? On that note, would anyone also want to potentially meet up and have a chat? I’m a 3rd year PhD student from the UK, but from Vancouver myself so know lots of stuff going on in the area. Cheers!",K_is_for_Karma,1hc0x89,https://reddit.com/r/MachineLearning/comments/1hc0x89/d_how_to_make_friends_and_network_at_neurips/,https://www.reddit.com/r/MachineLearning/comments/1hc0x89/d_how_to_make_friends_and_network_at_neurips/,2024-12-11 18:54:26,21,0.77,21,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1hc0x89
+MachineLearning,Inference Graph TensorFlow Tutorial [Discussion],"Can anyone tell me if it is possible to transform a model (TensorFlow) saved in ‘.keras’ format into an inference_graph? If so, how? (like a step by step tutorial)",chiplab,1hc5njm,https://reddit.com/r/MachineLearning/comments/1hc5njm/inference_graph_tensorflow_tutorial_discussion/,https://www.reddit.com/r/MachineLearning/comments/1hc5njm/inference_graph_tensorflow_tutorial_discussion/,2024-12-11 22:13:54,0,0.46,0,0,0,0,0,False,False,True,False,False,Discussion,self,t3_1hc5njm
+MachineLearning,Conv2D for Time Series Data Tutorial [Discussion],"Can anyone provide me with a tutorial using TensorFlow on time series data and an example model with Conv2D layers, an AveragePooling2D layer and final dense layers?",chiplab,1hc5rel,https://reddit.com/r/MachineLearning/comments/1hc5rel/conv2d_for_time_series_data_tutorial_discussion/,https://www.reddit.com/r/MachineLearning/comments/1hc5rel/conv2d_for_time_series_data_tutorial_discussion/,2024-12-11 22:18:34,0,0.27,0,0,2,0,0,False,False,True,False,False,Discussion,self,t3_1hc5rel
+MachineLearning,Inference Graph TensorFlow Tutorial [Project],"Can anyone tell me if it is possible to transform a model (TensorFlow) saved in ‘.keras’ format into an inference_graph? If so, how? (like a step by step tutorial)",chiplab,1hc5nyt,https://reddit.com/r/MachineLearning/comments/1hc5nyt/inference_graph_tensorflow_tutorial_project/,https://www.reddit.com/r/MachineLearning/comments/1hc5nyt/inference_graph_tensorflow_tutorial_project/,2024-12-11 22:14:24,0,0.22,0,0,0,0,0,False,False,True,False,False,Project,self,t3_1hc5nyt
+MachineLearning,[R] An Evolved Universal Transformer Memory,,hardmaru,1hc6bs8,https://reddit.com/r/MachineLearning/comments/1hc6bs8/r_an_evolved_universal_transformer_memory/,https://arxiv.org/abs/2410.13166,2024-12-11 22:43:30,12,0.83,12,0,2,0,0,False,False,False,False,False,Research,default,t3_1hc6bs8
+MachineLearning,[R] LLM's knowledge expansion to enable generation of cross domain content (outside the training dataset),,ankitm1,1hcke77,https://reddit.com/r/MachineLearning/comments/1hcke77/r_llms_knowledge_expansion_to_enable_generation/,https://arxiv.org/abs/2409.17171,2024-12-12 12:50:27,1,0.67,1,0,0,0,0,False,False,False,False,False,Research,default,t3_1hcke77
+MachineLearning,[N] Save 80% Memory for DPO and ORPO in Liger-Kernel,"Introducing the first open-source optimized post-training losses in Liger Kernel with \~80% memory reduction, featuring DPO, CPO, ORPO, SimPO, JSD, and more, achieving up to 70% end-to-end speedup through larger batch size. Use it as any PyTorch module - Available today in Liger v0.5.0!
+
+[https://x.com/hsu\_byron/status/1866577403918917655](https://x.com/hsu_byron/status/1866577403918917655)",Icy-World-8359,1hcewdl,https://reddit.com/r/MachineLearning/comments/1hcewdl/n_save_80_memory_for_dpo_and_orpo_in_ligerkernel/,https://www.reddit.com/r/MachineLearning/comments/1hcewdl/n_save_80_memory_for_dpo_and_orpo_in_ligerkernel/,2024-12-12 06:18:35,15,0.86,15,0,0,0,0,False,False,True,False,False,News,self,t3_1hcewdl
+MachineLearning,Conv2D for Time Series Data Tutorial [Project],"Can anyone provide me with a tutorial using TensorFlow on time series data and an example model with Conv2D layers, an AveragePooling2D layer and final dense layers?",chiplab,1hc5r13,https://reddit.com/r/MachineLearning/comments/1hc5r13/conv2d_for_time_series_data_tutorial_project/,https://www.reddit.com/r/MachineLearning/comments/1hc5r13/conv2d_for_time_series_data_tutorial_project/,2024-12-11 22:18:06,0,0.13,0,0,6,0,0,False,False,True,False,False,Project,self,t3_1hc5r13
+MachineLearning,"[R] A Grounded Theory Study of LLM Red Teaming: Motivations, Strategies, and Techniques","This paper presents a grounded theory study of how red-teaming is conducted on Large Language Models (LLMs), based on interviews with practitioners. The researchers systematically analyzed practitioner approaches to identify common patterns, strategies and motivations in LLM red-teaming.
+
+Key technical points:
+- Used qualitative coding of interviews to develop taxonomy of red-teaming approaches
+- Identified 12 distinct attack strategies and 35 specific techniques
+- Found red-teaming requires manual effort rather than automation
+- Demonstrated importance of team collaboration over individual attempts
+- Established red-teaming as distinct from malicious attacks
+- Mapped common patterns in tester motivations and goals
+
+Main results:
+- Red-teaming strategies fall into categories like prompt manipulation, psychology-based attacks, and system limit testing
+- Successful testers adopt an ""alchemist"" mindset of systematic experimentation
+- Most practitioners are motivated by curiosity and safety concerns
+- Testing requires deep understanding of both technical and psychological aspects
+- Manual testing currently more effective than automated approaches
+
+I think this work provides an important foundation for developing more structured approaches to LLM safety testing. The taxonomy they've developed could help standardize how we evaluate and secure these systems. Their finding that manual testing remains superior to automation suggests we need much more work on automated testing approaches.
+
+I think the emphasis on non-malicious intent and safety motivations is particularly relevant as these systems become more widely deployed. Understanding how and why people conduct these tests helps distinguish legitimate security research from attacks.
+
+TLDR: First systematic study of LLM red-teaming practices, providing taxonomy of strategies and techniques based on practitioner interviews. Shows importance of manual testing and team collaboration, while establishing red-teaming as legitimate security research.
+
+[Full summary is here](https://aimodels.fyi/papers/arxiv/summon-demon-bind-it-grounded-theory-llm). Paper [here](https://arxiv.org/abs/2311.06237).",Successful-Western27,1hclmk1,https://reddit.com/r/MachineLearning/comments/1hclmk1/r_a_grounded_theory_study_of_llm_red_teaming/,https://www.reddit.com/r/MachineLearning/comments/1hclmk1/r_a_grounded_theory_study_of_llm_red_teaming/,2024-12-12 13:56:57,1,1.0,1,0,0,0,0,False,False,True,False,False,Research,self,t3_1hclmk1

@@ -1,0 +1,52 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Data science at hackathons supporting integration and open data for digital resilience,,rhazn,1h5rkpk,https://reddit.com/r/datascience/comments/1h5rkpk/data_science_at_hackathons_supporting_integration/,https://www.heltweg.org/posts/meta-data-2-oleg-lavrovsky-hacking-integration/,2024-12-03 16:35:59,0,0.4,0,0,0,0,0,False,False,False,False,False,Discussion,https://a.thumbs.redditmedia.com/NTqqKncQObypR3iKVt69BDzvqXbyO7hln2foN-iLCY4.jpg,t3_1h5rkpk
+datascience,Why hasn't forecasting evolved as far as LLMs have?,"Forecasting is still very clumsy and very painful. Even the models built by major companies -- Meta's Prophet and Google's Causal Impact come to mind -- don't really succeed as one-step, plug-and-play forecasting tools. They miss a lot of seasonality, overreact to outliers, and need a lot of tweaking to get right.
+
+It's an area of data science where the models that I build on my own tend to work better than the models I can find.
+
+LLMs, on the other hand, have reached incredible versatility and usability. ChatGPT and its clones aren't necessarily perfect yet, but they're definitely way beyond what I can do. Any time I have a language processing challenge, I know I'm going to get a better result leveraging somebody else's model than I will trying to build my own solution.
+
+Why is that? After all the time we as data scientists have put into forecasting, why haven't we created something that outperforms what an individual data scientist can create?
+
+Or -- if I'm wrong, and that does exist -- what tool does that?",takenorinvalid,1h5z7w7,https://reddit.com/r/datascience/comments/1h5z7w7/why_hasnt_forecasting_evolved_as_far_as_llms_have/,https://www.reddit.com/r/datascience/comments/1h5z7w7/why_hasnt_forecasting_evolved_as_far_as_llms_have/,2024-12-03 21:49:24,163,0.89,163,0,97,0,0,False,False,True,False,False,Discussion,self,t3_1h5z7w7
+datascience,Help! Little lost as a data science manager ,"I have been a data science manager for a little more than two years and absolutely hate it. I used to be in analytics and then technical product manager for ML solutions and took on this role to gain people management experience. Biggest mistake of my life. I have been trying to get back to being an individual contributor but feel rusty at the moment. 
+
+My relationship with my stakeholders are great. They love me and consequently I am not able to move back to my old role as it will leave a void in the current role. My skip level boss is the same and wouldn't allow it. 
+
+I have been interviewing outside but not clearing interview primarily because I do not have anything to talk about my individual performance that's groundbreaking. 
+
+I also feel like I need to get back to basics and start from scratch. Any advice on how to proceed? 
+
+P.S. I don't like the people management part as I do not feel in control of my day. I manage 9 ICs and there's always some fire to put out. I also think I got the responsibility of a big portfolio without enough experience in management.",TheEmotionalNerd,1h5po5i,https://reddit.com/r/datascience/comments/1h5po5i/help_little_lost_as_a_data_science_manager/,https://www.reddit.com/r/datascience/comments/1h5po5i/help_little_lost_as_a_data_science_manager/,2024-12-03 15:14:25,47,0.87,47,0,19,0,0,False,False,True,False,False,Discussion,self,t3_1h5po5i
+datascience,Peaking too early with my job title,"I was given the title of Director of Data  after only 3 years of being a Data Analyst.
+
+I am a one-man department in a company of ~30 employees with ~$6-7 million in revenue/yr. I only recently hired a direct report part-time to assist with some of the more mundane tasks.
+
+I was given the title because I routinely deal with executives. The management at my company wants them to view me more as an equal rather than reaching out to them and they just forward to me anyways to complete the data request.
+
+While I enjoy the pay bump and increase in autonomy, my goal is to work as an individual contributor at a high level (DA or DS) as I do not want to deal with direct reports if possible. Especially not ones that have to be micromanaged. 
+
+I've noticed since my title change ~2 years ago recruiters reach out to me asking me to hire candidates rather than approaching me as a candidate. This makes me think this job title may be too early as I am not even 30 yet and I am not ready to settle into a management role long-term.
+
+Has anyone else had a similar experience and how did you deal with it? I am in a situation where my employer would be willing to essentially give me whatever title I want if I left on good terms when  a company calls for a reference.
+
+Edit: for any new comments, I do not claim to be a Data Scientist. My role is a mix of data analyst and data engineer as I do both Ad Hoc analysis and manage our SQL database.
+
+Because I'm already getting paid around 120k, I would likely need to move into a Senior Data Analyst or entry level Data Scientist role to maintain my salary. And I likely could only enter a DS role after I finish my Masters in Data Science as my Bachelors is in Finance and my Python skills are still in the early stages.",Inception952,1h5yiul,https://reddit.com/r/datascience/comments/1h5yiul/peaking_too_early_with_my_job_title/,https://www.reddit.com/r/datascience/comments/1h5yiul/peaking_too_early_with_my_job_title/,2024-12-03 21:20:43,139,0.91,139,0,55,0,0,False,False,True,False,False,Discussion,self,t3_1h5yiul
+datascience,Jane Street Interview Experience,"I'm a senior Data Scientist/Machine Learning Engineer with 7 years of experience and a Kaggle Grandmaster. I just finished the first round of interviews at Jane Street. I think I did okay—I managed to come up with a somewhat decent solution, although I got stuck a few times.
+
+I don’t really understand the rationale behind asking LeetCode-style questions for MLE positions. The interviewer was nice, but when I asked about the responsibilities of MLEs at Jane Street, he had no idea. I’m not sure how to feel about this process, but it doesn’t make much sense to me.",BurnerMcBurnersonne,1h69y9e,https://reddit.com/r/datascience/comments/1h69y9e/jane_street_interview_experience/,https://www.reddit.com/r/datascience/comments/1h69y9e/jane_street_interview_experience/,2024-12-04 06:41:58,72,0.89,72,0,17,0,0,False,False,True,False,False,Career | Europe,self,t3_1h69y9e
+datascience,Nonparametric vs Multivariate Analysis,Which of these graduate level classes would be more beneficial in me getting a DS job? Which do you use more? Thanks!,Careless-Tailor-2317,1h5y8h7,https://reddit.com/r/datascience/comments/1h5y8h7/nonparametric_vs_multivariate_analysis/,https://www.reddit.com/r/datascience/comments/1h5y8h7/nonparametric_vs_multivariate_analysis/,2024-12-03 21:08:47,8,0.9,8,0,4,0,0,False,False,True,False,False,Education,self,t3_1h5y8h7
+datascience,Jobs where Bayesian statistics is used a lot?,How much bayesian inference are data scientists generally doing in their day to day work? Are there roles in specific areas of data science where that knowledge is needed? Marketing comes to mind but I’m not sure where else. By knowledge of Bayesian inference I mean building hierarchical Bayesian models or more complex models in languages like Stan.,AdFew4357,1h5q5wj,https://reddit.com/r/datascience/comments/1h5q5wj/jobs_where_bayesian_statistics_is_used_a_lot/,https://www.reddit.com/r/datascience/comments/1h5q5wj/jobs_where_bayesian_statistics_is_used_a_lot/,2024-12-03 15:35:30,122,0.95,122,0,94,0,0,False,False,True,False,False,Discussion,self,t3_1h5q5wj
+datascience,Which of these two jobs should I take?,"I have the opportunity to take two jobs. One is for a senior BI analyst at a medium-sized sports betting company ($500M revenue) and the other is for a “reporting analyst” position with a large asset management firm (&gt;$1B revenue).
+
+Here is my dilemma: 
+- The BI analyst one involves a lot more data science  methodology and probably offers more direct advancement in this field
+
+- The reporting analyst one is mostly focused on outreach and data collection (calling member banks and whatnot) to report investment data to supervisors 
+
+- however, I would prefer to work in the financial industry long term as I enjoy economic data more and enjoy the idea of working within capital 
+Markets and economic planning. I’m worried that if I take the sports betting role, I wont be able to pivot into this field later on.
+
+I would appreciate any and all advice. 
+",OutrageousPressure6,1h6hwmq,https://reddit.com/r/datascience/comments/1h6hwmq/which_of_these_two_jobs_should_i_take/,https://www.reddit.com/r/datascience/comments/1h6hwmq/which_of_these_two_jobs_should_i_take/,2024-12-04 14:54:52,2,0.63,2,0,6,0,0,False,False,True,False,False,Career | US,self,t3_1h6hwmq

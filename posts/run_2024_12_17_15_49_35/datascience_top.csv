@@ -1,0 +1,39 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,Did working in data make you feel more relativistic?,"When I started working in data I feel like I viewed the world as something that could be explained, measured and predicted if you had enough data.
+
+Now after some years I find myself seeing things a little bit different. You can tell different stories based on the same dataset, it just depends on how you look at it. Models can be accurate in different ways in the same context, depending on what you’re measuring.
+
+Nowadays I find myself thinking that objectively is very hard, because most things are just very complex. Data is a tool that can be used in any amount of ways in the same context 
+
+Does anyone else here feel the same?",Hertigan,1hfxs76,https://reddit.com/r/datascience/comments/1hfxs76/did_working_in_data_make_you_feel_more/,https://www.reddit.com/r/datascience/comments/1hfxs76/did_working_in_data_make_you_feel_more/,2024-12-17 00:13:01,206,0.96,206,0,63,0,0,False,False,True,False,False,Discussion,self,t3_1hfxs76
+datascience,How do you stay up to date with new trends and advancements?,"Hi everyone! I'm getting my first big boy job soon (read: non internship) and one of my job duties is to stay updated in trends in data science and ML, especially with NLP and sentiment analysis in the social sciences
+
+I'd like to do a good job with this and was wondering if anyone has recommendations for *how* to stay up to date. I will basically be the only technical person on my team so I'll need to be able to keep up with industry by myself without hand holding
+
+Does anyone have any suggestions for keeping up to date with this sort of stuff? Besides following this sub and /r/MachineLearning ofc :p
+
+Would love either blogs or journals with creative methodologies or usage of technology, both general DS stuff and places more focused on NLP. Thanks!",Cuddlyaxe,1hg1k3v,https://reddit.com/r/datascience/comments/1hg1k3v/how_do_you_stay_up_to_date_with_new_trends_and/,https://www.reddit.com/r/datascience/comments/1hg1k3v/how_do_you_stay_up_to_date_with_new_trends_and/,2024-12-17 03:25:00,46,0.96,46,0,14,0,0,False,False,True,False,False,Discussion,self,t3_1hg1k3v
+datascience,Best ML certificate for undergrads to back up their profile?,"I’m an undergrad looking to strengthen my profile for ML internships/co-ops and overall career growth. I know some people might say certificates aren’t worth it, and yeah, I get it—experience and solid projects weigh more. But for those who think certs aren’t the best option, what would you suggest instead?
+
+That said, I’m looking for something comprehensive and valued by employers. Between AWS ML Engineer Associate, ML Specialty, Databricks ML Associate/Professional, or Azure Data Scientist Associate, which one do you think is the most beneficial?
+
+I’m not new to the field—just looking to expand my knowledge and improve my chances of landing a good ML co-op or internship. Any advice on where to learn ML more deeply or what certs actually help is much appreciated!",No-Brilliant6770,1hfmope,https://reddit.com/r/datascience/comments/1hfmope/best_ml_certificate_for_undergrads_to_back_up/,https://www.reddit.com/r/datascience/comments/1hfmope/best_ml_certificate_for_undergrads_to_back_up/,2024-12-16 16:16:42,38,0.82,38,0,12,0,0,False,False,True,False,False,ML,self,t3_1hfmope
+datascience,I don’t understand AI hype. What am I missing?,"Edit 2: I need to try other models and practice my prompts. Thanks everyone!
+
+Edit: I needed a script to parse a nested JSON file. I asked Chat GPT and it gave me a wrong answer. It only parsed the first layer. I asked a few more times and still no. I googled it and the first result from stack overflow was correct.
+
+
+Not trolling. I've used ChatGPT about five times and was underwhelmed. What am I doing wrong?
+
+1. Asked it for some simple code I couldn't remember. Nice but it only saved me about 10 minutes of googling.
+
+2. Asked it for some moderately complex code and it didn't know the answer.
+
+3. Asked it for some moderately complex code and the answer it gave was bad and wrong.
+
+4. Asked it to generate an image and it was way off.
+
+5. Asked it for some knowledge about an API and it just said the exact same thing as the official doc.
+
+
+",Trick-Interaction396,1hfzbit,https://reddit.com/r/datascience/comments/1hfzbit/i_dont_understand_ai_hype_what_am_i_missing/,https://www.reddit.com/r/datascience/comments/1hfzbit/i_dont_understand_ai_hype_what_am_i_missing/,2024-12-17 01:27:12,0,0.36,0,0,27,0,0,False,False,True,False,False,Discussion,self,t3_1hfzbit

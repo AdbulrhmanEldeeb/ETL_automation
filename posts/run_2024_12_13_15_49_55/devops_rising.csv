@@ -1,0 +1,309 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,2025 is 95% over.,what are you planning to learn in rest of the 5%? Or just chill out?,moneyppt,1hdd0c7,https://reddit.com/r/devops/comments/1hdd0c7/2025_is_95_over/,https://www.reddit.com/r/devops/comments/1hdd0c7/2025_is_95_over/,2024-12-13 14:10:04,23,0.7,23,0,38,0,0,False,False,True,False,False,,self,t3_1hdd0c7
+devops,Best tool in DevOps,"From my recent experience, I would say the best tool to work on as a DevOps Engineer or similar position has to be Grafana or similar observability tool. You touch each every aspect of DevOps while setting up and also while maintaining it. System administration, application monitoring, kubernetes, containers, network, etc etc. 
+
+I believe, one who masters this, is already at the super pro level.
+
+What are your thoughts?",Radon03,1hd8o17,https://reddit.com/r/devops/comments/1hd8o17/best_tool_in_devops/,https://www.reddit.com/r/devops/comments/1hd8o17/best_tool_in_devops/,2024-12-13 09:31:56,15,0.61,15,0,30,0,0,False,False,True,False,False,,self,t3_1hd8o17
+devops,[Humor] A Company Asks me to Rate my tech Skills on a 1-5 Scale... So I Gave Them an 8,"**I know it's not the smartest thing I could have done, but it came straight from the heart.**
+
+So during a recent job hunt, I received a pptx file from a company asking me to rate my skills in various technologies on a scale from 1 to 5, **plus specify the exact versions I’ve worked with for +30 diff technologies.**
+
+Yeah, you read that right: They’re expecting me to say, *“I’m a level 3.74 at Python version 3.10.2”* or something equally ridiculous.
+
+Anyway, I filled out their form, but not the way they wanted. I just wrote something like:
+
+**Skill Level:** 8 (out of 5!)  
+**Version:** “INDIFFERENT""
+
+Maybe it’s unprofessional, but you know what’s also unprofessional?
+
+Trying to quantify my entire skill set with arbitrary numbers **like I’m a damn Pokémon card stat** lol.
+
+Maybe they have their reasons for doing what they do, but I didn’t want to take part in a process like that, which is why I responded the way I did.  
+
+
+I hope you’ll (and they) take it the way I do, with a sense of humor.
+
+*Alright, next one, please!*",nettrotten,1hcoieb,https://reddit.com/r/devops/comments/1hcoieb/humor_a_company_asks_me_to_rate_my_tech_skills_on/,https://www.reddit.com/r/devops/comments/1hcoieb/humor_a_company_asks_me_to_rate_my_tech_skills_on/,2024-12-12 16:11:26,138,0.89,138,0,63,0,0,False,False,True,False,False,,self,t3_1hcoieb
+devops,Moving from AWS ECS to AWS EKS,"It’s been proposed to move from bare AWS ECS to AWS EKS.
+
+Is the move worth it and what benefit is the move?
+
+Things have been stable with ECS as far as deployments and container orchestration.  It would be cool to learn something new but I also wonder about the efficacy. I haven’t worked with EKS professionally so this is why this is a blind spot",babbagack,1hd3btj,https://reddit.com/r/devops/comments/1hd3btj/moving_from_aws_ecs_to_aws_eks/,https://www.reddit.com/r/devops/comments/1hd3btj/moving_from_aws_ecs_to_aws_eks/,2024-12-13 03:31:03,11,0.75,11,0,36,0,0,False,False,True,False,False,,self,t3_1hd3btj
+devops,"300,000+ Prometheus Servers and Exporters Exposed to DoS Attacks","https://www.aquasec.com/blog/300000-prometheus-servers-and-exporters-exposed-to-dos-attacks/
+
+TLDR: In this research, we uncover flaws in the Prometheus ecosystem, including information disclosure, denial-of-service (DoS), and remote code execution risks via RepoJacking of Prometheus exporters. Over 336,000 Prometheus servers and Node Exporters are publicly exposed.",Pale_Fly_2673,1hcx003,https://reddit.com/r/devops/comments/1hcx003/300000_prometheus_servers_and_exporters_exposed/,https://www.reddit.com/r/devops/comments/1hcx003/300000_prometheus_servers_and_exporters_exposed/,2024-12-12 22:16:18,25,0.84,25,0,7,0,0,False,False,True,False,False,,self,t3_1hcx003
+devops,Built a Datadog cost calculator,"I’ve been using Datadog for years, and one of the biggest challenges for me has always been figuring out the bill ahead of time. I’ve noticed I’m not alone—many others are caught off guard by their bills, which is never good. 
+
+I originally built this tool to help myself, but I decided to improve it so others could benefit. I’m continuously adding more pricing details as I start using additional services. 
+
+[https://datadogcostcalculator.com/](https://datadogcostcalculator.com/)",houlihandy,1hcr58w,https://reddit.com/r/devops/comments/1hcr58w/built_a_datadog_cost_calculator/,https://www.reddit.com/r/devops/comments/1hcr58w/built_a_datadog_cost_calculator/,2024-12-12 18:04:27,53,0.96,53,0,17,0,0,False,False,True,False,False,,self,t3_1hcr58w
+devops,Github actions won't find my eks directory,"Hey guys, i have a project i am working on and i am using github actions to set up my infracturcture. This project is in a subdirectory in my main repo. Here is the repo structure:
+
+**projects/**
+
+|-- **microservice\_mern\_stack\_eks\_infrastructure**
+
+|   |-- **eks\_cluster**
+
+|   |   |-- backend.tf
+
+|   |   |-- main.tf
+
+|   |   |-- project\_locals.tf
+
+|   |   |-- terraform.tfvars
+
+|   |   \`-- variables.tf
+
+|   \`-- **modules**
+
+|       |-- certs\_oidc.tf
+
+|       |-- eks.tf
+
+|       |-- iam.tf
+
+|       |-- igw.tf
+
+|       |-- locals.tf
+
+|       |-- nat\_gw.tf
+
+|       |-- route\_tables.tf
+
+|       |-- subnets.tf
+
+|       |-- variables.tf
+
+|       \`-- vpc.tf
+
+  
+The projects directory holds all my portfolio projects. The sub directroy of interest her is **microservice\_mern\_stack\_eks\_infrastructure**. My github actions is not able to find **microservice\_mern\_stack\_eks\_infrastructure/eks\_cluster**   
+Here is one block referencing it:
+
+      Terraform-Initializing:
+        runs-on: ubuntu-latest
+        needs: Setting-Up-Terraform
+        steps:
+          - name: Terraform Init
+            working-directory: ./microservice_mern_stack_eks_infrastructure/eks_cluster
+            run: terraform init
+    
+
+||
+||
+||
+|[**Terraform-Initializing**](https://github.com/RyderGreystorm/projects/actions/runs/12317350793/job/34380119385#step:2:9)Show lessAn error occurred trying to start process '/usr/bin/bash' with working directory '/home/runner/work/projects/projects/microservice\_mern\_stack\_eks\_infrastructure/eks\_cluster/'. No such file or directory  |
+||
+
+ Here is the error i keep getting from my workflow:
+
+||
+||
+||
+|[**Terraform-Initializing**](https://github.com/RyderGreystorm/projects/actions/runs/12317350793/job/34380119385#step:2:9)Show lessAn error occurred trying to start process '/usr/bin/bash' with working directory '/home/runner/work/projects/projects/microservice\_mern\_stack\_eks\_infrastructure/eks\_cluster/'. No such file or directory  |
+||
+
+I appreciate your input and i am sorry its a long one",Fafa_techGuy,1hddlj6,https://reddit.com/r/devops/comments/1hddlj6/github_actions_wont_find_my_eks_directory/,https://www.reddit.com/r/devops/comments/1hddlj6/github_actions_wont_find_my_eks_directory/,2024-12-13 14:38:52,1,0.67,1,0,4,0,0,False,False,True,False,False,,self,t3_1hddlj6
+devops,Is KodeKloud Worth It?,"Currently I'm a second year computer science engineering student willing to learn devops and it's really overwhelming to go scout for information since it is so unorganized, I heard about KodeKloud and wanted to ask your opinion and some other alternatives , and can you suggest for me which path to take and any other advices you can. ",the_hero_Issei,1hcwri6,https://reddit.com/r/devops/comments/1hcwri6/is_kodekloud_worth_it/,https://www.reddit.com/r/devops/comments/1hcwri6/is_kodekloud_worth_it/,2024-12-12 22:05:27,17,0.87,17,0,9,0,0,False,False,True,False,False,,self,t3_1hcwri6
+devops,Is This CI/CD Pipeline Setup for React Frontend and .NET Backend Feasible?,"I’m planning to set up a CI/CD pipeline using Jenkins for automating the deployment of a **React frontend** and **.NET backend** to IIS servers for development and staging environments. I’ve outlined the workflow below and would love your input on whether this is feasible or if there are any potential pitfalls I should address.
+
+# Proposed Setup
+
+1. **Repositories:**
+   * **Frontend:** React codebase with `dev` and `staging` branches.
+   * **Backend:** .NET codebase with `dev` and `staging` branches.
+2. **Environments:**
+   * **Development:** Hosted on IIS, accessible via `http://dev.example.com`.
+   * **Staging:** Hosted on IIS, accessible via `http://staging.example.com`.
+3. **Pipeline Workflow:**
+   * **Triggers:** Push to `dev` or `staging` branches in the frontend repository triggers the pipeline. It fetches the corresponding branch from the backend repository to keep both in sync.
+   * **Builds:**
+      * **Frontend:** Runs `npm install`, builds the app, and deploys static files to IIS.
+      * **Backend:** Runs `.NET restore`, builds the project, and deploys compiled output to IIS.
+   * **Deployments:** Artifacts are deployed to IIS directories:
+      * Frontend: `C:/inetpub/wwwroot/dev/frontend` &amp; `C:/inetpub/wwwroot/staging/frontend`.
+      * Backend: `C:/inetpub/wwwroot/dev/backend` &amp; `C:/inetpub/wwwroot/staging/backend`.
+   * **Monitoring:** Post-deployment notifications and logs for debugging failed builds.
+4. **Jenkins Pipeline Design:**
+   * Parallel stages for frontend and backend to optimize time.
+   * Environment variables for repository URLs, branch names, and deployment paths.
+
+# My Questions:
+
+1. Is syncing both repositories in the same pipeline a good practice, or should I create separate pipelines for frontend and backend?
+2. Are there any better approaches for automating deployments to IIS servers?
+3. Would there be issues with this setup in handling branch-specific environments (`dev` and `staging`)?
+4. Is this really possible? I haven’t worked on Jenkins before, so I’m not sure if this workflow is achievable.
+
+",Striking-Database301,1hd8i7y,https://reddit.com/r/devops/comments/1hd8i7y/is_this_cicd_pipeline_setup_for_react_frontend/,https://www.reddit.com/r/devops/comments/1hd8i7y/is_this_cicd_pipeline_setup_for_react_frontend/,2024-12-13 09:18:45,2,0.75,2,0,6,0,0,False,False,True,False,False,,self,t3_1hd8i7y
+devops,I was just made the release manager for our team... Now what? ,"I have been a data scientist for a few years, but never a release manager?  What attributes do successful release managers have?  How can I do a good job in this role?  Any advice? ",BandicootRoutine5156,1hcv5rc,https://reddit.com/r/devops/comments/1hcv5rc/i_was_just_made_the_release_manager_for_our_team/,https://www.reddit.com/r/devops/comments/1hcv5rc/i_was_just_made_the_release_manager_for_our_team/,2024-12-12 20:56:55,13,0.79,13,0,14,0,0,False,False,True,False,False,,self,t3_1hcv5rc
+devops,CyberSecurity to Devops,"Hi everyone ! I want to transition into DevOps 
+I litte talk about my experiences 
+I was a Python backend Intern 
+And I wanted to become DevOps or Cyber Security specialist and I had chance to become Cyber intern and I did it and after that I become Cyber Sec Engineer 
+But while working I realised that I want to work with both Dev and Ops and Cloud related jobs so I thought DevOps is to go 
+And to do that 
+I've made a roadmap 
+1)AWS(SAA cert)
+2)Terraform(cert) 
+3) Docker 
+4) Kubernates 
+5)CI/CD (I think GitLab is fine)
+6)Golang 
+I already work with linux and networking thats why I did not include them 
+So my question is what are the possibilities to land a job after finishing the roadmap 
+How can I increase my chance of employment 
+And Does it matter if my Cyber Security Experience is less than 1 year 
+",Zyzz294,1hd8m33,https://reddit.com/r/devops/comments/1hd8m33/cybersecurity_to_devops/,https://www.reddit.com/r/devops/comments/1hd8m33/cybersecurity_to_devops/,2024-12-13 09:27:37,0,0.5,0,0,5,0,0,False,False,True,False,False,,self,t3_1hd8m33
+devops,"Looking for AI Tools for Code Scanning, Analysis, and Refactor Suggestions in CI/CD Pipelines
+","Hi everyone,
+
+I’m exploring AI-powered tools to integrate into my CI/CD pipelines. My goal is to automate tasks like code scanning, analyzing, and receiving refactor suggestions. I’d love to hear your recommendations or experiences with such tools.
+
+What tools have you used? How well do they integrate into CI/CD workflows? Are there any challenges or limitations to be aware of?
+
+Thanks in advance for sharing your insights!",aratahxm,1hdadga,https://reddit.com/r/devops/comments/1hdadga/looking_for_ai_tools_for_code_scanning_analysis/,https://www.reddit.com/r/devops/comments/1hdadga/looking_for_ai_tools_for_code_scanning_analysis/,2024-12-13 11:39:17,0,0.2,0,0,1,0,0,False,False,True,False,False,,self,t3_1hdadga
+devops,Pipeline scripts run programmatically inside a container,I am trying to find a video about a tech conference where a guy explained that they stopped integrating the whole pipeline script logic in their YAML file but instead defined the logic programmatically. The code would then be run inside a container to complete a step of the pipeline. Does it ring a bell for anyone? How is this technology called?,Immersive_Username,1hcleux,https://reddit.com/r/devops/comments/1hcleux/pipeline_scripts_run_programmatically_inside_a/,https://www.reddit.com/r/devops/comments/1hcleux/pipeline_scripts_run_programmatically_inside_a/,2024-12-12 13:45:45,15,0.84,15,0,20,0,0,False,False,True,False,False,,self,t3_1hcleux
+devops,The infrastructure guy quit,"We are a small DevOps team in a very fast-paced mid-size startup. We run and maintain several on-site bare metal Kubernetes clusters, but we fully depend on our infrastructure ""team"" to set up the physical servers, build the racks and set up and manage the entire network.
+
+But the team is just one guy who takes care of everything. Literally no one else at the company truly knows how it's all set up. Attempts to start some knowledge transfer have never gotten too far. This situation has persisted for a long time and his direct manager has not hired a second person for the team. Well, now the totally unexpected and unforseeable thing has happened (edit: /s) and the guy put in his notice (2 months - we're in Europe).
+
+Since then they have managed to find a new person for the position, but I still expect that management will try to push some of his agenda onto us. However, none of us have the required advanced networking and sysadmin knowledge that's required. We are a very small team and are already overloaded to the point that simple features take months to deliver due to high operational pressure, us being constantly interrupted by requests from other teams and other high priority work. I know that there are IaC tools for hardware and network administration, but we just don't have the capacity to take on and be fully responsible for setting up all this hardware and be responsible for its reliable operation. The transition period for the new guy will be very short and I'm afraid that the entire infrastructure will be at risk of falling apart.
+
+Have you experienced a similar situation? I would greatly appreciate any suggestions for how to proceed, both as an individual and as the team.",Ether-Air-1086,1hbz44k,https://reddit.com/r/devops/comments/1hbz44k/the_infrastructure_guy_quit/,https://www.reddit.com/r/devops/comments/1hbz44k/the_infrastructure_guy_quit/,2024-12-11 17:39:50,289,0.94,289,0,197,0,0,False,False,True,False,False,,self,t3_1hbz44k
+devops,Need Guidance and clear confusion ,"Want proper guidance for starting my career in DevOps. I collected some roadmaps, read some articles, and watched some YouTube videos to know about DevOps (cons also). After that I think the DevOps may be a good choice for me as a student from a CS background (running). Now after all this, I want some advice and guidance about how to start and what I should do if I want to be a better DevOps engineer. *It would be great to suggest an online platform for complete learning and start better in the industry.* Is [Coursera IBM DevOps (professional certificate) ](https://www.coursera.org/professional-certificates/devops-and-software-engineering) a good choice to start?
+
+I have solid knowledge in C++, Python, and DSA. Never done any project before but did competitive programming before (not too much).
+
+Confusion is, one of my friends said, in the age of AI and ML DevOps is not good career choice.(edited:get my answer of this)",lubdhak_31,1hd1q5b,https://reddit.com/r/devops/comments/1hd1q5b/need_guidance_and_clear_confusion/,https://www.reddit.com/r/devops/comments/1hd1q5b/need_guidance_and_clear_confusion/,2024-12-13 02:06:11,0,0.25,0,0,5,0,0,False,False,True,False,False,,self,t3_1hd1q5b
+devops,"Visual Studio 2022, C#, multiple defines seem to negate..... at least on GitHub windows-2022 runner...","This is a really weird one, folks here might have some thoughts/interest.  
+
+If you define the same conditional compilation symbol twice, Visual Studio will revert to default settings.  Haven't tried pinning this to a particular version, just hit us a few hours ago.
+
+Our symptom was that we rely on conditionals to control the URL's the product connects to, and the most recent release builds were connecting to the dev host.  MSBuild was using the correct build configuration yet the code was building things that shouldn't build in this configuration .  
+
+To further verify , we 'broke' debug build by introducing a bug inside an #if so that we could be absolutely certain that the wrong defines were applied, and sure enough our 'GOLIVE' was building Debug code.
+
+I noticed duplicate defines when reviewing in VS project properties, the lead dev cleaned and confirmed this fixes the issue.  In our specific case the apparent culprit was checked in directory.build.props files having the same &lt;DefineConstants&gt; values as the .csproj files.  Removing the &lt;DefineConstants&gt; from directory.build.props files resulted in correct build.
+
+It's entirely possible that there is some other root cause, we're in the middle of a regulatory compliance cycle so no time to dig any further..
+
+msbuild version 17.12.6.51805.",bdzer0,1hcwctv,https://reddit.com/r/devops/comments/1hcwctv/visual_studio_2022_c_multiple_defines_seem_to/,https://www.reddit.com/r/devops/comments/1hcwctv/visual_studio_2022_c_multiple_defines_seem_to/,2024-12-12 21:47:47,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hcwctv
+devops,Contracts,"Is there anyone have contracts for DevOps work outside of their job or running a small DevOps company?
+
+Just curious because I’ve been in DevOps for some time now and never hear of anyone with side jobs or running their own small business. ",urbann3rds,1hcutrz,https://reddit.com/r/devops/comments/1hcutrz/contracts/,https://www.reddit.com/r/devops/comments/1hcutrz/contracts/,2024-12-12 20:43:13,0,0.5,0,0,6,0,0,False,False,True,False,False,,self,t3_1hcutrz
+devops,Av v0.1.0 - FREE (no strings attached) and Open-Source tool for stacked pull requests,"Hey folks, how are you doing?
+
+
+
+\_\`av\` is a completely free and open-source tool for managing stacked PRs.\_
+
+
+
+There’s been a ton of interest in \`av\`. From startups to Fortune 500s, the world’s most effective engineering teams supercharge their developers with \`av\` - Slack, Figma, Doordash, Devrev, Square, Amplitude, Color and more!
+
+
+
+[https://github.com/aviator-co/av](https://github.com/aviator-co/av)
+
+
+
+At Aviator, our philosophy is to make every developer more productive and we aspire to give Google-level engineering tools to any and every developer out there!
+
+
+
+Av works with any build tool including Bazel, NX, Pants, Turborepo, or Gradle. Here are some of the features:
+
+
+
+\- Completely FREE (no strings attached) and open source
+
+
+
+\- Visualize your stack, and navigate across your stack using av stack tree
+
+
+
+\- Split, fold and reorder your commits. Delete and rename branches and modify
+
+
+
+\- Easily create stacked PRs and add them to your current stack
+
+
+
+Resolve conflicts quickly - No more fighting with merge conflicts across multiple PRs.
+
+
+
+\- Smartly synchronize stacked branches when making changes.
+
+
+
+\- Create PRs, and coordinate code reviews without worrying about managing child-parent relationships. The CLI tracks the entire stack to smartly create and modify PRs.
+
+
+
+\- Stack-aware merge queue - Queue your entire stack or a partial stack to auto-merge using our stack-aware merge queue
+
+
+
+With our \*\*latest release (v0.1.0)\*\*, we’ve also streamlined the syntax to make it easier than ever to use av:
+
+
+
+\- Top-Level Commands: No more \`av stack &lt;command&gt;\` and \`av commit &lt;command&gt;\` — all commands are now top-level or integrated as flags for other commands.
+
+
+
+\- Easier PR and Commit Creation: Commands like \`av commit\` and \`av pr\` now directly create commits and PRs.
+
+
+
+Special thank you to this community for giving us space to introduce everyone to av ❤️
+
+
+
+If you’d star our repo, it’d be amazing! ⭐",mute927,1hcj6gb,https://reddit.com/r/devops/comments/1hcj6gb/av_v010_free_no_strings_attached_and_opensource/,https://www.reddit.com/r/devops/comments/1hcj6gb/av_v010_free_no_strings_attached_and_opensource/,2024-12-12 11:35:15,6,0.69,6,0,0,0,0,False,False,True,False,False,,self,t3_1hcj6gb
+devops,Self service ngrok based on Kubernetes,"Hey DevOps folks,
+
+I wanted to share a small utility I built on top of [ktunnel](https://github.com/omrikiei/ktunnel). It leverages the Gateway API’s separation-of-concerns architecture to allow developers to provision ""dynamic"" endpoints. These endpoints can be tunneled to specific ports on their local machines, making it easy to create public endpoints for development environments.
+
+I originally created this while working on a GitHub webhook, and it evolved into a self-service tool inspired by the challenges I often encounter at work.
+
+The project isn’t overly complex and can also serve as a tutorial on setting up a Kubernetes gateway. Additionally, it’s a good starting point for learning how to use the [go-client](https://github.com/kubernetes/client-go) to programmatically interact with Kubernetes. (I even recreated the `kubectl apply` logic for this project.) I’ve tried to keep the code as straightforward and easy to follow as possible.
+
+Here’s the link to the project: https://github.com/IxDay/kgrok.
+
+Let me know if it scratches some of the same itches for you!",IxDayz,1hcjcd3,https://reddit.com/r/devops/comments/1hcjcd3/self_service_ngrok_based_on_kubernetes/,https://www.reddit.com/r/devops/comments/1hcjcd3/self_service_ngrok_based_on_kubernetes/,2024-12-12 11:46:00,4,0.83,4,0,0,0,0,False,False,True,False,False,,self,t3_1hcjcd3
+devops,Gamification for Open Source contributors - Christmas gifts promised ,,frolvlad,1hcxjo4,https://reddit.com/r/devops/comments/1hcxjo4/gamification_for_open_source_contributors/,/r/RaceOfSloth/comments/1hcofs9/tagging_us_in_your_pr_unlocks_holiday_magicwhats/,2024-12-12 22:41:22,0,0.25,0,0,0,0,0,False,False,False,False,False,,default,t3_1hcxjo4
+devops,Lack of clear ownership - hot to fight with that :|,"From work:
+
+- „PM I have to change X code because its causing performance issues and we constantly get paged”
+
+- „We cant touch it coz its not our code, create a ticket for team Y”
+
+- „Team Y - we wont touch it coz noone from us understands or remembers this legacy code”
+
+- „So PM can I fix it ? - No, you have to first get approval”
+
+- „Team Y can I get approval? - You dont need approval from us to change that”
+
+- „Team Y says I can change it, so can I work on that ? It will literally take less time to fox it than do all this ping pong”
+
+- „PM - No, we will take ownership of it”
+
+- „But Im already on Oncall for it, how more responsible I can be?”
+
+- „PM - but its team y responsibility, cut the discussion”
+
+- „Me - gets woken up by page, fix the code coz Im tired.. of it”
+
+- „PM - we have to discuss your actions”
+
+Fml. Is work that retarded in any other corpos ?
+
+Insert „flip table meme”",pojzon_poe,1hc722k,https://reddit.com/r/devops/comments/1hc722k/lack_of_clear_ownership_hot_to_fight_with_that/,https://www.reddit.com/r/devops/comments/1hc722k/lack_of_clear_ownership_hot_to_fight_with_that/,2024-12-11 23:15:48,33,0.88,33,0,28,0,0,False,False,True,False,False,,self,t3_1hc722k

@@ -1,0 +1,549 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+webdev,Working on my Portfolio (What do you guys think?),,TheAmalLalgi,1h4anzm,https://reddit.com/r/webdev/comments/1h4anzm/working_on_my_portfolio_what_do_you_guys_think/,https://i.redd.it/cjoae8n6ca4e1.png,2024-12-01 19:04:19,35,0.67,35,0,112,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/kiKNGYjnJ9ysB1K3WbrZ5NTahhHGSrGiVtmPLTACSKo.jpg,t3_1h4anzm
+webdev,Need help for a basic website,"I'm a design student , this semester we had a course on web development , I couldn't understand a thing but I have to submit a 5 page basic html css js website. What is the best and fastest way i can tackle this situation or if any anybody as simple site can you send source code. It will help a lot   
+Thanks",Lord__Sam,1h4gevt,https://reddit.com/r/webdev/comments/1h4gevt/need_help_for_a_basic_website/,https://www.reddit.com/r/webdev/comments/1h4gevt/need_help_for_a_basic_website/,2024-12-01 23:10:03,0,0.5,0,0,9,0,0,False,False,True,False,False,Question,self,t3_1h4gevt
+webdev,scrape every restaurants from google map for given city,"I’m working on a little side project and need some advice. I want to scrape data for every restaurant in a specific city from Google Maps to run a price analysis on food prices. I’ve looked into the Google Places API, but it seems like it can’t handle this kind of bulk scraping(limit to 20 results per query, and rank by prominence so some restaurants might be missing).
+
+Has anyone here managed to do something like this? Are there any tools, scripts, or workarounds you’d recommend? Or is it just not doable with Google Maps due to restrictions?",hello_motherfuckers_,1h4s9q9,https://reddit.com/r/webdev/comments/1h4s9q9/scrape_every_restaurants_from_google_map_for/,https://www.reddit.com/r/webdev/comments/1h4s9q9/scrape_every_restaurants_from_google_map_for/,2024-12-02 10:47:21,4,0.66,4,0,15,0,0,False,False,True,False,False,Discussion,self,t3_1h4s9q9
+webdev,When does automation stop in web development?,"Lately, I’ve been using some tools that automate work and processes, and it got me thinking about where we’re headed.   
+  
+On the surface, it’s amazing—tech keeps getting smarter, and makes us faster.  
+  
+But there’s a weird tension between “streamlining everything” and creating systems that make us *more* dependent on them.
+
+For example, I stumbled on this [site](https://www.polipo.io/) that promises to make creating web apps super fast. It’s efficient, sure, but at what point are we automating creativity itself? Are we making people obsolete, or are we just pushing the limits of efficiency?
+
+I’d love to hear your thoughts:
+
+* Where should the line be between what we automate and what we keep human?
+* Is relying on these tools making us lose valuable skills, or are we just adapting to new tools like we always have?
+* Are we sacrificing quality or individuality for speed and convenience?
+
+Would love to hear how others see this, especially if you’ve used similar tools or are working in industries being rapidly disrupted by automation.",ExtensionAd3139,1h4s9oa,https://reddit.com/r/webdev/comments/1h4s9oa/when_does_automation_stop_in_web_development/,https://www.reddit.com/r/webdev/comments/1h4s9oa/when_does_automation_stop_in_web_development/,2024-12-02 10:47:14,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1h4s9oa
+webdev,Web Dev or Web Apps,"A few months ago, I created a couple of websites but struggled to find any clients. Now, I’ve started learning Flutter and focusing on app development. Should I continue with app development, or shift my focus back to web development?
+
+P.S. I live in Asia, where most of the opportunities seem to come from the US or Europe (remote or through an agency). The local market doesn’t offer much for web development, and there are very few opportunities for Flutter developers here.",One-Hedgehog-5073,1h4tonk,https://reddit.com/r/webdev/comments/1h4tonk/web_dev_or_web_apps/,https://www.reddit.com/r/webdev/comments/1h4tonk/web_dev_or_web_apps/,2024-12-02 12:18:48,1,0.6,1,0,4,0,0,False,False,True,False,False,,self,t3_1h4tonk
+webdev,Tiny-Helpers is down? https://tiny-helpers.dev/,I need it very much right now but I'm not sure if dev killed his site or is it just a site service for few hours or so?  https://tiny-helpers.dev/ Shows error 503,iFeel,1h4r2vr,https://reddit.com/r/webdev/comments/1h4r2vr/tinyhelpers_is_down_httpstinyhelpersdev/,https://www.reddit.com/r/webdev/comments/1h4r2vr/tinyhelpers_is_down_httpstinyhelpersdev/,2024-12-02 09:17:41,0,0.4,0,0,3,0,0,False,False,True,False,False,Question,self,t3_1h4r2vr
+webdev,How do you develop micro-services locally?,"How do you develop micro-services locally when there are several applications that communicate with each other and you need to see logs in several applications at once.
+
+I'm using Docker Compose + Dozzle for such purposes to run batch of services and watch logs, but with this approach the file system can slow down a lot when live reload is enabled.
+
+Recently I found out that there are Procfile and overmind, which allow to conveniently run several services at once with one command without virtualization. But logs are shown in a single console and it is not convenient to see what is going on (my application has a large business logic and a lot of communication back and forth, so a lot of logs).
+
+UPD:
+
+Combining [hivemind](https://github.com/DarthSim/hivemind) (Procfile launcher) and [logdy](https://logdy.dev/) (logs viewer from pipe to browser) can be working 
+solution. Run it as:
+
+```sh
+logdy stdin hivemind
+```
+
+I haven't tested this well, but it looks workable. In logdy you can add a filter to show only the services you need",vladkens,1h4dqap,https://reddit.com/r/webdev/comments/1h4dqap/how_do_you_develop_microservices_locally/,https://www.reddit.com/r/webdev/comments/1h4dqap/how_do_you_develop_microservices_locally/,2024-12-01 21:14:18,1,0.6,1,0,16,0,0,False,False,True,False,False,,self,t3_1h4dqap
+webdev,Scraping keywords from webpages - method suggestions wanted,"Hi All,
+
+I'm making a keyword scraper in order to do some competitor research on the top google search results. I've come here to ask for your ideas on the best ways to extract the most important keywords from a page I'll detail what I'm currently doing below.
+
+This is all done in python using Selenium and BeautifulSoup
+
+1. Get the text from all visible elements
+2. Delete the first header and all of the following elements: footers, navs and elements with ""aria-hidden=True""
+3. Flattens all inline elements so that the text is all in block level elements -&gt; just done for ease of parsing
+4. Then it creates 8 lists
+   1. A list where each of the h1-6 elements are collected
+   2. A list for roughly the first 200 words measured from the start of the first h1
+   3. A list for all elements after the start of the first h1
+5. I then return a dictionary to my keyword scraper which has all of the lists above plus the title, url and meta description
+
+Then I run my langauge processing which is a combo of SciKit learn and SpaCy.
+
+I have three methods currently working to extract keywords:
+
+* TF-IDF -&gt; TfidfVectorizer from sklearn
+* Noun-Phrase extraction -&gt; I'll post my matcher below but this is a custom pipeline for spaCy
+* Named entity extraction -&gt; spaCy as well, super basic just collecting important types of named entities like person, product etc...
+
+Here is my matcher:
+
+    patterns = [
+                # Optional Adverb(s) + Adjective(s) + Noun(s)
+                [{'POS': 'ADV', 'OP': '*'},
+                 {'POS': 'ADJ', 'OP': '+'},
+                 {'POS': {'IN': ['NOUN', 'PROPN']}, 'OP': '+'}],
+               
+                # Nouns joined by coordinating conjunction
+                [{'POS': {'IN': ['NOUN', 'PROPN']}, 'OP': '+'},
+                 {'POS': 'CCONJ'},
+                 {'POS': {'IN': ['NOUN', 'PROPN']}, 'OP': '+'}],
+               
+                # Gerund + Noun
+                [{'POS': 'VERB', 'TAG': 'VBG'},
+                 {'POS': {'IN': ['NOUN', 'PROPN']}}],
+               
+                # Noun + Preposition + Optional Adjective + Noun
+                [{'POS': {'IN': ['NOUN', 'PROPN']}},
+                 {'POS': 'ADP'},
+                 {'POS': 'ADJ', 'OP': '*'},
+                 {'POS': {'IN': ['NOUN', 'PROPN']}}],
+                #  Noun + Hyphen + Verb/Noun
+                [{""POS"": ""NOUN""},
+                 {""TEXT"": ""-""},
+                 {""POS"": {""IN"": [""NOUN"", ""VERB""]}}]
+     ]
+
+This collects a decent amount of keywords but I feel like it could be improved. Has anyone else approached this problem and has any advice on new methods I can try I'd love to hear about.
+
+Appreciate you reading through this - Cheers",PmNudesForComplimnts,1h47p7v,https://reddit.com/r/webdev/comments/1h47p7v/scraping_keywords_from_webpages_method/,https://www.reddit.com/r/webdev/comments/1h47p7v/scraping_keywords_from_webpages_method/,2024-12-01 16:58:34,1,0.6,1,0,4,0,0,False,False,True,False,False,Discussion,self,t3_1h47p7v
+webdev,How to have sub pages with unique URLs on my site?,"Sorry I'm not sure how to explain this in the title! I built my own site in Wordpress, but I'm a bit of a noob. I do quite a lot of different jobs - videography, editing, composition, sound design etc. I've had it all on one site, but I've had some people tell me they think I should have a separate site for Music and Sound Design as Agencies want a specialist, not someone who does everything, which makes sense
+
+So I currently have my main .co.uk site and I have .com with the same name redirecting to the .co.uk site.
+
+Are my only options for doing the above to buy a new domain and create a new website, or to have a page on my current site that doesn't link back to the main site or have a menu, but then people could just change the URL to get to my main site if they noticed
+
+Are there ways of doing this I'm missing, which don't involve buying new domains?
+
+thanks",fiftyfifteen,1h458no,https://reddit.com/r/webdev/comments/1h458no/how_to_have_sub_pages_with_unique_urls_on_my_site/,https://www.reddit.com/r/webdev/comments/1h458no/how_to_have_sub_pages_with_unique_urls_on_my_site/,2024-12-01 15:07:45,1,0.6,1,0,11,0,0,False,False,True,False,False,Question,self,t3_1h458no
+webdev,Do you use MongoDB for high vol. production websites/apps?,"MongoDB used to be popular a few decades ago but when the hype died and relational DBs started to support JSON fields, relational DBs came back into vogue.
+
+Do you still intentionally choose MongoDB in high volume production websites/apps?
+
+[View Poll](https://www.reddit.com/poll/1h4ixmc)",longiner,1h4ixmc,https://reddit.com/r/webdev/comments/1h4ixmc/do_you_use_mongodb_for_high_vol_production/,https://www.reddit.com/r/webdev/comments/1h4ixmc/do_you_use_mongodb_for_high_vol_production/,2024-12-02 01:08:29,0,0.27,0,0,11,0,0,False,False,True,False,False,,self,t3_1h4ixmc
+webdev,How would Google selling Chrome stop its monopoly?,"Might be off-topic to this sub, but I don't know what other sub would have redditors with enough knowledge about the web to answer this correctly.
+
+My understanding is that Google has tried to maintain a monopoly over the search engine market by making other companies use Google as the main search engine for their browsers (e.g., Firefox, Safari).
+
+If that's the case, what's the point of having Google sell Chrome, the browser? There are plenty of other browsers out there -- Google doesn't hold a monopoly over the browser market. Chromium is a thing, yes, but neither Firefox nor Safari is Chromium based, and Chromium is open source anyway. The problem here is the ubiquity of 'Google' the search engine, not Chrome the browser.
+
+TLDR: if what Google holds a monopoly over is the search engine that browsers use and not over browsers themselves, how does selling Chrome stop their monopoly?",cachehit_,1h491sj,https://reddit.com/r/webdev/comments/1h491sj/how_would_google_selling_chrome_stop_its_monopoly/,https://www.reddit.com/r/webdev/comments/1h491sj/how_would_google_selling_chrome_stop_its_monopoly/,2024-12-01 17:55:57,75,0.82,75,0,92,0,0,False,False,True,False,False,Discussion,self,t3_1h491sj
+webdev,reverse engineer sites,"so i am just kinda curious if this can be accomplished and if so, where do you recommend I start?
+
+I am just curious if reverse engineering (or another method) a site that has blocks in place (ie, paywall, account needed, friendship needed) is it possible to still be able to view/download media on that website without having to pay/create account/become friends with another member? 
+
+i do not have any web development experience but i know you guys can do some sneaky snuff when u hit F12 or inspect or whatever magic you prefer to make this possible. i previously used jdownloader2 to do this but it suddenly stopped working and i have no idea of any other way to do this but if it is possible, what kind of topics can i read up on or tutorials i can watch to learn from that will help me learn that stuff?",cmdywrtr27,1h4opzu,https://reddit.com/r/webdev/comments/1h4opzu/reverse_engineer_sites/,https://www.reddit.com/r/webdev/comments/1h4opzu/reverse_engineer_sites/,2024-12-02 06:26:42,0,0.31,0,0,3,0,0,False,False,True,False,False,,self,t3_1h4opzu
+webdev,How would you use AI in an interview that allows it,"I have an interview coming up that allows the use of AI. I would like to use Github Copilot but would love to know what you guys think about how I should use it. I normally write comments explaining what I want, then 'tab.' Is this fine as long as I check what it wrote and make sure it's efficient? ",anthonyyoussef01,1h4ct6p,https://reddit.com/r/webdev/comments/1h4ct6p/how_would_you_use_ai_in_an_interview_that_allows/,https://www.reddit.com/r/webdev/comments/1h4ct6p/how_would_you_use_ai_in_an_interview_that_allows/,2024-12-01 20:35:00,0,0.27,0,0,6,0,0,False,False,True,False,False,,self,t3_1h4ct6p
+webdev,"""Sign in As"" feature for Admins integrated with my Auth system","How do I go about creating a ""Sign in as"" feature that integrates with my auth system? Currently have a Nextjs and Express application and am using auth.js for authentication. Are there any auth providers out there that has support for this or makes it easier? I'd like my Admins (colleagues) to be able to login as one of our non-admins and not have to login to someone else's account. Thanks.",Sudden-Finish4578,1h4ejy0,https://reddit.com/r/webdev/comments/1h4ejy0/sign_in_as_feature_for_admins_integrated_with_my/,https://www.reddit.com/r/webdev/comments/1h4ejy0/sign_in_as_feature_for_admins_integrated_with_my/,2024-12-01 21:49:18,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1h4ejy0
+webdev,Use for a can be deleted method ?,"Does it make sense to make a method that returns a boolean to know if a element in a CRUD can deleted or not ?
+
+We use them at my job and i don't really see the point in it. If it can't be deleted the method to delete it will fail. Why not call it directly instead of asking first if it can be deleted ? What's the point in this ?
+
+EDIT: To clarify by ""method"" i actually meant a API endpoint.
+
+EDIT2: The endpoint can't be used to not render/disable the button since it would be too costly to check if each item in the crud can be deleted.  
+It would be too costly because the crud can have hundreds of items AND the check if it can be deleted or not is depends on if that entity is related to other entities in the database.",Aydnir,1h4th1p,https://reddit.com/r/webdev/comments/1h4th1p/use_for_a_can_be_deleted_method/,https://www.reddit.com/r/webdev/comments/1h4th1p/use_for_a_can_be_deleted_method/,2024-12-02 12:06:01,3,0.71,3,0,17,0,0,False,False,True,False,False,,self,t3_1h4th1p
+webdev,"Finally released my NPM package to quickly scaffold your Next JS, Prisma, Postgres, NextAuth &amp; TailwindCSS project","# Next-ScaffoldKit
+
+ScaffoldKit is a powerful CLI tool that instantly scaffolds a production-ready Next.js application with authentication, database integration, and essential features pre-configured.
+
+# Features
+
+* 🔐 Built-in authentication with NextAuth.js
+* 📊 Prisma ORM integration
+* 🎨 TailwindCSS styling
+* 📱 Responsive authentication pages
+* 🔒 Password hashing with bcrypt
+* 🚦 TypeScript support
+* 📁 App Router architecture
+* ⚡ Ready-to-use API routes
+
+You can find it here:  [https://www.npmjs.com/package/next-scaffoldkit](https://www.npmjs.com/package/next-scaffoldkit)
+
+  
+All feedback is welcomed. ",serial9,1h4gaah,https://reddit.com/r/webdev/comments/1h4gaah/finally_released_my_npm_package_to_quickly/,https://www.reddit.com/r/webdev/comments/1h4gaah/finally_released_my_npm_package_to_quickly/,2024-12-01 23:04:21,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1h4gaah
+webdev,I need some advice,"Hi all!!!
+
+I am considering buying a Surface Laptop 7 (it would be my first purchase after 4 months of work as a reward for myself) for my programming activities (I program almost all day, but I work in the office during the week, so I would mainly use it on weekends for personal projects). and I would like to know if it is sufficient for my needs. I program almost all day long and mainly use WebStorm for development. I have stopped playing games, so the laptop would be dedicated exclusively to programming and other daily use activities (browsing, discord, anime etc...).
+
+Does anyone have experience with the Surface Laptop 7 for intensive use like mine? How does it perform in terms of performance, temperature management, and battery life with IDEs like WebStorm and PyCharm open for many hours a day?
+
+Thanks in advance for your advice!",Pt-tS,1h46qby,https://reddit.com/r/webdev/comments/1h46qby/i_need_some_advice/,https://www.reddit.com/r/webdev/comments/1h46qby/i_need_some_advice/,2024-12-01 16:15:37,0,0.5,0,0,1,0,0,False,False,True,False,False,Question,self,t3_1h46qby
+webdev,Unknown 3rd party code in Pagespeed insights,"Does anyone know what this would be from? I have noticed a lot more site views and higher bounce rates lately and wonder if this is related...
+
+It's showing up under 3rd party code when I run a PageSpeed Insights test. I have no ads on the website and the only javascript I have is for Pinterest, Google Tag Manager, Mailerlite and some animation script.
+
+Website is on Squarespace.
+
+https://preview.redd.it/gefyfae1i94e1.png?width=1946&amp;format=png&amp;auto=webp&amp;s=37b662fe8e35a89b1b97cd37b6197cfc36481841
+
+",Beginning_Plant_7931,1h46po6,https://reddit.com/r/webdev/comments/1h46po6/unknown_3rd_party_code_in_pagespeed_insights/,https://www.reddit.com/r/webdev/comments/1h46po6/unknown_3rd_party_code_in_pagespeed_insights/,2024-12-01 16:14:49,0,0.5,0,0,2,0,0,False,False,True,False,False,Question,https://a.thumbs.redditmedia.com/Dwk8-9nmP5KntU6mQAQPt5xVuBGcrdUpQbV_SvGg_C4.jpg,t3_1h46po6
+webdev,Do i need to a frontend framework like React for authentication?,"I have a simple tailwind webstie currently with only html/css. I now want to add more features to the website. Mostly authentication and when a user gets authenticated, display some content to them. Is a framework like React a must for this or can i get away without one? And if so, what are the consequences of not using one?",zZurf,1h493mj,https://reddit.com/r/webdev/comments/1h493mj/do_i_need_to_a_frontend_framework_like_react_for/,https://www.reddit.com/r/webdev/comments/1h493mj/do_i_need_to_a_frontend_framework_like_react_for/,2024-12-01 17:58:05,0,0.2,0,0,17,0,0,False,False,True,False,False,Discussion,self,t3_1h493mj
+webdev,Need advice,"So I want to build a small in house  inventory app at work, and I'm trying to explore the application structure. I have no plans to scale it at first but it might require it down the line so my thought was to dabble in microservices for the app because different parts need different things and my thought are might as well try it out.
+
+My question is I plan to use SSO with ad azure / passport so I don't have to put alot of thought in authentication process, but I'm bad at researching and I just want to know if treating authentication  as a microservices is a bad idea/ practice or is the logic sound?
+
+My thought process is I can break things down by best tools for them, hence why the microservices 
+
+Catalogue/Inventory nest , db
+Notification/task/chat. Realtime database / web sockets 
+Analysis/reports - pandas and maybe fast API depending 
+Transfers - not sure yet but I image I need realtime data or worse case some integration with the shipping software that is used .
+
+Idk this is one of those areas where project structure always eludes me ",Healthierpoet,1h4vklm,https://reddit.com/r/webdev/comments/1h4vklm/need_advice/,https://www.reddit.com/r/webdev/comments/1h4vklm/need_advice/,2024-12-02 14:00:00,1,0.67,1,0,3,0,0,False,False,True,False,False,Question,self,t3_1h4vklm
+webdev,Drizzle anyone?,"So I started this project a while ago fire the website concept I have.  I had a developer, but they got busy with a new job.  At first I was going to do the front end and she was going to to the back, but it just made way more sense for her to do full stack.  They did React on the frontend with an Express/JS backend. Drizzle for ORM and PostgreSQL for the database.  I’m still pretty much a newb at all things that’s not just a static page with HTML/CSS and a lil bit of JS.  So I’m looking for someone to follow in their footsteps.  DM me if interested!  ",Codydiceman1,1h4vbz3,https://reddit.com/r/webdev/comments/1h4vbz3/drizzle_anyone/,https://www.reddit.com/r/webdev/comments/1h4vbz3/drizzle_anyone/,2024-12-02 13:47:49,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h4vbz3
+webdev,How are the assets in BrowserBase made?,"Was wondering how I can start learning how to make video and 3d assets like these and how they are handled in web apps.
+
+https://preview.redd.it/wjosw1cfq94e1.png?width=1947&amp;format=png&amp;auto=webp&amp;s=794da8d78261dbacb1e692c8bec8a939e0339632
+
+https://preview.redd.it/vfuz6yggq94e1.png?width=1926&amp;format=png&amp;auto=webp&amp;s=1dffae1d74331d682ea368d79c8ba17434701842
+
+",Wizardeep,1h47tf5,https://reddit.com/r/webdev/comments/1h47tf5/how_are_the_assets_in_browserbase_made/,https://www.reddit.com/r/webdev/comments/1h47tf5/how_are_the_assets_in_browserbase_made/,2024-12-01 17:03:11,1,0.67,1,0,3,0,0,False,False,True,False,False,Question,https://b.thumbs.redditmedia.com/chiuYpdzll-C_OjoaFNUXJVzpxFQa2H7h0wbq0E0MWI.jpg,t3_1h47tf5
+webdev,What job alternatives have you started looking at in this bad market for developers?,"I have been unemployed for almost a year now, 3 years of experience being a React developer, built 3 fullstack PERN web applications to showcase on my portfolio too, but its not enough. Got rejected soo many times that my energy talking to recruiters just puts them off now because I know it would be another one. Im wondering what other keywords could I be searching for in tech where I maybe able to make ends meet for now",Intelligent_Will_948,1h4ogn9,https://reddit.com/r/webdev/comments/1h4ogn9/what_job_alternatives_have_you_started_looking_at/,https://www.reddit.com/r/webdev/comments/1h4ogn9/what_job_alternatives_have_you_started_looking_at/,2024-12-02 06:09:46,93,0.9,93,0,75,0,0,False,False,True,False,False,Discussion,self,t3_1h4ogn9
+webdev,"wtf is this? (glassdoor, window.WTF_IS_THIS, works on all pages)",,L8Figure,1h4r6w5,https://reddit.com/r/webdev/comments/1h4r6w5/wtf_is_this_glassdoor_windowwtf_is_this_works_on/,https://i.redd.it/eo8ewvyrle4e1.png,2024-12-02 09:26:20,99,0.91,99,0,34,0,0,False,False,False,False,False,Discussion,https://b.thumbs.redditmedia.com/0IKMUpnuiUaW2_ax6WfWDOAfbGsfJtZeGgLC070uo3s.jpg,t3_1h4r6w5
+webdev,Suggestions on what to look for and how to look for when Hiring a Webdev,"This is going to cause a ruckus, but hear me out.   
+For context, I got a job in a business department a few weeks ago (I have a background in SE but the business position pays better) and inherited a pretty screwed over project. We had a junior developer who never touched anything but react.js trying to port a desktop legacy software from .net framework4 into a modern Microsoft Stack with a React/Nest Frontend.
+
+Junior was let go last week, we've got some work done on his last few weeks, but the project was due 2 months ago and management was not happy about not having anything to show for it, we have some basic crud forms and a rest API that would make anyone familiar with OpenAPI spec cry, but nothing 'usable' in the business sense.
+
+That brings me here: I got to hire another dev, and aside from posting the tech stack on linkedin, I'm not really sure how things work now that I'm on the other side of this process, what is a 'good' way to choose a dev?",Scented-Sound,1h4fz0p,https://reddit.com/r/webdev/comments/1h4fz0p/suggestions_on_what_to_look_for_and_how_to_look/,https://www.reddit.com/r/webdev/comments/1h4fz0p/suggestions_on_what_to_look_for_and_how_to_look/,2024-12-01 22:50:35,2,0.75,2,0,6,0,0,False,False,True,False,False,,self,t3_1h4fz0p
+webdev,"For those that have worked with lots of backend frameworks, what's your favorite &amp; why?","I've worked with Django, Express &amp; a tiny amount of Dotnet. Trying to decide where to focus efforts in terms of future opportunities &amp; also speed of development.
+
+Also is there any backends you hate and would not want to work with?",thebreadmanrises,1h4gt99,https://reddit.com/r/webdev/comments/1h4gt99/for_those_that_have_worked_with_lots_of_backend/,https://www.reddit.com/r/webdev/comments/1h4gt99/for_those_that_have_worked_with_lots_of_backend/,2024-12-01 23:28:18,30,0.89,30,0,87,0,0,False,False,True,False,False,Discussion,self,t3_1h4gt99
+webdev,How do you protect yourselves against the risk of non-paying clients?,"Title basically, i always worked as anm employee so i've never been exposed to this risk directly, but i've been contacted recently to join as a freelance developer on a relatively small ongonig project.
+
+Their developer will be moving entirely on the backend while i greatly uplift their bare and bones frontend.
+
+Since we will be operating with git and there will be a weekly need to commit/pull changes, what safeguards can i adopt if at the end of our collaboration i'm not getting payed?",SignorSghi,1h4r7if,https://reddit.com/r/webdev/comments/1h4r7if/how_do_you_protect_yourselves_against_the_risk_of/,https://www.reddit.com/r/webdev/comments/1h4r7if/how_do_you_protect_yourselves_against_the_risk_of/,2024-12-02 09:27:42,12,0.93,12,0,23,0,0,False,False,True,False,False,Question,self,t3_1h4r7if
+webdev,Freelancing advance and biggest challenges,"I've been lucky enough to somehow figure out how to freelance successfully as a brand designer for 13 years now.
+
+I'm wondering that were and are the biggest challenges you've faced when growing your freelance business?
+
+I'm a brand designer, but I'm sure there will be come cross over.
+
+Plus I love website design and understand how hard it is to find great web developers. So would love to hear your personal experiences.",SupJoshy,1h4vx1f,https://reddit.com/r/webdev/comments/1h4vx1f/freelancing_advance_and_biggest_challenges/,https://www.reddit.com/r/webdev/comments/1h4vx1f/freelancing_advance_and_biggest_challenges/,2024-12-02 14:16:16,1,1.0,1,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1h4vx1f
+webdev,Increase security for client,"My client is worried I will copy his clients contact data and orders of his woocommerce web store. Usually clients just make a new admin password for me, but anyone has a more secure way of working? Is it common to work with a staging and a testing environments(but my client will have difficulty setting up those)?",GwailoMatthew,1h4v440,https://reddit.com/r/webdev/comments/1h4v440/increase_security_for_client/,https://www.reddit.com/r/webdev/comments/1h4v440/increase_security_for_client/,2024-12-02 13:36:54,1,1.0,1,0,4,0,0,False,False,True,False,False,,self,t3_1h4v440
+webdev,Looking for Direction - Hobbyist,"Hello,
+
+I recently learned the ""basics"" of HTML, CSS and JavaScript (still going through materials as I'm not feeling too confident yet). To further improve my skills and also learn new technologies I would like to build some websites that I'm personally interested in. I found a ""type"" of website that I would like to build. They all look somewhat similar. Now they could all be build from scratch, it's kinda hard to tell for me as a beginner, or they could all be using the same or maybe a similar stack?
+
+Here are the websites I'm talking about:
+
+* [https://www.tokyodev.com/](https://www.tokyodev.com/)
+* [https://phaser.io/](https://phaser.io/)
+* [https://japan-dev.com/](https://japan-dev.com/)
+
+I understand, correct me if I'm wrong here, that all of those websites could be built from scratch using the 3 mentioned technologies, but I assume that's not what people do in practice?
+
+I'm basically looking for guidance as to what I should learn (maybe there's a solid beginner stack or something?) to build similar websites by myself.
+
+I'm also wondering if those websites (especially the first one is designed by ""hand"" or if they are using some kind of kit or a prebuilt design?
+
+Beste regards,",Substantial-Pain1903,1h4u82d,https://reddit.com/r/webdev/comments/1h4u82d/looking_for_direction_hobbyist/,https://www.reddit.com/r/webdev/comments/1h4u82d/looking_for_direction_hobbyist/,2024-12-02 12:49:56,2,1.0,2,0,2,0,0,False,False,True,False,False,,self,t3_1h4u82d
+webdev,Managing High-Volume Notifications with Digest (Batching) Strategies,"I'm implementing a notification system using [Novu](https://github.com/novuhq/novu) that needs to handle high message volumes without overwhelming users. 
+
+I'd like to share my current approach and get feedback on potential improvements.
+
+**Context:**
+
+* Building a collaborative app with frequent updates (comments, file changes, tags)
+* Using Novu as the notification infrastructure
+* Need to prevent notification fatigue while ensuring important updates reach users
+* Currently implementing in Node.js with PostgreSQL backend
+
+**Current Implementation:** I've developed two digest strategies in Novu:
+
+1. **Time-Window Digest / Batching:** 
+
+&amp;#8203;
+
+     // Using Novu to collect events in a 3-day digest window  
+    const digestResult = await novu.digest(""digest-3-days"", {
+      backoffUnit: 'days',
+      backoffAmount: 3,
+      digestKey: 'userId',
+      events: notifications
+    });  
+    
+    // Send digest via Novu
+    await novu.trigger('digest-notification', {
+      to: {
+        subscriberId: userId,
+      },
+      payload: {
+        events: digestResult.events,
+        totalCount: digestResult.events.length
+      }
+    });
+
+2. **Look-Back Pattern:**
+
+    const shouldDigest = async (userId, eventType) =&gt; {
+      const recentNotification = await novu.getNotificationHistory({
+        subscriberId: userId,
+        type: eventType
+      });
+      return Date.now() - recentNotification.timestamp &lt; ONE_DAY;
+    };
+
+Here is a visual representation I'm referring to - but with much smaller batching time window:
+
+[Digest \/ Event Aggregation ](https://preview.redd.it/qozoe9akbf4e1.png?width=1945&amp;format=png&amp;auto=webp&amp;s=301cfb85c68526175d084b86374fa8f3c29a3c21)
+
+**Interesting Discovery -** [OneSignal](https://documentation.onesignal.com/docs/journeys#time-window)**'s Time Window Approach:** While researching this, I found OneSignal's implementation of time windows interesting.   
+  
+They use a different approach where you can:
+
+* Define specific allowed time periods (e.g., Tuesday 1:00 PM - 6:00 PM PST)
+* Set intelligent delivery delays that randomly distribute notifications within allowed windows
+* Handle out-of-window notifications by scheduling them for the next available window
+
+For example, if you set a notification to trigger outside of Tuesday 1-6 PM PST, their system automatically schedules it for a random time within next Tuesday's window. This helps prevent notification clustering at window boundaries.
+
+**Technical Challenges I'm Working Through:**
+
+1. Race conditions when multiple events occur simultaneously
+2. Handling failed notification deliveries within digest groups
+3. Database schema optimization for efficient event aggregation
+4. Coordinating time windows across multiple time zones
+5. Implementing similar time-window functionality as OneSignal within Novu
+
+**Questions for Discussion:**
+
+1. What indexing strategies work best for quick digest compilation in Novu?
+2. How do you handle digest delivery failures and retries?
+3. Has anyone implemented custom time window logic similar to OneSignal's approach in Novu?
+4. What's your approach to testing digest timing across different time zones?
+
+If you've implemented similar systems with Novu or other notification services, I'd appreciate insights on handling these technical aspects efficiently.",Sudden_Profit_2840,1h4t9jv,https://reddit.com/r/webdev/comments/1h4t9jv/managing_highvolume_notifications_with_digest/,https://www.reddit.com/r/webdev/comments/1h4t9jv/managing_highvolume_notifications_with_digest/,2024-12-02 11:53:39,3,1.0,3,0,0,0,0,False,False,True,False,False,Discussion,https://b.thumbs.redditmedia.com/S_ZmR_1cU5aKbwzfea80L7OQ7oKBdb43DuJDAxM8-xM.jpg,t3_1h4t9jv
+webdev,eleventy with decap cms on github without netlify,"Hi I recently createt an eleventy page on github with the goal to edit the site trough decap cms without using netlify. with github actions the site should build automaticly. I got the site working an after every commit the site builds freshly using github action but the decap part wont work. If I am heading to the admin site I got an two errors in my browser.
+
+this is my decap config:
+
+    backend:
+    name: github
+    repo: myusername/myrepo # Your GitHub repository in the format 'owner/repo'
+    branch: master
+    # Remove local_backend if you don't need it
+    # local_backend: true
+    media_folder: ""src/assets/images/blog""
+    public_folder: ""/assets/images/blog""
+    collections:
+    - name: ""blog""
+    label: ""Blog""
+    folder: ""src/content/blog""
+    create: true
+    slug: ""{{slug}}""
+    fields:
+    - { label: ""Title"", name: ""title"", widget: ""string"" }
+    - {
+    label: ""URL Slug"",
+    name: ""url"",
+    widget: ""string"",
+    hint: 'Specify where the page will be written to. If you use ""Blog Post"", the post will be accessible from ""blog/blog-post""',
+    }
+    - { label: ""Description"", name: ""description"", widget: ""string"" }
+    - { label: ""Author"", name: ""author"", widget: ""string"" }
+    - { label: ""Date"", name: ""date"", widget: ""datetime"" }
+    - { label: ""Tags"", name: ""tags"", widget: ""list"", default: [""post""] }
+    - { label: ""Featured Image"", name: ""image"", widget: ""image"" }
+    - { label: ""Image Caption"", name: ""imageAlt"", widget: ""string"" }
+    - { label: ""Body"", name: ""body"", widget: ""markdown"" }
+
+and this is my index html file:
+
+    &lt;!DOCTYPE html&gt;
+    &lt;html lang=""en""&gt;
+    &lt;head&gt;
+    &lt;meta charset=""UTF-8""&gt;
+    &lt;meta name=""viewport"" content=""width=device-width, initial-scale=1.0""&gt;
+    &lt;title&gt;Content Manager&lt;/title&gt;
+    &lt;!-- Include the script that builds the page and powers Decap CMS --&gt;
+    &lt;script src=""/website/admin/decap-cms.js""&gt;&lt;/script&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    &lt;script&gt;
+    // Wait for the DOM to be ready before initializing Decap CMS
+    document.addEventListener('DOMContentLoaded', function () {
+    // Initialize Decap CMS once the DOM is fully loaded
+    DecapCMS.init({
+    config: '/website/admin/config.yml' // Path to your configuration file
+    });
+    });
+    &lt;/script&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+
+Regarding the local decap-cms.js file. I also get the errors if i use the cdn package:
+
+    Uncaught TypeError: document.body is null    
+    default decap-cms.js:393
+    default decap-cms.js:393
+    &lt;anonymous&gt; decap-cms.js:491
+    &lt;anonymous&gt;decap-cms.js:491
+    &lt;anonymous&gt; decap-cms.js:491
+    &lt;anonymous&gt; /decap-cms.js:2
+    &lt;anonymous&gt; /decap-cms.js:2
+    decap-cms.js:393:86330
+    Uncaught ReferenceError: DecapCMS is not defined    
+    &lt;anonymous&gt;/admin/#/:17",LiveVegetable,1h4shd3,https://reddit.com/r/webdev/comments/1h4shd3/eleventy_with_decap_cms_on_github_without_netlify/,https://www.reddit.com/r/webdev/comments/1h4shd3/eleventy_with_decap_cms_on_github_without_netlify/,2024-12-02 11:01:57,1,1.0,1,0,0,0,0,False,False,True,False,False,Question,self,t3_1h4shd3
+webdev,Looking for better ways to use redirect domains to make my Github.io website more accessible and faster.,"Hi, I am having trouble getting my website to properly load through some redirect domains I'm trying to set up. Sometimes it takes about a minute to load, sometimes it gives an error page. I am using Namecheap domains, and this is what the redirect widget looks like:
+
+[for some reason, I can't use \\""https:\/\/www.bongable.cc\\""](https://preview.redd.it/bsnthk5uxe4e1.png?width=993&amp;format=png&amp;auto=webp&amp;s=cd0b9f2e200d60e9198b7cf2743a988710a369be)
+
+The reason for the last one is a recurring problem where different browsers will add the ""https://"" automatically.
+
+Is there an easy way to link an easy URL like ""bongable.cc"" to the Github.io address so that it loads faster and has less errors?
+
+Also, I'm testing out the website on different browsers in their respective ""Private"" modes to avoid loading from the cache. Is this method of testing flawed? I might be tripping a little, but I foresee some customers quitting if the site doesn't load quick enough :/
+
+Do I have to buy actual webhosting to get this to load correctly? All I'm really trying for right now is a simple site with a discord link and links to some documents that are also on Github.io.
+
+Thanks!",BTL_Simulations,1h4scpb,https://reddit.com/r/webdev/comments/1h4scpb/looking_for_better_ways_to_use_redirect_domains/,https://www.reddit.com/r/webdev/comments/1h4scpb/looking_for_better_ways_to_use_redirect_domains/,2024-12-02 10:53:20,1,1.0,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h4scpb
+webdev,Google refuses to provide me with an estimate regarding my Reserve With Google application,"I own a booking platform and my clients continuously ask for ""Reserve With Google"" integration. I filled in the form 3 weeks ago, and Google hasn't reviewed it yet. 
+
+After contacting support, I received conflicting answers, initially stating that my application was missing, then they found it but it was incomplete, then I was redirected to a different department and finally this:
+
+&gt;We do not guarantee partners will receive a response.
+
+The process seems to be opaque, and it doesn't feel anything like a Google service. How should approach this issue? Ideally, I would want them to tell me what the issues are so we can resolve them.",Ornery_Mind6834,1h4s8nn,https://reddit.com/r/webdev/comments/1h4s8nn/google_refuses_to_provide_me_with_an_estimate/,https://www.reddit.com/r/webdev/comments/1h4s8nn/google_refuses_to_provide_me_with_an_estimate/,2024-12-02 10:45:18,7,1.0,7,0,4,0,0,False,False,True,False,False,,self,t3_1h4s8nn
+webdev,Web dev integrating Google business reviews - requires credentials ,"Hi there, I’m currently in the process of having my website developed. A friend recommended a freelancer to me.
+
+The website is for my finance business, and it’s quite straightforward. I’m also integrating Google reviews for my Google business page.
+
+However, the web developer today informed me that he would require my Google login credentials (email address and password) to set up the integration.
+
+I’m a bit hesitant to share these details with the developer. Is there an alternative way to proceed? What are the common practices in such situations? 
+",afterbuddha,1h4s8j8,https://reddit.com/r/webdev/comments/1h4s8j8/web_dev_integrating_google_business_reviews/,https://www.reddit.com/r/webdev/comments/1h4s8j8/web_dev_integrating_google_business_reviews/,2024-12-02 10:45:04,2,1.0,2,0,1,0,0,False,False,True,False,False,Question,self,t3_1h4s8j8
+webdev,Optimal Oauth flow?,"My web app has react frontend and java backend.
+Will be using keycloak on the backend eventually.
+
+Here's how the oauth flow would go: 
+1. On the frontend user clicks authenticate which calls an auth endpoint on backend.
+
+2. On the backend, a random state param is generated and what not. 
+Then auth url is formed (with query params: state, clientId etc, and sent to auth provider for authentication code.
+Redirection url is set as a backend endpoint.
+The backend sends/redirects this url to the front end.
+
+3. On the frontend the resource owner would be on the auth provider's auth page to either allow or decline the requested scopes.
+
+4. Assuming the resource owner accepts, the auth code would be sent as query params with the backend redirect url. 
+
+5. The backend endpoint verifies state param, auth code and obtains an auth token. Stores the auth token in db.
+
+At this point, what does the frontend do to check if step 5 has been successfully executed since at step 4, the redirect url calls the backend endpoint and not the frontend endpoint.
+
+I'm at a loss as how the flow should go after step 5. Appreciate any help, thanks.",FlatProtrusion,1h4rqe4,https://reddit.com/r/webdev/comments/1h4rqe4/optimal_oauth_flow/,https://www.reddit.com/r/webdev/comments/1h4rqe4/optimal_oauth_flow/,2024-12-02 10:07:41,1,1.0,1,0,1,0,0,False,False,True,False,False,Question,self,t3_1h4rqe4
+webdev,Cannot seem to grasp CSS pesudo-elements and how they interact with different browsers,"I have a neocities I've been making for school (granted, I am not going to school for web dev and have very little experience in it), and it seems like the website works great on my singular instance of Brave Browser. The issue seems to be with literally any other browser, even a separate instance of Brave on my laptop doesn't display the same. 
+
+What I'm attempting to do is have a music player at the top of my screen that doesn't use the standard webkit or moz appearances--hence why I'm styling it with CSS. It looks great on my instance and is exactly what I want it to be, but it seems like every other instance is being replaced with ""user agent stylesheet"" because the ::webkit pseudo-elements aren't functioning properly. I will provide all the relevant code and screenshots if someone is willing to help out.
+
+Here's what I've tried:  
+\- Using a CSS reset  
+\- Using a CSS normalize  
+\- Using the !important tag to make sure it takes precedent  
+\- Using specificity like body, html, and #musicplayer  
+\- Overwriting the default stylings through developer tools  
+\- Checked for overwritten lines using dev tools (which has shown very different results across browsers)
+
+Please, I've hit a brick wall and I'm really not sure where to go with it.
+
+[Here is what it looks like when it's working properly, I know it's not the prettiest thing but I like it.](https://preview.redd.it/nyph63f1ge4e1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=0266b2846ed67f1963c515ec1ef70a3c4139a473)
+
+[Here is what it looks like in all other instances. All the things requiring webkit don't work now \(controls, range slider, range thumb\).](https://preview.redd.it/bp6y3a36ge4e1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=a8d376c38c2fa41946ec5490fae65b72c04dfaef)
+
+",LuxuLuxu,1h4qroj,https://reddit.com/r/webdev/comments/1h4qroj/cannot_seem_to_grasp_css_pesudoelements_and_how/,https://www.reddit.com/r/webdev/comments/1h4qroj/cannot_seem_to_grasp_css_pesudoelements_and_how/,2024-12-02 08:54:14,3,1.0,3,0,2,0,0,False,False,True,False,False,,https://b.thumbs.redditmedia.com/urRAgzUHLFOlF6X-VHNwVHYqP_mUmhyqtkYuEzUO3gU.jpg,t3_1h4qroj
+webdev,Authentication with jwt,"Im learning about authentication with jwt on a nest backend and next front end.
+
+Im a bit confused though and looking for guidance:
+
+Example will be user logging in
+
+1). User inputs credentials and submits post req to backend
+2). Backend communicates with DB to validate credentials and generate/sign a jwt token containing user_id
+3). Backend sends token to frontend via response 
+4). Front end stores token in cookies for authenticating with backend for future requests / private route access
+5).  Front end decodes jwt for user ID at what point and why???
+
+I've also read you shouldn't pass username and info through jwt because it's a security risk, but I also read so is passing it through the response object.... So how exactly does one securely move user data from DB to frontend without exposing it unnecessarily???
+
+Any help is appreciated 
+",allmightylemon_,1h4q54f,https://reddit.com/r/webdev/comments/1h4q54f/authentication_with_jwt/,https://www.reddit.com/r/webdev/comments/1h4q54f/authentication_with_jwt/,2024-12-02 08:06:07,1,1.0,1,0,10,0,0,False,False,True,False,False,,self,t3_1h4q54f
+webdev,Website redirect question,"I found an interesting web address that redirects to a large companies web page. 
+
+Would the large company know of, and remove the redirected address? 
+
+Not certain if this is the best Reddit, and not that tech savvy any info would be appreciated thanks",SnooHedgehogs2050,1h4n8an,https://reddit.com/r/webdev/comments/1h4n8an/website_redirect_question/,https://www.reddit.com/r/webdev/comments/1h4n8an/website_redirect_question/,2024-12-02 04:54:42,3,1.0,3,0,7,0,0,False,False,True,False,False,,self,t3_1h4n8an
+webdev,Need recommendations for a simple local database,"I'm coding a simple vuejs app for a small company to keep track of their employees, contracts, etc. They only need a simple, local solution for a database. The program is basically just a CRUD frontend for several tables. If there's any tool that can help me achieve this faster, I'd also appreciate it if you told me about it. Can also change from Vuejs if there's a simpler solution for it that doesn't compromise too much.",Skooma_Dealer_CR,1h4kxol,https://reddit.com/r/webdev/comments/1h4kxol/need_recommendations_for_a_simple_local_database/,https://www.reddit.com/r/webdev/comments/1h4kxol/need_recommendations_for_a_simple_local_database/,2024-12-02 02:50:15,1,1.0,1,0,5,0,0,False,False,True,False,False,,self,t3_1h4kxol
+webdev,"How to Connect Node backend with Vite/React frontend (Axios Network Error, CORS)","I'm learning how to link the frontend (Vite) to the backend (express) by using axios to fetch the backend api but I'm getting a `ERR_NETWORK` error. I know it's probably due to `cors` but can't figure out exactly how to fix it.
+
+I've checked a few stackoverflow threads for common issues
+
+* app is using cors `app.use(cors(corsOptions));` with origin using `http` and not `https`
+* I have {`""proxy"": ""http://localhost:3000""}` in my package.json file for both backend and frontend. I wasn't sure which json file the proxy was supposed to be it in so I tried either/both; didn't work.
+
+I followed the steps to this YouTube video: [How to Create a Express/Node + React Project with Vite | Node Backend + React Frontend](https://www.youtube.com/watch?v=mKmxc8TcWQ8). I'm just console logging a `fruits` array for now to test.
+
+**Error**
+
+    code: ""ERR_NETWORK""
+    message: ""Network Error""
+    name: ""AxiosError""
+
+**App.jsx (front end, port 5173)**
+
+    function App() {
+      const [count, setCount] = useState(0);
+    
+      const fetchAPI = async () =&gt; {
+        const response = await axios.get('http://localhost:3000/api');
+        console.log(response.data.fruits);
+      };
+    
+      useEffect(() =&gt; {
+        fetchAPI();
+      }, []);
+    
+      return (...)
+    }
+
+**server.js (backend, port 3000)**
+
+    import express from 'express';
+    import cors from 'cors';
+    
+    const app = express();
+    const PORT = process.env.PORT || 3000;
+    
+    const corsOptions = {
+      origin: ['http://localhost:5173'],
+    };
+    
+    app.use(cors(corsOptions));
+    app.use(express.urlencoded({ extended: true }));
+    
+    app.get('/api', (req, res) =&gt; {
+      res.json({ fruits: ['apple', 'orange', 'banana'] });
+    });
+    
+    app.listen(PORT, () =&gt; {
+      console.log(`Running messaging app on PORT ${PORT}`);",MrGiggleFiggle,1h4b9cg,https://reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/,https://www.reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/,2024-12-01 19:29:30,1,1.0,1,0,2,0,0,False,False,True,False,False,,self,t3_1h4b9cg
+webdev,An interactive guide to bloom filter,,Sagyam,1h4a9hn,https://reddit.com/r/webdev/comments/1h4a9hn/an_interactive_guide_to_bloom_filter/,https://blog.sagyamthapa.com.np/an-interactive-guide-to-bloom-filter,2024-12-01 18:47:24,2,1.0,2,0,0,0,0,False,False,False,False,False,Article,https://b.thumbs.redditmedia.com/psrRtDNXGrcdxChdWTDywipz0tdmflNQfEbDnG89ojc.jpg,t3_1h4a9hn
+webdev,Wanting to embark on a personal project with no prior experience,"Hello, I have a personal project in mind that I want to build for myself, so I am willing to devote a lot of time and effort into this project. I personally have little to no experience in full stack development but I am willing to learn (I have a few months to spare). I figured its also a good way to explore web development as a whole since I am entering University next year.
+
+I wish to create an image hosting website. It can do basic things like uploading images, displaying them on the website and deleting them. I took a lot of inspiration from [Pixiv.com](http://pixiv.com/)
+
+ for the following functionalities I wish to include:  
+\- Create and delete tags  
+\- Assign as many tags as I like to images  
+\- Assign Title to images and able to add description below. Display all the tags associated with the image  
+\- Search for images based on Title and search/sort based on tag(s)  
+\- Roughly have similar interface shown for when I search and when I select an image
+
+I would like to ask how should I go about approaching this project (What should I start doing/learning first)? Is it realistic to create something like this in the first place as a personal project or its only suited for actual companies?
+
+Edit: I intend for this to only be for personal use, so I intend to be the only user. Also I intend for it to run off GitHub since I don’t rlly want it to be in the public domain. ",Mercifulmax2,1h47wcg,https://reddit.com/r/webdev/comments/1h47wcg/wanting_to_embark_on_a_personal_project_with_no/,https://www.reddit.com/r/webdev/comments/1h47wcg/wanting_to_embark_on_a_personal_project_with_no/,2024-12-01 17:06:40,1,1.0,1,0,3,0,0,False,False,True,False,False,,self,t3_1h47wcg
+webdev,"A website to copy basic/advanced html, css, js components? ","I was looking for websites where I could copy and paste basic components like buttons, footers, sidebars, etc, just like in Shadcn or Aceternity
+
+Some similar websites/options I found are:
+
+* [https://animata.design/](https://animata.design/) : Components for react, not html
+* [https://tremor.so/](https://tremor.so/) : Components for react
+* [https://ui.aceternity.com/](https://ui.aceternity.com/) : Components for react
+* [https://ui.shadcn.com/](https://ui.shadcn.com/) : Components for react
+* [https://shoelace.style/](https://shoelace.style/) : Web components but I'd rather own and modify the code by myself
+* [https://copy-paste-css.com/](https://copy-paste-css.com/) : Only provides the CSS code
+* [https://html5up.net/:](https://html5up.net/:) Html templates, but most of the times the code is messy/hard to read/hard to use (the same is true for many html template websites)
+* [https://vanilla.delldesignsystem.com/2.41.1/index.html:](https://vanilla.delldesignsystem.com/2.41.1/index.html:) This is pretty close to what I was looking for, but I was hoping to find other alternatives
+* [https://tailwindui.com/components](https://tailwindui.com/components) : This one is great
+* \[Copy and paste the components from any website\] : This could work but often the .css, .js is minified/bundled which makes it hard to read/hard to use
+
+Do you know any other websites like shadcn which provides code using html, css and js?",Not_a_Cake_,1h46qpf,https://reddit.com/r/webdev/comments/1h46qpf/a_website_to_copy_basicadvanced_html_css_js/,https://www.reddit.com/r/webdev/comments/1h46qpf/a_website_to_copy_basicadvanced_html_css_js/,2024-12-01 16:16:04,2,1.0,2,0,3,0,0,False,False,True,False,False,,self,t3_1h46qpf

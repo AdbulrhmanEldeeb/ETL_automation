@@ -1,0 +1,40 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,"Richard Hamilton, Who Helped Solve a Mathematical Mystery, Dies at 81",,Qyeuebs,1h70dm2,https://reddit.com/r/math/comments/1h70dm2/richard_hamilton_who_helped_solve_a_mathematical/,https://www.nytimes.com/2024/12/04/science/richard-hamilton-dead.html,2024-12-05 04:04:07,205,0.94,205,0,9,0,0,False,False,False,False,False,,,t3_1h70dm2
+math,"The sequence converges to zero, but its infinite sum diverges.","We learn early on that just because a sum converges to zero doesn’t mean its infinite series converges. Case in point, the harmonic series a_n = 1/n. But how often does this actually happen? Shortly after learning this fact, we learn that the infinite series for a_n = 1/n^p converges for all p &gt; 1. So it would appear that for “most” series, if its terms converge to zero then so do the partial sums. Is there some other condition we can impose on a sequence that allows us to say that its partial sums converge when the terms converge to zero?",hydmar,1h6r0ln,https://reddit.com/r/math/comments/1h6r0ln/the_sequence_converges_to_zero_but_its_infinite/,https://www.reddit.com/r/math/comments/1h6r0ln/the_sequence_converges_to_zero_but_its_infinite/,2024-12-04 20:59:25,73,0.81,73,0,33,0,0,False,False,True,False,False,,,t3_1h6r0ln
+math,"I'm developing FrontierMath, an advanced math benchmark for AI, AMA!","I'm Elliot Glazer, Lead Mathematician of the AI research group Epoch AI. We are working in collaboration with a team of 70+ (and counting!) mathematicians to develop FrontierMath, a benchmark to test AI systems on their ability to solve math problems ranging from undergraduate to research level.
+
+I'm also a regular commenter on this subreddit (under an anonymous account, of course) and know there are many strong mathematicians in this community. If you are eager to prove that human mathematical capabilities still far exceed that of the machines, you can submit a problem on our website!
+
+I'd like to hear your thoughts or concerns on the role and trajectory of AI in the world of mathematics, and would be happy to share my own. AMA!
+
+
+
+Relevant links:
+
+FrontierMath website: [https://epoch.ai/frontiermath/](https://epoch.ai/frontiermath/)
+
+Problem submission form: [https://epoch.ai/math-problems/submit-problem](https://epoch.ai/math-problems/submit-problem)
+
+Our arXiv announcement paper: [https://arxiv.org/abs/2411.04872](https://arxiv.org/abs/2411.04872)
+
+Blog post detailing our interviews with famous mathematicians such as Terry Tao and Timothy Gowers: [https://epoch.ai/blog/ai-and-math-interviews](https://epoch.ai/blog/ai-and-math-interviews)",elliotglazer,1h6rwls,https://reddit.com/r/math/comments/1h6rwls/im_developing_frontiermath_an_advanced_math/,https://www.reddit.com/r/math/comments/1h6rwls/im_developing_frontiermath_an_advanced_math/,2024-12-04 21:35:33,47,0.73,47,0,15,0,0,False,False,True,False,False,,,t3_1h6rwls
+math,"In a finite universe, invariant under automorphism implies definable","I'm studying first order logic, we subset X of the universe is definable if there is some formula φ(v) such that X={x | φ(x)}. We say X is invariant under automorphism if for any automorphism h, h(X)=X.
+
+Definable always implies invariant under automorphism, but I'm wondering about the converse when the universe is finite. I have heard that this is true but I'm having trouble proving it and I can't find anything online about it.",Warheadd,1h6y64t,https://reddit.com/r/math/comments/1h6y64t/in_a_finite_universe_invariant_under_automorphism/,https://www.reddit.com/r/math/comments/1h6y64t/in_a_finite_universe_invariant_under_automorphism/,2024-12-05 02:14:09,22,0.86,22,0,5,0,0,False,False,True,False,False,,,t3_1h6y64t
+math,How to do multiplication of higher dimensional number arrangements. Is it tensor multiplication?,"Matrices can have any number of rows and any number of columns, and how to multiply them is known, if they are compatible for multiplication. But they are still a 2-dimensional array of numbers. The natural question to ask is what if you have higher dimensional arrangement of numbers. Can they be multiplied?  
+ For example extending this to 3-dimensions the numbers would appear in a 3-dimensional  arrangement(probably shouldn’t call it an array since that suggests 2-dimensions.) For 3-dimensions, you can interpret as a sequence of matrices extending vertically in the z-directions. Higher dimensions than 3 though would not come so easily for a visual interpretation.  
+ Since tensors have a multiplicity of indices the natural inclination is to think the multiplication can be interpreted as tensor multiplication. Is this valid?",RGregoryClark,1h6ko54,https://reddit.com/r/math/comments/1h6ko54/how_to_do_multiplication_of_higher_dimensional/,https://www.reddit.com/r/math/comments/1h6ko54/how_to_do_multiplication_of_higher_dimensional/,2024-12-04 16:46:40,22,0.8,22,0,9,0,0,False,False,True,False,False,,,t3_1h6ko54
+math,"Two sudoku problems: what's the minimum number of filled cells required to define a unique grid, and what's the minimum to create an unsolvable grid?","Started thinking about this while playing sudoku. I am only basically profficient in both math and sudoku, so have no idea how to approach even approach this.
+
+
+Edit: for the second problem, the initial grid should have no invalid placements.",Xorianth,1h75yka,https://reddit.com/r/math/comments/1h75yka/two_sudoku_problems_whats_the_minimum_number_of/,https://www.reddit.com/r/math/comments/1h75yka/two_sudoku_problems_whats_the_minimum_number_of/,2024-12-05 10:11:40,18,0.88,18,0,18,0,0,False,False,True,False,False,,,t3_1h75yka
+math,The Chalkdust puzzle Christmas card 2024,,mscroggs,1h6iir9,https://reddit.com/r/math/comments/1h6iir9/the_chalkdust_puzzle_christmas_card_2024/,https://www.mscroggs.co.uk/blog/112,2024-12-04 15:20:10,14,0.86,14,0,3,0,0,False,False,False,False,False,,,t3_1h6iir9
+math,"Quick Questions: December 04, 2024","This recurring thread will be for questions that might not warrant their own thread. We would like to see more conceptual-based questions posted in this thread, rather than ""what is the answer to this problem?"". For example, here are some kinds of questions that we'd like to see in this thread:
+
+* Can someone explain the concept of maпifolds to me?
+* What are the applications of Represeпtation Theory?
+* What's a good starter book for Numerical Aпalysis?
+* What can I do to prepare for college/grad school/getting a job?
+
+Including a brief description of your mathematical background and the context for your question can help others give you an appropriate answer. For example consider which subject your question is related to, or the things you already know or have tried.",inherentlyawesome,1h6l0cd,https://reddit.com/r/math/comments/1h6l0cd/quick_questions_december_04_2024/,https://www.reddit.com/r/math/comments/1h6l0cd/quick_questions_december_04_2024/,2024-12-04 17:00:12,6,0.87,6,0,28,0,0,False,False,True,False,False,,,t3_1h6l0cd
+math,"Trying to get out of teaching, it’s not paying enough. What are my options?","This is currently my fourth year of teaching. I don’t mind the job, other than the fact that that it pays so little. I have a masters in math with a concentration in community college teaching. Data analysis or being an actuary sounds intriguing. What is the path to get to either or is there another field that I should be considering? How do I get there? Any help would be greatly appreciated! ",beans1710,1h7a5y9,https://reddit.com/r/math/comments/1h7a5y9/trying_to_get_out_of_teaching_its_not_paying/,https://www.reddit.com/r/math/comments/1h7a5y9/trying_to_get_out_of_teaching_its_not_paying/,2024-12-05 14:17:35,3,0.6,3,0,13,0,0,False,False,True,False,False,,,t3_1h7a5y9

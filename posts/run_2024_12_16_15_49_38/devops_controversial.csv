@@ -1,0 +1,108 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,A solution to the problem of cluster-wide CRDs,"I’m an average Reddit user, scrolling much more than reading or interacting. Sometimes, however, a post rings a giant red bell. When I stumbled upon [If you could add one feature to K8s, what would it be?](https://www.reddit.com/r/kubernetes/comments/1ga0deo/comment/lta8itb/?context=3&amp;share_id=ZS15DmQexSXUjhXuqQ81z), I knew the content would be worth it. The most voted answer is:
+
+&gt; Namespace scoped CRDs
+
+Here's a solution with vCluster: https://blog.frankel.ch/cluster-wide-crds/",nfrankel,1hexgsn,https://reddit.com/r/devops/comments/1hexgsn/a_solution_to_the_problem_of_clusterwide_crds/,https://www.reddit.com/r/devops/comments/1hexgsn/a_solution_to_the_problem_of_clusterwide_crds/,2024-12-15 17:26:07,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1hexgsn
+devops,Learn hands-on operating system concepts with IBM AIX on Coursera,"Here's the specialization: [https://www.coursera.org/specializations/mastering-operating-systems-with-ibm-aix](https://www.coursera.org/specializations/mastering-operating-systems-with-ibm-aix)
+
+It has three courses:
+
+1. [AIX Operating System Fundamentals](https://www.coursera.org/learn/aix-basics?specialization=mastering-operating-systems-with-ibm-aix)
+
+2. [System Administration with IBM AIX: Getting Started](https://www.coursera.org/learn/system-administration-with-ibm-aix?specialization=mastering-operating-systems-with-ibm-aix)
+
+3. [System Administration with IBM AIX: Beyond the Basics](https://www.coursera.org/learn/system-administration-with-ibm-aix-beyond-the-basics?specialization=mastering-operating-systems-with-ibm-aix)
+
+Earn an IBM badge at the end, which will help you in your career.",upenr1,1heycbr,https://reddit.com/r/devops/comments/1heycbr/learn_handson_operating_system_concepts_with_ibm/,https://www.reddit.com/r/devops/comments/1heycbr/learn_handson_operating_system_concepts_with_ibm/,2024-12-15 18:04:40,0,0.44,0,0,1,0,0,False,False,True,False,False,,self,t3_1heycbr
+devops,Is Teleport widely used?,Is it worth it to learn it for upskilling considering its current market?,rama_rahul,1hewj2b,https://reddit.com/r/devops/comments/1hewj2b/is_teleport_widely_used/,https://www.reddit.com/r/devops/comments/1hewj2b/is_teleport_widely_used/,2024-12-15 16:44:32,12,0.75,12,0,20,0,0,False,False,True,False,False,,self,t3_1hewj2b
+devops,Deployment Issue,"Good day! I am still a beginner and this is my first time on deploying a website specifically a mern web. I deploy my web on render, the backend is working fine but the problem is the frontend it keeps on requesting on localhost:5000 which is my local backend. I already changed my baseURL, I am using axios for requesting btw, but it still requesting on my localhost... Why do you think is that????",Technical-Matter6376,1hfaqr3,https://reddit.com/r/devops/comments/1hfaqr3/deployment_issue/,https://www.reddit.com/r/devops/comments/1hfaqr3/deployment_issue/,2024-12-16 04:04:41,0,0.5,0,0,2,0,0,False,False,True,False,False,,self,t3_1hfaqr3
+devops,DevOps vs TestManager vs Test Automation as career ,"Hello, 
+
+I am curious about your advice. I have been working in IT for more than 15 years now. 
+I was software developer a few years, then spent around a decade in Test Automation engineer/ Test Lead/ Test Manager positions. 
+
+In the last 3 years I have been working as DevOps engineer. I think I am good in what I am doing but I wouldn't say I am great. In the field of Testing I can say I am great. My personal opinion though is that DevOps is a much more dynamic and challenging field so it is not a suprise. 
+
+I enjoy working on both fields the reason i changed to DevOps wasn't that I hated Testing but that I was afraid that with the emergence of AI there is not really a future of this field. (i am following the number of job posts and that seems to be verifying this) 
+
+Recently went for a few job interviews (mostly out of curiosity). I've got 2 DevOps offers with pretty much the same salary I have currently. 
+However, another company I went offered 2 positions :  a Test Automation Lead and a Test Manager one for around 20% salary than my current one. 
+Being in either position would be much less challenging, and super easy to do. 
+
+Unfortunately, that still won't negate that if I want to change again in the future probably won't be able to find anything(which is not crap) in testing and would forget enough/changes enough  in DevOps that I would be maximum a junior. 
+
+What donyou think? What would you do? Do you agree that DevOps has a mich brighter future or I am just mistaken?
+ ",sonic_plum,1hexqcw,https://reddit.com/r/devops/comments/1hexqcw/devops_vs_testmanager_vs_test_automation_as_career/,https://www.reddit.com/r/devops/comments/1hexqcw/devops_vs_testmanager_vs_test_automation_as_career/,2024-12-15 17:37:40,0,0.25,0,0,2,0,0,False,False,True,False,False,,self,t3_1hexqcw
+devops,"Software Engineer Jobs Report 12/11: 1200 new jobs. Every week I scrape the internet for recently posted software engineer jobs. I hand pick the best ones, put them in a list, and share them to help your job search. Here is last weeks spreadsheet. DevOps roles included.","Hey friends, every week I search the internet for software engineer jobs that have been recently posted on a company's career page. I collect the jobs, put them in a spreadsheet, and share them with anyone whose looking for their next role. All for free.
+
+The data is sourced by my own web scraping bots, paid sources, free sources, VC sites, and the typical job board sites. I spend an ungodly amount on the web so you don't have too!
+
+About me, I am a senior software engineer with a decade of work history, and ample job searching experience to know that its a long game and its a numbers game.
+
+If there are other roles you'd like to see, let me know in the comments.
+
+To get the nicely formatted spreadsheet, click [here](https://airtable.com/appfZGu8o8kuDud9l/shryoIjUWvnc3Kr8T).
+
+If you want to read my write up, click [here](https://24hsoftwarejobs.beehiiv.com/p/jobs-report-12-11-24?utm_source=reddit&amp;utm_medium=r-devops-jobs-report-12-11-24).
+
+if you want to get these in an email, click [here](https://24hsoftwarejobs.beehiiv.com/subscribe?utm_source=reddit&amp;utm_medium=r-devops-jobs-report-12-11-24).
+
+If you want to see all previous job reports, click [here](https://24hsoftwarejobs.beehiiv.com/?utm_source=reddit&amp;utm_medium=r-devops-jobs-report-12-11-24).
+
+Cheers!",innovatekit,1hey8g6,https://reddit.com/r/devops/comments/1hey8g6/software_engineer_jobs_report_1211_1200_new_jobs/,https://www.reddit.com/r/devops/comments/1hey8g6/software_engineer_jobs_report_1211_1200_new_jobs/,2024-12-15 18:00:07,77,0.91,77,0,4,0,0,False,False,True,False,False,,self,t3_1hey8g6
+devops,I failed the last round of a Platform Engineer job interview because of a database migration question. How bad was my answer?,"For clarity, I am a Full-Stack developer, but these days my work is 80% front-end.
+
+I have learnt all DevOps and Cloud-related stuff in my own time by studying and applying it to my own projects. I'm trying to break into a cloud-focused role because it has interested me for a while now.
+
+This round was a whiteboarding session where I was tasked with migrating a legacy system to a cloud provider. We went with GCP for service choice names, as we both have worked this provider.
+
+One of the components of the legacy system was the database. The interviewer said let's assume it's an SQL-based database and it's running on a VM somewhere.
+
+**By this point in the interview, I had asked questions and got the following points:**
+
+\- Developers are manually having to SSH into VM's to make changes and they are struggling to manage.  
+\- The company expects to grow within 12 months, up to 100k DAU. They currently have 10K DAU.
+
+**Once we get into the database section, it kind of went like this:**
+
+&gt;**Me:**  
+For the database, I would recommend a managed SQL service, Cloud SQL.  
+The advantage of this choice is that it takes a big amount of cognitive load from the developers. DB Admin tasks like backups can be done much easier. It is also more suitable to scale than self-managing on a VM.  
+The disadvantage of this choice is the cost, it'll easily be one of the most expensive components of this architecture. But I feel like the trade-off is worth it, as managing a database for this scenario can be a full-time job in itself.
+
+&gt;**Interviewer:**  
+Ok great, that trade-off makes sense. Let's talk about the actual migration of the data from the current system to GCP. We want minimal downtime, we can maybe afford a maximum of an hour of downtime.
+
+&gt;**Me:**  
+Ok, what is the rough amount of data we need to transfer? I'm guessing it's not Petabytes of data?
+
+&gt;**Interviewer:**  
+Correct, it's not that level of data, but equally, it's not so little that we can just do a quick and simple export/import
+
+&gt;**Me:**  
+Ok, I know that cloud providers do have database migration services available. These aim to do a lot of the work for you. However, I am aware that they only fit very simple scenarios. You have to have a supported db version and a relatively simple schema, so let's assume these services do not fit the bill.
+
+&gt;In that case, I would replicate the legacy database to the cloud-based one. Once replication is done, we can ensure new records are added by adding a dual write strategy at the application level, so both databases are fully up to date. Then, after communicating with users about the expected hour downtime, ideally during a low-traffic period, we can mark the old database as read-only and switch over to the new instance.
+
+&gt;The upside of this approach is that we can get downtime down to &lt; hour. The downside is that we need to write application-level code purely for this migration, which increases complexity and chances of mistakes, so it's something the developers will need to keep in mind.
+
+And to be honest, the interviewer just OK'd that and we moved on to another question.
+
+However, in the feedback, one of the main points was that I need to expand my knowledge on database migration strategies.
+
+Was my answer straight-up wrong? Or did I fail to expand on the solution more?",Squishyboots1996,1hfgw4b,https://reddit.com/r/devops/comments/1hfgw4b/i_failed_the_last_round_of_a_platform_engineer/,https://www.reddit.com/r/devops/comments/1hfgw4b/i_failed_the_last_round_of_a_platform_engineer/,2024-12-16 11:16:10,158,0.94,158,0,83,0,0,False,False,True,False,False,,self,t3_1hfgw4b
+devops,The ways to make portfolio/practice different DevOps tools.,"Hi, I have completed couple of courses on different DevOps tools and now I want to practice working with those tools. The thing is I don't know how. 
+
+It might sound stupid but when I was learning something like Python I just came up with some kind of program I want to make and started coding. With Terraform or Docker I find this approach not working as well and when it comes to practicing pipelines or Kubernetes I spend a lot of time on finding app I want to use to learn and not on the tools that matter. 
+
+The same goes with me wanting to build a portfolio to have something to show during job searching. If I want to show what I know Python I just make an app and put it on GitHub but when it comes to DevOps I don't know what should I put there. 
+
+So my question is how to practice the usage of those DevOps tools? Is making my own projects similar to programming ones the way or there is more efficient way? Should I just use some already make apps to learn and just focus on the DevOps stuff? ",Crezusik,1hf47wl,https://reddit.com/r/devops/comments/1hf47wl/the_ways_to_make_portfoliopractice_different/,https://www.reddit.com/r/devops/comments/1hf47wl/the_ways_to_make_portfoliopractice_different/,2024-12-15 22:30:19,19,0.89,19,0,9,0,0,False,False,True,False,False,,self,t3_1hf47wl
+devops,EDR and build systems - how to get them to play nicely?,"Our IT are trialing some increased protection settings in our EDR system and we \*think\* it is causing some intermittent build failures. Specifically, even though the EDR system is just in ""learning"" mode, for the C++ build (using VisualC++ / msbuild) it looks like the EDR service might be briefly locking a recently generated file when a subsequent build step also tries to read that file.
+
+I expect that convincing our IT to reduce the level of monitoring on our development environments would be a hard argument, so I'm starting by looking at what mitigations I can make within the build processes. I'm trying to find some guidance / best practices on how to configure ""security software aware"" build processes, and I have not found anything. Does anyone have some resources they can share?",Mathematicaster,1hfd06b,https://reddit.com/r/devops/comments/1hfd06b/edr_and_build_systems_how_to_get_them_to_play/,https://www.reddit.com/r/devops/comments/1hfd06b/edr_and_build_systems_how_to_get_them_to_play/,2024-12-16 06:22:12,1,1.0,1,0,1,0,0,False,False,True,False,False,,self,t3_1hfd06b
+devops,In your opinion what's the best way to insert values for the app? ,"Most shop i know uses argo helm plugin.  With values.yaml file in the app repo where the argo will read the app and deploy it. The secrets will be managed either rblindfold/sops/secrets-injector sidecar. 
+
+  
+What's your preferred method? ",midlevelmybutt,1hfcaay,https://reddit.com/r/devops/comments/1hfcaay/in_your_opinion_whats_the_best_way_to_insert/,https://www.reddit.com/r/devops/comments/1hfcaay/in_your_opinion_whats_the_best_way_to_insert/,2024-12-16 05:36:32,4,1.0,4,0,3,0,0,False,False,True,False,False,,self,t3_1hfcaay

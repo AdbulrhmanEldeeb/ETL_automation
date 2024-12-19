@@ -1,0 +1,169 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Python,The hand-picked selection of the best Python libraries and tools of 2024 – 10th edition!,"Hello Python community!
+
+We're excited to share our milestone 10th edition of the **Top Python Libraries and tools**, continuing our tradition of exploring the Python ecosystem for the most innovative developments of the year.
+
+Based on community feedback (thank you!), we've made a significant change this year: we've split our selections into **General Use** and **AI/ML/Data** categories, ensuring something valuable for every Python developer. Our team has carefully reviewed hundreds of libraries to bring you the most impactful tools of 2024.
+
+**Read the full article with detailed analysis here**: [https://tryolabs.com/blog/top-python-libraries-2024](https://tryolabs.com/blog/top-python-libraries-2024)
+
+Here's a preview of our top picks:
+
+**General Use**:
+
+1. [**uv**](https://github.com/astral-sh/uv) — Lightning-fast Python package manager in Rust
+2. [**Tach**](https://github.com/gauge-sh/tach) — Tame module dependencies in large projects
+3. [**Whenever**](https://github.com/ariebovenberg/whenever) — Intuitive datetime library for Python
+4. [**WAT**](https://github.com/igrek51/wat) — Powerful object inspection tool
+5. [**peepDB**](https://github.com/PeepDB-dev/peepdb) — Peek at your database effortlessly
+6. [**Crawlee**](https://github.com/apify/crawlee-python) — Modern web scraping toolkit
+7. [**PGQueuer**](https://github.com/janbjorge/pgqueuer) — PostgreSQL-powered job queue
+8. [**streamable**](https://github.com/ebonnal/streamable) — Elegant stream processing for iterables
+9. [**RightTyper**](https://github.com/RightTyper/RightTyper) — Generate static types automatically
+10. [**Rio**](https://github.com/rio-labs/rio) — Modern web apps in pure Python
+
+**AI / ML / Data**:
+
+1. [**BAML**](https://github.com/BoundaryML/baml) — Domain-specific language for LLMs
+2. [**marimo**](https://github.com/marimo-team/marimo) — Notebooks reimagined
+3. [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) — Powerful agent for code development
+4. [**Crawl4AI**](https://github.com/unclecode/crawl4ai) — Intelligent web crawling for AI
+5. [**LitServe**](https://github.com/Lightning-AI/LitServe) — Effortless AI model serving
+6. [**Mirascope**](https://github.com/Mirascope/mirascope) — Unified LLM interface
+7. [**Docling**](https://github.com/DS4SD/docling) and [**Surya**](https://github.com/VikParuchuri/surya) — Transform documents to structured data
+8. [**DataChain**](https://github.com/iterative/datachain) — Complete data pipeline for AI
+9. [**Narwhals**](https://github.com/narwhals-dev/narwhals) — Compatibility layer for dataframe libraries
+10. [**PydanticAI**](https://github.com/pydantic/pydantic-ai) — Pydantic for LLM Agents
+
+Our selection criteria remain focused on innovation, active maintenance, and broad impact potential. We've included detailed analyses and practical examples for many libraries in the full article.
+
+Special thanks to all the developers and teams behind these libraries. Your work continues to drive Python's evolution and success! 🐍✨
+
+**What are your thoughts on this year's selections? Any notable libraries we should consider for next year?** Your feedback helps shape future editions!",dekked_,1hbs4t8,https://reddit.com/r/Python/comments/1hbs4t8/the_handpicked_selection_of_the_best_python/,https://www.reddit.com/r/Python/comments/1hbs4t8/the_handpicked_selection_of_the_best_python/,2024-12-11 12:14:34,91,0.88,91,0,18,0,0,False,False,True,False,False,Discussion,self,t3_1hbs4t8
+Python,Did an open source tool for code exploration,"# Description
+
+Treeline is a code analysis and visualization tool designed to help developers understand the quality and structure of their Python codebases. It does some complexity metrics, detects code smells, and generates an interactive HTML-based visualization for relatively easy exploration. I hope it will give developers some insights into architectural dependencies, complexity hotspots, and maintainability issues.
+
+# Links
+
+* [https://github.com/duriantaco/treeline](https://github.com/duriantaco/treeline)
+* [https://pypi.org/project/treeline/](https://pypi.org/project/treeline/)
+
+# What My Project Does
+
+* **Dependency Analysis**: Identifies which modules import others, which classes belong to which modules, and which functions call which, creating a complete dependency graph.
+* **Metrics Computation**: Calculates cyclomatic complexity, cognitive complexity, maintainability index, function length, and code smell occurrences.
+* **Visualization**: Renders an interactive HTML report using D3.js, where each node represents a module, class, or function. You can hover over nodes to see detailed metrics, search for specific elements.
+* **Quality Reporting**: Produces Markdown and HTML reports summarizing complexity hotspots.
+
+# Target Audience
+
+* Anyone using Python
+
+# Extra Details
+
+Started of as a simple ASCII tree generator. Promised to add more stuff so here i am.
+
+# Conclusion
+
+Hopefully you guys will find it useful. If you think it's a stupid idea or ways to improve, do let me know too. I'm open to criticisms and constructive feedback.  If you find any bugs please open an issue on github or you can just contact me here. **Lastly, if you'll love to work on this together to expand this further, i'm more than happy to do so.** Just drop me a message!",papersashimi,1hbnasw,https://reddit.com/r/Python/comments/1hbnasw/did_an_open_source_tool_for_code_exploration/,https://www.reddit.com/r/Python/comments/1hbnasw/did_an_open_source_tool_for_code_exploration/,2024-12-11 06:21:34,18,0.83,18,0,1,0,0,False,False,True,False,False,Showcase,self,t3_1hbnasw
+Python,Nodriver - The next step in web scraping,"Hey guys! Scraping is something we've all needed at some point, whether for personal or professional reasons. But nowadays I feel like I get blocked immediately if I go to any website and tbh I don't want to setup complex patches and go through all that stuff for like a tiny thing. Nodriver solved this problem for me.
+
+Here's an article I wrote about getting started with nodriver and how it faces up with the competition - https://www.hyperbrowser.ai/blog/nodriver_:_The_next_step_in_web_automation
+",MeetYourCreator,1hbea0n,https://reddit.com/r/Python/comments/1hbea0n/nodriver_the_next_step_in_web_scraping/,https://www.reddit.com/r/Python/comments/1hbea0n/nodriver_the_next_step_in_web_scraping/,2024-12-10 22:31:43,17,0.69,17,0,2,0,0,False,False,True,False,False,Tutorial,self,t3_1hbea0n
+Python,Looking for a mid-ish level web project in django or flash more info below ,I am working on transitioning some data projects to the web. I know an okay amount of HTML CSS and a bit of JS so I could do it that way. I would rather build a couple sites just using python using flash or django. I just can't seem to find a repo or tutorial thats not super basic or advanced. Anyone have one that falls in the middle area they would be willing to share?  ,Druber13,1hb8f7h,https://reddit.com/r/Python/comments/1hb8f7h/looking_for_a_midish_level_web_project_in_django/,https://www.reddit.com/r/Python/comments/1hb8f7h/looking_for_a_midish_level_web_project_in_django/,2024-12-10 18:23:52,8,0.84,8,0,9,0,0,False,False,True,False,False,Discussion,self,t3_1hb8f7h
+Python,Need to run selenium on databricks ,"Hi everyone,
+
+Am part of a small IT group, we have started developing our new DW in databricks, part of the initiative is automating the ingestion of data from 3rd party data sources.
+I have a working Python code locally on my PC using selenium but I can’t get to make this work on Databricks.
+There are tons of resources on the web but most of the blogs am reading on, people are getting stuck here and there.
+Can you point me in the right direction.
+Sorry if this is a repeated question.
+
+Thank you very much",Haunting_Lab6079,1hbbpf9,https://reddit.com/r/Python/comments/1hbbpf9/need_to_run_selenium_on_databricks/,https://www.reddit.com/r/Python/comments/1hbbpf9/need_to_run_selenium_on_databricks/,2024-12-10 20:41:25,6,0.72,6,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1hbbpf9
+Python,decision records with mkdocs made easy,"Manage decision records with mkdocs in a customizable and minimal fashion.
+
+https://github.com/timo-reymann/mkdocs-decision-records",R3ym4nn,1hb7qk9,https://reddit.com/r/Python/comments/1hb7qk9/decision_records_with_mkdocs_made_easy/,https://www.reddit.com/r/Python/comments/1hb7qk9/decision_records_with_mkdocs_made_easy/,2024-12-10 17:55:28,3,0.81,3,0,0,0,0,False,False,True,False,False,Resource,self,t3_1hb7qk9
+Python,Feedback for project creating conversational agents using a Finite State Machine (FSM) and LLMs,"Hi r/Python community!
+
+I've been working on a project combining Finite State Machines and Large Language Models. I posted this a while ago, and have been making improvements/tweaks, including turning it into a package available on PyPi.
+
+What My Project Does:  
+This project provides a framework for building conversational agents using a Finite State Machine (FSM) powered by LLMs like OpenAI GPT. It aims to create structured tools like step-by-step teaching systems, customer support bots, and multi-step memory games while addressing issues like hallucinations, loss of context, and unpredictability. I have a few example usages in the repo.
+
+Target Audience:  
+This is currently an experimental setup, and also part of a research project I am doing for university. For now it is meant for developers and experimenters mainly. Requires an OpenAI API key (currently tested on gpt-4o-mini and 4o).
+
+Comparison:  
+Unlike typical LLM-based chatbots, this combines FSM with LLMs to enforce structured, predictable conversations, making it ideal for use cases requiring adherence to predefined paths.
+
+If anyone is interested I would love to hear your feedback and thoughts! The repo is here: [https://github.com/jsz-05/LLM-State-Machine](https://github.com/jsz-05/LLM-State-Machine)
+
+Cheers!",JeffZ117,1hbjvh7,https://reddit.com/r/Python/comments/1hbjvh7/feedback_for_project_creating_conversational/,https://www.reddit.com/r/Python/comments/1hbjvh7/feedback_for_project_creating_conversational/,2024-12-11 03:02:27,0,0.5,0,0,3,0,0,False,False,True,False,False,Showcase,self,t3_1hbjvh7
+Python,Wednesday Daily Thread: Beginner questions,"# Weekly Thread: Beginner Questions 🐍
+
+Welcome to our Beginner Questions thread! Whether you're new to Python or just looking to clarify some basics, this is the thread for you.
+
+## How it Works:
+
+1. **Ask Anything**: Feel free to ask any Python-related question. There are no bad questions here!
+2. **Community Support**: Get answers and advice from the community.
+3. **Resource Sharing**: Discover tutorials, articles, and beginner-friendly resources.
+
+## Guidelines:
+
+* This thread is specifically for **beginner questions**. For more advanced queries, check out our [Advanced Questions Thread](#advanced-questions-thread-link).
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **What is the difference between a list and a tuple?**
+2. **How do I read a CSV file in Python?**
+3. **What are Python decorators and how do I use them?**
+4. **How do I install a Python package using pip?**
+5. **What is a virtual environment and why should I use one?**
+
+Let's help each other learn Python! 🌟",AutoModerator,1hbg7qh,https://reddit.com/r/Python/comments/1hbg7qh/wednesday_daily_thread_beginner_questions/,https://www.reddit.com/r/Python/comments/1hbg7qh/wednesday_daily_thread_beginner_questions/,2024-12-11 00:00:08,2,0.76,2,0,5,0,0,False,False,True,False,False,:pythonLogo: Daily Thread,self,t3_1hbg7qh
+Python,How did you finally understand classes in python? 🧐,"Ive been coding in python for quite a while now but I really dont have a clue what is going on with classes. Like why do you NEED to use the dunder methods and how exactly self works. I undertand classes enough to get by using them but I dont understand why I need to do the things I do in classes. 
+
+What made it so you finally understood what was going on in classes?",Akusoki,1hbvebc,https://reddit.com/r/Python/comments/1hbvebc/how_did_you_finally_understand_classes_in_python/,https://www.reddit.com/r/Python/comments/1hbvebc/how_did_you_finally_understand_classes_in_python/,2024-12-11 15:02:05,0,0.15,0,0,19,0,0,False,False,True,False,False,Discussion,self,t3_1hbvebc
+Python,Introducing My New Favicon Extraction Tool,"## What My Project Does
+
+I've created a tool that extracts favicons from any website. It works by parsing HTML pages, checking fallback routes for icons, and even supports inline base64-encoded images. The tool can also verify availability, guess missing icon sizes, and download the favicons for further processing. It aims to streamline favicon retrieval for web scraping, data analysis or just curious exploration.
+
+## Links
+
+- Source code: https://github.com/AlexMili/extract_favicon/
+- Documentation: https://alexmili.github.io/extract_favicon/
+
+
+## Target Audience
+
+The project is designed for developers and data enthusiasts who work with web metadata. Whether you’re building a crawler, enhancing a web directory, or simply analyzing website branding. My intention is to maintain and improve it, making it stable and ready for production use cases.
+
+
+## Comparison
+
+While there are other favicon extraction libraries out there, many of them have become unmaintained or lack features like asynchronous support, thorough availability checks, and automatic size guessing. My project is actively maintained, built with modern Python standards, and provides a more robust, flexible solution than many existing alternatives.",Beneficial_Expert448,1hbtf03,https://reddit.com/r/Python/comments/1hbtf03/introducing_my_new_favicon_extraction_tool/,https://www.reddit.com/r/Python/comments/1hbtf03/introducing_my_new_favicon_extraction_tool/,2024-12-11 13:26:32,2,1.0,2,0,0,0,0,False,False,True,False,False,Showcase,self,t3_1hbtf03
+Python,Brushless Motor with Circuit python and ESC,"Hey,
+
+  
+I'm trying to drive a brushless motor with circuit python on an Adafruit rp2040 feather. I can't seem to find a single libray or tutorial that is not Arduino to be able to drive an ESC Brushless motor",Boring_Secretary_699,1hbgx14,https://reddit.com/r/Python/comments/1hbgx14/brushless_motor_with_circuit_python_and_esc/,https://www.reddit.com/r/Python/comments/1hbgx14/brushless_motor_with_circuit_python_and_esc/,2024-12-11 00:33:05,2,0.6,2,0,3,0,0,False,False,True,False,False,Discussion,self,t3_1hbgx14
+Python,Proof of PCAP Certification?,"For those of you who have taken (and passed) the PCAP, did you receive anything other than the paper printout after the exam? (I know the PCAP isn't particularly useful, but my company offered me a 3% raise if I passed it so...) I'm just wondering if I should expect an email with some official looking certification or if I should just show the exam printout to my company.",ambassador_spock1701,1hbq85s,https://reddit.com/r/Python/comments/1hbq85s/proof_of_pcap_certification/,https://www.reddit.com/r/Python/comments/1hbq85s/proof_of_pcap_certification/,2024-12-11 10:02:42,1,0.6,1,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1hbq85s
+Python,Starting off in Python,"Why isn't import function working? A quick google says I need to write the shebang which doesn't work either. Pls help.
+
+\*\*\*@\*\*\*\*\*\* \~ % #!/usr/bin/python
+
+zsh: event not found: /usr/bin/python
+
+\*\*\*@\*\*\*\*\*\* \~ % import pandas as pd
+
+zsh: command not found: import
+
+\*\*\*@\*\*\*\*\*\*r \~ % 
+
+",Independent-Tax3836,1hbq122,https://reddit.com/r/Python/comments/1hbq122/starting_off_in_python/,https://www.reddit.com/r/Python/comments/1hbq122/starting_off_in_python/,2024-12-11 09:48:09,0,0.19,0,0,10,0,0,False,False,True,False,False,Discussion,self,t3_1hbq122
+Python,Need assistance for reviewing a python project! ASAP.,"Hello, I’ve created a project and would appreciate your assistance in checking if it’s correct or if any changes are needed. It involves time series analysis on specific data (which I’ll share in DM), along with a link to the HTML file.",_undefine,1hb6udr,https://reddit.com/r/Python/comments/1hb6udr/need_assistance_for_reviewing_a_python_project/,https://www.reddit.com/r/Python/comments/1hb6udr/need_assistance_for_reviewing_a_python_project/,2024-12-10 17:17:47,0,0.14,0,0,7,0,0,False,False,True,False,False,Discussion,self,t3_1hb6udr

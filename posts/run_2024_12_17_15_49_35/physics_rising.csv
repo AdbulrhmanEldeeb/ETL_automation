@@ -1,0 +1,54 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+Physics,"Physics Questions - Weekly Discussion Thread - December 17, 2024","This thread is a dedicated thread for you to ask and answer questions about concepts in physics.
+
+Homework problems or specific calculations may be removed by the moderators. We ask that you post these in /r/AskPhysics or /r/HomeworkHelp instead.
+
+If you find your question isn't answered here, or cannot wait for the next thread, please also try /r/AskScience and /r/AskPhysics.",AutoModerator,1hgb86w,https://reddit.com/r/Physics/comments/1hgb86w/physics_questions_weekly_discussion_thread/,https://www.reddit.com/r/Physics/comments/1hgb86w/physics_questions_weekly_discussion_thread/,2024-12-17 14:00:12,7,1.0,7,0,0,0,0,False,False,True,False,False,Meta,self,t3_1hgb86w
+Physics,Top 10 breakthroughs by physicsworld,,burner70,1hfo973,https://reddit.com/r/Physics/comments/1hfo973/top_10_breakthroughs_by_physicsworld/,https://physicsworld.com/a/top-10-breakthroughs-of-the-year-in-physics-for-2024-revealed/,2024-12-16 17:24:04,97,0.91,97,0,19,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/-0_rSj2E0AX21VCNj_PMJtSbtMxknOhubNhUbDWDgao.jpg,t3_1hfo973
+Physics,"As a physicist, what is the most profound thing that you learned",What is something that you studied that completely changed your previous conceptions of life/how things function?,rewoul,1heobgl,https://reddit.com/r/Physics/comments/1heobgl/as_a_physicist_what_is_the_most_profound_thing/,https://www.reddit.com/r/Physics/comments/1heobgl/as_a_physicist_what_is_the_most_profound_thing/,2024-12-15 08:26:08,300,0.95,300,0,278,0,0,False,False,True,False,False,,self,t3_1heobgl
+Physics,Sourcing Cosmological Data - E.g. Type Ia Supernovae Spectra &amp;  CMB ,"Hello Everyone,
+
+Not sure if this might be more suited to a more specific subreddit, but I'm sure this will one do.
+
+I'm currently in the process of studying physics and cosmology, and as someone with some programming knowledge, I thought it would be fun to calculate the age of the universe using Python with math libraries as a way to learn more. I wish to make a calculation a fair bit more precise and in line with current cosmological understanding rather than, for example, a simpler equation that assumes a constant rate of expansion.
+
+My goal is to approach the problem with as few assumptions as possible and to build the necessary mathematical models and equations from scratch (within reason). I'm particularly interested in using observational data to calculate the required cosmological parameters and ultimately the age of the universe. I'm relatively comfortable with mathematics, including intermediate calculus, which I assume will be sufficient.
+
+As a rough outline, I'm hoping to begin with plotting the Hubble diagram and determining a value for the Hubble constant using the redshift magnitude, recessional velocity, and distance data related to Type Ia supernovae; determining and refining values for a mathematical model of the expansion of the universe with the lamba-CDM model and Friedmann equations; and finally using this to make an accurate calculation. This appears to be a suitable strategy.
+
+I'm searching for sources of data that I can download and use in my calculations. I've searched [https://www.wiserep.org/search/spectra,](https://www.wiserep.org/search/spectra) which is promising but unfortunately doesn't allow me to download the data for some reason.
+
+From what I've figured so far, I'll mainly require the following data:
+
+* Spectroscopic Data - Type Ia Supernovae or Potentially Cepheid Variable - For determining the magnitude of redshift and the recessional velocity
+* B-band Magnitude Data for Distance Modulus Calculation - For the above objects (Not sure if this would normally be included)
+* Cosmic Microwave Background (CMB) - Data from the CMB that will assist in calculating/refining certain cosmological parameters, including particular density values, geometric properties of the universe, and others that are present in the Lambda-CDM model and the Friedmann equations.
+* Any other suggestions for data to collect that might assist
+
+I'm happy to share the results via a GitHub repo or something similar once completed if anyone is interested. If anyone knows any websites or other materials that I may find useful, please let me know. Also, if I'm potentially operating out of my depth with any of the material here, let me know, and I can change strategies to something a little more simple.
+
+I understand this is quite an in-depth inquiry, and I don't expect a comprehensive answer (researching myself is part of the fun), but I thought I’d reach out in case anyone has any insights or advice they’d be willing to share. Any guidance would be greatly appreciated, and I’m grateful for any help offered!",Illustrious-Deal9505,1hfb9c5,https://reddit.com/r/Physics/comments/1hfb9c5/sourcing_cosmological_data_eg_type_ia_supernovae/,https://www.reddit.com/r/Physics/comments/1hfb9c5/sourcing_cosmological_data_eg_type_ia_supernovae/,2024-12-16 04:34:53,7,0.71,7,0,6,0,0,False,False,True,False,False,,self,t3_1hfb9c5
+Physics,"If you're looking for lessons in undergraduate/graduate Physics, I've got something that might be useful!","I've been posting videos on this subreddit lately from [my channel](https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg/videos) that cover higher level Math and Physics in rigorous detail.
+
+Some popular series include:
+
+1. [Tensors](https://www.youtube.com/playlist?list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_).
+2. [Special Relativity](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CkdpdSWT9oPDSvQ8BjjNTq).
+3. [Quantum Mechanics (Background)](https://www.youtube.com/playlist?list=PLdgVBOaXkb9Bv466YnyxslT4gIlSZdtjw) and [Quantum Mechanics](https://www.youtube.com/playlist?list=PLdgVBOaXkb9AtG88OsK_c8FDEBDLCC6_9).
+4. [PDEs](https://www.youtube.com/playlist?list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD).
+
+If you're interested in any of this, I encourage you to check it out!",voteLOUUU,1hdv12a,https://reddit.com/r/Physics/comments/1hdv12a/if_youre_looking_for_lessons_in/,https://www.reddit.com/r/Physics/comments/1hdv12a/if_youre_looking_for_lessons_in/,2024-12-14 04:31:04,144,0.91,144,0,22,0,0,False,False,True,False,False,,self,t3_1hdv12a
+Physics,"Textbooks &amp; Resources - Weekly Discussion Thread - December 13, 2024","This is a thread dedicated to collating and collecting all of the great recommendations for textbooks, online lecture series, documentaries and other resources that are frequently made/requested on /r/Physics.
+
+If you're in need of something to supplement your understanding, please feel welcome to ask in the comments.
+
+Similarly, if you know of some amazing resource you would like to share, you're welcome to post it in the comments.",AutoModerator,1hdcssj,https://reddit.com/r/Physics/comments/1hdcssj/textbooks_resources_weekly_discussion_thread/,https://www.reddit.com/r/Physics/comments/1hdcssj/textbooks_resources_weekly_discussion_thread/,2024-12-13 14:00:17,11,0.78,11,0,3,0,0,False,False,True,False,False,Meta,self,t3_1hdcssj
+Physics,"Physics - Don’t Lecture, Communicate!",,jean1971,1hd847y,https://reddit.com/r/Physics/comments/1hd847y/physics_dont_lecture_communicate/,https://physics.aps.org/articles/v17/175,2024-12-13 08:47:46,33,0.68,33,0,23,0,0,False,False,False,False,False,,https://b.thumbs.redditmedia.com/Q8L7XJs98cTXA4TXNLUrEuN91K5FNZEO7sn23HC497s.jpg,t3_1hd847y
+Physics,"Careers/Education Questions - Weekly Discussion Thread - December 12, 2024","This is a dedicated thread for you to seek and provide advice concerning education and careers in physics.
+
+If you need to make an important decision regarding your future, or want to know what your options are, please feel welcome to post a comment below.
+
+A few years ago we held a graduate student panel, where many recently accepted grad students answered questions about the application process.  That [thread is here](https://www.reddit.com/r/Physics/comments/3i5d4u/graduate_student_panel_fall_2015_1_ask_your/), and has a lot of great information in it.
+
+Helpful subreddits: /r/PhysicsStudents, /r/GradSchool, /r/AskAcademia, /r/Jobs, /r/CareerGuidance",AutoModerator,1hclotr,https://reddit.com/r/Physics/comments/1hclotr/careerseducation_questions_weekly_discussion/,https://www.reddit.com/r/Physics/comments/1hclotr/careerseducation_questions_weekly_discussion/,2024-12-12 14:00:13,13,0.76,13,0,12,0,0,False,False,True,False,False,Meta,self,t3_1hclotr
+Physics,A Quiet Bias Is Keeping Black Scientists from Winning Nobel Prizes,Reposting with the link ,ThrowAway6578295729,1hdbn7f,https://reddit.com/r/Physics/comments/1hdbn7f/a_quiet_bias_is_keeping_black_scientists_from/,https://www.scientificamerican.com/article/nobel-prizes-overlook-black-scientists-because-of-this-quiet-bias/,2024-12-13 12:59:08,0,0.48,0,0,27,0,0,False,False,False,False,False,,https://a.thumbs.redditmedia.com/qXA_gFxEndirP3cW_NFLoJOUe7YS1g5sqMn5qKbc4x4.jpg,t3_1hdbn7f

@@ -1,0 +1,81 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+devops,"In the Terraform world, why is there hate with Terragrunt?","Hello all. I have been digging deeper into the realm of Terraform and have dabbled with Terragrunt in my current company. We are beginning to branch into using multiple regions in AWS and even looking into using GCP wayyy in the future. I have used Terraform AND Terragrunt for 5+ years and I must say I like Terragrunt. Terragrunt is painful if the architecture is wrong or hasn't been well thought out but if it is done right, it works awesome with Atlantis!
+
+  
+Now back to my question: Why the hate for Terragrunt? (Especially in the r/Terraform group?) I am told just use Terraform Workspaces but in my experience, Terraform Workspaces was a pain in switching to each workspace to make changes especially when it comes to version upgrades.
+
+  
+This make me look into alternatives such as Atmos, Terraspace, and Terramate; however, I really don't see any BIG differences to switching. Would like to have a discussion on this and thanks for reading.
+
+  
+And btw, we use to use TFC until they changed their rates on pricing which was CRAZY! We got quotes from TFC, Spacelift, and Env0 which was comparable. We are happy with Atlantis using OPA and would like to better improve the infrastructure :)",DopeyMcDouble,1h4gmwi,https://reddit.com/r/devops/comments/1h4gmwi/in_the_terraform_world_why_is_there_hate_with/,https://www.reddit.com/r/devops/comments/1h4gmwi/in_the_terraform_world_why_is_there_hate_with/,2024-12-01 23:20:08,74,0.94,74,0,46,0,0,False,False,True,False,False,,self,t3_1h4gmwi
+devops,"Software Engineer Jobs Report 11/30: 800 new jobs. Every week I scrape the internet for recently posted software engineer jobs. I hand pick the best ones, put them in a list, and share them to help your job search. Here is last weeks spreadsheet. Devops/Infra roles included!","Hey friends, every week I search the internet for software engineer jobs that have been recently posted on a company's career page. I collect the jobs, put them in a spreadsheet, and share them with anyone whose looking for their next role. All for free.
+
+The data is sourced by my own web scraping bots, paid sources, free sources, VC sites, and the typical job board sites. I spend an ungodly amount on the web so you don't have too!
+
+About me, I am a senior software engineer with a decade of work history, and ample job searching experience to know that its a long game and its a numbers game.
+
+If there are other roles you'd like to see, let me know in the comments.
+
+To get the nicely formatted spreadsheet, click [here](https://airtable.com/appUtw5xbKRtvsPVO/shrVGiNd5ufWaDied).
+
+If you want to read my write up, click [here](https://24hsoftwarejobs.beehiiv.com/p/jobs-report-11-27-24?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-devops-jobs-report-11-27-24).
+
+if you want to get these in an email, click [here](https://24hsoftwarejobs.beehiiv.com/subscribe?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-devops-jobs-report-11-27-24).
+
+If you want to see all previous job reports, click [here](https://24hsoftwarejobs.beehiiv.com/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-devops-jobs-report-11-27-24).
+
+Cheers!",innovatekit,1h49rv8,https://reddit.com/r/devops/comments/1h49rv8/software_engineer_jobs_report_1130_800_new_jobs/,https://www.reddit.com/r/devops/comments/1h49rv8/software_engineer_jobs_report_1130_800_new_jobs/,2024-12-01 18:26:31,45,0.88,45,0,3,0,0,False,False,True,False,False,,self,t3_1h49rv8
+devops,Incase someone forgot - The Linux Foundation Cyber Monday deals,https://training.linuxfoundation.org/cyber-monday-2024/,Yourwaterdealer,1h4q2ki,https://reddit.com/r/devops/comments/1h4q2ki/incase_someone_forgot_the_linux_foundation_cyber/,https://www.reddit.com/r/devops/comments/1h4q2ki/incase_someone_forgot_the_linux_foundation_cyber/,2024-12-02 08:01:11,39,0.9,39,0,6,0,0,False,False,True,False,False,,self,t3_1h4q2ki
+devops,Best-Practice for On-Prem Website CI/CD,"Hi everybody, 
+
+I have a Django-based website that I would like to deploy on an self-hosted VM. I now wonder what would be a best practice way to do this automatically with a CI/CD pipeline. My initial idea would be to have the VM as a Github Actions runner that pulls the latest build and controls the restart of the service. 
+
+Would this suck for some reason?",Kornfried,1h49j9b,https://reddit.com/r/devops/comments/1h49j9b/bestpractice_for_onprem_website_cicd/,https://www.reddit.com/r/devops/comments/1h49j9b/bestpractice_for_onprem_website_cicd/,2024-12-01 18:16:20,3,1.0,3,0,6,0,0,False,False,True,False,False,,self,t3_1h49j9b
+devops,Log comparison tool,"Are there any tools which can analyse logs from different runs of the same pipeline, and identify stages (by fuzzy matching common strings), then detect anomalies, like certain stages taking a long time or not being present?",wedgelordantilles,1h4sfly,https://reddit.com/r/devops/comments/1h4sfly/log_comparison_tool/,https://www.reddit.com/r/devops/comments/1h4sfly/log_comparison_tool/,2024-12-02 10:59:06,2,1.0,2,0,1,0,0,False,False,True,False,False,,self,t3_1h4sfly
+devops,Design and Knowledge Mgmt. Recommendations?,"Hi, we’re designing a new web application and I was wondering if anyone could suggest a design or knowledge management solution that’s particularly robust. We have git repos and lots of google sheets/presentations currently. However I’d like to build out something more “sustainable” where we can keep documentation around multiple phases. 
+
+Based on some searching in this subreddit it looks like a lot of people are doing KM in markup or their repo. It looks like a lot of mind maps and diagrams. I see references to Confluence and Bookstack, although I was hoping to self host something open source that I could adapt over time. 
+
+I’m thinking about spinning up a Dokuwiki to house everything but I thought I’d ask the community if there was something out there that people really like.
+
+Any help would be appreciated! Thank you! ",10drinkminimum,1h4wc00,https://reddit.com/r/devops/comments/1h4wc00/design_and_knowledge_mgmt_recommendations/,https://www.reddit.com/r/devops/comments/1h4wc00/design_and_knowledge_mgmt_recommendations/,2024-12-02 14:35:53,1,1.0,1,0,0,0,0,False,False,True,False,False,,self,t3_1h4wc00
+devops,Dagger Pipelines - Help Needed,"Hi Everyone,    
+I""m trying to setup Dagger pipelines, for a simple Github Actions YAML flow , as an attempt to carry out a POC, 
+
+Now what i'm confused with is , I see most folks have organised it in one of the 2 ways - 
+
+**Method 1 - dagger init --sdk=go -** 
+
+This creates a dagger/ folder, and then gives me a **main.go -** with the 2 template functions, and then we've gotta modify , the traditional methods.
+
+**Method 2 - Just place go-pipeline.go, in project root directory** 
+
+  
+**My doubts are -**   
+**-** What is the right way?  
+\- When to use both?   
+\- And if I have **dagger functions** showing me 5 functions , for example ( lint , unit-test , e2e-test, build, publish) - i'm aware how we can call them independently with **dagger call** , but - what's the equivalent of running them all at once sequentially? (**the equivalent of - make all )** ",console_fulcrum,1h4nzc2,https://reddit.com/r/devops/comments/1h4nzc2/dagger_pipelines_help_needed/,https://www.reddit.com/r/devops/comments/1h4nzc2/dagger_pipelines_help_needed/,2024-12-02 05:39:44,0,0.5,0,0,0,0,0,False,False,True,False,False,,self,t3_1h4nzc2
+devops,Devops internship opportunity ,"I am a graduate of the software engineering and currently on a masters in cyber security. I have internship experience as mern  stack
+developer. I have taken some courses on devops and also work on some projects with tools like; AWS, jenkins, docker, Kubernetes, ArgoCD, sonaqube, version control . I also have some experience in writing standard docs for APIs with openApi specification. am looking for a remote internship opportunity in any time zone and any company size",Ready-Worldliness-39,1h45a9i,https://reddit.com/r/devops/comments/1h45a9i/devops_internship_opportunity/,https://www.reddit.com/r/devops/comments/1h45a9i/devops_internship_opportunity/,2024-12-01 15:09:45,0,0.47,0,0,1,0,0,False,False,True,False,False,,self,t3_1h45a9i
+devops,DevOps role as a fresh grad,"Which companies hire a fresh grade for devops role? 
+
+A non-circuial(cs) + guy. 
+
+Have some real world experience in the field with internships and projects deployed at a decent scale on college level (IIT KGP). Also, have a strong foundation on cs fundamentals.
+
+Was shortlisted for squarepoint capital for on campus hiring. Had 2 interviews, both went very good. Got rejected, expecting non-cs to be the reason or maybe the other guy must have been way better.",proffapt,1h4q0z8,https://reddit.com/r/devops/comments/1h4q0z8/devops_role_as_a_fresh_grad/,https://www.reddit.com/r/devops/comments/1h4q0z8/devops_role_as_a_fresh_grad/,2024-12-02 07:57:59,0,0.22,0,0,1,0,0,False,False,True,False,False,,self,t3_1h4q0z8
+devops,Switching from qa to devops ,"Hi all, 
+
+I have 8 yrs of experience in qa. I have started preparing for devops. It’s very interesting to learn unlike qa. No prior experience as devops, worked on automation with selenium. How do I make a transition without prior experience and also how much salary I can expect. 
+",Environmental-Spot-6,1h47djs,https://reddit.com/r/devops/comments/1h47djs/switching_from_qa_to_devops/,https://www.reddit.com/r/devops/comments/1h47djs/switching_from_qa_to_devops/,2024-12-01 16:44:23,0,0.2,0,0,6,0,0,False,False,True,False,False,,self,t3_1h47djs
+devops,From Tech Enthusiast to Consultant: How Can I Monetize My 500k+ Engagement Momentum?,"I’ve been actively engaging with the tech community on Reddit and [Medium](https://medium.com/@rasvihostings), writing articles and sharing tech news for the past week. The response has been incredible—my posts have garnered over 100k engagements so far, with one of my recent posts alone pulling in nearly 50k views. This has also resulted in one confirmed lead and three strong potentials for collaboration.
+
+As a tech professional myself, I’m now exploring the idea of creating a consulting firm or partnering with a promising startup. I want to leverage my skills in both technical domains and media/marketing to drive growth and engagement for innovative products.
+
+With this momentum, I’m looking for advice: **How can I effectively monetize this reach and engagement?** Whether through collaborations, consulting, or content strategy, I’d love to hear insights from those who’ve been in similar spaces!
+
+12 years of experince in software engineering and SRE and platfrom engineeirng  
+Looking enterpise sales guy or tech guy who already have a solid product (so I can do sales part)
+
+[https://medium.com/@rasvihostings](https://medium.com/@rasvihostings)",rasvi786,1h485m9,https://reddit.com/r/devops/comments/1h485m9/from_tech_enthusiast_to_consultant_how_can_i/,https://www.reddit.com/r/devops/comments/1h485m9/from_tech_enthusiast_to_consultant_how_can_i/,2024-12-01 17:18:07,0,0.33,0,0,3,0,0,False,False,True,False,False,,self,t3_1h485m9

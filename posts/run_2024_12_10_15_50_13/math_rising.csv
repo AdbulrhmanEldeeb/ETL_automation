@@ -1,0 +1,73 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+math,When did your obsession with mathematics begin and how do you indulge in it now?,,petrastales,1hb43gs,https://reddit.com/r/math/comments/1hb43gs/when_did_your_obsession_with_mathematics_begin/,https://www.reddit.com/r/math/comments/1hb43gs/when_did_your_obsession_with_mathematics_begin/,2024-12-10 15:19:28,12,0.93,12,0,0,0,0,False,False,True,False,False,,,t3_1hb43gs
+math,When did you feel the worst about your skills in math?,If you look at that one popular curve representing the Dunning Krueger effect you could notice a point of slope 0. When did you feel it and how do you feel now?,deilol_usero_croco,1hb3gqg,https://reddit.com/r/math/comments/1hb3gqg/when_did_you_feel_the_worst_about_your_skills_in/,https://www.reddit.com/r/math/comments/1hb3gqg/when_did_you_feel_the_worst_about_your_skills_in/,2024-12-10 14:51:33,0,0.5,0,0,7,0,0,False,False,True,False,False,,,t3_1hb3gqg
+math,Is there a place to learn probability theory without all the handwaving and abuse of notation?,"My biggest problem in learning probability theory is how FUCKED UP the use of language and notation is in this field. The same symbol is used for various things without being changed and you're just supposed to get it from context. I HATE it.
+
+Is something a function? A scalar? A process? Who knows, we just call it p(x|y) and keep everyone guessing. And definitions? Who needs those? 
+
+I yearn for the clarity of regular maths, where you define f to be a function from set X to set Y and that's all that it is. f is the function. f(x) is the value in Y that f evaluates x to.
+
+I can understand the stuff often enough, but only AFTER I've put in the work to pick apart what the author meant by their statement. But if I wanted to do literary interpretation I would study literature and not maths. 
+
+I honestly can't believe that throughout all of my online and university exposition to probability theory I have never once encountered someone doing it with sensible, understandable notation. It's all just quick squiggles and handwaving. I get it, I'm a lazy fuck too, but for FUCKS sake... 
+
+Is there some place for learning probability theory that uses notation or even just a system of notation without teaching material that is not so god-damn AMBIGUOUS???
+
+EDIT: yes, this is from a comp sci perspective",Asocial_Stoner,1hazs64,https://reddit.com/r/math/comments/1hazs64/is_there_a_place_to_learn_probability_theory/,https://www.reddit.com/r/math/comments/1hazs64/is_there_a_place_to_learn_probability_theory/,2024-12-10 11:34:25,47,0.73,47,0,31,0,0,False,False,True,False,False,,,t3_1hazs64
+math,Does it ever happen to you to look at a proof and think “damn how did they even come up with this “,"I’m a math student and it is happening increasingly often to me to look at strange proofs and think “damn how smart are they to come up with this”. At some points is not even mathematical knowledge is just being extremely smart. 
+And I am an undergraduate student I can’t imagine what phd level must look like. Do you ever feel like you will never be as smart as those people who came up with the proof?",Sl3n_is_cool,1hanafp,https://reddit.com/r/math/comments/1hanafp/does_it_ever_happen_to_you_to_look_at_a_proof_and/,https://www.reddit.com/r/math/comments/1hanafp/does_it_ever_happen_to_you_to_look_at_a_proof_and/,2024-12-09 23:10:15,316,0.98,316,0,58,0,0,False,False,True,False,False,,,t3_1hanafp
+math,"if f(f(x)) = ln(x), what is f(x)? Can such a function even be defined?","I was thinking about the idea of a function that lies halfway between x and ln(x), such that when it is composed with itself, the result is the natural logarithm function.  When trying to define this function I ran into some seeming paradoxes.
+
+ln(1) = 0, thus f(f(1)) = 0.  Let us define c such that f(1) = c, and f(c) = 0.  
+
+If c were 0, then f(f(c)) is undefined, as ln(0) is undefined.  But then this means that f(0) is 0, per the above definition that f(c) = 0.  Thus c cannot be zero, as this would lead to the statement that f(f(0)) = 0, i.e. ln(0) = 0, where it is actually undefined.
+
+So, we know c cannot be zero.  Thus it must be some non-zero number such that f(c) = 0.  But then what is ln(c)?  This can be expressed as f(f(c)), or f(0).
+
+So, thus far, we can express the results of the f being composed up to 4 times with x as 1, remembering that f^2(x) = ln(x):
+
+f^0 (1) = 1
+
+f^1 (1) = c
+
+f^2 (1) = 0
+
+f^3 (1) = ln(c)
+
+f^4 (1) = undefined
+
+f^5 (1) = ln(ln(c)) and undefined.
+
+This fifth power is undefined because f(undefined) can not be defined.  But since it is also ln(ln(c)), and ln(x) is only undefined on 0, ln(c) must be 0.  Thus c must be 1.
+
+This leads to a contradiction, though, as this means f(1) = 1.  Thus f(f(1)) is also 1, but we know it must be 0.
+
+Is there a fault in my logic somewhere?",sacrelicious2,1hawlpj,https://reddit.com/r/math/comments/1hawlpj/if_ffx_lnx_what_is_fx_can_such_a_function_even_be/,https://www.reddit.com/r/math/comments/1hawlpj/if_ffx_lnx_what_is_fx_can_such_a_function_even_be/,2024-12-10 07:37:07,55,0.86,55,0,18,0,0,False,False,True,False,False,,,t3_1hawlpj
+math,Analytic number theory makes no sense.,"When I tried to learn analytic number theory using textbooks, all I see is a bunch of random unmotivated computations, and I have no idea how on earth someone would ever come up with that. The textbook I'm using (Apostol) doesn't give me any clue on what the main idea of the proofs are.
+
+How do I fix this feeling? Is there a better textbook/reference that tells me main idea and intuition for the proofs? Or is it something I'll just have to suffer through and find the intuition myself?",zongshu,1har5cf,https://reddit.com/r/math/comments/1har5cf/analytic_number_theory_makes_no_sense/,https://www.reddit.com/r/math/comments/1har5cf/analytic_number_theory_makes_no_sense/,2024-12-10 02:16:51,58,0.94,58,0,21,0,0,False,False,True,False,False,,,t3_1har5cf
+math,Examples of math that has been discovered as a result of studying string theory?,"I’m writing an essay for a history of science class, and need some examples. ",That1__Person,1havfps,https://reddit.com/r/math/comments/1havfps/examples_of_math_that_has_been_discovered_as_a/,https://www.reddit.com/r/math/comments/1havfps/examples_of_math_that_has_been_discovered_as_a/,2024-12-10 06:16:33,18,0.83,18,0,9,0,0,False,False,True,False,False,,,t3_1havfps
+math,Rebuilding my dad's math library,"So my dad got his B.S. (Augustana College, Sioux Falls) and Master's (University of North Dakota) in math in the 1960s, and then he taught briefly (Minot State College). He was drafted into the Army, met my mom, got married, and went to work for the state of South Dakota where he spent his career doing statistical analysis and projections.
+
+He kept his student textbooks as well as the freebies publishers sent him when he was teaching. At least he kept them up until he and my mom moved. At that point he chucked the books.
+
+I was a bit disappointed by this at the time, but I didn't think too much about it. 
+
+However, my dad passed away in February, and since I can't spend time with him anymore, I've been trying to reassemble the shelf of books he kept. At least those that I remember. It's a way of spending time with him after a fashion, or at least with his past.
+
+Anyway, most of the books I remember are here: [https://archive.org/details/fav-richard\_jensen](https://archive.org/details/fav-richard_jensen)
+
+(Side note: my dad probably would've offered me the books rather than tossing them if he knew that I had such strong memories of them. I was, frankly, fascinated by these books as a little kid--I was a precocious reader, and these books suggested a whole new world to explore, if only I could figure out what all those symbols meant).
+
+Most of these books are readily available from eBay, AbeBooks, etc., and I've made a start getting them.
+
+However, I'm looking for community help with a few titles... *Basic College Algebra* by William LeRoy Hart ( [https://archive.org/details/basiccollegealge0000hart](https://archive.org/details/basiccollegealge0000hart) ) is nowhere to be found. Likewise, the Study Guide for Munem's *Intermediate Algebra* ( [https://archive.org/details/studyguideforint0000mune](https://archive.org/details/studyguideforint0000mune) ), and Elbridge Vance's *Modern Algebra and Trigonometry* ( [https://archive.org/details/modernalgebratri02edunse](https://archive.org/details/modernalgebratri02edunse) ).
+
+If anyone has any suggestions on how I can find these books, that would be much appreciated!
+
+The silly thing is I already know most of what's in these books--they offer nothing new *now*, but they're a link to my dad that I want to rebuild.
+
+(P.S. I realize that Reddit is not exactly the forum for this sort of thing, but posting a ""Looking to buy"" ad on Facebook or Craigslist with these books listed is about as likely to succeed as standing on a street corner and shouting the list into the air.)",richardajensen,1hae8y8,https://reddit.com/r/math/comments/1hae8y8/rebuilding_my_dads_math_library/,https://www.reddit.com/r/math/comments/1hae8y8/rebuilding_my_dads_math_library/,2024-12-09 16:54:27,94,0.99,94,0,9,0,0,False,False,True,False,False,,,t3_1hae8y8
+math,Proof of infinitely many prime numbers from the Euler product of the zeta function?,"I was working on something and I wanted to know if the fact that zeta(1) is infinity (the harmonic series diverges) plus the fact that the Euler product is over the prime numbers, proves that there are infinitely many prime numbers or does it only imply it? Why is it one case over the other and what would one need to show that it proves it in addition? Thank you!",Jhonny_Rock,1haq1if,https://reddit.com/r/math/comments/1haq1if/proof_of_infinitely_many_prime_numbers_from_the/,https://www.reddit.com/r/math/comments/1haq1if/proof_of_infinitely_many_prime_numbers_from_the/,2024-12-10 01:20:23,9,0.74,9,0,14,0,0,False,False,True,False,False,,,t3_1haq1if
+math,"What are all the contexts of ""linear"" in math?","Like, linear algebra, nonlinear dynamics, a linear system of equations. Are these all the same ""linear?"" Are there other contexts in which linear can exist as well?",YourMother16,1ha8x9v,https://reddit.com/r/math/comments/1ha8x9v/what_are_all_the_contexts_of_linear_in_math/,https://www.reddit.com/r/math/comments/1ha8x9v/what_are_all_the_contexts_of_linear_in_math/,2024-12-09 12:46:18,79,0.88,79,0,52,0,0,False,False,True,False,False,,,t3_1ha8x9v
+math,Can set nestings be infinitely deep?,"From what i understand, ZFC tells you how can create new sets from existing sets using the empty set as a base. This also allows sets to be nested in all kinds way which is used for the construction of the number systems for example. Now im wondering whether such a nesting can be infinitely deep. So for example, does the set {{...{{\emptyset}}..}} with infinitely many braces exist? Im pretty sure the answer is no but if so, are there systems where this is possible?",Savings_Garlic5498,1haa513,https://reddit.com/r/math/comments/1haa513/can_set_nestings_be_infinitely_deep/,https://www.reddit.com/r/math/comments/1haa513/can_set_nestings_be_infinitely_deep/,2024-12-09 13:50:36,45,0.84,45,0,35,0,0,False,False,True,False,False,,,t3_1haa513

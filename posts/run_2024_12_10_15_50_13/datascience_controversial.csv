@@ -1,0 +1,59 @@
+subreddit,title,selftext,author,id,permalink,url,created_utc,score,upvote_ratio,ups,downs,num_comments,total_awards_received,gilded,is_video,is_original_content,is_self,over_18,spoiler,link_flair_text,thumbnail,name
+datascience,The pandas MemoryError,"I’ve been programming for data analysis for about 5 years, but I’ve never found an easy way to handle this. 
+
+With my old beat up Dell Latitude, anything over ~100,000 rows if a sparse df tends to throw the dreaded Memory Error, specifically with functions like get dummies, indexing, merging, etc. 
+
+My questions are:
+1. Will a better laptop help with this?
+2. Are there any modules or helper functions for this out there? 
+3. How much does using colab help with this problem? Trying to avoid paying more.
+
+TIA!",SingerEast1469,1hb0kqh,https://reddit.com/r/datascience/comments/1hb0kqh/the_pandas_memoryerror/,https://www.reddit.com/r/datascience/comments/1hb0kqh/the_pandas_memoryerror/,2024-12-10 12:24:28,8,0.79,8,0,20,0,0,False,False,True,False,False,Discussion,self,t3_1hb0kqh
+datascience,entering parameters+executing R without accessing R,"I am preparing a script for my team  (shiny or rmarkdown) where they have to enter some parameters then execute it ( and have maybe executions steps shown). I don t want them to open R or access the script.
+1) How can I do that?
+2) is it dangerous security wise with a markdown knit to html? and with shiny is it safe? I don t know exactly what happens with the online, server thing?
+3) is it okay to have a password passed in the parameters, I know about the Rprofile, but what are the risks?
+thanks",Due-Duty961,1hacmoc,https://reddit.com/r/datascience/comments/1hacmoc/entering_parametersexecuting_r_without_accessing_r/,https://www.reddit.com/r/datascience/comments/1hacmoc/entering_parametersexecuting_r_without_accessing_r/,2024-12-09 15:45:38,4,0.7,4,0,1,0,0,False,False,True,False,False,Tools,self,t3_1hacmoc
+datascience,Is LeetCode or HackerRank actually worth it for ML/DS jobs?,"I’m an undergrad trying to break into Data Science/ML roles, and I’m not sure if spending time on LeetCode or HackerRank is really worth it. A lot of the problems feel more geared toward software dev interviews, and I’m wondering if that’s the best use of time for DS/ML jobs.
+
+Wouldn’t working on projects or learning tools like TensorFlow or PyTorch be more valuable? Has anyone here actually benefited from doing LeetCode/HackerRank for DS/ML roles, or is it overhyped for this field?",No-Brilliant6770,1haneem,https://reddit.com/r/datascience/comments/1haneem/is_leetcode_or_hackerrank_actually_worth_it_for/,https://www.reddit.com/r/datascience/comments/1haneem/is_leetcode_or_hackerrank_actually_worth_it_for/,2024-12-09 23:15:23,49,0.88,49,0,31,0,0,False,False,True,False,False,Discussion,self,t3_1haneem
+datascience,Master Data science vs Quantitative Finance ,"Major data science vs Quantitative Finance
+
+Hi, 
+I am currently studying the bachelor Econometrics in The Netherlands and next year I will need to choose a master to pursue. My main doubt is, as you can see from the title, between data science (which is a bit outside my bachelor) and quantitative finance. 
+
+On the one hand I may be a bit more interested in data science, but on the other hand I have the feeling that I will ‘throw away’ my Econometrics bachelor that is quite unique. From my point of view data science is followed by many people, also people from lower wage countries, while quantitative finance is a master that not many people follow. 
+
+That’s why I’m curious what other people think about this, will I be going the wrong path if I choose data science which is pursued by many students overall, should I stick to the specific field of quantitative finance or will it not matter?",RelationshipParty749,1hb2048,https://reddit.com/r/datascience/comments/1hb2048/master_data_science_vs_quantitative_finance/,https://www.reddit.com/r/datascience/comments/1hb2048/master_data_science_vs_quantitative_finance/,2024-12-10 13:42:11,1,0.67,1,0,5,0,0,False,False,True,False,False,Discussion,self,t3_1hb2048
+datascience,How do you keep up with all the tools?,Plenty of tools are popping on a regular basis. How do you do to keep up with them? Do you test them all the time? do you have a specific team/person/part of your time dedicated to this? Do you listen to podcasts or watch specific youtube chanels?,EquivalentNewt5236,1haeip6,https://reddit.com/r/datascience/comments/1haeip6/how_do_you_keep_up_with_all_the_tools/,https://www.reddit.com/r/datascience/comments/1haeip6/how_do_you_keep_up_with_all_the_tools/,2024-12-09 17:05:07,27,0.88,27,0,13,0,0,False,False,True,False,False,Tools,self,t3_1haeip6
+datascience,Thoughts on the ethics of health insurance companies using Data Science to increase profits based on selective coverage ,"I want to have a good discussion on this topic since no one is talking about it outside of just the context of a CEO making decisions, but as a lot of us know, company decisions and strategy are driven by the suits(board) and the higher ups a lot of times, and that strategy is trickled down to the analysts and other groups forming projects to support the strategic initiative. I think not talking about this from a data science perspective is an ethics violation because we as practitioners can make the decision to not engage or pursue a project just because “I have a boss and they told me I need to because it aligns with our strategy.” I personally have quit a job in the past because the ethics of the CV models we were creating dawned on me and didn’t make me feel right. Sure I could validate it by saying I was only creating a small part of the software system, the reality is I knew the end goal and was actively participating in the development of a system that could be used for an ethically questionable use case. 
+
+The possibility of UHCs actuarial science, analysts, and Data Scientists developing models to contribute to the strategy of increased profits and increased denials should be questioned. And I know “denial rates” aren’t apples to apples as back office rev cycle management people could wrongfully code a claim which can cause it to be denied. I’m talking more from a targeted perspective. Actuaries that work in insurance are very smart, but I want to get some insight about the specifics of what goes on from a health insurance perspective when they are denying a claim. 
+
+I would love to hear perspectives from both sides, especially those who may have worked in the industry. ",sambrojangles,1haqdhq,https://reddit.com/r/datascience/comments/1haqdhq/thoughts_on_the_ethics_of_health_insurance/,https://www.reddit.com/r/datascience/comments/1haqdhq/thoughts_on_the_ethics_of_health_insurance/,2024-12-10 01:37:09,198,0.93,198,0,74,0,0,False,False,True,False,False,Ethics/Privacy,self,t3_1haqdhq
+datascience,Real time predictions of custom models &amp; aws,"I am someone who is trying to learn how to deploy machine learning models in real time. As of now the current pain points is that my team uses pmmls and java code to deploy models in production. The problem is that the team develops the code in python then rewrites it in java. I think its a lot of extra work and can get out of hand very quickly. 
+
+
+My proposal is to try to make a docker container and then try to figure out how to deploy the scoring model with the python code for feature engineering.
+
+We do have a java application that actually decisions on the models and want our solutions to be fast.
+
+Where can i learn more about how to deploy this and what type of format do i need to deploy my models? I heard that json is better for security reasons but i am not sure how flexible it is as pmmls are pretty hard to work with when it comes to running the transformation from python pickle to pmmls for very niche modules/custom transformers. 
+
+If someone can help explain exactly the workflow that would be very helpful. This is all going to use aws at the end to decision on it.",JobIsAss,1hankc7,https://reddit.com/r/datascience/comments/1hankc7/real_time_predictions_of_custom_models_aws/,https://www.reddit.com/r/datascience/comments/1hankc7/real_time_predictions_of_custom_models_aws/,2024-12-09 23:22:54,6,0.88,6,0,1,0,0,False,False,True,False,False,ML,self,t3_1hankc7
+datascience,Hierarchical Time Series Forecasting,Anyone here done work for forecasting grouped time series? I checked out the hyndman book but looking for papers or other more technical resources to guide methodology. I’m curious about how you decided on the top down vs bottom up approach to reconciliation. I was originally building out a hierarchical model in STAN but wondering what others use in terms of software as well.,AdFew4357,1hb2qbb,https://reddit.com/r/datascience/comments/1hb2qbb/hierarchical_time_series_forecasting/,https://www.reddit.com/r/datascience/comments/1hb2qbb/hierarchical_time_series_forecasting/,2024-12-10 14:16:58,10,1.0,10,0,3,0,0,False,False,True,False,False,Tools,self,t3_1hb2qbb
+datascience,SUMO/VISSIM for traffic condition simulation,"Hi team!
+
+As I have no experience with AI and predictive models for trafic management, I’m not sure how to simulate current traffic conditions in an urban city (or portion of it) without VS with implementation of IoT and AI.
+
+Any good resources or advice?
+
+Also, if anyone with first hand experience is interested, I would love to have a quick interview discussion, 15-20mins max, for qualitative analysis :)",1ZeM,1hakhka,https://reddit.com/r/datascience/comments/1hakhka/sumovissim_for_traffic_condition_simulation/,https://www.reddit.com/r/datascience/comments/1hakhka/sumovissim_for_traffic_condition_simulation/,2024-12-09 21:09:48,3,1.0,3,0,1,0,0,False,False,True,False,False,Projects,self,t3_1hakhka
+datascience,How can a webdev help DS?,"Hello y'all. My expertise is between DS and full stack dev, but usually its been one or the other. 
+
+What would your ideas be on how I can leverage my webdev skills to collaborate with other DSs in my team?
+
+Context is supply chain, and there's some reasonable freedom to initiate projects",Berlibur,1haig7e,https://reddit.com/r/datascience/comments/1haig7e/how_can_a_webdev_help_ds/,https://www.reddit.com/r/datascience/comments/1haig7e/how_can_a_webdev_help_ds/,2024-12-09 19:45:19,5,1.0,5,0,1,0,0,False,False,True,False,False,Discussion,self,t3_1haig7e
+datascience,Customer Life Time Value Applications,"At work I’m developing models to estimate customer lifetime value for a subscription or one-off product. It actually works pretty well. Now, I have found plenty of information on the modeling itself, but not much on how businesses apply these insights. 
+
+The models essentially say, “If nothing changes, here’s what your customers are worth.” I’d love to find examples or resources showing how companies actually use LTV predictions in production and how they turn the results into actionable value. Do you target different deciles of LTV with different campaigns? do you just use it for analytics purposes? ",Attol8,1haf05c,https://reddit.com/r/datascience/comments/1haf05c/customer_life_time_value_applications/,https://www.reddit.com/r/datascience/comments/1haf05c/customer_life_time_value_applications/,2024-12-09 17:24:56,24,1.0,24,0,18,0,0,False,False,True,False,False,ML,self,t3_1haf05c
